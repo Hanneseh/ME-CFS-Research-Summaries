@@ -96,7 +96,7 @@ Der Weg nach vorn konzentriert sich stark auf die Präzisionsmedizin, bei der ne
     - **Autoren:** Boutin, Thibaud; Bretherick, Andrew D.; Dibble, Joshua J.
     - **Institute:** MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh; Pain Service, NHS Tayside, Ninewells Hospital; c/o DecodeME, MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh.
     - **Veröffentlicht in:** Preprint
-    - **Link:** [OSF](https://osf.io/rggs3/)
+    - **Link:** [DOI](https://doi.org/10.1101/2025.08.06.25333109)
 - **Was wurde untersucht?**
 Diese Studie zielte darauf ab, häufige genetische Varianten zu identifizieren, die mit Myalgischer Enzephalomyelitis / Chronischem Fatigue-Syndrom (ME/CFS) assoziiert sind. Durch eine große genomweite Assoziationsstudie (GWAS) verglichen die Forschenden die DNA von Tausenden von ME/CFS-Patienten mit einer großen Population gesunder Kontrollpersonen, um genetische Risikofaktoren zu finden, die auf die zugrundeliegenden biologischen Mechanismen der Krankheit hinweisen könnten.
 - **Warum wurde dies untersucht?**

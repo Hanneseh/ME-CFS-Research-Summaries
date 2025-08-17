@@ -94,7 +94,7 @@ Scientists found that red blood cells from ME/CFS patients struggle to speed up 
     - **Authors:** Boutin, Thibaud; Bretherick, Andrew D.; Dibble, Joshua J.
     - **Institutes:** MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh; Pain Service, NHS Tayside, Ninewells Hospital; c/o DecodeME, MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh.
     - **Publisher:** Preprint
-    - **Link:** [OSF](https://osf.io/rggs3/)
+    - **Link:** [DOI](https://doi.org/10.1101/2025.08.06.25333109)
 - **What was researched?**
 This study aimed to identify common genetic variants associated with Myalgic Encephalomyelitis / Chronic Fatigue Syndrome (ME/CFS). By conducting a large genome-wide association study (GWAS), researchers compared the DNA of thousands of ME/CFS patients with a large population of healthy controls to find genetic risk factors that could point to the underlying biological mechanisms of the disease.
 - **Why was it researched?**
