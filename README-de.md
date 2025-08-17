@@ -12,7 +12,7 @@ Um den Lesern zu helfen, auf dem Laufenden zu bleiben, erstelle ich regelmäßig
 
 Ich habe dieses Repository zusammen mit den KI-Prompts öffentlich gemacht, damit du den Fortschritt selbst verfolgen kannst. Wenn du der Meinung bist, dass eine wichtige Studie fehlt oder du beitragen möchtest, eröffne bitte ein Issue oder einen Pull Request.
 
-Dieses Repository dient ausschließlich zu Informationszwecken und stellt keine medizinische Beratung dar. Konsultiere für Diagnose und Behandlung immer einen qualifizierten Arzt oder eine qualifizierte Ärztin.
+**Haftungsausschluss:** Dieses Repository dient ausschließlich zu Informationszwecken und stellt keine medizinische Beratung dar. Die Zusammenfassungen können Fehler oder Auslassungen enthalten, einschließlich solcher, die durch KI-generierte Inhalte entstanden sind. Es wird keine Verantwortung für sachliche Unrichtigkeiten übernommen. Dies ist keine vollständige oder abschließende Liste aller veröffentlichten Forschungsergebnisse zu ME/CFS oder verwandten Erkrankungen. Für Diagnose und Behandlung konsultiere immer eine qualifizierte Ärztin oder einen qualifizierten Arzt.
 
 ## Forschungszusammenfassungen
 

@@ -12,7 +12,7 @@ To help readers keep up with the latest developments, I regularly compile resear
 
 I've made this repository, along with the AI prompts, public so you can follow the progress yourself. If you believe an important study is missing or wish to contribute, please open an Issue or a Pull Request.
 
-This repository is for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare professional for diagnosis and treatment.
+**Disclaimer:** This repository is for informational purposes only and does not constitute medical advice. The summaries may contain errors or omissions, including those introduced by AI-generated content. No responsibility is taken for factual inaccuracies. This is not a comprehensive or exhaustive list of all published research on ME/CFS or related conditions. Always consult with a qualified healthcare professional for diagnosis
 
 ## Research Summaries
 
