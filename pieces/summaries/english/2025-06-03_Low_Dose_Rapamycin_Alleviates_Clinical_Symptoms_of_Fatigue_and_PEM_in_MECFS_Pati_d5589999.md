@@ -1,9 +1,9 @@
 ### 2025-06-03 Low Dose Rapamycin Alleviates Clinical Symptoms of Fatigue and PEM in ME/CFS Patients via Improvement of Autophagy
 - **Metadata:**
-    - **Authors:** Brian T. Ruan, Sarojini Bulbule, Amy Reyes, Bela Chheda, Lucinda Bateman, Jennifer Bell, Braydon Yellman, Stephanie Grach, Jon Berner, Daniel L. Peterson, David Kaufman, AVIK ROY, C. Gunnar Gottschalk.
-    - **Institutes:** Cornell University, Simmaron Research INC, University of Wisconsin-Milwaukee, Center for Complex Diseases (Palo Alto, CA, and Seattle, WA), Bateman Horne Center, Mayo Clinic Research Rochester, Woodinville psychiatric Associates, Sierra Internal Medicine.
-    - **Publisher:** Research Square (Preprint).
-    - **Link:** [DOI](https://doi.org/10.21203/rs.3.rs-6596158/v1)
+  - **Authors:** Brian T. Ruan, Sarojini Bulbule, Amy Reyes, Bela Chheda, Lucinda Bateman, Jennifer Bell, Braydon Yellman, Stephanie Grach, Jon Berner, Daniel L. Peterson, David Kaufman, AVIK ROY, C. Gunnar Gottschalk.
+  - **Institutes:** Cornell University, Simmaron Research INC, University of Wisconsin-Milwaukee, Center for Complex Diseases (Palo Alto, CA, and Seattle, WA), Bateman Horne Center, Mayo Clinic Research Rochester, Woodinville psychiatric Associates, Sierra Internal Medicine.
+  - **Publisher:** Research Square (Preprint).
+  - **Link:** [DOI](https://doi.org/10.21203/rs.3.rs-6596158/v1)
 - **What was researched?**
 This study investigated the safety and efficacy of low-dose rapamycin, an mTOR inhibitor, for treating core symptoms of ME/CFS. The researchers also examined whether clinical improvements correlated with changes in blood-based biomarkers related to autophagy, a cellular self-cleaning process.
 - **Why was it researched?**
