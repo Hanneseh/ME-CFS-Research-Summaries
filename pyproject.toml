@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "me-cfs-research-summaries"
+version = "0.1.0"
+description = ""
+authors = ["Hannes Ehringfeld <Hannes.Ehringfeld@gmx.de>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

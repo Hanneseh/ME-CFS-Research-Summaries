@@ -14,10 +14,40 @@ I've made this repository, along with the AI prompts, public so you can follow t
 
 **Disclaimer:** This repository is for informational purposes only and does not constitute medical advice. The summaries may contain errors or omissions, including those introduced by AI-generated content. No responsibility is taken for factual inaccuracies. This is not a comprehensive or exhaustive list of all published research on ME/CFS or related conditions. Always consult with a qualified healthcare professional for diagnosis
 
-## Research Summaries
+## Table of Contents
+- [ME/CFS Research Summaries](#mecfs-research-summaries)
+  - [Introduction](#introduction)
+  - [Table of Contents](#table-of-contents)
+    - [🎯 2025-08-17 - Roundup](#-2025-08-17---roundup)
+    - [2025-08-11 Microfluidic assessment of PO2-regulated RBC capillary velocity in ME/CFS](#2025-08-11-microfluidic-assessment-of-po2-regulated-rbc-capillary-velocity-in-mecfs)
+    - [2025-08-11 Circulating cell-free RNA signatures for the characterization and diagnosis of myalgic encephalomyelitis/chronic fatigue syndrome](#2025-08-11-circulating-cell-free-rna-signatures-for-the-characterization-and-diagnosis-of-myalgic-encephalomyelitischronic-fatigue-syndrome)
+    - [2025-08-10 ME/CFS and PASC Patient-Derived Immunoglobulin Complexes Disrupt Mitochondrial Function and Alter Inflammatory Marker Secretion](#2025-08-10-mecfs-and-pasc-patient-derived-immunoglobulin-complexes-disrupt-mitochondrial-function-and-alter-inflammatory-marker-secretion)
+    - [2025-08-06 Initial findings from the DecodeME genome-wide association study of myalgic encephalomyelitis/chronic fatigue syndrome](#2025-08-06-initial-findings-from-the-decodeme-genome-wide-association-study-of-myalgic-encephalomyelitischronic-fatigue-syndrome)
+    - [2025-08-06 Genetic depletion of early autophagy protein ATG13 impairs mitochondrial energy metabolism, augments oxidative stress, induces the polarization of macrophages to M1 inflammatory mode, and compromises myelin integrity in skeletal muscle](#2025-08-06-genetic-depletion-of-early-autophagy-protein-atg13-impairs-mitochondrial-energy-metabolism-augments-oxidative-stress-induces-the-polarization-of-macrophages-to-m1-inflammatory-mode-and-compromises-myelin-integrity-in-skeletal-muscle)
+    - [2025-07-25 AI-driven multi-omics modeling of myalgic encephalomyelitis/chronic fatigue syndrome](#2025-07-25-ai-driven-multi-omics-modeling-of-myalgic-encephalomyelitischronic-fatigue-syndrome)
+    - [2025-07-15 Two neurocognitive domains identified for patients with myalgic encephalomyelitis/chronic fatigue syndrome and post-acute sequelae of COVID-19](#2025-07-15-two-neurocognitive-domains-identified-for-patients-with-myalgic-encephalomyelitischronic-fatigue-syndrome-and-post-acute-sequelae-of-covid-19)
+    - [2025-07-09 Plasma cell targeting with the anti-CD38 antibody daratumumab in myalgic encephalomyelitis/chronic fatigue syndrome-a clinical pilot study](#2025-07-09-plasma-cell-targeting-with-the-anti-cd38-antibody-daratumumab-in-myalgic-encephalomyelitischronic-fatigue-syndrome-a-clinical-pilot-study)
+    - [2025-07-08 Patient-reported treatment outcomes in ME/CFS and long COVID](#2025-07-08-patient-reported-treatment-outcomes-in-mecfs-and-long-covid)
+    - [2025-07-07 SMPDL3B a novel biomarker and therapeutic target in myalgic encephalomyelitis](#2025-07-07-smpdl3b-a-novel-biomarker-and-therapeutic-target-in-myalgic-encephalomyelitis)
+    - [2025-06-19 Advancing research on regulatory autoantibodies targeting GPCRs: Insights from the 5th international symposium](#2025-06-19-advancing-research-on-regulatory-autoantibodies-targeting-gpcrs-insights-from-the-5th-international-symposium)
+    - [2025-06-03 Low Dose Rapamycin Alleviates Clinical Symptoms of Fatigue and PEM in ME/CFS Patients via Improvement of Autophagy](#2025-06-03-low-dose-rapamycin-alleviates-clinical-symptoms-of-fatigue-and-pem-in-mecfs-patients-via-improvement-of-autophagy)
+    - [2025-04-15 Autoantibody targeting therapies in post COVID syndrome and myalgic encephalomyelitis/chronic fatigue syndrome](#2025-04-15-autoantibody-targeting-therapies-in-post-covid-syndrome-and-myalgic-encephalomyelitischronic-fatigue-syndrome)
+    - [2025-02-21 Off-Label Drug List for ME/CFS and Post-Acute Infection Syndromes](#2025-02-21-off-label-drug-list-for-mecfs-and-post-acute-infection-syndromes)
+    - [2024-11-06 Key Pathophysiological Role of Skeletal Muscle Disturbance in Post COVID and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Accumulated Evidence](#2024-11-06-key-pathophysiological-role-of-skeletal-muscle-disturbance-in-post-covid-and-myalgic-encephalomyelitischronic-fatigue-syndrome-mecfs-accumulated-evidence)
+    - [2024-01-06 Advancing Research and Treatment: An Overview of Clinical Trials in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Future Perspectives](#2024-01-06-advancing-research-and-treatment-an-overview-of-clinical-trials-in-myalgic-encephalomyelitischronic-fatigue-syndrome-mecfs-and-future-perspectives)
+    - [🎯 2023-12-31 - Roundup](#-2023-12-31---roundup)
+    - [2023-12-27 Identification of CD8 T-cell dysfunction associated with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and Long COVID and treatment with a nebulized antioxidant/anti-pathogen agent in a retrospective case series](#2023-12-27-identification-of-cd8-t-cell-dysfunction-associated-with-symptoms-in-myalgic-encephalomyelitischronic-fatigue-syndrome-mecfs-and-long-covid-and-treatment-with-a-nebulized-antioxidantanti-pathogen-agent-in-a-retrospective-case-series)
+    - [2023-10-01 Methylprednisolone in Patients with Cognitive Deficits in Post-COVID-19 Syndrome (PCS)](#2023-10-01-methylprednisolone-in-patients-with-cognitive-deficits-in-post-covid-19-syndrome-pcs)
+    - [2023-06-22 Study to Investigate Improvement in Physical Function in SF-36 With Vericiguat Compared With Placebo in Participants With Post-COVID-19 Syndrome](#2023-06-22-study-to-investigate-improvement-in-physical-function-in-sf-36-with-vericiguat-compared-with-placebo-in-participants-with-post-covid-19-syndrome)
+    - [2023-06-08 Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial](#2023-06-08-outpatient-treatment-of-covid-19-and-incidence-of-post-covid-19-condition-over-10-months-covid-out-a-multicentre-randomised-quadruple-blind-parallel-group-phase-3-trial)
+    - [2022-11-11 Prednisolone and Vitamin B1/​6/​12 in Patients With Post-Covid-Syndrome (PreVitaCOV)](#2022-11-11-prednisolone-and-vitamin-b1612-in-patients-with-post-covid-syndrome-previtacov)
+    - [2022-05-09 The Pathobiology of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: The Case for Neuroglial Failure](#2022-05-09-the-pathobiology-of-myalgic-encephalomyelitischronic-fatigue-syndrome-the-case-for-neuroglial-failure)
+    - [2022-03-31 Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/ chronic fatigue syndrome](#2022-03-31-plasma-metabolomics-reveals-disrupted-response-and-recovery-following-maximal-exercise-in-myalgic-encephalomyelitis-chronic-fatigue-syndrome)
+    - [2020-02-06 An Isolated Complex V Inefficiency and Dysregulated Mitochondrial Function in Immortalized Lymphocytes from ME/CFS Patients](#2020-02-06-an-isolated-complex-v-inefficiency-and-dysregulated-mitochondrial-function-in-immortalized-lymphocytes-from-mecfs-patients)
+    - [2019-07-04 Post-Exertional Malaise Is Associated with Hypermetabolism, Hypoacetylation and Purine Metabolism Deregulation in ME/CFS Cases](#2019-07-04-post-exertional-malaise-is-associated-with-hypermetabolism-hypoacetylation-and-purine-metabolism-deregulation-in-mecfs-cases)
+    - [2015-02-10 Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness](#2015-02-10-beyond-myalgic-encephalomyelitischronic-fatigue-syndrome-redefining-an-illness)
 
-The following list is in reverse chronological order (newest first).
-
+---
 ### 🎯 2025-08-17 - Roundup
 
 **Introduction:**
@@ -37,34 +67,9 @@ A comprehensive biological model of ME/CFS is taking shape, centered on a viciou
 **Future Outlook:**
 The path forward is strongly focused on precision medicine, using newly discovered biomarkers to stratify patients for targeted clinical trials, such as the larger follow-up study for daratumumab. There is a clear call to shift from subjective questionnaires to objective outcome measures in these trials. The wealth of patient-reported data and new pathophysiological models will now guide formal testing of drugs designed to improve blood flow, restore immune balance, and correct cellular metabolism, moving the field closer to the first evidence-based, approved treatments.
 
---- 
-
-### 2025-08-11 Circulating cell-free RNA signatures for the characterization and diagnosis of myalgic encephalomyelitis/chronic fatigue syndrome
-- **Metadata:**
-    - **Authors:** Gardella, Anne E.; Eweis-LaBolle, Daniel; Loy, Conor J.
-    - **Institutes:** Department of Molecular Biology and Genetics, Cornell University; Meinig School of Biomedical Engineering, Cornell University.
-    - **Publisher:** PNAS
-    - **Link:** [DOI](https://doi.org/10.1073/pnas.2507345122)
-- **What was researched?**
-This study investigated whether circulating cell-free RNA (cfRNA), which are small pieces of genetic material released by cells into the bloodstream, could be used as a minimally invasive tool to diagnose ME/CFS and to better understand its underlying biology. The researchers aimed to identify cfRNA patterns specific to ME/CFS and use them to build a diagnostic model.
-- **Why was it researched?**
-ME/CFS lacks clinically validated biomarkers for an objective diagnosis, forcing reliance on subjective symptom evaluation. Previous research has pointed towards immune system dysregulation in the disease, but the biological mechanisms are poorly understood. The researchers explored cfRNA as a promising "liquid biopsy" tool because it can reflect dynamic changes in gene expression and cellular processes throughout the body, and has been successful in diagnosing other complex inflammatory diseases.
-- **How was it researched?**
-This was a case-control study that analyzed plasma samples from 93 ME/CFS patients and 75 healthy, sedentary controls. The researchers performed RNA sequencing on the cfRNA isolated from the plasma. They then used computational and machine learning methods to identify cfRNA transcripts that were different between the two groups and trained a diagnostic model to distinguish patients from controls. Additionally, they used a bioinformatic deconvolution technique to estimate the cellular origins of the cfRNA signals.
-- **What has been found?**
-The study identified 743 unique cfRNA features that differed significantly between ME/CFS cases and controls. A machine learning model (GLMNET Lasso) using a signature of 21 cfRNA genes was able to distinguish ME/CFS patients from healthy controls with 77% accuracy and a test-set AUC of 0.81. Analysis of the cfRNA's cellular origins revealed significant differences in immune cell contributions, with ME/CFS patients showing elevated cfRNA from plasmacytoid dendritic cells, monocytes, and T cells, but decreased cfRNA from platelets. Pathway analysis further implicated immune dysfunction, highlighting signatures of T cell exhaustion and chronic inflammatory signaling in patients.
-- **Discussion:**
-The authors note that the diagnostic model's performance varied among individuals, and this variability was correlated with the amount of platelet-derived cfRNA, suggesting a true biological difference in platelet function in ME/CFS. A key limitation of the study is that it only analyzed samples taken at baseline, without provoking symptoms through an exercise challenge. The authors state that future work is needed to validate the findings in larger patient cohorts to account for disease heterogeneity and improve the model's robustness.
-- **Conclusion & Future Work:**
-The authors conclude that cfRNA analysis is a valuable, minimally invasive tool for investigating the biology of ME/CFS, providing strong evidence for widespread immune dysregulation in the disease. They suggest that future studies should investigate cfRNA dynamics during post-exertional malaise (PEM) to gain further insight. Expanding the cohort size will be crucial for improving the generalizability and accuracy of cfRNA-based biomarkers for ME/CFS diagnosis and characterization.
-- **Summary:**
-This study introduces a novel blood analysis technique, called RNA liquid biopsy, that identifies distinct patterns of genetic material (cfRNA) in the blood of ME/CFS patients. The findings strongly support the theory of immune system dysregulation, revealing signals of T cell exhaustion, chronic inflammation, and altered activity in monocytes and dendritic cells. By applying machine learning to these cfRNA patterns, the researchers developed a promising, though not yet perfect, model that could distinguish patients from controls with 77% accuracy. This work represents a significant step towards a much-needed objective, blood-based diagnostic test and provides new molecular evidence reinforcing that ME/CFS is a biological illness rooted in the immune system.
-- **Simple Summary:**
-Scientists analyzed fragments of genetic material called RNA in the blood and found specific patterns in ME/CFS patients that point to widespread immune system problems. They used these patterns to train a computer model that can identify ME/CFS from a blood sample with promising accuracy, moving us closer to a potential diagnostic test. This research provides new evidence for the biological basis of the illness, particularly involving immune cell dysfunction.
-
 ---
-
 ### 2025-08-11 Microfluidic assessment of PO2-regulated RBC capillary velocity in ME/CFS
+
 - **Metadata:**
     - **Authors:** Guo, Yaojun; Zhou, Sitong; Ren, Samuel.
     - **Institutes:** Department of Chemical Engineering, University of California, Davis; Department of Pathology and Lab Medicine, Medical Center of University of California, Davis; Henry Gunn High School.
@@ -88,8 +93,57 @@ This research provides a potential physical explanation for the blood flow abnor
 Scientists found that red blood cells from ME/CFS patients struggle to speed up when oxygen is low, which may help explain blood flow problems. This discovery could be used to develop a new, objective blood test to help diagnose the illness. In the lab, they also showed that two existing drugs helped the cells function better, opening a new direction for future treatment research.
 
 ---
+### 2025-08-11 Circulating cell-free RNA signatures for the characterization and diagnosis of myalgic encephalomyelitis/chronic fatigue syndrome
 
+- **Metadata:**
+    - **Authors:** Gardella, Anne E.; Eweis-LaBolle, Daniel; Loy, Conor J.
+    - **Institutes:** Department of Molecular Biology and Genetics, Cornell University; Meinig School of Biomedical Engineering, Cornell University.
+    - **Publisher:** PNAS
+    - **Link:** [DOI](https://doi.org/10.1073/pnas.2507345122)
+- **What was researched?**
+This study investigated whether circulating cell-free RNA (cfRNA), which are small pieces of genetic material released by cells into the bloodstream, could be used as a minimally invasive tool to diagnose ME/CFS and to better understand its underlying biology. The researchers aimed to identify cfRNA patterns specific to ME/CFS and use them to build a diagnostic model.
+- **Why was it researched?**
+ME/CFS lacks clinically validated biomarkers for an objective diagnosis, forcing reliance on subjective symptom evaluation. Previous research has pointed towards immune system dysregulation in the disease, but the biological mechanisms are poorly understood. The researchers explored cfRNA as a promising "liquid biopsy" tool because it can reflect dynamic changes in gene expression and cellular processes throughout the body, and has been successful in diagnosing other complex inflammatory diseases.
+- **How was it researched?**
+This was a case-control study that analyzed plasma samples from 93 ME/CFS patients and 75 healthy, sedentary controls. The researchers performed RNA sequencing on the cfRNA isolated from the plasma. They then used computational and machine learning methods to identify cfRNA transcripts that were different between the two groups and trained a diagnostic model to distinguish patients from controls. Additionally, they used a bioinformatic deconvolution technique to estimate the cellular origins of the cfRNA signals.
+- **What has been found?**
+The study identified 743 unique cfRNA features that differed significantly between ME/CFS cases and controls. A machine learning model (GLMNET Lasso) using a signature of 21 cfRNA genes was able to distinguish ME/CFS patients from healthy controls with 77% accuracy and a test-set AUC of 0.81. Analysis of the cfRNA's cellular origins revealed significant differences in immune cell contributions, with ME/CFS patients showing elevated cfRNA from plasmacytoid dendritic cells, monocytes, and T cells, but decreased cfRNA from platelets. Pathway analysis further implicated immune dysfunction, highlighting signatures of T cell exhaustion and chronic inflammatory signaling in patients.
+- **Discussion:**
+The authors note that the diagnostic model's performance varied among individuals, and this variability was correlated with the amount of platelet-derived cfRNA, suggesting a true biological difference in platelet function in ME/CFS. A key limitation of the study is that it only analyzed samples taken at baseline, without provoking symptoms through an exercise challenge. The authors state that future work is needed to validate the findings in larger patient cohorts to account for disease heterogeneity and improve the model's robustness.
+- **Conclusion & Future Work:**
+The authors conclude that cfRNA analysis is a valuable, minimally invasive tool for investigating the biology of ME/CFS, providing strong evidence for widespread immune dysregulation in the disease. They suggest that future studies should investigate cfRNA dynamics during post-exertional malaise (PEM) to gain further insight. Expanding the cohort size will be crucial for improving the generalizability and accuracy of cfRNA-based biomarkers for ME/CFS diagnosis and characterization.
+- **Summary:**
+This study introduces a novel blood analysis technique, called RNA liquid biopsy, that identifies distinct patterns of genetic material (cfRNA) in the blood of ME/CFS patients. The findings strongly support the theory of immune system dysregulation, revealing signals of T cell exhaustion, chronic inflammation, and altered activity in monocytes and dendritic cells. By applying machine learning to these cfRNA patterns, the researchers developed a promising, though not yet perfect, model that could distinguish patients from controls with 77% accuracy. This work represents a significant step towards a much-needed objective, blood-based diagnostic test and provides new molecular evidence reinforcing that ME/CFS is a biological illness rooted in the immune system.
+- **Simple Summary:**
+Scientists analyzed fragments of genetic material called RNA in the blood and found specific patterns in ME/CFS patients that point to widespread immune system problems. They used these patterns to train a computer model that can identify ME/CFS from a blood sample with promising accuracy, moving us closer to a potential diagnostic test. This research provides new evidence for the biological basis of the illness, particularly involving immune cell dysfunction.
+
+---
+### 2025-08-10 ME/CFS and PASC Patient-Derived Immunoglobulin Complexes Disrupt Mitochondrial Function and Alter Inflammatory Marker Secretion
+- **Metadata:**
+    - **Authors:** Zheng Liu, Claudia Hollmann, Sharada Kalanidhi, Stephanie Lamer, Andreas Schlosser, Emils Edgars Basens, Georgy Nikolayshvili, Liba Sokolovska, Gabriela Riemekasten, Rebekka Rust, Judith Bellmann-Strobel, Friedemann Paul, Robert K Naviaux, Zaiga Nora-Krukle, Franziska Sotzny, Carmen Scheibenbogen, Bhupesh K Prusty.
+    - **Institutes:** Institute of Virology and Immunobiology, University of Würzburg, Germany; Stanford Genome Technology Center, Stanford University School of Medicine, Stanford, CA, USA; Rudolf Virchow Center, Center for Translational Bioimaging, Julius-Maximilians-University of Würzburg, Germany; Institute of Microbiology and Virology, Riga Stradiņš University Research Center, Riga, Latvia; Klinik für Rheumatologie, Universitätsklinikum Schleswig-Holstein, Lübeck; Experimental and Research Center (ECRC), Charité - Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, Humboldt Universität zu Berlin and Berlin Institute of Health, Berlin, Germany; NeuroCure Research Centre, Charité Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, Humboldt Universität zu Berlin and Berlin Institute of Health, Berlin, Germany; Departments of Medicine, Pediatrics, and Pathology, University of California, San Diego School of Medicine, San Diego, USA; Institute of Medical Immunology, Charité Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt Universität zu Berlin and Berlin Institute of Health, Berlin, Germany.
+    - **Publisher:** medRxiv
+    - **Link:** [DOI](https://doi.org/10.1101/2025.08.06.25332978)
+- **What was researched?**
+This study investigated whether immunoglobulins (specifically IgG antibodies) isolated from the blood of ME/CFS and PASC (Long COVID) patients could directly cause mitochondrial dysfunction in healthy human cells. The researchers examined the effects of these patient-derived IgGs on mitochondrial structure, cellular energy production, and the secretion of inflammatory markers, and also analyzed the composition of proteins bound to the IgGs.
+- **Why was it researched?**
+Mitochondrial dysfunction and immune system abnormalities are known features of ME/CFS, but the direct cause linking them is not fully understood. Previous research suggested an autoimmune component, as transferring IgG from patients to mice could induce symptoms. This study aimed to test the hypothesis *in vitro* (in a lab dish) that IgG from patients is a direct driver of the mitochondrial and metabolic problems seen in the disease.
+- **How was it researched?**
+This was an *in vitro* laboratory study using purified IgG antibodies from the blood serum of ME/CFS patients (n=40), PASC patients (n=16), multiple sclerosis patients (n=11), and healthy controls (n=39). The researchers exposed healthy human endothelial cells (HUVECs) to these IgGs and used microscopy to observe changes in mitochondrial structure. They measured cellular energy metabolism using a Seahorse Extracellular Flux Analyzer and also exposed healthy immune cells (PBMCs) to the IgGs to measure inflammatory cytokine release. Finally, they used mass spectrometry to identify the proteins that were bound to the patient IgGs, a technique called immune complex proteomics.
+- **What has been found?**
+IgG from a subgroup of ME/CFS and PASC patients caused significant fragmentation of mitochondria in healthy endothelial cells, an effect that was more pronounced with IgG from female patients. While intact IgG was required for fragmentation, its separated 'Fab' fragment alone could alter cellular energy production by increasing maximal respiration, indicating cellular stress. In contrast, the 'Fc' fragment induced a hypometabolic state. Proteomic analysis revealed that ME/CFS immune complexes were enriched with proteins related to extracellular matrix organization, whereas PASC immune complexes were linked to hemostasis (blood clotting regulation).
+- **Discussion:**
+The authors note the complexity of the findings, where different parts of the IgG molecule (Fab vs. Fc) have distinct effects on cellular energy, and the intact molecule is needed to cause mitochondrial fragmentation. They discuss that the entry of IgG into endothelial cells is a key step, likely mediated by Fc receptors and other non-specific pathways, which could be a pathogenic mechanism in ME/CFS. The distinct protein signatures found in the immune complexes of ME/CFS versus PASC suggest that while the conditions may share symptoms, they may be driven by different underlying biological processes.
+- **Conclusion & Future Work:**
+The study concludes that IgG from ME/CFS and PASC patients can directly cause mitochondrial fragmentation and metabolic dysregulation in healthy cells, providing a potential pathogenic mechanism for these diseases. The differing protein compositions of immune complexes in ME/CFS and PASC may serve as disease-specific biomarkers. The authors suggest these findings support targeting antibody-mediated pathology as a potential therapeutic strategy for post-infectious illnesses.
+- **Summary:**
+This study provides direct laboratory evidence that antibodies (IgG) from ME/CFS patients can damage the mitochondria—the energy factories—of healthy cells. This reinforces the theory that ME/CFS is an autoimmune disease and offers a potential biological explanation for the profound energy impairment experienced by patients. The research also uncovered key differences between ME/CFS and Long COVID (PASC) at a molecular level; ME/CFS appears linked to issues with the structural support around cells (extracellular matrix), while PASC is more associated with blood clotting pathways. These findings could pave the way for developing more specific diagnostic tests and treatments aimed at correcting these antibody-driven problems.
+- **Simple Summary:**
+Scientists showed in the lab that antibodies from ME/CFS patients can damage the energy-producing parts of healthy cells. This research helps explain why energy production is a problem in ME/CFS and points to it being an autoimmune disease. The study also found distinct molecular differences between ME/CFS and Long COVID, which may lead to better tests and treatments in the future.
+
+---
 ### 2025-08-06 Initial findings from the DecodeME genome-wide association study of myalgic encephalomyelitis/chronic fatigue syndrome
+
 - **Metadata:**
     - **Authors:** Boutin, Thibaud; Bretherick, Andrew D.; Dibble, Joshua J.
     - **Institutes:** MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh; Pain Service, NHS Tayside, Ninewells Hospital; c/o DecodeME, MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh.
@@ -113,8 +167,8 @@ This landmark study, the largest of its kind for ME/CFS, provides the first stro
 The largest ever genetic study of ME/CFS found eight specific differences in the DNA of patients compared to healthy people. These results strongly suggest the illness is a real biological disease involving both the immune system and the brain. This is a major step forward, providing a solid basis for future research into what causes the illness and how to diagnose and treat it.
 
 ---
-
 ### 2025-08-06 Genetic depletion of early autophagy protein ATG13 impairs mitochondrial energy metabolism, augments oxidative stress, induces the polarization of macrophages to M1 inflammatory mode, and compromises myelin integrity in skeletal muscle
+
 - **Metadata:**
     - **Authors:** Toriola, Mubaraq A.; Timlin, Emma; Bulbule, Sarojini.
     - **Institutes:** University of Wisconsin-Milwaukee; Simmaron Research INC.
@@ -138,8 +192,8 @@ This research provides a potential biological mechanism that connects impaired c
 Scientists studied mice with a genetic defect in a cellular 'housekeeping' process, causing issues similar to those in ME/CFS. This defect made their immune cells inflammatory, leading to nerve damage in the muscles and severe fatigue. The mice's symptoms, especially fatigue and weakness, got much worse after exercise, providing a model to understand post-exertional malaise.
 
 ---
-
 ### 2025-07-25 AI-driven multi-omics modeling of myalgic encephalomyelitis/chronic fatigue syndrome
+
 - **Metadata:**
     - **Authors:** Xiong, Ruoyun; Aiken, Elizabeth; Caldwell, Ryan.
     - **Institutes:** Duke University, Durham, NC, USA; The University of Connecticut Health Center, Farmington, CT, USA; The Jackson Laboratory, Farmington, CT, USA.
@@ -163,8 +217,8 @@ This study introduces a powerful AI tool that integrates vast amounts of biologi
 Researchers used an advanced AI to analyze complex biological data from patients' gut, blood, and immune systems. The AI found specific biological patterns linked to different ME/CFS symptoms, helping to explain why the illness varies so much between individuals. These findings point to a breakdown in communication between the gut and the immune system, which could be a key driver of the disease and offers new directions for research.
 
 ---
-
 ### 2025-07-15 Two neurocognitive domains identified for patients with myalgic encephalomyelitis/chronic fatigue syndrome and post-acute sequelae of COVID-19
+
 - **Metadata:**
     - **Authors:** Sandoval, Ariadna; Li, Mingqi; Jason, Leonard A.
     - **Institutes:** Center for Community Research, DePaul University, Chicago, IL, United States.
@@ -188,8 +242,8 @@ This study provides statistical evidence that the "brain fog" experienced by pat
 Researchers analyzed patient surveys and confirmed that "brain fog" has two main parts: memory and concentration problems, and a separate issue of sensory overload like sensitivity to light and sound. This finding helps validate that sensory problems are a core part of the illness, not just a minor symptom. This better understanding can help guide future research into what goes wrong in the brain and how to treat it.
 
 ---
-
 ### 2025-07-09 Plasma cell targeting with the anti-CD38 antibody daratumumab in myalgic encephalomyelitis/chronic fatigue syndrome-a clinical pilot study
+
 - **Metadata:**
     - **Authors:** Fluge, Øystein; Rekeland, Ingrid Gurvin; Sørland, Kari.
     - **Institutes:** The Cancer Clinic, Haukeland University Hospital, Bergen, Norway; Institute of Clinical Sciences, University of Bergen, Bergen, Norway; Department of Medical Genetics, Haukeland University Hospital, Bergen, Norway.
@@ -213,8 +267,8 @@ This study provides strong preliminary evidence for the theory that ME/CFS is an
 Researchers tested a drug that targets specific immune cells suspected of causing ME/CFS, based on the theory that it is an autoimmune illness. In this small, initial study of ten women, six experienced significant and lasting improvements in their health. These hopeful results are a promising first step, and a larger, more rigorous study has now begun to verify if the treatment is truly effective.
 
 ---
-
 ### 2025-07-08 Patient-reported treatment outcomes in ME/CFS and long COVID
+
 - **Metadata:**
     - **Authors:** Eckey, Martha; Li, Peng; Morrison, Braxton.
     - **Institutes:** Computational Research Center for Complex Chronic Diseases, Massachusetts General Hospital, Harvard Medical School; The Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Collaborative Research Centre, Department of Chemistry BMC, Uppsala University; Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Collaborative Research Center, Stanford University School of Medicine.
@@ -238,8 +292,8 @@ This large-scale survey reinforces the significant symptomatic and therapeutic o
 A large survey showed that people with ME/CFS and long COVID have similar symptoms and often benefit from the same treatments. Pacing energy, staying hydrated with electrolytes, and specific medications like low-dose naltrexone were reported as most helpful. This information helps doctors understand what is working for patients and gives researchers better ideas for future studies.
 
 ---
-
 ### 2025-07-07 SMPDL3B a novel biomarker and therapeutic target in myalgic encephalomyelitis
+
 - **Metadata:**
     - **Authors:** Rostami-Afshari, Bita; Elremaly, Wesam; Franco, Anita.
     - **Institutes:** Viscogliosi Laboratory in Molecular Genetics of Musculoskeletal Diseases, CHU Sainte-Justine; Department of Biochemistry and Molecular Medicine, Faculty of Medicine, Université de Montréal; Open Medicine Foundation ME/CFS Collaborative Center at CHU Sainte-Justine/Université de Montréal.
@@ -263,8 +317,8 @@ This research identifies a specific molecular abnormality in the immune cells of
 Scientists discovered that a protein which helps control inflammation is being cut off from immune cells in people with ME/CFS, and this is linked to more severe symptoms. This finding could lead to a new blood test to help measure the severity of the illness. In the lab, two existing drugs were able to stop the protein from being cut off, offering a new direction for future treatment research.
 
 ---
-
 ### 2025-06-19 Advancing research on regulatory autoantibodies targeting GPCRs: Insights from the 5th international symposium
+
 - **Metadata:**
     - **Authors:** Cabral-Marques, Otavio; Schimke, Lena F.; Moll, Guido.
     - **Institutes:** Laboratory of Psychoneuroimmunology, Selye Lab, University of São Paulo School of Medicine, São Paulo, Brazil; Department of Medicine, Division of Molecular Medicine, Laboratory of Medical Investigation 29, University of São Paulo School of Medicine, São Paulo, Brazil; Network of Immunity in Infection, Malignancy, and Autoimmunity (NIIMA), Universal Scientific Education and Research Network (USERN), Sao Paulo, Brazil.
@@ -287,9 +341,33 @@ This report consolidates strong evidence that functional autoantibodies attackin
 - **Simple Summary:**
 Scientists are increasingly certain that in ME/CFS, the immune system mistakenly creates antibodies that attack the body's own cell receptors. New findings suggest that the Epstein-Barr virus (EBV) may trigger this process by tricking the immune system. This understanding helps explain symptoms and is guiding research toward new diagnostic tests and targeted treatments.
 
---- 
+---
+### 2025-06-03 Low Dose Rapamycin Alleviates Clinical Symptoms of Fatigue and PEM in ME/CFS Patients via Improvement of Autophagy
+- **Metadata:**
+    - **Authors:** Brian T. Ruan, Sarojini Bulbule, Amy Reyes, Bela Chheda, Lucinda Bateman, Jennifer Bell, Braydon Yellman, Stephanie Grach, Jon Berner, Daniel L. Peterson, David Kaufman, AVIK ROY, C. Gunnar Gottschalk.
+    - **Institutes:** Cornell University, Simmaron Research INC, University of Wisconsin-Milwaukee, Center for Complex Diseases (Palo Alto, CA, and Seattle, WA), Bateman Horne Center, Mayo Clinic Research Rochester, Woodinville psychiatric Associates, Sierra Internal Medicine.
+    - **Publisher:** Research Square (Preprint).
+    - **Link:** [DOI](https://doi.org/10.21203/rs.3.rs-6596158/v1)
+- **What was researched?**
+This study investigated the safety and efficacy of low-dose rapamycin, an mTOR inhibitor, for treating core symptoms of ME/CFS. The researchers also examined whether clinical improvements correlated with changes in blood-based biomarkers related to autophagy, a cellular self-cleaning process.
+- **Why was it researched?**
+Previous research from the authors and others suggested that chronic activation of a protein called mTOR and the resulting impairment of autophagy may be a key driver of ME/CFS pathology, particularly post-exertional malaise (PEM). They hypothesized that inhibiting mTOR with rapamycin could restore autophagy and therefore alleviate ME/CFS symptoms. This study aimed to test that hypothesis directly in patients for the first time.
+- **How was it researched?**
+This was a decentralized, uncontrolled, observational clinical study involving ME/CFS patients from six clinical centers in the United States. Of the 86 patients who started the therapy, 40 completed the full 90-day protocol. Participants self-administered low-dose rapamycin ($6\ \text{mg/week}$) and completed validated questionnaires (BAS, SSS, MFI, SF-36) at baseline and at 30, 60, and 90 days to assess changes in symptoms. Plasma samples were collected at the same time points to measure levels of two autophagy biomarkers, BECLIN-1 and phosphorylated ATG13 (pSer258-ATG13).
+- **What has been found?**
+Low-dose rapamycin 💊 was well-tolerated, with no serious adverse events reported. The study found statistically significant improvements in key ME/CFS symptoms, including fatigue, PEM, disturbed sleep, and orthostatic intolerance, in the cohort that completed the trial. These clinical improvements correlated with molecular evidence of restored autophagy: plasma levels of the inhibitory marker pSer258-ATG13 decreased significantly, while levels of the pro-autophagy marker BECLIN-1 increased. The therapeutic response was notably stronger in patients who had a post-infectious (viral) onset of their ME/CFS.
+- **Discussion:**
+The authors acknowledge several limitations, most significantly the absence of a placebo control group, which makes it impossible to definitively attribute the observed improvements to the drug alone. The study also relied on self-reported questionnaires rather than objective performance measures, had a high dropout rate (primarily due to the cost of the drug and lab tests not being covered), and did not control for variability between different generic formulations of rapamycin. However, the study's strengths include its biomarker-driven hypothesis and a within-subject design where each patient served as their own control.
+- **Conclusion & Future Work:**
+The authors conclude that low-dose rapamycin can effectively and safely reduce fatigue, PEM, and other core symptoms in a subset of ME/CFS patients. The results provide the first clinical evidence supporting the theory that mTOR activation and impaired autophagy play a role in the disease's pathophysiology. The authors strongly recommend future research in the form of a larger, fully funded, double-blind, placebo-controlled trial to validate these preliminary findings and suggest developing biomarker tests to identify patients most likely to respond to this therapy.
+- **Summary:**
+This study provides preliminary but promising evidence for a new ME/CFS treatment target. It suggests that in some patients, an overactive cellular pathway (mTOR) blocks a critical "clean-up" process called autophagy, contributing to symptoms. The use of low-dose rapamycin appeared to correct this issue, leading to significant reductions in fatigue and PEM, especially in patients whose illness began after an infection. The observed changes in blood biomarkers of autophagy support this mechanism. While this was a small, uncontrolled study requiring confirmation in a larger, placebo-controlled trial, it represents a significant step forward by testing a mechanistically-targeted therapy and identifying potential biomarkers to personalize treatment for ME/CFS.
+- **Simple Summary:**
+Researchers tested a drug called rapamycin and found it helped reduce fatigue and PEM for many ME/CFS patients in this small, early-stage study. The drug appears to work by fixing a cellular cleaning process that may be broken, particularly in patients who became ill after an infection. Although more research is needed, this provides a hopeful new direction for a targeted treatment.
 
+---
 ### 2025-04-15 Autoantibody targeting therapies in post COVID syndrome and myalgic encephalomyelitis/chronic fatigue syndrome
+
 - **Metadata:**
     - **Authors:** Wohlrab, Felix; Eltity, Mailam; Ufer, Friederike.
     - **Institutes:** Experimental and Clinical Research Center, A Cooperation Between Max Delbrück Center for Molecular Medicine in the Helmholtz Association and Charité - Universitätsmedizin Berlin, Berlin, Germany; Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC), Experimental and Clinical Research Center, Berlin, Germany; Clinic for Neurology and Experimental Neurology, Charité Universitätsmedizin Berlin, Berlin, Germany.
@@ -313,8 +391,8 @@ This review consolidates the idea that for a subset of ME/CFS and Post-COVID pat
 Scientists reviewed different treatments that target the immune system for people with ME/CFS and Post-COVID Syndrome. The results have been mixed, suggesting these therapies may only help patients whose illness is caused by an autoimmune problem. Future studies need to use tests to find these specific patients before starting treatment, which could make the treatments much more successful.
 
 ---
-
 ### 2025-02-21 Off-Label Drug List for ME/CFS and Post-Acute Infection Syndromes
+
 - **Metadata:**
     - **Authors:** Reference Center for Post-Viral Syndromes
     - **Institutes:** Medical University of Vienna
@@ -338,8 +416,8 @@ This new regulation in Austria provides patients with ME/CFS and PAIS, for the f
 Austrian health insurance funds will now pay for several medications to treat symptoms of ME/CFS and similar post-viral illnesses. This makes it easier for patients to get treatment for problems like sleep disorders, circulatory dysregulation, or mast cell activation. Doctors must work carefully with patients to find the right therapy and adjust the dosage slowly.
 
 ---
-
 ### 2024-11-06 Key Pathophysiological Role of Skeletal Muscle Disturbance in Post COVID and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Accumulated Evidence
+
 - **Metadata:**
     - **Authors:** Scheibenbogen, Carmen; Wirth, Klaus J.
     - **Institutes:** Institute of Medical Immunology, Charité - Universitätsmedizin Berlin; Mitodicure GmbH, Kriftel, Germany; Institute for General Pharmacology and Toxicology, University Hospital, Goethe University Frankfurt am Main.
@@ -363,8 +441,8 @@ This review presents a compelling model that places skeletal muscle at the heart
 Scientists have gathered strong evidence that in ME/CFS, muscles are damaged during physical activity due to poor blood flow. This harms the cells' tiny powerhouses, called mitochondria, leading to a severe energy crisis that explains post-exertional malaise. This process can become a vicious cycle, which is why the illness is chronic and points toward future treatments to improve muscle blood flow.
 
 ---
-
 ### 2024-01-06 Advancing Research and Treatment: An Overview of Clinical Trials in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Future Perspectives
+
 - **Metadata:**
     - **Authors:** Seton, Katharine A.; Espejo-Oltra, José A.; Giménez-Orenga, Karen.
     - **Institutes:** Quadram Institute Bioscience, Norwich Research Park; Max Delbrück Center for Molecular Medicine; Department of Pathology, School of Health Sciences, Universidad Católica de Valencia.
@@ -388,8 +466,7 @@ This comprehensive review of over three decades of ME/CFS clinical trials provid
 Researchers analyzed over 30 years of studies to identify treatments that have helped people with ME/CFS. They found that some drugs targeting viruses, the immune system, and energy production have shown promise, but require more investigation. The paper concludes that future research must be better designed, using objective tools like activity trackers, to find effective treatments.
 
 ---
-
-### 🎯 2015-2023 - Roundup
+### 🎯 2023-12-31 - Roundup
 
 **Introduction:**
 Recent research in ME/CFS and Long COVID is advancing on two major fronts: pinpointing the specific biological mechanisms that drive the illness, particularly post-exertional malaise, and accelerating the search for treatments through a variety of clinical trials targeting these dysfunctions. This dual focus highlights a move from broad observation to targeted investigation of the immune system, energy metabolism, and vascular health.
@@ -406,8 +483,33 @@ Building on the hypothesis of a dysregulated immune and vascular system, researc
 The path forward is clearly focused on translating these biological insights into clinical practice. Key next steps involve validating CD8 T-cell dysfunction as a potential biomarker, identifying the unknown metabolites linked to PEM, and awaiting the results of ongoing trials for repurposed drugs. There is a strong push to move promising preliminary treatments, such as the nebulized antioxidant agent that improved T-cell function, into larger, definitive controlled trials to confirm their safety and effectiveness.
 
 ---
+### 2023-12-27 Identification of CD8 T-cell dysfunction associated with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and Long COVID and treatment with a nebulized antioxidant/anti-pathogen agent in a retrospective case series
 
+- **Metadata:**
+    - **Authors:** Gil, Anna; Hoag, George E.; Salerno, John P.
+    - **Institutes:** University of Massachusetts Chan Medical School, Department of Pathology; Inspiritol, Inc.; The Salerno Center for Complementary Medicine.
+    - **Publisher:** Brain, Behavior, & Immunity - Health
+    - **Link:** [DOI](https://doi.org/10.1016/j.bbih.2023.100720)
+- **What was researched?**
+This study investigated the function of a specific type of immune cell, the CD8 T-cell, in patients with ME/CFS and Long COVID compared to healthy individuals. It also retrospectively analyzed whether a nebulized treatment with antioxidant and anti-pathogen properties could improve both this immune cell dysfunction and patient-reported symptoms.
+- **Why was it researched?**
+ME/CFS and Long COVID share many symptoms and are often triggered by infections, suggesting they may have a common underlying pathology involving a dysregulated immune system. Researchers hypothesized that an aberrant immune response leads to CD8 T-cell dysfunction, similar to the "T-cell exhaustion" seen in chronic viral infections. This study aimed to identify a specific biomarker for these conditions and explore a potential multi-mechanism treatment targeting oxidative stress and immune dysregulation.
+- **How was it researched?**
+The study involved two parts. First, a laboratory analysis was conducted on fresh blood samples from 12 ME/CFS patients, 8 Long COVID patients, and 10 healthy controls to measure CD8 T-cell function via intracellular cytokine staining (ICS). Second, it presented a retrospective case series of 8 of these patients (4 ME/CFS, 4 Long COVID) who independently chose to use a nebulized treatment, Inspiritol, for a period of 3-15 months. Researchers reviewed changes in their T-cell function and symptom severity scores over the course of the treatment.
+- **What has been found?**
+The study found that CD8 T-cells from both ME/CFS and Long COVID patients had a significantly diminished capacity to produce the cytokines IFNy and TNFa after stimulation compared to healthy controls, confirming a state of immune dysfunction. In the retrospective case series of 8 patients treated with a nebulized antioxidant/anti-pathogen agent (Inspiritol) 💊, there was an observed improvement in this CD8 T-cell function that occurred in parallel with symptom improvement. On average, these patients reported a 54% decrease in overall symptom severity, and no serious treatment-associated side effects were noted.
+- **Discussion:**
+The authors suggest that the observed CD8 T-cell dysfunction is a fundamental aspect of both ME/CFS and Long COVID, potentially explaining the body's inability to control latent pathogens. They note that the multi-component nature of the nebulized agent, which has antioxidant, anti-pathogen, and immunomodulatory properties, may address several underlying mechanisms of the diseases simultaneously. The primary limitation is the small number of patients in the retrospective, uncontrolled case series, which means the results are preliminary.
+- **Conclusion & Future Work:**
+The authors conclude that CD8 T-cell dysfunction appears to be a key feature of both ME/CFS and Long COVID, and that this measurement has potential as a diagnostic and treatment-tracking biomarker. The positive results from the retrospective case series, although preliminary, support advancing the nebulized agent into larger, controlled clinical trials to formally evaluate its safety and efficacy for both conditions.
+- **Summary:**
+This study provides evidence for a specific, measurable dysfunction in the immune systems of ME/CFS and Long COVID patients, where key "killer" T-cells (CD8 T-cells) appear exhausted and are unable to function properly. This finding could lead to the development of a standardized, objective blood test to aid in diagnosis. Furthermore, the paper presents preliminary but encouraging results from a small group of patients who used a novel nebulized treatment and experienced significant symptom reduction alongside a partial reversal of this immune dysfunction. While not a cure, this research opens a new avenue for therapies that target immune modulation and oxidative stress, though these findings must be validated in larger clinical trials.
+- **Simple Summary:**
+Scientists have identified a specific defect in the immune cells of people with ME/CFS and Long COVID, which may help explain the illness. This discovery could be used to create a new blood test to help with diagnosis. In a small, preliminary study, a nebulized antioxidant treatment appeared to improve both this immune defect and patient symptoms, opening a new path for future research.
+
+---
 ### 2023-10-01 Methylprednisolone in Patients with Cognitive Deficits in Post-COVID-19 Syndrome (PCS)
+
 - **Overview:**
     - **Trial ID:** NCT05986422
     - **Link:** https://clinicaltrials.gov/study/NCT05986422
@@ -438,33 +540,8 @@ This trial is investigating if Methylprednisolone 💊, a well-known immunosuppr
         - Individuals who are pregnant or breastfeeding.
 
 ---
-
-### 2023-12-27 Identification of CD8 T-cell dysfunction associated with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and Long COVID and treatment with a nebulized antioxidant/anti-pathogen agent in a retrospective case series
-- **Metadata:**
-    - **Authors:** Gil, Anna; Hoag, George E.; Salerno, John P.
-    - **Institutes:** University of Massachusetts Chan Medical School, Department of Pathology; Inspiritol, Inc.; The Salerno Center for Complementary Medicine.
-    - **Publisher:** Brain, Behavior, & Immunity - Health
-    - **Link:** [DOI](https://doi.org/10.1016/j.bbih.2023.100720)
-- **What was researched?**
-This study investigated the function of a specific type of immune cell, the CD8 T-cell, in patients with ME/CFS and Long COVID compared to healthy individuals. It also retrospectively analyzed whether a nebulized treatment with antioxidant and anti-pathogen properties could improve both this immune cell dysfunction and patient-reported symptoms.
-- **Why was it researched?**
-ME/CFS and Long COVID share many symptoms and are often triggered by infections, suggesting they may have a common underlying pathology involving a dysregulated immune system. Researchers hypothesized that an aberrant immune response leads to CD8 T-cell dysfunction, similar to the "T-cell exhaustion" seen in chronic viral infections. This study aimed to identify a specific biomarker for these conditions and explore a potential multi-mechanism treatment targeting oxidative stress and immune dysregulation.
-- **How was it researched?**
-The study involved two parts. First, a laboratory analysis was conducted on fresh blood samples from 12 ME/CFS patients, 8 Long COVID patients, and 10 healthy controls to measure CD8 T-cell function via intracellular cytokine staining (ICS). Second, it presented a retrospective case series of 8 of these patients (4 ME/CFS, 4 Long COVID) who independently chose to use a nebulized treatment, Inspiritol, for a period of 3-15 months. Researchers reviewed changes in their T-cell function and symptom severity scores over the course of the treatment.
-- **What has been found?**
-The study found that CD8 T-cells from both ME/CFS and Long COVID patients had a significantly diminished capacity to produce the cytokines IFNy and TNFa after stimulation compared to healthy controls, confirming a state of immune dysfunction. In the retrospective case series of 8 patients treated with a nebulized antioxidant/anti-pathogen agent (Inspiritol) 💊, there was an observed improvement in this CD8 T-cell function that occurred in parallel with symptom improvement. On average, these patients reported a 54% decrease in overall symptom severity, and no serious treatment-associated side effects were noted.
-- **Discussion:**
-The authors suggest that the observed CD8 T-cell dysfunction is a fundamental aspect of both ME/CFS and Long COVID, potentially explaining the body's inability to control latent pathogens. They note that the multi-component nature of the nebulized agent, which has antioxidant, anti-pathogen, and immunomodulatory properties, may address several underlying mechanisms of the diseases simultaneously. The primary limitation is the small number of patients in the retrospective, uncontrolled case series, which means the results are preliminary.
-- **Conclusion & Future Work:**
-The authors conclude that CD8 T-cell dysfunction appears to be a key feature of both ME/CFS and Long COVID, and that this measurement has potential as a diagnostic and treatment-tracking biomarker. The positive results from the retrospective case series, although preliminary, support advancing the nebulized agent into larger, controlled clinical trials to formally evaluate its safety and efficacy for both conditions.
-- **Summary:**
-This study provides evidence for a specific, measurable dysfunction in the immune systems of ME/CFS and Long COVID patients, where key "killer" T-cells (CD8 T-cells) appear exhausted and are unable to function properly. This finding could lead to the development of a standardized, objective blood test to aid in diagnosis. Furthermore, the paper presents preliminary but encouraging results from a small group of patients who used a novel nebulized treatment and experienced significant symptom reduction alongside a partial reversal of this immune dysfunction. While not a cure, this research opens a new avenue for therapies that target immune modulation and oxidative stress, though these findings must be validated in larger clinical trials.
-- **Simple Summary:**
-Scientists have identified a specific defect in the immune cells of people with ME/CFS and Long COVID, which may help explain the illness. This discovery could be used to create a new blood test to help with diagnosis. In a small, preliminary study, a nebulized antioxidant treatment appeared to improve both this immune defect and patient symptoms, opening a new path for future research.
-
----
-
 ### 2023-06-22 Study to Investigate Improvement in Physical Function in SF-36 With Vericiguat Compared With Placebo in Participants With Post-COVID-19 Syndrome
+
 - **Overview:**
     - **Trial ID:** NCT05697640
     - **Link:** https://clinicaltrials.gov/study/NCT05697640
@@ -496,8 +573,8 @@ This trial aims to see if an approved drug called Vericiguat 💊 can relieve pr
         - Individuals who are pregnant or breastfeeding.
 
 ---
-
 ### 2023-06-08 Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial
+
 - **Metadata:**
     - **Authors:** Bramante, Carolyn T.; Buse, John B.; Liebovitz, David M.
     - **Institutes:** Division of General Internal Medicine, University of Minnesota; Endocrinology, University of North Carolina; General Internal Medicine, Northwestern University.
@@ -521,8 +598,8 @@ This is a landmark study as it is the first large-scale randomized trial to show
 Researchers tested three different drugs to see if taking them during a COVID-19 infection could prevent Long COVID. They found that metformin, a safe and inexpensive drug normally used for diabetes, significantly reduced the chance of getting Long COVID. The other two drugs tested, ivermectin and fluvoxamine, did not show any benefit.
 
 ---
-
 ### 2022-11-11 Prednisolone and Vitamin B1/​6/​12 in Patients With Post-Covid-Syndrome (PreVitaCOV)
+
 - **Overview:**
     - **Trial ID:** NCT05638633
     - **Link:** https://clinicaltrials.gov/study/NCT05638633
@@ -549,9 +626,10 @@ This trial investigated the effectiveness of treating Post-COVID-19 Syndrome (PC
         - Individuals who are pregnant or breastfeeding.
         - Patients with other severe medical conditions that could explain their symptoms (e.g., chronic heart failure, active cancer, untreated hypothyroidism).
         - Current use of certain medications like immunosuppressive drugs or non-steroidal anti-inflammatory drugs (NSAIDs).
----
 
+---
 ### 2022-05-09 The Pathobiology of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: The Case for Neuroglial Failure
+
 - **Metadata:**
     - **Authors:** Renz-Polster, Herbert; Tremblay, Marie-Eve; Bienzle, Dorothee.
     - **Institutes:** Division of General Medicine, Center for Preventive Medicine and Digital Health Baden-Württemberg (CPD-BW), University Medicine Mannheim, Heidelberg University; Axe Neurosciences, Centre de Recherche du CHU de Québec, Université Laval; Département de Médecine Moléculaire, Université Laval.
@@ -575,8 +653,8 @@ This paper offers a unifying theory that places malfunctioning brain immune cell
 Scientists propose a new theory that ME/CFS may be caused by malfunctioning support and immune cells in the brain. This malfunction could explain key symptoms like post-exertional malaise and reduced blood flow to the brain. This idea helps connect many different research findings and gives scientists a new target to study for future treatments.
 
 ---
-
 ### 2022-03-31 Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/ chronic fatigue syndrome
+
 - **Metadata:**
     - **Authors:** Germain, Arnaud; Giloteaux, Ludovic; Moore, Geoffrey E.
     - **Institutes:** Department of Molecular Biology and Genetics, Cornell University, Ithaca, New York, USA; Department of Exercise Science and Athletic Training, Ithaca College, Ithaca, New York, USA; EVMED Research, Torrance, California, USA.
@@ -600,8 +678,8 @@ This study provides strong, objective evidence for the biological reality of pos
 Scientists measured over a thousand substances in the blood of patients before and after two days of exercise tests. They discovered that while healthy people's bodies recovered, the metabolism of patients became even more disrupted 24 hours later. This finding helps explain the biological basis of post-exertional malaise and points to specific problems with energy production.
 
 ---
-
 ### 2020-02-06 An Isolated Complex V Inefficiency and Dysregulated Mitochondrial Function in Immortalized Lymphocytes from ME/CFS Patients
+
 - **Metadata:**
     - **Authors:** Missailidis, Daniel; Annesley, Sarah J.; Allan, Claire Y.
     - **Institutes:** Department of Physiology, Anatomy, and Microbiology, La Trobe University, Melbourne; National Centre for Epidemiology and Population Health, Research School of Population Health, Australian National University, Canberra.
@@ -625,8 +703,8 @@ This study identifies a specific problem at the very end of the cellular energy 
 Scientists discovered a specific inefficiency in the final step of energy production within immune cells from ME/CFS patients. The cells work overtime to make up for this problem, keeping energy levels normal when at rest. This constant state of compensation may be why the cells can't produce extra energy when needed, potentially explaining the severe fatigue after exertion.
 
 ---
-
 ### 2019-07-04 Post-Exertional Malaise Is Associated with Hypermetabolism, Hypoacetylation and Purine Metabolism Deregulation in ME/CFS Cases
+
 - **Metadata:**
     - **Authors:** McGregor, Neil R.; Armstrong, Christopher W.; Lewis, Donald P.
     - **Institutes:** Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne; Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and Biochemistry Institute; CFS Discovery, Donvale Medical Centre.
@@ -650,8 +728,8 @@ This research provides a potential biological explanation for the "crash" experi
 Scientists found that after exertion, the bodies of ME/CFS patients go into an overdrive state, causing them to lose key molecules through their urine. This process appears to be connected to muscle breakdown, leaky gut, and problems with how cells produce energy. These findings help explain the biological cause of post-exertional malaise and show why pushing through activity could be physically damaging.
 
 ---
-
 ### 2015-02-10 Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness
+
 - **Metadata:**
     - **Authors:** Clayton, Ellen Wright; Alegría, Margarita; Bateman, Lucinda.
     - **Institutes:** Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome; Board on the Health of Select Populations; Institute of Medicine.
@@ -673,5 +751,3 @@ The committee concluded that ME/CFS is a serious, chronic, complex, systemic dis
 This landmark report from the Institute of Medicine provides strong validation for the severity and legitimacy of ME/CFS, directly addressing the skepticism that patients often face. By proposing new diagnostic criteria centered on core, debilitating symptoms like post-exertional malaise, it provides clinicians with a clearer path to diagnosis, potentially reducing the years-long diagnostic delays many patients endure. The recommendation to rename the illness "systemic exertion intolerance disease" (SEID) is a direct attempt to reduce stigma and better reflect the central role of exertion intolerance in the disease's pathology. For patients, this report represents a crucial step toward improved medical recognition, more accurate diagnoses, and a stronger foundation for future research into treatments.
 - **Simple Summary:**
 A major U.S. medical institute has confirmed that ME/CFS is a serious and complex physical illness. They have created new, clearer diagnostic rules for doctors that focus on core symptoms like the severe worsening of symptoms after minimal exertion. The experts also recommended changing the name to "systemic exertion intolerance disease" to better describe the condition and reduce stigma.
-
----

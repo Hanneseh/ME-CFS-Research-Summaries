@@ -1,0 +1,31 @@
+### 2023-06-22 Studie zur Untersuchung der Verbesserung der körperlichen Funktion im SF-36 mit Vericiguat im Vergleich zu Placebo bei Teilnehmenden mit Post-COVID-19-Syndrom
+
+- **Überblick:**
+    - **Studien-ID:** NCT05697640
+    - **Link:** [https://clinicaltrials.gov/study/NCT05697640](https://clinicaltrials.gov/study/NCT05697640)
+    - **Sponsor / Leitung:** Charité University, Berlin, Germany
+    - **Ort(e):** Berlin, Germany
+    - **Phase:** Phase 2
+    - **Status:** Rekrutierung
+    - **Startdatum:** 2023-06-22
+    - **Voraussichtlicher Abschluss:** 2025-12-31
+- **Zweck der Studie:**
+Diese Studie zielt darauf ab, zu prüfen, ob ein zugelassenes Medikament namens Vericiguat 💊 tiefe Erschöpfung und andere Symptome bei Menschen mit Post-COVID-19-Syndrom (PCS) lindern kann, einschließlich derjenigen, die die Kriterien für ME/CFS erfüllen. Die Studie basiert auf der Theorie, dass eine beeinträchtigte Durchblutung in kleinen Blutgefäßen zu den PCS-Symptomen beiträgt. Es wird angenommen, dass Vericiguat diese Durchblutung verbessert, was zu einer Reduzierung von Symptomen wie Müdigkeit und einer Verbesserung der körperlichen Funktion führen könnte.
+- **Studienaufbau & Vorgehen:**
+    - **Dauer:** Ungefähr 18 Wochen.
+    - **Aufbau:** Es handelt sich um eine randomisierte, doppelblinde, Placebo-kontrollierte Studie. Das bedeutet, die Teilnehmenden werden zufällig einer Gruppe zugeteilt, und weder die Teilnehmenden noch die Forschenden wissen, wer das eigentliche Medikament und wer ein Placebo (eine Substanz ohne Wirkstoff) erhält.
+    - **Gruppen:** Die Teilnehmenden werden in zwei Gruppen aufgeteilt. Eine Gruppe erhält Vericiguat, die andere ein entsprechendes Placebo.
+    - **Vorgehen:** Die Behandlung besteht aus der täglichen Einnahme einer Tablette über 10 Wochen. Die Dosis wird in den ersten vier Wochen schrittweise erhöht. Nach der 10-wöchigen Behandlungsphase folgt eine 30-tägige Nachbeobachtungszeit.
+- **Wichtige Einschlusskriterien:**
+    - **Wer könnte teilnahmeberechtigt sein? (Wichtige Einschlusskriterien)**
+        - Erwachsene im Alter von 18 bis 50 Jahren.
+        - Bestätigte frühere milde bis mittelschwere COVID-19-Infektion (nicht im Krankenhaus behandelt).
+        - Anhaltende Symptome des Post-COVID-Syndroms (mit oder ohne ME/CFS) seit mindestens 6 Monaten.
+        - Muss Anzeichen einer endothelialen Dysfunktion (beeinträchtigte Funktion der inneren Auskleidung kleiner Blutgefäße) aufweisen.
+        - Bell-Score zwischen 30 und 60, was auf eine moderate bis schwere Erkrankung hindeutet.
+    - **Wer ist wahrscheinlich nicht teilnahmeberechtigt? (Wichtige Ausschlusskriterien)**
+        - Personen mit einer Vorgeschichte von Chronischem Fatigue-Syndrom vor ihrer COVID-19-Infektion.
+        - Systolischer Blutdruck unter 100 mmHg beim Screening.
+        - Aktuelle Einnahme von PDE-5-Hemmern (wie Sildenafil, Tadalafil) oder Nitraten.
+        - Erhalt einer COVID-19-Impfung innerhalb von 4 Wochen vor Studieneintritt.
+        - Personen, die schwanger sind oder stillen.
