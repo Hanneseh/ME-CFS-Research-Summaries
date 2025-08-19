@@ -1,7 +1,7 @@
 ### 2020-02-06 An Isolated Complex V Inefficiency and Dysregulated Mitochondrial Function in Immortalized Lymphocytes from ME/CFS Patients
 
 - **Metadata:**
-    - **Authors:** Missailidis, Daniel; Annesley, Sarah J.; Allan, Claire Y.
+    - **Authors:** Daniel Missailidis, Sarah J. Annesley, Claire Y. Allan, Oana Sanislav, Brett A. Lidbury, Donald P. Lewis, Paul R. Fisher
     - **Institutes:** Department of Physiology, Anatomy, and Microbiology, La Trobe University, Melbourne; National Centre for Epidemiology and Population Health, Research School of Population Health, Australian National University, Canberra.
     - **Publisher:** International Journal of Molecular Sciences
     - **Link:** [DOI](https://doi.org/10.3390/ijms21031074)

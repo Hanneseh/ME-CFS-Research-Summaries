@@ -1,7 +1,7 @@
 ### 2025-07-09 Targeting von Plasmazellen mit dem Anti-CD38-Antikörper Daratumumab bei Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom – eine klinische Pilotstudie
 
 - **Metadaten:**
-    - **Autoren:** Fluge, Øystein; Rekeland, Ingrid Gurvin; Sørland, Kari.
+    - **Autoren:** Øystein Fluge, Ingrid Gurvin Rekeland, Kari Sørland, Kine Alme, Kristin Risa, Ove Bruland, Karl Johan Tronstad, Olav Mella
     - **Institute:** The Cancer Clinic, Haukeland University Hospital, Bergen, Norway; Institute of Clinical Sciences, University of Bergen, Bergen, Norway; Department of Medical Genetics, Haukeland University Hospital, Bergen, Norway.
     - **Veröffentlicht in:** Frontiers in Medicine
     - **Link:** [DOI](https://doi.org/10.3389/fmed.2025.1607353)

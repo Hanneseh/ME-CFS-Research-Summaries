@@ -1,7 +1,7 @@
 ### 2025-07-15 Two neurocognitive domains identified for patients with myalgic encephalomyelitis/chronic fatigue syndrome and post-acute sequelae of COVID-19
 
 - **Metadata:**
-    - **Authors:** Sandoval, Ariadna; Li, Mingqi; Jason, Leonard A.
+    - **Authors:** Ariadna Sandoval, Mingqi Li, Leonard A. Jason
     - **Institutes:** Center for Community Research, DePaul University, Chicago, IL, United States.
     - **Publisher:** Frontiers in Neurology
     - **Link:** [DOI](https://doi.org/10.3389/fneur.2025.1612548)

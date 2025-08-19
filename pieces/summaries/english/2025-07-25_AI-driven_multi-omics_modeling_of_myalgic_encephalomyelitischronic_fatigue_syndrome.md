@@ -1,7 +1,7 @@
 ### 2025-07-25 AI-driven multi-omics modeling of myalgic encephalomyelitis/chronic fatigue syndrome
 
 - **Metadata:**
-    - **Authors:** Xiong, Ruoyun; Aiken, Elizabeth; Caldwell, Ryan.
+    - **Authors:** Ruoyun Xiong, Elizabeth Aiken, Ryan Caldwell, Suzanne D. Vernon, Lina Kozhaya, Courtney Gunter, Lucinda Bateman, Derya Unutmaz, Julia Oh
     - **Institutes:** Duke University, Durham, NC, USA; The University of Connecticut Health Center, Farmington, CT, USA; The Jackson Laboratory, Farmington, CT, USA.
     - **Publisher:** nature medicine
     - **Link:** [DOI](https://doi.org/10.1038/s41591-025-03788-3)

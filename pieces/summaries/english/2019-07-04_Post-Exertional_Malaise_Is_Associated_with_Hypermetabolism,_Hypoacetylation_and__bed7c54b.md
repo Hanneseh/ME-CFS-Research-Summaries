@@ -1,7 +1,7 @@
 ### 2019-07-04 Post-Exertional Malaise Is Associated with Hypermetabolism, Hypoacetylation and Purine Metabolism Deregulation in ME/CFS Cases
 
 - **Metadata:**
-    - **Authors:** McGregor, Neil R.; Armstrong, Christopher W.; Lewis, Donald P.
+    - **Authors:** Neil R. McGregor, Christopher W. Armstrong, Donald P. Lewis, Paul R. Gooley
     - **Institutes:** Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne; Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and Biochemistry Institute; CFS Discovery, Donvale Medical Centre.
     - **Publisher:** Diagnostics
     - **Link:** [DOI](https://doi.org/10.3390/diagnostics9030070)

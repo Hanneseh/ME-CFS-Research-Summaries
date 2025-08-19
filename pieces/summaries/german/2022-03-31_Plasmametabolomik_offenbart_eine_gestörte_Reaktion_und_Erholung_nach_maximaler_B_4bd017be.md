@@ -1,7 +1,7 @@
 ### 2022-03-31 Plasmametabolomik offenbart eine gestörte Reaktion und Erholung nach maximaler Belastung bei Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom
 
 - **Metadaten:**
-    - **Autoren:** Germain, Arnaud; Giloteaux, Ludovic; Moore, Geoffrey E.
+    - **Autoren:** Herbert Renz-Polster, Marie-Eve Tremblay, Dorothee Bienzle, Joachim E. Fischer
     - **Institute:** Department of Molecular Biology and Genetics, Cornell University, Ithaca, New York, USA; Department of Exercise Science and Athletic Training, Ithaca College, Ithaca, New York, USA; EVMED Research, Torrance, California, USA.
     - **Veröffentlicht in:** JCI Insight
     - **Link:** [DOI](https://doi.org/10.1172/jci.insight.157621)

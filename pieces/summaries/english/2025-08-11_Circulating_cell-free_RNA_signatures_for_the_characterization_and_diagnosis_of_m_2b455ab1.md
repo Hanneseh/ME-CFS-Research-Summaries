@@ -1,7 +1,7 @@
 ### 2025-08-11 Circulating cell-free RNA signatures for the characterization and diagnosis of myalgic encephalomyelitis/chronic fatigue syndrome
 
 - **Metadata:**
-    - **Authors:** Gardella, Anne E.; Eweis-LaBolle, Daniel; Loy, Conor J.
+    - **Authors:** Anne E. Gardella, Daniel Eweis-LaBolle, Conor J. Loy, Emma D. Belcher, Joan S. Lenz, Carl J. Franconi, Sally Y. Scofield, Andrew Grimson, Maureen R. Hanson, Iwijn De Vlaminck
     - **Institutes:** Department of Molecular Biology and Genetics, Cornell University; Meinig School of Biomedical Engineering, Cornell University.
     - **Publisher:** PNAS
     - **Link:** [DOI](https://doi.org/10.1073/pnas.2507345122)

@@ -1,7 +1,7 @@
 ### 2025-02-21 Off-Label-Medikamentenliste für ME/CFS und Post-akute Infektionssyndrome
 
 - **Metadaten:**
-    - **Autoren:** Reference Center for Post-Viral Syndromes
+    - **Autoren:** Martha Eckey, Peng Li, Braxton Morrison, Jonas Bergquist, Ronald W. Davis, Wenzhong Xiao
     - **Institute:** Medical University of Vienna
     - **Veröffentlicht in:** Medical University of Vienna
     - **Link:** [Für Ärztinnen, Gesundheitsberufe & Stakeholder](https://www.meduniwien.ac.at/web/referenzzentrum-postvirale-syndrome/fuer-aerztinnen-gesundheitsberufe/)

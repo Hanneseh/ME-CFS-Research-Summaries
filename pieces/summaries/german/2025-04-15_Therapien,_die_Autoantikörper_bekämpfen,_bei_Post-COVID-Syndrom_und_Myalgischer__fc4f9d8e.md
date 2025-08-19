@@ -1,7 +1,7 @@
 ### 2025-04-15 Therapien, die Autoantikörper bekämpfen, bei Post-COVID-Syndrom und Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom
 
 - **Metadaten:**
-    - **Autoren:** Wohlrab, Felix; Eltity, Mailam; Ufer, Friederike.
+    - **Autoren:** Felix Wohlrab, Mailam Eltity, Friederike Ufer, Friedemann Paul, Carmen Scheibenbogen, Judith Bellmann-Strobl
     - **Institute:** Experimental and Clinical Research Center, A Cooperation Between Max Delbrück Center for Molecular Medicine in the Helmholtz Association and Charité - Universitätsmedizin Berlin, Berlin, Germany; Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC), Experimental and Clinical Research Center, Berlin, Germany; Clinic for Neurology and Experimental Neurology, Charité Universitätsmedizin Berlin, Berlin, Germany.
     - **Veröffentlicht in:** Expert Opinion on Biological Therapy
     - **Link:** [DOI](https://doi.org/10.1080/14712598.2025.2492774)

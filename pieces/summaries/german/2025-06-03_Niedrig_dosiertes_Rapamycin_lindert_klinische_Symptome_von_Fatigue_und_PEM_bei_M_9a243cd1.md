@@ -1,6 +1,6 @@
 ### 2025-06-03 Niedrig dosiertes Rapamycin lindert klinische Symptome von Fatigue und PEM bei ME/CFS-Patienten durch Verbesserung der Autophagie
 - **Metadaten:**
-  - **Autoren:** Brian T. Ruan, Sarojini Bulbule, Amy Reyes, Bela Chheda, Lucinda Bateman, Jennifer Bell, Braydon Yellman, Stephanie Grach, Jon Berner, Daniel L. Peterson, David Kaufman, AVIK ROY, C. Gunnar Gottschalk.
+  - **Autoren:** Brian T. Ruan, Sarojini Bulbule, Amy Reyes, Bela Chheda, Lucinda Bateman, Jennifer Bell, Braydon Yellman, Stephanie Grach, Jon Berner, Daniel L. Peterson, David Kaufman, AVIK ROY, C. Gunnar Gottschalk
   - **Institute:** Cornell University, Simmaron Research INC, University of Wisconsin-Milwaukee, Center for Complex Diseases (Palo Alto, CA, and Seattle, WA), Bateman Horne Center, Mayo Clinic Research Rochester, Woodinville psychiatric Associates, Sierra Internal Medicine.
   - **Veröffentlicht in:** Research Square (Preprint).
   - **Link:** [DOI](https://doi.org/10.21203/rs.3.rs-6596158/v1)

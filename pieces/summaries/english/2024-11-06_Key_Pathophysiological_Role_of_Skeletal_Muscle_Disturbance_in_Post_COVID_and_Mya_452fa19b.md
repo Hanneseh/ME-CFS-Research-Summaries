@@ -1,7 +1,7 @@
 ### 2024-11-06 Key Pathophysiological Role of Skeletal Muscle Disturbance in Post COVID and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Accumulated Evidence
 
 - **Metadata:**
-    - **Authors:** Scheibenbogen, Carmen; Wirth, Klaus J.
+    - **Authors:** Carmen Scheibenbogen, Klaus J. Wirth
     - **Institutes:** Institute of Medical Immunology, Charité - Universitätsmedizin Berlin; Mitodicure GmbH, Kriftel, Germany; Institute for General Pharmacology and Toxicology, University Hospital, Goethe University Frankfurt am Main.
     - **Publisher:** Journal of Cachexia, Sarcopenia and Muscle
     - **Link:** [DOI](https://doi.org/10.1002/jcsm.13669)

@@ -1,7 +1,7 @@
 ### 2022-03-31 Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/ chronic fatigue syndrome
 
 - **Metadata:**
-    - **Authors:** Germain, Arnaud; Giloteaux, Ludovic; Moore, Geoffrey E.
+    - **Authors:** Arnaud Germain, Ludovic Giloteaux, Geoffrey E. Moore, Susan M. Levine, John K. Chia, Betsy A. Keller, Jared Stevens, Carl J. Franconi, Xiangling Mao, Dikoma C. Shungu, Andrew Grimson, Maureen R. Hanson
     - **Institutes:** Department of Molecular Biology and Genetics, Cornell University, Ithaca, New York, USA; Department of Exercise Science and Athletic Training, Ithaca College, Ithaca, New York, USA; EVMED Research, Torrance, California, USA.
     - **Publisher:** JCI Insight
     - **Link:** [DOI](https://doi.org/10.1172/jci.insight.157621)

@@ -1,7 +1,7 @@
 ### 2025-07-08 Patient-reported treatment outcomes in ME/CFS and long COVID
 
 - **Metadata:**
-    - **Authors:** Eckey, Martha; Li, Peng; Morrison, Braxton.
+    - **Authors:** Martha Eckey, Peng Li, Braxton Morrison, Jonas Bergquist, Ronald W. Davis, Wenzhong Xiao
     - **Institutes:** Computational Research Center for Complex Chronic Diseases, Massachusetts General Hospital, Harvard Medical School; The Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Collaborative Research Centre, Department of Chemistry BMC, Uppsala University; Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Collaborative Research Center, Stanford University School of Medicine.
     - **Publisher:** PNAS
     - **Link:** [DOI](https://doi.org/10.1073/pnas.2426874122)

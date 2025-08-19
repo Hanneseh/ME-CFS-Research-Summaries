@@ -1,7 +1,7 @@
 ### 2022-05-09 The Pathobiology of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: The Case for Neuroglial Failure
 
 - **Metadata:**
-    - **Authors:** Renz-Polster, Herbert; Tremblay, Marie-Eve; Bienzle, Dorothee.
+    - **Authors:** Herbert Renz-Polster, Marie-Eve Tremblay, Dorothee Bienzle, Joachim E. Fischer
     - **Institutes:** Division of General Medicine, Center for Preventive Medicine and Digital Health Baden-Württemberg (CPD-BW), University Medicine Mannheim, Heidelberg University; Axe Neurosciences, Centre de Recherche du CHU de Québec, Université Laval; Département de Médecine Moléculaire, Université Laval.
     - **Publisher:** Frontiers in Cellular Neuroscience
     - **Link:** [DOI](https://doi.org/10.3389/fncel.2022.888232)

@@ -1,7 +1,7 @@
 ### 2025-07-07 SMPDL3B ein neuartiger Biomarker und therapeutisches Ziel bei Myalgischer Enzephalomyelitis
 
 - **Metadaten:**
-    - **Autoren:** Rostami-Afshari, Bita; Elremaly, Wesam; Franco, Anita.
+    - **Autoren:** Bita Rostami-Afshari, Wesam Elremaly, Anita Franco, Mohamed Elbakry, Marie-Yvonne Akoume, Ines Boufaied, Atefeh Moezzi, Corinne Leveau, Pierre Rompré, Christian Godbout, Olav Mella, Øystein Fluge, Alain Moreau
     - **Institute:** Viscogliosi Laboratory in Molecular Genetics of Musculoskeletal Diseases, CHU Sainte-Justine; Department of Biochemistry and Molecular Medicine, Faculty of Medicine, Université de Montréal; Open Medicine Foundation ME/CFS Collaborative Center at CHU Sainte-Justine/Université de Montréal.
     - **Veröffentlicht in:** Journal of Translational Medicine
     - **Link:** [DOI](https://doi.org/10.1186/s12967-025-06829-0)

@@ -1,7 +1,7 @@
 ### 2019-07-04 Post-Exertional Malaise ist mit Hypermetabolismus, Hypoacetylierung und Deregulation des Purin-Stoffwechsels bei ME/CFS-Fällen verbunden
 
 - **Metadaten:**
-    - **Autoren:** McGregor, Neil R.; Armstrong, Christopher W.; Lewis, Donald P.
+    - **Autoren:** Neil R. McGregor, Christopher W. Armstrong, Donald P. Lewis, Paul R. Gooley
     - **Institute:** Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne; Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and Biochemistry Institute; CFS Discovery, Donvale Medical Centre.
     - **Veröffentlicht in:** Diagnostics
     - **Link:** [DOI](https://doi.org/10.3390/diagnostics9030070)

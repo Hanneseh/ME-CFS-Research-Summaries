@@ -1,7 +1,7 @@
 ### 2025-07-15 Zwei neurokognitive Bereiche identifiziert bei Patienten mit Myalgischer Enzephalomyelitis/Chronic Fatigue Syndrome und Post-Akuten Folgen von COVID-19
 
 - **Metadaten:**
-    - **Autoren:** Sandoval, Ariadna; Li, Mingqi; Jason, Leonard A.
+    - **Autoren:** Martha Eckey, Peng Li, Braxton Morrison, Jonas Bergquist, Ronald W. Davis, Wenzhong Xiao
     - **Institute:** Center for Community Research, DePaul University, Chicago, IL, United States.
     - **Veröffentlicht in:** Frontiers in Neurology
     - **Link:** [DOI](https://doi.org/10.3389/fneur.2025.1612548)

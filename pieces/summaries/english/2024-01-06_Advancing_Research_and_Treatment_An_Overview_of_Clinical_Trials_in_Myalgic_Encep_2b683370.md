@@ -1,7 +1,7 @@
 ### 2024-01-06 Advancing Research and Treatment: An Overview of Clinical Trials in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Future Perspectives
 
 - **Metadata:**
-    - **Authors:** Seton, Katharine A.; Espejo-Oltra, José A.; Giménez-Orenga, Karen.
+    - **Authors:** Katharine A. Seton, José A. Espejo-Oltra, Karen Giménez-Orenga, Rik Haagmans, Donia J. Ramadan, Jesper Mehlsen
     - **Institutes:** Quadram Institute Bioscience, Norwich Research Park; Max Delbrück Center for Molecular Medicine; Department of Pathology, School of Health Sciences, Universidad Católica de Valencia.
     - **Publisher:** Journal of Clinical Medicine
     - **Link:** [DOI](https://doi.org/10.3390/jcm13020325)

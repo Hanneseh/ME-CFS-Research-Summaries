@@ -1,7 +1,7 @@
 ### 2024-11-06 Zentrale pathophysiologische Rolle von Störungen der Skelettmuskulatur bei Post-COVID und Myalgischer Enzephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Gesammelte Belege
 
 - **Metadaten:**
-    - **Autoren:** Scheibenbogen, Carmen; Wirth, Klaus J.
+    - **Autoren:** Katharine A. Seton, José A. Espejo-Oltra, Karen Giménez-Orenga, Rik Haagmans, Donia J. Ramadan, Jesper Mehlsen
     - **Institute:** Institute of Medical Immunology, Charité - Universitätsmedizin Berlin; Mitodicure GmbH, Kriftel, Germany; Institute for General Pharmacology and Toxicology, University Hospital, Goethe University Frankfurt am Main.
     - **Veröffentlicht in:** Journal of Cachexia, Sarcopenia and Muscle
     - **Link:** [DOI](https://doi.org/10.1002/jcsm.13669)

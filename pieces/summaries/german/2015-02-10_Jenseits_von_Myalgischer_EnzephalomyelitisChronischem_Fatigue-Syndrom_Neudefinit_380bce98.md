@@ -1,7 +1,7 @@
 ### 2015-02-10 Jenseits von Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom: Neudefinition einer Krankheit
 
 - **Metadaten:**
-    - **Autoren:** Clayton, Ellen Wright; Alegría, Margarita; Bateman, Lucinda.
+    - **Autoren:** Institute of Medicine, Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome, Board on the Health of Select Populations
     - **Institute:** Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome; Board on the Health of Select Populations; Institute of Medicine.
     - **Veröffentlicht in:** The National Academies Press
     - **Link:** [Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness](https://www.ncbi.nlm.nih.gov/books/NBK274235/)

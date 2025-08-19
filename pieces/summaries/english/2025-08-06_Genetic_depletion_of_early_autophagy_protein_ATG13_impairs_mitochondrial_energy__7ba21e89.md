@@ -1,7 +1,7 @@
 ### 2025-08-06 Genetic depletion of early autophagy protein ATG13 impairs mitochondrial energy metabolism, augments oxidative stress, induces the polarization of macrophages to M1 inflammatory mode, and compromises myelin integrity in skeletal muscle
 
 - **Metadata:**
-    - **Authors:** Toriola, Mubaraq A.; Timlin, Emma; Bulbule, Sarojini.
+    - **Authors:** Mubaraq A. Toriola, Emma Timlin, Sarojini Bulbule, Amy Reyes, Omolola Mary Adedeji, C. Gunnar Gottschalk, Animesh Barua, Leggy A. Arnold, Avik Roy
     - **Institutes:** University of Wisconsin-Milwaukee; Simmaron Research INC.
     - **Publisher:** Research Square
     - **Link:** [DOI](https://doi.org/10.21203/rs.3.rs-7189456/v1)

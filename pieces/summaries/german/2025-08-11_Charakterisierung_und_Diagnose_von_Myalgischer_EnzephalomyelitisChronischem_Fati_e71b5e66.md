@@ -1,7 +1,7 @@
 ### 2025-08-11 Charakterisierung und Diagnose von Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom durch Signaturen zirkulierender zellfreier RNA
 
 - **Metadaten:**
-  - **Autoren:** Gardella, Anne E.; Eweis-LaBolle, Daniel; Loy, Conor J.
+  - **Autoren:** Anne E. Gardella, Daniel Eweis-LaBolle, Conor J. Loy, Emma D. Belcher, Joan S. Lenz, Carl J. Franconi, Sally Y. Scofield, Andrew Grimson, Maureen R. Hanson, Iwijn De Vlaminck
   - **Institute:** Department of Molecular Biology and Genetics, Cornell University; Meinig School of Biomedical Engineering, Cornell University.
   - **Veröffentlicht in:** PNAS
   - **Link:** [DOI](https://doi.org/10.1073/pnas.2507345122)

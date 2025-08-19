@@ -1,7 +1,7 @@
 ### 2025-08-06 Erste Ergebnisse der genomweiten Assoziationsstudie von Myalgischer Enzephalomyelitis/Chronic Fatigue Syndrome (DecodeME)
 
 - **Metadaten:**
-    - **Autoren:** Boutin, Thibaud; Bretherick, Andrew D.; Dibble, Joshua J.
+    - **Autoren:** DecodeME Collaboration
     - **Institute:** MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh; Pain Service, NHS Tayside, Ninewells Hospital; c/o DecodeME, MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh.
     - **Veröffentlicht in:** Preprint
     - **Link:** [DOI](https://doi.org/10.1101/2025.08.06.25333109)

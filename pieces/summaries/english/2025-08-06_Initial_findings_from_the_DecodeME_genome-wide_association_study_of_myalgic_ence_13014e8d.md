@@ -1,7 +1,7 @@
 ### 2025-08-06 Initial findings from the DecodeME genome-wide association study of myalgic encephalomyelitis/chronic fatigue syndrome
 
 - **Metadata:**
-    - **Authors:** Boutin, Thibaud; Bretherick, Andrew D.; Dibble, Joshua J.
+    - **Authors:** DecodeME Collaboration
     - **Institutes:** MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh; Pain Service, NHS Tayside, Ninewells Hospital; c/o DecodeME, MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh.
     - **Publisher:** Preprint
     - **Link:** [DOI](https://doi.org/10.1101/2025.08.06.25333109)

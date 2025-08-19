@@ -1,7 +1,7 @@
 ### 2025-08-11 Microfluidic assessment of PO2-regulated RBC capillary velocity in ME/CFS
 
 - **Metadata:**
-    - **Authors:** Guo, Yaojun; Zhou, Sitong; Ren, Samuel.
+    - **Authors:** Yaojun Guo, Sitong Zhou, Samuel Ren, Xin Liu, Mohsen Nemat-Gorgani, Mike Gresser, Ronald W. Davis, Jiandi Wan
     - **Institutes:** Department of Chemical Engineering, University of California, Davis; Department of Pathology and Lab Medicine, Medical Center of University of California, Davis; Henry Gunn High School.
     - **Publisher:** blood RCI
     - **Link:** [DOI](https://doi.org/10.1016/j.brci.2025.100019)

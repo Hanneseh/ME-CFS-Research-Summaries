@@ -1,7 +1,7 @@
 ### 2025-08-06 Genetische Reduktion des frühen Autophagie-Proteins ATG13 beeinträchtigt den mitochondrialen Energiestoffwechsel, verstärkt oxidativen Stress, induziert die Polarisation von Makrophagen in den entzündlichen M1-Modus und beeinträchtigt die Myelin-Integrität in der Skelettmuskulatur
 
 - **Metadaten:**
-    - **Autoren:** Toriola, Mubaraq A.; Timlin, Emma; Bulbule, Sarojini.
+    - **Autoren:** Mubaraq A. Toriola, Emma Timlin, Sarojini Bulbule, Amy Reyes, Omolola Mary Adedeji, C. Gunnar Gottschalk, Animesh Barua, Leggy A. Arnold, Avik Roy
     - **Institute:** University of Wisconsin-Milwaukee; Simmaron Research INC.
     - **Veröffentlicht in:** Research Square
     - **Link:** [DOI](https://doi.org/10.21203/rs.3.rs-7189456/v1)

@@ -64,7 +64,7 @@ Therapeutische Strategien zielen zunehmend auf die zentralen autoimmunen, metabo
 ### 2025-08-11 Mikrofluidische Untersuchung der $PO\_2$-regulierten Kapillargeschwindigkeit von roten Blutkörperchen bei ME/CFS
 
 - **Metadaten:**
-    - **Autoren:** Guo, Yaojun; Zhou, Sitong; Ren, Samuel.
+    - **Autoren:** Yaojun Guo, Sitong Zhou, Samuel Ren, Xin Liu, Mohsen Nemat-Gorgani, Mike Gresser, Ronald W. Davis, Jiandi Wan
     - **Institute:** Department of Chemical Engineering, University of California, Davis; Department of Pathology and Lab Medicine, Medical Center of University of California, Davis; Henry Gunn High School.
     - **Veröffentlicht in:** blood RCI
     - **Link:** [DOI](https://doi.org/10.1016/j.brci.2025.100019)
@@ -89,7 +89,7 @@ Therapeutische Strategien zielen zunehmend auf die zentralen autoimmunen, metabo
 ### 2025-08-11 Charakterisierung und Diagnose von Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom durch Signaturen zirkulierender zellfreier RNA
 
 - **Metadaten:**
-  - **Autoren:** Gardella, Anne E.; Eweis-LaBolle, Daniel; Loy, Conor J.
+  - **Autoren:** Anne E. Gardella, Daniel Eweis-LaBolle, Conor J. Loy, Emma D. Belcher, Joan S. Lenz, Carl J. Franconi, Sally Y. Scofield, Andrew Grimson, Maureen R. Hanson, Iwijn De Vlaminck
   - **Institute:** Department of Molecular Biology and Genetics, Cornell University; Meinig School of Biomedical Engineering, Cornell University.
   - **Veröffentlicht in:** PNAS
   - **Link:** [DOI](https://doi.org/10.1073/pnas.2507345122)
@@ -113,7 +113,7 @@ Therapeutische Strategien zielen zunehmend auf die zentralen autoimmunen, metabo
 ---
 ### 2025-08-10 Von ME/CFS- und PASC-Patienten stammende Immunglobulinkomplexe stören die Mitochondrienfunktion und verändern die Ausschüttung von Entzündungsmarkern
 - **Metadaten:**
-    - **Autoren:** Zheng Liu, Claudia Hollmann, Sharada Kalanidhi, Stephanie Lamer, Andreas Schlosser, Emils Edgars Basens, Georgy Nikolayshvili, Liba Sokolovska, Gabriela Riemekasten, Rebekka Rust, Judith Bellmann-Strobel, Friedemann Paul, Robert K Naviaux, Zaiga Nora-Krukle, Franziska Sotzny, Carmen Scheibenbogen, Bhupesh K Prusty.
+    - **Autoren:** Zheng Liu, Claudia Hollmann, Sharada Kalanidhi, Stephanie Lamer, Andreas Schlosser, Emils Edgars Basens, Georgy Nikolayshvili, Liba Sokolovska, Gabriela Riemekasten, Rebekka Rust, Judith Bellmann-Strobel, Friedemann Paul, Robert K. Naviaux, Zaiga Nora-Krukle, Franziska Sotzny, Carmen Scheibenbogen, Bhupesh K. Prusty
     - **Institute:** Institute of Virology and Immunobiology, University of Würzburg, Germany; Stanford Genome Technology Center, Stanford University School of Medicine, Stanford, CA, USA; Rudolf Virchow Center, Center for Translational Bioimaging, Julius-Maximilians-University of Würzburg, Germany; Institute of Microbiology and Virology, Riga Stradiņš University Research Center, Riga, Latvia; Klinik für Rheumatologie, Universitätsklinikum Schleswig-Holstein, Lübeck; Experimental and Research Center (ECRC), Charité - Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, Humboldt Universität zu Berlin and Berlin Institute of Health, Berlin, Germany; NeuroCure Research Centre, Charité Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, Humboldt Universität zu Berlin and Berlin Institute of Health, Berlin, Germany; Departments of Medicine, Pediatrics, and Pathology, University of California, San Diego School of Medicine, San Diego, USA; Institute of Medical Immunology, Charité Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt Universität zu Berlin and Berlin Institute of Health, Berlin, Germany.
     - **Veröffentlicht in:** medRxiv
     - **Link:** [DOI](https://doi.org/10.1101/2025.08.06.25332978)
@@ -138,7 +138,7 @@ Wissenschaftler haben im Labor gezeigt, dass Antikörper von ME/CFS-Patienten di
 ### 2025-08-06 Genetische Reduktion des frühen Autophagie-Proteins ATG13 beeinträchtigt den mitochondrialen Energiestoffwechsel, verstärkt oxidativen Stress, induziert die Polarisation von Makrophagen in den entzündlichen M1-Modus und beeinträchtigt die Myelin-Integrität in der Skelettmuskulatur
 
 - **Metadaten:**
-    - **Autoren:** Toriola, Mubaraq A.; Timlin, Emma; Bulbule, Sarojini.
+    - **Autoren:** Mubaraq A. Toriola, Emma Timlin, Sarojini Bulbule, Amy Reyes, Omolola Mary Adedeji, C. Gunnar Gottschalk, Animesh Barua, Leggy A. Arnold, Avik Roy
     - **Institute:** University of Wisconsin-Milwaukee; Simmaron Research INC.
     - **Veröffentlicht in:** Research Square
     - **Link:** [DOI](https://doi.org/10.21203/rs.3.rs-7189456/v1)
@@ -163,7 +163,7 @@ Wissenschaftler untersuchten Mäuse mit einem genetischen Defekt in einem zellul
 ### 2025-08-06 Erste Ergebnisse der genomweiten Assoziationsstudie von Myalgischer Enzephalomyelitis/Chronic Fatigue Syndrome (DecodeME)
 
 - **Metadaten:**
-    - **Autoren:** Boutin, Thibaud; Bretherick, Andrew D.; Dibble, Joshua J.
+    - **Autoren:** DecodeME Collaboration
     - **Institute:** MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh; Pain Service, NHS Tayside, Ninewells Hospital; c/o DecodeME, MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh.
     - **Veröffentlicht in:** Preprint
     - **Link:** [DOI](https://doi.org/10.1101/2025.08.06.25333109)
@@ -188,7 +188,7 @@ Die größte genetische Studie zu ME/CFS, die jemals durchgeführt wurde, fand a
 ### 2025-07-25 KI-gesteuerte Multi-Omics-Modellierung der Myalgischen Enzephalomyelitis/des Chronischen Fatigue-Syndroms
 
 - **Metadaten:**
-    - **Autoren:** Xiong, Ruoyun; Aiken, Elizabeth; Caldwell, Ryan.
+    - **Autoren:** Ruoyun Xiong, Elizabeth Aiken, Ryan Caldwell, Suzanne D. Vernon, Lina Kozhaya, Courtney Gunter, Lucinda Bateman, Derya Unutmaz, Julia Oh
     - **Institute:** Duke University, Durham, NC, USA; The University of Connecticut Health Center, Farmington, CT, USA; The Jackson Laboratory, Farmington, CT, USA.
     - **Veröffentlicht in:** nature medicine
     - **Link:** [DOI](https://doi.org/10.1038/s41591-025-03788-3)
@@ -213,7 +213,7 @@ Forschende nutzten eine fortschrittliche KI, um komplexe biologische Daten aus d
 ### 2025-07-15 Zwei neurokognitive Bereiche identifiziert bei Patienten mit Myalgischer Enzephalomyelitis/Chronic Fatigue Syndrome und Post-Akuten Folgen von COVID-19
 
 - **Metadaten:**
-    - **Autoren:** Sandoval, Ariadna; Li, Mingqi; Jason, Leonard A.
+    - **Autoren:** Martha Eckey, Peng Li, Braxton Morrison, Jonas Bergquist, Ronald W. Davis, Wenzhong Xiao
     - **Institute:** Center for Community Research, DePaul University, Chicago, IL, United States.
     - **Veröffentlicht in:** Frontiers in Neurology
     - **Link:** [DOI](https://doi.org/10.3389/fneur.2025.1612548)
@@ -238,7 +238,7 @@ Forschende analysierten Patientenbefragungen und bestätigten, dass „Gehirnneb
 ### 2025-07-09 Targeting von Plasmazellen mit dem Anti-CD38-Antikörper Daratumumab bei Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom – eine klinische Pilotstudie
 
 - **Metadaten:**
-    - **Autoren:** Fluge, Øystein; Rekeland, Ingrid Gurvin; Sørland, Kari.
+    - **Autoren:** Øystein Fluge, Ingrid Gurvin Rekeland, Kari Sørland, Kine Alme, Kristin Risa, Ove Bruland, Karl Johan Tronstad, Olav Mella
     - **Institute:** The Cancer Clinic, Haukeland University Hospital, Bergen, Norway; Institute of Clinical Sciences, University of Bergen, Bergen, Norway; Department of Medical Genetics, Haukeland University Hospital, Bergen, Norway.
     - **Veröffentlicht in:** Frontiers in Medicine
     - **Link:** [DOI](https://doi.org/10.3389/fmed.2025.1607353)
@@ -263,7 +263,7 @@ Forschende testeten ein Medikament, das spezifische Immunzellen bekämpft, die i
 ### 2025-07-08 Von Patienten berichtete Behandlungsergebnisse bei ME/CFS und Long COVID
 
 - **Metadaten:**
-    - **Autoren:** Eckey, Martha; Li, Peng; Morrison, Braxton.
+    - **Autoren:** Felix Wohlrab, Mailam Eltity, Friederike Ufer, Friedemann Paul, Carmen Scheibenbogen, Judith Bellmann-Strobl
     - **Institute:** Computational Research Center for Complex Chronic Diseases, Massachusetts General Hospital, Harvard Medical School; The Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Collaborative Research Centre, Department of Chemistry BMC, Uppsala University; Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Collaborative Research Center, Stanford University School of Medicine.
     - **Veröffentlicht in:** PNAS
     - **Link:** [DOI](https://doi.org/10.1073/pnas.2426874122)
@@ -288,7 +288,7 @@ Eine große Umfrage zeigte, dass Menschen mit ME/CFS und Long COVID ähnliche Sy
 ### 2025-07-07 SMPDL3B ein neuartiger Biomarker und therapeutisches Ziel bei Myalgischer Enzephalomyelitis
 
 - **Metadaten:**
-    - **Autoren:** Rostami-Afshari, Bita; Elremaly, Wesam; Franco, Anita.
+    - **Autoren:** Bita Rostami-Afshari, Wesam Elremaly, Anita Franco, Mohamed Elbakry, Marie-Yvonne Akoume, Ines Boufaied, Atefeh Moezzi, Corinne Leveau, Pierre Rompré, Christian Godbout, Olav Mella, Øystein Fluge, Alain Moreau
     - **Institute:** Viscogliosi Laboratory in Molecular Genetics of Musculoskeletal Diseases, CHU Sainte-Justine; Department of Biochemistry and Molecular Medicine, Faculty of Medicine, Université de Montréal; Open Medicine Foundation ME/CFS Collaborative Center at CHU Sainte-Justine/Université de Montréal.
     - **Veröffentlicht in:** Journal of Translational Medicine
     - **Link:** [DOI](https://doi.org/10.1186/s12967-025-06829-0)
@@ -313,7 +313,7 @@ Wissenschaftler entdeckten, dass ein Protein, das hilft, Entzündungen zu kontro
 ### 2025-06-19 Fortschritte in der Forschung zu regulatorischen Autoantikörpern, die GPCRs angreifen: Einblicke aus dem 5. internationalen Symposium
 
 - **Metadaten:**
-    - **Autoren:** Cabral-Marques, Otavio; Schimke, Lena F.; Moll, Guido.
+    - **Autoren:** Otavio Cabral-Marques, Lena F. Schimke, Guido Moll, Igor Salerno Filgueiras, Adriel Leal Nóbile, Anny Silva Adri, Fernando Yuri Nery do Vale, Júlia Nakanishi Usuda, Yohan Lucas Gonçalves Corrêa, Débora Albuquerque, Roseane Galdioli Nava, Ronaldy Santana Santos, Haroldo Dutra Dias, Hélio Fernandes Silva, Pedro Batista Marconi, Rusan Catar, Michael Adu-Gyamfi, Pinchao Wang, Taj Ali Khan, Alexander M. Hackel, Anja Leheis, Anja Stähle, Antje Müller, Carolin Schmidt, Chiara Radunovic, El-Baraa Adjailia, Hanna Grasshoff, Jens Y. Humrich, Jonas Menz, Konstantinos Fourlakis, Maike Winziers, Maj Jäpel, Manuel Vincent Wegner, Peter Lamprecht, Relana Nieberding, Reza Akbarzadeh, Sabrina Arnold, Sebastian Jendrek, Sebastian Klapa, Solveig Augustin, Sophie Biedermann, Susanne Schinke, Patrick Scheerer, Matthias Endres, Kai Schulze-Forster, Friedemann Paul, Xinhua Yu, Franziska Sotzny, Thomas P. Sakmar, Miroslaw Banasik, Aiden Haghikia, Markus H. Hoffmann, Dmitry Veprintsev, Torsten Witte, Rodrigo J. S. Dalmolin, Hans D. Ochs, Harald Heidecke, Carmen Scheibenbogen, Yehuda Shoenfeld, Gabriela Riemekasten
     - **Institute:** Laboratory of Psychoneuroimmunology, Selye Lab, University of São Paulo School of Medicine, São Paulo, Brazil; Department of Medicine, Division of Molecular Medicine, Laboratory of Medical Investigation 29, University of São Paulo School of Medicine, São Paulo, Brazil; Network of Immunity in Infection, Malignancy, and Autoimmunity (NIIMA), Universal Scientific Education and Research Network (USERN), Sao Paulo, Brazil.
     - **Veröffentlicht in:** Autoimmunity Reviews
     - **Link:** [DOI](https://doi.org/10.1016/j.autrev.2025.103855)
@@ -337,7 +337,7 @@ Wissenschaftler sind zunehmend sicher, dass das Immunsystem bei ME/CFS fälschli
 ---
 ### 2025-06-03 Niedrig dosiertes Rapamycin lindert klinische Symptome von Fatigue und PEM bei ME/CFS-Patienten durch Verbesserung der Autophagie
 - **Metadaten:**
-  - **Autoren:** Brian T. Ruan, Sarojini Bulbule, Amy Reyes, Bela Chheda, Lucinda Bateman, Jennifer Bell, Braydon Yellman, Stephanie Grach, Jon Berner, Daniel L. Peterson, David Kaufman, AVIK ROY, C. Gunnar Gottschalk.
+  - **Autoren:** Brian T. Ruan, Sarojini Bulbule, Amy Reyes, Bela Chheda, Lucinda Bateman, Jennifer Bell, Braydon Yellman, Stephanie Grach, Jon Berner, Daniel L. Peterson, David Kaufman, AVIK ROY, C. Gunnar Gottschalk
   - **Institute:** Cornell University, Simmaron Research INC, University of Wisconsin-Milwaukee, Center for Complex Diseases (Palo Alto, CA, and Seattle, WA), Bateman Horne Center, Mayo Clinic Research Rochester, Woodinville psychiatric Associates, Sierra Internal Medicine.
   - **Veröffentlicht in:** Research Square (Preprint).
   - **Link:** [DOI](https://doi.org/10.21203/rs.3.rs-6596158/v1)
@@ -362,7 +362,7 @@ Forschende haben ein Medikament namens Rapamycin getestet und in dieser kleinen 
 ### 2025-04-15 Therapien, die Autoantikörper bekämpfen, bei Post-COVID-Syndrom und Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom
 
 - **Metadaten:**
-    - **Autoren:** Wohlrab, Felix; Eltity, Mailam; Ufer, Friederike.
+    - **Autoren:** Felix Wohlrab, Mailam Eltity, Friederike Ufer, Friedemann Paul, Carmen Scheibenbogen, Judith Bellmann-Strobl
     - **Institute:** Experimental and Clinical Research Center, A Cooperation Between Max Delbrück Center for Molecular Medicine in the Helmholtz Association and Charité - Universitätsmedizin Berlin, Berlin, Germany; Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC), Experimental and Clinical Research Center, Berlin, Germany; Clinic for Neurology and Experimental Neurology, Charité Universitätsmedizin Berlin, Berlin, Germany.
     - **Veröffentlicht in:** Expert Opinion on Biological Therapy
     - **Link:** [DOI](https://doi.org/10.1080/14712598.2025.2492774)
@@ -387,7 +387,7 @@ Wissenschaftler haben verschiedene Behandlungen, die das Immunsystem bekämpfen,
 ### 2025-02-21 Off-Label-Medikamentenliste für ME/CFS und Post-akute Infektionssyndrome
 
 - **Metadaten:**
-    - **Autoren:** Reference Center for Post-Viral Syndromes
+    - **Autoren:** Martha Eckey, Peng Li, Braxton Morrison, Jonas Bergquist, Ronald W. Davis, Wenzhong Xiao
     - **Institute:** Medical University of Vienna
     - **Veröffentlicht in:** Medical University of Vienna
     - **Link:** [Für Ärztinnen, Gesundheitsberufe & Stakeholder](https://www.meduniwien.ac.at/web/referenzzentrum-postvirale-syndrome/fuer-aerztinnen-gesundheitsberufe/)
@@ -412,7 +412,7 @@ Die österreichischen Krankenkassen bezahlen jetzt für mehrere Medikamente zur 
 ### 2024-11-06 Zentrale pathophysiologische Rolle von Störungen der Skelettmuskulatur bei Post-COVID und Myalgischer Enzephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Gesammelte Belege
 
 - **Metadaten:**
-    - **Autoren:** Scheibenbogen, Carmen; Wirth, Klaus J.
+    - **Autoren:** Katharine A. Seton, José A. Espejo-Oltra, Karen Giménez-Orenga, Rik Haagmans, Donia J. Ramadan, Jesper Mehlsen
     - **Institute:** Institute of Medical Immunology, Charité - Universitätsmedizin Berlin; Mitodicure GmbH, Kriftel, Germany; Institute for General Pharmacology and Toxicology, University Hospital, Goethe University Frankfurt am Main.
     - **Veröffentlicht in:** Journal of Cachexia, Sarcopenia and Muscle
     - **Link:** [DOI](https://doi.org/10.1002/jcsm.13669)
@@ -437,7 +437,7 @@ Wissenschaftler haben starke Beweise gesammelt, dass bei ME/CFS die Muskeln wäh
 ### 2024-01-06 Fortschritte in Forschung und Behandlung: Eine Übersicht über klinische Studien bei Myalgischer Enzephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) und zukünftige Perspektiven
 
 - **Metadaten:**
-    - **Autoren:** Seton, Katharine A.; Espejo-Oltra, José A.; Giménez-Orenga, Karen.
+    - **Autoren:** Katharine A. Seton, José A. Espejo-Oltra, Karen Giménez-Orenga, Rik Haagmans, Donia J. Ramadan, Jesper Mehlsen
     - **Institute:** Quadram Institute Bioscience, Norwich Research Park; Max Delbrück Center for Molecular Medicine; Department of Pathology, School of Health Sciences, Universidad Católica de Valencia.
     - **Veröffentlicht in:** Journal of Clinical Medicine
     - **Link:** [DOI](https://doi.org/10.3390/jcm13020325)
@@ -462,7 +462,7 @@ Forscher haben über 30 Jahre Studien analysiert, um Behandlungen zu identifizie
 ### 2023-12-27 Identifizierung von CD8-T-Zell-Dysfunktion, die mit Symptomen bei Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom (ME/CFS) und Long COVID verbunden ist, und Behandlung mit einem vernebelten Antioxidans/Antipathogen-Mittel in einer retrospektiven Fallserie
 
 - **Metadaten:**
-    - **Autoren:** Gil, Anna; Hoag, George E.; Salerno, John P.
+    - **Autoren:** Carolyn T. Bramante, John B. Buse, David M. Liebovitz, Jacinda M. Nicklas, Michael A. Puskarich, Ken Cohen, Hrishikesh K. Belani, Blake J. Anderson, Jared D. Huling, Christopher J. Tignanelli, Jennifer L. Thompson, Matthew Pullen, Esteban Lemus Wirtz, Lianne K. Siegel, Jennifer L. Proper, David J. Odde, Nichole R. Klatt, Nancy E. Sherwood, Sarah M. Lindberg, Amy B. Karger, Kenneth B. Beckman, Spencer M. Erickson, Sarah L. Fenno, Katrina M. Hartman, Michael R. Rose, Tanvi Mehta, Barkha Patel, Gwendolyn Griffiths, Neeta S. Bhat, Thomas A. Murray, David R. Boulware, Blake Anderson, Riannon C. Atwater, Nandini Avula, Kenny B. Beckman, Hrishikesh K. Belani, David R. Boulware, Carolyn T. Bramante, Jannis Brea, Courtney A. Broedlow, John B. Buse, Paula Campora, Anup Challa, Jill Charles, Grace Christensen, Theresa Christiansen, Ken Cohen, Bo Connelly, Srijani Datta, Nikita Deng, Alex T. Dunn, Spencer M. Erickson, Faith M. Fairbairn, Sarah L. Fenno, Daniel J. Fraser, Regina D. Fricton, Gwen Griffiths, Aubrey A. Hagen, Katrina M. Hartman, Audrey F. Hendrickson, Jared D. Huling, Nicholas E. Ingraham, Arthur C. Jeng, Darrell M. Johnson, Amy B. Karger, Nichole R. Klatt, Erik A. Kuehl, Derek D. LaBar, Samuel Lee, David M. Liebovitz, Sarah Lindberg, Darlette G. Luke, Rosario Machicado, Zeinab Mohamud, Thomas A. Murray, Rumbidzai Ngonyama, Jacinda M. Nicklas, David J. Odde, Elliott Parrens, Daniela Parra, Barkha Patel, Jennifer L. Proper, Matthew F. Pullen, Michael A. Puskarich, Via Rao, Neha V. Reddy, Naveen Reddy, Katelyn J. Rypka, Hanna G. Saveraid, Paula Seloadji, Arman Shahriar, Nancy Sherwood, Jamie L. Siegart, Lianne K. Siegel, Lucas Simmons, Isabella Sinelli, Palak Singh, Andrew Snyder, Maxwell T. Stauffer, Jennifer Thompson, Christopher J. Tignanelli, Tannon L. Tople, Walker J. Tordsen, Ray HB Watson, Beiqing Wu, Adnin Zaman, Madeline R. Zolik, Lena Zinkl
     - **Institute:** University of Massachusetts Chan Medical School, Department of Pathology; Inspiritol, Inc.; The Salerno Center for Complementary Medicine.
     - **Veröffentlicht in:** Brain, Behavior, & Immunity - Health
     - **Link:** [DOI](https://doi.org/10.1016/j.bbih.2023.100720)
@@ -552,7 +552,7 @@ Diese Studie zielt darauf ab, zu prüfen, ob ein zugelassenes Medikament namens 
 ### 2023-06-08 Ambulante Behandlung von COVID-19 und Inzidenz von Post-COVID-19-Syndrom über 10 Monate (COVID-OUT): eine multizentrische, randomisierte, vierfach verblindete, parallele Phase-3-Studie
 
 - **Metadaten:**
-    - **Autoren:** Bramante, Carolyn T.; Buse, John B.; Liebovitz, David M.
+    - **Autoren:** Carolyn T. Bramante, John B. Buse, David M. Liebovitz, Jacinda M. Nicklas, Michael A. Puskarich, Ken Cohen, Hrishikesh K. Belani, Blake J. Anderson, Jared D. Huling, Christopher J. Tignanelli, Jennifer L. Thompson, Matthew Pullen, Esteban Lemus Wirtz, Lianne K. Siegel, Jennifer L. Proper, David J. Odde, Nichole R. Klatt, Nancy E. Sherwood, Sarah M. Lindberg, Amy B. Karger, Kenneth B. Beckman, Spencer M. Erickson, Sarah L. Fenno, Katrina M. Hartman, Michael R. Rose, Tanvi Mehta, Barkha Patel, Gwendolyn Griffiths, Neeta S. Bhat, Thomas A. Murray, David R. Boulware, Blake Anderson, Riannon C. Atwater, Nandini Avula, Kenny B. Beckman, Hrishikesh K. Belani, David R. Boulware, Carolyn T. Bramante, Jannis Brea, Courtney A. Broedlow, John B. Buse, Paula Campora, Anup Challa, Jill Charles, Grace Christensen, Theresa Christiansen, Ken Cohen, Bo Connelly, Srijani Datta, Nikita Deng, Alex T. Dunn, Spencer M. Erickson, Faith M. Fairbairn, Sarah L. Fenno, Daniel J. Fraser, Regina D. Fricton, Gwen Griffiths, Aubrey A. Hagen, Katrina M. Hartman, Audrey F. Hendrickson, Jared D. Huling, Nicholas E. Ingraham, Arthur C. Jeng, Darrell M. Johnson, Amy B. Karger, Nichole R. Klatt, Erik A. Kuehl, Derek D. LaBar, Samuel Lee, David M. Liebovitz, Sarah Lindberg, Darlette G. Luke, Rosario Machicado, Zeinab Mohamud, Thomas A. Murray, Rumbidzai Ngonyama, Jacinda M. Nicklas, David J. Odde, Elliott Parrens, Daniela Parra, Barkha Patel, Jennifer L. Proper, Matthew F. Pullen, Michael A. Puskarich, Via Rao, Neha V. Reddy, Naveen Reddy, Katelyn J. Rypka, Hanna G. Saveraid, Paula Seloadji, Arman Shahriar, Nancy Sherwood, Jamie L. Siegart, Lianne K. Siegel, Lucas Simmons, Isabella Sinelli, Palak Singh, Andrew Snyder, Maxwell T. Stauffer, Jennifer Thompson, Christopher J. Tignanelli, Tannon L. Tople, Walker J. Tordsen, Ray HB Watson, Beiqing Wu, Adnin Zaman, Madeline R. Zolik, Lena Zinkl
     - **Institute:** Division of General Internal Medicine, University of Minnesota; Endocrinology, University of North Carolina; General Internal Medicine, Northwestern University.
     - **Veröffentlicht in:** The Lancet Infectious Diseases
     - **Link:** [DOI](https://doi.org/10.1016/S1473-3099(23)00299-2)
@@ -607,7 +607,7 @@ Diese Studie untersuchte die Wirksamkeit der Behandlung des Post-COVID-19-Syndro
 ### 2022-05-09 Die Pathobiologie der Myalgischen Enzephalomyelitis/des Chronischen Fatigue-Syndroms: Das Argument für neurogliales Versagen
 
 - **Metadaten:**
-    - **Autoren:** Renz-Polster, Herbert; Tremblay, Marie-Eve; Bienzle, Dorothee.
+    - **Autoren:** Herbert Renz-Polster, Marie-Eve Tremblay, Dorothee Bienzle, Joachim E. Fischer
     - **Institute:** Division of General Medicine, Center for Preventive Medicine and Digital Health Baden-Württemberg (CPD-BW), University Medicine Mannheim, Heidelberg University; Axe Neurosciences, Centre de Recherche du CHU de Québec, Université Laval; Département de Médecine Moléculaire, Université Laval.
     - **Veröffentlicht in:** Frontiers in Cellular Neuroscience
     - **Link:** [DOI](https://doi.org/10.3389/fncel.2022.888232)
@@ -632,7 +632,7 @@ Wissenschaftler schlagen eine neue Theorie vor, dass ME/CFS durch eine Fehlfunkt
 ### 2022-03-31 Plasmametabolomik offenbart eine gestörte Reaktion und Erholung nach maximaler Belastung bei Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom
 
 - **Metadaten:**
-    - **Autoren:** Germain, Arnaud; Giloteaux, Ludovic; Moore, Geoffrey E.
+    - **Autoren:** Herbert Renz-Polster, Marie-Eve Tremblay, Dorothee Bienzle, Joachim E. Fischer
     - **Institute:** Department of Molecular Biology and Genetics, Cornell University, Ithaca, New York, USA; Department of Exercise Science and Athletic Training, Ithaca College, Ithaca, New York, USA; EVMED Research, Torrance, California, USA.
     - **Veröffentlicht in:** JCI Insight
     - **Link:** [DOI](https://doi.org/10.1172/jci.insight.157621)
@@ -657,7 +657,7 @@ Wissenschaftler maßen über tausend Substanzen im Blut von Patienten vor und na
 ### 2020-02-06 Eine isolierte Ineffizienz des Komplex V und dysregulierte mitochondriale Funktion in immortalisierten Lymphozyten von ME/CFS-Patienten
 
 - **Metadaten:**
-    - **Autoren:** Missailidis, Daniel; Annesley, Sarah J.; Allan, Claire Y.
+    - **Autoren:** Daniel Missailidis, Sarah J. Annesley, Claire Y. Allan, Oana Sanislav, Brett A. Lidbury, Donald P. Lewis, Paul R. Fisher
     - **Institute:** Department of Physiology, Anatomy, and Microbiology, La Trobe University, Melbourne; National Centre for Epidemiology and Population Health, Research School of Population Health, Australian National University, Canberra.
     - **Veröffentlicht in:** International Journal of Molecular Sciences
     - **Link:** [DOI](https://doi.org/10.3390/ijms21031074)
@@ -682,7 +682,7 @@ Wissenschaftler entdeckten eine spezifische Ineffizienz im letzten Schritt der E
 ### 2019-07-04 Post-Exertional Malaise ist mit Hypermetabolismus, Hypoacetylierung und Deregulation des Purin-Stoffwechsels bei ME/CFS-Fällen verbunden
 
 - **Metadaten:**
-    - **Autoren:** McGregor, Neil R.; Armstrong, Christopher W.; Lewis, Donald P.
+    - **Autoren:** Neil R. McGregor, Christopher W. Armstrong, Donald P. Lewis, Paul R. Gooley
     - **Institute:** Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne; Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and Biochemistry Institute; CFS Discovery, Donvale Medical Centre.
     - **Veröffentlicht in:** Diagnostics
     - **Link:** [DOI](https://doi.org/10.3390/diagnostics9030070)
@@ -707,7 +707,7 @@ Wissenschaftler haben herausgefunden, dass nach Anstrengung der Körper von ME/C
 ### 2015-02-10 Jenseits von Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom: Neudefinition einer Krankheit
 
 - **Metadaten:**
-    - **Autoren:** Clayton, Ellen Wright; Alegría, Margarita; Bateman, Lucinda.
+    - **Autoren:** Institute of Medicine, Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome, Board on the Health of Select Populations
     - **Institute:** Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome; Board on the Health of Select Populations; Institute of Medicine.
     - **Veröffentlicht in:** The National Academies Press
     - **Link:** [Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness](https://www.ncbi.nlm.nih.gov/books/NBK274235/)

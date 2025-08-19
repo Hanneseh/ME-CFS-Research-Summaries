@@ -1,7 +1,7 @@
 ### 2024-01-06 Fortschritte in Forschung und Behandlung: Eine Übersicht über klinische Studien bei Myalgischer Enzephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) und zukünftige Perspektiven
 
 - **Metadaten:**
-    - **Autoren:** Seton, Katharine A.; Espejo-Oltra, José A.; Giménez-Orenga, Karen.
+    - **Autoren:** Katharine A. Seton, José A. Espejo-Oltra, Karen Giménez-Orenga, Rik Haagmans, Donia J. Ramadan, Jesper Mehlsen
     - **Institute:** Quadram Institute Bioscience, Norwich Research Park; Max Delbrück Center for Molecular Medicine; Department of Pathology, School of Health Sciences, Universidad Católica de Valencia.
     - **Veröffentlicht in:** Journal of Clinical Medicine
     - **Link:** [DOI](https://doi.org/10.3390/jcm13020325)

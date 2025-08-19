@@ -1,7 +1,7 @@
 ### 2025-04-15 Autoantibody targeting therapies in post COVID syndrome and myalgic encephalomyelitis/chronic fatigue syndrome
 
 - **Metadata:**
-    - **Authors:** Wohlrab, Felix; Eltity, Mailam; Ufer, Friederike.
+    - **Authors:** Felix Wohlrab, Mailam Eltity, Friederike Ufer, Friedemann Paul, Carmen Scheibenbogen, Judith Bellmann-Strobl
     - **Institutes:** Experimental and Clinical Research Center, A Cooperation Between Max Delbrück Center for Molecular Medicine in the Helmholtz Association and Charité - Universitätsmedizin Berlin, Berlin, Germany; Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC), Experimental and Clinical Research Center, Berlin, Germany; Clinic for Neurology and Experimental Neurology, Charité Universitätsmedizin Berlin, Berlin, Germany.
     - **Publisher:** Expert Opinion on Biological Therapy
     - **Link:** [DOI](https://doi.org/10.1080/14712598.2025.2492774)

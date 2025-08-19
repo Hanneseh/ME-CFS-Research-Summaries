@@ -1,7 +1,7 @@
 ### 2025-08-11 Mikrofluidische Untersuchung der $PO\_2$-regulierten Kapillargeschwindigkeit von roten Blutkörperchen bei ME/CFS
 
 - **Metadaten:**
-    - **Autoren:** Guo, Yaojun; Zhou, Sitong; Ren, Samuel.
+    - **Autoren:** Yaojun Guo, Sitong Zhou, Samuel Ren, Xin Liu, Mohsen Nemat-Gorgani, Mike Gresser, Ronald W. Davis, Jiandi Wan
     - **Institute:** Department of Chemical Engineering, University of California, Davis; Department of Pathology and Lab Medicine, Medical Center of University of California, Davis; Henry Gunn High School.
     - **Veröffentlicht in:** blood RCI
     - **Link:** [DOI](https://doi.org/10.1016/j.brci.2025.100019)
