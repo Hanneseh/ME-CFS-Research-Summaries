@@ -8,7 +8,7 @@ This repository provides summaries of key research publications on Myalgic Encep
 
 Motivated by a close family member with severe ME/CFS, I monitor new research using PubMed and Google alerts. Promising studies are summarized using a custom AI agent and then manually reviewed for relevance before being added to the list below. You can search this page for the 💊 emoji to find all mentions of medications and substances being researched.
 
-To help readers keep up with the latest developments, I regularly compile research roundups that highlight major trends, breakthroughs, and shifts in the field. These roundups provide context and connect individual studies into a broader narrative. You can find the roundups by searching for the 🎯 emoji.
+To provide a high-level overview of the field, the latest research roundup (marked with a 🎯) synthesizes all the summarized studies into a single, structured analysis. It tracks the evolution of the science across three key areas: our understanding of the disease's biology, the development of diagnostic tools, and the search for effective treatments. This section serves as an executive summary of the current state of ME/CFS research.
 
 I've made this repository, along with the AI prompts, public so you can follow the progress yourself. If you believe an important study is missing or wish to contribute, please open an Issue or a Pull Request.
 
