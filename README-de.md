@@ -158,10 +158,10 @@ Wissenschaftler haben entdeckt, dass ein spezifisches Blutprotein, Haptoglobin g
 ---
 ### 2025-08-26 Kartierung der zerebralen Durchblutung bei myalgischer Enzephalomyelitis/chronischem Fatigue-Syndrom (ME/CFS) und orthostatischer Intoleranz: Erkenntnisse aus einer systematischen Übersichtsarbeit
 - **Metadaten:**
-    - **Autoren:** Elena M. Christopoulos, Darcy Tantanis, Katherine Huang, Elena K. Schneider-Futschik, Paul R. Gooley, Kegan J. Moneghetti, Christopher W. Armstrong.
-    - **Institute:** Department of Biochemistry and Pharmacology, Bio21 Institute, The University of Melbourne, Parkville, VIC, Australia; Cardiometabolic Health and Exercise Physiology Laboratory, Baker Heart and Diabetes Institute, Melbourne, VIC, Australia.
-    - **Veröffentlicht in:** Journal of Translational Medicine.
-    - **Link:** [DOI](https://doi.org/10.1186/s12967-025-06954-w)
+  - **Autoren:** Elena M. Christopoulos, Darcy Tantanis, Katherine Huang, Elena K. Schneider-Futschik, Paul R. Gooley, Kegan J. Moneghetti, Christopher W. Armstrong.
+  - **Institute:** Department of Biochemistry and Pharmacology, Bio21 Institute, The University of Melbourne, Parkville, VIC, Australia; Cardiometabolic Health and Exercise Physiology Laboratory, Baker Heart and Diabetes Institute, Melbourne, VIC, Australia.
+  - **Veröffentlicht in:** Journal of Translational Medicine.
+  - **Link:** [DOI](https://doi.org/10.1186/s12967-025-06954-w)
 - **Was wurde untersucht?**
 Diese systematische Übersichtsarbeit bewertete die existierende Forschung, um festzustellen, ob die zerebrale Durchblutung (cerebral blood flow, CBF) bei Patienten mit ME/CFS und/oder orthostatischer Intoleranz (OI) reduziert ist. Die Forschenden untersuchten insbesondere, ob das gleichzeitige Vorliegen von ME/CFS und OI zu einer noch stärkeren Reduktion der Blutzufuhr zum Gehirn führt.
 - **Warum wurde dies untersucht?**
