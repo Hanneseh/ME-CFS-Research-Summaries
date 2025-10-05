@@ -1,4 +1,3 @@
-```markdown
 ### 2025-09-03 Heightened innate immunity may trigger chronic inflammation, fatigue and post-exertional malaise in ME/CFS
 - **Metadata:**
     - **Authors:** Xiaoyu Che, Amit Ranjan, Cheng Guo, Keming Zhang, Rochelle Goldsmith, Susan Levine, Kegan J. Moneghetti, Yali Zhai, Liner Ge, Nischay Mishra, Mady Hornig, Lucinda Bateman, Nancy G. Klimas, Jose G. Montoya, Daniel L. Peterson, Sabra L. Klein, Oliver Fiehn, Anthony L. Komaroff & W. Ian Lipkin.
@@ -21,4 +20,3 @@ The authors conclude that ME/CFS pathophysiology involves a combination of heigh
 This study provides strong biological evidence linking an overactive immune system to the energy production crisis seen in ME/CFS. It suggests that patients' immune systems are "primed" to overreact to microbial triggers, leading to chronic inflammation that disrupts metabolism and cellular function. The findings offer a clear explanation for post-exertional malaise, showing that exercise worsens mitochondrial dysfunction and creates a state of systemic stress. This research connects many previously observed abnormalities—such as immune dysregulation, gut problems, and metabolic issues—into a more unified model of the disease and identifies specific pathways that could be targeted for future treatments.
 - **Simple Summary:**
 Researchers found that the immune systems of people with ME/CFS overreact to germs, which appears to cause widespread inflammation. This inflammation disrupts the body's ability to produce energy, especially after physical activity, which helps explain post-exertional malaise. This work helps connect many symptoms to underlying biological problems and points toward existing medications that could be tested in future research.
-```

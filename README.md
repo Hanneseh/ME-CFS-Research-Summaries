@@ -35,6 +35,7 @@ I've made this repository, along with the AI prompts, public so you can follow t
     - [2025-09-05 Autonomic Dysfunction in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Findings from the Multi-Site Clinical Assessment of ME/CFS (MCAM) Study in the USA](#2025-09-05-autonomic-dysfunction-in-myalgic-encephalomyelitischronic-fatigue-syndrome-mecfs-findings-from-the-multi-site-clinical-assessment-of-mecfs-mcam-study-in-the-usa)
     - [2025-09-03 Pyridostigmine improves hand grip strength in patients with myalgic encephalomyelitis/chronic fatigue syndrome](#2025-09-03-pyridostigmine-improves-hand-grip-strength-in-patients-with-myalgic-encephalomyelitischronic-fatigue-syndrome)
     - [2025-09-03 Precision Medicine Study of Post-Exertional Malaise Epigenetic Changes in Myalgic Encephalomyelitis/Chronic Fatigue Patients During Exercise](#2025-09-03-precision-medicine-study-of-post-exertional-malaise-epigenetic-changes-in-myalgic-encephalomyelitischronic-fatigue-patients-during-exercise)
+    - [2025-09-03 Heightened innate immunity may trigger chronic inflammation, fatigue and post-exertional malaise in ME/CFS](#2025-09-03-heightened-innate-immunity-may-trigger-chronic-inflammation-fatigue-and-post-exertional-malaise-in-mecfs)
     - [2025-09-02 Impact of nutrition on long COVID](#2025-09-02-impact-of-nutrition-on-long-covid)
     - [2025-08-31 Killer cell immunoglobulin-like receptor (KIR) alleles suggested to be associated with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](#2025-08-31-killer-cell-immunoglobulin-like-receptor-kir-alleles-suggested-to-be-associated-with-myalgic-encephalomyelitischronic-fatigue-syndrome-mecfs)
     - [2025-09-19 Exploratory study on autoantibodies to arginine-rich human peptides mimicking Epstein-Barr virus in women with post-COVID and myalgic encephalomyelitis/chronic fatigue syndrome](#2025-09-19-exploratory-study-on-autoantibodies-to-arginine-rich-human-peptides-mimicking-epstein-barr-virus-in-women-with-post-covid-and-myalgic-encephalomyelitischronic-fatigue-syndrome)
@@ -491,7 +492,6 @@ This research provides molecular evidence that the abnormal response to exercise
 Scientists found that exercise triggers specific changes in how genes are controlled in ME/CFS patients, particularly genes related to the immune system. This helps to explain, on a molecular level, why physical effort causes a severe relapse, known as PEM. This discovery could pave the way for a future objective test to help diagnose the illness.
 
 ---
-```markdown
 ### 2025-09-03 Heightened innate immunity may trigger chronic inflammation, fatigue and post-exertional malaise in ME/CFS
 - **Metadata:**
     - **Authors:** Xiaoyu Che, Amit Ranjan, Cheng Guo, Keming Zhang, Rochelle Goldsmith, Susan Levine, Kegan J. Moneghetti, Yali Zhai, Liner Ge, Nischay Mishra, Mady Hornig, Lucinda Bateman, Nancy G. Klimas, Jose G. Montoya, Daniel L. Peterson, Sabra L. Klein, Oliver Fiehn, Anthony L. Komaroff & W. Ian Lipkin.
@@ -514,7 +514,6 @@ The authors conclude that ME/CFS pathophysiology involves a combination of heigh
 This study provides strong biological evidence linking an overactive immune system to the energy production crisis seen in ME/CFS. It suggests that patients' immune systems are "primed" to overreact to microbial triggers, leading to chronic inflammation that disrupts metabolism and cellular function. The findings offer a clear explanation for post-exertional malaise, showing that exercise worsens mitochondrial dysfunction and creates a state of systemic stress. This research connects many previously observed abnormalities—such as immune dysregulation, gut problems, and metabolic issues—into a more unified model of the disease and identifies specific pathways that could be targeted for future treatments.
 - **Simple Summary:**
 Researchers found that the immune systems of people with ME/CFS overreact to germs, which appears to cause widespread inflammation. This inflammation disrupts the body's ability to produce energy, especially after physical activity, which helps explain post-exertional malaise. This work helps connect many symptoms to underlying biological problems and points toward existing medications that could be tested in future research.
-```
 
 ---
 ### 2025-09-02 Impact of nutrition on long COVID
