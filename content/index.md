@@ -11,11 +11,11 @@ If you are feeling overwhelmed (Brain Fog), start here:
 
 ### 🏷️ Filter by Category
 Click these tags within any summary to see related research:
-- **⭐ Landmark**: Groundbreaking research providing significant community hope.
-- **💊 Treatment**: Clinical trials, medical therapies, and new drug approaches.
-- **🧪 Biomarker**: Research on diagnostic tests and physiological markers.
-- **⏳ Trial**: Ongoing studies and future trial announcements.
-- **📰 News**: Conference reports and scientific news summaries.
+- **[⭐ Landmark](./tags/⭐-Landmark)**: Groundbreaking research providing significant community hope.
+- **[💊 Treatment](./tags/💊-Treatment)**: Clinical trials, medical therapies, and new drug approaches.
+- **[🧪 Biomarker](./tags/🧪-Biomarker)**: Research on diagnostic tests and physiological markers.
+- **[⏳ Trial](./tags/⏳-Trial)**: Ongoing studies and future trial announcements.
+- **[📰 News](./tags/📰-News)**: Conference reports and scientific news summaries.
 
 ### 🇩🇪 🇬🇧 🇪🇸 Translation
 You can translate this site into any language using your browser's built-in translation tools (usually found in the address bar). *Note: The search function works best in English.*
@@ -46,6 +46,11 @@ This site is semi-automated to allow me to monitor a high volume of research as 
 
 ## 🤝 Contact & Feedback
 Found a bug, a typo, or a missing study? Reach out at: **hannes.ehringfeld@gmail.com**
+
+## 📚 More Resources
+For those looking to dive deeper, I recommend these community-curated resources:
+- **[/r/CFSScience](https://www.reddit.com/r/CFSScience/)** (Reddit): A dedicated space for technical discussion of ME/CFS research.
+- **[CrunchME Visuals](https://crunchme.org/visuals)**: Excellent data visualizations comparing ME/CFS research metrics.
 
 ---
 
