@@ -1,0 +1,66 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# VS Code settings
+.vscode/
+.history/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+pip-log.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Compiled files
+*.out
+*.o
+*.class
+
+# Coverage
+.coverage
+coverage/
+htmlcov/
+
+# Test & build
+dist/
+docs/
+mails/
+data/
+
+# Custom
+public/
+.quartz-cache/
+.agent/
+agent/input/
+agent/state/
+agent/debug_prompts/
+scripts/

@@ -1,0 +1,33 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+.explorer {
+  .explorer-item {
+    margin-top: 0.35rem;
+    margin-bottom: 0.35rem;
+
+    a {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: normal;
+      line-height: 1.3;
+      height: auto;
+      font-size: 0.95rem;
+      opacity: 0.85;
+
+      &:hover {
+        opacity: 1;
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+// Ensure the explorer doesn't have too much horizontal padding
+#explorer-content {
+  padding: 0 0.5rem;
+}

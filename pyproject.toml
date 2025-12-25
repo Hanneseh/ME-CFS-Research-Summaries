@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "me-cfs-research-summaries"
+version = "0.1.0"
+description = ""
+authors = ["Hannes Ehringfeld <Hannes.Ehringfeld@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+google-generativeai = "^0.8.6"
+beautifulsoup4 = "^4.14.3"
+python-dotenv = "^1.2.1"
+httpx = "^0.28.1"
+pydantic = "^2.12.5"
+google-genai = "^1.56.0"
+tqdm = "^4.67.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
