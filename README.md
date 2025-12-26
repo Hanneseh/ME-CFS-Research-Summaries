@@ -1,5 +1,11 @@
 # ME/CFS Research Summaries
 
+[![GitHub Pages](https://github.com/Hanneseh/ME-CFS-Research-Summaries/actions/workflows/deploy.yml/badge.svg)](https://github.com/Hanneseh/ME-CFS-Research-Summaries/actions/workflows/deploy.yml)
+![Quartz](https://img.shields.io/badge/Powered%20by-Quartz-4ea94b?logo=quartz&logoColor=white)
+![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)
+![Poetry](https://img.shields.io/badge/managed%20by-poetry-blue.svg)
+![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
+
 An automated pipeline and digital garden for processing and summarizing ME/CFS and Long COVID research. This project uses generative AI to bridge the gap between complex scientific publications and community accessibility. Visit the live site at [hanneseh.github.io/ME-CFS-Research-Summaries](https://hanneseh.github.io/ME-CFS-Research-Summaries/).
 
 ## 🛠️ Tech Stack
