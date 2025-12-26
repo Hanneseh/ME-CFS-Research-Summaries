@@ -25,51 +25,51 @@
 
 An automated pipeline and digital garden for processing and summarizing ME/CFS and Long COVID research. This project uses generative AI to bridge the gap between complex scientific publications and community accessibility.
 
-## 🏗️ Technical Architecture: The Research Agent
+## 🤖 How the Research Agent Works
 
-The core of this project is a multi-stage **Research Agent** implemented in `agent/research_agent.py`. It uses structured outputs and tool calling to automate research ingestion.
-
-### Workflow Visualization
+This project uses a multi-stage AI agent to process research alerts. Each stage is a distinct Gemini API call with a specialized system prompt, Pydantic-enforced output schemas, and persistent state for fault-tolerant resumption.
 
 ```mermaid
-graph TD
-    Input["Input Data (agent/input/)"] --> S1["Stage 1: Synthesis"]
-    S1 -->|"Publication List"| S2["Stage 2: Deduplication"]
-    S2 -->|"Unique Items"| S3["Stage 3: Screening"]
-    
-    subgraph "Agent Logic (Gemini 3 Flash)"
-    S1
-    S2
-    S3
-    S4["Stage 4: Extraction"]
-    S5["Stage 5: Tagging"]
+flowchart LR
+    subgraph Ingestion
+        A["📧 Raw Input<br/>(Emails, Feeds)"]
     end
-    
-    S3 -->|"Relevant"| S4
-    S3 -->|"Irrelevant"| Excl["Excluded (agent/state/excluded/)"]
-    
-    S4 -->|"Structured Data"| S5
-    S5 -->|"Markdown Files"| Content["Summaries (content/summaries/)"]
-    
-    Content --> Agg["Aggregator"]
-    Agg --> Final["all_summaries.md"]
-    
-    subgraph "State Management"
-    State["State (agent/state/*.json)"]
+
+    subgraph Pipeline["Agent Pipeline (Gemini 3 Flash)"]
+        direction LR
+        S1["Stage 1<br/>Parse"] --> S2["Stage 2<br/>Dedupe"]
+        S2 --> S3{"Stage 3<br/>Screen"}
+        S3 -- Relevant --> S4["Stage 4<br/>Summarize"]
+        S3 -- Excluded --> X["❌"]
+        S4 --> S5["Stage 5<br/>Tag"]
     end
-    
-    S1 -.-> State
-    S2 -.-> State
-    S3 -.-> State
-    S4 -.-> State
+
+    subgraph Tools["Agentic Tools"]
+        T1["🌍 Google Search"]
+        T2["🔗 URL Context"]
+    end
+
+    subgraph Output
+        O["🌿 Digital Garden<br/>(Quartz)"]
+    end
+
+    A --> S1
+    S4 <-. grounding .-> Tools
+    S5 --> O
+
+    style Pipeline fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style Tools fill:#fffde7,stroke:#f9a825,stroke-width:1px,stroke-dasharray: 5 5
 ```
 
-### Pipeline Stages
-1.  **Synthesis (Stage 1):** Processes messy sources (.eml, .md) into a structured list of potential publications using high-level "thinking" prompts.
-2.  **Deduplication (Stage 2):** Compares new findings against existing files to ensure idempotency.
-3.  **Screening (Stage 3):** Applies rigorous `inclusion_rules.md` to filter for ME/CFS-specific research.
-4.  **Extraction (Stage 4):** Uses Google Search and URL context to find full texts, extracting deep metadata and generating summaries using Pydantic schemas.
-5.  **Tagging (Stage 5):** Categorizes summaries based on a specialized [Research Tagging Taxonomy](agent/prompts/tagging_system.md).
+| Stage            | Purpose                                                               | Key Features                          |
+| :--------------- | :-------------------------------------------------------------------- | :------------------------------------ |
+| **1. Parse**     | Extracts structured paper metadata from raw email/feed data.          | EML/HTML parsing, `BeautifulSoup`     |
+| **2. Dedupe**    | Compares new items against the existing corpus to prevent duplicates. | Fuzzy title matching                  |
+| **3. Screen**    | Applies strict inclusion/exclusion criteria for ME/CFS relevance.     | Rule-based prompt, `is_relevant` flag |
+| **4. Summarize** | Deep-dives into the paper using grounded tools.                       | **Google Search**, **URL Context**    |
+| **5. Tag**       | Applies a consistent taxonomy to the final summary.                   | Version-controlled tagging schema     |
+
+All intermediate state is persisted to `agent/state/`, making the pipeline **idempotent and resumable**.
 
 ## 📂 Project Structure
 - `agent/`:
