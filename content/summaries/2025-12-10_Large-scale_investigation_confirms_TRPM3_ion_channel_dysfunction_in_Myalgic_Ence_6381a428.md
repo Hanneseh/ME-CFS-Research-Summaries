@@ -11,12 +11,12 @@ published: '2025-12-10'
 
 
 <details>
-<summary>Martini Sasso et al. (2024)</summary>
+<summary>Martini Sasso et al. (2025)</summary>
 
 - **Authors:** Stefano Martini Sasso, Jian-Hong Er, Natalie Eaton-Fitch, Professor Livia C. Hool, Professor Katsuhiko Muraki, Professor Sonya Marshall-Gradisnik.
 - **Institutes:** National Centre for Neuroimmunology and Emerging Diseases, Menzies Health Institute, Griffith University, Gold Coast, Australia; Consortium Health International for Myalgic Encephalomyelitis, National Centre for Neuroimmunology and Emerging Diseases, Griffith University, Gold Coast, Australia; School of Human Sciences (Physiology), The University of Western Australia, Perth, Australia; Victor Chang Cardiac Research Institute, Darlinghurst, Australia; Laboratory of Cellular Pharmacology, School of Pharmacy, Aichi-Gakuin University, Nagoya, Japan.
 - **Publisher:** Frontiers in Immunology
-- **Link:** [Frontiers](https://www.frontiersin.org/journals/immunology)
+- **Link:** [Frontiers](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1703924/abstract)
 
 </details>
 
