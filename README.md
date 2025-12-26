@@ -1,18 +1,29 @@
+<p align="center">
+    <a href="https://hanneseh.github.io/ME-CFS-Research-Summaries/">
+        <img alt="GitHub Pages" src="https://github.com/Hanneseh/ME-CFS-Research-Summaries/actions/workflows/deploy.yml/badge.svg">
+    </a>
+    <a href="https://quartz.jzhao.xyz/">
+        <img alt="Quartz" src="https://img.shields.io/badge/Powered%20by%20Quartz-4ea94b?logo=quartz&logoColor=white">
+    <a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Flash-Model-Card.pdf">
+        <img alt="Gemini" src="https://img.shields.io/badge/AI-Gemini%203.0%20Flash-blue?logo=googlegemini&logoColor=white">
+    </a>
+    <a href="https://docs.pydantic.dev/">
+        <img alt="Pydantic" src="https://img.shields.io/badge/Data%20Layer-Pydantic-e92063?logo=pydantic&logoColor=white">
+    </a>
+    <a href="#readme">
+        <img alt="Python Version" src="https://img.shields.io/badge/Python-3.13-purple?logo=python">
+    </a>
+    <a href="https://python-poetry.org/">
+        <img alt="Poetry" src="https://img.shields.io/badge/Built%20with%20Poetry-gold?style=flat&logo=poetry&labelColor=black">
+    </a>
+    <a href="LICENSE">
+        <img alt="License" src="https://img.shields.io/badge/License-CC0%201.0-lightgray?logo=creative-commons">
+    </a>
+</p>
+
 # ME/CFS Research Summaries
 
-[![GitHub Pages](https://github.com/Hanneseh/ME-CFS-Research-Summaries/actions/workflows/deploy.yml/badge.svg)](https://github.com/Hanneseh/ME-CFS-Research-Summaries/actions/workflows/deploy.yml)
-![Quartz](https://img.shields.io/badge/Powered%20by-Quartz-4ea94b?logo=quartz&logoColor=white)
-![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)
-![Poetry](https://img.shields.io/badge/managed%20by-poetry-blue.svg)
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
-
-An automated pipeline and digital garden for processing and summarizing ME/CFS and Long COVID research. This project uses generative AI to bridge the gap between complex scientific publications and community accessibility. Visit the live site at [hanneseh.github.io/ME-CFS-Research-Summaries](https://hanneseh.github.io/ME-CFS-Research-Summaries/).
-
-## 🛠️ Tech Stack
-- **AI/LLM:** Gemini 3 Flash (`google-genai` SDK)
-- **Framework:** Python 3.13+ with `asyncio` for concurrent extraction
-- **Data Layer:** Pydantic for structured AI outputs and state management
-- **Static Site:** [Quartz 4](https://quartz.jzhao.xyz/) (Obsidian-flavored Markdown)
+An automated pipeline and digital garden for processing and summarizing ME/CFS and Long COVID research. This project uses generative AI to bridge the gap between complex scientific publications and community accessibility.
 
 ## 🏗️ Technical Architecture: The Research Agent
 
@@ -67,23 +78,3 @@ graph TD
     - `state/`: Persistent JSON state to allow safe job resumption.
 - `content/summaries/`: Generated markdown summaries for the digital garden.
 - `content/index.md`: The landing page of the public website.
-
-## 🚀 Setup & Execution
-1. **Install Poetry:** If not already installed, follow the [official guide](https://python-poetry.org/docs/#installation).
-2. **Install dependencies:** Run `poetry install` in the project root.
-3. **Configure Environment:** Create a `.env` file with your `GEMINI_API_KEY`.
-4. **Input Data:** Place raw research data (.eml or .md files) in `agent/input/`.
-5. **Run the Pipeline:** 
-   ```bash
-   poetry run python agent/research_agent.py
-   ```
-
-## 🤝 Contribution & Community
-This is an open-science project. Contributions are welcome!
-- **Prompts:** Improvement suggestions for the agent's screening or extraction prompts.
-- **Data:** If you identify a high-value source (RSS, Newsletters), please open an issue.
-- **Bugs:** Report technical pipeline issues via the GitHub Issue tracker.
-
-## 📄 License
-This project is dedicated to the public domain under the [CC0 1.0 Universal](LICENSE) license. You can copy, modify, and distribute the research summaries and code for any purpose without asking permission.
-
