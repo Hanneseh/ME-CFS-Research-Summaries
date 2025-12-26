@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "me-cfs-research-summaries"
-version = "0.1.0"
+version = "1.1.0"
 description = "Semi-automated ME/CFS & Long COVID research summaries. Powered by custom Gemini agents aggregating the latest studies from PubMed, Google Scholar, and medRxiv."
 authors = ["Hannes Ehringfeld <Hannes.Ehringfeld@gmail.com>"]
 readme = "README.md"
@@ -22,3 +22,11 @@ deptry = "^0.24.0"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+version = "1.1.0"
+tag_format = "v$version"
+version_files = [
+    "pyproject.toml:version"
+]
