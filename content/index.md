@@ -4,10 +4,11 @@ title: Welcome to ME/CFS Research Summaries
 
 A digital garden dedicated to tracking the increase in scientific research for **ME/CFS** and **Long COVID**. This project serves as a bridge for patients and caregivers to discover papers that bring hope for treatments and a cure.
 
-# [🚀 Go to All Research Summaries](./summaries/)
 
 ## 🧭 How to Navigate
-If you are feeling overwhelmed (Brain Fog), start here:
+- **[🚀 All Summaries](./summaries/)** – Explore the full archive of research, sorted by date.
+- **🔬 Primary Sources** – Every summary includes a direct link to the original scientific publication.
+- **📅 Monthly Updates** – New research is added every 4 weeks (at the end of the month).
 
 ### 🏷️ Filter by Category
 Click these tags within any summary to see related research:
@@ -18,7 +19,7 @@ Click these tags within any summary to see related research:
 - **[📰 News](./tags/📰-News)**: Conference reports and scientific news summaries.
 
 ### 🇩🇪 🇬🇧 🇪🇸 Translation
-You can translate this site into any language using your browser's built-in translation tools (usually found in the address bar). *Note: The search function works best in English.*
+You can translate this site into any language using your browser's built-in translation tools (usually found in the address bar). *Note: The search function only works in English.*
 
 ---
 ## ✨ Highlighted Research
@@ -39,8 +40,8 @@ Papers that provide a strong signal of progress and hope:
 
 ## 🛠️ Transparent Process
 This site is semi-automated to allow me to monitor a high volume of research as a non-expert.
-- **Source:** I aggregate alerts from PubMed, Google Scholar, and medRxiv.
-- **AI Agent:** Every 4–6 weeks, a custom Gemini-powered agent creates these summaries.
+- **Source:** I aggregate alerts from PubMed, Google Scholar, medRxiv and links I find on Reddit.
+- **AI Agent:** On ever last weekend of the month I run a custom Gemini-powered agent that creates these summaries from the collected alerts and updates the site.
 - **Open Source:** You can find the agent's logic and prompts on [GitHub](https://github.com/Hanneseh/ME-CFS-Research-Summaries).
 - **AI Integration:** Feel free to [copy the full archive](https://github.com/Hanneseh/ME-CFS-Research-Summaries/blob/main/all_summaries.md?plain=1) into your own AI tools for deep research.
 

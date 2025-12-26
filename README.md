@@ -63,10 +63,14 @@ graph TD
 - `content/index.md`: The landing page of the public website.
 
 ## 🚀 Setup & Execution
-1. Install dependencies (`google-genai`, `pydantic`, `python-dotenv`, `beautifulsoup4`).
-2. Configure `.env` with `GEMINI_API_KEY`.
-3. Place raw research data in `agent/input/`.
-4. Run the pipeline: `python agent/research_agent.py`.
+1. **Install Poetry:** If not already installed, follow the [official guide](https://python-poetry.org/docs/#installation).
+2. **Install dependencies:** Run `poetry install` in the project root.
+3. **Configure Environment:** Create a `.env` file with your `GEMINI_API_KEY`.
+4. **Input Data:** Place raw research data (.eml or .md files) in `agent/input/`.
+5. **Run the Pipeline:** 
+   ```bash
+   poetry run python agent/research_agent.py
+   ```
 
 ## 🤝 Contribution & Community
 This is an open-science project. Contributions are welcome!
