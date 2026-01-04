@@ -17,7 +17,7 @@ Click these tags within any summary to see related research:
 - **[🧪 Biomarker](./tags/🧪-Biomarker)**: Research on diagnostic tests and physiological markers.
 - **[⏳ Trial](./tags/⏳-Trial)**: Ongoing studies and future trial announcements.
 - **[📰 News](./tags/📰-News)**: Conference reports and scientific news summaries.
-- **📅 Filter by Release**: Click on a date tag (e.g. `➕ 2025-12-25`) within any summary to see all research added on that specific date. This allows you to review the research added in a specific month.
+- **📅 Filter by Release**: Click on a date tag (e.g. [➕ 2025-12-25](./tags/➕-2025-12-25)) within any summary to see all research added on that specific date. This allows you to review the research added in a specific month.
 
 ### 🇩🇪 🇬🇧 🇪🇸 Translation
 You can translate this site into any language using your browser's built-in translation tools (usually found in the address bar). *Note: The search function only works in English.*
