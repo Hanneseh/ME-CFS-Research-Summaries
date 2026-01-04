@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2025-12-26 11:48:33*
+*Generated on: 2026-01-04 17:56:04*
 
 ---
 
@@ -8,6 +8,7 @@
 
 title: "Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2015-02-10'
@@ -62,6 +63,7 @@ The committee concluded that ME/CFS is a serious, chronic, complex, systemic dis
 
 title: "Post-Exertional Malaise Is Associated with Hypermetabolism, Hypoacetylation and Purine Metabolism Deregulation in ME/CFS Cases"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2019-07-04'
 published: '2019-07-04'
@@ -115,6 +117,7 @@ The authors conclude that PEM is associated with significant disruptions in glyc
 
 title: "An Isolated Complex V Inefficiency and Dysregulated Mitochondrial Function in Immortalized Lymphocytes from ME/CFS Patients"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2020-02-06'
 published: '2020-02-06'
@@ -168,6 +171,7 @@ The authors conclude that ME/CFS lymphoblasts exhibit a primary inefficiency in 
 
 title: "Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/ chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2022-03-31'
 published: '2022-03-31'
@@ -221,6 +225,7 @@ The authors conclude that ME/CFS patients exhibit a profoundly disrupted metabol
 
 title: "The Pathobiology of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: The Case for Neuroglial Failure"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2022-05-09'
@@ -275,6 +280,7 @@ The authors conclude that regulatory failure of the CNS due to dysfunctional neu
 
 title: "Acute Effect of Pyridostigmine in Exertional Intolerance in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): A Randomized Placebo-Controlled Clinical Trial"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment
@@ -330,6 +336,7 @@ The authors conclude that these findings suggest neurovascular dysregulation is 
 
 title: "Prednisolone and Vitamin B1/​6/​12 in Patients With Post-Covid-Syndrome (PreVitaCOV)"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 - ⏳ Trial
 created: '2022-11-11'
@@ -379,6 +386,7 @@ This trial investigated the effectiveness of treating Post-COVID-19 Syndrome (PC
 
 title: "Muscle sodium content in patients with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2022-12-09'
 published: '2022-12-09'
@@ -432,6 +440,7 @@ The study concludes that ${}^{23}Na$-MRI confirms the hypothesis of increased so
 
 title: "Efficacy and safety of hyperbaric oxygen therapy for fibromyalgia: a systematic review and meta-analysis"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2023-01-23'
 published: '2023-01-23'
@@ -485,6 +494,7 @@ The authors conclude that HBOT may have a positive effect on improving pain and 
 
 title: "Long Covid Patients Successfully Treated by Means of Heparin-Mediated Extracorporeal LDL Precipitation (H.E.L.P.) Apheresis"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2023-05-26'
@@ -539,6 +549,7 @@ The authors conclude that H.E.L.P. apheresis is a promising and safe treatment o
 
 title: "Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 created: '2023-06-08'
@@ -593,6 +604,7 @@ The authors conclude that early outpatient treatment with metformin during an ac
 
 title: "Study to Investigate Improvement in Physical Function in SF-36 With Vericiguat Compared With Placebo in Participants With Post-COVID-19 Syndrome"
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2023-06-22'
 published: '2023-06-22'
@@ -644,6 +656,7 @@ This trial aims to see if an approved drug called Vericiguat 💊 can relieve pr
 
 title: "Methylprednisolone in Patients with Cognitive Deficits in Post-COVID-19 Syndrome (PCS)"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 - ⏳ Trial
 created: '2023-10-01'
@@ -695,6 +708,7 @@ This trial is investigating if Methylprednisolone 💊, a well-known immunosuppr
 
 title: "Observational Study of Repeat Immunoadsorption (RIA) in Post-COVID ME/CFS Patients with Elevated ß2-Adrenergic Receptor Autoantibodies—An Interim Report"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2023-10-09'
@@ -749,6 +763,7 @@ The authors conclude that these preliminary results provide evidence that Immuno
 
 title: "Dysautonomia and small fiber neuropathy in post-COVID condition and Chronic Fatigue Syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2023-11-15'
 published: '2023-11-15'
@@ -802,6 +817,7 @@ The authors concluded that both ME/CFS and post-COVID condition are characterize
 
 title: "Identification of CD8 T-cell dysfunction associated with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and Long COVID and treatment with a nebulized antioxidant/anti-pathogen agent in a retrospective case series"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2023-12-27'
@@ -856,6 +872,7 @@ The authors conclude that CD8 T-cell dysfunction appears to be a key feature of 
 
 title: "Advancing Research and Treatment: An Overview of Clinical Trials in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Future Perspectives"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 - ⏳ Trial
@@ -911,6 +928,7 @@ The authors conclude that rintatolimod is the most successful treatment investig
 
 title: "Chronic fatigue syndrome linked to widespread energy, immune and vascular changes"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2024-02-21'
@@ -965,6 +983,7 @@ The study concludes that PI-ME/CFS is a multi-system biological disorder rooted 
 
 title: "Longitudinal cytokine and multi-modal health data of an extremely severe ME/CFS patient with HSD reveals insights into immunopathology, and disease severity"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment
@@ -1020,6 +1039,7 @@ The authors conclude that integrating longitudinal multi-modal data is a valuabl
 
 title: "Towards an understanding of physical activity-induced post-exertional malaise: Insights into microvascular alterations and immunometabolic interactions in post-COVID condition and myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2024-09-06'
@@ -1074,6 +1094,7 @@ The authors conclude that PEM results from dysfunctional physiological adaptatio
 
 title: "Key Pathophysiological Role of Skeletal Muscle Disturbance in Post COVID and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Accumulated Evidence"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment
@@ -1129,6 +1150,7 @@ The authors conclude that a self-reproducing cycle of mitochondrial dysfunction 
 
 title: "Phase 2b program with sonlicromanol in patients with mitochondrial disease due to m.3243A>G mutation"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2024-11-06'
 published: '2024-11-06'
@@ -1182,6 +1204,7 @@ The authors conclude that a 100 mg twice-daily dose of sonlicromanol is safe, we
 
 title: "A novel frameshift mutation in ADCK1 identified in a case of chronic fatigue syndrome successfully treated with oral 5-ALA/SFC"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2024-12-26'
@@ -1236,6 +1259,7 @@ The authors conclude that this case highlights the importance of considering mit
 
 title: "Tragus Nerve Stimulation Attenuates Postural Orthostatic Tachycardia Syndrome in Post COVID-19 Infection"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-02-19'
@@ -1290,6 +1314,7 @@ The authors conclude that LL-TS is a promising, non-invasive therapeutic approac
 
 title: "Off-Label Drug List for ME/CFS and Post-Acute Infection Syndromes"
 tags:
+- ➕ 2025-12-25
 - 📰 News
 - ⭐ Landmark
 - 💊 Treatment
@@ -1342,9 +1367,61 @@ The introduction of this medication list represents significant progress in the 
 ---
 
 ---
+title: "An In-Depth Exploration of the Autoantibody Immune Profile in ME/CFS Using Novel Antigen Profiling Techniques"
+tags:
+- ➕ 2025-12-25
+- 🧪 Biomarker
+created: '2025-03-20'
+published: '2025-03-20'
+---
+
+<details>
+<summary>Germain et al. (2025)</summary>
+
+- **Authors:** Arnaud Germain, Jillian R. Jaycox, Christopher J. Emig, Aaron M. Ring, Maureen R. Hanson
+- **Institutes:** Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA, Division of Translational Science and Therapeutics, Fred Hutchinson Cancer Center, Seattle, WA, USA, Department of Immunobiology, Yale School of Medicine, New Haven, CT, USA, Augmenta Bioworks, Inc., Menlo Park, CA, USA
+- **Publisher:** International Journal of Molecular Sciences
+- **Link:** [DOI](https://doi.org/10.3390/ijms26062799)
+
+</details>
+
+## Summary
+
+This research provides a significant challenge to the popular theory that autoantibodies against G-protein-coupled receptors (GPCRs) are a universal driver of ME/CFS. By using one of the most comprehensive screening methods to date, the study failed to find consistent autoantibody markers, suggesting that the search for a single diagnostic blood test remains elusive. However, the findings reinforce the importance of investigating viral reactivation and sex-based differences in immune responses.
+
+## What was researched?
+
+The study performed a large-scale screening of over 7,500 antibody-antigen interactions to identify potential autoimmune markers in patients with ME/CFS.
+
+## Why was it researched?
+
+It aimed to validate previous clinical reports suggesting that autoantibodies against receptors involved in autonomic and cardiovascular function are central to ME/CFS pathology.
+
+## How was it researched?
+
+Researchers analyzed samples from 172 participants using two advanced platforms: a 1,134 autoantibody Luminex panel and Rapid Extracellular Antigen Profiling (REAP) covering over 6,000 human proteins and 225 viral antigens.
+
+## What has been found?
+
+No significant differences in autoantibody levels were found between ME/CFS patients and healthy controls, including for previously implicated GPCRs. The data did reveal elevated levels of antibodies against certain herpesviruses in the patient group.
+
+## Discussion
+
+The discrepancy with earlier studies might be due to the high-throughput nature of the tools used or the clinical heterogeneity within the patient cohort. Technical factors, such as whether antigens are presented as individual fragments or complete proteins, may also influence results.
+
+## Conclusion & Future Work
+
+The results indicate that GPCR autoantibodies are likely not universal biomarkers for ME/CFS. Future research should focus on larger, stratified cohorts and the potential role of viral triggers in disease maintenance.
+
+
+
+---
+
+---
 
 title: "Microvascular Dysfunction and Basal Membrane Thickening in Skeletal Muscle in ME/CFS and Post-COVID"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-04-01'
@@ -1399,6 +1476,7 @@ The study concludes that patients with ME/CFS and Long COVID exhibit significant
 
 title: "Autoantibody targeting therapies in post COVID syndrome and myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-04-15'
@@ -1453,6 +1531,7 @@ The authors conclude that AAb-targeting therapy remains a promising strategy for
 
 title: "Insights into potential therapeutic approaches for long COVID"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-05-12'
 published: '2025-05-12'
@@ -1505,6 +1584,7 @@ The authors conclude that while evidence for Long COVID treatments is in its ear
 ---
 title: "The sensitising effect of IgG in fibromyalgia syndrome is mediated by Mrgprb2 in mast cells"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 🧪 Biomarker
 created: '2025-05-16'
@@ -1557,6 +1637,7 @@ The researchers conclude that MRGPRX2 on mast cells is a critical mediator of au
 
 title: "Low-Dose naltrexone restored TRPM3 ion channel function in natural killer cells from long COVID patients"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment
@@ -1612,6 +1693,7 @@ The primary conclusion is that LDN treatment appears to reverse a key pathologic
 
 title: "How pandemics reshape our brain: Common links and targets between long-haul COVID-19, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), oxidative stress, and neurodegeneration."
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-05-29'
 published: '2025-05-29'
@@ -1664,6 +1746,7 @@ The author concludes that ME/CFS and Long COVID represent a unified paradigm for
 ---
 title: "Study on Daratumumab for Reducing Symptoms in Patients with Moderate to Severe Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
 tags:
+  - ➕ 2025-12-25
   - 💊 Treatment
   - ⏳ Trial
 created: '2025-06-01'
@@ -1714,6 +1797,7 @@ The final results of this study will contribute to the broader understanding of 
 
 title: "SMPDL3B a novel biomarker and therapeutic target in myalgic encephalomyelitis"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment
@@ -1769,6 +1853,7 @@ The authors conclude that SMPDL3B is a promising biomarker for ME/CFS severity a
 
 title: "Patient-reported treatment outcomes in ME/CFS and long COVID"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 created: '2025-07-08'
@@ -1823,6 +1908,7 @@ The researchers conclude that patient-reported data from large surveys provide a
 
 title: "Plasma cell targeting with the anti-CD38 antibody daratumumab in myalgic encephalomyelitis/chronic fatigue syndrome-a clinical pilot study"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment
@@ -1878,6 +1964,7 @@ The authors conclude that targeting plasma cells with daratumumab was feasible, 
 
 title: "Two neurocognitive domains identified for patients with myalgic encephalomyelitis/chronic fatigue syndrome and post-acute sequelae of COVID-19"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-07-15'
 published: '2025-07-15'
@@ -1930,6 +2017,7 @@ The authors conclude that the neurocognitive symptoms in ME/CFS and PASC can be 
 ---
 title: "Low Dose Sirolimus in People With Post-Acute Sequelae of COVID-19 (PASC) Long COVID-19"
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2025-07-18'
 published: '2025-07-18'
@@ -1981,6 +2069,7 @@ The trial represents a significant effort to repurpose existing medications to t
 
 title: "REGAIN: a randomized controlled clinical trial of oxaloacetate for improving the symptoms of long COVID"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-07-18'
 published: '2025-07-18'
@@ -2034,6 +2123,7 @@ The authors conclude that although the primary endpoint for fatigue was not met,
 
 title: "AI-driven multi-omics modeling of myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-07-25'
@@ -2088,6 +2178,7 @@ The authors conclude that their AI-driven, multi-omics approach provides unprece
 
 title: "Biomarkers over Time: From Visual Contrast Sensitivity to Transcriptomics in Differentiating Chronic Inflammatory Response Syndrome and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-07-28'
@@ -2142,6 +2233,7 @@ The author concludes that the CIRS framework represents a validated model of an 
 
 title: "The Use of Heart Rate Variability-Biofeedback (HRV-BF) as an Adjunctive Intervention in Chronic Fatigue Syndrome (CSF/ME) in Long COVID: Results of a Phase II Controlled Feasibility Trial"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-07-29'
 published: '2025-07-29'
@@ -2195,6 +2287,7 @@ The authors conclude that HRV-BF is a feasible, safe, and well-tolerated interve
 
 title: "Hyperbaric oxygen therapy for long COVID: a prospective registry"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-08-04'
 published: '2025-08-04'
@@ -2248,6 +2341,7 @@ The authors conclude that while the majority of patients reported a significant 
 
 title: "Clinically Meaningful Improvements in Long COVID Symptoms Following Ketogenic Metabolic Therapy Combined with Lifestyle Interventions A Clinical Case Report and Review of the Literature"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-08-06'
 published: '2025-08-06'
@@ -2301,6 +2395,7 @@ The authors conclude that the synergistic effects of combining ketogenic metabol
 
 title: "Genetic depletion of early autophagy protein ATG13 impairs mitochondrial energy metabolism, augments oxidative stress, induces the polarization of macrophages to M1 inflammatory mode, and compromises myelin integrity in skeletal muscle"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-08-06'
 published: '2025-08-06'
@@ -2354,6 +2449,7 @@ The authors conclude that the genetic depletion of ATG13 creates a robust model 
 
 title: "Initial findings from the DecodeME genome-wide association study of myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-08-06'
@@ -2408,6 +2504,7 @@ The authors conclude that this study provides the first robust evidence that com
 
 title: "A Perspective on the Role of Metformin in Treating Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 - ⏳ Trial
@@ -2463,6 +2560,7 @@ The authors conclude that metformin is an intriguing, multi-action drug with a s
 
 title: "Circulating FGF-21 as a Disease-Modifying Factor Associated with Distinct Symptoms and Cognitive Profiles in Myalgic Encephalomyelitis and Fibromyalgia"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-08-08'
 published: '2025-08-08'
@@ -2516,6 +2614,7 @@ The authors conclude that circulating FGF-21 is a nuanced and promising biomarke
 
 title: "ME/CFS and PASC Patient-Derived Immunoglobulin Complexes Disrupt Mitochondrial Function and Alter Inflammatory Marker Secretion"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-08-10'
@@ -2570,6 +2669,7 @@ The study concludes that IgG from ME/CFS and PASC patients can directly cause mi
 
 title: "Circulating cell-free RNA signatures for the characterization and diagnosis of myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-08-11'
@@ -2624,6 +2724,7 @@ The authors conclude that cfRNA analysis is a valuable, minimally invasive tool 
 
 title: "Microfluidic assessment of PO2-regulated RBC capillary velocity in ME/CFS"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment
@@ -2679,6 +2780,7 @@ The authors conclude that RBCs from ME/CFS patients exhibit significantly impair
 
 title: "Causes of symptoms and symptom persistence in long COVID and myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 created: '2025-08-19'
 published: '2025-08-19'
@@ -2732,6 +2834,7 @@ The authors conclude that the symptoms and metabolic changes in long COVID and M
 
 title: "Effect of nonpharmacologic therapies on depressive symptoms in patients with chronic fatigue syndrome: a network meta-analysis"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-08-19'
 published: '2025-08-19'
@@ -2784,6 +2887,7 @@ The authors conclude that several non-pharmacological therapies, particularly di
 ---
 title: "Phase 2 Study of ANKTIVA® in Patients with Long COVID"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 - ⏳ Trial
 created: '2025-08-19'
@@ -2836,6 +2940,7 @@ The trial focuses on whether immune modulation via IL-15 agonism can provide a n
 
 title: "Randomized adaptive assessment of post COVID syndrome treatments (RAPID): a study protocol for a multicenter, randomized, controlled adaptive platform trial of treatment options for Post Covid Syndrome (PCS) on patients physical function including the first intervention specific appendix RAPID_REVIVE (reducing inflammatory activity in patients with PCS)"
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2025-08-19'
 published: '2025-08-19'
@@ -2889,6 +2994,7 @@ The authors conclude that the RAPID platform trial is a crucial step toward esta
 
 title: "Praxisleitfaden Myalgische Enzephalomyelitis / Chronisches Fatigue Syndrom (ME/CFS)"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 created: '2025-08-24'
@@ -2943,6 +3049,7 @@ The authors conclude that management of ME/CFS must be centered on three pillars
 
 title: "Mapping cerebral blood flow in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and orthostatic intolerance: insights from a systematic review"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-08-26'
@@ -2997,6 +3104,7 @@ The authors conclude that cerebral blood flow is reduced in both ME/CFS and OI, 
 
 title: "Haptoglobin phenotypes and structural variants associate with post-exertional malaise and cognitive dysfunction in myalgic encephalomyelitis"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-08-28'
@@ -3051,6 +3159,7 @@ The authors conclude that a person's haptoglobin phenotype and its molecular str
 
 title: "Advancing research on regulatory autoantibodies targeting GPCRs: Insights from the 5th international symposium"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 📰 News
 created: '2025-08-29'
@@ -3105,6 +3214,7 @@ The authors conclude that functional autoantibodies targeting GPCRs are central 
 
 title: "The emerging role of exosomal LncRNAs in chronic fatigue syndrome: from intercellular communication to disease biomarkers"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-08-29'
 published: '2025-08-29'
@@ -3158,6 +3268,7 @@ The authors conclude that EV-LncRNAs represent a promising and previously unexpl
 
 title: "Exploratory study on autoantibodies to arginine-rich human peptides mimicking Epstein-Barr virus in women with post-COVID and myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-19'
 published: '2025-09-19'
@@ -3211,6 +3322,7 @@ The authors conclude that patients with PCS and ME/CFS have a higher frequency o
 
 title: "Global Prevalence of Long COVID, Its Subtypes, and Risk Factors: An Updated Systematic Review and Meta-analysis"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 created: '2025-08-30'
 published: '2025-08-30'
@@ -3264,6 +3376,7 @@ The researchers conclude that Long COVID is a significant and persistent global 
 
 title: "Killer cell immunoglobulin-like receptor (KIR) alleles suggested to be associated with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-08-31'
 published: '2025-08-31'
@@ -3317,6 +3430,7 @@ The authors conclude that their data suggest certain alleles of inhibitory KIR g
 
 title: "Impact of nutrition on long COVID"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-09-02'
 published: '2025-09-02'
@@ -3370,6 +3484,7 @@ The authors conclude that nutritional interventions offer a valuable integrative
 
 title: "Heightened innate immunity may trigger chronic inflammation, fatigue and post-exertional malaise in ME/CFS"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-09-03'
@@ -3424,6 +3539,7 @@ The authors conclude that ME/CFS pathophysiology involves a combination of heigh
 
 title: "Precision Medicine Study of Post-Exertional Malaise Epigenetic Changes in Myalgic Encephalomyelitis/Chronic Fatigue Patients During Exercise"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-03'
 published: '2025-09-03'
@@ -3477,6 +3593,7 @@ The study concludes that PEM is associated with dynamic and specific epigenetic 
 
 title: "Pyridostigmine improves hand grip strength in patients with myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-09-03'
 published: '2025-09-03'
@@ -3530,6 +3647,7 @@ The study concludes that a single dose of pyridostigmine can rapidly and signifi
 
 title: "Autonomic Dysfunction in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Findings from the Multi-Site Clinical Assessment of ME/CFS (MCAM) Study in the USA"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-05'
 published: '2025-09-05'
@@ -3583,6 +3701,7 @@ The study concludes that people with ME/CFS have a substantial burden of autonom
 
 title: "The NLRP3 inflammasome as a key pathway in the affective and chronic fatigue symptoms of Long COVID"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-08'
 published: '2025-09-08'
@@ -3636,6 +3755,7 @@ The authors conclude that activation of the NLRP3 inflammasome is strongly assoc
 
 title: "Anti-neuronal and anti-mitochondrial autoantibodies are associated with lower functional status and more severe respiratory symptoms in post COVID syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-09'
 published: '2025-09-09'
@@ -3689,6 +3809,7 @@ The study concludes that a sustained autoimmune response targeting specific neur
 
 title: "Feasibility and tolerability of dual-target repetitive transcranial magnetic stimulation (rTMS) for treatment of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): An open label pilot study"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-09-09'
@@ -3743,6 +3864,7 @@ The authors conclude that dual-target rTMS is a potentially safe, tolerable, and
 
 title: "Effect of low dose naltrexone for long covid: a systematic review"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-09-10'
 published: '2025-09-10'
@@ -3796,6 +3918,7 @@ The authors conclude that while preliminary observational evidence suggests LDN 
 
 title: "Circulating Levels of SMPDL3B Define Metabolic Endophenotypes and Subclinical Kidney Alterations in Myalgic Encephalomyelitis"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-12'
 published: '2025-09-12'
@@ -3849,6 +3972,7 @@ The study concludes that altered SMPDL3B dynamics are associated with subclinica
 
 title: "Solriamfetol improves daily fatigue symptoms in adults with myalgic encephalomyelitis/chronic fatigue syndrome after 8 weeks of treatment"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-09-16'
 published: '2025-09-16'
@@ -3902,6 +4026,7 @@ The authors conclude that solriamfetol demonstrated good safety and was effectiv
 
 title: "Gulf War Illness, Fibromyalgia, Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID Overlap in Common Symptoms and Underlying Biological Mechanisms: Implications for Future Therapeutic Strategies"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-09-17'
@@ -3956,6 +4081,7 @@ The authors conclude that GWI, FM, ME/CFS, and Long COVID can be collectively un
 
 title: "Evidence of clinical and brain recovery in post-COVID-19 condition: a three-year follow-up study"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-23'
 published: '2025-09-23'
@@ -4009,6 +4135,7 @@ The study concludes that patients with PCC demonstrate a slow but positive long-
 
 title: "Relationships Between Fatigue, Cognitive Function, and Upright Activity in a Randomized Trial of Oxaloacetate for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-09-23'
 published: '2025-09-23'
@@ -4051,6 +4178,7 @@ A trial found that taking the supplement Oxaloacetate (OAA) 💊 was linked to b
 
 title: "The Potential Causes Of Myasthenia And Fasciculations In The Severely Ill Me/Cfs-Patient: Role Of Disturbed Electrophysiology"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-26'
 published: '2025-09-26'
@@ -4104,6 +4232,7 @@ The authors conclude that insufficient Na⁺/K⁺-ATPase activity provides a pla
 
 title: "The gut microbial composition is different in chronic fatigue syndrome than in healthy controls"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-26'
 published: '2025-09-26'
@@ -4157,6 +4286,7 @@ The authors conclude that the gut microbial composition in CFS patients is disti
 
 title: "Better understanding complex pathomechanisms in central nervous system disorders as a prerequisite for improved diagnostic and therapeutic approaches."
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-09-29'
@@ -4211,6 +4341,7 @@ The editorial concludes that a deeper understanding of cellular communication an
 
 title: "Severe COVID-19 induces prolonged elevation of the acute-phase protein pentraxin 3"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-10-01'
 published: '2025-10-01'
@@ -4264,6 +4395,7 @@ The authors conclude that PTX-3 can serve as a long-term, retrospective biomarke
 
 title: "Specialised care for severely affected ME/CFS patients"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-10-01'
 published: '2025-10-01'
@@ -4317,6 +4449,7 @@ The authors conclude that a specialized care environment offering respect, under
 
 title: "Systemic increase of AMPA receptors associated with cognitive impairment of long COVID"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-10-01'
@@ -4371,6 +4504,7 @@ The authors conclude that increased brain-wide AMPAR density is a key pathologic
 
 title: "Development and validation of blood-based diagnostic biomarkers for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) using EpiSwitch® 3-dimensional genomic regulatory immuno-genetic profiling"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-10-08'
@@ -4425,6 +4559,7 @@ The authors conclude that their genome-wide epigenetic screening has identified 
 
 title: "Soluble IL-2R: A potential therapeutic target for mitochondrial dysfunction in post-COVID fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-10-13'
@@ -4479,6 +4614,7 @@ The study concludes that **elevated sIL2R** is a possible cause of mitochondrial
 
 title: "Autonomic phenotyping, brain blood flow control, and cognitive-motor-integration in Long COVID and myalgic encephalomyelitis/chronic fatigue syndrome: A pilot study."
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-10-14'
 published: '2025-10-14'
@@ -4531,7 +4667,8 @@ The researchers conclude that ME/CFS and Long COVID represent unique physiologic
 ---
 
 title: "Autonomic symptom burden, comorbidities and quality of life in women with Hypermobility Spectrum Disorders and hypermobile Ehlers-Danlos syndrome."
-tags: []
+tags:
+- ➕ 2025-12-25
 created: '2025-10-14'
 published: '2025-10-14'
 
@@ -4584,6 +4721,7 @@ The researchers conclude that women with HSD and h-EDS face a profound multisyst
 
 title: "Urinary Peptidomic Profiling in Post-Acute Sequelae of SARS-CoV-2 Infection: A Case-Control Study"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-10-17'
 published: '2025-10-17'
@@ -4637,6 +4775,7 @@ The authors conclude that they have identified a promising, non-invasive urinary
 
 title: "Low-dose rapamycin alleviates clinical symptoms of fatigue and PEM in ME/CFS patients via improvement of autophagy: a pilot study"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment
@@ -4692,6 +4831,7 @@ The authors conclude that low-dose rapamycin 💊 effectively reduced key ME/CFS
 
 title: "HLA and pathogens in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and other post-infection conditions"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-10-24'
@@ -4746,6 +4886,7 @@ The authors conclude that these findings support the hypothesis that ME/CFS, Lon
 
 title: "Leveraging Explainable Automated Machine Learning (AutoML) and Metabolomics for Robust Diagnosis and Pathophysiological Insights in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-10-30'
 published: '2025-10-30'
@@ -4799,6 +4940,7 @@ The study concludes that combining AutoML with explainable AI is a powerful appr
 
 title: "Hyperbaric oxygen therapy improves clinical symptoms and functional capacity and restores thalamic connectivity in ME/CFS"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-10-31'
@@ -4853,6 +4995,7 @@ The authors conclude that HBOT was well-tolerated and associated with significan
 
 title: "Research Into ME/CFS Pathology Points to Possible Treatments"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 📰 News
 - 💊 Treatment
@@ -4908,6 +5051,7 @@ The article concludes that research is increasingly identifying specific, target
 ---
 title: "SARS-CoV-2 spike protein causes synaptic dysfunction and p-tau and α-synuclein aggregation leading cognitive impairment: The protective role of metformin"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 - 🧪 Biomarker
 created: '2025-11-07'
@@ -4960,6 +5104,7 @@ The SARS-CoV-2 spike protein directly triggers a cascade leading to memory loss 
 
 title: "The Clinical Relevance of Mast Cell Activation in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-11-07'
@@ -5014,6 +5159,7 @@ The authors conclude that mast cell activation (MCA) is a frequent and clinicall
 
 title: "The Role of Nuclear and Mitochondrial DNA in Myalgic Encephalomyelitis: Molecular Insights into Susceptibility and Dysfunction"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-11-07'
@@ -5068,6 +5214,7 @@ The authors conclude that DNA plays a profound and multifaceted role in ME/CFS, 
 
 title: "Systematic literature review: treatment of postural orthostatic tachycardia syndrome (POTS)"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-11-12'
 published: '2025-11-12'
@@ -5121,6 +5268,7 @@ The authors conclude that non-pharmacological options like compression garments,
 
 title: "Temporal dynamics of the plasma proteomic landscape reveals maladaptation in ME/CFS following exertion"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-11-15'
@@ -5175,6 +5323,7 @@ The authors conclude that dynamic, longitudinal proteomic profiling is a valuabl
 
 title: "Integrated immune, hormonal, and transcriptomic profiling reveals sex-specific dysregulation in long COVID patients with ME/CFS"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-11-18'
@@ -5228,6 +5377,7 @@ The researchers conclude that LC with ME/CFS is a multifaceted disease with prof
 ---
 title: "Mucosal Viruses in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Missing Piece of the Puzzle?"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-11-20'
 published: '2025-11-20'
@@ -5279,6 +5429,7 @@ The study concludes that mucosal viruses are a likely 'missing piece' of the ME/
 
 title: "Pathogenic IgG from long COVID patients with neurological sequelae triggers sensitive but not cognitive impairments upon transfer into mice"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-11-20'
 published: '2025-11-20'
@@ -5331,6 +5482,7 @@ The authors conclude that IgG autoantibodies from Long COVID patients are pathog
 ---
 title: "Single cell epigenomic profiling identifies a distinct classical monocyte subset driving inflammation in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME)"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-11-20'
 published: '2025-11-20'
@@ -5382,6 +5534,7 @@ The discovery of a distinct, inflammatory monocyte subset provides a new biomark
 
 title: "Project Update: Development of Dextro-Naltrexone for Neuroinflammation in ME/CFS and Fibromyalgia"
 tags:
+- ➕ 2025-12-25
 - 📰 News
 - ⏳ Trial
 created: '2025-11-22'
@@ -5439,6 +5592,7 @@ Dr. Younger concludes that Dextro-Naltrexone represents one of the most promisin
 ---
 title: "Altered brain tissue microstructure and neurochemical profiles in long COVID and recovered COVID-19 individuals: A multimodal MRI study"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-11-25'
 published: '2025-11-25'
@@ -5489,6 +5643,7 @@ SARS-CoV-2 infection leads to measurable neurological changes that persist beyon
 ---
 title: "SARS-CoV-2 Spike Protein Amyloid Fibrils Impair Fibrin Formation and Fibrinolysis"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 🧪 Biomarker
 created: '2025-11-26'
@@ -5541,6 +5696,7 @@ The study concludes that specific Spike protein amyloid fibrils can directly cau
 
 title: "Safety and Effectiveness of an Exercise-Based Telerehabilitation Program in Myalgic Encephalomyelitis and Post COVID Syndrome: Protocol for a Randomized Controlled Clinical Trial."
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2025-11-26'
 published: '2025-11-26'
@@ -5594,6 +5750,7 @@ The researchers conclude that this trial will provide essential data on whether 
 
 title: "Glymphatic System Dysregulation as a Key Contributor to Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-11-27'
 published: '2025-11-27'
@@ -5647,6 +5804,7 @@ The paper concludes that glymphatic system dysregulation offers a cohesive expla
 
 title: "Exploring a genetic basis for the metabolic perturbations in ME/CFS using UK Biobank"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-11-28'
@@ -5701,6 +5859,7 @@ The researchers conclude that there is a measurable genetic predisposition to me
 
 title: "Managing chronic fatigue conditions with overlapping symptoms, and the health policies and social services supporting those affected"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-12-01'
@@ -5755,6 +5914,7 @@ The authors conclude that a paradigm shift toward integrated research and coordi
 
 title: "Microstructural White Matter Impairments in Chronic Fatigue Syndrome: Evidence of Segmental Injury in the Cingulum Bundle"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment
@@ -5810,6 +5970,7 @@ The researchers conclude that segmental injury to the cingulum bundle is a key p
 
 title: "Peripheral Levels of Selected Biomarkers in Patients with Post-Sarcoidosis Chronic Fatigue Syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-02'
 published: '2025-12-02'
@@ -5863,6 +6024,7 @@ The authors conclude that low-grade systemic inflammation, specifically involvin
 
 title: "Risk Factors for Severe Post-COVID Condition in Children, Adolescents, and Young Adults"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-12-02'
@@ -5917,6 +6079,7 @@ The authors conclude that the complexity and type of symptoms present during the
 
 title: "Identification of Novel Reproducible Combinatorial Genetic Risk Factors for Myalgic Encephalomyelitis in the DecodeME Patient Cohort and Commonalities with Long COVID"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-12-03'
@@ -5971,6 +6134,7 @@ The researchers conclude that ME/CFS has a clear, multisystemic genetic basis, w
 
 title: "Immune transcriptomic changes in Australian Gulf War veterans"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-03'
 published: '2025-12-03'
@@ -6024,6 +6188,7 @@ The investigation concludes that GWI is characterized by significant immune dysr
 
 title: "The lingering shadow of epidemics: post-acute sequelae across history."
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-12-04'
@@ -6078,6 +6243,7 @@ The authors conclude that defining the specific biology of Long COVID will likel
 
 title: "Persistent Attenuation of Lymphocyte Subsets After Mass SARS-CoV-2 Infection"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-12-05'
@@ -6132,6 +6298,7 @@ The researchers conclude that the sustained reduction in lymphocytes is a key im
 
 title: "Comparable Immune Alterations and Inflammatory Signatures in ME/CFS and Long COVID"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-12-08'
@@ -6186,6 +6353,7 @@ The authors conclude that ME/CFS and Long COVID are characterized by comparable 
 
 title: "Long-COVID research just got a big funding boost: will it find new treatments?"
 tags:
+- ➕ 2025-12-25
 - 📰 News
 - 💊 Treatment
 - ⏳ Trial
@@ -6241,6 +6409,7 @@ The article concludes that the funding represents a "great step in the right dir
 
 title: "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): diagnosis and management."
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-12-09'
@@ -6295,6 +6464,7 @@ The researchers conclude that ME/CFS is a complex multisystem disease requiring 
 
 title: "Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic encephalomyelitis/chronic fatigue syndrome."
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-10'
 published: '2025-12-10'
@@ -6347,6 +6517,7 @@ The authors conclude that symptom severity in ME/CFS is mirrored by specific, me
 ---
 title: "Exaggerated IFN-I Response in Long COVID PBMCs Following Exposure to Viral Mimics"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-10'
 published: '2025-12-10'
@@ -6398,6 +6569,7 @@ The study concludes that Long COVID involves a hyperresponsive immune phenotype,
 
 title: "Large-scale investigation confirms TRPM3 ion channel dysfunction in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-12-10'
@@ -6452,6 +6624,7 @@ The authors conclude that TRPM3 ion channel dysfunction is a core component of t
 
 title: "£1.1m awarded to investigate links between ME/CFS and Long Covid"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 📰 News
 - ⏳ Trial
@@ -6507,6 +6680,7 @@ The researchers conclude that mapping the immunological profiles of ME/CFS and L
 
 title: "Alterations in gut microbiota and associated metabolites in patients with chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-12'
 published: '2025-12-12'
@@ -6559,6 +6733,7 @@ The research concludes that gut dysbiosis and the resulting lack of short-chain 
 ---
 title: "Long COVID involves activation of proinflammatory and immune exhaustion pathways"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 🧪 Biomarker
 created: '2025-12-12'
@@ -6610,6 +6785,7 @@ The study identifies chronic inflammation and immune exhaustion as central drive
 ---
 title: "Inefficient energy consumption is related to post exertional malaise during cardiopulmonary exercise testing in long COVID"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-15'
 published: '2025-12-15'
@@ -6661,6 +6837,7 @@ Long COVID patients exhibit inefficient energy consumption that serves as a meta
 
 title: "Mapping the complexity of ME/CFS: Evidence for abnormal energy metabolism, altered immune profile, and vascular dysfunction."
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-12-16'
@@ -6714,6 +6891,7 @@ The authors conclude that ME/CFS involves a coordinated breakdown across energy,
 ---
 title: "Genetic Insights into Circulating Complement Proteins in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Potential Inflammatory Subgroup"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-19'
 published: '2025-12-19'
@@ -6765,6 +6943,7 @@ The research establishes a genetic link to complement system dysregulation in a 
 
 title: "Recommended long COVID outcome measures and their implications for clinical trial design, with a focus on post-exertional malaise"
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2025-12-19'
 published: '2025-12-19'
@@ -6817,6 +6996,7 @@ The paper concludes that the development and validation of specific outcome meas
 ---
 title: "Machine Learning Analysis of Post-Acute COVID Symptoms Identifies Distinct Clusters, Severity Groups, and Trajectories"
 tags:
+  - ➕ 2025-12-25
   - 🧪 Biomarker
   - ⭐ Landmark
 created: '2025-12-22'
