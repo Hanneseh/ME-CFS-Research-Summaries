@@ -1,6 +1,7 @@
 ---
 title: "Inefficient energy consumption is related to post exertional malaise during cardiopulmonary exercise testing in long COVID"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-15'
 published: '2025-12-15'

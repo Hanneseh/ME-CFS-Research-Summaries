@@ -2,6 +2,7 @@
 
 title: "Anti-neuronal and anti-mitochondrial autoantibodies are associated with lower functional status and more severe respiratory symptoms in post COVID syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-09-09'
 published: '2025-09-09'

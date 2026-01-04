@@ -2,6 +2,7 @@
 
 title: "The Use of Heart Rate Variability-Biofeedback (HRV-BF) as an Adjunctive Intervention in Chronic Fatigue Syndrome (CSF/ME) in Long COVID: Results of a Phase II Controlled Feasibility Trial"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-07-29'
 published: '2025-07-29'

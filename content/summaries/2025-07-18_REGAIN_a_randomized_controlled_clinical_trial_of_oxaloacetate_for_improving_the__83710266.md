@@ -2,6 +2,7 @@
 
 title: "REGAIN: a randomized controlled clinical trial of oxaloacetate for improving the symptoms of long COVID"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-07-18'
 published: '2025-07-18'

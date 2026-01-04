@@ -1,6 +1,7 @@
 ---
 title: "The sensitising effect of IgG in fibromyalgia syndrome is mediated by Mrgprb2 in mast cells"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 🧪 Biomarker
 created: '2025-05-16'

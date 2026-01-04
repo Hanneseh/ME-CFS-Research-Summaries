@@ -2,6 +2,7 @@
 
 title: "Patient-reported treatment outcomes in ME/CFS and long COVID"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 created: '2025-07-08'

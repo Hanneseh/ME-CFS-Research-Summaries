@@ -2,6 +2,7 @@
 
 title: "Clinically Meaningful Improvements in Long COVID Symptoms Following Ketogenic Metabolic Therapy Combined with Lifestyle Interventions A Clinical Case Report and Review of the Literature"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-08-06'
 published: '2025-08-06'

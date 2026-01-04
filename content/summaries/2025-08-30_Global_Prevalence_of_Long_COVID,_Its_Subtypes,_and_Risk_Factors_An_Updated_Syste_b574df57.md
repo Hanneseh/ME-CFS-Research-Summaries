@@ -2,6 +2,7 @@
 
 title: "Global Prevalence of Long COVID, Its Subtypes, and Risk Factors: An Updated Systematic Review and Meta-analysis"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 created: '2025-08-30'
 published: '2025-08-30'

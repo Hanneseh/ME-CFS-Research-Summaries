@@ -2,6 +2,7 @@
 
 title: "Pathogenic IgG from long COVID patients with neurological sequelae triggers sensitive but not cognitive impairments upon transfer into mice"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-11-20'
 published: '2025-11-20'

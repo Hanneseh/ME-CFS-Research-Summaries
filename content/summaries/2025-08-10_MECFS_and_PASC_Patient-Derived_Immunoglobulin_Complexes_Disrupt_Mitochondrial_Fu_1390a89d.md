@@ -2,6 +2,7 @@
 
 title: "ME/CFS and PASC Patient-Derived Immunoglobulin Complexes Disrupt Mitochondrial Function and Alter Inflammatory Marker Secretion"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-08-10'

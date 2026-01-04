@@ -2,6 +2,7 @@
 
 title: "Low-dose rapamycin alleviates clinical symptoms of fatigue and PEM in ME/CFS patients via improvement of autophagy: a pilot study"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment

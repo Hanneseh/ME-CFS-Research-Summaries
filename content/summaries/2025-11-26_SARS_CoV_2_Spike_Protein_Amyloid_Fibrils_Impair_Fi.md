@@ -1,6 +1,7 @@
 ---
 title: "SARS-CoV-2 Spike Protein Amyloid Fibrils Impair Fibrin Formation and Fibrinolysis"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 🧪 Biomarker
 created: '2025-11-26'

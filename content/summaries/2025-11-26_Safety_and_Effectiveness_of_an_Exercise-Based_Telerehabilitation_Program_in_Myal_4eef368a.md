@@ -2,6 +2,7 @@
 
 title: "Safety and Effectiveness of an Exercise-Based Telerehabilitation Program in Myalgic Encephalomyelitis and Post COVID Syndrome: Protocol for a Randomized Controlled Clinical Trial."
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2025-11-26'
 published: '2025-11-26'

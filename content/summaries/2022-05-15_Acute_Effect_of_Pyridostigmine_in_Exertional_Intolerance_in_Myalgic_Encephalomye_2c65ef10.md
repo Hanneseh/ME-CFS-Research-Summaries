@@ -2,6 +2,7 @@
 
 title: "Acute Effect of Pyridostigmine in Exertional Intolerance in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): A Randomized Placebo-Controlled Clinical Trial"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 - 💊 Treatment

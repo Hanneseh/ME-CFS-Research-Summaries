@@ -2,6 +2,7 @@
 
 title: "Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 created: '2023-06-08'

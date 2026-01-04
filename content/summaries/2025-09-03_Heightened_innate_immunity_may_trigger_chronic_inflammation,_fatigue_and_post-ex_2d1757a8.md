@@ -2,6 +2,7 @@
 
 title: "Heightened innate immunity may trigger chronic inflammation, fatigue and post-exertional malaise in ME/CFS"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-09-03'

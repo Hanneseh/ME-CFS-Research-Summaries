@@ -2,6 +2,7 @@
 
 title: "Autoantibody targeting therapies in post COVID syndrome and myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2025-04-15'

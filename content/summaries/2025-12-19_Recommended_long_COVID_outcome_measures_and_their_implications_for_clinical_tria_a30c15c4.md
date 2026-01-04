@@ -2,6 +2,7 @@
 
 title: "Recommended long COVID outcome measures and their implications for clinical trial design, with a focus on post-exertional malaise"
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2025-12-19'
 published: '2025-12-19'

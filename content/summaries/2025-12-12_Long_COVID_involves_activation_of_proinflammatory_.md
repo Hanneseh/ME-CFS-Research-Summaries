@@ -1,6 +1,7 @@
 ---
 title: "Long COVID involves activation of proinflammatory and immune exhaustion pathways"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 🧪 Biomarker
 created: '2025-12-12'

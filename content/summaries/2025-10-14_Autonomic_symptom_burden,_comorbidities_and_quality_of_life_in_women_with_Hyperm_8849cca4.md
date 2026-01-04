@@ -1,7 +1,8 @@
 ---
 
 title: "Autonomic symptom burden, comorbidities and quality of life in women with Hypermobility Spectrum Disorders and hypermobile Ehlers-Danlos syndrome."
-tags: []
+tags:
+- ➕ 2025-12-25
 created: '2025-10-14'
 published: '2025-10-14'
 

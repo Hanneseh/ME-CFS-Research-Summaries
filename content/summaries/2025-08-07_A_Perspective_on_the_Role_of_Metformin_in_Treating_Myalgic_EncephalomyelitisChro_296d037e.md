@@ -2,6 +2,7 @@
 
 title: "A Perspective on the Role of Metformin in Treating Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 - ⏳ Trial

@@ -2,6 +2,7 @@
 
 title: "Long-COVID research just got a big funding boost: will it find new treatments?"
 tags:
+- ➕ 2025-12-25
 - 📰 News
 - 💊 Treatment
 - ⏳ Trial

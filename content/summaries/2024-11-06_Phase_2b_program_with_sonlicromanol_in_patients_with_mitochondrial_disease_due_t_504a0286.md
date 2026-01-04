@@ -2,6 +2,7 @@
 
 title: "Phase 2b program with sonlicromanol in patients with mitochondrial disease due to m.3243A>G mutation"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2024-11-06'
 published: '2024-11-06'

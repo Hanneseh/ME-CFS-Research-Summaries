@@ -1,6 +1,7 @@
 ---
 title: "Study on Daratumumab for Reducing Symptoms in Patients with Moderate to Severe Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
 tags:
+- ➕ 2025-12-25
   - 💊 Treatment
   - ⏳ Trial
 created: '2025-06-01'

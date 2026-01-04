@@ -1,6 +1,7 @@
 ---
 title: "Genetic Insights into Circulating Complement Proteins in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Potential Inflammatory Subgroup"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-19'
 published: '2025-12-19'

@@ -2,6 +2,7 @@
 
 title: "Solriamfetol improves daily fatigue symptoms in adults with myalgic encephalomyelitis/chronic fatigue syndrome after 8 weeks of treatment"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-09-16'
 published: '2025-09-16'

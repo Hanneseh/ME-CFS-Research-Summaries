@@ -2,6 +2,7 @@
 
 title: "A novel frameshift mutation in ADCK1 identified in a case of chronic fatigue syndrome successfully treated with oral 5-ALA/SFC"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2024-12-26'

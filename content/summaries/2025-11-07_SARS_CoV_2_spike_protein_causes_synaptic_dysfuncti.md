@@ -1,6 +1,7 @@
 ---
 title: "SARS-CoV-2 spike protein causes synaptic dysfunction and p-tau and α-synuclein aggregation leading cognitive impairment: The protective role of metformin"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 - 🧪 Biomarker
 created: '2025-11-07'

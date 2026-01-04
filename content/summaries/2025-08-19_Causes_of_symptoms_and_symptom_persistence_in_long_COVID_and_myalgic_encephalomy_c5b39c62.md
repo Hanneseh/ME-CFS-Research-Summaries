@@ -2,6 +2,7 @@
 
 title: "Causes of symptoms and symptom persistence in long COVID and myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 created: '2025-08-19'
 published: '2025-08-19'

@@ -1,6 +1,7 @@
 ---
 title: "Phase 2 Study of ANKTIVA® in Patients with Long COVID"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 - ⏳ Trial
 created: '2025-08-19'

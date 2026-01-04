@@ -2,6 +2,7 @@
 
 title: "Killer cell immunoglobulin-like receptor (KIR) alleles suggested to be associated with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-08-31'
 published: '2025-08-31'

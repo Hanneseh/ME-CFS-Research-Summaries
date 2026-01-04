@@ -2,6 +2,7 @@
 
 title: "HLA and pathogens in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and other post-infection conditions"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-10-24'

@@ -2,6 +2,7 @@
 
 title: "Systematic literature review: treatment of postural orthostatic tachycardia syndrome (POTS)"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-11-12'
 published: '2025-11-12'

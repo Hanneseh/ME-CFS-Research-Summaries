@@ -2,6 +2,7 @@
 
 title: "Systemic increase of AMPA receptors associated with cognitive impairment of long COVID"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-10-01'

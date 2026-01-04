@@ -2,6 +2,7 @@
 
 title: "Insights into potential therapeutic approaches for long COVID"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-05-12'
 published: '2025-05-12'

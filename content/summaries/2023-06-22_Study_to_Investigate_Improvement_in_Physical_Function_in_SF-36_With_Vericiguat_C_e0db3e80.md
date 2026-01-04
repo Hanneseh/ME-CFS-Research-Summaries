@@ -2,6 +2,7 @@
 
 title: "Study to Investigate Improvement in Physical Function in SF-36 With Vericiguat Compared With Placebo in Participants With Post-COVID-19 Syndrome"
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2023-06-22'
 published: '2023-06-22'

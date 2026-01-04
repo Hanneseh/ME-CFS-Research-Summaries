@@ -2,6 +2,7 @@
 
 title: "Advancing research on regulatory autoantibodies targeting GPCRs: Insights from the 5th international symposium"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 📰 News
 created: '2025-08-29'

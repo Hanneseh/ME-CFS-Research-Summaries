@@ -2,6 +2,7 @@
 
 title: "Randomized adaptive assessment of post COVID syndrome treatments (RAPID): a study protocol for a multicenter, randomized, controlled adaptive platform trial of treatment options for Post Covid Syndrome (PCS) on patients physical function including the first intervention specific appendix RAPID_REVIVE (reducing inflammatory activity in patients with PCS)"
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2025-08-19'
 published: '2025-08-19'

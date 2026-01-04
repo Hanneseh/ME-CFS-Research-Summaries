@@ -2,6 +2,7 @@
 
 title: "Advancing Research and Treatment: An Overview of Clinical Trials in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Future Perspectives"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 - ⏳ Trial

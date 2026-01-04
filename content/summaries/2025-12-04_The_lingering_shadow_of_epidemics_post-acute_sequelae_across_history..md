@@ -2,6 +2,7 @@
 
 title: "The lingering shadow of epidemics: post-acute sequelae across history."
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-12-04'

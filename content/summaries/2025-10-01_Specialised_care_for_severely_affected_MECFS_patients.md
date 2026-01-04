@@ -2,6 +2,7 @@
 
 title: "Specialised care for severely affected ME/CFS patients"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-10-01'
 published: '2025-10-01'

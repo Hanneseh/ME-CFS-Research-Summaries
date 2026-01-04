@@ -2,6 +2,7 @@
 
 title: "Chronic fatigue syndrome linked to widespread energy, immune and vascular changes"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2024-02-21'

@@ -2,6 +2,7 @@
 
 title: "Towards an understanding of physical activity-induced post-exertional malaise: Insights into microvascular alterations and immunometabolic interactions in post-COVID condition and myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - 💊 Treatment
 created: '2024-09-06'

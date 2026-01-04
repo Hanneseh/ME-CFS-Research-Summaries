@@ -2,6 +2,7 @@
 
 title: "Effect of nonpharmacologic therapies on depressive symptoms in patients with chronic fatigue syndrome: a network meta-analysis"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-08-19'
 published: '2025-08-19'

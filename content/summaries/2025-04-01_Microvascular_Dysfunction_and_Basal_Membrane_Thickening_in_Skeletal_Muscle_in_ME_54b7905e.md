@@ -2,6 +2,7 @@
 
 title: "Microvascular Dysfunction and Basal Membrane Thickening in Skeletal Muscle in ME/CFS and Post-COVID"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 - ⭐ Landmark
 created: '2025-04-01'

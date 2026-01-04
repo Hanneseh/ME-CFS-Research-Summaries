@@ -2,6 +2,7 @@
 
 title: "Prednisolone and Vitamin B1/​6/​12 in Patients With Post-Covid-Syndrome (PreVitaCOV)"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 - ⏳ Trial
 created: '2022-11-11'

@@ -2,6 +2,7 @@
 
 title: "Severe COVID-19 induces prolonged elevation of the acute-phase protein pentraxin 3"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-10-01'
 published: '2025-10-01'

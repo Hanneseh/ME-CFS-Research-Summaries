@@ -2,6 +2,7 @@
 
 title: "Praxisleitfaden Myalgische Enzephalomyelitis / Chronisches Fatigue Syndrom (ME/CFS)"
 tags:
+- ➕ 2025-12-25
 - ⭐ Landmark
 - 💊 Treatment
 created: '2025-08-24'

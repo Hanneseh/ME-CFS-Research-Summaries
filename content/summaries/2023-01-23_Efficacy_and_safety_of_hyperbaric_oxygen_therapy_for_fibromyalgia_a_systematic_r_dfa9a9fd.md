@@ -2,6 +2,7 @@
 
 title: "Efficacy and safety of hyperbaric oxygen therapy for fibromyalgia: a systematic review and meta-analysis"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2023-01-23'
 published: '2023-01-23'

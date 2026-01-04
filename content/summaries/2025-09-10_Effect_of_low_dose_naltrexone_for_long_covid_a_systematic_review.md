@@ -2,6 +2,7 @@
 
 title: "Effect of low dose naltrexone for long covid: a systematic review"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-09-10'
 published: '2025-09-10'

@@ -2,6 +2,7 @@
 
 title: "Genetic depletion of early autophagy protein ATG13 impairs mitochondrial energy metabolism, augments oxidative stress, induces the polarization of macrophages to M1 inflammatory mode, and compromises myelin integrity in skeletal muscle"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-08-06'
 published: '2025-08-06'

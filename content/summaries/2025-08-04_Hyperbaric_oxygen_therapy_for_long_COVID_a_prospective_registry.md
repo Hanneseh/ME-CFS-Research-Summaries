@@ -2,6 +2,7 @@
 
 title: "Hyperbaric oxygen therapy for long COVID: a prospective registry"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-08-04'
 published: '2025-08-04'

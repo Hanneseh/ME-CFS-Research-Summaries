@@ -2,6 +2,7 @@
 
 title: "Alterations in gut microbiota and associated metabolites in patients with chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 🧪 Biomarker
 created: '2025-12-12'
 published: '2025-12-12'

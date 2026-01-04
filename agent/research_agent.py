@@ -508,6 +508,9 @@ class ResearchAgent:
                 md_content = "---\n"
                 md_content += f"title: \"{result_4.title}\"\n"
                 md_content += "tags:\n"
+                # Add release date tag
+                current_date = datetime.now().strftime("%Y-%m-%d")
+                md_content += f"- ➕ {current_date}\n"
                 for tag in result_5.tags:
                      md_content += f"- {tag}\n"
                 md_content += f"created: '{pub_date}'\n"

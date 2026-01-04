@@ -1,6 +1,7 @@
 ---
 title: "Low Dose Sirolimus in People With Post-Acute Sequelae of COVID-19 (PASC) Long COVID-19"
 tags:
+- ➕ 2025-12-25
 - ⏳ Trial
 created: '2025-07-18'
 published: '2025-07-18'

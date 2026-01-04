@@ -2,6 +2,7 @@
 
 title: "Pyridostigmine improves hand grip strength in patients with myalgic encephalomyelitis/chronic fatigue syndrome"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-09-03'
 published: '2025-09-03'

@@ -2,6 +2,7 @@
 
 title: "Impact of nutrition on long COVID"
 tags:
+- ➕ 2025-12-25
 - 💊 Treatment
 created: '2025-09-02'
 published: '2025-09-02'
