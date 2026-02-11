@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-01-25 17:07:17*
+*Generated on: 2026-02-11 21:22:08*
 
 ---
 
@@ -1418,6 +1418,58 @@ The introduction of this medication list represents significant progress in the 
 ---
 
 ---
+title: "Dutch ME/CFS Brain Autopsy Study (Presentation of the first 10 cases)"
+tags:
+- ➕ 2026-02-11
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2025-03-10'
+published: '2025-03-10'
+---
+
+<details>
+<summary>Correa da Silva & Huitinga (2025)</summary>
+
+- **Authors:** Felipe Correa da Silva, Inge Huitinga
+- **Institutes:** Netherlands Institute for Neuroscience (NIN-KNAW), Amsterdam, Netherlands, University of Amsterdam, Amsterdam, Netherlands, Netherlands Brain Bank (NBB), Amsterdam, Netherlands
+- **Publisher:** NMCB / ZonMw
+- **Link:** [DOI](https://www.youtube.com/watch?v=30DkFAXHjDI)
+
+</details>
+
+## Summary
+
+This landmark autopsy study represents the first systematic, high-resolution analysis of brain tissue from a dedicated ME/CFS cohort. By identifying specific neuro-endocrine changes in the hypothalamus, the research provides a potential biological basis for the HPA-axis dysfunction and autonomic symptoms characteristic of the disease. This work shifts the focus from broad neuroinflammation to specific cellular and molecular changes in regulatory brain regions.
+
+## What was researched?
+
+This research involved a comprehensive post-mortem analysis of brain tissue from the first ten donors in the Dutch ME/CFS Brain Bank to identify structural and molecular abnormalities.
+
+## Why was it researched?
+
+The study aimed to investigate the 'brain disease' hypothesis of ME/CFS by looking for physical evidence of neuro-endocrine disruption, neuroinflammation, and mitochondrial dysfunction that cannot be observed via standard clinical imaging.
+
+## How was it researched?
+
+Researchers performed detailed histological and molecular examinations on tissue from ten autopsied ME/CFS patients, focusing on the hypothalamus, microglial activation, and mitochondrial protein expression. The study also utilized advanced single-cell transcriptomics across multiple brain regions to map gene expression changes in specific cell types.
+
+## What has been found?
+
+The analysis revealed significant changes in the hypothalamus, specifically involving neurons producing corticotropin-releasing hormone (CRH) and vasopressin. While widespread chronic neuroinflammation was not observed, the study found evidence of altered microglial states and mitochondrial signatures. Single-cell sequencing identified unique molecular patterns in glia and neurons that distinguish ME/CFS brain tissue from controls.
+
+## Discussion
+
+A major strength of this study is the high-quality, short-post-mortem-interval tissue provided by the specialized Dutch Brain Bank. Limitations include the small initial sample size of ten cases and the inherent complexity of interpreting post-mortem changes in long-term chronic illness.
+
+## Conclusion & Future Work
+
+The findings suggest that ME/CFS involves specific neurobiological alterations in the HPA-axis regulation center rather than generalized brain inflammation. Future work will expand the cohort to validate these findings and explore their relationship with clinical symptom severity.
+
+
+
+---
+
+---
 title: "Long COVID – a critical disruption of cholinergic neurotransmission?"
 tags:
 - ➕ 2026-01-25
@@ -1434,7 +1486,7 @@ published: '2025-03-13'
 - **Authors:** Marco Leitzke, Donald Troy Roach, Swen Hesse, Peter Schönknecht, Georg-Alexander Becker, Marianne Rullmann, Bernd Sattler, Thies Sattler, Marianne Patt, Osama Sabri
 - **Institutes:** Department of Nuclear Medicine, University Hospital Leipzig, Leipzig, Germany, Department of Anaesthesiology, Intensive Care Medicine, Pain Therapy and Palliative Medicine, Helios Klinik Leisnig, Leisnig, Germany
 - **Publisher:** Bioelectronic Medicine
-- **Link:** [DOI](https://doi.org/10.1186/s42234-025-00140-5)
+- **Link:** [YouTube](https://www.youtube.com/live/E0Yb6FLEzR8?si=7eHapbtWXCuswzYw)
 
 </details>
 
@@ -1516,6 +1568,57 @@ The discrepancy with earlier studies might be due to the high-throughput nature 
 ## Conclusion & Future Work
 
 The results indicate that GPCR autoantibodies are likely not universal biomarkers for ME/CFS. Future research should focus on larger, stratified cohorts and the potential role of viral triggers in disease maintenance.
+
+
+
+---
+
+---
+title: "Improving myalgic encephalomyelitis population sampling: Applying an online respondent-driven method to address biases in G93.3 register data"
+tags:
+- ➕ 2026-02-11
+- 🧪 Biomarker
+created: '2025-03-24'
+published: '2025-03-24'
+---
+
+<details>
+<summary>Kielland et al. (2025)</summary>
+
+- **Authors:** Anne Kielland, Jing Liu, Guri Tyldum, Leonard A. Jason
+- **Institutes:** Fafo Institute for Labour and Social Research, Oslo, Norway, Center for Community Research, DePaul University, Chicago, IL, USA
+- **Publisher:** Journal of Health Psychology
+- **Link:** [DOI](https://doi.org/10.1177/13591053251325690)
+
+</details>
+
+## Summary
+
+This study demonstrates that traditional medical registry data for ME/CFS can be significantly biased by sociodemographic factors, potentially excluding underserved populations. By implementing an online peer-referral sampling method (RDS), researchers can achieve a more representative sample of the patient community. This approach is vital for generating accurate prevalence data and ensuring that healthcare policies address the needs of all affected individuals, regardless of their socioeconomic status.
+
+## What was researched?
+
+The research investigated the effectiveness of online Respondent-Driven Sampling (RDS) as a method to reach a more diverse and representative ME/CFS population than what is found in official medical registers. It specifically aimed to address selection biases in the G93.3 (ICD-10) registry data in Norway.
+
+## Why was it researched?
+
+Official medical registers often suffer from bias because patients with higher socioeconomic status or better access to specialized healthcare are more likely to receive a formal diagnosis. There is also a concern that registry data may include individuals who do not meet strict research case definitions like the Canadian Consensus Criteria (CCC).
+
+## How was it researched?
+
+Researchers utilized a peer-referral recruitment process (RDS) to gather a sample of 660 respondents and applied validated DePaul University algorithms to verify if they met the CCC. The sociodemographic and medical characteristics of this sample were then compared to official Norwegian registry data using regression analysis to identify diagnostic biases.
+
+## What has been found?
+
+The study found that the likelihood of receiving an official G93.3 diagnosis was influenced by sociodemographic factors even when symptom severity was controlled for. The RDS method successfully reached a broader spectrum of the patient community, including those potentially missed by clinical registries. Using standardized algorithms provided a more homogenous and verified patient sample for research purposes.
+
+## Discussion
+
+A primary strength of the study is its ability to reduce the socioeconomic bias inherent in many clinical databases. However, a limitation remains that even peer-referral networks may struggle to reach the most socially isolated or severely ill patients who are not active online.
+
+## Conclusion & Future Work
+
+The authors conclude that online Respondent-Driven Sampling is a feasible and superior methodology for identifying representative ME/CFS cohorts. They recommend its use in future epidemiological studies to complement register data and improve the scientific validity of patient samples.
 
 
 
@@ -7199,6 +7302,108 @@ This automated approach could reduce the need for lengthy diagnosis-by-exclusion
 ---
 
 ---
+title: "Autonomic Dysfunction in Patients with Acute Infection with Coxiella burnetii"
+tags:
+- ➕ 2026-02-11
+- 🧪 Biomarker
+created: '2025-12-19'
+published: '2025-12-19'
+---
+
+<details>
+<summary>Milovanović et al. (2026)</summary>
+
+- **Authors:** Branislav Milovanović, Nikola Marković, Elizabeta Ristanović, Sonja Atanasievska Kujović, Nikoleta Đorđevski, Masa Petrovic, Milica Milošević, Sulin Bulatovic, Milovan Bojić
+- **Institutes:** Institute for Cardiovascular Diseases 'Dedinje', Belgrade, Serbia, Faculty of Medicine, University of Belgrade, Belgrade, Serbia
+- **Publisher:** Pathogens (MDPI)
+- **Link:** [DOI](https://doi.org/10.3390/pathogens15010003)
+
+</details>
+
+## Summary
+
+This research provides objective evidence linking acute Q fever infection to measurable dysfunction of the autonomic nervous system. By identifying specific impairments in heart rate and blood pressure control, the study validates a physiological basis for the post-infectious fatigue and fainting symptoms common in ME/CFS. The findings suggest that Coxiella burnetii may be a major infectious trigger for chronic dysautonomia, highlighting the need for early screening in post-viral and post-bacterial recovery.
+
+## What was researched?
+
+This study investigated the prevalence and specific characteristics of autonomic nervous system dysfunction in patients who had recently been infected with the bacteria Coxiella burnetii.
+
+## Why was it researched?
+
+While Coxiella burnetii is known to cause Q fever and subsequent post-infectious fatigue syndromes like ME/CFS, the exact role of the autonomic nervous system in producing these symptoms was not well-documented.
+
+## How was it researched?
+
+Researchers compared 100 seropositive patients to 56 healthy controls using a variety of diagnostic tools, including cardiovascular reflex tests, 24-hour Holter monitoring for heart rate variability, and head-up tilt testing. The study focused on patients presenting with polymorphic symptoms such as extreme fatigue and orthostatic intolerance.
+
+## What has been found?
+
+The infected group showed a significantly higher rate of autonomic dysfunction, particularly affecting parasympathetic regulation and the baroreflex mechanism which stabilizes blood pressure. Tilt testing revealed extreme blood pressure variability and a high rate of positive findings for syncope or orthostatic stress in the Coxiella group.
+
+## Discussion
+
+A key finding was that short-term autonomic measurements were more sensitive at detecting impairment than long-term 24-hour measures. The study notes that while a clear association exists, the cross-sectional design cannot definitively prove the infection caused the long-term dysfunction.
+
+## Conclusion & Future Work
+
+The study concludes that Coxiella burnetii infection can trigger persistent autonomic dysfunction, which likely contributes to the development of ME/CFS. Further long-term studies are recommended to understand how these autonomic changes progress over time.
+
+
+
+---
+
+---
+title: "Babesia and Bartonella Species DNA in Blood and Enrichment Blood Cultures from People with Chronic Fatigue and Concurrent Neurological Symptoms"
+tags:
+- ➕ 2026-02-11
+- 🧪 Biomarker
+created: '2025-12-19'
+published: '2025-12-19'
+---
+
+<details>
+<summary>Breitschwerdt et al. (2026)</summary>
+
+- **Authors:** Edward B. Breitschwerdt, Ricardo G. Maggi, Janice C. Bush, Emily Kingston
+- **Institutes:** College of Veterinary Medicine, North Carolina State University, Raleigh, NC, USA
+- **Publisher:** Pathogens (MDPI)
+- **Link:** [DOI](https://doi.org/10.3390/pathogens15010002)
+
+</details>
+
+## Summary
+
+This research reveals a high prevalence of vector-borne infections in a subset of ME/CFS patients, suggesting that specialized testing for Bartonella and Babesia is clinically relevant for those with neurological symptoms. The findings indicate that nearly half of the participants carried these difficult-to-detect pathogens. This provides a foundation for investigating whether targeted antimicrobial treatments could offer symptom relief for a significant portion of this patient population.
+
+## What was researched?
+
+This study investigated the prevalence of Babesia and Bartonella species DNA in individuals suffering from chronic fatigue and concurrent neurological symptoms.
+
+## Why was it researched?
+
+Researchers sought to determine if persistent infections with these vector-borne "stealth" pathogens could be linked to the complex symptoms of ME/CFS.
+
+## How was it researched?
+
+Blood and enrichment cultures from 50 participants with fatigue lasting six months to 19 years were analyzed using highly sensitive qPCR and DNA sequencing.
+
+## What has been found?
+
+Infection was confirmed in 46% of participants, with Babesia species detected in 24% and Bartonella species in 26% of the cohort. Specific identified pathogens included Bartonella henselae, Babesia odocoilei, and Babesia divergens-like MO-1.
+
+## Discussion
+
+Limitations of the study include a small sample size and the lack of a healthy control group, which prevents the establishment of a causal relationship.
+
+## Conclusion & Future Work
+
+The results suggest these pathogens may be significant cofactors in ME/CFS, warranting larger case-control studies using sensitive detection methods.
+
+
+
+---
+
+---
 title: "Genetic Insights into Circulating Complement Proteins in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Potential Inflammatory Subgroup"
 tags:
 - ➕ 2025-12-25
@@ -7873,6 +8078,57 @@ Herpesvirus dUTPase antibodies are promising biomarkers for the diagnosis and st
 ---
 
 ---
+title: "The fatigue spectrum in a community-based long haul COVID cohort"
+tags:
+- ➕ 2026-02-11
+- 🧪 Biomarker
+created: '2026-01-01'
+published: '2026-01-01'
+---
+
+<details>
+<summary>Carter et al. (2026)</summary>
+
+- **Authors:** Isabelle V. Carter, Anna May, Isabella C. Hsieh, Juliane Torer, David Rosenberg, Kingman P. Strohl
+- **Institutes:** Department of Psychiatry, Robert Wood Johnson University Hospital, New Brunswick, NJ, USA, Case Western Reserve University, Cleveland, OH, USA
+- **Publisher:** Sleep and Breathing (Springer)
+- **Link:** [DOI](https://doi.org/10.1007/s11325-025-03512-y)
+
+</details>
+
+## Summary
+
+This study clarifies that Long COVID fatigue is a diverse spectrum rather than a single condition, with only a small minority of patients meeting formal ME/CFS diagnostic criteria. This distinction is crucial because treating all post-COVID fatigue as ME/CFS could lead to ineffective clinical trials and misaligned treatment strategies. By highlighting that brain fog is a separate but overlapping feature, the research helps clinicians better categorize patient symptoms. Ultimately, these findings advocate for more nuanced diagnostic frameworks to improve care for those suffering from post-viral exhaustion.
+
+## What was researched?
+
+This study investigated the different presentations of fatigue in a Long COVID clinic cohort and compared them against the formal 2015 CDC diagnostic criteria for ME/CFS.
+
+## Why was it researched?
+
+While fatigue is the most common symptom of Long COVID, it remains unclear how often it mirrors ME/CFS and how it interacts with other symptoms like brain fog and psychiatric health.
+
+## How was it researched?
+
+Researchers performed a retrospective analysis of 277 patients evaluated at a referral clinic an average of 10 months post-infection. They used standardized measures including the Fatigue Severity Score, PHQ-9 for depression, and specific criteria for ME/CFS to categorize the participants.
+
+## What has been found?
+
+The researchers found that while 73.5% of the cohort reported primary fatigue, only 21.9% of those fatigued patients actually met the criteria for ME/CFS. Brain fog was a prevalent feature in 51.9% of patients but appeared to be a distinct symptom that did not overlap perfectly with fatigue. Anxiety and previous psychiatric diagnoses were significantly more common in patients who met the ME/CFS criteria than in those who did not.
+
+## Discussion
+
+The findings suggest that the majority of Long COVID fatigue cases represent a broader spectrum that does not fit the traditional ME/CFS phenotype. This heterogeneity could confound clinical trials if participants are not carefully screened and subgrouped based on their specific symptom profiles.
+
+## Conclusion & Future Work
+
+Post-COVID fatigue should be managed as a broad spectrum of conditions. Future research and clinical trials must distinguish between ME/CFS-like fatigue and other fatigue phenotypes to ensure treatments are correctly targeted.
+
+
+
+---
+
+---
 title: "Percutaneous Auricular Nerve Stimulation for Treating Post-COVID Fatigue (PAuSing-pCF)"
 tags:
 - ➕ 2026-01-25
@@ -8441,6 +8697,58 @@ The findings support the hypothesis of a dysregulated opioidergic system in ME/C
 ---
 
 ---
+title: "An Overview of Severe Myalgic Encephalomyelitis"
+tags:
+- ➕ 2026-02-11
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-01-19'
+published: '2026-01-19'
+---
+
+<details>
+<summary>Vink & Vink-Niese (2026)</summary>
+
+- **Authors:** Mark Vink, Alexandra Vink-Niese
+- **Institutes:** Independent Researcher, Amsterdam, The Netherlands, Independent Researcher, Hannover, Germany
+- **Publisher:** Journal of Clinical Medicine
+- **Link:** [DOI](https://doi.org/10.3390/jcm15020805)
+
+</details>
+
+## Summary
+
+This review validates the experiences of the most disabled ME/CFS patients, describing their condition as a 'living death' characterized by total physical collapse and isolation. It serves as a critical call for the medical community to recognize severe ME/CFS as a multisystem physiological crisis requiring specialized care, such as parenteral nutrition, and dedicated biomedical research focus to address life-threatening symptoms.
+
+## What was researched?
+
+This comprehensive literature review examines the clinical profile, diagnostic challenges, and systemic impacts of severe and very severe Myalgic Encephalomyelitis (ME/CFS).
+
+## Why was it researched?
+
+The authors aimed to highlight the 'hidden' population of patients who are too ill to leave their homes, noting that despite their extreme disability, only about 0.5% of research focuses on this subgroup.
+
+## How was it researched?
+
+The study synthesizes existing biomedical research and international surveys, discussing diagnostic tools such as 2-day cardiopulmonary exercise testing and clinical manifestations across endocrine, immune, and neurological systems.
+
+## What has been found?
+
+Key findings include the extreme nature of sensory hypersensitivity where even a soft voice can cause relapses, the prevalence of life-threatening malnutrition requiring tube feeding, and the high rate of 'medical gaslighting' due to a lack of awareness among physicians.
+
+## Discussion
+
+The authors argue that ME/CFS is a profound physical disability rather than a psychological condition, criticizing the historical underfunding and the diagnostic pitfalls that often exclude the most severely ill from research.
+
+## Conclusion & Future Work
+
+There is an urgent need for advanced, technology-driven biomedical research to identify disease mechanisms and find effective pharmacological treatments for the hundreds of thousands of severely affected individuals.
+
+
+
+---
+
+---
 title: "Distinct functional connectivity patterns in myalgic encephalomyelitis and long COVID patients during cognitive fatigue: a 7 Tesla task-fMRI study"
 tags:
 - ➕ 2026-01-25
@@ -8486,6 +8794,57 @@ The findings suggest that 'brain fog' in these conditions results from a failure
 ## Conclusion & Future Work
 
 The study concludes that reduced dopaminergic connectivity impairs motivation and cognition in both groups. These unique functional signatures serve as potential biomarkers for diagnosing and distinguishing between these chronic illnesses.
+
+
+
+---
+
+---
+title: "A Continuous Oral Regimen of High-Dose Cromolyn Sodium Is Effective for Some Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) Patients With Mast Cell Activation Syndrome"
+tags:
+- ➕ 2026-02-11
+- 💊 Treatment
+created: '2026-01-22'
+published: '2026-01-22'
+---
+
+<details>
+<summary>Christoforou et al. (2026)</summary>
+
+- **Authors:** Maritsa E. Christoforou, Linda C. van Campen, Frans C. Visser, Carlton K. Lee, Samantha L. Lemmon, Peter C. Rowe, Alba M. Azola
+- **Institutes:** Johns Hopkins University School of Medicine, Baltimore, Maryland, USA, Stichting CardioZorg, Hoofddorp, Netherlands
+- **Publisher:** Cureus
+- **Link:** [DOI](https://doi.org/10.7759/cureus.102064)
+
+</details>
+
+## Summary
+
+This paper introduces a novel dosing strategy for managing Mast Cell Activation Syndrome in ME/CFS and Long COVID patients. By demonstrating that higher-than-standard doses of a well-known medication can be safely and effectively administered through a continuous sipping method, it provides a practical therapeutic option for those who have not responded to conventional protocols. The study highlights the significant role mast cell dysfunction plays in the core symptoms of ME/CFS, such as cognitive impairment and severe fatigue.
+
+## What was researched?
+
+The study investigated the effectiveness of a continuous oral regimen of high-dose cromolyn sodium 💊 for managing symptoms in ME/CFS patients who also meet the criteria for Mast Cell Activation Syndrome (MCAS).
+
+## Why was it researched?
+
+Researchers sought to improve patient compliance and therapeutic outcomes, as standard four-times-daily dosing of cromolyn is often difficult to maintain and may be insufficient for controlling severe MCAS symptoms in this population.
+
+## How was it researched?
+
+This was a retrospective case series involving five patients with ME/CFS or Long COVID and comorbid MCAS. Participants were instructed to mix their total daily dose (ranging from 1600 to 2400 mg) into a water bottle and sip the solution continuously throughout the day.
+
+## What has been found?
+
+All five patients experienced significant clinical improvements in symptoms, including reduced fatigue, better cognitive function, and improved heart rate control. The high-dose regimen (1600–2400 mg daily) was well-tolerated and proved more effective than conventional 800 mg doses.
+
+## Discussion
+
+The continuous sipping method may provide more stable plasma levels of the medication compared to discrete bolus doses. While the doses used were higher than typical clinical practice, they remain within the safety guidelines established in the original FDA application for the drug.
+
+## Conclusion & Future Work
+
+High-dose continuous oral cromolyn is a safe and effective treatment strategy for a subset of ME/CFS and Long COVID patients with MCAS. Further prospective trials are needed to validate these findings in larger, controlled cohorts.
 
 
 
@@ -8589,6 +8948,574 @@ The findings suggest that the clinical overlap between Long COVID and ME/CFS is 
 ## Conclusion & Future Work
 
 Long COVID and ME/CFS demonstrate a shared autonomic phenotype characterized by impaired cerebrovascular blood flow and small fiber neuropathy. This indicates they may share a common underlying pathophysiology and could benefit from similar diagnostic and therapeutic approaches.
+
+
+
+---
+
+---
+title: "Microvascular Remodeling and Endothelial Dysfunction Across Post-COVID-19 and ME/CFS: Insights from the All Eyes on PCS Study"
+tags:
+- ➕ 2026-02-11
+- 🧪 Biomarker
+created: '2026-01-25'
+published: '2026-01-25'
+---
+
+<details>
+<summary>Wallraven et al. (2026)</summary>
+
+- **Authors:** Timon Wallraven, Roman Günthner, Isabelle Lethen, Andrea Ribeiro, Maciej Lech, Frederike Cosima Oertel, Lukas G. Rees, Bernhard Haller, Lukas Streese, Henner Hanssen, Maximilian Wunderle, Christoph Schmaderer
+- **Institutes:** Technical University of Munich (TUM), Munich, Germany, Charité-Universitätsmedizin Berlin, Berlin, Germany, Max Delbrück Center for Molecular Medicine, Berlin, Germany, University of Basel, Basel, Switzerland
+- **Publisher:** medRxiv (Preprint)
+- **Link:** [DOI](https://doi.org/10.1101/2026.01.22.26344661)
+
+</details>
+
+## Summary
+
+This research identifies a visible, objective marker for the "invisible" symptoms of Long COVID and ME/CFS by demonstrating that the tiny blood vessels in the eye are both structurally and functionally impaired. By linking this damage directly to inflammation and symptom severity, the study provides a vital diagnostic tool that could help patients gain clinical recognition and guide the development of targeted therapies. The findings suggest that the severity of blood vessel dysfunction mirrors the severity of the disease, offering a measurable way to track the illness.
+
+## What was researched?
+
+This study investigated structural and functional changes in the retinal microvasculature of patients with Post-COVID Syndrome (PCS) and ME/CFS. Researchers used Retinal Vessel Analysis (RVA) to determine if these changes could serve as non-invasive markers of systemic endothelial dysfunction.
+
+## Why was it researched?
+
+Persistent cardiovascular risks and vascular symptoms are common in post-viral conditions, but they are often difficult to quantify with standard clinical tools. There is an urgent need for accessible, objective methods to assess microvascular health and understand the biological basis of symptoms like brain fog and fatigue.
+
+## How was it researched?
+
+This prospective, observational study involved 102 PCS patients, 62 ME/CFS patients, and various control groups including healthy, never-infected, and recovered individuals. The team performed Retinal Vessel Analysis to measure vessel diameters and the ability of blood vessels to dilate in response to light stimulation, while also analyzing circulating inflammatory markers like IL-6.
+
+## What has been found?
+
+PCS and ME/CFS patients showed significant microvascular impairment, including narrower retinal arterioles and a reduced ability for vessels to dilate, with the most severe damage observed in the ME/CFS group. These vascular changes correlated strongly with symptom severity—particularly neurocognitive issues—and were linked to elevated inflammatory markers and iron dysregulation. A combined vascular model was able to distinguish ME/CFS patients with high accuracy.
+
+## Discussion
+
+The findings suggest a dose-response relationship between microvascular injury and disease burden, indicating that post-viral syndromes involve a systemic inflammatory-endothelial axis. While the study is currently a preprint, the results highlight a biologically coherent vascular phenotype that distinguishes these patients from healthy or recovered controls.
+
+## Conclusion & Future Work
+
+Retinal Vessel Analysis provides a promising, non-invasive "window" into the microvascular health of patients with PCS and ME/CFS. Future research may utilize these retinal markers to track disease progression and evaluate the effectiveness of new treatments targeting endothelial function.
+
+
+
+---
+
+---
+title: "Associations between heart rate and physical activity in people with post-COVID-19 condition accounting for myalgic encephalomyelitis/chronic fatigue syndrome symptoms"
+tags:
+- ➕ 2026-02-11
+- 🧪 Biomarker
+created: '2026-01-27'
+published: '2026-01-27'
+---
+
+<details>
+<summary>Adodo et al. (2026)</summary>
+
+- **Authors:** Rachel Adodo, Antonio Sarmento Da Nobrega, Rodrigo Villar, Sandra C. Webber, Diana C. Sanchez-Ramirez
+- **Institutes:** Department of Respiratory Therapy, College of Rehabilitation Sciences, University of Manitoba, Winnipeg, Canada, Faculty of Kinesiology and Recreation Management, University of Manitoba, Winnipeg, Canada, Department of Physical Therapy, College of Rehabilitation Sciences, University of Manitoba, Winnipeg, Canada
+- **Publisher:** Journal of Rehabilitation Medicine
+- **Link:** [DOI](https://doi.org/10.2340/jrm.v58.43340)
+
+</details>
+
+## Summary
+
+This study highlights that heart rate issues in Long COVID patients may be most prominent during rest or light movement rather than intense exercise. For patients with ME/CFS symptoms, this validates that their bodies may be under physiological stress (tachycardia) even when they are not actively exercising. These findings reinforce the importance of personalized pacing and autonomic monitoring in rehabilitation.
+
+## What was researched?
+
+The study investigated the relationship between heart rate and physical activity levels in adults with post-COVID-19 condition, while specifically accounting for the presence of ME/CFS symptoms.
+
+## Why was it researched?
+
+Patients with post-COVID-19 condition frequently report tachycardia and exercise intolerance, symptoms that often overlap with ME/CFS, necessitating a clearer understanding of how heart rate responds to daily movement.
+
+## How was it researched?
+
+Sixteen adults with post-COVID-19 condition wore smartwatches and accelerometers for four days to track heart rate and activity intensity. Researchers categorized activity as sedentary, light, or moderate-to-vigorous and assessed the frequency of tachycardia incidents.
+
+## What has been found?
+
+While average heart rate increased with activity, the percentage of time spent in tachycardia (over 100 bpm) was significantly higher during sedentary periods than during moderate-to-vigorous activity. This pattern of sedentary tachycardia remained consistent regardless of whether patients met the criteria for ME/CFS.
+
+## Discussion
+
+The findings are limited by a small, primarily female sample size and the use of commercial wearable devices. However, the results suggest that heart rate dysregulation in these patients is not solely an exercise-induced phenomenon.
+
+## Conclusion & Future Work
+
+Individuals with post-COVID-19 condition experience more frequent tachycardia during minimal activity than during intentional exercise. Management strategies should focus on autonomic stability and heart rate control during daily sedentary or light-intensity tasks.
+
+
+
+---
+
+---
+title: "Chronic Fatigue Syndrome Induced by Environmental Toxic Exposure: Effects of Polyhexamethyleneguanidine Phosphate Exposure on Mitochondrial Function and Neural Health"
+tags:
+- ➕ 2026-02-11
+- 🧪 Biomarker
+created: '2026-01-27'
+published: '2026-01-27'
+---
+
+<details>
+<summary>Yang et al. (2026)</summary>
+
+- **Authors:** Hyo-Seon Yang, Jin-Seok Lee, Mi-Hyun Kang, Mi-Kyung Song, Ji-Yun Kang, Hyung Doo Kim, Hwan-Cheol Kim, Jong-Han Leem, Chang-Gue Son, Kyuhong Lee
+- **Institutes:** Respiratory Safety Research Center, Korea Institute of Toxicology, Jeongeup, Republic of Korea, Institute of Bioscience & Integrative Medicine, Daejeon University, Daejeon, Republic of Korea, Department of Occupational and Environmental Medicine, Inha University, Incheon, Republic of Korea
+- **Publisher:** Environmental Research
+- **Link:** [DOI](https://doi.org/10.1016/j.envres.2026.123874)
+
+</details>
+
+## Summary
+
+This study establishes a critical link between humidifier disinfectant exposure and the development of ME/CFS through a dual human and animal research model. By identifying specific mitochondrial damage and neuroinflammation as primary mechanisms, it validates toxic environmental exposure as a potential trigger for the disease. These findings provide a biological basis for symptoms in affected populations and offer new avenues for diagnosing ME/CFS via mitochondrial biomarkers.
+
+## What was researched?
+
+The study investigated the mechanistic link between exposure to humidifier disinfectants containing polyhexamethyleneguanidine phosphate 💊 (PHMG-p) and the onset of ME/CFS. It specifically focused on how this chemical affects mitochondrial morphology, energy production, and neural health in the brain.
+
+## Why was it researched?
+
+Large-scale human casualties in South Korea were linked to humidifier disinfectants, with many survivors developing chronic fatigue symptoms. Researchers aimed to determine if PHMG-p directly causes ME/CFS pathology through systemic toxic effects.
+
+## How was it researched?
+
+The researchers analyzed mitochondrial abnormalities in the blood cells of human patients with disinfectant-linked ME/CFS. They further validated these findings by exposing mice to PHMG-p via intratracheal administration and assessing their behavior, mitochondrial function, and brain tissue integrity.
+
+## What has been found?
+
+Patients and exposed mice exhibited significant mitochondrial swelling, disrupted cristae, and reduced oxidative phosphorylation (OXPHOS) complex expression. Additionally, the researchers observed blood-brain barrier disruption, neuroglial activation, and glymphatic system dysfunction in the hypothalamus of the exposed mice.
+
+## Discussion
+
+The study successfully bridges the gap between environmental toxicology and clinical ME/CFS symptoms. While the animal model uses a specific administration route, the consistent mitochondrial findings across species strengthen the evidence for a shared pathological pathway.
+
+## Conclusion & Future Work
+
+PHMG-p acts as a potent environmental trigger for ME/CFS by inducing mitochondrial and neurological dysfunction. Future research should explore whether stabilizing mitochondrial function can reverse these toxic effects in affected patients.
+
+
+
+---
+
+---
+title: "Imbalance of Excitatory and Inhibitory Neurotransmitter Systems in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
+tags:
+- ➕ 2026-02-11
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-01-28'
+published: '2026-01-28'
+---
+
+<details>
+<summary>Wirth & Scheibenbogen (2026)</summary>
+
+- **Authors:** Klaus J. Wirth, Carmen Scheibenbogen
+- **Institutes:** Mitodicure GmbH, Kriftel, Germany, Institute of Medical Immunology, Charité - Universitätsmedizin Berlin, Berlin, Germany
+- **Publisher:** Preprints.org
+- **Link:** [DOI](https://doi.org/10.20944/preprints202601.2170.v1)
+
+</details>
+
+## Summary
+
+This paper provides a comprehensive neurobiological framework that connects neurological symptoms and physical exhaustion to a fundamental imbalance in neurotransmitter regulation. By viewing ME/CFS as a state of brain and muscle overstimulation, it offers a scientific rationale for why treatments like low-dose naltrexone 💊 or pyridostigmine 💊 can be beneficial. This model helps move the clinical understanding of the disease from subjective complaints to a measurable disturbance of the central and autonomic nervous systems.
+
+## What was researched?
+
+This review investigates how an imbalance between excitatory and inhibitory neurotransmitter systems contributes to the complex symptoms of ME/CFS and Long COVID.
+
+## Why was it researched?
+
+The research aims to explain the paradoxical "wired but tired" state, sensory hypersensitivities, and skeletal muscle dysfunction by moving beyond the simple sympathetic-parasympathetic model.
+
+## How was it researched?
+
+The authors synthesized evidence from neuroimaging, autoantibody studies, and metabolomics to evaluate dysregulation in noradrenaline, glutamate, GABA, and serotonin systems. They also analyzed the mechanisms of drugs such as clonidine 💊, aripiprazole 💊, and SSRIs 💊 to assess their potential for rebalancing these systems.
+
+## What has been found?
+
+The study identifies a shift toward excitatory neurotransmission (glutamate, noradrenaline) over inhibitory signaling (GABA, serotonin), which promotes brain overactivation and sensory hypersensitivity. In muscles, this imbalance leads to hyperexcitability, calcium overload, and mitochondrial dysfunction, contributing to cramps and post-exertional malaise. Pharmacological agents like dextromethorphan 💊, memantine 💊, or lorazepam 💊 may partially address these issues by restoring the neurotransmitter equilibrium.
+
+## Discussion
+
+Evidence for some systems, such as histamine and glycine, remains hypothetical and requires further research. The high interindividual variability in neurotransmitter profiles likely explains why single-drug therapies often show inconsistent efficacy across the patient population.
+
+## Conclusion & Future Work
+
+Targeted investigation into individual neurotransmitter abnormalities is necessary for future care. The authors propose that ME/CFS management should evolve toward personalized "rebalancing" strategies that address the specific neurobiological profile of each patient.
+
+
+
+---
+
+---
+title: "Links between COVID-19, long COVID and neurodegeneration: the role of glycosphingolipids"
+tags:
+- ➕ 2026-02-11
+- ⭐ Landmark
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-01-29'
+published: '2026-01-29'
+---
+
+<details>
+<summary>Spedding et al. (2026)</summary>
+
+- **Authors:** Michael Spedding, Johannes Aerts, Steve Alexander, Aurélie-Gaëlle Bellozzi Woestelandt, Elena Chiricozzi, Alexandre Henriques, Pierre-Marie Lledo, Jean-Philippe Loeffler, Rushika Perera, Frances Platt, Pierre-François Pradat, Frédérique Rene, Anthony Schapira, Laura St Clair, Kevin Talbot, Maxime Taquet, Michal Toborek, Bradley Turner, Michael Zandi, Pierre Gressens
+- **Institutes:** Spedding Research Solutions SARL, Le Vésinet, France, Leiden Institute of Chemistry, Leiden University, Leiden, Netherlands, School of Life Sciences, University of Nottingham, Nottingham, UK, Inserm UMR1141, Université Paris Cité, Paris, France, UCL Queen Square Institute of Neurology, London, UK
+- **Publisher:** Pharmacological Reviews
+- **Link:** [DOI](https://doi.org/10.1016/j.pharmr.2026.100113)
+
+</details>
+
+## Summary
+
+This landmark review establishes a biochemical 'bridge' between SARS-CoV-2 infection and the accelerated risk of neurodegenerative diseases like Parkinson’s and Alzheimer’s. By identifying glycosphingolipids as central players in both viral entry and neuronal damage, the study opens a new frontier for therapeutic intervention in Long COVID. It suggests that treating metabolic lipid imbalances could potentially prevent or reverse the chronic 'brain fog' and cognitive decline affecting millions of patients worldwide.
+
+## What was researched?
+
+The research investigated how SARS-CoV-2 disrupts glycosphingolipid (GSL) metabolism and the role these complex fats play in Long COVID and the progression of neurodegenerative diseases.
+
+## Why was it researched?
+
+With millions suffering from persistent neurological symptoms after COVID-19, researchers sought to understand the molecular mechanisms that link viral infection to chronic neuroinflammation and brain aging.
+
+## How was it researched?
+
+This was a comprehensive multidisciplinary review and meta-analysis coordinated by IUPHAR, synthesizing data from lipidomics, virology, and clinical neurology to map the GSL metabolic pathways affected by the virus.
+
+## What has been found?
+
+The study found that SARS-CoV-2 uses GSLs as attachment factors and significantly alters their levels, leading to membrane instability and neurotoxic protein aggregation. These metabolic disruptions mimic the early stages of neurodegeneration, potentially acting as a 'primer' for future cognitive decline. The researchers also identified that GSL-modulating compounds like Miglustat 💊 may offer a pathway to restore lipid homeostasis.
+
+## Discussion
+
+A key strength is the integration of diverse scientific fields to explain the 'metabolic scar' left by COVID-19. However, the review notes that long-term clinical data are still needed to confirm if these lipid changes directly cause late-onset dementia.
+
+## Conclusion & Future Work
+
+The paper concludes that glycosphingolipids are essential biomarkers for Long COVID severity and promising targets for drug development. Future research should focus on clinical trials using GSL-modifying therapies to protect the aging brain from post-viral damage.
+
+
+
+---
+
+---
+title: "Postural Orthostatic Tachycardia Syndrome, Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID as Neuroimmune Disorders"
+tags:
+- ➕ 2026-02-11
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-02-02'
+published: '2026-02-02'
+---
+
+<details>
+<summary>Blitshteyn et al. (2026)</summary>
+
+- **Authors:** Svetlana Blitshteyn, Taylor A. Doherty, Lawrence Steinman
+- **Institutes:** Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, NY, USA, University of California San Diego, La Jolla, CA, USA, Stanford University, Stanford, CA, USA
+- **Publisher:** ImmunoTargets and Therapy
+- **Link:** [DOI](https://doi.org/10.2147/ITT.S581262)
+
+</details>
+
+## Summary
+
+This review provides a critical theoretical foundation for treating post-viral syndromes as biological, neuroimmune diseases rather than psychological ones. By validating shared mechanisms like autoimmunity and neuroinflammation, it paves the way for wider research into and use of immunomodulating treatments such as intravenous immunoglobulin (IVIG) 💊. The paper argues that reclassifying these conditions will modernize clinical training and improve patient access to specialized neurological care.
+
+## What was researched?
+
+This narrative review examines the overlapping pathophysiological mechanisms of POTS, ME/CFS, and Long COVID. It explores how autonomic dysfunction, immune dysregulation, and neuroinflammation collectively characterize these conditions as a unified category of illness.
+
+## Why was it researched?
+
+These disorders are frequently misdiagnosed as psychiatric conditions, leading to significant disability and delays in effective care. The authors seek to establish a formal neuroimmune framework to improve medical education and clinical care pathways.
+
+## How was it researched?
+
+The researchers synthesized evidence from neuroimaging, immunological studies, and clinical observations across the three syndromes. They analyzed shared biomarkers, such as G-protein coupled receptor autoantibodies and cytokines, to identify common disease pathways involving the brain-immune axis.
+
+## What has been found?
+
+The study identified common mechanisms including autoimmunity, mitochondrial dysfunction, and cerebral hypoperfusion across all three conditions. Advanced 7T MRI imaging reveals localized neuroinflammation in the brainstem's dorsolateral medulla, which may serve as a central driver for autonomic and cognitive symptoms.
+
+## Discussion
+
+The authors compare the current clinical landscape of these disorders to the historical trajectory of Multiple Sclerosis, which was once dismissed as psychological. They emphasize that recognizing the role of microglial activation and the vagus nerve is essential for moving beyond outdated psychiatric models.
+
+## Conclusion & Future Work
+
+POTS, ME/CFS, and Long COVID should be formally categorized as neuroimmune disorders and integrated into the field of neuroimmunology. This shift is expected to facilitate the development and repurposing of effective immunotherapies 💊.
+
+
+
+---
+
+---
+title: "Sleep disturbance affects inflammatory resolution in Long COVID"
+tags:
+- ➕ 2026-02-11
+- 🧪 Biomarker
+created: '2026-02-02'
+published: '2026-02-02'
+---
+
+<details>
+<summary>Engert et al. (2026)</summary>
+
+- **Authors:** Larissa C. Engert, Rammy Dang, Surya Daniel, Suzanne M. Bertisch, Jason H. Maley, Tamara G. Fong, Charles N. Serhan, Janet M. Mullington, Monika Haack
+- **Institutes:** Department of Neurology, Beth Israel Deaconess Medical Center, Boston, MA, USA, Division of Sleep Medicine, Harvard Medical School, Boston, MA, USA, Division of Sleep and Circadian Disorders, Brigham and Women's Hospital, Boston, MA, USA, Aging Brain Center, Marcus Institute for Aging Research, Hebrew SeniorLife, Boston, MA, USA, Center for Experimental Therapeutics and Reperfusion Injury, Brigham and Women's Hospital, Boston, MA, USA
+- **Publisher:** Prostaglandins, Leukotrienes and Essential Fatty Acids
+- **Link:** [DOI](https://doi.org/10.1016/j.plefa.2026.102728)
+
+</details>
+
+## Summary
+
+This study provides critical evidence that sleep disturbance in Long COVID patients is linked to a failure in the body's natural inflammatory resolution process. By identifying reduced levels of specialized pro-resolving mediators, the research suggests that sleep management could be a key therapeutic target to reduce chronic inflammation and improve recovery.
+
+## What was researched?
+
+The study investigated the impact of sleep disturbance on the levels of lipid-derived specialized pro-resolving mediators (SPMs) 💊 in patients with Long COVID.
+
+## Why was it researched?
+
+Sleep disturbance is a hallmark symptom of Long COVID and is known to promote inflammation, so researchers hypothesized it might prevent the body from successfully resolving the inflammatory response.
+
+## How was it researched?
+
+A cohort of 31 Long COVID patients and 8 controls was assessed for sleep quality and blood concentrations of pro-inflammatory markers and SPMs using mass spectrometry.
+
+## What has been found?
+
+Long COVID patients with high sleep disturbance had significantly lower levels of key SPMs, including 17-HDHA and Resolvin D1, compared to those with better sleep. Additionally, the pro-inflammatory marker PGE2 was elevated in Long COVID participants.
+
+## Discussion
+
+The findings suggest that sleep-related deficits in resolution molecules may drive persistent inflammation. Limitations include the small sample size and observational nature, which prevents establishing a direct cause-and-effect relationship.
+
+## Conclusion & Future Work
+
+Sleep disturbance appears to impair the physiology of inflammatory resolution in Long COVID. Enhancing sleep quality or pharmacologically supporting SPM pathways could offer a new mechanistic target for symptom mitigation.
+
+
+
+---
+
+---
+title: "Immunoglobulin G complexes from post-infectious ME/CFS, including post-COVID ME/CFS disrupt cellular energetics and alter inflammatory marker secretion"
+tags:
+- ➕ 2026-02-11
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-02-03'
+published: '2026-02-03'
+---
+
+<details>
+<summary>Liu et al. (2026)</summary>
+
+- **Authors:** Zheng Liu, Claudia Hollmann, Sharada Kalanidhi, Stephanie Lamer, Andreas Schlosser, Emils Edgars Basens, Georgy Nikolayshvili, Liba Sokolovska, Gabriela Riemekasten, Rebekka Rust, Judith Bellmann-Strobel, Friedemann Paul, Carmen Scheibenbogen, Bhupesh K. Prusty
+- **Institutes:** Charité – Universitätsmedizin Berlin, Germany, Julius-Maximilians-University of Würzburg, Germany, University of Lübeck, Germany, Max Planck Institute for Multidisciplinary Sciences, Göttingen, Germany
+- **Publisher:** Brain, Behavior, & Immunity - Health
+- **Link:** [DOI](https://doi.org/10.1016/j.bbih.2026.101187)
+
+</details>
+
+## Summary
+
+This study identifies a direct mechanistic link between the immune system and energy failure in ME/CFS and Long COVID. By showing that patient antibodies cause mitochondria to fragment, it explains why patients experience profound exhaustion and crashes after exertion. These findings validate the biological reality of the disease and provide specific cellular targets for future diagnostic tests and treatments.
+
+## What was researched?
+
+The study investigated whether Immunoglobulin G (IgG) complexes from patients with post-infectious ME/CFS and post-COVID ME/CFS could disrupt cellular energy production and trigger inflammation. Researchers specifically looked at the effects of these antibodies on human endothelial cells and immune cells.
+
+## Why was it researched?
+
+While autoimmunity is suspected in ME/CFS, the exact process by which antibodies cause symptoms like extreme fatigue remains unclear. Researchers aimed to find a mechanistic explanation for how patient-derived immunoglobulins affect mitochondrial function and cellular health.
+
+## How was it researched?
+
+The team isolated IgG from 106 individuals, including those with ME/CFS, post-COVID ME/CFS, Multiple Sclerosis, and healthy controls. They applied these antibodies to healthy human endothelial cells and immune cells, then measured mitochondrial structure, energy metabolism, and cytokine secretion using Seahorse metabolic flux analysis and mass spectrometry-based proteomics.
+
+## What has been found?
+
+IgG from ME/CFS and post-COVID patients selectively induced mitochondrial fragmentation and metabolic reprogramming in endothelial cells, an effect driven by the Fab portion of the antibody. Proteomic analysis showed that ME/CFS immune complexes were linked to extracellular matrix changes, while post-COVID complexes were associated with blood clotting issues. Additionally, patient-derived IgG triggered distinct inflammatory cytokine profiles in healthy immune cells.
+
+## Discussion
+
+The findings suggest a chronic stress-adaptive state where mitochondrial capacity is not destroyed but becomes highly vulnerable to increased demand. This "threat-adapted" state helps explain why patients appear stable at rest but suffer physiological collapse during exertion. The study emphasizes the role of the endothelium in the systemic nature of the disease.
+
+## Conclusion & Future Work
+
+The research demonstrates that IgG antibodies in ME/CFS carry a signal that forces mitochondria into a fragmented, stressed state. These findings suggest that targeting antibody-mediated metabolic dysregulation could be a viable therapeutic strategy. Future research should focus on treatments that can reverse this mitochondrial fragmentation and restore normal energy reserves.
+
+
+
+---
+
+---
+title: "Indistinguishable mitochondrial phenotypes after exposure of healthy myoblasts to myalgic encephalomyelitis/chronic fatigue syndrome or control serum"
+tags:
+- ➕ 2026-02-11
+- 🧪 Biomarker
+created: '2026-02-03'
+published: '2026-02-03'
+---
+
+<details>
+<summary>Ryback et al. (2026)</summary>
+
+- **Authors:** Audrey A Ryback, Charles B Hillier, Camila M Loureiro, Chris P Ponting, Caroline F Dalton
+- **Institutes:** MRC Human Genetics Unit, University of Edinburgh, Edinburgh, UK, Biomolecular Sciences Research Centre, Sheffield Hallam University, Sheffield, UK, Department of Neurosciences and Behaviour, Ribeirão Preto Medical School, University of São Paulo, Ribeirão Preto, Brazil
+- **Publisher:** PLOS ONE
+- **Link:** [DOI](https://doi.org/10.1371/journal.pone.0341334)
+
+</details>
+
+## Summary
+
+This high-quality replication study challenges the hypothesis that ME/CFS is caused by circulating blood factors that directly impair energy production in muscle cells. By showing that healthy muscle cells behave normally when exposed to patient serum, the research suggests that metabolic issues in ME/CFS may be more complex or specific to the patients' own cellular environment. These findings help the scientific community narrow down where to look for the true cause of the disease by ruling out a previously suspected mechanism.
+
+## What was researched?
+
+This study investigated whether serum from patients with ME/CFS contains circulating factors that alter mitochondrial function and energy metabolism in healthy muscle cells.
+
+## Why was it researched?
+
+The research was designed as a large-scale replication of earlier findings which suggested that ME/CFS serum could trigger abnormal mitochondrial respiration in healthy cells, potentially serving as a diagnostic marker.
+
+## How was it researched?
+
+Researchers conducted a pre-registered study using serum from 67 ME/CFS patients and 53 healthy controls to treat cultured healthy myoblasts. They utilized a Seahorse Bioanalyser to perform over 1,700 mitochondrial stress tests, measuring oxygen consumption and metabolic activity with high precision.
+
+## What has been found?
+
+The study found no significant differences in mitochondrial phenotypes or respiration rates between muscle cells exposed to ME/CFS serum versus control serum. The primary measurement of interest, the oxygen consumption rate at maximal capacity, was indistinguishable across both groups.
+
+## Discussion
+
+The results provide strong evidence against the theory that circulating factors in ME/CFS blood consistently impair the mitochondrial performance of healthy muscle precursor cells. The study's large sample size and rigorous methodology suggest that previously reported differences may not be generalizable to the broader ME/CFS population.
+
+## Conclusion & Future Work
+
+The authors concluded that the metabolic dysfunction observed in ME/CFS patients is likely not driven by universal factors circulating in the blood. Future research should focus on other biological compartments or different cell models to identify the specific drivers of the disease.
+
+
+
+---
+
+---
+title: "Choroid plexus alterations in long COVID and their associations with Alzheimer's disease risks"
+tags:
+- ➕ 2026-02-11
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-02-10'
+published: '2026-02-10'
+---
+
+<details>
+<summary>Pang et al. (2026)</summary>
+
+- **Authors:** Huize Pang, Jennifer Frontera, Li Jiang, Chenyang Li, Allal Boutajangout, Zhe Sun, Ludovic Debure, Mobeena Ghuman, Alok Vedvyas, Arjun Masurkar, Thomas Wisniewski, Yulin Ge
+- **Institutes:** Department of Radiology, NYU Grossman School of Medicine, New York, NY, USA, Department of Neurology, NYU Grossman School of Medicine, New York, NY, USA, Center for Cognitive Neurology, NYU Langone Health, New York, NY, USA
+- **Publisher:** Alzheimer's & Dementia
+- **Link:** [DOI](https://doi.org/10.1002/alz.71020)
+
+</details>
+
+## Summary
+
+This research highlights a potential biological link between Long COVID and increased risk for Alzheimer's disease through damage to the brain's waste-clearance and immune-regulating structures. By identifying the choroid plexus as a site of long-term immune injury, the study opens new avenues for using brain imaging to monitor cognitive health in the millions of people affected by post-viral syndromes.
+
+## What was researched?
+
+This study investigated structural and perfusion changes in the choroid plexus of patients with Long COVID, specifically examining its volume and blood flow.
+
+## Why was it researched?
+
+Researchers aimed to determine if neuroinflammation and damage to the blood-cerebrospinal fluid barrier, indicated by choroid plexus alterations, are linked to cognitive decline and biomarkers of Alzheimer's disease in Long COVID patients.
+
+## How was it researched?
+
+The study utilized MRI imaging and blood analysis to compare 86 Long COVID patients, 67 recovered COVID patients, and 26 healthy controls. Researchers measured choroid plexus volume and blood flow while evaluating plasma biomarkers of brain injury and performance on standardized cognitive tests.
+
+## What has been found?
+
+Long COVID patients exhibited a 10% larger choroid plexus volume and reduced blood flow compared to recovered individuals. These brain alterations were significantly correlated with higher levels of neurodegenerative markers like p-tau217 and worse performance on memory and attention assessments.
+
+## Discussion
+
+The findings suggest that chronic immune responses in Long COVID may cause swelling and scarring in the choroid plexus, potentially hindering waste clearance in the brain. However, the study's cross-sectional design means it cannot yet confirm if these changes directly cause future dementia.
+
+## Conclusion & Future Work
+
+Choroid plexus imaging may serve as a critical marker for tracking neurological symptoms and Alzheimer's-related pathology in post-COVID patients. The authors suggest that larger, long-term studies are necessary to determine if these brain changes can predict which patients will develop permanent cognitive issues.
+
+
+
+---
+
+---
+title: "Invasive cardiopulmonary exercise testing: Physiologic assessment of unexplained dyspnea and exercise intolerance"
+tags:
+- ➕ 2026-02-11
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-04-01'
+published: '2026-04-01'
+---
+
+<details>
+<summary>Harris & Waxman (2026)</summary>
+
+- **Authors:** Emily A. Harris, Aaron B. Waxman
+- **Institutes:** Dyspnea and Performance Evaluation Center, Brigham and Women's Hospital, Boston, MA, Harvard Medical School, Boston, MA
+- **Publisher:** Respiratory Physiology & Neurobiology
+- **Link:** [DOI](https://www.sciencedirect.com/science/article/pii/S1569904826000091)
+
+</details>
+
+## Summary
+
+This review establishes invasive cardiopulmonary exercise testing (iCPET) as a vital diagnostic tool for patients whose fatigue and breathlessness remain a mystery after standard medical exams. By identifying 'occult' conditions like preload failure and mitochondrial dysfunction, this research provides a biological explanation for symptoms often dismissed in ME/CFS and Long COVID. The findings enable clinicians to move beyond symptom management toward targeted physiological treatments.
+
+## What was researched?
+
+The study provides a comprehensive physiologic framework for using iCPET to diagnose the underlying causes of unexplained dyspnea and exercise intolerance.
+
+## Why was it researched?
+
+Standard non-invasive tests frequently fail to detect abnormalities in patients with ME/CFS and Long COVID, necessitating more sophisticated methods to measure hemodynamics and oxygen utilization during physical exertion.
+
+## How was it researched?
+
+Researchers utilized iCPET, which involves placing catheters in the pulmonary and radial arteries to collect continuous data on heart pressures, blood flow, and gas exchange while patients cycle on a stationary bike.
+
+## What has been found?
+
+The assessment identifies several distinct 'endotypes' of exercise limitation, including preload failure (insufficient blood returning to the heart) and impaired peripheral oxygen extraction (mitochondrial or neurovascular issues). These findings often coexist with normal resting heart and lung function, explaining why typical clinical screenings are inconclusive.
+
+## Discussion
+
+While iCPET is considered the gold standard for phenotyping exercise intolerance, its invasive nature requires specialized clinical centers. The study highlights the method's unique ability to differentiate between central cardiac limitations and peripheral vascular or metabolic dysfunction.
+
+## Conclusion & Future Work
+
+Accurate diagnosis via iCPET allows for personalized treatment strategies, such as volume expansion with saline 💊 or the use of pyridostigmine 💊 to improve neurovascular regulation. Future research aims to further refine these physiological profiles to predict treatment responses in larger patient cohorts.
 
 
 
