@@ -25,7 +25,7 @@ CONTENT_DIR = BASE_DIR / "content" / "summaries"
 PROMPT_DUMP_DIR = BASE_DIR / "agent" / "debug_prompts"
 
 # Configuration
-DEBUG_PROMPTS = False
+DEBUG_PROMPTS = True
 
 # State Files (Located in STATE_DIR)
 STAGE_1_OUTPUT = STATE_DIR / "stage_1_output.json"

@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-02-16 21:55:58*
+*Generated on: 2026-02-17 23:13:37*
 
 ---
 
@@ -1568,6 +1568,57 @@ The discrepancy with earlier studies might be due to the high-throughput nature 
 ## Conclusion & Future Work
 
 The results indicate that GPCR autoantibodies are likely not universal biomarkers for ME/CFS. Future research should focus on larger, stratified cohorts and the potential role of viral triggers in disease maintenance.
+
+
+
+---
+
+---
+title: "Patients with post-COVID-19 condition show minor blood transcriptomic changes, with altered erythrocyte gene expression in a male subgroup"
+tags:
+- ➕ 2026-02-17
+- 🧪 Biomarker
+created: '2025-03-21'
+published: '2025-03-21'
+---
+
+<details>
+<summary>Karisola et al. (2025)</summary>
+
+- **Authors:** Piia Karisola, Mari Kanerva, Aki Vuokko, Helena Liira, Shuyuan Wang, Kirsi Kvarnström, Mikko Varonen, Hille Suojalehto, Harri Alenius
+- **Institutes:** Human Microbiome (HUMI) Research Program, Faculty of Medicine, University of Helsinki, Helsinki, Finland, Department of Infection Control, TYKS Turku University Hospital, Turku, Finland, Outpatient Clinic for Long-Term Effects of COVID-19, Helsinki University Central Hospital, Helsinki, Finland
+- **Publisher:** Frontiers in Immunology
+- **Link:** [DOI](https://doi.org/10.3389/fimmu.2025.1500997)
+
+</details>
+
+## Summary
+
+This study demonstrates that for most patients with Post-COVID Condition (PCC), persistent symptoms are not mirrored by major changes in blood gene expression. However, the identification of a specific male subgroup with altered red blood cell signatures provides a biological clue for a distinct disease mechanism. These findings suggest that PCC is a heterogeneous condition where different biological pathways, such as oxygen transport issues, may drive symptoms in different patient subsets.
+
+## What was researched?
+
+The study investigated whether patients with Post-COVID Condition (PCC) exhibit specific gene expression changes in their blood cells that correlate with their persistent symptoms.
+
+## Why was it researched?
+
+Researchers sought to understand the underlying molecular mechanisms of Long COVID and whether patients can be grouped into distinct biological subtypes based on their transcriptomic signatures.
+
+## How was it researched?
+
+The cohort included 54 PCC patients, 57 recovered patients, and 63 healthy controls. Researchers performed transcriptomic analysis (RNA-seq) on peripheral blood cells and used cellular deconvolution to estimate the proportions of different immune cell types.
+
+## What has been found?
+
+Overall, PCC patients showed only minimal transcriptomic differences compared to controls. However, a specific subgroup of men with PCC exhibited a significant increase in immature red blood cells (erythroblasts) and 399 differentially expressed genes. These genes were primarily involved in heme metabolism and gas exchange processes in erythrocytes.
+
+## Discussion
+
+The results indicate that Long COVID symptoms are multifactorial and often exist without widespread changes in blood cell gene activity. The discovery of the male-specific erythrocyte signature suggests that oxygen delivery and red blood cell health may be critical factors for some patients.
+
+## Conclusion & Future Work
+
+The study concludes that PCC is highly complex and likely involves various biological drivers. Future research should investigate if the observed erythrocyte changes in men contribute to symptoms like fatigue and exercise intolerance.
 
 
 
@@ -9315,6 +9366,58 @@ ME/CFS is a complex multisystemic disorder that requires a multidisciplinary man
 ---
 
 ---
+title: "Vitamin D in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome After COVID-19 or Vaccination: A Randomized Controlled Trial"
+tags:
+- ➕ 2026-02-17
+- ⭐ Landmark
+- 💊 Treatment
+created: '2026-02-01'
+published: '2026-02-01'
+---
+
+<details>
+<summary>Kodama et al. (2026)</summary>
+
+- **Authors:** Shinichiro Kodama, M. Nakata, Masanori Fukushima
+- **Institutes:** Kodama Clinic, Hyogo, Japan, Kyoto Prefectural University of Medicine, Kyoto, Japan, Foundation of Learning Health Society Institute, Nagoya, Japan
+- **Publisher:** Nutrients
+- **Link:** [DOI](https://doi.org/10.3390/nu18030521)
+
+</details>
+
+## Summary
+
+This trial demonstrates that a comprehensive vitamin D restoration protocol can significantly alleviate symptoms in patients who developed ME/CFS following COVID-19 or vaccination. The findings are particularly impactful as they suggest that a subset of 'Long COVID' and post-vaccination cases may be driven by or exacerbated by severe vitamin D deficiency. By correcting these levels through a combination of supplementation and lifestyle changes, a significant portion of patients reached a state where they no longer met the clinical diagnostic criteria for ME/CFS.
+
+## What was researched?
+
+The study investigated whether a comprehensive vitamin D 💊 replacement therapy protocol could improve symptoms in patients with ME/CFS triggered by COVID-19 or vaccination. Researchers specifically focused on patients who also presented with vitamin D insufficiency or deficiency.
+
+## Why was it researched?
+
+Previous retrospective data indicated a high prevalence of low vitamin D levels among patients with post-vaccination syndrome. The researchers sought to confirm if targeted correction of these levels could serve as an effective treatment for the resulting ME/CFS symptoms.
+
+## How was it researched?
+
+This open-label randomized controlled trial enrolled 91 participants with post-viral or post-vaccination ME/CFS and serum vitamin D levels below 30 ng/mL. The intervention group received an active vitamin D preparation plus 'replacement therapy guidance' consisting of daily D3 supplements, dietary counseling, sun exposure, and light exercise. The control group received the active vitamin D preparation (alfacalcidol 💊) alone without the additional guidance and supplements.
+
+## What has been found?
+
+The intervention group showed a significant reduction in the mean number of ME/CFS symptoms compared to the control group after 12 weeks. Serum vitamin D levels rose significantly in the intervention group while remaining stagnant or declining in the control group. Notably, 16 participants in the intervention group improved so significantly that they no longer met the diagnostic criteria for ME/CFS, compared to only one in the control group. Subgroup analysis confirmed that these benefits were consistent across both post-COVID and post-vaccination cohorts.
+
+## Discussion
+
+The study is limited by its open-label design, which may introduce participant bias, and the multi-component nature of the intervention makes it difficult to isolate the effect of supplementation from lifestyle changes. However, the strong correlation between rising serum levels and symptom relief supports the biological relevance of the treatment. The use of alfacalcidol in the control group suggests that standard medical vitamin D analogues may be less effective than comprehensive replacement protocols for this population.
+
+## Conclusion & Future Work
+
+Comprehensive vitamin D replacement guidance is a safe and effective method for reducing ME/CFS symptoms in patients with confirmed deficiency. Future research should explore the long-term sustainability of these improvements and the underlying mechanisms of vitamin D in neuro-immune recovery.
+
+
+
+---
+
+---
 title: "Postural Orthostatic Tachycardia Syndrome, Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID as Neuroimmune Disorders"
 tags:
 - ➕ 2026-02-11
@@ -9567,6 +9670,214 @@ The findings suggest that chronic immune responses in Long COVID may cause swell
 ## Conclusion & Future Work
 
 Choroid plexus imaging may serve as a critical marker for tracking neurological symptoms and Alzheimer's-related pathology in post-COVID patients. The authors suggest that larger, long-term studies are necessary to determine if these brain changes can predict which patients will develop permanent cognitive issues.
+
+
+
+---
+
+---
+title: "Post-exertional malaise and the myth of cardiac deconditioning: rethinking the pathophysiology of long covid"
+tags:
+- ➕ 2026-02-17
+- ⭐ Landmark
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-02-10'
+published: '2026-02-10'
+---
+
+<details>
+<summary>Charlton et al. (2026)</summary>
+
+- **Authors:** Braeden T. Charlton, Kasper Janssen, David M. Systrom, David Putrino, Rob C.I. Wüst
+- **Institutes:** Department of Human Movement Sciences, Faculty of Behavioural and Movement Sciences, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands, DeSportarts, Sports and Exercise Medicine Clinic, Utrecht, The Netherlands, Department of Pulmonary and Critical Care Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA, Cohen Center for Recovery from Complex Chronic Illness, Icahn School of Medicine at Mount Sinai, New York, New York, USA
+- **Publisher:** British Journal of Sports Medicine
+- **Link:** [DOI](https://doi.org/10.1136/bjsports-2025-111387)
+
+</details>
+
+## Summary
+
+This paper challenges the long-standing clinical assumption that exercise intolerance in Long COVID and ME/CFS is simply a result of physical inactivity. By distinguishing between cardiac deconditioning and the unique physiological impairments of post-exertional malaise, the authors advocate for a safer, patient-centered approach to rehabilitation. This shift is crucial for protecting patients from the harm often caused by standardized exercise programs that ignore the underlying cellular and vascular pathology.
+
+## What was researched?
+
+The researchers investigated whether the cardiac alterations and exercise intolerance observed in Long COVID patients are caused by physical deconditioning or by distinct pathological mechanisms related to post-exertional malaise (PEM).
+
+## Why was it researched?
+
+Historically, medical guidelines have often attributed fatigue and low exercise capacity in post-viral syndromes to 'deconditioning,' leading to recommendations for graded exercise that can be harmful. This study aimed to clarify the pathophysiology to ensure that clinical management strategies align with biological evidence rather than outdated assumptions.
+
+## How was it researched?
+
+The authors synthesized physiological data from invasive cardiopulmonary exercise testing (iCPET) and studies on mitochondrial and endothelial function. They compared typical patterns of deconditioning with the specific abnormalities seen in Long COVID and ME/CFS patients, such as preload failure and impaired oxygen extraction.
+
+## What has been found?
+
+The study found that cardiac abnormalities in these patients, including preload failure and inflammation-mediated scarring, are largely independent of physical inactivity. To manage symptoms, the authors highlight the potential benefits of targeted pharmacotherapy such as low-dose naltrexone 💊, beta-blockers 💊, and pyridostigmine 💊.
+
+## Discussion
+
+The authors argue that traditional cardiac rehabilitation models are inappropriate for patients with PEM because they fail to account for cellular-level dysfunction. They emphasize the need to distinguish between 'normal' deconditioning and the active disease processes that cause symptoms to worsen after exertion.
+
+## Conclusion & Future Work
+
+The paper concludes that management for Long COVID must be individually tailored and guided by exercise physiology to avoid triggering PEM. Future research and clinical practice should prioritize pacing and the stabilization of cellular health over traditional aerobic training.
+
+
+
+---
+
+---
+title: "Potential application of brain-gut axis-based treatments in Long COVID and ME/CFS: a case-based systematic review"
+tags:
+- ➕ 2026-02-17
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-02-10'
+published: '2026-02-10'
+---
+
+<details>
+<summary>Kim et al. (2026)</summary>
+
+- **Authors:** Do-Young Kim, Jaeyoung Youn, Naeun Kang, Sung-Il Cho, In-Hyuk Ha
+- **Institutes:** Department of Acupuncture & Moxibustion, Jaseng Korean Medicine Hospital, Seoul, Republic of Korea, Department of Public Health Science, Seoul National University, Seoul, Republic of Korea, Jaseng Spine and Joint Research Institute, Jaseng Medical Foundation, Seoul, Republic of Korea
+- **Publisher:** Journal of Translational Medicine
+- **Link:** [DOI](https://doi.org/10.1186/s12967-026-07807-w)
+
+</details>
+
+## Summary
+
+This research reinforces the emerging scientific understanding that the gut and the brain are deeply interconnected in chronic fatigue conditions. By demonstrating that treatments targeting either the gut microbiome or the nervous system can lead to measurable symptom relief, the study offers hope for more integrated treatment models. It particularly identifies synbiotics and specific nerve stimulation techniques as viable tools for patients who have not responded to traditional therapies.
+
+## What was researched?
+
+This study explored the potential of brain-gut axis-modulating treatments, such as nerve stimulation and microbiome interventions, for managing fatigue and other symptoms in ME/CFS and Long COVID. It combined a clinical case report of a patient treated with electroacupuncture with a systematic review of eight randomized controlled trials.
+
+## Why was it researched?
+
+Both ME/CFS and Long COVID involve shared symptoms like persistent fatigue and gastrointestinal issues, which are increasingly linked to brain-gut axis dysfunction. Researchers aimed to clarify how targeting pathways like neuroinflammation, gut dysbiosis, and intestinal permeability could offer new therapeutic strategies.
+
+## How was it researched?
+
+The authors documented a 12-week case study of a post-COVID ME/CFS patient treated with electroacupuncture-based deep peroneal nerve stimulation to potentiate the vagal reflex. Simultaneously, they conducted a systematic review of trials evaluating gut microbiome modulators like synbiotics 💊 and herbal interventions 💊, as well as nerve stimulation techniques like transcranial direct current stimulation.
+
+## What has been found?
+
+The case patient showed significant reduction in total fatigue, with early improvements in motivation and delayed gains in physical function. The systematic review found that synbiotics and herbal interventions effectively reduced fatigue and post-exertional malaise by altering the gut microbiome and central nervous system metabolism. Additionally, nerve stimulation combined with exercise was found to improve fatigue, whereas standalone stimulation showed limited efficacy.
+
+## Discussion
+
+The study highlights that combined therapies may be more effective than single interventions, potentially due to their synergistic effects on gut barrier integrity and neuroinflammation. However, the review was limited by the small number of high-quality clinical trials available for these specific conditions. The transient systemic symptom flares observed in the case patient suggest that recovery trajectories can be complex.
+
+## Conclusion & Future Work
+
+Brain-gut axis-based interventions represent a promising avenue for treating ME/CFS and Long COVID symptoms. Future research should prioritize larger randomized trials to refine personalized microbiome-based and neuromodulation protocols.
+
+
+
+---
+
+---
+title: "Lactate, Capnia, and Fat Oxidation as Therapeutic Axes for SARS-CoV-2 Spike Protein-Induced Sequelae"
+tags:
+- ➕ 2026-02-17
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-02-11'
+published: '2026-02-11'
+---
+
+<details>
+<summary>Gracidas et al. (2026)</summary>
+
+- **Authors:** Carlos Gracidas, Rakeem Levy, Joseph Varon, Matthew Halma
+- **Institutes:** Medicine, Dorrington Medical Associates, Houston, USA, Science, Independent Medical Alliance, Washington, USA
+- **Publisher:** Hormone and Metabolic Research
+- **Link:** [DOI](https://doi.org/10.1055/a-2794-9646)
+
+</details>
+
+## Summary
+
+This review provides a novel metabolic framework for understanding Long COVID and vaccine-related injuries by linking spike protein-induced mitochondrial damage to impaired energy production. By proposing therapeutic strategies focused on lactate clearance, carbon dioxide levels, and fat adaptation, the authors offer actionable pathways to restore cellular health. This research is highly significant for patients experiencing debilitating post-exertional malaise and cognitive impairment, providing a physiological basis for targeted metabolic interventions.
+
+## What was researched?
+
+The review examined the metabolic alterations and energy production challenges in patients with Post-Acute COVID-19 Syndrome (Long COVID) and post-acute vaccination sequelae. It specifically investigated the therapeutic potential of addressing lactate levels, carbon dioxide partial pressure, and lipid metabolism.
+
+## Why was it researched?
+
+The study aimed to address the persistent symptoms of fatigue, brain fog, and post-exertional malaise, which are linked to mitochondrial disruption caused by the SARS-CoV-2 spike protein. Current models suggest these symptoms stem from a fundamental failure in cellular energy regulation.
+
+## How was it researched?
+
+The authors synthesized findings from physiological studies, muscle biopsies, and exercise science to compare the metabolic state of patients with spike-protein-induced injury to healthy endurance models. They analyzed how mitochondrial dysfunction leads to premature carbohydrate reliance and elevated lactate production.
+
+## What has been found?
+
+Affected patients exhibit a severely decreased lactate threshold and impaired fatty acid oxidation 💊, creating a state described as "inverse fat adaptation." The review highlights that increasing the partial pressure of carbon dioxide 💊 (CO2) can paradoxically improve tissue oxygenation through the Bohr effect. Interventions like ketogenic diets 💊 were identified as promising for shifting substrate utilization back toward efficient lipid metabolism.
+
+## Discussion
+
+The authors compare the patient metabolic profile to an overabundance of fast-twitch muscle fibers operating in high-altitude-like conditions. Limitations include the need for broader clinical validation of these proposed metabolic axes, though the physiological logic is robustly supported by existing exercise science analogies.
+
+## Conclusion & Future Work
+
+Targeted metabolic therapies should focus on restoring mitochondrial function, increasing the lactate threshold, and promoting fat adaptation. Future research should prioritize clinical trials evaluating specific protocols that optimize tissue oxygenation and lipid oxidation in this patient population.
+
+
+
+---
+
+---
+title: "Prevalence of Circulating Autoantibodies Against G-Protein-Coupled Receptors as Potential Biomarkers for Long COVID: Preliminary Investigations"
+tags:
+- ➕ 2026-02-17
+- 🧪 Biomarker
+created: '2026-02-13'
+published: '2026-02-13'
+---
+
+<details>
+<summary>Camici et al. (2026)</summary>
+
+- **Authors:** Marta Camici, Marta Franco, Lorenzo Talamanca, J. Paulicelli, L. Scarnecchia, M. Petino, V. Mazzotta, I. Mastrorosa, E. Cimini, E. Tartaglia, Andrea Antinori
+- **Institutes:** National Institute for Infectious Diseases L. Spallanzani IRCCS, Rome, Italy
+- **Publisher:** International Journal of Molecular Sciences (MDPI)
+- **Link:** [DOI](https://doi.org/10.3390/ijms27041787)
+
+</details>
+
+## Summary
+
+This study identifies a distinct autoimmune signature in Long COVID patients, characterized by elevated autoantibodies targeting G-protein-coupled receptors (GPCRs). These findings support the theory that Long COVID may be driven by an autoimmune process similar to ME/CFS, offering potential diagnostic biomarkers and justifying the investigation of immune-modulating treatments. The correlation between these autoantibodies and severe fatigue suggests they play a functional role in the persistent symptoms following SARS-CoV-2 infection.
+
+## What was researched?
+
+The study investigated the presence and clinical relevance of autoantibodies targeting G-protein-coupled receptors (GPCRs) in patients with Long COVID compared to asymptomatic individuals.
+
+## Why was it researched?
+
+Researchers sought to identify reliable biomarkers and therapeutic targets for Long COVID, testing the hypothesis that the condition involves an autoimmune disruption of the autonomic nervous system.
+
+## How was it researched?
+
+This prospective case-control study analyzed 15 participants: 11 with severe Long COVID and 4 asymptomatic post-COVID controls. Researchers measured autoantibodies against adrenergic and muscarinic receptors, morning cortisol levels, and T-cell responses to SARS-CoV-2.
+
+## What has been found?
+
+Long COVID patients showed a trend toward higher levels of GPCR autoantibodies and significantly higher fatigue scores compared to controls. The study also found significantly lower morning cortisol levels and weaker T-cell responses in the Long COVID group. Specific markers like the β2-adrenergic receptor-Ab were linked to the symptom profile.
+
+## Discussion
+
+The primary limitation is the very small sample size, which restricts the statistical power of some findings. However, the consistent trend toward higher autoantibody levels in symptomatic patients suggests a coherent autoimmune signature.
+
+## Conclusion & Future Work
+
+GPCR autoantibodies represent promising biomarkers for a subset of Long COVID patients. Future research should explore treatments like intravenous immunoglobulin 💊 or immunoadsorption to target these specific autoantibodies.
 
 
 
