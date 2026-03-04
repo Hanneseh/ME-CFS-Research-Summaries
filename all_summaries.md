@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-02-22 07:07:23*
+*Generated on: 2026-03-03 21:14:21*
 
 ---
 
@@ -1247,6 +1247,60 @@ The authors suggest the failure to meet the primary endpoint in the short-term t
 ## Conclusion & Future Work
 
 The authors conclude that a 100 mg twice-daily dose of sonlicromanol is safe, well-tolerated, and shows efficacy in clinically relevant domains for patients with m.3243A>G mitochondrial disease. The findings from this Phase 2b program provide a strong basis for selecting appropriate endpoints and patient populations for a larger, 52-week Phase 3 randomized controlled trial to confirm these benefits.
+
+
+---
+
+---
+title: "The DISCOVER-ME Project: A Large-Scale European Stratification and Biomarker Initiative for ME/CFS"
+tags:
+- ➕ 2026-03-03
+- ⭐ Landmark
+- 🧪 Biomarker
+- ⏳ Trial
+- 📰 News
+created: '2024-11-20'
+published: '2024-11-20'
+---
+
+<details>
+<summary>Carding et al. (2024)</summary>
+
+- **Authors:** Simon Carding, DISCOVER-ME Consortium
+- **Institutes:** Quadram Institute Bioscience, Norwich, UK, University of East Anglia, UK, European Horizon Europe Health Cluster
+- **Publisher:** European Commission
+- **Link:** [DOI](https://cordis.europa.eu/search?q=DISCOVER-ME)
+
+</details>
+
+## Summary
+
+This project represents the first major, multi-million euro commitment from the EU specifically targeting the biological stratification of ME/CFS patients. By using high-resolution 'omics' technologies across a large international cohort, the study aims to finally move past the 'one size fits all' approach. This effort is expected to enable the discovery of distinct disease subtypes and the first reliable diagnostic biomarkers for the condition.
+
+## What was researched?
+
+The DISCOVER-ME project is a large-scale international research initiative focused on identifying biological subgroups (stratification) and diagnostic biomarkers in patients with ME/CFS.
+
+## Why was it researched?
+
+It was launched to address the critical lack of objective diagnostic tests and the high biological complexity of the patient population, which has historically hindered the development of effective treatments.
+
+## How was it researched?
+
+A consortium of 21 international partners utilizes multi-disciplinary 'omics' approaches, including genetics, proteomics, and metabolomics, to analyze a massive, well-characterized patient cohort. The project is funded with €7.5 million through the EU's Horizon Europe program.
+
+## What has been found?
+
+As a recently launched initiative, the project aims to identify distinct molecular signatures that distinguish ME/CFS from other fatiguing illnesses. Researchers expect to define specific patient clusters that may respond to different targeted therapies.
+
+## Discussion
+
+The study's unprecedented scale and funding are significant strengths for the field. However, researchers emphasize that success depends heavily on high-quality, standardized biobanking and the ability to find clear biological signals within a highly heterogeneous population.
+
+## Conclusion & Future Work
+
+The project is expected to provide a comprehensive biological map of ME/CFS. This foundation will likely underpin the development of future diagnostic tools and personalized medical interventions.
+
 
 
 ---
@@ -8232,6 +8286,57 @@ Herpesvirus dUTPase antibodies are promising biomarkers for the diagnosis and st
 ---
 
 ---
+title: "Hormonal, metabolic and metabolomic biomarkers in long COVID"
+tags:
+- ➕ 2026-03-03
+- 🧪 Biomarker
+created: '2026-01-01'
+published: '2026-01-01'
+---
+
+<details>
+<summary>Petropoulou et al. (2026)</summary>
+
+- **Authors:** Dimitra Petropoulou, Irene Karampela, Gerasimos Socrates Christodoulatos, Maria Dalamaga
+- **Institutes:** Second Department of Internal Medicine, Attikon University General Hospital, Medical School, National and Kapodistrian University of Athens, Athens, Greece
+- **Publisher:** Advances in Clinical Chemistry (Elsevier)
+- **Link:** [DOI](https://doi.org/10.1016/bs.acc.2025.10.003)
+
+</details>
+
+## Summary
+
+This comprehensive review consolidates evidence that Long COVID is a multisystem biological disorder characterized by measurable changes in hormones and metabolism. By identifying specific biomarkers like low cortisol and altered amino acids, the research bridges the gap between patient symptoms and clinical diagnostics, reinforcing the biological similarities between Long COVID and ME/CFS.
+
+## What was researched?
+
+The research provides a systematic overview of hormonal, metabolic, and metabolomic alterations found in patients with Long COVID, focusing on identifying reliable biomarkers for diagnosis and monitoring.
+
+## Why was it researched?
+
+Because Long COVID lacks a gold-standard diagnostic test, researchers sought to map the complex biochemical landscape of the disease to better understand its pathophysiology and overlap with ME/CFS.
+
+## How was it researched?
+
+The authors conducted an extensive review of recent literature, analyzing data from clinical trials and 'omics' studies that compared Long COVID patients against recovered and healthy control groups.
+
+## What has been found?
+
+The study highlights significant endocrine disruptions, including lower morning cortisol levels and reduced free triiodothyronine (FT3). Metabolomic findings revealed persistent abnormalities 12 months post-infection, such as reduced ATP production and lower concentrations of sarcosine and serine. Additionally, Vitamin D 💊 supplementation was noted for its potential role in modulating immune outcomes, while elevated pro-inflammatory markers like TNF-α and IL-6 were consistently observed.
+
+## Discussion
+
+The findings suggest that the metabolic recovery period for SARS-CoV-2 is significantly longer than previously thought, even in those who appear to have recovered. However, the high heterogeneity of symptom clusters makes it challenging to pinpoint a single universal biomarker.
+
+## Conclusion & Future Work
+
+Long COVID is associated with clear immune and hormonal dysfunction that mimics other viral-onset illnesses. Future research should focus on longitudinal studies to determine if these metabolic signatures can predict recovery trajectories.
+
+
+
+---
+
+---
 title: "The fatigue spectrum in a community-based long haul COVID cohort"
 tags:
 - ➕ 2026-02-11
@@ -9418,6 +9523,58 @@ ME/CFS is a complex multisystemic disorder that requires a multidisciplinary man
 ---
 
 ---
+title: "Presentation and Temporal Nature of Postacute Sequelae of SARS-CoV-2 Infection in a US National Cohort"
+tags:
+- ➕ 2026-03-03
+- ⭐ Landmark
+- 💊 Treatment
+created: '2026-02-01'
+published: '2026-02-01'
+---
+
+<details>
+<summary>Jackson et al. (2026)</summary>
+
+- **Authors:** Melinda L. Jackson, Matthew D. Weaver, Prerna Varma, Mark É. Czeisler, Lauren A. Booker, Christine F. McDonald, Rebecca Robbins, Anna Ridgers, Rashon Lane, Shantha M.W. Rajaratnam, Charles A. Czeisler, Stuart F. Quan
+- **Institutes:** Turner Institute for Brain and Mental Health, Monash University, Melbourne, Australia, Division of Sleep and Circadian Disorders, Brigham and Women's Hospital, Boston, MA, USA, Harvard Medical School, Boston, MA, USA
+- **Publisher:** The Lancet Regional Health – Americas
+- **Link:** [DOI](https://www.sciencedirect.com/science/article/pii/S2666354626000384)
+
+</details>
+
+## Summary
+
+This study maps the long-term trajectory of Postacute Sequelae of SARS-CoV-2 (PASC) in a large American population, highlighting that symptoms like fatigue and cognitive impairment are not only common but can persist or even worsen over a 12-month period. It confirms that the burden of Long COVID extends far beyond the initial respiratory phase, significantly impacting sleep health and daily functioning. The findings emphasize the protective role of vaccines and early antiviral 💊 interventions in reducing the long-term symptom load.
+
+## What was researched?
+
+The study examined the types of symptoms reported by patients following a SARS-CoV-2 infection and how these symptoms changed or persisted over a period of up to one year.
+
+## Why was it researched?
+
+While the acute phase of COVID-19 is well-documented, the long-term evolution of PASC and the factors that influence its severity in the general population required deeper investigation to improve clinical management.
+
+## How was it researched?
+
+Researchers utilized data from the COPE Initiative, a national longitudinal survey of over 11,000 U.S. adults, comparing infected individuals with and without PASC to uninfected controls over a 12-month follow-up period.
+
+## What has been found?
+
+Patients with PASC experienced a wide variety of symptoms, most notably fatigue, brain fog, and shortness of breath, which led to a progressive decline in overall health and sleep quality. The study found that while some individuals recovered, a significant proportion reported persistent or fluctuating symptoms even a year after the initial infection.
+
+## Discussion
+
+The research highlights the heterogeneity of Long COVID, noting that symptom clusters often overlap between neurological and physical domains. It also points out that pre-existing health conditions and the lack of booster vaccinations are associated with a higher risk of prolonged recovery.
+
+## Conclusion & Future Work
+
+PASC is a chronic condition with a substantial temporal burden that requires multidisciplinary care. Future research should focus on the biological mechanisms that cause symptoms to persist for such extended durations.
+
+
+
+---
+
+---
 title: "Vitamin D in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome After COVID-19 or Vaccination: A Randomized Controlled Trial"
 tags:
 - ➕ 2026-02-17
@@ -9670,6 +9827,108 @@ The results provide strong evidence against the theory that circulating factors 
 ## Conclusion & Future Work
 
 The authors concluded that the metabolic dysfunction observed in ME/CFS patients is likely not driven by universal factors circulating in the blood. Future research should focus on other biological compartments or different cell models to identify the specific drivers of the disease.
+
+
+
+---
+
+---
+title: "A Short-Term Pacing Intervention in People with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Pilot Study in Portugal"
+tags:
+- ➕ 2026-03-03
+- 💊 Treatment
+created: '2026-02-06'
+published: '2026-02-06'
+---
+
+<details>
+<summary>Ribeiro et al. (2026)</summary>
+
+- **Authors:** Vânia Ribeiro, Paulo Azevedo, Francisco Westermeier, Nuno Sepúlveda
+- **Institutes:** Faculty of Mathematics and Information Science, Warsaw University of Technology, Warsaw, Poland, CEAUL - Centro de Estatística e Aplicações da Universidade de Lisboa, Lisbon, Portugal, Institute of Biomedical Science, Department of Health Studies, FH Joanneum University of Applied Sciences, Graz, Austria
+- **Publisher:** Medicina (Kaunas)
+- **Link:** [DOI](https://doi.org/10.3390/medicina62020331)
+
+</details>
+
+## Summary
+
+This pilot study demonstrates that a structured, online pacing program is a viable and welcome management tool for ME/CFS patients, especially in regions where specialized care is limited. By showing preliminary improvements in fatigue and physical functioning, it paves the way for integrating energy management education into standard care protocols. The findings provide a crucial foundation for future large-scale research into non-pharmacological interventions in Southern Europe.
+
+## What was researched?
+
+The study examined the feasibility, adherence, and acceptability of a short-term pacing intervention for ME/CFS patients in Portugal. It specifically investigated whether patients could successfully follow an 8-week online program focused on energy management.
+
+## Why was it researched?
+
+ME/CFS lacks a curative treatment, making symptom management strategies like pacing essential for improving patient quality of life. There was previously no evidence regarding the feasibility of such interventions in Portugal, where the disease is not yet well recognized by the healthcare system.
+
+## How was it researched?
+
+Thirteen patients with an official ME/CFS diagnosis participated in an 8-week program consisting of weekly online sessions. Researchers assessed protocol adherence and patient satisfaction while using the Chalder Fatigue Questionnaire and SF-36 scores to track exploratory clinical trends.
+
+## What has been found?
+
+The program was found to be feasible and highly acceptable, with participants attending an average of seven out of eight sessions. Exploratory results showed a reduction in mean fatigue scores from 27.5 to 17.7 and an increase in physical functioning scores from 24.6 to 31.7.
+
+## Discussion
+
+The study is limited by its small sample size and the absence of a control group to account for potential placebo effects. However, the high adherence rate suggests that online delivery is a successful format for this patient population.
+
+## Conclusion & Future Work
+
+Pacing interventions are feasible and well-received by ME/CFS patients in Portugal. These results support the implementation of larger, randomized controlled trials to definitively measure the clinical impact of energy management programs.
+
+
+
+---
+
+---
+title: "Assessment of dynamic cerebral blood flow changes during cognitive tasks in patients with post-COVID-19 syndrome"
+tags:
+- ➕ 2026-03-03
+- 🧪 Biomarker
+created: '2026-02-10'
+published: '2026-02-10'
+---
+
+<details>
+<summary>Kutz et al. (2026)</summary>
+
+- **Authors:** Dieter F. Kutz, René Garbsch, Frank C. Mooren, Boris Schmitz, Claudia Voelcker-Rehage
+- **Institutes:** University of Münster, Münster, Germany, Witten/Herdecke University, Witten, Germany
+- **Publisher:** Brain Communications
+- **Link:** [DOI](https://doi.org/10.1093/braincomms/fcag036)
+
+</details>
+
+## Summary
+
+This research identifies a specific physiological 'signature' in the brain's blood flow regulation that distinguishes Post-COVID Syndrome from other conditions. By showing that cognitive fatigue is linked to measurable changes in how blood moves through brain capillaries, the study provides a potential objective biomarker for 'brain fog' and helps validate the physical nature of cognitive symptoms in patients.
+
+## What was researched?
+
+The study investigated how Post-COVID Syndrome (PCS) affects the regulation and variability of blood flow in the brain's prefrontal cortex during mentally demanding tasks.
+
+## Why was it researched?
+
+Researchers sought to quantify 'brain fog' by looking for evidence of altered capillary blood flow intermittency, which might explain the persistent cognitive fatigue reported by patients.
+
+## How was it researched?
+
+Using high-resolution functional near-infrared spectroscopy (fNIRS), the team monitored 36 participants—including 12 PCS patients, 12 age-matched coronary artery disease patients, and 12 healthy controls—while they performed Flanker and N-back cognitive tests.
+
+## What has been found?
+
+Patients with Post-COVID Syndrome showed significantly reduced temporal variability (more 'rigid' flow over time) but increased spatial variability in blood flow patterns compared to controls. These abnormalities were directly linked to slower reaction times, lower accuracy, and higher levels of subjective fatigue during the tasks.
+
+## Discussion
+
+The study suggests that the simultaneous analysis of temporal and spatial flow fluctuations can meaningfully distinguish PCS from other diseases. This method may also be applicable to patients with ME/CFS, who often present with nearly identical cognitive symptoms.
+
+## Conclusion & Future Work
+
+The findings confirm that dynamic cerebral blood flow is physically altered in Post-COVID Syndrome. This measurement technique is suitable for diagnosing current states of cortical regulation and documenting the effectiveness of future medical interventions.
 
 
 
@@ -9930,6 +10189,471 @@ The primary limitation is the very small sample size, which restricts the statis
 ## Conclusion & Future Work
 
 GPCR autoantibodies represent promising biomarkers for a subset of Long COVID patients. Future research should explore treatments like intravenous immunoglobulin 💊 or immunoadsorption to target these specific autoantibodies.
+
+
+
+---
+
+---
+title: "Development and psychometric evaluation of The Index of Myalgic Encephalomyelitis Symptoms (TIMES) Part I: Rasch Analysis and Content Validity"
+tags:
+- ➕ 2026-03-03
+- 🧪 Biomarker
+created: '2026-02-17'
+published: '2026-02-17'
+---
+
+<details>
+<summary>Horton et al. (2026)</summary>
+
+- **Authors:** M. Horton, Sarah F. Tyson, Russell Fleming, S. Gladwell
+- **Institutes:** University of Manchester, Manchester, UK, The ME Association, Buckingham, UK
+- **Publisher:** medRxiv (Preprint)
+- **Link:** [DOI](https://doi.org/10.64898/2026.02.16.26346394)
+
+</details>
+
+## Summary
+
+The development of TIMES provides a scientifically validated tool specifically designed to measure the wide-ranging and fluctuating symptoms of ME/CFS. By moving beyond simple clinical checklists to a psychometrically sound scale, this study enables more precise tracking of the disease's impact on patients' daily lives. It offers clinicians and researchers a reliable way to assess symptom severity and frequency, which is essential for improving individual care and the quality of data in clinical trials.
+
+## What was researched?
+
+This study describes the creation and validation of The Index of Myalgic Encephalomyelitis Symptoms (TIMES), a new tool designed to measure the symptom burden of ME/CFS. Researchers tested the instrument's internal structure and content validity to ensure it accurately and reliably reflects the patient experience.
+
+## Why was it researched?
+
+Existing symptom assessments for ME/CFS often lack formal psychometric validation and may not fully capture the disease's multi-system complexity. The researchers aimed to develop a stable, clinically relevant tool through direct partnership with patients and clinicians to fill this gap.
+
+## How was it researched?
+
+The team identified 85 symptom items across eight domains through literature reviews and focus groups with patients and clinicians. An initial online survey of 721 people with ME/CFS was analyzed using Rasch modeling to refine the items and response formats. A revised version was then validated in a second cohort of 354 participants to confirm the scale's stability and measurement accuracy.
+
+## What has been found?
+
+The analysis determined that a four-point response format for symptom frequency and severity was more effective than the original five-point scale. The final TIMES instrument satisfied all Rasch model requirements, confirming that its domain scales are unidimensional and stable. Specific sub-scales for neurological and autonomic symptoms were also validated, providing a robust framework for assessing the diverse symptoms of the condition.
+
+## Discussion
+
+A major strength of the study is its co-production approach, ensuring that the tool is relevant to both clinicians and the patient community. While the current validation was conducted with a primarily UK-based cohort, the rigorous statistical analysis suggests the tool is highly reliable. This paper focuses on construct and content validity, while a companion study addresses further reliability metrics.
+
+## Conclusion & Future Work
+
+The TIMES tool is a stable and valid assessment of ME/CFS symptoms suitable for both research and clinical use. It is freely available and provides a much-needed standardized measure for tracking patient symptoms over time.
+
+
+
+---
+
+---
+title: "Revised estimates of the types and durations of long Covid symptoms based on claims records from 245 Million US patients"
+tags:
+- ➕ 2026-03-03
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-02-18'
+published: '2026-02-18'
+---
+
+<details>
+<summary>Nilforoshan et al. (2026)</summary>
+
+- **Authors:** Hamed Nilforoshan, Julia Reisler, Erfan Jahanparast, Michael Moor, Steven N. Goodman, Stefan Wager, Jure Leskovec
+- **Institutes:** Department of Computer Science, Stanford University, Stanford, CA, USA, Department of Computer Science, University of California, Berkeley, CA, USA, Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland, Department of Epidemiology and Population Health, Stanford University, Stanford, CA, USA, Stanford Graduate School of Business, Stanford University, Stanford, CA, USA
+- **Publisher:** medRxiv (Preprint)
+- **Link:** [DOI](https://doi.org/10.1101/2026.02.17.26346448)
+
+</details>
+
+## Summary
+
+This large-scale study suggests that the prevalence and duration of Long COVID may be significantly overestimated in existing literature due to selection biases in how patients seek testing. By utilizing a more rigorous study design, the researchers found that most symptoms attributed to COVID-19 actually resolve within one year. This work highlights the critical need for refined methodology in observational health research to distinguish true viral sequelae from unrelated healthcare-seeking behaviors.
+
+## What was researched?
+
+The study aimed to provide more accurate estimates of Long COVID symptoms and their duration by addressing biases in conventional observational study designs.
+
+## Why was it researched?
+
+Conventional studies often compare COVID-positive patients to untested controls, potentially misattributing pre-existing or unrelated health conditions to the virus due to 'selective testing bias.'
+
+## How was it researched?
+
+Researchers analyzed 14.4 billion health insurance claims from 244.7 million U.S. patients, comparing those who tested positive for COVID-19 with those who tested negative during their first PCR test. They evaluated 614 clinical outcomes over a 2-year follow-up period using a test-based prospective design to reduce bias.
+
+## What has been found?
+
+The study identified 83.5% to 98.2% fewer attributable symptoms than conventional methods, with most effects resolving within 12 months. Significant early effects included myopathy, hair loss, and respiratory issues, but no symptoms remained uniquely attributable to COVID-19 after one year.
+
+## Discussion
+
+The authors note that while conventional methods showed spurious links—like COVID-19 causing lightning strikes—their design corrected these errors. However, the use of billing data may lack clinical granularity, and the results might be conservative due to mild 'collider bias.'
+
+## Conclusion & Future Work
+
+Long COVID is a real multi-system illness, but its scope and persistence are likely narrower than previously believed. The researchers recommend that future studies use test-negative control groups to ensure accurate disease attribution.
+
+
+
+---
+
+---
+title: "Optimizing exercise testing and rehabilitation strategies for long COVID: a focus on post-exertional malaise"
+tags:
+- ➕ 2026-03-03
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-02-19'
+published: '2026-02-19'
+---
+
+<details>
+<summary>Fagan et al. (2026)</summary>
+
+- **Authors:** Cory Donald Fagan, Eleanor Stein, Jane Shearer, Keely A. Shaw
+- **Institutes:** Faculty of Kinesiology, University of Calgary, Calgary, AB, Canada, Cumming School of Medicine, University of Calgary, Calgary, AB, Canada
+- **Publisher:** Fatigue: Biomedicine, Health & Behavior
+- **Link:** [DOI](https://doi.org/10.1080/21641846.2026.2627169)
+
+</details>
+
+## Summary
+
+This paper establishes a crucial link between the clinical symptom of post-exertional malaise (PEM) and objective metabolic dysfunction. By providing a framework to translate complex exercise test data into daily pacing strategies, it offers a pathway for safe, harm-reducing rehabilitation. This shift from standard exercise protocols to PEM-informed management is vital for preventing the cycle of symptom exacerbation in Long COVID patients.
+
+## What was researched?
+
+The study proposed a physiological decision-making framework for Long COVID that reconceptualizes post-exertional malaise (PEM) as an objective impairment of recovery. It investigated how metrics from specialized exercise testing can be used to guide safe rehabilitation and activity management.
+
+## Why was it researched?
+
+Standard rehabilitation protocols often cause harm to patients with Long COVID or ME/CFS due to post-exertional malaise. There is a critical need for objective markers to identify metabolic limits and prevent the 'push-crash' cycle common in these conditions.
+
+## How was it researched?
+
+The authors synthesized current evidence from serial (2-day) cardiopulmonary exercise testing (CPET) to identify reproducible physiological abnormalities. They developed a framework to translate these metabolic markers into clinical metrics for pacing and activity progression.
+
+## What has been found?
+
+The researchers found that PEM can be objectively identified through abnormalities in respiratory and metabolic variables during repeat exercise. These findings allow for the creation of individualized 'safe zones' for activity, specifically by identifying the heart rate at the anaerobic threshold. This framework enables clinicians to set intensity limits that minimize the risk of symptom flare-ups.
+
+## Discussion
+
+The study highlights the limitation of relying solely on subjective patient reports for managing activity. While the framework provides a robust physiological basis for pacing, it requires clinicians to have access to specialized testing equipment and expertise in interpreting metabolic data.
+
+## Conclusion & Future Work
+
+Safe rehabilitation for Long COVID is possible if it is informed by the patient's individual physiological recovery capacity. The authors recommend using metabolic testing to support functional stability and improve quality of life while strictly avoiding overexertion.
+
+
+
+---
+
+---
+title: "Systematic Examination of Gene Expression and Proteomic Evidence Across Tissues Supports the Role of Mitochondrial Dysregulation in ME/CFS"
+tags:
+- ➕ 2026-03-03
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-02-19'
+published: '2026-02-19'
+---
+
+<details>
+<summary>Keele et al. (2026)</summary>
+
+- **Authors:** Gregory R. Keele, Mike Enger, Quinn Barnette, Roman Ruiz-Esparza, Manuel Alvarado, Ravi Mathur, Jeran K. Stratford, Stephanie N. Giamberardino, Linda Morris Brown, Bradley T. Webb, Megan Ulmer Carnes
+- **Institutes:** RTI International, Research Triangle Park, NC, USA, Department of Population Health Sciences, Geisinger, Danville, PA, USA, Virginia Institute for Psychiatric and Behavioral Genetics, Virginia Commonwealth University, Richmond, VA, USA
+- **Publisher:** International Journal of Molecular Sciences
+- **Link:** [DOI](https://doi.org/10.3390/ijms27041997)
+
+</details>
+
+## Summary
+
+This comprehensive re-analysis of multiple ME/CFS datasets confirms that mitochondrial dysregulation is a consistent biological feature of the disease across different tissues and study populations. By identifying specific genes linked to both the disease and existing medications, the study provides a roadmap for drug repurposing, potentially speeding up the discovery of effective treatments. The findings highlight the critical role of energy production failures in the cellular biology of ME/CFS patients.
+
+## What was researched?
+
+Researchers performed a systematic re-analysis of gene and protein expression data from multiple ME/CFS studies and the DecodeME GWAS to find consistent molecular signatures. They specifically looked for evidence of shared biological pathways and potential targets for existing medications.
+
+## Why was it researched?
+
+ME/CFS lacks established biomarkers and FDA-approved treatments, largely due to the clinical heterogeneity of the patient population. Standardizing the analysis of existing data helps identify robust biological patterns that smaller, individual studies might miss.
+
+## How was it researched?
+
+The team applied a unified bioinformatics pipeline to four bulk gene expression datasets, one single-cell dataset, and four proteomic datasets from the mapMECFS repository. They also integrated genetic data from 15,579 cases in the DecodeME study and used the Realomics tool to match associated genes with potential drug candidates.
+
+## What has been found?
+
+Two mitochondrial genes, MT-RNR1 and MT-RNR2, showed consistently lower expression across studies, while other mitochondrial genes showed increased expression in platelets. The analysis identified 201 FDA-approved compounds as potential candidates for drug repurposing, including thiamine 💊, dimethyl fumarate 💊, and ruxolitinib 💊. The study also noted increased mitochondrial gene expression in platelets, supporting the theory of platelet hyperactivation in patients.
+
+## Discussion
+
+A significant limitation remains the low consistency of specific individual genes across different studies, likely due to small sample sizes and diverse study designs. However, the convergence on mitochondrial pathways suggests these are reliable biological markers despite technical variations between datasets.
+
+## Conclusion & Future Work
+
+The study concludes that mitochondrial dysfunction is a core feature of ME/CFS and demonstrates the high value of secondary data analysis for therapeutic discovery. Future research should focus on larger multi-omic studies and clinical trials of the identified drug candidates.
+
+
+
+---
+
+---
+title: "[Effect of warming needle moxibustion on mitochondrial autophagy in rats with chronic fatigue syndrome based on AMPK/ULK1 signaling pathway]"
+tags:
+- ➕ 2026-03-03
+- 💊 Treatment
+created: '2026-02-24'
+published: '2026-02-24'
+---
+
+<details>
+<summary>Yuan et al. (2026)</summary>
+
+- **Authors:** Yi-Na Yuan, Di Liu, Jun-Wei Liu, Long Li, Yong-Li Wu, Hua-Yuan Li
+- **Institutes:** Department of Traditional Chinese Medicine, Ningxia Medical University, Yinchuan, China
+- **Publisher:** Zhen Ci Yan Jiu (Acupuncture Research)
+- **Link:** [DOI](https://pubmed.ncbi.nlm.nih.gov/41735067/)
+
+</details>
+
+## Summary
+
+This study identifies a specific biological pathway through which warming needle moxibustion may alleviate fatigue symptoms. By demonstrating that this traditional therapy can repair mitochondrial function in skeletal muscle, the research provides a modern scientific framework for why moxibustion might benefit individuals with Chronic Fatigue Syndrome.
+
+## What was researched?
+
+The study investigated how warming needle moxibustion (WNM) affects mitochondrial health and the AMPK/ULK1 signaling pathway in the skeletal muscle of rats with chronic fatigue syndrome.
+
+## Why was it researched?
+
+Researchers aimed to explore the underlying biological mechanisms of WNM, specifically focusing on whether it can improve fatigue by regulating mitochondrial autophagy and energy metabolism.
+
+## How was it researched?
+
+Male rats were divided into control, CFS model, WNM, and coenzyme Q10 💊 groups. The WNM group received treatment at specific acupoints (ST36, CV4, CV12) for 14 days, after which behavioral tests, mitochondrial morphology, and protein expression levels were analyzed.
+
+## What has been found?
+
+WNM significantly increased body weight and swimming time while improving mitochondrial structure in skeletal muscle. It upregulated the expression of p-AMPK and p-ULK1, indicating that the treatment promotes mitochondrial autophagy to clear damaged components.
+
+## Discussion
+
+The results suggest that WNM performs similarly to Coenzyme Q10 in improving CFS symptoms but specifically targets the AMPK/ULK1 pathway to restore cellular energy production. The study is limited by its animal model design, which may not perfectly replicate human ME/CFS pathophysiology.
+
+## Conclusion & Future Work
+
+Warming needle moxibustion effectively alleviates fatigue by activating the AMPK/ULK1 signaling pathway and promoting healthy mitochondrial turnover. These findings support WNM as a viable therapeutic approach for managing CFS-related energy deficits.
+
+
+
+---
+
+---
+title: "Effect of warming needle moxibustion on mitochondrial autophagy in rats with chronic fatigue syndrome based on AMPK/ULK1 signaling pathway"
+tags:
+- ➕ 2026-03-03
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-02-25'
+published: '2026-02-25'
+---
+
+<details>
+<summary>Yuan et al. (2026)</summary>
+
+- **Authors:** Yi-Na Yuan, Di Liu, Jun-Wei Liu, Hua-Yuan Li, Long Li, Yong-Li Wu
+- **Institutes:** Ningxia Medical University, Yinchuan, China
+- **Publisher:** Zhen Ci Yan Jiu (Acupuncture Research)
+- **Link:** [DOI](https://doi.org/10.13702/j.1000-0607.20250074)
+
+</details>
+
+## Summary
+
+This study bridges traditional therapy with modern molecular biology by demonstrating how moxibustion may alleviate chronic fatigue at a cellular level. By showing that this treatment repairs damaged mitochondria via the AMPK/ULK1 pathway, the research provides a biological rationale for using warming needle moxibustion as a potential intervention for the energy-related symptoms of ME/CFS.
+
+## What was researched?
+
+The study investigated whether warming needle moxibustion could improve chronic fatigue syndrome (CFS) symptoms in rats by regulating mitochondrial autophagy through the AMPK/ULK1 signaling pathway.
+
+## Why was it researched?
+
+The researchers aimed to explore the underlying biological mechanisms of how moxibustion treats CFS, specifically focusing on its ability to repair mitochondrial dysfunction in skeletal muscles.
+
+## How was it researched?
+
+Rats were subjected to a multi-factor stress model (swimming, restraint, and fasting) to induce CFS and were then treated with warming needle moxibustion at specific acupuncture points for 14 days. A control group received Coenzyme Q10 💊 as a reference treatment, and researchers used transmission electron microscopy and Western blot analysis to measure changes in muscle tissue and protein expression.
+
+## What has been found?
+
+The treatment significantly increased the rats' body weight, swimming time, and overall activity levels while restoring the structure of damaged mitochondria in skeletal muscles. Specifically, moxibustion upregulated the protein expression ratios of p-AMPK/AMPK and p-ULK1/ULK1, as well as the autophagy marker LC3-II/LC3-I.
+
+## Discussion
+
+The findings suggest that moxibustion triggers the 'cleaning' process of damaged mitochondria, which is often impaired in chronic fatigue states. This restoration of mitochondrial health is directly linked to the activation of the AMPK/ULK1 energy-sensing pathway.
+
+## Conclusion & Future Work
+
+Warming needle moxibustion effectively alleviates CFS-like symptoms in rats by promoting mitochondrial autophagy. These results suggest that the AMPK/ULK1 pathway is a vital target for acupuncture-based fatigue treatments.
+
+
+
+---
+
+---
+title: "ICD-10 Diagnoses prior to ME/CFS diagnosis in children and young people suggest potential early diagnostic indicators"
+tags:
+- ➕ 2026-03-03
+- 🧪 Biomarker
+created: '2026-02-26'
+published: '2026-02-26'
+---
+
+<details>
+<summary>Wirth et al. (2026)</summary>
+
+- **Authors:** Marielle Wirth, Burkhard Haastert, Ute Linnenkamp, Silke Andrich, Andrea Icks, Rafael Pricoco, Uta Behrends, Freia De Bock
+- **Institutes:** Technical University of Munich, Germany, German Center for Infection Research (DZIF), Munich, Germany, Heinrich-Heine-University Düsseldorf, Germany
+- **Publisher:** Scientific Reports
+- **Link:** [DOI](https://doi.org/10.1038/s41598-026-40848-1)
+
+</details>
+
+## Summary
+
+This study identifies a specific pattern of medical diagnoses that often precede an official ME/CFS diagnosis in young people, highlighting the potential for earlier clinical recognition. By tracking medical codes in the year before diagnosis, researchers found that certain respiratory, musculoskeletal, and mental health symptoms are significantly more common in those later diagnosed with ME/CFS. The strongest predictor identified was a prior diagnosis of post-COVID-19 condition, emphasizing the link between viral infections and the onset of the disease.
+
+## What was researched?
+
+The study analyzed which medical diagnoses (using ICD-10-GM codes) were most frequently recorded in the year before a young person received an official ME/CFS diagnosis. It aimed to identify potential early indicators or red flags that could speed up the diagnostic process for children and young adults.
+
+## Why was it researched?
+
+ME/CFS diagnosis is often significantly delayed due to a lack of biomarkers and the overlap of symptoms with other conditions. Understanding the medical history leading up to a diagnosis helps clinicians recognize the disease earlier and reduces the risk of misdiagnosis or missed opportunities for early intervention.
+
+## How was it researched?
+
+Researchers conducted a large-scale case-control study using German health insurance data from 6,077 patients aged 6–27 with ME/CFS. These cases were matched with 30,385 healthy controls based on age, sex, and location to compare their medical records from the year preceding the ME/CFS diagnosis.
+
+## What has been found?
+
+Forty-four different diagnosis classes were associated with an increased likelihood of a later ME/CFS diagnosis, particularly fatigue, depression, and pain disorders. Post-COVID-19 condition 💊 showed the strongest association, while rarer conditions like fibromyalgia and mild cognitive impairment also had high predictive value. Conversely, obesity and ADHD were slightly less common in the ME/CFS group compared to controls.
+
+## Discussion
+
+The findings suggest that many 'preceding' diagnoses might actually be early symptoms of ME/CFS itself rather than separate pre-existing conditions. A major strength is the large sample size, though the study is limited by its reliance on insurance billing codes which may contain errors or reflect clinical uncertainty.
+
+## Conclusion & Future Work
+
+Specific clusters of diagnoses in the preceding year serve as early indicators for ME/CFS in children and young adults. Clinicians should pay close attention to patients presenting with post-viral symptoms, persistent fatigue, and cognitive issues to facilitate earlier diagnosis and management.
+
+
+
+---
+
+---
+title: "DISCOVER-ME: A multi-center, multi-omics approach to the stratification of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
+tags:
+- ➕ 2026-03-03
+- ⭐ Landmark
+- 🧪 Biomarker
+- ⏳ Trial
+created: '2026-02-27'
+published: '2026-02-27'
+---
+
+<details>
+<summary>Carding et al. (2026)</summary>
+
+- **Authors:** Simon Carding, 21 International Partners
+- **Institutes:** Quadram Institute Bioscience, Norwich, UK, University of East Anglia, UK, European ME Research Group (EMERG)
+- **Publisher:** European Commission (Horizon Europe)
+- **Link:** [DOI](https://www.s4me.info/threads/eu-horizon-funding-prof-simon-carding-%E2%82%AC7-5-million.49054/)
+
+</details>
+
+## Summary
+
+This landmark €7.5 million EU-funded project represents one of the largest coordinated efforts to resolve the biological heterogeneity of ME/CFS through patient stratification. By identifying distinct molecular subgroups, the study aims to move the field toward personalized medicine and more effective clinical trials. The scale of the consortium suggests a significant shift in European research priority and infrastructure for post-infectious chronic illnesses.
+
+## What was researched?
+
+The DISCOVER-ME project investigates the biological basis of ME/CFS using large-scale multi-omics data to identify specific patient subtypes. It focuses on characterizing the physiological differences between patients to enable more precise diagnosis and targeted treatment strategies.
+
+## Why was it researched?
+
+ME/CFS is a highly heterogeneous condition, making it difficult to find universal biomarkers or treatments that work for every patient. Researchers aim to solve this by 'stratifying' patients into groups based on their unique molecular signatures, such as immune or metabolic profiles.
+
+## How was it researched?
+
+The project involves a consortium of 21 partners across Europe and North America utilizing high-throughput 'omics' technologies, including genomics, transcriptomics, and microbiome analysis. The study leverages existing biobanks and harmonized clinical data to ensure robust findings across a large, diverse cohort of patients.
+
+## What has been found?
+
+As a newly funded initiative, the project focuses on the systematic integration of disparate biological data sets to identify common patterns in ME/CFS pathology. Initial goals include establishing standardized biobanking protocols and identifying the most promising molecular markers for patient classification.
+
+## Discussion
+
+A major challenge for the project is ensuring that samples are properly pre-stratified by factors like disease severity and the presence of post-exertional malaise. Success depends on the consortium's ability to minimize biological 'noise' through rigorous data harmonization across international sites.
+
+## Conclusion & Future Work
+
+The DISCOVER-ME project is expected to provide the framework for the next generation of ME/CFS research and clinical care. Future efforts will likely focus on validating these subgroups in independent cohorts and testing subgroup-specific therapies.
+
+
+
+---
+
+---
+title: "Identifying post-exertional malaise subtypes: Differentiating physical and mental PEM manifestations"
+tags:
+- ➕ 2026-03-03
+- 🧪 Biomarker
+created: '2026-02-28'
+published: '2026-02-28'
+---
+
+<details>
+<summary>Tuzzolino et al. (2026)</summary>
+
+- **Authors:** Katherine Tuzzolino, Leonard A Jason, Jacob Furst
+- **Institutes:** Sociology Department of Indiana University, Bloomington, IN, USA, DePaul University, Chicago, IL, USA
+- **Publisher:** Journal of Health Psychology
+- **Link:** [DOI](https://pubmed.ncbi.nlm.nih.gov/41761780/)
+
+</details>
+
+## Summary
+
+This research highlights that ME/CFS patients experience post-exertional malaise (PEM) differently, with the vast majority suffering from a combination of severe physical and mental exhaustion. By identifying these distinct subtypes, clinicians can better recognize the specific functional limitations of their patients. This nuanced understanding may lead to more personalized pacing strategies and targeted biomedical research into the different biological drivers of physical versus cognitive PEM manifestations.
+
+## What was researched?
+
+This study investigated whether post-exertional malaise (PEM) can be categorized into distinct clinical subtypes based on the severity of physical and mental manifestations.
+
+## Why was it researched?
+
+While PEM is the hallmark of ME/CFS and can be triggered by various types of exertion, researchers aimed to determine if individual differences in physical versus mental PEM severity correlate with overall symptom burden and functional disability.
+
+## How was it researched?
+
+Researchers analyzed data from 2,068 participants, including 1,966 with ME/CFS, using the DePaul Symptom Questionnaire to categorize patients into four groups: severe physical PEM, severe mental PEM, both severe, or neither severe. The groups were compared across symptom scores, quality-of-life subscales (SF-36), and an 'energy quotient' measure of functional capacity.
+
+## What has been found?
+
+The 'Both' group (severe physical and mental PEM) was the largest and exhibited the highest overall symptom severity and functional impairment. In contrast, the 'Neither' group showed significantly lower disability than other ME/CFS subtypes, although they remained substantially more impaired than healthy controls.
+
+## Discussion
+
+The findings suggest that physical and mental PEM are related but distinct manifestations that impact patients' lives differently. While limited by self-reported data and age differences in the control group, the study provides a framework for identifying patient subgroups in clinical trials.
+
+## Conclusion & Future Work
+
+The study concludes that PEM is a heterogeneous symptom with identifiable subtypes. Future research should incorporate longitudinal and biological measures to further validate these physical and cognitive manifestations.
 
 
 
