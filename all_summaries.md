@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-03-03 21:14:21*
+*Generated on: 2026-03-08 07:18:28*
 
 ---
 
@@ -10609,6 +10609,57 @@ The DISCOVER-ME project is expected to provide the framework for the next genera
 ---
 
 ---
+title: "Extracellular Vesicle Protein and MiRNA Signatures as Biomarkers for Post-Infectious ME/CFS Patients"
+tags:
+- ➕ 2026-03-08
+- 🧪 Biomarker
+created: '2026-02-28'
+published: '2026-02-28'
+---
+
+<details>
+<summary>Seifert et al. (2026)</summary>
+
+- **Authors:** Martina Seifert, Johannes Schäfers, Fiona F. Douglas, Carl Schwarzburg, Diana Boristowski, Anne Birke, Oliver Klein, Franziska Sotzny, Kerstin Rubarth, Lara Windzio, Christien M. Beez, Claudia Kedor Peters, Kirsten Wittke, Carmen Scheibenbogen, Anna Greco
+- **Institutes:** Institute of Medical Immunology, Charité – Universitätsmedizin Berlin, Berlin, Germany, Berlin Institute of Health (BIH) at Charité – Universitätsmedizin Berlin, Berlin, Germany
+- **Publisher:** International Journal of Molecular Sciences
+- **Link:** [DOI](https://doi.org/10.3390/ijms27052314)
+
+</details>
+
+## Summary
+
+This research provides a significant step toward developing a blood-based diagnostic test for ME/CFS by identifying specific molecular 'fingerprints' within extracellular vesicles. By distinguishing between post-COVID-19 and other infectious triggers, the study highlights how different viral origins may lead to unique biological signatures. These findings could eventually allow clinicians to more accurately diagnose patients and potentially tailor treatments based on their specific molecular profile.
+
+## What was researched?
+
+The study aimed to identify unique protein and microRNA (miRNA) signatures within plasma extracellular vesicles (EVs) that could serve as biomarkers for post-infectious ME/CFS. Researchers specifically looked at differences between female patients who developed the condition after COVID-19 versus those with other infectious triggers.
+
+## Why was it researched?
+
+ME/CFS currently lacks validated diagnostic biomarkers, leading to delayed diagnosis and limited understanding of its underlying biological mechanisms. Extracellular vesicles are promising targets because they carry cargo that reflects the physiological state of their cells of origin.
+
+## How was it researched?
+
+Researchers isolated small EVs from the plasma of female ME/CFS patients and healthy controls using size-exclusion chromatography. The cargo was analyzed using proteomic profiling via mass spectrometry and small RNA sequencing followed by qPCR to validate specific miRNA levels. The team then correlated these molecular findings with clinical symptoms such as fatigue, pain, and physical functioning.
+
+## What has been found?
+
+Two proteins, hemoglobin subunit alpha and insulin-like growth factor-binding protein acid labile subunit, were identified as altered in ME/CFS patients. Additionally, the miRNA hsa-let-7b-5p was significantly downregulated in patients with post-COVID-19 ME/CFS. Lower levels of this specific miRNA were directly associated with more severe fatigue, increased pain, and higher levels of immune activation.
+
+## Discussion
+
+A notable finding was that while the internal cargo of the vesicles differed significantly, the surface markers on the outside of the vesicles remained largely the same between patients and healthy donors. This suggests that the disease's impact is contained within the signaling molecules the vesicles carry. The study's focus on a female-only cohort and relatively small sample sizes are limitations that require broader validation.
+
+## Conclusion & Future Work
+
+The identified EV cargo signatures represent promising candidates for the objective diagnosis and stratification of ME/CFS patients. Future research should focus on validating these markers in larger, more diverse populations to confirm their clinical utility.
+
+
+
+---
+
+---
 title: "Identifying post-exertional malaise subtypes: Differentiating physical and mental PEM manifestations"
 tags:
 - ➕ 2026-03-03
@@ -10654,6 +10705,367 @@ The findings suggest that physical and mental PEM are related but distinct manif
 ## Conclusion & Future Work
 
 The study concludes that PEM is a heterogeneous symptom with identifiable subtypes. Future research should incorporate longitudinal and biological measures to further validate these physical and cognitive manifestations.
+
+
+
+---
+
+---
+title: "Pipeline-optimized machine learning for chronic fatigue syndrome diagnosis: A lightweight, interpretable model using blood biochemical and metabolomic data"
+tags:
+- ➕ 2026-03-08
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-03-01'
+published: '2026-03-01'
+---
+
+<details>
+<summary>Li et al. (2026)</summary>
+
+- **Authors:** Junrong Li, Hanyu Cao, Zirun Zhu, Kefeng Li
+- **Institutes:** Fudan University, Shanghai, China, Medical Engineering Fund of Fudan University, Shanghai, China
+- **Publisher:** Computational Biology and Chemistry
+- **Link:** [DOI](https://doi.org/10.1016/j.compbiolchem.2026.108995)
+
+</details>
+
+## Summary
+
+This study marks a significant advance toward a routine, objective clinical test for ME/CFS by identifying 10 key blood biomarkers from the massive UK Biobank dataset. The researchers developed a highly accurate diagnostic model that can distinguish ME/CFS from both healthy individuals and those with overlapping conditions. The discovery of causal links between metabolic markers like glucose and leucine and symptom severity provides new mechanistic insights that could guide future personalized treatments.
+
+## What was researched?
+
+The study aimed to develop a lightweight and interpretable machine learning model for the objective diagnosis of ME/CFS using blood biochemical and metabolomic data.
+
+## Why was it researched?
+
+Diagnosis currently relies on subjective clinical criteria, which leads to high rates of underdiagnosis and difficulty in differentiating ME/CFS from other conditions with similar symptoms.
+
+## How was it researched?
+
+Researchers analyzed data from 1,137 ME/CFS cases and 66,838 controls in the UK Biobank using a pipeline that compared 11 machine learning models and various imputation and feature selection methods. The final model utilized 10 primary biomarkers alongside covariates such as age, BMI, and gender, and was interpreted using SHAP analysis and Mendelian randomization.
+
+## What has been found?
+
+The optimized model achieved 93.9% accuracy and a ROC-AUC of 0.979 in identifying ME/CFS patients. Ten key biomarkers were identified, with urea, total protein, glucose, total bilirubin, leucine, and vitamin D showing established causal relationships. Notably, elevated levels of glucose and leucine were found to exacerbate CFS symptoms.
+
+## Discussion
+
+A major strength of the study is the inclusion of controls with overlapping conditions, which increases clinical relevance. The use of explainable AI techniques like SHAP provides a transparent way for clinicians to understand how the model reaches a diagnosis.
+
+## Conclusion & Future Work
+
+A lightweight diagnostic tool using routine objective biomarkers is both feasible and highly effective for ME/CFS. This model provides a practical framework for integrating objective diagnostics into clinical settings to improve patient outcomes.
+
+
+
+---
+
+---
+title: "Microbiota-derived extracellular vesicles link intestinal dysbiosis to neuroimmune activation in long COVID"
+tags:
+- ➕ 2026-03-08
+- 🧪 Biomarker
+created: '2026-03-02'
+published: '2026-03-02'
+---
+
+<details>
+<summary>Aranguren et al. (2026)</summary>
+
+- **Authors:** Matheus Aranguren, Kim Doyon-Laliberté, Idia Boncheva, Alexandre Villard, Aléhandra Desjardins, Emma Darbinian, Suhani Patel, Charlotte DuSablon, Estefania Rivera Conde, Diana Cabrera Munoz, Ludhovik Purchase, Valerio E. C. Piscopo, Aeshah Alluli, Faiza Benaliouad, Julien Sirois, Thomas Martin Durcan, Chantal Massé, Kodjovi Dodji Mlaga, Prabha Chandrasekaran, Johanne Poudrier, Emilia Liana Falcone
+- **Institutes:** Montreal Clinical Research Institute (IRCM), Montreal, QC, Canada, Université de Montréal, Montreal, QC, Canada, Montreal Neurological Institute-Hospital, McGill University, Montreal, QC, Canada
+- **Publisher:** bioRxiv (Preprint)
+- **Link:** [DOI](https://doi.org/10.64898/2026.02.28.708602)
+
+</details>
+
+## Summary
+
+This study identifies gut-derived vesicles as a critical missing link between an imbalanced microbiome and the neurological symptoms of Long COVID. By demonstrating that these vesicles alone can trigger brain inflammation in mice and human cell models, the research provides a potential biological target for future therapies. It shifts the focus from just the bacteria themselves to the specific inflammatory packages they release into the bloodstream.
+
+## What was researched?
+
+The researchers investigated whether gut microbiota-derived extracellular vesicles (GMEVs) act as the primary messengers that carry signals of gut imbalance to the brain, causing neuroinflammation in Long COVID.
+
+## Why was it researched?
+
+While Long COVID is known to involve gut dysbiosis and neurological issues, the exact mechanism of how intestinal bacteria influence the brain remained poorly understood.
+
+## How was it researched?
+
+The team used a longitudinally characterized human cohort and transplanted Long COVID microbiota into germ-free mice. They further tested the effects of isolated GMEVs on human iPSC-derived microglia and macrophages, and administered these vesicles orally to mice to observe systemic and glial activation.
+
+## What has been found?
+
+Long COVID-derived GMEVs were found to impair the intestinal barrier and trigger pro-inflammatory responses in both immune cells and brain-resident microglia. In mice, these vesicles remodeled the local microbiota and induced systemic inflammation alongside neuroimmune activation.
+
+## Discussion
+
+The study suggests a vesicle-centered framework for post-viral syndromes where sustained dysbiosis translates into chronic neuroinflammation. One potential limitation is that this is a preprint and currently represents early-stage discovery that requires further peer validation.
+
+## Conclusion & Future Work
+
+Microbiota-derived vesicles are functional mediators of the gut-brain axis in Long COVID. Targeting these vesicles or the specific dysbiosis that produces them may offer a new path for treating persistent neurological symptoms.
+
+
+
+---
+
+---
+title: "Assessment and Incidence Determination of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Following a SARS-CoV-2 Infection in a Prospective Cohort of Hospital Employees"
+tags:
+- ➕ 2026-03-08
+- 🧪 Biomarker
+created: '2026-03-03'
+published: '2026-03-03'
+---
+
+<details>
+<summary>Tack et al. (2026)</summary>
+
+- **Authors:** Matthias Tack, Rosalie Gruber, Leia Betting, Swetlana Herbrandt, Shuling Wu, Barbara Schlößer, Peter Häussermann, Marc Maegele, Gerlinde Schlang, Frauke Mattner
+- **Institutes:** Kliniken Köln (City of Cologne Municipal Hospitals), Cologne, Germany, Witten/Herdecke University, Witten, Germany
+- **Publisher:** Medicina (MDPI)
+- **Link:** [DOI](https://doi.org/10.3390/medicina62030480)
+
+</details>
+
+## Summary
+
+This research provides a crucial lower-bound estimate of ME/CFS incidence after COVID-19 in a frontline workforce. By identifying specific biological markers like EBV reactivation and autoantibodies, it helps validate the physical nature of these symptoms. The study also offers a clear diagnostic pathway for occupational health assessments in healthcare settings.
+
+## What was researched?
+
+The study aimed to determine the incidence and clinical characteristics of Post-COVID-19 syndrome and ME/CFS within a prospective cohort of hospital employees following SARS-CoV-2 infection.
+
+## Why was it researched?
+
+Persistent fatigue is a frequent complication of COVID-19, and researchers sought to identify the proportion of patients who meet strict diagnostic criteria for ME/CFS compared to general post-viral fatigue.
+
+## How was it researched?
+
+Researchers followed a cohort of 221 hospital employees who tested positive for SARS-CoV-2 between 2020 and 2021. Participants with persistent fatigue underwent comprehensive evaluations, including the Canadian Consensus Criteria for ME/CFS, cognitive testing, and blood analysis for autoantibodies and viral markers.
+
+## What has been found?
+
+The study found that 11.8% of the employees reported persistent fatigue, while 3.2% were diagnosed with ME/CFS. Laboratory results showed possible EBV reactivation in over 86% of the fatigue cases and elevated autoantibodies against G-protein-coupled receptors in 66.6% of participants.
+
+## Discussion
+
+The study's strength is its defined source cohort, which avoids the selection bias typical of clinic-based studies. However, the small size of the final assessment group and the reliance on a single hospital system are notable limitations.
+
+## Conclusion & Future Work
+
+ME/CFS is a significant long-term consequence for a distinct subset of individuals after COVID-19. The findings suggest that viral reactivation and autoantibody production may play key roles in the development of the condition.
+
+
+
+---
+
+---
+title: "Charting the circulating proteome in ME/CFS using cross-system profiling to uncover mechanistic insights"
+tags:
+- ➕ 2026-03-08
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-03-04'
+published: '2026-03-04'
+---
+
+<details>
+<summary>Hoel et al. (2026)</summary>
+
+- **Authors:** August Hoel, Fredrik Hoel, Sissel Elisabeth Furesund Dyrstad, Henrique Chapola, Ingrid Gurvin Rekeland, Kristin Risa, Kine Alme, Kari Sørland, Karl Albert Brokstad, Hans-Peter Marti, Olav Mella, Øystein Fluge, Karl Johan Tronstad
+- **Institutes:** Department of Biomedicine, University of Bergen, Bergen, Norway, Department of Oncology and Medical Physics, Haukeland University Hospital, Bergen, Norway, Department of Safety, Chemistry and Biomedical Laboratory Sciences, Western Norway University of Applied Sciences, Bergen, Norway
+- **Publisher:** Cell Reports Medicine
+- **Link:** [DOI](https://doi.org/10.1016/j.xcrm.2026.102647)
+
+</details>
+
+## Summary
+
+This landmark study identifies a distinct molecular 'fingerprint' in the blood of ME/CFS patients, characterized by an overabundance of immune-related signaling proteins and a deficit in essential muscle and cellular proteins. These findings suggest the disease involves a systemic state of immune reprogramming and metabolic stress, providing a concrete biological basis for symptoms like muscle fatigue and post-exertional malaise. By mapping thousands of proteins, the researchers have created a foundation for developing accurate diagnostic tests and targeted therapies that could finally address the underlying biology of the condition.
+
+## What was researched?
+
+The study aimed to map the comprehensive profile of proteins circulating in the blood of ME/CFS patients to identify biological markers and clarify the underlying disease mechanisms.
+
+## Why was it researched?
+
+ME/CFS lacks established diagnostic biomarkers and clear clinical treatments, necessitating large-scale molecular studies to understand how the disease affects different organ systems and biological processes.
+
+## How was it researched?
+
+Researchers used advanced aptamer-based technology to analyze 7,326 protein targets in the serum of 50 ME/CFS patients and 29 healthy controls. They validated their primary findings using independent antibody-based testing methods and performed cross-system profiling to link protein changes to specific tissues and biological pathways.
+
+## What has been found?
+
+The analysis identified 845 proteins with significantly altered levels in ME/CFS patients, revealing a broad increase in secreted proteins related to inflammation, coagulation, and immune signaling. Conversely, there was a notable reduction in intracellular proteins, particularly those originating from skeletal muscle and activated neutrophils. These patterns indicate a state of systemic immune reprogramming and metabolic disturbances that are consistent across different patient subgroups.
+
+## Discussion
+
+The findings suggest that the ME/CFS 'secretome' is dominated by intensified regulatory interactions involving the vasculature and metabolic regulation. A key strength is the use of high-plex proteomics, though the descriptive nature of the results requires further functional studies to confirm causality.
+
+## Conclusion & Future Work
+
+The study concludes that ME/CFS involves a multifaceted pathophysiology driven by coordinated immune, vascular, and metabolic disturbances. These systemic proteome patterns offer a promising framework for future biomarker discovery and therapeutic development.
+
+
+
+---
+
+---
+title: "Molecular Hydrogen as a Treatment for ME/CFS: A Mini-Review of Clinical Evidence and Mechanistic Rationale"
+tags:
+- ➕ 2026-03-08
+- 💊 Treatment
+created: '2026-03-04'
+published: '2026-03-04'
+---
+
+<details>
+<summary>Friedberg & LeBaron (2026)</summary>
+
+- **Authors:** Fred Friedberg, Tyler W. LeBaron
+- **Institutes:** Stony Brook University, Stony Brook, United States, Southern Utah University, Cedar City, United States
+- **Publisher:** Frontiers in Medicine
+- **Link:** [DOI](https://doi.org/10.3389/fmed.2026.1760210)
+
+</details>
+
+## Summary
+
+This review identifies molecular hydrogen as a promising, low-risk adjunctive therapy for ME/CFS by targeting core biological issues like oxidative stress and mitochondrial dysfunction. While the current clinical evidence is based on small pilot studies, the observed improvements in fatigue and physical function suggest it may offer a safe way to manage symptoms. Its potential applicability to Long COVID further highlights its relevance as a broad-spectrum intervention for post-viral conditions.
+
+## What was researched?
+
+The review examined the therapeutic potential of molecular hydrogen 💊, primarily administered as hydrogen-rich water, for treating ME/CFS. Researchers evaluated its biological mechanisms and summarized findings from three early-stage clinical studies.
+
+## Why was it researched?
+
+ME/CFS lacks FDA-approved treatments and is characterized by oxidative stress, chronic inflammation, and impaired energy metabolism. Molecular hydrogen was researched because its selective antioxidant and anti-inflammatory properties directly align with these known biological abnormalities.
+
+## How was it researched?
+
+The authors conducted a narrative mini-review of mechanistic evidence and analyzed results from three developmental clinical trials involving patients with ME/CFS. They also looked at overlapping data from studies on Long COVID to assess the broader applicability of the treatment.
+
+## What has been found?
+
+Preliminary evidence suggests that consuming moderate doses of hydrogen-rich water over extended periods can reduce fatigue and improve physical function. The treatment was found to be feasible with generally mild side effects, although the studies were limited by small sample sizes. Mechanistically, molecular hydrogen appears to support mitochondrial health and cellular homeostasis.
+
+## Discussion
+
+The primary limitations of the current research include the small number of participants and a heavy reliance on self-reported outcomes rather than objective biomarkers. There is a clear need for more rigorous study designs to confirm these early positive signals.
+
+## Conclusion & Future Work
+
+Molecular hydrogen represents a promising, low-burden therapy that warrants further investigation through larger, randomized controlled trials. Future studies should include remote biometric monitoring and biochemical assessments to better identify which patient subgroups respond best to the treatment.
+
+
+
+---
+
+---
+title: "ACHTSAM study protocol: outreach diagnostics and assessment of tolerability in severe ME/CFS-a pilot study"
+tags:
+- ➕ 2026-03-08
+- 🧪 Biomarker
+- ⏳ Trial
+created: '2026-03-06'
+published: '2026-03-06'
+---
+
+<details>
+<summary>Fricke et al. (2026)</summary>
+
+- **Authors:** Carmen Fricke, Peter Deibert, Philipp Maier, Winfried Kern, Oliver Krumnau, Friedrich Barsch
+- **Institutes:** Institute for Exercise and Occupational Medicine, University Medical Center Freiburg, Freiburg, Germany, Faculty of Medicine, University of Freiburg, Freiburg, Germany
+- **Publisher:** BMJ Open
+- **Link:** [DOI](https://doi.org/10.1136/bmjopen-2025-113095)
+
+</details>
+
+## Summary
+
+This protocol addresses a critical gap in medical research by focusing on the most severely ill ME/CFS patients who are usually excluded from studies due to their inability to travel. By establishing and testing safe, home-based diagnostic procedures, the ACHTSAM study aims to provide a validated framework for including housebound individuals in future clinical trials and improving their access to specialized care. This work is a vital step toward making research more inclusive and representative of the entire patient spectrum.
+
+## What was researched?
+
+This research presents the study protocol for a prospective, non-interventional pilot study investigating the feasibility and tolerability of home-based diagnostic assessments for patients with severe and very severe ME/CFS.
+
+## Why was it researched?
+
+Severely affected patients are often housebound or bedbound and are typically underrepresented in clinical research because of the risks of post-exertional malaise and the logistical challenges of traveling to specialized clinics.
+
+## How was it researched?
+
+The study employs a two-phase approach: Phase 1 involves remote screening and identification via validated questionnaires, while Phase 2 consists of carefully staged home visits by a medical team. Assessments include physiological monitoring (such as endothelial function tests), cognitive evaluations, and biological sampling to determine if these procedures can be conducted without triggering significant symptom worsening.
+
+## What has been found?
+
+As a protocol publication, the paper details the systematic design intended to identify patient-reported and physiological barriers to standardized diagnostic procedures. The study aims to determine the specific proportion of assessments that can be successfully completed by patients with very low functional capacity (Bell score ≤30) without necessitating premature termination.
+
+## Discussion
+
+The protocol highlights the importance of patient and caregiver involvement in study design to ensure safety and relevance. A primary challenge identified is the difficulty in attributing delayed post-exertional malaise to specific individual tests given the multisystem nature of the assessments.
+
+## Conclusion & Future Work
+
+The ACHTSAM study intends to demonstrate that including housebound patients in high-quality research is feasible through specialized outreach. Establishing these safe diagnostic standards is a prerequisite for developing targeted therapeutic strategies and future clinical trials for the most vulnerable ME/CFS populations.
+
+
+
+---
+
+---
+title: "Long COVID neuropathy: The role of mast cells"
+tags:
+- ➕ 2026-03-08
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-03-06'
+published: '2026-03-06'
+---
+
+<details>
+<summary>Morcos & Theoharides (2026)</summary>
+
+- **Authors:** Zachary L. Morcos, Theoharis C. Theoharides
+- **Institutes:** Institute for Neuro-Immune Medicine, Dr. Kiran C. Patel College of Osteopathic Medicine, Nova Southeastern University, Ft. Lauderdale, FL, United States, Department of Immunology, Tufts University School of Medicine, Boston, MA, United States
+- **Publisher:** Journal of Neuropathology & Experimental Neurology
+- **Link:** [DOI](https://doi.org/10.1093/jnen/nlag016)
+
+</details>
+
+## Summary
+
+This review identifies mast cell activation as a central driver of the neuropathic and autonomic symptoms seen in Long COVID. By explaining how the virus triggers these cells to damage nearby nerves, the study provides a clear biological target for future treatments. This research offers a unifying explanation for symptoms shared across Long COVID, small-fiber neuropathy, and ME/CFS.
+
+## What was researched?
+
+The research investigated whether mast cell activation serves as a primary mechanism for neuropathic pain and autonomic dysfunction in patients with Long COVID. It explored the interactions between the SARS-CoV-2 spike protein and immune cells located near the nervous system.
+
+## Why was it researched?
+
+Despite millions of people suffering from persistent neuropathic symptoms after COVID-19, the underlying cause remains largely unknown. The researchers hypothesized that mast cells, which are strategically located near nerves, could be the missing link in explaining this chronic inflammation.
+
+## How was it researched?
+
+This narrative review synthesized evidence from preclinical models and clinical case reports. The authors analyzed the pathways through which the spike protein binds to receptors like ACE2 and TLR4 on mast cells to trigger the release of pro-inflammatory mediators.
+
+## What has been found?
+
+The study found that spike-protein-activated mast cells release neurotoxic mediators such as tryptase and interleukin-6, which sensitize peripheral nerves and disrupt the blood-brain barrier. This process mirrors the pathology found in small-fiber neuropathy and ME/CFS, and the authors suggest that flavonoids 💊 and antihistamines 💊 may help manage these symptoms.
+
+## Discussion
+
+The review highlights that mast cell proximity to nerves and blood vessels makes them uniquely capable of causing multi-organ dysfunction. While therapeutic responses to mast cell stabilizers vary, the identified mechanisms support the use of targeted immune-modulating therapies.
+
+## Conclusion & Future Work
+
+Chronic mast cell activation appears to be a plausible cause for the persistence of neuropathic symptoms in Long COVID. Future clinical studies should focus on validating mast-cell-directed treatments to improve patient outcomes.
 
 
 
