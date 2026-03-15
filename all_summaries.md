@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-03-08 07:18:28*
+*Generated on: 2026-03-15 09:27:10*
 
 ---
 
@@ -9110,6 +9110,57 @@ High-dose continuous oral cromolyn is a safe and effective treatment strategy fo
 ---
 
 ---
+title: "A preliminary proof-of-concept trial on the effects of ketamine on fatigue: a randomized crossover trial"
+tags:
+- ➕ 2026-03-15
+- 💊 Treatment
+created: '2026-01-22'
+published: '2026-01-22'
+---
+
+<details>
+<summary>Goto et al. (2026)</summary>
+
+- **Authors:** T. Goto, J. D. Kreskow, A. L. R. Ross, L. Saligan
+- **Institutes:** National Institute of Nursing Research, National Institutes of Health, Bethesda, MD, USA, Rutgers School of Nursing, Newark, NJ, USA, Cizik School of Nursing, The University of Texas Health Science Center at Houston, Houston, TX, USA
+- **Publisher:** Pharmacology Reports
+- **Link:** [DOI](https://doi.org/10.1007/s43440-025-00808-4)
+
+</details>
+
+## Summary
+
+This study provides preliminary evidence that low-dose ketamine 💊 may rapidly reduce chronic fatigue across various conditions, including ME/CFS and fibromyalgia. Although the small trial size prevented statistical significance, researchers observed a clinically relevant improvement that peaked 24 hours after administration. These results highlight ketamine as a potential candidate for future large-scale fatigue research.
+
+## What was researched?
+
+This proof-of-concept study investigated the effectiveness of low-dose ketamine infusions in reducing fatigue levels in patients with various chronic illnesses.
+
+## Why was it researched?
+
+Chronic fatigue is a debilitating symptom with limited pharmacological treatments, and ketamine has previously shown rapid anti-fatigue effects in patients with depression.
+
+## How was it researched?
+
+Ten participants with chronic fatigue from ME/CFS, fibromyalgia, lupus, or cancer survivorship participated in a randomized, double-blind, crossover trial. They received a single infusion of ketamine and an active comparator, midazolam, two weeks apart.
+
+## What has been found?
+
+Fatigue scores in the ketamine group decreased by approximately 21% three days post-infusion, with a peak reduction of nearly 39% after 24 hours. The study did not find a statistically significant difference between ketamine and midazolam due to similar improvements in the control group and the small sample size.
+
+## Discussion
+
+Significant carryover effects were noted, meaning the fatigue-reducing effects of the first treatment may have influenced the baseline of the second period. The study is limited by its very small cohort and the use of a crossover design for a drug with potentially long-lasting effects.
+
+## Conclusion & Future Work
+
+While the primary efficacy threshold was met for the ketamine group, larger trials with parallel designs are needed to confirm these results. The findings suggest that ketamine might provide rapid, short-term relief for severe fatigue.
+
+
+
+---
+
+---
 title: "ME/CFS and Long COVID Demonstrate Similar Bioenergetic Impairment and Recovery Failure on Two-Day Cardiopulmonary Exercise Testing"
 tags:
 - ➕ 2026-01-25
@@ -10402,6 +10453,57 @@ The study concludes that mitochondrial dysfunction is a core feature of ME/CFS a
 ---
 
 ---
+title: "Plasma proteomic profile reveals persistent immune activation in post-acute sequelae of SARS-CoV-2 infection"
+tags:
+- ➕ 2026-03-15
+- 🧪 Biomarker
+created: '2026-02-23'
+published: '2026-02-23'
+---
+
+<details>
+<summary>Fineschi et al. (2026)</summary>
+
+- **Authors:** Serena Fineschi, Joakim Klar, Jens Schuster, Jonas Bergquist, Niklas Dahl
+- **Institutes:** Department of Public Health and Caring Sciences, Uppsala University, Uppsala, Sweden, Science for Life Laboratory, Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden, The ME/CFS Collaborative Research Centre at Uppsala University, Uppsala, Sweden
+- **Publisher:** Frontiers in Immunology
+- **Link:** [DOI](https://doi.org/10.3389/fimmu.2026.1775044)
+
+</details>
+
+## Summary
+
+This research provides evidence of ongoing, systemic immune activation in Long COVID patients nearly three years after their initial infection. By identifying a specific inflammatory signature and ruling out plasma spike protein as the primary driver at this late stage, the study narrows the focus for future diagnostic tests and potential anti-inflammatory treatments. The findings underscore that the physiological disruption in PASC is a long-term, objective biological phenomenon rather than a transient recovery phase.
+
+## What was researched?
+
+This study investigated the plasma proteomic profiles of individuals with Post-Acute Sequelae of SARS-CoV-2 infection (PASC) to identify biomarkers of chronic inflammation and immune dysregulation.
+
+## Why was it researched?
+
+The researchers sought to understand the biological mechanisms behind the persistent symptoms of Long COVID, particularly whether chronic inflammation continues long after the initial infection. They also aimed to clarify if viral persistence, specifically the presence of spike proteins in the blood, drives this ongoing inflammation.
+
+## How was it researched?
+
+The study used proximity extension assay technology to quantify 358 proteins in the plasma of 92 individuals with PASC at an average of 34 months post-infection, comparing them to recovered controls. Researchers also performed gene set enrichment analysis to map immune pathways and measured plasma SARS-CoV-2 spike protein levels using ultra-sensitive assays.
+
+## What has been found?
+
+The analysis identified 26 differentially expressed proteins, with Oncostatin M (OSM) and IL-1 receptor antagonist (IL1RN) being the most significantly upregulated. Findings indicated persistent activation of innate and adaptive immune pathways, including TNF-α and IL-6 signaling, while spike protein levels remained indistinguishable from controls. The inflammatory response was consistent across the patient cohort, suggesting no distinct biological subtypes among the participants.
+
+## Discussion
+
+The results suggest that PASC is characterized by a stable, low-grade inflammatory state that persists for years independently of detectable viral spike protein in the plasma. This suggests that the immune system may be 'locked' in a pro-inflammatory state or responding to different triggers than active viral replication. The identification of OSM and IL1RN as key markers provides new targets for exploring the chronic nature of the condition.
+
+## Conclusion & Future Work
+
+The study concludes that PASC involves long-term immune activation and identifies specific protein markers that could serve as diagnostic tools or therapeutic targets. Further research is needed to determine the initial triggers that cause this immune system 'memory' of inflammation to persist for years.
+
+
+
+---
+
+---
 title: "[Effect of warming needle moxibustion on mitochondrial autophagy in rats with chronic fatigue syndrome based on AMPK/ULK1 signaling pathway]"
 tags:
 - ➕ 2026-03-03
@@ -10447,6 +10549,58 @@ The results suggest that WNM performs similarly to Coenzyme Q10 in improving CFS
 ## Conclusion & Future Work
 
 Warming needle moxibustion effectively alleviates fatigue by activating the AMPK/ULK1 signaling pathway and promoting healthy mitochondrial turnover. These findings support WNM as a viable therapeutic approach for managing CFS-related energy deficits.
+
+
+
+---
+
+---
+title: "Single-cell analysis reveals immune remodeling of monocytes, NK cells, T cell exhaustion, and Galectin-9-associated depletion of gamma delta and mucosal-associated invariant T cells in Long COVID with ME/CFS"
+tags:
+- ➕ 2026-03-15
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-02-25'
+published: '2026-02-25'
+---
+
+<details>
+<summary>Shahbaz et al. (2026)</summary>
+
+- **Authors:** Shima Shahbaz, Najmeh Bozorgmehr, Amirhossein Rahmati, Amal Abouda, Hussain Syed, Mohammed Osman, Shokrollah Elahi
+- **Institutes:** University of Alberta, Edmonton, AB, Canada
+- **Publisher:** Frontiers in Immunology
+- **Link:** [DOI](https://doi.org/10.3389/fimmu.2026.1745933)
+
+</details>
+
+## Summary
+
+This study provides a high-resolution map of immune dysfunction in Long COVID, distinguishing it from traditional ME/CFS and offering a path toward targeted therapies. By identifying specific cell types and molecular pathways that fail to return to baseline after 12 months, it validates the biological reality of the condition. The discovery of potential biomarkers like Galectin-9 could eventually lead to objective diagnostic tests, reducing the stigma and clinical uncertainty for those suffering from post-viral illnesses.
+
+## What was researched?
+
+The research investigated the cellular and molecular immune profiles of female individuals suffering from Long COVID who met the diagnostic criteria for ME/CFS one year after infection. The study aimed to define the specific immune remodeling and exhaustion markers that distinguish this condition from full recovery and idiopathic ME/CFS.
+
+## Why was it researched?
+
+The biological mechanisms driving Long COVID-associated ME/CFS are poorly understood, making diagnosis and treatment difficult. Identifying the specific immune cells and signaling pathways involved is essential for finding therapeutic targets and clinical biomarkers.
+
+## How was it researched?
+
+Researchers performed single-cell RNA sequencing (scRNA-seq) on peripheral blood mononuclear cells from patients 12 months post-infection. They compared these findings to recovered individuals and utilized public datasets to contrast the results with idiopathic (non-COVID) ME/CFS patients.
+
+## What has been found?
+
+The study found a significant reduction in naïve T cells, regulatory T cells, and specialized immune cells like MAIT and γδ T cells in Long COVID patients. NK cells exhibited impaired cytotoxic potential, while monocytes showed a pro-inflammatory skew and reduced ability to clear debris. Notably, the Galectin-9–TIM-3 interaction was identified as a key driver of specific T cell depletion, a feature less pronounced in idiopathic ME/CFS.
+
+## Discussion
+
+The findings suggest that Long COVID-associated ME/CFS is characterized by more extensive immune exhaustion and remodeling than idiopathic ME/CFS. A limitation of the study is its small, female-only cohort, which reflects the group most affected but may not fully represent male immune responses.
+
+## Conclusion & Future Work
+
+Long COVID-associated ME/CFS is driven by chronic immune activation and profound cellular dysregulation. The researchers conclude that Galectin-9, Artemin, and Reelin are promising candidates for diagnostic biomarkers and potential therapeutic intervention.
 
 
 
@@ -10603,6 +10757,57 @@ A major challenge for the project is ensuring that samples are properly pre-stra
 ## Conclusion & Future Work
 
 The DISCOVER-ME project is expected to provide the framework for the next generation of ME/CFS research and clinical care. Future efforts will likely focus on validating these subgroups in independent cohorts and testing subgroup-specific therapies.
+
+
+
+---
+
+---
+title: "Who receives a diagnostic label for fibromyalgia, chronic fatigue syndrome, and irritable bowel syndrome? A study in the lifelines cohort"
+tags:
+- ➕ 2026-03-15
+- 🧪 Biomarker
+created: '2026-02-27'
+published: '2026-02-27'
+---
+
+<details>
+<summary>Tattan et al. (2026)</summary>
+
+- **Authors:** Mais Tattan, Denise J. C. Hanssen, Judith G. M. Rosmalen
+- **Institutes:** University of Groningen, University Medical Centre Groningen, Interdisciplinary Centre Psychopathology and Emotion regulation, Groningen, the Netherlands
+- **Publisher:** Journal of Psychosomatic Research
+- **Link:** [DOI](https://doi.org/10.1016/j.jpsychores.2026.112609)
+
+</details>
+
+## Summary
+
+This large-scale study reveals a significant 'diagnosis gap,' where the vast majority of individuals who meet the clinical criteria for ME/CFS and Fibromyalgia never receive a formal medical label. It highlights that factors such as gender, education level, and healthcare utilization patterns—rather than just symptom severity—strongly influence who gets diagnosed. This suggests that current medical systems are failing to identify most patients, potentially leaving them without access to appropriate support or recognition.
+
+## What was researched?
+
+The study investigated the factors associated with receiving a formal diagnostic label for Fibromyalgia, Chronic Fatigue Syndrome (ME/CFS), and Irritable Bowel Syndrome among individuals who already meet the clinical diagnostic criteria.
+
+## Why was it researched?
+
+Many people suffer from persistent somatic symptoms that qualify for these diagnoses but remain 'invisible' in the healthcare system without an official label. Understanding why some patients receive a diagnosis while others do not is crucial for improving clinical care and equity.
+
+## How was it researched?
+
+Researchers conducted a cross-sectional study using data from 152,807 participants in the Dutch 'Lifelines' population cohort. They used validated self-reported questionnaires to identify 10,017 individuals meeting the criteria for these conditions and then compared those with and without formal diagnostic labels using statistical modeling.
+
+## What has been found?
+
+Only 14.2% of those meeting the criteria for ME/CFS and 25.2% for Fibromyalgia had received a formal diagnosis. Labels were more common in women and those with higher healthcare use, while older age and existing anxiety or depression actually reduced the likelihood of being labeled. Interestingly, those who were labeled reported lower quality of life and higher health anxiety compared to those with the same symptoms but no label.
+
+## Discussion
+
+The study is limited by its reliance on self-reported data and a cross-sectional design that cannot prove cause-and-effect regarding quality of life. The findings suggest that medical labeling might be biased by socioeconomic factors and could potentially contribute to health anxiety. It also indicates that a diagnosis often comes late or only for those who navigate the medical system more aggressively.
+
+## Conclusion & Future Work
+
+A formal diagnostic label is granted to only a small minority of symptomatic individuals. Future research is needed to determine how these labels impact long-term patient outcomes and healthcare resource management.
 
 
 
@@ -11066,6 +11271,212 @@ The review highlights that mast cell proximity to nerves and blood vessels makes
 ## Conclusion & Future Work
 
 Chronic mast cell activation appears to be a plausible cause for the persistence of neuropathic symptoms in Long COVID. Future clinical studies should focus on validating mast-cell-directed treatments to improve patient outcomes.
+
+
+
+---
+
+---
+title: "Long COVID (Post-COVID-19): Analysis of the Multisystem Clinical Spectrum and the Regional Landscape in Mexico and Latin America"
+tags:
+- ➕ 2026-03-15
+- 🧪 Biomarker
+- 💊 Treatment
+created: '2026-03-10'
+published: '2026-03-10'
+---
+
+<details>
+<summary>Navarro-Olivos et al. (2026)</summary>
+
+- **Authors:** Efraín Navarro-Olivos, Miztli David Aguilar-Caballero, Juan Pablo Martínez-Becerra, Maria de Jesus Gallardo-Luna, Nicolas Padilla-Raygoza
+- **Institutes:** Directorate of Teaching and Research, Institute of Public Health from Guanajuato State, Guanajuato, Mexico
+- **Publisher:** IntechOpen
+- **Link:** [DOI](https://doi.org/10.5772/intechopen.1014632)
+
+</details>
+
+## Summary
+
+This study underscores the severe and often overlooked burden of Long COVID in Mexico and Latin America, where nearly 40% of survivors may be affected. By linking clinical symptoms to mechanisms like viral persistence and microclots, it advocates for a shift from dismissing symptoms to providing validated, multidisciplinary care. It serves as a vital call to action for regional governments to establish formal registries and protocols to address this "chronic pandemic." The review provides a critical framework for clinicians in resource-strained environments to better recognize and manage the condition's multisystem impact.
+
+## What was researched?
+
+This narrative review examines the multisystem clinical spectrum, pathophysiology, and regional epidemiological landscape of Long COVID in Mexico and Latin America.
+
+## Why was it researched?
+
+Research has disproportionately focused on the Global North, leaving the impact in Latin America—a region with high mortality and strained health systems—insufficiently documented. The authors highlight the urgent need for formal recognition and standardized care to counter the misunderstanding and stigma experienced by patients.
+
+## How was it researched?
+
+The authors synthesized evidence from Mexican national health surveys, international meta-analyses, and literature on post-viral syndromes. They also proposed a stratified care model and referral algorithm specifically tailored for resource-limited health systems.
+
+## What has been found?
+
+Long COVID prevalence in Mexico is estimated at 37%, disproportionately affecting working-age women and lower-income populations. The syndrome is driven by complex mechanisms such as viral persistence, immune dysregulation, and endothelial dysfunction with microthrombosis. Potential interventions mentioned include vaccination 💊 to reduce risk, as well as substances like sulodexide 💊, PEA-LUT 💊, and probiotics 💊 for symptom management.
+
+## Discussion
+
+A major challenge identified is "medical gaslighting," where invisible symptoms like fatigue are dismissed due to a lack of objective diagnostic findings. The review stresses the importance of clinical validation and managing patient expectations during a non-linear recovery process.
+
+## Conclusion & Future Work
+
+Long COVID is a neurovascular and immunologic condition that necessitates a transition to a comprehensive biopsychosocial care model. The authors recommend establishing national registries and multidisciplinary networks to effectively address long-term disability in the region.
+
+
+
+---
+
+---
+title: "Management of long COVID-19 in children and adolescents: from diagnosis to therapeutically approaches"
+tags:
+- ➕ 2026-03-15
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-03-11'
+published: '2026-03-11'
+---
+
+<details>
+<summary>Caliman-Sturdza et al. (2026)</summary>
+
+- **Authors:** Olga Adriana Caliman-Sturdza, Roxana Gheorghita, Andrei Lobiuc, Roxana Filip, Iuliana Soldanescu, Serghei Mangul, Mihai Dimian
+- **Institutes:** Faculty of Medicine and Biological Sciences, Stefan cel Mare University of Suceava, Suceava, Romania, Suceava Emergency Clinical County Hospital, Suceava, Romania, Integrated Center for Research, Development, and Innovation for Advanced Materials, Nanotechnologies, Manufacturing and Control Distributed Systems (MANSiD), Stefan cel Mare University of Suceava, Suceava, Romania, Department of Clinical Pharmacy, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences, University of Southern California, Los Angeles, California, USA
+- **Publisher:** Annals of Medicine
+- **Link:** [DOI](https://doi.org/10.1080/07853890.2026.2642510)
+
+</details>
+
+## Summary
+
+This comprehensive review highlights that pediatric Long COVID is a multisystem condition requiring individualized, interdisciplinary care. While many children improve over time, a significant subset experiences long-term disability, emphasizing the urgent need for standardized diagnostic tools and evidence-based treatments. The study bridges the gap between clinical observation and management by synthesizing current therapeutic strategies and identifying critical research needs for this vulnerable population.
+
+## What was researched?
+
+The study investigated the characteristic manifestations, diagnostic challenges, and current therapeutic management of Long COVID (L-C19) specifically in children and adolescents.
+
+## Why was it researched?
+
+Long COVID has emerged as a complex multisystem condition that can follow even mild or asymptomatic infections in young people, yet standardized diagnostic and treatment protocols are still lacking.
+
+## How was it researched?
+
+Researchers conducted a structured narrative review and systematic search across PubMed, Scopus, Web of Science, and Google Scholar for literature published between January 2020 and October 2025.
+
+## What has been found?
+
+Diagnosis remains difficult due to symptom heterogeneity and a lack of specific biomarkers. Management currently relies on symptom-oriented medications like analgesics 💊, antidepressants 💊, or antianxiety medications 💊, alongside non-pharmacological approaches such as energy conservation, pacing, and cognitive behavioral therapy. While many children show gradual improvement, some remain symptomatic for over a year with substantial disability.
+
+## Discussion
+
+A major limitation is the lack of high-quality evidence for specific pharmacological treatments in pediatric cases. The review emphasizes that care must be multidisciplinary and tailored to the predominant symptoms of each individual patient.
+
+## Conclusion & Future Work
+
+No definitive cure currently exists for pediatric Long COVID, making individualized functional rehabilitation and international collaboration essential for improving outcomes. Future research must prioritize clinical trials that include children to evaluate novel evidence-based interventions.
+
+
+
+---
+
+---
+title: "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Post-Exertional Malaise and the Biology of Energy Failure"
+tags:
+- ➕ 2026-03-15
+- 🧪 Biomarker
+created: '2026-03-12'
+published: '2026-03-12'
+---
+
+<details>
+<summary>Szafraniec et al. (2026)</summary>
+
+- **Authors:** Artur Szafraniec, Olga Krężel, Maciej Krężel, Zuzanna Kalinowska, Hanna Aleksandrowicz, Marcelina Rybińska
+- **Institutes:** Nicolaus Copernicus University, Toruń, Poland
+- **Publisher:** Journal of Education, Health and Sport
+- **Link:** [DOI](https://doi.org/10.12775/JEHS.2026.88.69423)
+
+</details>
+
+## Summary
+
+This publication reinforces the biological reality of ME/CFS as a system-wide failure of energy production rather than a psychological condition. By highlighting post-exertional malaise as the central feature, it validates the patient experience and provides a scientific rationale for pacing as a critical management strategy. It also underscores the complexity of the disease's pathophysiology, involving immune, metabolic, and autonomic systems.
+
+## What was researched?
+
+This review examines the complex pathophysiology of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome, with a primary focus on the biological mechanisms of post-exertional malaise and cellular energy failure.
+
+## Why was it researched?
+
+The research was prompted by the need to understand the biological basis of the profound functional decline seen in patients, as the condition currently lacks validated diagnostic biomarkers.
+
+## How was it researched?
+
+The authors conducted a comprehensive narrative review of existing clinical frameworks and analyzed evidence regarding immune dysregulation, metabolic abnormalities, and autonomic dysfunction.
+
+## What has been found?
+
+The findings indicate that ME/CFS involves a multifactorial breakdown of energy homeostasis driven by mitochondrial abnormalities, immune dysregulation, and gut dysbiosis. While no single diagnostic biomarker was identified, the review suggests that multi-omic signatures show promise for future clinical application.
+
+## Discussion
+
+The study emphasizes that diagnosis remains purely clinical and requires the thorough exclusion of alternative medical and psychiatric conditions. It notes that the significant heterogeneity among patients complicates the search for universal treatments and diagnostic tools.
+
+## Conclusion & Future Work
+
+Management should focus on supportive care and individualized pacing to prevent symptom exacerbation. Further research into metabolic and immune signatures is essential for improving diagnostic accuracy and developing targeted therapies.
+
+
+
+---
+
+---
+title: "Post-Acute Sequelae of COVID-19 Persist Over 3 Years in Acute Lung Injury/Acute Respiratory Distress Syndrome Survivors But Are Not Associated With Persistent Thromboinflammation or Endothelial Dysfunction"
+tags:
+- ➕ 2026-03-15
+- 🧪 Biomarker
+created: '2026-03-12'
+published: '2026-03-12'
+---
+
+<details>
+<summary>Jones et al. (2026)</summary>
+
+- **Authors:** Ansley E. Jones, Zain Khan
+- **Institutes:** Division of Pulmonary, Allergy, and Critical Care, Columbia University Vagelos College of Physicians and Surgeons, New York, NY
+- **Publisher:** Critical Care Explorations
+- **Link:** [DOI](https://doi.org/10.1097/CCE.0000000000001390)
+
+</details>
+
+## Summary
+
+This research demonstrates that for many survivors of severe COVID-19, the recovery process extends far beyond the initial illness, with symptoms like fatigue and brain fog persisting for at least three years. Crucially, the study clarifies that these long-term issues are likely not caused by the same inflammatory or vascular damage markers used to assess acute severity. This finding directs the medical community to look for different biological causes and treatments for long-haul COVID rather than relying on acute-phase interventions.
+
+## What was researched?
+
+This study investigated the long-term persistence of Post-Acute Sequelae of COVID-19 (PASC) over three years in survivors of COVID-19-related acute lung injury or acute respiratory distress syndrome. It specifically examined whether persistent symptoms were linked to biomarkers of inflammation, endothelial dysfunction, or complement activation.
+
+## Why was it researched?
+
+Inflammation and vascular issues are known to drive severe acute COVID-19 cases during the hospitalization phase. Researchers sought to determine if these same mechanisms remain active and contribute to the prolonged symptoms experienced by survivors years after their initial discharge.
+
+## How was it researched?
+
+The study followed a diverse cohort of survivors with a mean age of 56 years, measuring PASC symptoms—including fatigue, brain fog, and post-exertional malaise—at 15 months and 3 years post-diagnosis. Physical performance was assessed using the 6-minute walk distance and frailty scales. Blood samples were analyzed for specific inflammatory, endothelial, and complement biomarkers to find potential correlations with these long-term clinical outcomes.
+
+## What has been found?
+
+PASC remained present in 26% of survivors at both the 15-month and 3-year follow-ups. While persistent symptoms were significantly associated with physical frailty and reduced walking capacity, they were not associated with elevated levels of the inflammatory or endothelial biomarkers typically seen in acute COVID-19. This suggests that the biological drivers of long-term PASC likely differ from the mechanisms that cause severe acute illness.
+
+## Discussion
+
+A major strength is the long-term follow-up of a diverse cohort of severe COVID-19 survivors over three years. However, the study's focus on a specific set of biomarkers means other pathways, such as autoantibodies or metabolic changes, were not explored. The findings highlight the complexity of PASC and the urgent need for more comprehensive multi-omic investigations.
+
+## Conclusion & Future Work
+
+PASC continues to impact a significant portion of severe survivors for at least three years and is closely tied to physical frailty. Future research should shift away from standard acute biomarkers toward broader multi-omic approaches to uncover the true underlying mechanisms of chronic illness.
 
 
 
