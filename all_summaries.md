@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-03-15 09:27:10*
+*Generated on: 2026-03-22 02:54:58*
 
 ---
 
@@ -10968,6 +10968,58 @@ A lightweight diagnostic tool using routine objective biomarkers is both feasibl
 ---
 
 ---
+title: "Post-acute sequelae of COVID-19: A disorder of impaired innate immune resolution – A narrative review"
+tags:
+- ➕ 2026-03-22
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-03-01'
+published: '2026-03-01'
+---
+
+<details>
+<summary>Sefik et al. (2026)</summary>
+
+- **Authors:** Esen Sefik, Rihao Qu, Caroline Junqueira, Eleanna Kaffe, Haris Mirza, Jun Zhao, J. Richard Brewer, Ailin Han, Holly R. Steach, Benjamin Israelow, Holly N. Blackburn, Sofia Velazquez, Akiko Iwasaki
+- **Institutes:** Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA, Howard Hughes Medical Institute, Yale University School of Medicine, New Haven, CT, USA, Program in Cellular and Molecular Medicine, Boston Children's Hospital, Boston, MA, USA
+- **Publisher:** Clinical Immunology
+- **Link:** [DOI](https://www.sciencedirect.com/science/article/pii/S1521661626000392)
+
+</details>
+
+## Summary
+
+This review consolidates the evidence that Long COVID is driven by a failure of the innate immune system to return to a baseline state after infection. By identifying specific persistent inflammatory triggers in lung macrophages, it opens the door for targeted therapies that focus on 'resolving' inflammation rather than just suppressing it. This paradigm shift suggests that treatments like inflammasome inhibitors could potentially halt the chronic cycle of symptoms in PASC patients.
+
+## What was researched?
+
+This narrative review examined the hypothesis that Post-Acute Sequelae of COVID-19 (PASC) is fundamentally a disorder characterized by the failure of the innate immune system to resolve inflammation.
+
+## Why was it researched?
+
+Despite the clearance of active infection, 10-20% of patients experience chronic symptoms, necessitating an investigation into why the immune-inflammatory response remains pathologically sustained in these individuals.
+
+## How was it researched?
+
+The authors synthesized findings from human patient cohorts and advanced humanized mouse models (MISTRG6-hACE2) to track the transition from acute infection to chronic inflammatory states.
+
+## What has been found?
+
+The research highlights that lung-resident human macrophages can harbor viral RNA and maintain active inflammasomes, leading to the continuous release of pro-inflammatory cytokines like IL-1 and IL-18. This state of 'impaired resolution' is further driven by a sustained interferon response and high levels of specific IgG antibodies that may enhance macrophage infection. Blocking these pathways with Remdesivir 💊 or anti-IFNAR2 💊 in models was shown to attenuate overactive immune responses.
+
+## Discussion
+
+The review discusses the tension between viral persistence and autoimmunity, suggesting that innate immune 'memory' and persistent viral products prevent the natural shutdown of the inflammatory cascade. A significant finding is that inhibiting the NLRP3 inflammasome 💊 can reverse lung pathology but may also lead to the release of infectious virus, suggesting a delicate balance in treatment.
+
+## Conclusion & Future Work
+
+Long COVID is defined by persisting immunological dysfunction where the innate immune system fails to 'downgrade' after the acute phase. Future research should prioritize pro-resolving therapies and clinical trials targeting the inflammasome-macrophage axis.
+
+
+
+---
+
+---
 title: "Microbiota-derived extracellular vesicles link intestinal dysbiosis to neuroimmune activation in long COVID"
 tags:
 - ➕ 2026-03-08
@@ -11277,6 +11329,58 @@ Chronic mast cell activation appears to be a plausible cause for the persistence
 ---
 
 ---
+title: "Effect of Prolong Life With Nine Turn Method on chronic fatigue syndrome clinical symptoms and roles of gut microbiota: a exploratory randomized controlled trial"
+tags:
+- ➕ 2026-03-15
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-03-08'
+published: '2026-03-08'
+---
+
+<details>
+<summary>Cui et al. (2026)</summary>
+
+- **Authors:** Jiahe Cui, Fangfang Xie, Yanli You, Yuanjia Gu, Jiatuo Xu, Fei Yao
+- **Institutes:** Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, ChangHai Hospital, Naval Medical University
+- **Publisher:** Complementary Therapies in Medicine
+- **Link:** [DOI](https://doi.org/10.1016/j.ctim.2026.103353)
+
+</details>
+
+## Summary
+
+This exploratory trial suggests that the 'Prolong Life With Nine Turn' (YNJZ) Qigong method is a viable non-drug intervention for managing ME/CFS symptoms. The study demonstrates that this traditional mind-body exercise can achieve clinical improvements in fatigue and mental health comparable to or slightly better than cognitive behavioral therapy. Furthermore, the research links these clinical benefits to physiological changes in the gut-brain axis, highlighting a potential mechanism for how physical movement and abdominal massage influence systemic fatigue.
+
+## What was researched?
+
+The study investigated the effectiveness and safety of the 'Prolong Life With Nine Turn' (YNJZ) Qigong method on fatigue, sleep quality, and psychological symptoms in patients with ME/CFS. It also explored the role of the gut microbiota and brain activity in mediating these clinical effects.
+
+## Why was it researched?
+
+ME/CFS is a complex disorder with limited effective treatments; researchers sought to evaluate traditional Chinese mind-body exercises as a safe alternative. The study aimed to clarify the relationship between gastrointestinal function, the gut-brain axis, and persistent fatigue.
+
+## How was it researched?
+
+This was an exploratory randomized controlled trial involving 90 participants diagnosed with ME/CFS, divided into a YNJZ Qigong group and a Cognitive Behavioral Therapy (CBT) group. Participants practiced the intervention for 12 weeks, and outcomes were measured using the Multidimensional Fatigue Inventory (MFI-20), sleep quality scales (PSQI), and gut microbiota analysis.
+
+## What has been found?
+
+Both the YNJZ and CBT groups showed significant improvements in fatigue, sleep, anxiety, and depression scores. The YNJZ group achieved a clinical effective rate of 62.22%, which was slightly higher than the 50.00% observed in the CBT group. Additionally, the study found correlations between symptom relief and changes in regional brain activity and peripheral biomarkers like Neuropeptide Y.
+
+## Discussion
+
+The study suggests that YNJZ is a feasible rehabilitation method for ME/CFS, though the exploratory nature and small sample size are noted limitations. While clinical improvements were clear, the long-term sustainability of these effects requires further investigation.
+
+## Conclusion & Future Work
+
+The YNJZ Qigong method is an effective complementary therapy for reducing ME/CFS symptoms and improving quality of life. Future large-scale trials are recommended to determine the optimal frequency and intensity of the intervention.
+
+
+
+---
+
+---
 title: "Long COVID (Post-COVID-19): Analysis of the Multisystem Clinical Spectrum and the Regional Landscape in Mexico and Latin America"
 tags:
 - ➕ 2026-03-15
@@ -11477,6 +11581,58 @@ A major strength is the long-term follow-up of a diverse cohort of severe COVID-
 ## Conclusion & Future Work
 
 PASC continues to impact a significant portion of severe survivors for at least three years and is closely tied to physical frailty. Future research should shift away from standard acute biomarkers toward broader multi-omic approaches to uncover the true underlying mechanisms of chronic illness.
+
+
+
+---
+
+---
+title: "Evidence of White Matter Neuroinflammation in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Diffusion‐Based Neuroinflammation Imaging Study"
+tags:
+- ➕ 2026-03-22
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-03-16'
+published: '2026-03-16'
+---
+
+<details>
+<summary>Yu et al. (2026)</summary>
+
+- **Authors:** Qiang Yu, Kiana Kothe, Richard A. Kwiatek, Peter Del Fante, Anya Bonner, Vince D. Calhoun, Zuyao Y. Shan
+- **Institutes:** Sunshine Coast Mind and Neuroscience – Thompson Institute, University of the Sunshine Coast, Birtinya, Queensland, Australia, Tri-institutional Center for Translational Research in Neuroimaging and Data Science (TReAD), Georgia State University, Atlanta, GA, USA, University of Adelaide, Adelaide, South Australia, Australia
+- **Publisher:** Human Brain Mapping (Wiley)
+- **Link:** [DOI](https://doi.org/10.1002/hbm.70505)
+
+</details>
+
+## Summary
+
+This research provides objective evidence that ME/CFS involves measurable inflammation within the brain's white matter, validating the biological nature of the disease. By utilizing advanced imaging, researchers identified specific signs of edema and cellular changes that are invisible to standard MRI scans. These findings help explain why patients often have 'normal' results despite severe symptoms. The correlation between these brain changes and clinical disability levels suggests these imaging markers could serve as much-needed diagnostic biomarkers. This discovery moves the field closer to targeted therapies designed to address neuroinflammation directly.
+
+## What was researched?
+
+This study investigated the presence of white matter neuroinflammation in ME/CFS using an advanced Neuroinflammation Imaging (NII) model. The researchers aimed to identify specific microstructural brain changes that correlate with clinical symptoms and disease severity.
+
+## Why was it researched?
+
+ME/CFS has long been suspected to involve neuroinflammation, but conventional MRI techniques like Diffusion Tensor Imaging (DTI) have provided inconsistent and poorly characterized results. Advanced imaging models were required to detect subtle inflammatory signatures such as edema and cellular infiltration in vivo.
+
+## How was it researched?
+
+Researchers analyzed diffusion MRI data from 67 ME/CFS patients and 67 age- and gender-matched healthy controls. They calculated seven NII-derived metrics—including hindered water ratio and restricted fraction—to assess brain abnormalities and compared these results with conventional DTI metrics. Multiple regression analysis was used to examine the relationship between these brain imaging markers and clinical measures of mental health, sleep quality, disability, and disease duration.
+
+## What has been found?
+
+Patients with ME/CFS exhibited widespread white matter abnormalities characterized by signs of cerebral edema, cellular changes, and axonal reorganization. Specifically, lower levels of certain NII markers were significantly associated with worse mental health and increased levels of disability. In contrast, conventional DTI failed to show significant differences between the groups or meaningful clinical associations. Higher fiber fraction was notably associated with lower disease severity in the patient group.
+
+## Discussion
+
+The findings suggest that NII-derived metrics are far more sensitive than traditional imaging methods for detecting the neuroinflammatory pathophysiology of ME/CFS. A key strength of the study is the use of a rigorously matched cohort and the identification of associations between imaging markers and functional disability. The research highlights the potential for these specific white matter changes to explain the diverse symptom profile of the disorder.
+
+## Conclusion & Future Work
+
+The study concludes that white matter neuroinflammation is a hallmark of ME/CFS pathophysiology. These advanced imaging indices provide sensitive biomarkers that could aid in diagnosis and treatment monitoring. Future research is encouraged to validate these markers in larger, longitudinal trials.
 
 
 
