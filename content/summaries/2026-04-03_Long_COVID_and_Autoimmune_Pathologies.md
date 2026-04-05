@@ -1,5 +1,5 @@
 ---
-title: "ЗВ'ЯЗОК МІЖ COVID-19 ТА ВІДДАЛЕНИМИ НАСЛІДКАМИ: АУТОІМУННІ ПАТОЛОГІЇ ТА СИНДРОМ ПОСТКОВІДНОГО СТАНУ (LONG COVID). СТРАТЕГІЇ РЕАБІЛІТАЦІЇ ТА ПРОФІЛАКТИКИ"
+title: "Long COVID and Autoimmune Pathologies: Rehabilitation and Prevention Strategies"
 tags:
 - ➕ 2026-04-05
 - 💊 Treatment
