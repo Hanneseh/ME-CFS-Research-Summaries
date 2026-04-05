@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-03-29 04:01:47*
+*Generated on: 2026-04-05 04:02:27*
 
 ---
 
@@ -648,6 +648,59 @@ This trial aims to see if an approved drug called Vericiguat 💊 can relieve pr
         - Currently using PDE-5 inhibitors (like sildenafil, tadalafil) or nitrates.
         - Received a COVID-19 vaccination within 4 weeks before joining the study.
         - Individuals who are pregnant or breastfeeding.
+
+
+---
+
+---
+title: "WASF3 disrupts mitochondrial respiration and may mediate exercise intolerance in myalgic encephalomyelitis/chronic fatigue syndrome"
+tags:
+- ➕ 2026-04-05
+- ⭐ Landmark
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2023-08-14'
+published: '2023-08-14'
+---
+
+<details>
+<summary>Wang et al. (2023)</summary>
+
+- **Authors:** Ping-yuan Wang, Jin Ma, Young-Chae Kim, Annie Y. Son, Abu Mohammad Syed, Chengyu Liu, Mateus P. Mori, Rebecca D. Huffstutler, JoEllyn L. Stolinski, S. Lalith Talagala, Ju-Gyeong Kang, Brian T. Walitt, Avindra Nath, Paul M. Hwang
+- **Institutes:** Cardiovascular Branch, National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, NIH MRI Research Facility, National Institute of Neurological Disorders and Stroke, NIH, Bethesda, MD, Clinical Neurosciences Program, National Institute of Neurological Disorders and Stroke, NIH, Bethesda, MD
+- **Publisher:** Proceedings of the National Academy of Sciences (PNAS)
+- **Link:** [DOI](https://doi.org/10.1073/pnas.2302738120)
+
+</details>
+
+## Summary
+
+This study identifies WASF3 as a molecular link between endoplasmic reticulum stress and the debilitating fatigue seen in ME/CFS. By demonstrating how this protein physically blocks energy production in muscles, the research opens a new avenue for diagnostic markers and targeted treatments. These findings may also have significant implications for understanding related conditions, such as Long COVID and rheumatic diseases.
+
+## What was researched?
+
+The study investigated how the protein WASF3 affects mitochondrial energy production and whether its dysregulation contributes to exercise intolerance in ME/CFS.
+
+## Why was it researched?
+
+While ME/CFS patients suffer from severe energy depletion, the underlying molecular mechanism for this bioenergetic deficiency has remained largely unknown. Researchers sought to identify specific molecules that impair muscle metabolism under conditions of cellular stress.
+
+## How was it researched?
+
+Researchers performed a detailed clinical investigation of a patient with chronic fatigue, generated transgenic mice overexpressing WASF3, and analyzed skeletal muscle biopsies from a cohort of ME/CFS patients. They utilized advanced imaging, exercise testing, and molecular assays to track how WASF3 interacts with mitochondrial complexes and how ER stress inhibitors like Salubrinal 💊 and Tauroursodeoxycholic acid (TUDCA) 💊 affect this process.
+
+## What has been found?
+
+The study found that WASF3 levels are elevated in the muscle of ME/CFS patients due to endoplasmic reticulum stress. This excess WASF3 physically interferes with the assembly of mitochondrial 'supercomplexes,' specifically preventing Complex III and Complex IV from working together efficiently. In mice, high WASF3 levels led to a 50% reduction in running capacity and increased lactic acid. Reducing ER stress in patient cells successfully lowered WASF3 levels and restored normal mitochondrial respiration.
+
+## Discussion
+
+The findings suggest that 'ER stress response failure' is a key driver of mitochondrial dysfunction in ME/CFS. While the initial discovery involved a patient with a specific genetic mutation, the confirmation in a broader ME/CFS cohort suggests a more universal mechanism. Future research must determine what triggers the initial ER stress in these patients.
+
+## Conclusion & Future Work
+
+WASF3 is a critical mediator of exercise intolerance that could serve as a drug target. Modulating ER stress pathways offers a promising therapeutic strategy to improve bioenergetics in patients with ME/CFS and potentially Long COVID.
+
 
 
 ---
@@ -2102,6 +2155,59 @@ The study is designed with strict eligibility criteria, excluding patients with 
 ## Conclusion & Future Work
 
 The final results of this study will contribute to the broader understanding of daratumumab’s 💊 role in treating ME/CFS and may provide a foundation for future therapeutic interventions for the condition.
+
+---
+
+---
+title: "R9AP is a common receptor for EBV infection in epithelial cells and B cells"
+tags:
+- ➕ 2026-04-05
+- ⭐ Landmark
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2025-06-18'
+published: '2025-06-18'
+---
+
+<details>
+<summary>Li et al. (2025)</summary>
+
+- **Authors:** Yan Li, Hua Zhang, Cong Sun, Xiao-Dong Dong, Chu Xie, Yuan-Tao Liu, Ruo-Bin Lin, Xiang-Wei Kong, Zhu-Long Hu, Xiao-Yan Ma, Dan-Ling Dai, Qian-Ying Zhu, Yu-Chun Li, Ying Li, Shang-Xin Liu, Li Yuan, Peng-Hui Zhou, Song Gao, Ya-Ping Tang, Jin-Ying Yang, Ping Han, Andrew T. McGuire, Bo Zhao, Jin-Xin Bei, Erle Robertson, Yi-Xin Zeng, Qian Zhong, Mu-Sheng Zeng
+- **Institutes:** Sun Yat-sen University Cancer Center, Guangzhou, China, State Key Laboratory of Oncology in South China, Guangzhou, China, Collaborative Innovation Center for Cancer Medicine, Guangzhou, China
+- **Publisher:** Nature
+- **Link:** [DOI](https://doi.org/10.1038/s41586-025-09166-w)
+
+</details>
+
+## Summary
+
+This landmark study identifies R9AP as the first universal receptor for Epstein-Barr virus (EBV), solving a decades-old mystery regarding how the virus enters both B cells and epithelial cells. By pinpointing a shared 'lock' used by the virus, the research provides a critical molecular target for broad-spectrum vaccines and antiviral therapies. Given EBV's role in cancers and autoimmune diseases like multiple sclerosis, this discovery offers a new pathway for global disease prevention.
+
+## What was researched?
+
+Researchers investigated the existence of a common host receptor that facilitates Epstein-Barr virus (EBV) entry into its two primary targets, B cells and epithelial cells. The study specifically explored the interaction between host surface proteins and the viral gH/gL glycoprotein complex.
+
+## Why was it researched?
+
+EBV infects the vast majority of the global population and is a major driver of infectious mononucleosis, several cancers, and autoimmune conditions. While receptors for B cell entry were previously identified, the mechanism for epithelial infection remained elusive, and a universal entry point was unknown.
+
+## How was it researched?
+
+The team used high-efficiency in vitro infection models and library screening to identify R9AP as a candidate receptor. They validated its role through CRISPR/Cas9 genetic knockout, siRNA silencing, the application of R9AP-derived peptides 💊, and the use of neutralizing antibodies such as AMMO1 💊 in both cell cultures and humanized mouse models.
+
+## What has been found?
+
+R9AP was identified as a crucial universal receptor that binds directly to the EBV gH/gL complex to trigger membrane fusion. The study found that inhibiting R9AP significantly blocks infection in both cell types, while its overexpression promotes viral uptake. Furthermore, R9AP was shown to cooperate with cell-specific co-receptors like HLA class II in B cells and EphA2 in epithelial cells.
+
+## Discussion
+
+The findings challenge the long-standing paradigm that EBV uses entirely distinct entry mechanisms for different host cells. While R9AP is established as an essential common receptor, the researchers note that other factors in the microenvironment may still influence specific cell susceptibility in vivo. The interaction between R9AP and the gH/gL complex represents a highly vulnerable target for therapeutic intervention.
+
+## Conclusion & Future Work
+
+R9AP is the first confirmed universal receptor for EBV entry into both B cells and epithelial cells. The discovery marks R9AP as a high-priority target for the development of prophylactic vaccines and next-generation antiviral treatments.
+
+
 
 ---
 
@@ -5076,6 +5182,58 @@ The authors highlight that the autonomic burden in HSD and h-EDS is often undere
 ## Conclusion & Future Work
 
 The researchers conclude that women with HSD and h-EDS face a profound multisystemic health challenge characterized by severe dysautonomia and poor quality of life. They emphasize the need for a multidisciplinary approach to treatment that addresses the various comorbidities. Future research is needed to investigate the underlying mechanisms of this disease cluster and to develop more effective, targeted therapies for this patient population.
+
+
+---
+
+---
+title: "Clinical Trial: Epstein-Barr Virus (EBV) gH/​gL/​gp42-Ferritin Nanoparticle Vaccine With or Without gp350-Ferritin in Healthy Adults With or Without EBV Infection"
+tags:
+- ➕ 2026-04-05
+- 💊 Treatment
+- ⏳ Trial
+created: '2025-10-15'
+published: '2025-10-15'
+---
+
+<details>
+<summary>Cohen (2025)</summary>
+
+- **Authors:** Jeffrey I. Cohen
+- **Institutes:** National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH)
+- **Publisher:** ClinicalTrials.gov
+- **Link:** [DOI](https://clinicaltrials.gov/study/NCT06908096)
+
+</details>
+
+## Summary
+
+This Phase 1 trial evaluates a novel nanoparticle vaccine targeting EBV, which could represent a breakthrough in preventing infectious mononucleosis and associated chronic conditions like ME/CFS and Multiple Sclerosis. By using advanced ferritin-nanoparticle technology, the research seeks to provide more robust and long-lasting immunity than previous vaccine attempts. If successful, this could fundamentally change the prevention and management of EBV-related diseases and their long-term sequelae.
+
+## What was researched?
+
+This phase 1 study investigates the safety, tolerability, and immune response of an adjuvanted EBV gH/gL/gp42-ferritin nanoparticle vaccine 💊, administered with or without an additional gp350-ferritin vaccine 💊.
+
+## Why was it researched?
+
+Epstein-Barr virus (EBV) is a primary trigger for infectious mononucleosis and has strong links to autoimmune diseases and certain cancers. Preventing the initial infection or reducing viral load is hypothesized to lower the risk of these severe long-term complications, including potential post-viral syndromes.
+
+## How was it researched?
+
+The researchers are conducting an open-label and randomized trial involving healthy adults aged 18 to 29. Participants receive a three-dose vaccination regimen over several months, with cohorts including both EBV-negative and EBV-positive individuals to test safety and immunogenicity across different baseline statuses.
+
+## What has been found?
+
+Preclinical data in animal models showed that these nanoparticle vaccines generate high levels of neutralizing antibodies that block the virus from entering cells. The trial is currently assessing whether these results translate to humans, specifically focusing on local side effects and the production of protective antibodies.
+
+## Discussion
+
+The study is in its early stages, meaning it focuses on safety rather than long-term efficacy against disease. However, the use of nanoparticle delivery is a significant technological advancement over older protein-subunit designs, potentially offering stronger protection.
+
+## Conclusion & Future Work
+
+The study aims to determine if the vaccine is safe and capable of inducing a potent immune response in humans. Success in this phase will lead to larger trials to test the vaccine's ability to prevent EBV-related illnesses and their chronic consequences.
+
 
 
 ---
@@ -8802,6 +8960,58 @@ The results provide in vivo evidence that brain energy metabolism is impaired in
 ---
 
 ---
+title: "Progress towards an EBV vaccine: Results of a Phase I, First-In-Human EBV gp350 Ferritin Nanoparticle Vaccine Candidate adjuvanted with Matrix-M®"
+tags:
+- ➕ 2026-04-05
+- ⭐ Landmark
+- 💊 Treatment
+created: '2026-01-11'
+published: '2026-01-11'
+---
+
+<details>
+<summary>Durkee-Shock et al. (2026)</summary>
+
+- **Authors:** Jessica Durkee-Shock, Meghna Bagchi, Masaru Kanekiyo, Philip J. M. Brouwer, Gunilla B. Karlsson Hedestam
+- **Institutes:** Laboratory of Infectious Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland
+- **Publisher:** Oxford University Press
+- **Link:** [DOI](https://doi.org/10.1093/ofid/ofaf695.061)
+
+</details>
+
+## Summary
+
+This trial represents a major milestone in EBV research, providing the first human evidence that nanoparticle technology can generate potent, durable immunity against the virus. For the ME/CFS community, this progress is vital as EBV-induced mononucleosis is a primary risk factor for developing chronic fatigue syndromes. Preventing the initial infection could theoretically prevent a significant percentage of new ME/CFS cases.
+
+## What was researched?
+
+This Phase I clinical trial evaluated the safety and immune response of a novel EBV gp350 ferritin nanoparticle vaccine 💊 adjuvanted with Matrix-M. The study aimed to determine if the vaccine could safely elicit protective levels of neutralizing antibodies in humans.
+
+## Why was it researched?
+
+No approved EBV vaccine currently exists despite the virus's association with mononucleosis, multiple sclerosis, and various cancers. Since mononucleosis is a frequent precursor to ME/CFS, a preventative vaccine could significantly reduce the population-wide risk of developing post-viral fatigue.
+
+## How was it researched?
+
+The open-label trial enrolled 40 healthy adults split into EBV-seropositive and EBV-seronegative groups. Participants received three 50-μg doses of the nanoparticle vaccine over a six-month period. Researchers monitored safety through adverse events and measured immunogenicity using neutralizing antibody titers for up to 540 days.
+
+## What has been found?
+
+The vaccine was well-tolerated, with most side effects being mild symptoms like injection site pain and headaches. Seronegative participants showed a 67-fold increase in neutralizing antibodies, reaching levels 3.2 times higher than natural infection titers. These elevated antibody levels remained durable for at least one year, and no seronegative participants contracted EBV during the study.
+
+## Discussion
+
+The study was limited by its small sample size and lack of a placebo control group. However, the use of nanoparticle technology successfully mimicked the virus's surface, leading to a much stronger immune response than previous vaccine attempts.
+
+## Conclusion & Future Work
+
+The EBV gp350 ferritin nanoparticle vaccine is safe and highly immunogenic in humans. These results support the transition to larger Phase II trials to assess clinical efficacy in broader populations.
+
+
+
+---
+
+---
 title: "Immunosenescence-Driven Hemodynamic Dysregulation and Cognitive Impairment in ME/CFS: An Integrative Perspective"
 tags:
 - ➕ 2026-01-25
@@ -10297,6 +10507,58 @@ The TIMES tool is a stable and valid assessment of ME/CFS symptoms suitable for 
 ---
 
 ---
+title: "Transgenic mouse-derived human monoclonal antibodies targeting EBV gp350 and gp42 provide basis for therapeutic development"
+tags:
+- ➕ 2026-04-05
+- ⭐ Landmark
+- 💊 Treatment
+created: '2026-02-17'
+published: '2026-02-17'
+---
+
+<details>
+<summary>Chhan et al. (2026)</summary>
+
+- **Authors:** Chhan CB, Lang K, Davis AR, Wan YH, Aldridge NT, Kher G, Scharffenberger SC, Hardy SR, Iureniev R, Giltiay NV, Edwards KR, Radtke S, Kiem HP, Pancera M, McGuire AT
+- **Institutes:** Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center, Seattle, WA, Department of Global Health, University of Washington, Seattle, WA, Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, Stem Cell and Gene Therapy Program, Translational Science and Therapeutics Division, Fred Hutchinson Cancer Center, Seattle, WA
+- **Publisher:** Cell Reports Medicine
+- **Link:** [DOI](https://doi.org/10.1016/j.xcrm.2026.102618)
+
+</details>
+
+## Summary
+
+This research provides a potential breakthrough for individuals at risk of EBV-related complications, including those with ME/CFS and Multiple Sclerosis where EBV is often implicated as a driver of disease. By creating the first human-type antibodies that can effectively block viral entry, the study moves closer to a long-awaited treatment for one of the world's most common viruses. The identification of specific binding sites also accelerates the progress toward a preventative EBV vaccine.
+
+## What was researched?
+
+This study explored the development and effectiveness of human monoclonal antibodies derived from transgenic mice that target the Epstein-Barr virus (EBV) glycoproteins gp350 and gp42.
+
+## Why was it researched?
+
+EBV is a widespread virus linked to infectious mononucleosis, various cancers, and autoimmune conditions like Multiple Sclerosis, yet there are currently no approved vaccines or targeted treatments.
+
+## How was it researched?
+
+Researchers used a specialized transgenic mouse model to generate ten genetically human neutralizing antibodies. These antibodies were then tested in 'humanized' mice with human immune systems to evaluate their ability to prevent EBV infection and structural analyses were conducted to map their binding sites.
+
+## What has been found?
+
+The study identified a gp42 mAb 💊 that provided significant protection against EBV infection in mice, while a gp350 mAb 💊 offered partial protection. These antibodies successfully blocked the virus from attaching to receptors on B cells, which is the primary route the virus uses to infect the human immune system.
+
+## Discussion
+
+The use of transgenic mice allowed for the creation of fully human antibodies, which are less likely to be rejected by the human immune system than previous non-human versions. Structural mapping of these antibodies revealed new 'sites of vulnerability' on the virus that could be critical for future vaccine design.
+
+## Conclusion & Future Work
+
+The researchers concluded that these human monoclonal antibodies are promising candidates for preventing EBV-related diseases in high-risk patients, such as organ transplant recipients. This work provides a foundation for the clinical development of both therapeutic antibodies and preventive vaccines.
+
+
+
+---
+
+---
 title: "Revised estimates of the types and durations of long Covid symptoms based on claims records from 245 Million US patients"
 tags:
 - ➕ 2026-03-03
@@ -11737,6 +11999,108 @@ While iCPET is considered the gold standard for phenotyping exercise intolerance
 ## Conclusion & Future Work
 
 Accurate diagnosis via iCPET allows for personalized treatment strategies, such as volume expansion with saline 💊 or the use of pyridostigmine 💊 to improve neurovascular regulation. Future research aims to further refine these physiological profiles to predict treatment responses in larger patient cohorts.
+
+
+
+---
+
+---
+title: "SARS-CoV-2 envelope protein mitochondrial localization reveals host metabolic disruption"
+tags:
+- ➕ 2026-04-05
+- 🧪 Biomarker
+created: '2026-04-02'
+published: '2026-04-02'
+---
+
+<details>
+<summary>David et al. (2026)</summary>
+
+- **Authors:** Kandarp K. David, Shaida A. Andrabi, Guy G. Poirier, Valina L. Dawson, Ted M. Dawson
+- **Institutes:** Neuroregeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, USA, Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, USA, Solomon H. Snyder Department of Neuroscience, Johns Hopkins University School of Medicine, Baltimore, USA
+- **Publisher:** Journal of Biological Chemistry
+- **Link:** [DOI](https://doi.org/10.1016/j.jbc.2026.100289)
+
+</details>
+
+## Summary
+
+This research reveals a critical mechanism by which SARS-CoV-2 directly compromises cellular energy production by hijacking mitochondria. By identifying the specific viral protein responsible for metabolic 'rewiring,' the study opens new avenues for therapeutic targets that could prevent the cellular exhaustion and oxidative stress associated with both acute COVID-19 and potentially long-term post-viral syndromes like ME/CFS.
+
+## What was researched?
+
+The study investigated how the SARS-CoV-2 envelope (E) protein interacts with host cell mitochondria and its subsequent impact on cellular metabolism and structural integrity.
+
+## Why was it researched?
+
+While the E protein is known for viral assembly, researchers sought to understand its role in host cell dysfunction, specifically how it contributes to the metabolic and redox imbalances observed in infected patients.
+
+## How was it researched?
+
+Scientists used fluorescence microscopy to track protein localization, lipidomic and metabolomic profiling to measure chemical changes, and Seahorse flux analysis to evaluate mitochondrial respiration in E-expressing cells.
+
+## What has been found?
+
+The E protein localizes to mitochondria, causing a significant reduction in cardiolipin 💊 and other essential lipids while disrupting the electron transport chain. This leads to decreased membrane potential, increased reactive oxygen species (ROS) retention, and a shift in metabolism toward aerobic glycolysis characterized by depleted TCA cycle intermediates.
+
+## Discussion
+
+The findings suggest that the E protein acts as a metabolic disruptor that facilitates viral replication by shifting energy resources. Although it induces high oxidative stress, it notably does not trigger immediate cell death, allowing the virus to exploit the host cell longer.
+
+## Conclusion & Future Work
+
+The SARS-CoV-2 E protein is a major driver of mitochondrial dysfunction and metabolic reprogramming. Future research should focus on blocking its mitochondrial targeting to mitigate systemic host damage.
+
+
+
+---
+
+---
+title: "Transcutaneous Auricular Vagal Nerve Stimulation Against Fatigue Syndrome in Patients with Long COVID: Results of the Randomized, Placebo-Controlled Clinical Pilot Trial COVIVA"
+tags:
+- ➕ 2026-04-05
+- 💊 Treatment
+created: '2026-04-02'
+published: '2026-04-02'
+---
+
+<details>
+<summary>Gierthmuehlen et al. (2026)</summary>
+
+- **Authors:** Mortimer Gierthmuehlen, Kirsten Schmieder, Niklas Thon, Petra Christine Gierthmuehlen, Nadine Höffken, Nina Timmesfeld
+- **Institutes:** Department of Neurosurgery, Knappschaftskrankenhaus Bochum, Ruhr University Bochum, Germany, Department of Prosthetic Dentistry, University Medical Center Duesseldorf, Heinrich Heine University, Germany
+- **Publisher:** Neurology and Therapy
+- **Link:** [DOI](https://doi.org/10.1007/s40120-026-00928-w)
+
+</details>
+
+## Summary
+
+This pilot trial demonstrates that transcutaneous auricular vagus nerve stimulation (taVNS) is a safe and feasible intervention with high patient adherence for those suffering from Long COVID. However, the study found that active stimulation was not more effective than a sham (placebo) treatment in reducing fatigue. These results suggest that while patients may experience subjective improvement, it cannot yet be definitively attributed to the electrical stimulation itself rather than a placebo effect.
+
+## What was researched?
+
+The COVIVA trial investigated the safety, feasibility, and clinical efficacy of transcutaneous auricular vagus nerve stimulation (taVNS) for treating fatigue syndrome in patients with Long COVID.
+
+## Why was it researched?
+
+Fatigue is a debilitating and common symptom of Long COVID with limited treatment options. Researchers hypothesized that non-invasive stimulation of the vagus nerve could modulate the autonomic and immune dysregulation thought to drive the condition.
+
+## How was it researched?
+
+In this randomized, single-blinded pilot study, 45 patients were assigned to receive either sham stimulation, sub-threshold taVNS, or above-threshold taVNS. Participants used a CE-certified stimulation device for four hours daily over a period of four weeks, with researchers tracking adherence and changes in fatigue, mood, and quality of life.
+
+## What has been found?
+
+The study reported high adherence, with participants averaging nearly four hours of device use per day. While fatigue and quality-of-life scores improved across all participants, there were no statistically significant differences between the active stimulation groups and the sham group. Adverse events were minor, consisting mainly of local skin irritation and mild vertigo.
+
+## Discussion
+
+The findings suggest a strong potential for a placebo effect or natural recovery over the four-week period, as the sham group improved similarly to the active groups. The study's limitations include its small sample size and the single-blinded design, which may have influenced participant reporting.
+
+## Conclusion & Future Work
+
+Although taVNS was found to be safe and well-tolerated, it did not demonstrate superiority over sham treatment for Long COVID fatigue in this cohort. Future research with larger, more homogeneous populations and objective biological markers is necessary to determine if specific stimulation parameters might be effective.
 
 
 
