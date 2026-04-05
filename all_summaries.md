@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-04-05 04:02:27*
+*Generated on: 2026-04-05 21:47:08*
 
 ---
 
@@ -163,6 +163,58 @@ The authors propose that their use of metabolically active lymphoblasts provides
 ## Conclusion & Future Work
 
 The authors conclude that ME/CFS lymphoblasts exhibit a primary inefficiency in Complex V, leading to a cascade of homeostatic compensations that maintain energy levels in a resting state.  However, because these compensatory pathways are already chronically activated, the cells may be unable to respond to acute increases in energy demand, which could be a cellular basis for post-exertional malaise.  The authors suggest future work should investigate the cause of the Complex V dysfunction and examine whether these findings are replicated in other cell types.
+
+
+---
+
+---
+title: "NEUROCOGNITIVE AND NEUROLOGICAL DISORDERS ASSOCIATED WITH COVID-19: A REVIEW OF PATHOPHYSIOLOGY, DIAGNOSIS, AND TREATMENT"
+tags:
+- ➕ 2026-04-05
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2021-01-01'
+published: '2021-01-01'
+---
+
+<details>
+<summary>Aleem (2021)</summary>
+
+- **Authors:** M. A. Aleem
+- **Institutes:** ABC Hospital, Trichy, Tamil Nadu, India, The Tamilnadu Dr. M.G.R. Medical University, Chennai, India
+- **Publisher:** World Journal of Pharmaceutical and Life Sciences (WJPLS)
+- **Link:** [DOI](https://www.wjpls.org/abstract/neurocognitive-and-neurological-disorders-associated-with-covid19-a-review-of-pathophysiology-diagnosis-and-treatment-1704)
+
+</details>
+
+## Summary
+
+This review provides a comprehensive overview of how COVID-19 functions as a multisystemic disorder rather than just a respiratory illness. By highlighting the high prevalence of neurocognitive deficits and long-term 'brain fog,' the paper helps clinicians and patients better understand the complex neurological recovery process. It underscores the necessity of including neurological evaluation as a standard part of COVID-19 management to mitigate chronic disability.
+
+## What was researched?
+
+This review analyzed the diverse neurocognitive and neurological manifestations associated with COVID-19, including central and peripheral nervous system involvement and psychiatric symptoms.
+
+## Why was it researched?
+
+The study was conducted to address the observation that approximately one-third of COVID-19 patients experience significant neurological complications, which were poorly understood during the early stages of the pandemic.
+
+## How was it researched?
+
+The author performed a systematic literature review of clinical data, post-mortem findings, and research articles published during the first waves of the pandemic. The study focused on identifying the mechanisms by which SARS-CoV-2 affects brain health and neurological function.
+
+## What has been found?
+
+The review identified multiple mechanisms of injury, such as direct viral invasion via ACE2 receptors, cytokine storms, and systemic hypoxia. Common clinical findings included anosmia, stroke, encephalitis, and persistent 'brain fog' linked to neuroinflammation. The use of corticosteroids 💊 to manage hyperinflammation and anticoagulants 💊 to prevent neurovascular complications was noted for having positive clinical outcomes in severe cases.
+
+## Discussion
+
+The author discusses how neurological symptoms are often the primary presenting signs of infection and can persist as debilitating long-term sequelae. The paper notes that a multidisciplinary approach involving neurologists and psychiatrists is essential for managing the diverse neuropsychological effects of the virus.
+
+## Conclusion & Future Work
+
+The paper concludes that COVID-19 significantly impacts the nervous system and requires early diagnostic screening. It calls for further research into the long-term cognitive health of survivors to manage the rising burden of post-viral syndromes.
+
 
 
 ---
@@ -11178,6 +11230,57 @@ The study concludes that PEM is a heterogeneous symptom with identifiable subtyp
 ---
 
 ---
+title: "CLINICAL AND LABORATORY FOLLOW-UP OF PATIENTS WITH POST-COVID-19 SYNDROME"
+tags:
+- ➕ 2026-04-05
+- 🧪 Biomarker
+created: '2026-03-01'
+published: '2026-03-01'
+---
+
+<details>
+<summary>Martins et al. (2026)</summary>
+
+- **Authors:** Luisa Caricio Martins, Evelen Coelho, Luana Wanessa Cruz Almeida, Kárila Larissa Pereira de Oliveira, Joseane Rodrigues da Silva, Patricia Ferreira Nunes, Regiane Miranda Arnund Sampaio, Rosana Maria Feio Libonati Bebiano
+- **Institutes:** Federal University of Pará, Belém, Brazil, State University of Pará, Belém, Brazil, Hospital Ophir Loyola, Belém, Brazil
+- **Publisher:** Elsevier
+- **Link:** [DOI](https://doi.org/10.1016/j.bjid.2026.105275)
+
+</details>
+
+## Summary
+
+This study highlights that even mild initial COVID-19 infections can lead to persistent and debilitating long-term symptoms, particularly brain fog and chronic fatigue. By documenting a wide array of laboratory and imaging abnormalities, the research underscores the necessity of structured, multidisciplinary follow-up for all survivors. It reinforces the understanding of Post-COVID Syndrome as a complex condition potentially driven by ongoing inflammation and autoimmunity.
+
+## What was researched?
+
+The study aimed to describe the clinical, epidemiological, and evolutionary characteristics of 92 patients diagnosed with Post-COVID Syndrome (PCS) in an outpatient setting.
+
+## Why was it researched?
+
+PCS affects a significant percentage of COVID-19 survivors, yet detailed long-term follow-up data on symptom evolution and laboratory changes remain essential for improving clinical management.
+
+## How was it researched?
+
+Researchers conducted a prospective cohort study between June 2021 and June 2022, following adult patients monthly with clinical evaluations, laboratory tests, and imaging. The cohort primarily consisted of individuals who had experienced mild forms of the initial acute infection.
+
+## What has been found?
+
+The most prevalent symptoms were brain fog (73.4%) and chronic fatigue (68.6%), followed by myalgia and arthralgia (47.8%). Laboratory findings revealed persistent changes in inflammatory activity markers, d-dimer, and blood glucose, while a substantial number of patients showed abnormalities in spirometry and echocardiograms. Although most patients showed gradual improvement, many remained symptomatic at the six-month follow-up.
+
+## Discussion
+
+The high frequency of neurological and fatigue symptoms in this cohort exceeds figures reported in some previous large-scale meta-analyses. The authors suggest that these persistent issues may be linked to viral-mediated inflammatory phenomena and autoimmunity.
+
+## Conclusion & Future Work
+
+Post-COVID Syndrome occurs frequently even after mild acute illness, necessitating rehabilitation services for all affected patients. Systematic laboratory and clinical monitoring are vital to managing the diverse manifestations of the syndrome.
+
+
+
+---
+
+---
 title: "Pipeline-optimized machine learning for chronic fatigue syndrome diagnosis: A lightweight, interpretable model using blood biochemical and metabolomic data"
 tags:
 - ➕ 2026-03-08
@@ -11487,6 +11590,58 @@ Molecular hydrogen represents a promising, low-burden therapy that warrants furt
 ---
 
 ---
+title: "Clinical practice guideline for long COVID prevention and treatment"
+tags:
+- ➕ 2026-04-05
+- ⭐ Landmark
+- 💊 Treatment
+created: '2026-03-05'
+published: '2026-03-05'
+---
+
+<details>
+<summary>Cao et al. (2026)</summary>
+
+- **Authors:** Bin Cao, Joan B. Soriano, Quanyi Wang, Ziyad Al-Aly, Xiaoying Gu, Guiqiang Wang, Yee-Sin Leo, Yang Jin, Qianling Shi, Norio Ohmagari, Enmei Liu, Roger Paredes, Hongzhou Lu, Eu Suk Kim, Dingyu Zhang, Janne Estill, Li Li, Karen Spruyt, Weizhong Yang, Yanjiang Wang, Maosheng Ran, Xufei Luo, Hui Zhang, Jiuyang Xu, Rongling Zhang, Jungang Zhao, Junxian Zhao, Rachael A. Evans, Jaehyun Jeon, Michael J. Peluso, Lee E. Errett, Wenhong Zhang, James D. Chalmers, Yaolong Chen
+- **Institutes:** National Center for Respiratory Medicine, China-Japan Friendship Hospital, Beijing, China, State Key Laboratory of Respiratory Health and Multimorbidity, Beijing, China, National Clinical Research Center for Respiratory Diseases, Beijing, China, Department of Respiratory Medicine, Capital Medical University, Beijing, China
+- **Publisher:** European Respiratory Journal
+- **Link:** [DOI](https://doi.org/10.1183/13993003.02611-2025)
+
+</details>
+
+## Summary
+
+This international guideline establishes a global standard for long COVID care, emphasizing prevention through early clinical intervention and cautioning against unproven therapies. It provides clinicians with a tiered management approach while specifically highlighting the need to screen for post-exertional malaise (PEM) before initiating physical rehabilitation.
+
+## What was researched?
+
+The guideline sought to provide evidence-based recommendations for the prevention and treatment of long COVID in adults. It specifically addressed eight clinical questions regarding various pharmacological and non-pharmacological interventions.
+
+## Why was it researched?
+
+Long COVID currently lacks standardized clinical management protocols, which often leads to inconsistent care and the potential use of ineffective treatments. This work synthesized current evidence and expert consensus to guide healthcare professionals across different clinical settings.
+
+## How was it researched?
+
+A multidisciplinary working group of 60 members from 10 countries conducted systematic reviews and three rounds of Delphi surveys with 24 international experts. The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach was applied to rate evidence certainty and the strength of the 10 resulting recommendations.
+
+## What has been found?
+
+Vaccination 💊 and the use of antiviral agents 💊 during the acute phase of COVID-19 are recommended to prevent the development of long-term symptoms. For treatment, the guideline supports the use of multi-species probiotics 💊 and cognitive behavioral therapy, but suggests against using nirmatrelvir-ritonavir or glucocorticoids for specific long-term respiratory or olfactory issues.
+
+## Discussion
+
+A significant finding is the low to moderate certainty of current evidence, which highlights the ongoing need for rigorous research. The guideline emphasizes that patients with post-exertional malaise require activity management and pacing rather than standard physical exertion.
+
+## Conclusion & Future Work
+
+The document provides a robust clinical roadmap but underscores that personalized care remains essential due to the heterogeneity of the condition. Future high-quality randomized controlled trials are urgently needed to strengthen these evidence-based recommendations.
+
+
+
+---
+
+---
 title: "ACHTSAM study protocol: outreach diagnostics and assessment of tolerability in severe ME/CFS-a pilot study"
 tags:
 - ➕ 2026-03-08
@@ -11637,6 +11792,57 @@ The study suggests that YNJZ is a feasible rehabilitation method for ME/CFS, tho
 ## Conclusion & Future Work
 
 The YNJZ Qigong method is an effective complementary therapy for reducing ME/CFS symptoms and improving quality of life. Future large-scale trials are recommended to determine the optimal frequency and intensity of the intervention.
+
+
+
+---
+
+---
+title: "Psychopharmakologisches Repurposing bei postviralen Erschöpfungssyndromen: Von der neurobiologischen Rationale zur klinischen Anwendung"
+tags:
+- ➕ 2026-04-05
+- 💊 Treatment
+created: '2026-03-08'
+published: '2026-03-08'
+---
+
+<details>
+<summary>Hartman et al. (2026)</summary>
+
+- **Authors:** Noam Hartman, Dominik Ivkic, Marie Celine Dorczok, Ina Bozic, Lutz Reinfried, Anna-Christina Moser, Gernot Fugger, Birgit Ludwig, Florian Buchmayer, Marie Spies, Ana Weidenauer, Lucie Bartova
+- **Institutes:** Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria
+- **Publisher:** Psychopraxis. Neuropraxis (Springer)
+- **Link:** [DOI](https://doi.org/10.1007/s00739-026-01152-9)
+
+</details>
+
+## Summary
+
+This review establishes a neurobiological framework for using existing psychiatric medications to treat the debilitating cognitive and emotional symptoms of Long COVID and ME/CFS. By identifying shared pathways such as neuroinflammation and neurotransmitter imbalances, it provides a scientific basis for clinicians to explore off-label treatments while awaiting definitive clinical trial results. The paper highlights that many readily available drugs may offer significant relief for the 'brain fog' and fatigue that currently lack standard curative treatments.
+
+## What was researched?
+
+The study investigated the neurobiological rationale and clinical potential of drug repurposing for Long COVID (LC) and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS). It focused on how existing psychotropic medications might address common symptoms like neuroinflammation, cognitive impairment, and neurotransmitter imbalances.
+
+## Why was it researched?
+
+Researchers sought to address the urgent need for therapeutic options for LC and ME/CFS, noting significant symptom overlap with psychiatric disorders. The work is motivated by evidence of shared biological mechanisms, including altered neuroplasticity and cerebrovascular dysfunction in post-viral states.
+
+## How was it researched?
+
+The authors conducted a comprehensive review of neurobiological findings and existing clinical case reports regarding off-label drug use. They analyzed the mechanisms of action for various substances to determine their suitability for targeting the specific neuropsychiatric symptoms observed in post-viral syndromes.
+
+## What has been found?
+
+The review identified several promising candidates for repurposing, including phytotherapeutics like Silexan 💊 and Ginkgo biloba 💊 (EGb 761). It also highlighted antidepressants such as SSRIs 💊, SNRIs 💊, Bupropion 💊, Vortioxetine 💊, Mirtazapine 💊, and Tianeptine 💊. Additionally, augmentation strategies using Aripiprazole 💊, Daridorexant 💊, or (Es)Ketamine 💊 were found to have plausible benefits based on early clinical observations.
+
+## Discussion
+
+The paper notes that while the neurobiological rationale is strong, current evidence often relies on case reports and small-scale observations. There is a critical need for large-scale, randomized controlled trials to validate these off-label approaches and ensure their efficacy specifically for the LC and ME/CFS populations.
+
+## Conclusion & Future Work
+
+Psychopharmacological repurposing is a feasible and theoretically sound approach to managing neuropsychiatric symptoms in post-viral syndromes. The authors conclude that systematic clinical testing of these substances is the necessary next step to establish standardized treatment protocols.
 
 
 
@@ -11849,6 +12055,108 @@ PASC continues to impact a significant portion of severe survivors for at least 
 ---
 
 ---
+title: "Pathophysiological Mechanisms of Post-exertional Malaise: An Integrative Analysis Based on the Metabolism-Immune-Neuro Interaction Model"
+tags:
+- ➕ 2026-04-05
+- 🧪 Biomarker
+created: '2026-03-13'
+published: '2026-03-13'
+---
+
+<details>
+<summary>Jin et al. (2026)</summary>
+
+- **Authors:** Jiao Hong Jin, Yi An, Wei Jing Hunag, Tingting Luo, Xi Wu
+- **Institutes:** Chengdu University of Traditional Chinese Medicine, Chengdu, China, The First People's Hospital of Zunyi, Zunyi, China
+- **Publisher:** Frontiers in Immunology
+- **Link:** [DOI](https://doi.org/10.3389/fimmu.2026.1774310)
+
+</details>
+
+## Summary
+
+This review provides a comprehensive framework explaining how physical or cognitive activity triggers the debilitating symptom flare known as Post-exertional Malaise. By linking metabolic failure at the cellular level to immune system overactivation and brain inflammation, it validates the experience of patients and underscores the biological necessity of pacing. This integrative model helps shift the focus toward multi-system treatments that address both energy production and inflammation simultaneously.
+
+## What was researched?
+
+The study conducted an integrative review of the biological mechanisms behind Post-exertional Malaise (PEM) in conditions like Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID.
+
+## Why was it researched?
+
+PEM is a complex and defining symptom of these conditions, yet the interaction between metabolic, immune, and neurological systems required a unified theoretical model to explain its multi-systemic nature.
+
+## How was it researched?
+
+Researchers synthesized current scientific literature to develop a 'metabolism-immune-neuro' interaction model, mapping how local metabolic stress transitions into systemic and central nervous system dysfunction.
+
+## What has been found?
+
+The analysis suggests that PEM begins with mitochondrial dysfunction, where exertion causes energy depletion and the accumulation of reactive oxygen species. These stressors act as danger signals that activate the NLRP3 inflammasome, leading to a surge of inflammatory cytokines in the bloodstream. This peripheral inflammation then crosses into the brain, triggering neuroinflammation and altering how the insular cortex processes fatigue and pain.
+
+## Discussion
+
+The proposed 'energy exhaustion-inflammation amplification' loop creates a self-perpetuating cycle that explains why recovery from minor activity is severely delayed. This model suggests that the brain's internal monitoring systems are fundamentally recalibrated by persistent inflammatory signals.
+
+## Conclusion & Future Work
+
+The researchers conclude that PEM is a multi-system failure rather than a single-organ issue. They advocate for collaborative, multi-target interventions that can disrupt this pathological cycle across metabolic and neurological pathways.
+
+
+
+---
+
+---
+title: "A hypothesis connecting dysgeusia due to defects in ATP-P2X3 signaling and fatigue in myalgic encephalomyelitis/chronic fatigue syndrome: Lessons learned from long-COVID"
+tags:
+- ➕ 2026-04-05
+- 🧪 Biomarker
+created: '2026-03-16'
+published: '2026-03-16'
+---
+
+<details>
+<summary>Srinivasan & Joseph (2026)</summary>
+
+- **Authors:** Mythily Srinivasan, Paule Valery Joseph
+- **Institutes:** Indiana University, Purdue University Indianapolis, Indianapolis, United States, National Institutes of Health, Bethesda, United States
+- **Publisher:** Frontiers in Medicine
+- **Link:** [DOI](https://doi.org/10.3389/fmed.2026.1808646)
+
+</details>
+
+## Summary
+
+This paper introduces a novel biological link between taste dysfunction and the debilitating fatigue seen in ME/CFS and Long-COVID. By identifying a specific signaling pathway involving ATP, it offers a potential new way to measure disease severity and provides a target for future diagnostic tools and treatments. The proposal of taste testing as a non-invasive screening tool could significantly simplify the clinical evaluation of patients with post-viral illnesses.
+
+## What was researched?
+
+This perspective article explores the hypothesis that defects in ATP signaling through specific receptors, namely P2X2 and P2X3, cause both taste dysfunction (dysgeusia) and the core symptoms of ME/CFS.
+
+## Why was it researched?
+
+The research aimed to identify objective biomarkers for ME/CFS by leveraging the clinical and pathological similarities between post-viral Long-COVID symptoms and traditional ME/CFS presentations.
+
+## How was it researched?
+
+The authors synthesized existing literature on cellular metabolism, inflammation, and autonomic dysregulation while utilizing data from NIH-RECOVER shared resources to support their hypothesis.
+
+## What has been found?
+
+The authors propose that impaired ATP release from Type II taste receptor cells mirrors systemic energy deficits that drive post-exertional malaise. They found that chemosensory dysfunction may serve as a potential indicator of the progression and severity of post-exertional malaise.
+
+## Discussion
+
+While acknowledging that taste issues can be complicated by external factors like nutrient deficiencies or medication side effects, the authors argue the underlying purinergic signaling mechanism remains a strong candidate for investigation.
+
+## Conclusion & Future Work
+
+The study concludes that taste dysfunction is a significant but overlooked clinical feature of ME/CFS. Future research should prioritize investigating the role of purinergic receptors in the development of post-viral chronic illnesses.
+
+
+
+---
+
+---
 title: "Evidence of White Matter Neuroinflammation in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Diffusion‐Based Neuroinflammation Imaging Study"
 tags:
 - ➕ 2026-03-22
@@ -11947,6 +12255,110 @@ A key strength is the consistent pattern found across multiple countries and lar
 ## Conclusion & Future Work
 
 ME/CFS incidence peaks in adolescence and early middle age, with early onset representing a more severe disease form. Future research should investigate the specific genetic and immunological factors that make adolescents particularly vulnerable to severe, infection-triggered disease.
+
+
+
+---
+
+---
+title: "PRIME Workshop 2: The Similarities and Distinctions between Long Covid & ME/CFS"
+tags:
+- ➕ 2026-04-05
+- 🧪 Biomarker
+- ⏳ Trial
+- 📰 News
+created: '2026-03-18'
+published: '2026-03-18'
+---
+
+<details>
+<summary>PRIME Network (2026)</summary>
+
+- **Authors:** Danny Altmann, Amy Proal, Andy Malinowski, Manoj Sivan, Nisreen Alwan
+- **Institutes:** University of Edinburgh, Edinburgh, UK, Action for ME, Bath, UK, Imperial College London, London, UK, PolyBio Research Foundation, Mercer Island, WA, USA, University of Leeds, Leeds, UK, University of Southampton, Southampton, UK, PrecisionLife, Oxford, UK
+- **Publisher:** Action for ME / PRIME Network
+- **Link:** [DOI](https://www.actionforme.org.uk/wp-content/uploads/2026/03/PRIME-Workshop-2-Programme-Talk-abstracts-.pdf)
+
+</details>
+
+## Summary
+
+This workshop represents a significant strategic alignment between ME/CFS and Long Covid research, backed by the UK Medical Research Council. By formalizing the study of shared biological pathways, the PRIME initiative aims to accelerate the delivery of precision medicine for millions of patients. The findings highlight that while the conditions have distinct origins, their core disabling mechanisms—particularly post-exertional malaise—are likely driven by the same underlying pathology.
+
+## What was researched?
+
+The workshop investigated the clinical, biological, and genetic overlaps between ME/CFS and Long Covid to identify shared disease mechanisms.
+
+## Why was it researched?
+
+Research was driven by the need to leverage the surge in Long Covid funding to benefit the long-neglected ME/CFS community and to improve diagnostic stratification and treatment discovery.
+
+## How was it researched?
+
+The PRIME project used a collaborative framework to synthesize evidence from immunology, combinatorial genetic analysis, and clinical epidemiology across international research cohorts.
+
+## What has been found?
+
+The research identified core clinical overlaps, specifically post-exertional malaise and cognitive dysfunction, while noting distinctions such as anosmia and respiratory issues more prevalent in Long Covid. Genetic studies through the Rosetta Stone project suggested shared immune pathways, and evidence of persistent infection was highlighted as a major driver in both conditions.
+
+## Discussion
+
+A key challenge discussed is the influence of varying case definitions on research outcomes and healthcare delivery. The heterogeneity of ME/CFS, which can follow non-infectious triggers, remains a critical distinction from the post-viral nature of Long Covid.
+
+## Conclusion & Future Work
+
+The integration of ME/CFS and Long Covid research into a unified infrastructure is essential for identifying biomarkers. The PRIME network aims to catalyze fifteen new research collaborations to advance these findings into clinical applications.
+
+
+
+---
+
+---
+title: "Factors involved in the improvement of prolonged symptoms in patients with COVID-19 treated with Japanese traditional (Kampo) medicine: A single-center, prospective, observational study"
+tags:
+- ➕ 2026-04-05
+- 💊 Treatment
+created: '2026-03-20'
+published: '2026-03-20'
+---
+
+<details>
+<summary>Kawamura et al. (2026)</summary>
+
+- **Authors:** Tsuyoshi Kawamura, Junko Kohno, Akiko Kikuchi, Ryutaro Arita, Shin Takayama, Tadashi Ishii
+- **Institutes:** Department of Kampo Medicine, Hachinohe City Hospital, Aomori, Japan, Department of Education and Support for Regional Medicine, Tohoku University Hospital, Miyagi, Japan, Department of Kampo and Integrative Medicine, Tohoku University Graduate School of Medicine, Miyagi, Japan
+- **Publisher:** Medicine
+- **Link:** [DOI](https://doi.org/10.1097/MD.0000000000048084)
+
+</details>
+
+## Summary
+
+This study identifies fatigue severity and treatment timing as the most critical factors influencing recovery from Long COVID. By demonstrating that early intervention with Japanese traditional (Kampo) medicine supports symptom resolution, the research provides a practical framework for managing post-viral conditions. It highlights that patients starting treatment late or presenting with high initial fatigue require more intensive clinical support. These findings offer hope for structured recovery pathways using established herbal protocols in a non-hospitalized setting.
+
+## What was researched?
+
+This study investigated factors that influence the recovery of patients with prolonged symptoms of COVID-19 (PSC) who were treated with Japanese traditional (Kampo) medicine 💊. Researchers specifically looked at how initial fatigue levels and the duration between infection and treatment onset affected outcomes.
+
+## Why was it researched?
+
+Due to the lack of standard treatments for Long COVID, there is an urgent need to evaluate the effectiveness of symptom-based therapies. This research aimed to determine if Japanese traditional medicine could improve daily functioning and identify which patients are at risk for slower recovery.
+
+## How was it researched?
+
+The researchers conducted a prospective, observational study of 114 patients at Hachinohe City Hospital between 2022 and 2023. They measured Performance Status and 16 different symptoms using a Numerical Rating Scale to track progress over a three-month treatment period.
+
+## What has been found?
+
+Patients with high baseline fatigue and those who waited more than 90 days to start treatment took significantly longer to reach recovery milestones. Specifically, the high-fatigue group was much less likely to achieve a healthy performance status within three months compared to those with milder symptoms. Early intervention was shown to be a key driver for faster clinical improvement and return to social life.
+
+## Discussion
+
+The study's single-center design and lack of a control group limit the ability to definitively prove the medicine's efficacy over natural recovery. However, the clear prognostic value of initial fatigue levels provides clinicians with a useful tool for setting patient expectations.
+
+## Conclusion & Future Work
+
+Early treatment with a tailored Kampo medicine regimen is recommended to facilitate recovery from Long COVID symptoms. High initial fatigue should be recognized as a marker for a potentially prolonged and difficult recovery process.
 
 
 
@@ -12101,6 +12513,58 @@ The findings suggest a strong potential for a placebo effect or natural recovery
 ## Conclusion & Future Work
 
 Although taVNS was found to be safe and well-tolerated, it did not demonstrate superiority over sham treatment for Long COVID fatigue in this cohort. Future research with larger, more homogeneous populations and objective biological markers is necessary to determine if specific stimulation parameters might be effective.
+
+
+
+---
+
+---
+title: "ЗВ'ЯЗОК МІЖ COVID-19 ТА ВІДДАЛЕНИМИ НАСЛІДКАМИ: АУТОІМУННІ ПАТОЛОГІЇ ТА СИНДРОМ ПОСТКОВІДНОГО СТАНУ (LONG COVID). СТРАТЕГІЇ РЕАБІЛІТАЦІЇ ТА ПРОФІЛАКТИКИ"
+tags:
+- ➕ 2026-04-05
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-04-03'
+published: '2026-04-03'
+---
+
+<details>
+<summary>Hrytsko (2026)</summary>
+
+- **Authors:** Роман Юліанович Грицко
+- **Institutes:** Danylo Halytsky Lviv National Medical University, Lviv, Ukraine
+- **Publisher:** Intermedical journal
+- **Link:** [DOI](https://doi.org/10.32782/2786-7684/2026-1-13)
+
+</details>
+
+## Summary
+
+This research provides a comprehensive framework for understanding Long COVID as a systemic autoimmune challenge rather than just a post-viral fatigue state. By explicitly addressing post-exertional malaise, the findings offer a safer and more effective pathway for patient rehabilitation. The proposed use of innovative nanotechnologies for immune modulation represents a significant step forward in preventing long-term viral sequelae.
+
+## What was researched?
+
+The study investigates the relationship between SARS-CoV-2 infection and the emergence of Long COVID and autoimmune pathologies. It focuses on identifying underlying immunopathological mechanisms and developing management strategies.
+
+## Why was it researched?
+
+As the pandemic enters an endemic phase, the long-term medical and social burden of Post-COVID syndrome remains a critical challenge for global health systems. Researchers sought to synthesize interdisciplinary knowledge to improve rehabilitation and prevention.
+
+## How was it researched?
+
+The researcher performed a critical analysis of contemporary scientific literature and international clinical trial data. The study also integrated findings from the author's own previous scientific work.
+
+## What has been found?
+
+Key findings highlight the roles of viral antigen persistence, molecular mimicry, and the formation of functional autoantibodies in driving chronic inflammation. The study identifies endothelial dysfunction as a major factor and proposes a structured, personalized rehabilitation program. Crucially, the research emphasizes the importance of accounting for post-exertional malaise during recovery.
+
+## Discussion
+
+The work suggests that effective management requires an integrated infrastructure for diagnosis and long-term monitoring. It also reviews the potential of innovative technologies, such as nanoadjuvants 💊, to modulate immune responses and prevent future complications.
+
+## Conclusion & Future Work
+
+Managing the post-pandemic era requires a multidisciplinary approach and the adaptation of healthcare systems to long-term chronic needs. Continuous monitoring of evolving virus variants remains essential for maintaining treatment efficacy.
 
 
 
