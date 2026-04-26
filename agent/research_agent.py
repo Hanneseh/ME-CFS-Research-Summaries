@@ -252,7 +252,7 @@ class ResearchAgent:
         for file in INPUT_DIR.glob("*"):
             if file.name.startswith("."): continue
             if not file.is_file(): continue
-            if file.suffix not in ['.eml', '.md']: continue 
+            if file.suffix not in ['.eml', '.md', '.txt']: continue 
             if file.name in [STAGE_1_OUTPUT.name, STAGE_2_OUTPUT.name]: continue
 
             raw_content = file.read_text(encoding='utf-8', errors='replace')

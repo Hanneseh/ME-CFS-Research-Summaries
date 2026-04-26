@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-04-25 07:02:46*
+*Generated on: 2026-04-26 05:05:01*
 
 ---
 
@@ -12470,6 +12470,57 @@ Early treatment with a tailored Kampo medicine regimen is recommended to facilit
 ---
 
 ---
+title: "Persistent fatigue in long-COVID is not associated with peripheral inflammatory or cellular stress biomarkers: A cross-sectional controlled study"
+tags:
+- ➕ 2026-04-26
+- 🧪 Biomarker
+created: '2026-03-31'
+published: '2026-03-31'
+---
+
+<details>
+<summary>Omdal et al. (2026)</summary>
+
+- **Authors:** Roald Omdal, Ole Bernt Lenning, Grete Jonsson, Jan Terje Kvaløy, Inger Marie Skoie, Geir Sverre Braut, Tore Grimstad
+- **Institutes:** Research Department, Stavanger University Hospital, Stavanger, Norway, Department of Clinical Science, University of Bergen, Bergen, Norway, Department of Medical Biochemistry, Stavanger University Hospital, Stavanger, Norway, Department of Mathematics and Physics, University of Stavanger, Stavanger, Norway, Department of Dermatology, Stavanger University Hospital, Stavanger, Norway, Department of Internal Medicine, Stavanger University Hospital, Stavanger, Norway
+- **Publisher:** Brain, Behavior, & Immunity - Health
+- **Link:** [DOI](https://doi.org/10.1016/j.bbih.2026.101226)
+
+</details>
+
+## Summary
+
+This study suggests that persistent fatigue in long-COVID cannot be explained by standard inflammatory markers or common cellular stress signals measured in the blood. For patients and researchers, this highlights the complexity of the condition and indicates that the underlying cause of fatigue likely involves biological pathways or localized tissue responses that are not captured by traditional systemic blood tests. It emphasizes the need for continued exploration of more specialized mechanisms to identify the root cause of these debilitating symptoms.
+
+## What was researched?
+
+The study investigated whether persistent fatigue in long-COVID is linked to specific markers of inflammation or cellular stress in the blood. Researchers sought to determine if common biological indicators could explain the severity of fatigue experienced by these patients.
+
+## Why was it researched?
+
+Fatigue is a dominant and disabling symptom of long-COVID, yet its biological causes remain poorly understood. Because traditional inflammatory markers often return to normal levels shortly after the initial infection, scientists need to know if other persistent systemic signals are driving the ongoing symptoms.
+
+## How was it researched?
+
+This cross-sectional study compared 48 individuals with long-COVID to 48 matched controls who had recovered from COVID-19 without lasting symptoms. The team measured blood levels of pro-inflammatory cytokines, cellular stress response proteins, and autoantibodies while assessing fatigue through validated clinical questionnaires.
+
+## What has been found?
+
+While long-COVID patients reported severe fatigue comparable to other chronic inflammatory conditions, no significant associations were found with the measured blood biomarkers. Specifically, levels of inflammatory proteins like IL-6 and TNF-α, as well as stress-related proteins like HSP90α, did not correlate with fatigue severity.
+
+## Discussion
+
+The findings suggest that the mechanisms driving fatigue in long-COVID may be localized within the central nervous system or specific tissues rather than appearing as systemic changes in the blood. The study also noted that anti-nuclear antibody (ANA) positivity was slightly higher in patients but did not directly influence fatigue levels.
+
+## Conclusion & Future Work
+
+Persistent fatigue in long-COVID is not associated with traditional peripheral inflammatory or cellular stress biomarkers. Future research should look beyond these standard indicators to find the true pathophysiological drivers of the condition.
+
+
+
+---
+
+---
 title: "Invasive cardiopulmonary exercise testing: Physiologic assessment of unexplained dyspnea and exercise intolerance"
 tags:
 - ➕ 2026-02-11
@@ -12727,6 +12778,57 @@ Managing the post-pandemic era requires a multidisciplinary approach and the ada
 ---
 
 ---
+title: "Prediction of post-COVID chronic fatigue syndrome using data mining and machine learning techniques in Isfahan COVID cohort study"
+tags:
+- ➕ 2026-04-26
+- 🧪 Biomarker
+created: '2026-04-03'
+published: '2026-04-03'
+---
+
+<details>
+<summary>Nematbakhsh et al. (2026)</summary>
+
+- **Authors:** Shayan Nematbakhsh, Noushin Mohammadifard, Roya Riahi, Mahdi Mohammadkhani, Sayed Mohsen Hosseini
+- **Institutes:** Department of Epidemiology and Biostatistics, School of Public Health, Isfahan University of Medical Sciences, Isfahan, Iran, Isfahan Cardiovascular Research Center, Cardiovascular Research Institute, Isfahan University of Medical Sciences, Isfahan, Iran, Department of Biology, School of New Sciences and Technologies, Islamic Azad University, Tehran Medical Sciences, Tehran, Iran
+- **Publisher:** Journal of Infection and Public Health
+- **Link:** [DOI](https://doi.org/10.1016/j.jiph.2026.103218)
+
+</details>
+
+## Summary
+
+By utilizing machine learning to analyze thousands of patient records, this research identifies a specific profile of individuals at high risk for developing chronic fatigue after a COVID-19 infection. The high accuracy of the Random Forest model suggests that clinical and lifestyle data—such as BMI, mood disorders, and metabolic history—can effectively predict long-term fatigue. This provides a roadmap for clinicians to intervene early with high-risk patients, potentially mitigating the long-term impact of post-viral syndromes.
+
+## What was researched?
+
+This study investigated the ability of various machine learning and data mining techniques to predict the development of post-COVID fatigue (PCF) in a large patient population. Researchers aimed to identify which clinical and demographic factors most accurately signal a risk for long-term chronic fatigue symptoms.
+
+## Why was it researched?
+
+Post-COVID fatigue is a prevalent and debilitating condition that lacks objective diagnostic criteria and predictable clinical patterns. Understanding the factors that contribute to its development is essential for developing targeted prevention and early treatment strategies.
+
+## How was it researched?
+
+The researchers analyzed data from 3,850 patients enrolled in the Isfahan COVID cohort study. They tested several predictive models, including Logistic Regression, Support Vector Machines, Decision Trees, and Random Forest, using R-Studio to handle the large dataset. Data balancing techniques were applied to ensure the accuracy of the models across different patient subgroups.
+
+## What has been found?
+
+The Random Forest model emerged as the most effective tool, achieving an 85% accuracy rate in predicting post-viral fatigue. The analysis identified 37 significant factors, with the strongest predictors being anxiety, Body Mass Index (BMI), depression, and a history of fatty liver disease. Other key predictors included neurological symptoms like tingling in the extremities, memory issues, and increased irritability.
+
+## Discussion
+
+The findings highlight that post-COVID fatigue is likely driven by a combination of psychological, metabolic, and neurological factors rather than a single cause. While the models are highly accurate, the study's focus on a specific cohort in Isfahan may limit its immediate generalizability to other global populations.
+
+## Conclusion & Future Work
+
+Machine learning offers a powerful approach for identifying patients at risk of chronic fatigue after COVID-19. Future research should focus on integrating these models into clinical practice to improve patient monitoring and early intervention.
+
+
+
+---
+
+---
 title: "Intranasal Anti-CD3 Antibody Treatment Attenuates Post-COVID Neuroinflammation and Enhances Hippocampal Neurogenesis and Cognitive Function in Mice"
 tags:
 - ➕ 2026-04-12
@@ -12927,6 +13029,316 @@ The observed shift in PEM frequency may be due to differences in viral virulence
 ## Conclusion & Future Work
 
 The frequency of PEM in Post-COVID-19 Syndrome has decreased across pandemic phases, indicating that early-wave patients may face a higher burden of ME/CFS-like symptoms. Clinical assessments for PCS should systematically include PEM screening to identify patients needing specialized energy management.
+
+
+
+---
+
+---
+title: "Shengyang Sanhuo decoction and its disassembled prescriptions improve chronic fatigue syndrome in mice: Insights from lipid metabolism and autophagy"
+tags:
+- ➕ 2026-04-26
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-04-16'
+published: '2026-04-16'
+---
+
+<details>
+<summary>Li et al. (2026)</summary>
+
+- **Authors:** Lingling Li, Yali Zhang, Hong Jiang, Xuya Zhang, Yan Fu, Weishu Li, Qiaozhi Ren, Tianxing Yi, Yi Lu
+- **Institutes:** School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100105, China
+- **Publisher:** Journal of Ethnopharmacology
+- **Link:** [DOI](https://doi.org/10.1016/j.jep.2026.121604)
+
+</details>
+
+## Summary
+
+This study provides a scientific basis for using multi-herb traditional formulas to treat chronic fatigue syndrome by repairing damaged energy and lipid metabolism pathways. By identifying how specific herb groups target different aspects of cellular health, it offers new potential biomarkers and therapeutic strategies for ME/CFS. The findings highlight the synergy between different herbal components in restoring metabolic balance and cellular recycling.
+
+## What was researched?
+
+This study investigated the therapeutic mechanisms of Shengyang Sanhuo 💊 decoction (SYSH) and its specific sub-components—a Qi-tonifying 💊 prescription and a Wind-dispelling 💊 prescription—on a mouse model of chronic fatigue syndrome (CFS).
+
+## Why was it researched?
+
+CFS is characterized by significant energy deficiency and abnormal metabolism, yet the exact pharmacological mechanisms of effective traditional treatments like SYSH remain poorly understood. Researchers aimed to validate its clinical use and explain its effects through modern scientific techniques like lipidomics and network pharmacology.
+
+## How was it researched?
+
+Researchers used a multi-stress-induced CFS mouse model to test the full SYSH formula alongside its disassembled components. They performed behavioral assessments, measured serum biomarkers, and utilized western blotting and transmission electron microscopy to evaluate autophagy and energy homeostasis. Integrated network pharmacology and lipidomics were employed to map the specific metabolic pathways affected.
+
+## What has been found?
+
+SYSH and both sub-groups significantly reduced fatigue behaviors and improved ATP levels by promoting autophagosome-lysosome formation. The Qi-tonifying group specifically helped restore phospholipids (PC/PE), whereas the Wind-dispelling group focused on balancing sphingolipids (ceramide/S1P) to improve metabolic health and energy availability.
+
+## Discussion
+
+The study confirms that the combination of different herb types in SYSH provides a synergistic effect by targeting distinct but related metabolic pathways. However, as an animal study, further clinical validation in humans is necessary to confirm these specific lipidomic changes. The research reinforces the idea that ME/CFS involves profound metabolic dysfunction that can be addressed multi-modally.
+
+## Conclusion & Future Work
+
+Shengyang Sanhuo decoction effectively alleviates CFS symptoms by regulating lipid metabolism and enhancing autophagy. The research supports the traditional theory of TCM formula compatibility by showing how different herb groups work together to restore energy balance.
+
+
+
+---
+
+---
+title: "Acute COVID-19 is associated with altered CD8 T-cells indicative of impaired ability to control Epstein–Barr virus reactivation"
+tags:
+- ➕ 2026-04-26
+- 🧪 Biomarker
+created: '2026-04-20'
+published: '2026-04-20'
+---
+
+<details>
+<summary>Stervbo et al. (2026)</summary>
+
+- **Authors:** Ulrik Stervbo, Moritz Anft, Krystallenia Paniskaki, Arturo Blazquez-Navarro, Adrian Doevelaar, Sarah Skrzypczyk, Eva Kohut, Julia Kurek, Patrizia Wehler, Sviatlana Kaliszczyk, Thorsten Brenner, Uwe Kölsch, Michael Adamzik, Michael Schmueck-Henneresse, Carmen Scheibenbogen, Sebastian Dolff, Ulf Dittmer, Oliver Witzke, Timm H. Westhoff, Nina Babel
+- **Institutes:** Center for Translational Medicine, Medical Clinic I, Marien Hospital Herne, University Hospital of the Ruhr-University Bochum, Herne, Germany, Institute of Medical Immunology, Charité – Universitätsmedizin Berlin, Berlin, Germany, Department of Infectious Diseases, West German Centre for Infectious Diseases, University Medicine Essen, University Duisburg-Essen, Essen, Germany
+- **Publisher:** Medical Microbiology and Immunology
+- **Link:** [DOI](https://doi.org/10.1007/s00430-026-00873-3)
+
+</details>
+
+## Summary
+
+This research provides a critical link between acute viral infection and the reactivation of latent herpesviruses, which is a key hypothesis in the development of Long COVID. By identifying specific T-cell markers associated with this failure of viral control, it offers a potential biological explanation for post-viral fatigue syndromes. These findings support monitoring EBV status in COVID-19 patients to better understand risks for chronic complications and post-acute sequelae.
+
+## What was researched?
+
+The study investigated the frequency of Epstein–Barr virus (EBV) reactivation during acute COVID-19 and analyzed the specific changes in CD8 T-cell populations associated with this reactivation.
+
+## Why was it researched?
+
+Researchers sought to understand why latent viruses like EBV often reactivate in COVID-19 patients and how this phenomenon relates to immune dysfunction and the potential development of Long COVID.
+
+## How was it researched?
+
+The researchers analyzed biobanked blood samples from 61 patients hospitalized with moderate to critical COVID-19. They utilized flow cytometry to assess immune cell markers and quantitative PCR (qPCR) to detect viral reactivation of EBV, CMV, and HHV-6.
+
+## What has been found?
+
+EBV reactivation was found in approximately 70% of patients across all levels of COVID-19 severity. These patients exhibited significantly lower expression of co-stimulatory markers like CD28 and CD11a on their CD8 T-cells, along with increased levels of the exhaustion marker CD57. This suggests that an altered immune state characterized by T-cell senescence is associated with the failure to control latent EBV during acute infection.
+
+## Discussion
+
+A limitation of the study is its cross-sectional design during the first pandemic wave, which may not reflect the immune dynamics of newer viral variants. However, the high incidence of EBV reactivation regardless of COVID-19 severity is a significant finding that underscores the systemic immune impact of the virus.
+
+## Conclusion & Future Work
+
+The study concludes that acute COVID-19 is associated with an altered CD8 T-cell phenotype indicative of replicative senescence. This impairment likely facilitates EBV reactivation, which may act as a significant driver for long-term health complications.
+
+
+
+---
+
+---
+title: "Neurovascular and synaptic milieu of brain-resident cells in cognitive dysfunction of myalgic encephalomyelitis/chronic fatigue syndrome"
+tags:
+- ➕ 2026-04-26
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-04-20'
+published: '2026-04-20'
+---
+
+<details>
+<summary>Xu et al. (2026)</summary>
+
+- **Authors:** Huimin Xu, Qiaoqi Li, Yingzhe Luo, Hong Zhu
+- **Institutes:** Chengdu University of Traditional Chinese Medicine, Chengdu, China
+- **Publisher:** Journal of Translational Medicine
+- **Link:** [DOI](https://doi.org/10.1186/s12967-026-08156-4)
+
+</details>
+
+## Summary
+
+This research introduces a novel 'immune-vascular-cognitive axis' framework to explain how peripheral immune signals interact with the brain's internal environment to produce cognitive dysfunction. By characterizing 'brain fog' as a state of persistent but potentially modifiable neuroimmune dysregulation rather than permanent damage, it identifies specific cellular targets for future therapeutic development.
+
+## What was researched?
+
+The study investigated the central nervous system processes, specifically the neurovascular and synaptic microenvironments, that link systemic immune disturbances to cognitive impairment in ME/CFS. It sought to integrate findings from neuroimaging and neurobiology into a cell-resolved framework for understanding cognitive symptoms.
+
+## Why was it researched?
+
+Despite well-documented immune abnormalities in ME/CFS patients, the exact mechanisms by which these peripheral changes cause cognitive 'brain fog' remain poorly defined. This lack of mechanistic clarity has previously limited the ability to develop targeted treatments and stratify patients based on their biological profile.
+
+## How was it researched?
+
+Researchers synthesized evidence from neuroimaging, neuroimmunology, neurovascular biology, and cellular metabolism to propose a brain-centered model. The review analyzed interactions among brain-resident cellular populations, such as microglia and astrocytes, within their local neurovascular unit.
+
+## What has been found?
+
+The study identified microglial priming, astrocytic dysfunction, and excitation-inhibition imbalance as key processes associated with cognitive symptoms. Crucially, the findings suggest that cognitive dysfunction in ME/CFS reflects a state of persistent neuroimmune and neurometabolic dysregulation that may be reversible.
+
+## Discussion
+
+A limitation of current research is the reliance on cross-sectional human studies, which demonstrate associations rather than direct causality. While evidence for neurovascular and glial alterations is relatively consistent, other proposed mechanisms like extracellular vesicle-mediated signaling and oligodendrocyte involvement remain more speculative.
+
+## Conclusion & Future Work
+
+The review concludes that cognitive dysfunction in ME/CFS is a result of dynamic cellular interactions that could be targeted therapeutically. Proposed strategies for future investigation include cytokine blockade 💊, nitric oxide 💊 enhancement, and acupuncture to restore neurovascular and synaptic health.
+
+
+
+---
+
+---
+title: "Facility-Measured Sleep Electroencephalographic Microstructures in Long COVID"
+tags:
+- ➕ 2026-04-26
+- 🧪 Biomarker
+created: '2026-04-23'
+published: '2026-04-23'
+---
+
+<details>
+<summary>Sun et al. (2026)</summary>
+
+- **Authors:** Haoqi Sun, Rammy Dang, Peng Li, Wenzhong Xiao, Jennifer Scott-Sutherland, Kenneth C Sassower, M Brandon Westover, Donna Felsenstein, Robert J Thomas, Monika Haack
+- **Institutes:** Department of Neurology, Beth Israel Deaconess Medical Center, Boston, MA, United States, Center for Engineering in Medicine and Surgery, Massachusetts General Hospital, Boston, MA, United States, Clinical and Translational Research Center, Beth Israel Deaconess Medical Center, Boston, MA, United States, Department of Neurology, Massachusetts General Hospital, Boston, MA, United States, Department of Medicine, Massachusetts General Hospital, Boston, MA, United States, Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, Beth Israel Deaconess Medical Center, Boston, MA, United States
+- **Publisher:** Sleep
+- **Link:** [DOI](https://doi.org/10.1093/sleep/zsag090)
+
+</details>
+
+## Summary
+
+This research provides objective evidence of brain-level sleep disruptions in Long COVID and ME/CFS, moving beyond subjective patient reports of fatigue. By identifying specific pathological EEG patterns, the study opens new avenues for diagnosing these conditions and developing targeted treatments to restore sleep quality. The findings underscore the neurological impact of post-infectious processes on the brain's ability to maintain restorative sleep.
+
+## What was researched?
+
+This study examined specific changes in sleep brainwaves, known as EEG microstructures, in patients with Long COVID and ME/CFS compared to healthy individuals. Researchers analyzed detailed patterns including sleep spindles, slow oscillations, and the timing of their coordination during the night.
+
+## Why was it researched?
+
+Unrefreshing sleep and daytime fatigue are central, debilitating symptoms of both Long COVID and ME/CFS. Characterizing these microstructural brain activity changes helps researchers understand the pathobiology of non-restorative sleep in post-viral diseases.
+
+## How was it researched?
+
+The researchers conducted overnight in-lab polysomnography on 28 participants with Long COVID, 28 healthy controls, and 19 participants with ME/CFS. They extracted various metrics from the EEG data, such as spindle-slow oscillation coupling, alpha-delta patterns, and infraslow oscillation power.
+
+## What has been found?
+
+Long COVID patients showed higher slow oscillation power during REM sleep and faster spindle frequency drops compared to healthy controls. While both groups exhibited early spindle-slow oscillation coupling, ME/CFS patients uniquely showed more alpha-delta patterns and elevated infraslow oscillation power in specific frequency bands.
+
+## Discussion
+
+The results highlight that Long COVID and ME/CFS share certain sleep abnormalities while also possessing distinct neurological signatures. These microstructural changes are linked to poor sleep quality and offer a window into how these conditions alter brain activity.
+
+## Conclusion & Future Work
+
+The study concludes that Long COVID and ME/CFS are associated with objective, pathological changes in sleep EEG microstructures. These findings illuminate the pathobiology of post-infectious processes and suggest that such changes contribute to the symptom of unrefreshing sleep.
+
+
+
+---
+
+---
+title: "Neuroendocrine signature of ME/CFS: Meta-analytic evidence for bioactive cortisol deficit and exaggerated feedback sensitivity"
+tags:
+- ➕ 2026-04-26
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-04-23'
+published: '2026-04-23'
+---
+
+<details>
+<summary>Woo et al. (2026)</summary>
+
+- **Authors:** Tae-Wook Woo, Yu-Jin Choi, Jun-Yeol Kim, Jae-Seon Lee, Chang-Gue Son
+- **Institutes:** Liver and Immunology Research Center, Daejeon University, Daejeon, Republic of Korea
+- **Publisher:** Molecular Psychiatry
+- **Link:** [DOI](https://doi.org/10.1038/s41380-026-03608-1)
+
+</details>
+
+## Summary
+
+This comprehensive meta-analysis identifies a definitive 'hyporeactive' neuroendocrine signature in ME/CFS, characterized by low available cortisol and a hypersensitive stress-response shut-off mechanism. By reconciling decades of inconsistent findings, the study provides a robust biological basis for hallmark symptoms like unrefreshing sleep, severe fatigue, and impaired stress recovery. These findings distinguish ME/CFS from other conditions and suggest that interventions aimed at restoring endocrine balance could be a vital path for future therapy.
+
+## What was researched?
+
+The study performed a large-scale meta-analysis of 46 case-control studies to characterize the function of the hypothalamic-pituitary-adrenal (HPA) axis in patients with ME/CFS.
+
+## Why was it researched?
+
+Researchers sought to resolve inconsistent results regarding cortisol levels in ME/CFS and to determine if a consistent neuroendocrine hallmark exists for the disorder.
+
+## How was it researched?
+
+The team analyzed data from 1,388 ME/CFS patients and 1,349 healthy controls, evaluating cortisol across saliva, urine, and hair, as well as responses to pharmacological tests like ACTH and glucocorticoid administration.
+
+## What has been found?
+
+ME/CFS patients exhibited lower cortisol levels in saliva (at awakening and morning), 24-hour urine, and hair. Additionally, patients showed a blunted response to ACTH 💊 stimulation and an exaggerated sensitivity to glucocorticoid suppression, indicating a chronically underactive endocrine system.
+
+## Discussion
+
+The evidence points to a specific 'hypo-reactivity' of the stress response system, where the body produces less active cortisol and shuts down its production too easily. This state likely contributes to the cognitive slowing and diminished stress resilience seen in patients.
+
+## Conclusion & Future Work
+
+The study concludes that a bioactive cortisol deficit and enhanced feedback sensitivity are core biological features of ME/CFS. These findings support the potential for low-dose hydrocortisone 💊 replacement and other psychobiological interventions to address fatigue syndromes.
+
+
+
+---
+
+---
+title: "Predicting Potential Treatment Targets for Fatigue in Chronic Fatigue Syndrome Using Thalamic Seeding"
+tags:
+- ➕ 2026-04-26
+- 💊 Treatment
+- 🧪 Biomarker
+created: '2026-04-23'
+published: '2026-04-23'
+---
+
+<details>
+<summary>Wu et al. (2026)</summary>
+
+- **Authors:** Kang Wu, Tian Zhou
+- **Institutes:** Beijing Key Laboratory of Intelligent Drug Research and Development for Mental Disorders, Beijing Anding Hospital, Capital Medical University, Beijing, China, Advanced Innovation Center for Human Brain Protection, Capital Medical University, Beijing, China
+- **Publisher:** Brain and Behavior
+- **Link:** [DOI](https://doi.org/10.1002/brb3.71428)
+
+</details>
+
+## Summary
+
+This research provides a neuroimaging-based roadmap for personalizing brain stimulation treatments for ME/CFS. By identifying a specific region in the visual cortex connected to the thalamus, it offers a concrete target for future therapies aimed at reducing the debilitating fatigue characteristic of the condition.
+
+## What was researched?
+
+The study aimed to identify potential cortical targets for non-invasive brain stimulation to treat fatigue in ME/CFS by analyzing thalamic functional connectivity.
+
+## Why was it researched?
+
+While brain stimulation shows promise for ME/CFS, the lack of standardized and effective cortical targets has limited its clinical application and consistency across patients.
+
+## How was it researched?
+
+Researchers analyzed brain scans from 100 CFS patients and 100 healthy controls using thalamic seeding, utilizing both normative analysis from a large public dataset and individual subject-specific mapping. The findings were further validated using a longitudinal dataset of 35 patients who participated in a one-month Tai Chi intervention.
+
+## What has been found?
+
+A specific site in the left lateral occipital cortex, near the PO7 electrode, was identified where functional connectivity with the thalamus strongly correlated with fatigue severity. Furthermore, changes in connectivity at this location were significantly associated with improvements in fatigue following the exercise program.
+
+## Discussion
+
+The study highlights that individual brain patterns in ME/CFS show significant spatial variability, suggesting that group-based normative frameworks may be more reliable for initial targeting than subject-specific maps. However, the exact physiological mechanism by which this occipital region influences the subjective experience of fatigue remains to be fully elucidated.
+
+## Conclusion & Future Work
+
+The left lateral occipital cortex is a promising candidate target for future brain stimulation trials. These findings suggest a practical, connectivity-guided framework for refining neurostimulation therapies for fatigue symptoms in CFS.
 
 
 
