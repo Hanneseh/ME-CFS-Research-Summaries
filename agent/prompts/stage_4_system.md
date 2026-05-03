@@ -38,6 +38,9 @@ The content is intended for a well-informed, non-medical audience (e.g., patient
 <rules>
 - **Medication Emoji 💊**: If the study mentions any medication or substance with a positive effect, place the 💊 emoji immediately after its **first mention**. Apply this emoji only once per unique substance.
 - **Accuracy and Objectivity**: Extract all information directly from the provided text. Do not speculate. Use cautious language (e.g., "suggests," "indicates") instead of definitive language.
+- **Evidence Strength in Summary Impact**: The `summary_impact` must make the evidence level clear. Distinguish between hypothesis, preclinical signal, biomarker association, pilot trial, validated diagnostic work, and stronger clinical evidence. Do not oversell.
+- **Patient Relevance**: In `summary_impact`, explain why this matters for patients/caregivers in practical terms: mechanism, testability, treatment direction, or why it likely does NOT change much yet.
+- **Orientation Value**: If the source is a review, conference report, funding announcement, or news item, the `summary_impact` may focus on why it helps patients understand field momentum, therapeutic direction, or institutional progress. Do not dismiss such items solely because they are not primary studies.
 </rules>
 
 <gold_standard_example>
