@@ -94,10 +94,29 @@ flowchart TD
 
 All intermediate runtime state is persisted to `agent/state/`, which makes the pipeline resumable and practical to operate on real alert batches.
 
+## Retrospective Relevance Audit
+
+Existing summaries can be re-screened against the current relevance criteria with:
+
+```bash
+poetry run python agent/relevance_audit_agent.py
+```
+
+The audit writes local review artifacts to `.agent/relevance_audits/<timestamp>/`, including:
+
+- `audit_report.md` for human review
+- `relevance_spectrum.csv` for sorting and filtering scores
+- `results/*.json` with one structured Gemini decision per summary
+- `delete_recommended.sh` with `git rm` commands for summaries Gemini recommends removing
+
+Use `--limit` for a small test run, `--concurrency` to control parallel API calls, and `--run-dir` to resume an interrupted audit without re-running completed items.
+
 ## Project Structure
 
 - `agent/research_agent.py`
   - main orchestration for the multi-stage pipeline
+- `agent/relevance_audit_agent.py`
+  - retrospective relevance audit for the existing summary corpus
 - `agent/prompts/`
   - version-controlled prompts for screening, summarization, and tagging
 - `content/summaries/`
