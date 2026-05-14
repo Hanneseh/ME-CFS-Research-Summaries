@@ -1,6 +1,6 @@
 # ME/CFS Research Summaries - Full Collection
 
-*Generated on: 2026-05-03 19:20:06*
+*Generated on: 2026-05-14 10:58:49*
 
 ---
 
@@ -1514,6 +1514,58 @@ The authors note that the patient's dramatic clinical improvement with mitochond
 ## Conclusion & Future Work
 
 The authors conclude that this case highlights the importance of considering mitochondrial dysfunction in CFS and supports the potential of combining 5-ALA/SFC and ubiquinone as a therapeutic strategy. The identification of the ADCK1 mutation suggests a genetic predisposition to mitochondrial issues in some CFS cases. The authors recommend further functional studies and family-based investigations to confirm the role of this ADCK1 mutation in CFS.
+
+
+---
+
+---
+title: "Targeting the SARS-CoV-2 reservoir in long COVID"
+tags:
+- ➕ 2026-05-14
+- ⭐ Landmark
+- 💊 Treatment
+created: '2025-02-10'
+published: '2025-02-10'
+---
+
+<details>
+<summary>Proal et al. (2025)</summary>
+
+- **Authors:** Amy D. Proal, Soo Aleman, Morgane Bomsel, Petter Brodin, Marcus Buggert, Sara Cherry, Daniel S. Chertow, Steven G. Deeks, Akiko Iwasaki, Michael B. VanElzakker, Michael J. Peluso
+- **Institutes:** PolyBio Research Foundation, Medford, MA, USA, Division of HIV, Infectious Diseases, and Global Medicine, University of California, San Francisco, CA, USA, Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA, Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA
+- **Publisher:** The Lancet Infectious Diseases
+- **Link:** [DOI](https://doi.org/10.1016/S1473-3099(24)00769-2)
+
+</details>
+
+## Summary
+
+This position paper represents a major consensus among leading global experts, establishing viral persistence as a primary research priority for Long COVID. It provides a formal scientific roadmap for clinical trials, shifting the focus from symptom management toward potential cures by eliminating viral 'hideouts' in the body. For patients, this validates the 'viral reservoir' experience and identifies specific categories of drugs—like long-course antivirals and monoclonal antibodies—that are currently being prioritized for testing.
+
+## What was researched?
+
+The paper outlines the scientific rationale and technical requirements for clinical trials designed to target persistent SARS-CoV-2 reservoirs in patients with Long COVID.
+
+## Why was it researched?
+
+Despite the acute phase of COVID-19 ending, evidence suggests that the virus persists in tissues like the gut or brain in some individuals, potentially driving chronic inflammation and immune exhaustion.
+
+## How was it researched?
+
+A multidisciplinary team of experts synthesized current evidence on viral persistence and drew on historical lessons from HIV and Hepatitis C to identify hurdles in drug delivery, participant selection, and biomarker measurement.
+
+## What has been found?
+
+The authors found that standard short courses of antivirals like nirmatrelvir/ritonavir 💊 may be insufficient for clearing deep-tissue reservoirs. They identified monoclonal antibodies 💊 and immune-modulators as promising candidates, but emphasized the need for better 'reservoir biomarkers' to ensure the right patients are selected for trials.
+
+## Discussion
+
+The paper acknowledges that the mechanism of persistence—whether it is replication-competent virus or 'zombie' viral debris—remains a key question that affects treatment choice. It highlights the difficulty of sampling deep tissues, such as the gut or nerves, where the virus is most likely to hide.
+
+## Conclusion & Future Work
+
+Targeting the viral reservoir is a high-stakes but essential path forward; successful trials will require longer treatment durations, combination therapies, and rigorous use of pre-treatment biopsies or advanced imaging.
+
 
 
 ---
@@ -11361,6 +11413,58 @@ Although taVNS was found to be safe and well-tolerated, it did not demonstrate s
 ---
 
 ---
+title: "Improving Diagnostic Accuracy of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Through a Point-of-Care Clinical Algorithm"
+tags:
+- ➕ 2026-05-14
+- ⭐ Landmark
+- 🧪 Biomarker
+created: '2026-04-03'
+published: '2026-04-03'
+---
+
+<details>
+<summary>Seltzer et al. (2026)</summary>
+
+- **Authors:** Jaime Seltzer, Stephanie L. Grach, Scott D. Eggers, Melissa M. Redetzke, Katie J. Mau, Tony Y. Chon, Ravindra Ganesh
+- **Institutes:** The Myalgic Encephalomyelitis Action Network, Santa Clara, CA, USA, Division of General Internal Medicine, Mayo Clinic, Rochester, MN, USA, Department of Neurology, Mayo Clinic, Rochester, MN, USA
+- **Publisher:** International Journal of Environmental Research and Public Health (IJERPH)
+- **Link:** [DOI](https://doi.org/10.3390/ijerph23040460)
+
+</details>
+
+## Summary
+
+This research demonstrates a practical solution to the long-standing problem of delayed or missed diagnosis in ME/CFS by using digital clinical support tools. By providing primary care doctors with an expert-vetted algorithm at the point of care, the study achieved a significant increase in the accuracy of referrals. This indicates that the "diagnostic crisis" in ME/CFS can be partially addressed through targeted knowledge delivery rather than relying solely on specialized medical training. For patients, such tools can shorten the path to a correct diagnosis and ensure that management recommendations are evidence-based from the first clinical encounter.
+
+## What was researched?
+
+The study investigated whether a point-of-care clinical decision support tool (the AskMayoExpert algorithm) could improve the diagnostic accuracy and referral quality for ME/CFS within a large healthcare system.
+
+## Why was it researched?
+
+The research addressed the widespread lack of medical education regarding ME/CFS, which often leads to a majority of patients remaining undiagnosed or receiving incorrect clinical guidance.
+
+## How was it researched?
+
+Researchers performed a retrospective analysis at the Mayo Clinic to compare diagnostic concordance—the agreement between a primary referral and a specialist's final diagnosis—before and after the introduction of the digital algorithm. They also tracked how frequently the tool was accessed by healthcare providers to assess its reach and utility.
+
+## What has been found?
+
+Following the implementation of the algorithm, diagnostic concordance increased from 55.3% to 76.9%, meaning primary referrals were much more likely to be accurate. Referrals were 1.39 times more likely to result in a confirmed specialist diagnosis of ME/CFS, and over 580 providers accessed the tool during the study period.
+
+## Discussion
+
+The findings suggest that providing "just-in-time" clinical guidance can effectively bridge educational gaps for complex, poorly understood diseases. A key strength noted was the involvement of individuals with lived experience in the tool's development, though the study's scope was limited to the Mayo Clinic's institutional environment.
+
+## Conclusion & Future Work
+
+Implementing accessible clinical care algorithms can significantly improve the recognition and management of ME/CFS in general medical settings. The authors suggest that healthcare systems should prioritize similar digital resources to address public health-scale diagnostic delays.
+
+
+
+---
+
+---
 title: "Perioperative outcomes in myalgic encephalomyelitis/chronic fatigue syndrome undergoing general anesthesia: a retrospective matched-pair study"
 tags:
 - ➕ 2026-05-03
@@ -11825,6 +11929,108 @@ The findings identify specific causal pathways and biomarkers, providing a genet
 ---
 
 ---
+title: "Chronic stress and cognitive dysfunction in myalgic encephalomyelitis/chronic fatigue syndrome: HPA axis dysregulation and hippocampal plasticity"
+tags:
+- ➕ 2026-05-14
+- 🧪 Biomarker
+created: '2026-04-22'
+published: '2026-04-22'
+---
+
+<details>
+<summary>Kang et al. (2026)</summary>
+
+- **Authors:** Hailan Kang, Tianrui Shao, Yuqing Shi, Shilei Wang, Huazhong Xiong, Xuanyan Jin, Jixiang Ren
+- **Institutes:** School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China, Institute of Brain Science, Beijing University of Chinese Medicine, Beijing, China
+- **Publisher:** Frontiers in Neuroscience
+- **Link:** [DOI](https://doi.org/10.3389/fnins.2026.1814098)
+
+</details>
+
+## Summary
+
+This review provides a comprehensive theoretical framework for understanding 'brain fog' by linking systemic stress responses to physical changes in the brain's memory center. It shifts the focus toward the hippocampus as a key site of injury, suggesting that cognitive symptoms in ME/CFS are not merely subjective but may stem from measurable neurobiological dysregulation. For patients, this validates the physiological basis of their cognitive struggles and points toward HPA axis regulation as a potential path for future therapies. The evidence level is a high-level theoretical synthesis of existing literature rather than a new clinical trial.
+
+## What was researched?
+
+This review explored how chronic stress and the resulting dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis contribute to cognitive dysfunction, commonly known as 'brain fog,' in ME/CFS patients.
+
+## Why was it researched?
+
+Cognitive symptoms like impaired memory and attention are highly disabling in ME/CFS, yet the exact neurobiological mechanisms connecting stress, hormones, and brain function remain poorly understood.
+
+## How was it researched?
+
+The researchers conducted a comprehensive literature review to synthesize current evidence on HPA axis activity, hippocampal plasticity, neuroinflammation, and oxidative stress specifically within the context of ME/CFS.
+
+## What has been found?
+
+The study found that prolonged stress leads to altered cortisol rhythmicity and impaired negative feedback, which triggers neuroinflammatory responses and oxidative stress. These processes appear to disrupt hippocampal plasticity, including reduced neurogenesis and impaired synaptic integrity, leading to deficits in learning and memory. Furthermore, disturbances in neurotransmitter homeostasis were identified as significant contributors to the observed cognitive decline.
+
+## Discussion
+
+A major strength of this review is its integration of multisystemic factors, though it acknowledges that the direct causal relationship between specific HPA axis abnormalities and hippocampal structural changes in ME/CFS requires further longitudinal imaging studies. The complexity of hormonal patterns in patients remains a challenge for standardized diagnostics.
+
+## Conclusion & Future Work
+
+The authors conclude that targeting HPA axis dysregulation and restoring hippocampal plasticity offer promising avenues for treating cognitive dysfunction in ME/CFS. Future research should focus on identifying specific biomarkers to guide these interventions.
+
+
+
+---
+
+---
+title: "Endovascular profiles linked to neutrophil activation in children and young adults with long COVID"
+tags:
+- ➕ 2026-05-14
+- 🧪 Biomarker
+created: '2026-04-22'
+published: '2026-04-22'
+---
+
+<details>
+<summary>Steifman et al. (2026)</summary>
+
+- **Authors:** Carly B. Steifman, Belen Alvarez-Carcamo, S. Verma, Michael B. VanElzakker, Lael M. Yonker
+- **Institutes:** Mass General for Children, Boston, MA, USA, Harvard Medical School, Boston, MA, USA
+- **Publisher:** Pediatric Research
+- **Link:** [DOI](https://doi.org/10.1038/s41390-026-05024-1)
+
+</details>
+
+## Summary
+
+This research identifies a clear biological mechanism for the cardiovascular symptoms often dismissed in younger Long COVID patients. By linking the SARS-CoV-2 Spike protein to neutrophil-driven vascular damage and microclots, it provides measurable biomarkers that could lead to targeted anti-inflammatory or anti-clotting therapies. It shifts the clinical focus from subjective symptoms to objective endovascular pathology in the pediatric population.
+
+## What was researched?
+
+This study investigated the biological mechanisms behind debilitating endovascular and cardiovascular symptoms in children and young adults with Long COVID. Researchers specifically examined the relationship between fibrin amyloid microclots, neutrophil activation, and the presence of the SARS-CoV-2 Spike protein.
+
+## Why was it researched?
+
+Vascular symptoms are common and severe in Long COVID, yet the underlying causes remain poorly understood, especially in pediatric and young adult populations. Identifying specific biomarkers and mechanisms is crucial for developing objective diagnostics and effective treatments for these patients.
+
+## How was it researched?
+
+The study enrolled 84 participants aged 25 and younger from the U.S. and Canada, including 61 with Long COVID and 23 healthy controls. Researchers analyzed blood samples for microclots, endovascular cytokines, and cell-free DNA as a marker for neutrophil extracellular traps (NETs). They also performed laboratory assays to observe how Spike protein-immune complexes interact with immune cells and blood vessel linings.
+
+## What has been found?
+
+Long COVID patients showed significantly higher levels of microclots and markers of vascular remodeling, such as FGF-2, compared to healthy controls. The study found elevated cell-free DNA, indicating increased 'NETosis,' a process where white blood cells release traps that can damage vessel linings. This neutrophil activation was directly triggered by Spike-containing immune complexes and positively correlated with microclot components like serum amyloid A. Conversely, certain markers involved in normal immune cell movement were found to be reduced.
+
+## Discussion
+
+The findings suggest that persistent viral proteins may be driving a continuous cycle of immune-driven vascular injury. A limitation of the study is the relatively small sample size, although the use of age-matched pediatric controls provides high-quality comparative data. The results highlight NETosis as a primary driver of the endovascular pathology seen in these patients.
+
+## Conclusion & Future Work
+
+The researchers conclude that intravascular neutrophil activation and microclot formation are central features of Long COVID in young people. These results warrant further clinical evaluation of therapies targeting these specific pathways to alleviate vascular symptoms.
+
+
+
+---
+
+---
 title: "Neuroendocrine signature of ME/CFS: Meta-analytic evidence for bioactive cortisol deficit and exaggerated feedback sensitivity"
 tags:
 - ➕ 2026-04-26
@@ -12133,3 +12339,367 @@ Potentially beneficial medications for ME/CFS are significantly underprescribed 
 
 
 ---
+
+---
+title: "The State of Chronic Fatigue: A Systematic Review of Current Contributors and Underpinnings to Post-exertional Malaise"
+tags:
+- ➕ 2026-05-14
+- 🧪 Biomarker
+created: '2026-05-01'
+published: '2026-05-01'
+---
+
+<details>
+<summary>Kuns et al. (2026)</summary>
+
+- **Authors:** Monica Coran Kuns, Ava-Kathleen Rybicki, Alba Azola, Josefina Casamento-Moran, Sruthi Kundur, Humbal Omar, Akshay Peddireddy, Peter Rowe, Agostina Casamento-Moran
+- **Institutes:** Johns Hopkins University School of Medicine, Baltimore, MD, USA, University of Pennsylvania, Philadelphia, PA, USA
+- **Publisher:** Archives of Physical Medicine and Rehabilitation
+- **Link:** [DOI](https://doi.org/10.1016/j.apmr.2026.02.468)
+
+</details>
+
+## Summary
+
+This systematic review highlights a significant gap in medical research regarding the non-physical triggers of PEM, such as emotional and cognitive exertion. By identifying that most studies stop monitoring patients after only 24 hours, it explains why current clinical data may fail to capture the full duration and complexity of patient 'crashes.' For patients and caregivers, this work validates the reality of PEM from mental or emotional stress and provides a roadmap for more realistic future research designs. It signals a shift toward developing accessible, real-world monitoring tools rather than relying solely on intense physical exercise tests.
+
+## What was researched?
+
+The researchers conducted a systematic review to identify the current scientific evidence regarding the biological mechanisms and triggers of post-exertional malaise (PEM) in individuals with ME/CFS and Long Covid.
+
+## Why was it researched?
+
+While physical exercise is a known trigger for PEM, the impact of emotional and cognitive exertion is poorly understood despite being frequently reported by patients. The study aimed to map the inconsistencies in how PEM is measured and identify what is missing in current clinical literature.
+
+## How was it researched?
+
+The team screened 205 articles across six databases and analyzed a final sample of 79 studies. They focused on adult outpatient populations who underwent physical, cognitive, or emotional activity and had pre- and post-activity measurements of their symptoms and biological markers.
+
+## What has been found?
+
+The analysis revealed that physical tests like the Cardiopulmonary Exercise Test (CPET) and grip strength are the most common ways to study PEM. However, fewer than ten studies investigated emotional or cognitive triggers, and fewer than ten followed participants for more than 24 hours after the trigger. The researchers also found significant inconsistencies in the types of biomarkers used to track PEM episodes.
+
+## Discussion
+
+A major limitation in current research is the failure to include diverse functional activities that reflect daily life. The lack of long-term follow-up beyond 24 hours is a critical weakness, as many patients experience PEM symptoms that last for days or weeks.
+
+## Conclusion & Future Work
+
+The review concludes that future research must incorporate multiple biological outcomes and accessible techniques to monitor PEM during a wider variety of activities. It emphasizes the need to study the 'post-episodic' recovery pathways to understand how patients actually return to their baseline.
+
+
+
+---
+
+---
+title: "Exercise is no quick fix for long covid"
+tags:
+- ➕ 2026-05-14
+- 📰 News
+created: '2026-05-02'
+published: '2026-05-02'
+---
+
+<details>
+<summary>Thompson (2026)</summary>
+
+- **Authors:** Alexandra Thompson
+- **Institutes:** New Scientist, London, UK
+- **Publisher:** New Scientist
+- **Link:** [DOI](https://www.sciencedirect.com/science/article/pii/S0262407926006809)
+
+</details>
+
+## Summary
+
+This report warns that exercise-centric treatments for Long Covid often ignore the dangers of post-exertional malaise, potentially causing harm to patients. It highlights a shift in the scientific consensus toward recognizing that standard physical activity is not a universal remedy and may even be contraindicated for those with ME/CFS-like symptoms.
+
+## What was researched?
+
+The article evaluates the scientific evidence supporting physical activity as a treatment for Long Covid.
+
+## Why was it researched?
+
+Researchers and clinicians are concerned that exercise recommendations are based on non-robust data that neglects the debilitating effects of post-exertional malaise.
+
+## How was it researched?
+
+The report reviews recent literature, including meta-analyses of European patient cohorts and critical appraisals of existing exercise intervention trials.
+
+## What has been found?
+
+Many studies touting exercise benefits were found to have methodological flaws or failed to screen for symptom exacerbation after exertion. Recent meta-analyses indicate that evidence for the efficacy of exercise in this population remains weak.
+
+## Discussion
+
+The findings mirror historical controversies in ME/CFS research regarding graded exercise therapy and emphasize the physiological risks of overexertion.
+
+## Conclusion & Future Work
+
+Exercise is not a safe or effective 'quick fix' for all Long Covid patients and requires a more cautious, individualized approach.
+
+
+
+---
+
+---
+title: "Erythroid–hormonal axis in long COVID"
+tags:
+- ➕ 2026-05-14
+- 🧪 Biomarker
+created: '2026-05-04'
+published: '2026-05-04'
+---
+
+<details>
+<summary>Elahi (2026)</summary>
+
+- **Authors:** Shokrollah Elahi
+- **Institutes:** University of Alberta, Edmonton, AB, Canada
+- **Publisher:** Trends in Molecular Medicine
+- **Link:** [DOI](https://doi.org/10.1016/j.molmed.2026.04.006)
+
+</details>
+
+## Summary
+
+This paper introduces a unifying framework for Long COVID, shifting the focus from persistent infection to a failure of coordinated physiological recovery. It identifies the 'erythroid-hormonal axis'—the interplay between red blood cell production and endocrine balance—as a primary driver of chronic fatigue and metabolic stress. For patients, this suggests that persistent symptoms may be tied to 'stress erythropoiesis' and low cortisol, providing a biological basis for symptoms that often appear invisible on standard blood tests. The research highlights sex-specific hormonal dysregulation, pointing toward the potential use of hormone replacement therapies as a targeted treatment direction. This work strengthens the case for viewing Long COVID and ME/CFS through the lens of systemic endocrine and hematological dysfunction.
+
+## What was researched?
+
+The research examines how the disruption of erythropoiesis (the production of red blood cells) and the endocrine system forms a central mechanism for the persistence of Long COVID symptoms.
+
+## Why was it researched?
+
+It was researched to explain why many patients experience profound fatigue and cognitive impairment despite the absence of active viral replication, focusing on the failure of the body's physiological recovery pathways.
+
+## How was it researched?
+
+The author synthesized multi-omics data, including blood transcriptomics and metabolomics from Long COVID cohorts, to analyze the role of CD71+ erythroid precursors and hormonal markers like cortisol 💊 and sex steroids.
+
+## What has been found?
+
+The study found that inflammation-driven 'stress erythropoiesis' leads to an expansion of immunosuppressive CD71+ cells, which can be infected by SARS-CoV-2. Additionally, Long COVID is characterized by significant hormonal imbalances, particularly low cortisol and sex-specific drops in testosterone or estradiol. These disruptions create a state of persistent metabolic stress and 'anemia of inflammation' that correlates with symptom severity.
+
+## Discussion
+
+The framework highlights that standard hemoglobin tests may miss 'stress erythropoiesis' which still impairs oxygen delivery and immune function. A major limitation discussed is the complexity of individual variability in hormonal recovery and the need for more sex-tailored clinical trials.
+
+## Conclusion & Future Work
+
+The paper concludes that targeting the erythroid-endocrine pathways offers a promising therapeutic strategy. Future research should prioritize investigating hormone replacement and treatments that stabilize red blood cell maturation to restore physiological homeostasis.
+
+
+
+---
+
+---
+title: "Bio-SIG PEM: lactate recovery trajectories supporting biologically different phenotypes in ME/CFS and PAIS"
+tags:
+- ➕ 2026-05-14
+- 🧪 Biomarker
+- 📰 News
+created: '2026-05-07'
+published: '2026-05-07'
+---
+
+<details>
+<summary>Puta et al. (2026)</summary>
+
+- **Authors:** Christian Puta, Cornelia Ellert, Philipp Reuken, Andreas Stallmach, Bio-SIG PEM Study Group
+- **Institutes:** Department of Sports Medicine and Health Promotion, Friedrich Schiller University Jena, Jena, Germany, Jena University Hospital, Jena, Germany
+- **Publisher:** International ME/CFS Conference 2026 (Berlin)
+- **Link:** [DOI](https://events.mecfs-research.org/en/events/conference_2026/agenda)
+
+</details>
+
+## Summary
+
+This research provides preliminary evidence that lactate recovery patterns can serve as an objective biological signature for Post-Exertional Malaise (PEM). By identifying distinct metabolic trajectories, the study suggests that ME/CFS and other post-infectious syndromes (PAIS) may be divided into biologically different phenotypes. For patients and caregivers, this work highlights the potential for a measurable test to validate the severity of PEM and could lead to more personalized pacing protocols based on individual metabolic thresholds. While currently a research-level finding, it moves the field toward a quantifiable diagnostic marker for exercise intolerance.
+
+## What was researched?
+
+The study investigated the biopathological signatures of Post-Exertional Malaise (PEM) by analyzing metabolic recovery patterns and lactate trajectories in patients with ME/CFS and Post-Acute Infection Syndromes (PAIS).
+
+## Why was it researched?
+
+Researchers aimed to identify objective biomarkers that could explain the biological basis of PEM and distinguish between different clinical phenotypes of the disease. The investigation sought to move beyond subjective symptom reporting toward quantifiable metabolic dysfunctions.
+
+## How was it researched?
+
+The team employed a repeated measures design using short-duration protocols such as hand-grip strength tests and sit-to-stand tests, as well as Cardiopulmonary Exercise Testing (CPET). They measured metabolic markers including resting and active lactate levels, glucose, and succinate, while also utilizing Raman spectroscopy to examine cellular metabolic changes.
+
+## What has been found?
+
+The study identified distinct 'lactate recovery trajectories' that support the existence of biologically different phenotypes among ME/CFS and PAIS patients. Key findings included significantly elevated resting and active lactate levels, along with disrupted lipid metabolism and amino acid depletion. These metabolic disturbances suggest that patients reach an anaerobic threshold much earlier than healthy individuals, impairing their recovery from exertion.
+
+## Discussion
+
+The findings indicate that PEM is associated with a specific immune-metabolic signature that can be tracked through lactate kinetics. Limitations include the preliminary nature of the pilot data, though the use of multiple metabolic markers strengthens the observation of bioenergetic inflexibility. The study emphasizes that the 'metabolic threshold' for these patients is significantly lower than for healthy controls.
+
+## Conclusion & Future Work
+
+Lactate monitoring and the analysis of recovery trajectories offer a promising way to subtype patients and objectively measure PEM severity. Future research will focus on validating these phenotypes to refine diagnostic criteria and therapeutic interventions.
+
+
+
+---
+
+---
+title: "MIRACLE study: Reduced mtDNA copy numbers and partially reduced inflammatory potential of HDL in ME/CFS patients"
+tags:
+- ➕ 2026-05-14
+- 🧪 Biomarker
+- 📰 News
+created: '2026-05-08'
+published: '2026-05-08'
+---
+
+<details>
+<summary>Schieffer et al. (2026)</summary>
+
+- **Authors:** Elisabeth Schieffer, MIRACLE Study Group
+- **Institutes:** Department of Cardiology, Angiology and Internal Intensive Care Medicine, University Hospital Marburg (UKGM), Germany, Department of Anesthesiology, University Hospital Regensburg (UKR), Germany
+- **Publisher:** International ME/CFS Conference 2026
+- **Link:** [DOI](https://events.mecfs-research.org/en/events/conference_2026/agenda)
+
+</details>
+
+## Summary
+
+This research provides evidence of specific metabolic and mitochondrial "fingerprints" in ME/CFS, supporting the theory of systemic energy production failure. By identifying reduced mtDNA levels and altered HDL function, the study points toward potential diagnostic biomarkers and therapeutic targets focused on restoring mitochondrial density. Importantly, the inclusion of severely ill, bedridden patients ensures that these findings are representative of the full disease spectrum rather than just milder cases.
+
+## What was researched?
+
+This study examined mitochondrial health and lipid metabolism in ME/CFS patients by measuring mitochondrial DNA (mtDNA) copy numbers and the functional properties of High-Density Lipoprotein (HDL).
+
+## Why was it researched?
+
+The research aimed to uncover the mysterious pathomechanisms of ME/CFS by investigating immunological, inflammatory, and metabolic processes that might lead to the disease's profound exhaustion.
+
+## How was it researched?
+
+As part of the multi-center MIRACLE study, researchers analyzed blood samples from 200 ME/CFS patients—including bedridden individuals—and 200 healthy controls. The team performed proteomic analysis of HDL and stimulated cultured endothelial cells to assess the inflammatory potential of patient-derived samples.
+
+## What has been found?
+
+ME/CFS patients showed significantly lower mtDNA copy numbers, which serves as a proxy for reduced mitochondrial density and energy-producing capacity. Additionally, the study identified a partially reduced inflammatory potential in the HDL of patients, suggesting a disruption in normal metabolic and vascular signaling.
+
+## Discussion
+
+A major strength of this research is the recruitment of severely affected patients via home visits, addressing a common gap in ME/CFS literature. The findings suggest that mitochondrial depletion and lipidome alterations are core components of the disease's metabolic stress profile.
+
+## Conclusion & Future Work
+
+The results highlight reduced mtDNA and dysfunctional HDL as promising biomarkers for ME/CFS diagnostics. Future work within the MIRACLE project will use artificial intelligence to further refine these metabolic clusters.
+
+
+
+---
+
+---
+title: "ResetME: A Randomized, Placebo-controlled Study of Daratumumab in ME/CFS"
+tags:
+- ➕ 2026-05-14
+- ⭐ Landmark
+- 💊 Treatment
+- 🧪 Biomarker
+- ⏳ Trial
+- 📰 News
+created: '2026-05-10'
+published: '2026-05-10'
+---
+
+<details>
+<summary>Fluge et al. (2026)</summary>
+
+- **Authors:** Øystein Fluge, Ingrid Gurvin Rekeland, Kari Sørland, Olav Mella
+- **Institutes:** Haukeland University Hospital, Bergen, Norway, Oslo University Hospital, Oslo, Norway
+- **Publisher:** ME/CFS Research Foundation Conference 2026
+- **Link:** [DOI](https://events.mecfs-research.org/en/events/conference_2026/agenda)
+
+</details>
+
+## Summary
+
+This trial is one of the most important current placebo-controlled tests of plasma cell depletion as a potential treatment for ME/CFS. By focusing on a specific immunological subset (patients with higher baseline NK cells), the study aims to move away from broad treatments toward more stratified medicine. If successful, it would strengthen the case that long-lived autoantibodies contribute to symptoms in at least a subgroup of patients and could help define future biomarker-guided trials. The update is encouraging, but it comes from conference and social-media reporting while the full blinded dataset is still pending.
+
+## What was researched?
+
+The ResetME trial is a Phase II randomized controlled trial investigating whether depleting antibody-producing plasma cells with the drug daratumumab 💊 leads to clinical improvement in ME/CFS. It builds on previous pilot data suggesting a specific subset of patients may experience significant recovery through this mechanism.
+
+## Why was it researched?
+
+Previous research by the Bergen group suggested that some ME/CFS symptoms may be driven by functional autoantibodies produced by long-lived plasma cells. Since these cells are not reliably removed by standard B-cell treatments like rituximab, researchers moved to daratumumab to target the CD38 marker on plasma cells themselves.
+
+## How was it researched?
+
+The study is a double-blind, placebo-controlled trial involving a target of 66 participants with moderate to severe ME/CFS (CCC criteria). Participants are randomized to receive either active daratumumab or a placebo via subcutaneous injection. A specific inclusion threshold for Natural Killer (NK) cells (>125 x 10^6/L) is used to select patients most likely to respond based on pilot findings.
+
+## What has been found?
+
+At the 2026 conference update, 38 of the 66 patients had reportedly been enrolled, with 17 completing the initial 8-week follow-up. Prior pilot results suggested that a subset of participants experienced marked clinical improvement. The new conference report also described larger changes in the autoantibody profile (autoreactome) among responders, raising the possibility that daratumumab may alter long-lived autoreactivity in some patients.
+
+## Discussion
+
+The trial is still ongoing and remains blinded, meaning official efficacy results for the full cohort are pending. Safety monitoring has noted one serious adverse event involving a brief hospitalization for symptom worsening, highlighting the need for careful clinical supervision during treatment. The use of a strict NK-cell biomarker for inclusion is a novel approach to address patient heterogeneity.
+
+## Conclusion & Future Work
+
+The ResetME trial appears to be progressing through recruitment and early follow-up. While results are not yet final, the study provides a serious framework for testing whether plasma cell depletion can help a defined ME/CFS subgroup. Further updates are expected as the full cohort completes longer follow-up.
+
+
+---
+
+---
+title: "The next phase in Long COVID research: addressing the ethical challenges in trials of disease-modifying treatments"
+tags:
+- ➕ 2026-05-14
+- ⭐ Landmark
+- 📰 News
+created: '2026-05-12'
+published: '2026-05-12'
+---
+
+<details>
+<summary>Hendriks et al. (2026)</summary>
+
+- **Authors:** Saskia Hendriks, Christine Grady, Megan L. Fitzgerald, Rachel S. Gross, Christine Maughan, Michael J. Peluso, Sumeeta Varma, Avindra Nath, Annette Rid
+- **Institutes:** Department of Bioethics, National Institutes of Health Clinical Center, Bethesda, MD, USA, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA, University of California San Francisco, San Francisco, CA, USA, NYU Grossman School of Medicine, New York, NY, USA
+- **Publisher:** eClinicalMedicine
+- **Link:** [DOI](https://www.sciencedirect.com/science/article/pii/S2589537026001665)
+
+</details>
+
+## Summary
+
+This paper signals a significant institutional shift toward prioritizing interventional trials for Long COVID, moving away from purely observational research. For patients, this represents an advocacy victory, as it pushes for the evaluation of potential treatments despite the lack of a fully understood mechanism. It provides a formal ethical roadmap that researchers can use to justify and design trials for various drug candidates. By legitimizing "trialing while learning," it aims to speed up the delivery of effective therapies to the clinical setting. This matters because it may reduce the time patients have to wait for evidence-based treatments.
+
+## What was researched?
+
+This paper examines the ethical framework and imperatives for transitioning Long COVID research from observational studies to clinical trials of disease-modifying treatments. It investigates how to navigate scientific uncertainties surrounding the disease's mechanisms while meeting the urgent needs of patients.
+
+## Why was it researched?
+
+Despite years of study, the underlying pathophysiology of Long COVID remains unclear, which has historically been used as a justification for delaying large-scale treatment trials. Researchers and bioethicists argue that waiting for a complete understanding of the disease before testing interventions is no longer ethically tenable given the ongoing patient burden.
+
+## How was it researched?
+
+This is a Health Policy and ethics report authored by a multidisciplinary team including bioethicists, clinician-scientists, and individuals with lived experience of Long COVID. The authors reviewed existing research barriers and applied ethical frameworks—focusing on participant safety, scientific validity, and fair selection—to propose a roadmap for future clinical trials.
+
+## What has been found?
+
+The authors establish that conducting disease-modifying trials is an ethical necessity and that current scientific uncertainties can be managed through rigorous trial design, such as adaptive platforms. They identified several drug categories, including immunomodulatory, neurological, and antiviral medications, as viable targets for near-term investigation. The paper also highlights the importance of including patients in the research priority-setting process to ensure outcomes are clinically meaningful.
+
+## Discussion
+
+The main challenge remains the heterogeneity of Long COVID (endotypes), which complicates participant selection and the interpretation of trial results. However, the authors argue that these hurdles are not insurmountable and that "learning-by-doing" through trials may actually accelerate the discovery of underlying mechanisms. They emphasize that rigorous trial design can mitigate risks even without validated biomarkers.
+
+## Conclusion & Future Work
+
+The research field must shift its focus toward testing interventions that could offer tangible benefits to patients. Future trials should utilize fair participant selection and robust monitoring to balance the risks of experimental treatments with the potential for therapeutic breakthroughs.
+
+
+
+---
+
