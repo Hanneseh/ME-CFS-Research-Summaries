@@ -6,7 +6,7 @@
     <img alt="Quartz" src="https://img.shields.io/badge/Powered%20by%20Quartz-4ea94b?logo=quartz&logoColor=white">
   </a>
   <a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Flash-Model-Card.pdf">
-    <img alt="Gemini" src="https://img.shields.io/badge/AI-Gemini%203.0%20Flash-blue?logo=googlegemini&logoColor=white">
+    <img alt="Gemini" src="https://img.shields.io/badge/AI-Gemini%203.5%20Flash-blue?logo=googlegemini&logoColor=white">
   </a>
   <a href="https://docs.pydantic.dev/">
     <img alt="Pydantic" src="https://img.shields.io/badge/Data%20Layer-Pydantic-e92063?logo=pydantic&logoColor=white">
@@ -54,45 +54,35 @@ Items are usually filtered out when they are mostly:
 
 ## Research Agent
 
-The project uses a multi-stage AI agent to process incoming alerts and turn them into structured, public-facing summaries.
+The project uses a highly optimized, multi-stage AI agent pipeline to ingest new alerts programmatically and turn them into structured, public-facing summaries.
 
 ```mermaid
 flowchart TD
-    A["Raw Inputs<br/>emails, feeds, alerts"] --> B["Stage 1<br/>Parse"]
-    B --> C["Stage 2<br/>Dedupe"]
-    C --> D{"Stage 3<br/>Screen"}
+    Ingest["Ingestion Alerts<br/>(Gmail IMAP & Reddit RSS)"] --> S1["Stage 1<br/>Data Synthesis"]
+    S1 --> S2["Stage 2<br/>Fuzzy Deduplication"]
+    S2 --> S3{"Stage 3<br/>Relevance Screen"}
+    S3 -- Keep --> S4["Stage 4<br/>Research, Summarize & Tag"]
+    S3 -- Reject --> Ex["Excluded"]
+    S4 --> Quartz["Quartz Digital Garden"]
 
-    D -- keep --> E["Stage 4<br/>Research + Summarize"]
-    D -- reject --> X["Excluded"]
-
-    E --> F["Stage 5<br/>Tag"]
-    F --> G["Quartz Digital Garden"]
-
-    H["Grounding Tools<br/>Google Search<br/>URL Context"] -.-> E
-    I["Prompt Rules<br/>relevance, tagging, tone"] -.-> D
-    I -.-> E
-    I -.-> F
-
-    style A fill:#f5f5f5,stroke:#666,stroke-width:1px
-    style B fill:#e8f0fe,stroke:#1a73e8,stroke-width:1px
-    style C fill:#e8f0fe,stroke:#1a73e8,stroke-width:1px
-    style D fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
-    style E fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
-    style F fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
-    style G fill:#ede7f6,stroke:#6a1b9a,stroke-width:1px
-    style H fill:#fffde7,stroke:#f9a825,stroke-width:1px,stroke-dasharray: 5 5
-    style I fill:#f3e5f5,stroke:#8e24aa,stroke-width:1px,stroke-dasharray: 5 5
+    style Ingest fill:#f5f5f5,stroke:#666,stroke-width:1px
+    style S1 fill:#e8f0fe,stroke:#1a73e8,stroke-width:1px
+    style S2 fill:#e8f0fe,stroke:#1a73e8,stroke-width:1px
+    style S3 fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
+    style S4 fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    style Ex fill:#ffebee,stroke:#c62828,stroke-width:1px
+    style Quartz fill:#ede7f6,stroke:#6a1b9a,stroke-width:1px
 ```
 
 | Stage     | Purpose                                                     | Notes                                                           |
 | :-------- | :---------------------------------------------------------- | :-------------------------------------------------------------- |
-| `Stage 1` | Extract structured publication candidates from messy alerts | email parsing, HTML cleanup, metadata extraction                |
-| `Stage 2` | Remove duplicates against the existing corpus               | title/link similarity, preprint vs publication handling         |
-| `Stage 3` | Decide whether an item belongs in the garden                | prompt-based screening with project-specific relevance logic    |
-| `Stage 4` | Gather context and write the summary                        | grounded lookup, structured extraction, patient-facing framing  |
-| `Stage 5` | Apply taxonomy tags                                         | `⭐ Landmark`, `💊 Treatment`, `🧪 Biomarker`, `⏳ Trial`, `📰 News` |
+| `Ingestion` | Fetch incoming unread alerts and clean the inboxes        | `fetch_emails.py` (Gmail IMAP) & `fetch_reddit.py` (RSS feeds)  |
+| `Stage 1` | Parse raw, messy inputs into candidate publications         | Programmatic parsing for structured JSON + LLM for raw emails    |
+| `Stage 2` | Filter duplicates against the existing corpus               | Programmatic exact link/title match + fuzzy `SequenceMatcher` fallback |
+| `Stage 3` | Decide whether an item belongs in the garden                | Prompt-based screening using versioned relevance criteria       |
+| `Stage 4` | Research the paper, write the summary, and apply taxonomy   | Grounded search, structured JSON, unified tagging in one pass   |
 
-All intermediate runtime state is persisted to `agent/state/`, which makes the pipeline resumable and practical to operate on real alert batches.
+All intermediate runtime state is persisted to `agent/state/`, which makes the pipeline fully resumable and robust to operate.
 
 ## Retrospective Relevance Audit
 
@@ -115,6 +105,10 @@ Use `--limit` for a small test run, `--concurrency` to control parallel API call
 
 - `agent/research_agent.py`
   - main orchestration for the multi-stage pipeline
+- `agent/fetch_emails.py`
+  - automated Gmail IMAP unread alert fetcher and inbox cleaner
+- `agent/fetch_reddit.py`
+  - automated Reddit RSS feed scraper and Pydantic JSON generator
 - `agent/relevance_audit_agent.py`
   - retrospective relevance audit for the existing summary corpus
 - `agent/prompts/`
@@ -127,6 +121,7 @@ Use `--limit` for a small test run, `--concurrency` to control parallel API call
   - static site generation and presentation layer
 - `public/`
   - built site output, excluded from Git
+
 
 ## Operating Model
 

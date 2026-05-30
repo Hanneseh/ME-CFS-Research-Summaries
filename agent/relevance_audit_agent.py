@@ -22,7 +22,7 @@ CONTENT_DIR = BASE_DIR / "content" / "summaries"
 PROMPTS_DIR = BASE_DIR / "agent" / "prompts"
 AUDIT_ROOT = BASE_DIR / ".agent" / "relevance_audits"
 
-DEFAULT_MODEL_ID = "gemini-3-flash-preview"
+DEFAULT_MODEL_ID = "gemini-3.5-flash"
 DEFAULT_THINKING_LEVEL = "high"
 
 
@@ -112,7 +112,8 @@ def load_summary(path: Path) -> SummaryInput:
         file_path=str(path.relative_to(BASE_DIR)),
         title=title,
         link=link,
-        published=str(metadata.get("published") or metadata.get("created") or "") or None,
+        published=str(metadata.get("published") or metadata.get("created") or "")
+        or None,
         tags=[str(tag) for tag in tags],
         markdown=body.strip(),
     )
@@ -142,7 +143,9 @@ async def audit_one(
     force: bool,
 ) -> RelevanceAuditResult:
     if result_path.exists() and not force:
-        return RelevanceAuditResult.model_validate_json(result_path.read_text(encoding="utf-8"))
+        return RelevanceAuditResult.model_validate_json(
+            result_path.read_text(encoding="utf-8")
+        )
 
     response = await client.aio.models.generate_content(
         model=model_id,
@@ -169,9 +172,15 @@ async def audit_one(
 async def run_audit(args: argparse.Namespace) -> Path:
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        raise RuntimeError("GEMINI_API_KEY is missing. Add it to .env or the shell environment.")
+        raise RuntimeError(
+            "GEMINI_API_KEY is missing. Add it to .env or the shell environment."
+        )
 
-    run_dir = Path(args.run_dir).expanduser() if args.run_dir else AUDIT_ROOT / datetime.now().strftime("%Y%m%d_%H%M%S")
+    run_dir = (
+        Path(args.run_dir).expanduser()
+        if args.run_dir
+        else AUDIT_ROOT / datetime.now().strftime("%Y%m%d_%H%M%S")
+    )
     if not run_dir.is_absolute():
         run_dir = BASE_DIR / run_dir
     results_dir = run_dir / "results"
@@ -222,13 +231,19 @@ async def run_audit(args: argparse.Namespace) -> Path:
                     f"score={result.overall_relevance_score} confidence={result.confidence:.2f}"
                 )
             except Exception as exc:
-                error_path = results_dir / (safe_result_name(summary.file_path) + ".error")
+                error_path = results_dir / (
+                    safe_result_name(summary.file_path) + ".error"
+                )
                 error_path.write_text(str(exc), encoding="utf-8")
                 print(f"[{index}/{len(summaries)}] ERROR {summary.file_path}: {exc}")
 
-    await asyncio.gather(*(worker(i + 1, summary) for i, summary in enumerate(summaries)))
+    await asyncio.gather(
+        *(worker(i + 1, summary) for i, summary in enumerate(summaries))
+    )
 
-    results.sort(key=lambda item: (item.decision, item.overall_relevance_score, item.file_path))
+    results.sort(
+        key=lambda item: (item.decision, item.overall_relevance_score, item.file_path)
+    )
     write_reports(run_dir, results)
     return run_dir
 
@@ -303,7 +318,9 @@ def write_reports(run_dir: Path, results: list[RelevanceAuditResult]) -> None:
     for result in grouped["keep"]:
         report_lines.extend(format_result_block(result, include_command=False))
 
-    (run_dir / "audit_report.md").write_text("\n".join(report_lines) + "\n", encoding="utf-8")
+    (run_dir / "audit_report.md").write_text(
+        "\n".join(report_lines) + "\n", encoding="utf-8"
+    )
 
     delete_script = run_dir / "delete_recommended.sh"
     delete_lines = [
@@ -318,7 +335,9 @@ def write_reports(run_dir: Path, results: list[RelevanceAuditResult]) -> None:
     delete_script.chmod(0o755)
 
 
-def format_result_block(result: RelevanceAuditResult, include_command: bool) -> list[str]:
+def format_result_block(
+    result: RelevanceAuditResult, include_command: bool
+) -> list[str]:
     lines = [
         f"### {result.file_path}",
         "",
@@ -333,7 +352,9 @@ def format_result_block(result: RelevanceAuditResult, include_command: bool) -> 
     if result.review_warning:
         lines.append(f"- Review warning: {result.review_warning}")
     if include_command:
-        lines.extend(["", "```bash", f"git rm -- {shlex.quote(result.file_path)}", "```"])
+        lines.extend(
+            ["", "```bash", f"git rm -- {shlex.quote(result.file_path)}", "```"]
+        )
     lines.append("")
     return lines
 
@@ -345,7 +366,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--model", default=DEFAULT_MODEL_ID)
     parser.add_argument("--concurrency", type=int, default=3)
     parser.add_argument("--limit", type=int, default=None)
-    parser.add_argument("--force", action="store_true", help="Re-run items with existing result JSON.")
+    parser.add_argument(
+        "--force", action="store_true", help="Re-run items with existing result JSON."
+    )
     parser.add_argument(
         "--run-dir",
         default=None,

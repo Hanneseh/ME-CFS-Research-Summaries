@@ -9,6 +9,7 @@ Prioritize papers that meet ONE or more of these criteria AND would make a patie
 2. **Actionable Treatments or Strong Therapeutic Signals**:
    - Interventional studies, pilot trials, high-quality observational treatment studies, or unusually informative patient-reported treatment datasets.
    - Include repurposed drugs, immune modulation, antivirals, anticoagulation/microcirculation approaches, autonomic treatments, or other interventions that could plausibly change disease biology or materially improve function.
+   - Include adjacent-field translational therapeutics (e.g., in oncology, autoimmune, or MS research) if they demonstrate a novel, high-signal mechanism for selectively targeting viral reservoirs (like EBV/HHV-6/HERVs), autoantibody-producing B-cells, or specific immune-inflammatory complexes without the high toxicity or broad immunosuppression of existing standard therapies.
    - Include major upcoming trials only if they test a serious disease-modifying or diagnostic-enabling intervention and are likely to matter to the field.
 
 3. **Diagnostics & Testability**:
@@ -74,7 +75,7 @@ Reject papers that meet ANY of these criteria:
 
 9. **Too Early / Too Indirect Models**:
    - Animal-only, cell-line-only, or analogy papers without a convincing bridge back to human ME/CFS or a highly plausible therapeutic target.
-   - Adjacent-disease papers should NOT be rejected automatically. Keep them if they offer a compelling mechanistic or therapeutic bridge that patients would plausibly care about.
+   - Adjacent-disease or adjacent-specialty (e.g., oncology, rheumatology) therapeutic papers should NOT be rejected automatically if they present a highly specific, low-toxicity molecular targeting mechanism (such as selective B-cell depletion, viral reservoir elimination, or cytokine-specific blockade) that directly addresses a major suspected driver of ME/CFS (such as latent EBV, autoantibody-producing plasma cells, or microvascular endotheliopathy).
    - Case reports of unrelated diseases (e.g., West Nile, MOGAD, MS) should usually be rejected unless they introduce a novel mechanism or treatment idea directly applicable to ME/CFS.
 </exclusion_criteria>
 

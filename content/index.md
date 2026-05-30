@@ -40,11 +40,10 @@ Papers that provide a strong signal of progress and hope:
 ---
 
 ## 🛠️ Transparent Process
-This site is semi-automated to allow me to monitor a high volume of research as a non-expert.
-- **Source:** I aggregate alerts from PubMed, Google Scholar, medRxiv and links I find on Reddit.
-- **AI Agent:** On ever last weekend of the month I run a custom Gemini-powered agent that creates these summaries from the collected alerts and updates the site.
-- **Open Source:** You can find the agent's logic and prompts on [GitHub](https://github.com/Hanneseh/ME-CFS-Research-Summaries).
-- **AI Integration:** Feel free to [copy the full archive](https://github.com/Hanneseh/ME-CFS-Research-Summaries/blob/main/all_summaries.md?plain=1) into your own AI tools for deep research.
+This site is semi-automated to enable efficient tracking of high-volume research.
+- **Source**: Ingestion is fully automated, programmatically retrieving unread email alerts (PubMed, Google Scholar, medRxiv) and checking Reddit (`/r/CFSScience`) RSS feeds.
+- **AI Agent**: A custom agent powered by **Gemini 3.5 Flash** filters duplicates, screens for relevance, researches the official publications, and writes structured, patient-facing summaries and taxonomy tags.
+- **Open Source**: The full pipeline, ingestion scripts, and prompts are open source and available on [GitHub](https://github.com/Hanneseh/ME-CFS-Research-Summaries).
 
 ## 🤝 Contact & Feedback
 Found a bug, a typo, or a missing study? Reach out at: **hannes.ehringfeld@gmail.com**
