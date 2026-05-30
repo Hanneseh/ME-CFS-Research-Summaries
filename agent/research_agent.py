@@ -156,6 +156,16 @@ class ResearchAgent:
     def _clean_json_response(self, text: str) -> str:
         return re.sub(r"```(?:json)?\n?|\n?```", "", text).strip()
 
+    def _sanitize_json_text(self, text: str) -> str:
+        """Sanitize raw Gemini response text by removing literal and escaped null bytes."""
+        if not text:
+            return ""
+        # Remove literal null bytes
+        text = text.replace("\x00", "")
+        # Remove escaped null bytes
+        text = text.replace("\\x00", "").replace("\\u0000", "")
+        return text
+
     def _clean_html(self, html_content: str) -> str:
         """Clean HTML content using BeautifulSoup."""
         if not html_content:
@@ -265,7 +275,7 @@ class ResearchAgent:
         if STAGE_1_OUTPUT.exists():
             print("Found existing Stage 1 output. Skipping synthesis.")
             data = Stage1Output.model_validate_json(
-                STAGE_1_OUTPUT.read_text(encoding="utf-8")
+                self._sanitize_json_text(STAGE_1_OUTPUT.read_text(encoding="utf-8"))
             )
             return data.publications
 
@@ -276,7 +286,7 @@ class ResearchAgent:
             try:
                 print("Loading pre-structured publications from reddit_feed.json...")
                 reddit_data = Stage1Output.model_validate_json(
-                    reddit_path.read_text(encoding="utf-8")
+                    self._sanitize_json_text(reddit_path.read_text(encoding="utf-8"))
                 )
                 reddit_publications = reddit_data.publications
                 print(f"Loaded {len(reddit_publications)} programmatic publications.")
@@ -332,7 +342,9 @@ class ResearchAgent:
             )
 
             # 5. Parse LLM response
-            data = Stage1Output.model_validate_json(response.text)
+            data = Stage1Output.model_validate_json(
+                self._sanitize_json_text(response.text)
+            )
             llm_publications = data.publications
             print(f"LLM parsed {len(llm_publications)} publications.")
         else:
@@ -360,7 +372,7 @@ class ResearchAgent:
         if STAGE_2_OUTPUT.exists():
             print("Found existing Stage 2 output. Skipping deduplication.")
             data = Stage2Output.model_validate_json(
-                STAGE_2_OUTPUT.read_text(encoding="utf-8")
+                self._sanitize_json_text(STAGE_2_OUTPUT.read_text(encoding="utf-8"))
             )
             return data.unique_publications
 
@@ -537,7 +549,9 @@ class ResearchAgent:
                 ),
             )
 
-            llm_data = Stage2Output.model_validate_json(response.text)
+            llm_data = Stage2Output.model_validate_json(
+                self._sanitize_json_text(response.text)
+            )
             llm_kept = llm_data.unique_publications
             print(f"Gemini Fallback cleared {len(llm_kept)} unique publications.")
         else:
@@ -564,7 +578,7 @@ class ResearchAgent:
         if STAGE_3_OUTPUT.exists():
             print("Found existing Stage 3 output. Skipping screening.")
             data = Stage3Output.model_validate_json(
-                STAGE_3_OUTPUT.read_text(encoding="utf-8")
+                self._sanitize_json_text(STAGE_3_OUTPUT.read_text(encoding="utf-8"))
             )
             # Filter to relevant ones
             relevant = [
@@ -619,7 +633,9 @@ class ResearchAgent:
                         response_schema=Stage3Output,
                     ),
                 )
-                batch_output = Stage3Output.model_validate_json(response.text)
+                batch_output = Stage3Output.model_validate_json(
+                    self._sanitize_json_text(response.text)
+                )
                 return batch_output.screened_publications
 
         tasks = [process_batch(batch, i) for i, batch in enumerate(batches)]
@@ -679,7 +695,7 @@ class ResearchAgent:
                     f"[{index}/{total}] Using existing Stage 4 result for: {item.title[:30]}"
                 )
                 result_4 = Stage4Result.model_validate_json(
-                    stage_4_path.read_text(encoding="utf-8")
+                    self._sanitize_json_text(stage_4_path.read_text(encoding="utf-8"))
                 )
             else:
                 print(f"[{index}/{total}] Processing Stage 4: {item.title[:30]}...")
@@ -711,7 +727,9 @@ class ResearchAgent:
                         ),
                     )
 
-                    result_4 = Stage4Result.model_validate_json(response_4.text)
+                    result_4 = Stage4Result.model_validate_json(
+                        self._sanitize_json_text(response_4.text)
+                    )
 
                     if not result_4.is_accessible:
                         filename = f"{safe_title}.json"

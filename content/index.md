@@ -33,6 +33,8 @@ Key highlights from our latest monthly curation run that represent major, intere
     Long-term (15-month) biomarker study connecting physical fatigue and post-exertional malaise (PEM) directly to firmer, fibrinogen-driven blood clots (ROTEM), supporting the microclot hypothesis.
 *   **`[May 2026]` [Reframing ME/CFS: Unified Mechanistic Model](./summaries/2026-05-22_Reframing_ME_CFS__toward_a_unified_mechanistic_mod.md)**  
     A landmark review establishing that ME/CFS biological abnormalities are *state-dependent* (manifesting post-provocation), explaining why routine resting blood tests are normal while exertion triggers severe PEM.
+*   **`[May 2026]` [Charité Conference Expert Perspectives](./summaries/2026-03-25_Awesome_graphic_that_contains_different_biological.md)**  
+    A comprehensive consensus report from the 3rd International Conference mapping the core biological abnormalities of ME/CFS (vascular, metabolic, immunological) to explain symptoms like PEM.
 
 ---
 ## ✨ Highlighted Research
