@@ -1,8 +1,8 @@
 ---
 title: Immune Dysregulation & Chronic Inflammation
 description: A living thread on cellular immune activation, cytokine profiles, CD8 T-cell dysfunction/exhaustion, monocyte subsets, HLA associations, mast cell activation, and inflammasome pathways in ME/CFS and Long COVID.
-date: 2026-05-19
-last_updated: 2026-06-29
+date: 2026-06-28
+last_updated: 2026-06-28
 thread_status: active
 evidence_level: clinical and mechanistic validation
 primary_topics:

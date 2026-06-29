@@ -1,8 +1,8 @@
 ---
 title: Clinical Characterization & Epidemiology
 description: A living thread on ME/CFS case definitions, clinical guidelines, epidemiology, cohort structure, symptom measurement, research infrastructure, and funding developments for ME/CFS and Long COVID.
-date: 2026-05-22
-last_updated: 2026-06-29
+date: 2026-06-28
+last_updated: 2026-06-28
 thread_status: active
 evidence_level: established clinical consensus with ongoing refinement
 primary_topics:

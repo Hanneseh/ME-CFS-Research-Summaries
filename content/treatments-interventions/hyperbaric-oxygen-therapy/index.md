@@ -1,8 +1,8 @@
 ---
 title: Hyperbaric Oxygen Therapy (HBOT)
 description: A living thread on hyperbaric oxygen therapy, clinical trials, prospective registries, neuroimaging findings, and safety signals in ME/CFS, Fibromyalgia, and Long COVID.
-date: 2025-10-31
-last_updated: 2026-06-29
+date: 2026-06-18
+last_updated: 2026-06-18
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:

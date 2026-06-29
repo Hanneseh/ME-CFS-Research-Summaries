@@ -1,8 +1,8 @@
 ---
 title: Mitochondrial & Metabolic Dysfunction
 description: A living thread on cellular bioenergetics, mitochondrial respiration, Complex V inefficiency, metabolomic and lipidomic profiles, and skeletal muscle energy failure in ME/CFS and Long COVID.
-date: 2026-05-12
-last_updated: 2026-06-29
+date: 2026-06-16
+last_updated: 2026-06-16
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:

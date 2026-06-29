@@ -1,8 +1,8 @@
 ---
 title: Immunoadsorption & Apheresis
 description: A living thread tracking immunoadsorption, H.E.L.P. apheresis, and other extracorporeal blood-filtration therapies for ME/CFS and Long COVID.
-date: 2023-10-09
-last_updated: 2026-06-29
+date: 2026-06-15
+last_updated: 2026-06-15
 thread_status: active
 evidence_level: early clinical observation
 primary_topics:

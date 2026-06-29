@@ -1,8 +1,8 @@
 ---
 title: Autonomic Dysfunction & POTS
 description: A living thread on postural orthostatic tachycardia syndrome (POTS), orthostatic intolerance, heart rate variability (HRV), and central or peripheral autonomic nervous system dysfunction in ME/CFS and Long COVID.
-date: 2026-04-28
-last_updated: 2026-06-29
+date: 2026-05-29
+last_updated: 2026-05-29
 thread_status: active
 evidence_level: clinical and physiological validation
 primary_topics:

@@ -1,8 +1,8 @@
 ---
 title: Viral Persistence & Reactivation
 description: A living thread on persistent viral reservoirs, herpesvirus reactivations, endogenous retrovirus expression, and viral-induced autoimmunity in ME/CFS and Long COVID.
-date: 2026-05-26
-last_updated: 2026-06-29
+date: 2026-06-28
+last_updated: 2026-06-28
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:

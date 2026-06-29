@@ -1,8 +1,8 @@
 ---
 title: Genetic Risk Factors
 description: A living thread on GWAS, whole-genome sequencing, Mendelian randomization, genetic correlations, rare monogenic variation, combinatorial genetic analysis, and gene-prioritization studies in ME/CFS.
-date: 2026-05-15
-last_updated: 2026-06-29
+date: 2026-06-11
+last_updated: 2026-06-11
 thread_status: active
 evidence_level: early replication, landmark GWAS published
 primary_topics:

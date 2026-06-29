@@ -1,8 +1,8 @@
 ---
 title: Emerging Pharmacotherapy
 description: Clinical trials, pilot studies, and case reports of repurposed drugs, supplements, and experimental therapies for ME/CFS and Long COVID.
-date: 2026-03-04
-last_updated: 2026-06-29
+date: 2026-06-28
+last_updated: 2026-06-28
 thread_status: active
 evidence_level: early clinical trials and pilot studies
 primary_topics:

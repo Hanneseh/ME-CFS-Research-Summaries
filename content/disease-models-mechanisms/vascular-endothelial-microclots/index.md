@@ -1,8 +1,8 @@
 ---
 title: Vascular Endothelial Dysfunction & Microclots
 description: A living thread on endothelial impairment, circulating microclots, red blood cell deformability, hypercoagulability, fibrin amyloid fibrils, and microvascular perfusion.
-date: 2026-04-22
-last_updated: 2026-06-29
+date: 2026-06-11
+last_updated: 2026-06-11
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:

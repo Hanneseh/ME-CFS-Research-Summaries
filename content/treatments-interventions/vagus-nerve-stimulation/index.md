@@ -1,8 +1,8 @@
 ---
 title: Vagus & Tragus Nerve Stimulation
 description: A living thread on transcutaneous and percutaneous auricular vagus nerve stimulation for post-viral fatigue and orthostatic intolerance.
-date: 2026-04-02
-last_updated: 2026-06-29
+date: 2026-06-18
+last_updated: 2026-06-18
 thread_status: active
 evidence_level: early clinical and randomized controlled trials
 primary_topics:

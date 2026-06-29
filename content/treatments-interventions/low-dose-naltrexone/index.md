@@ -1,8 +1,8 @@
 ---
 title: Low-Dose Naltrexone (LDN)
 description: A living thread on low-dose naltrexone, dextro-naltrexone, TRPM3 ion channel function, and neuroinflammation in ME/CFS and Long COVID.
-date: 2026-05-23
-last_updated: 2026-06-29
+date: 2026-06-02
+last_updated: 2026-06-02
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:

@@ -1,8 +1,8 @@
 ---
 title: Diagnostics & Biomarkers
 description: A living thread on diagnostic tests, biomarker panels, machine-learning classifiers, biosensors, assays, and measurement tools for ME/CFS and Long COVID.
-date: 2026-05-15
-last_updated: 2026-06-29
+date: 2026-05-29
+last_updated: 2026-05-29
 thread_status: active
 evidence_level: early clinical validation
 primary_topics:

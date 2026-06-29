@@ -1,8 +1,8 @@
 ---
 title: Post-Exertional Malaise & Exercise Physiology
 description: A living thread on PEM, repeat CPET, lactate recovery, pacing physiology, wearable monitoring, and exertion-response biomarkers in ME/CFS and Long COVID.
-date: 2026-05-24
-last_updated: 2026-06-29
+date: 2026-06-28
+last_updated: 2026-06-28
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:

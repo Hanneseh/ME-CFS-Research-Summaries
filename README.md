@@ -130,6 +130,7 @@ When adding new research:
 6. Run validation:
 
 ```bash
+poetry run python agent-cli/scripts/validate_thread_dates.py
 npx tsc --noEmit
 npx quartz build --baseDir /ME-CFS-Research-Summaries
 ```

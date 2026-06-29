@@ -1,8 +1,8 @@
 ---
 title: Neuroinflammation & Brain Changes
 description: A living thread on brain imaging, neurovascular coupling, microglial activation, and neuroendocrine alterations in ME/CFS and Long COVID.
-date: 2026-05-13
-last_updated: 2026-06-29
+date: 2026-06-28
+last_updated: 2026-06-28
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:

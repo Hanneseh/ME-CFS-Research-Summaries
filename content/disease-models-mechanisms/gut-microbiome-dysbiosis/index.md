@@ -1,8 +1,8 @@
 ---
 title: Gut Microbiome & Dysbiosis
 description: A living thread on bacterial and fungal dysbiosis, short-chain fatty acid depletion, intestinal barrier dysfunction, mucosal viral reservoirs, and microbiota-derived extracellular vesicles as mediators of gut-brain signaling in ME/CFS and Long COVID.
-date: 2026-03-02
-last_updated: 2026-06-29
+date: 2026-06-26
+last_updated: 2026-06-26
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:

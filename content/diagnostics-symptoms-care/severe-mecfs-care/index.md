@@ -1,8 +1,8 @@
 ---
 title: Care & Assessment for Severe ME/CFS
 description: A living thread on severe and very severe ME/CFS care, inpatient and outreach models, home-visit diagnostics, perioperative safety, and bedbound patient assessment.
-date: 2026-04-07
-last_updated: 2026-06-29
+date: 2026-06-01
+last_updated: 2026-06-01
 thread_status: active
 evidence_level: early clinical, protocol, and retrospective case series
 primary_topics:

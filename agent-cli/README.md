@@ -29,6 +29,19 @@ poetry run python agent-cli/scripts/extract_inventory.py
 poetry run python agent-cli/scripts/pre_filter.py
 ```
 
+Validate that thread homepage sorting dates match the newest timeline entry in
+each public thread:
+
+```bash
+poetry run python agent-cli/scripts/validate_thread_dates.py
+```
+
+Fix drift after a thread update:
+
+```bash
+poetry run python agent-cli/scripts/validate_thread_dates.py --fix
+```
+
 Prepare normalized Stage 2 artifacts after `raw_candidates.json` exists:
 
 ```bash
@@ -81,6 +94,7 @@ reviewed and folded into `content/`, delete the directory before committing:
 
 ```bash
 rm -rf agent-cli/state
+poetry run python agent-cli/scripts/validate_thread_dates.py
 npm run build
 ```
 
