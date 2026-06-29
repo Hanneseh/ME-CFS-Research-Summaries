@@ -1,3 +1,12 @@
 public
 node_modules
 .quartz-cache
+.quartz
+plugins/explorer/dist
+plugins/graph/dist
+
+# Legacy/generated research content is intentionally not reformatted during site migrations.
+agent/prompts
+content/summaries
+content/imprint.md
+README.md

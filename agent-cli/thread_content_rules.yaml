@@ -1,0 +1,203 @@
+version: 1
+purpose: "Machine-readable rules for creating and updating thread-first ME/CFS research content."
+
+paths:
+  group_pages: "content/<thread-group>/index.md"
+  thread_pages: "content/<thread-group>/<thread-slug>/index.md"
+  public_thread_content: "All public thread content belongs in the thread index.md file. Do not create separate public source-note pages inside thread folders."
+  group_folder_slugs:
+    treatments_interventions: "treatments-interventions"
+    disease_models_mechanisms: "disease-models-mechanisms"
+    diagnostics_symptoms_care: "diagnostics-symptoms-care"
+    miscellaneous_emerging_leads: "miscellaneous-emerging-leads"
+  required_link_conventions:
+    group_pages: "Use explicit relative Markdown links from public pages, e.g. [Treatments & Interventions](./treatments-interventions/)."
+    thread_pages: "Use explicit relative Markdown links only when the target thread folder exists, e.g. [Daratumumab & Plasma-Cell Targeting](./daratumumab-plasma-cell-targeting/)."
+    missing_thread_pages: "Do not link placeholder thread names until content/<thread-group>/<thread-slug>/index.md exists."
+    source_links: "Timeline source blocks link directly to original primary or best-available external sources, not internal source-note pages."
+
+public_content_structure:
+  direction: "The public site should converge toward folder index pages only: group folders contain thread folders, and every public thread is a single index.md page."
+  group_folder_rule: "Each group folder has exactly one public Markdown file: index.md."
+  thread_folder_rule: "Each thread folder has exactly one public Markdown file: index.md."
+  thread_folder_frontmatter_rule: "Each public thread index.md must include cssclasses: [thread-page] so Quartz does not display an empty folder listing below the thread."
+
+thread_taxonomy:
+  audience: "Caregivers and non-technical readers trying to navigate the ME/CFS and Long COVID research landscape."
+  group_order:
+    - "Treatments & Interventions"
+    - "Disease Models & Mechanisms"
+    - "Diagnostics, Symptoms & Care Context"
+    - "Miscellaneous & Emerging Leads"
+  groups:
+    treatments_interventions:
+      rule: "If a source is primarily about a clinical intervention, drug, device, trial, treatment registry, or treatment review, assign the treatment thread as primary even when the rationale is mechanistic."
+      threads:
+        daratumumab-plasma-cell-targeting: "Anti-CD38 daratumumab, plasma-cell targeting, ResetME, and related autoantibody-depletion trials."
+        low-dose-naltrexone: "Low-dose naltrexone and dextro-naltrexone evidence, mechanisms, trials, and registries."
+        rapamycin-mtor: "Rapamycin, sirolimus, mTOR inhibition, autophagy-focused treatment evidence."
+        hyperbaric-oxygen-therapy: "HBOT trials, registries, perfusion findings, and neurological outcome studies."
+        immunoadsorption-apheresis: "Immunoadsorption, H.E.L.P. apheresis, and other extracorporeal blood-filtration interventions."
+        antivirals-monoclonals: "Antiviral drugs, viral-targeting monoclonal antibodies, and pathogen-targeted immune therapies."
+        vagus-nerve-stimulation: "Transcutaneous, percutaneous, auricular, vagus, and tragus nerve stimulation interventions."
+        emerging-pharmacotherapy: "Other repurposed drugs, supplements, and medical interventions that do not yet warrant dedicated threads."
+    disease_models_mechanisms:
+      rule: "Use a mechanism thread as primary only when the source is mainly explanatory biology, translational mechanism work, or a disease-model review rather than a treatment, diagnostic tool, care protocol, or conference/funding item."
+      threads:
+        viral-persistence-reactivation: "Viral reservoirs, reactivation, viral proteins, post-viral triggers, and pathogen persistence."
+        immune-dysregulation-inflammation: "Cellular immune activation, cytokines, T cells, B cells, NK cells, monocytes, mast cells, and inflammatory pathways."
+        autoimmunity-autoantibodies: "GPCR autoantibodies, receptor antibodies, antigen profiling, IgG-mediated mechanisms, and autoimmune pathobiology."
+        mitochondrial-metabolic-dysfunction: "Mitochondrial respiration, metabolomics, lipidomics, energy metabolism, skeletal muscle energy failure, and myopathy."
+        vascular-endothelial-microclots: "Endothelial dysfunction, microclots, capillary flow, RBC deformability, hypercoagulability, and perfusion pathology."
+        autonomic-dysfunction-pots: "POTS, orthostatic intolerance, HRV, baroreflex control, dysautonomia, and autonomic nervous-system dysfunction."
+        neuroinflammation-brain-changes: "Brain imaging, CNS inflammation, neurovascular coupling, microglia, DMN/connectivity, neuroendocrine changes, cognitive dysfunction mechanisms."
+        gut-microbiome-dysbiosis: "Microbiome, mycobiome, gut barrier dysfunction, bacterial translocation, and gut-derived extracellular vesicles."
+        genetic-risk-factors: "GWAS, WGS, Mendelian randomization, genetic correlations, rare monogenic variation, DecodeME-style association studies, and genetic risk profiles."
+    diagnostics_symptoms_care:
+      rule: "Use these threads for measurement, patient characterization, care context, guidelines, and symptom physiology even when biological markers are involved."
+      threads:
+        pem-exercise-physiology: "PEM, exertion response, CPET, lactate recovery, pacing physiology, actigraphy, and exercise testing."
+        diagnostics-biomarkers: "Diagnostic tests, biomarkers, machine-learning classifiers, biosensors, assays, algorithms, and measurement tools."
+        clinical-characterization-epidemiology: "Case definitions, clinical guidelines, epidemiology, cohort structure, symptom scales, project/funding announcements, conference overviews, ethics, and trial-design context."
+        severe-mecfs-care: "Severe and very severe ME/CFS care, home visits, outreach diagnostics, anesthesia/perioperative safety, and bedbound patient assessment."
+        small-fiber-neuropathy: "Peripheral small-fiber neuropathy, dysautonomia overlap, Sudoscan, evoked potentials, skin biopsy, corneal microscopy, mast-cell mechanisms, and neuropathic pain."
+    miscellaneous_emerging_leads:
+      rule: "Use only for isolated, exploratory, infrastructure, or hard-to-classify sources that do not yet form a stable reader-facing thread."
+      threads:
+        miscellaneous-emerging-leads: "Parking thread for isolated leads; revisit periodically and split only when a coherent reader-facing cluster forms."
+
+classification_policy:
+  primary_thread_precedence:
+    - "treatment_or_intervention"
+    - "diagnostic_test_or_measurement_tool"
+    - "care_guideline_or_clinical_context"
+    - "disease_mechanism"
+    - "miscellaneous_or_emerging"
+  treatment_priority_rule: "Treatment trials, treatment registries, treatment protocols, and treatment-focused reviews must use the relevant treatment thread as primary. Put mechanism threads in secondary_threads."
+  diagnostic_priority_rule: "Machine-learning classifiers, diagnostic algorithms, psychometric scales, biomarker panels, biosensors, and measurement tools must use diagnostics-biomarkers or clinical-characterization-epidemiology as primary, not a mechanism thread."
+  conference_funding_rule: "General conference recaps, symposium summaries, project launches, funding announcements, consortium updates, and research-infrastructure notes should usually use clinical-characterization-epidemiology as primary unless the source is a specific talk about one thread."
+  severe_care_rule: "Home-visit protocols, outreach diagnostics for severe patients, anesthesia/perioperative safety, bedbound-patient assessment, and severe-care guidelines should use severe-mecfs-care as primary."
+  genetics_rule: "GWAS, WGS, DecodeME-style genetic association, Mendelian randomization, rare monogenic variation, genetic correlation, and gene-prioritization studies should use genetic-risk-factors as primary. Use mechanism threads as secondary when a specific pathway is implicated."
+  trpm3_rule: "TRPM3 ion channel dysfunction and TRPM3-focused validation studies should use low-dose-naltrexone as primary because LDN is the reader-facing intervention thread connected to this mechanism. Use immune or mitochondrial mechanism threads as secondary when relevant."
+  muscle_energy_rule: "Skeletal muscle, myopathy, muscle sodium, myoblast, biopsy, or peripheral energy-failure studies should not be assigned to neuroinflammation-brain-changes unless the source is primarily CNS/brain-focused."
+  secondary_thread_rule: "Use secondary_threads to preserve important mechanism, symptom, or treatment relationships without hiding the reader-facing primary classification."
+
+thread_page:
+  required_frontmatter:
+    - title
+    - description
+    - date
+    - last_updated
+    - thread_status
+    - evidence_level
+    - primary_topics
+    - cssclasses
+  required_sections:
+    - "Current Takeaway"
+    - "Why This Matters"
+    - "State of Evidence"
+    - "Timeline"
+  optional_sections:
+    - "Open Questions"
+    - "Related Threads"
+  style_and_tone:
+    no_self_reference: "Avoid referring to 'this thread', 'this page', 'the thread exists to', 'this update is important for the thread', or similar meta-commentary. Focus the content directly on the research, clinical data, and biological mechanisms."
+    no_explicit_justification: "Avoid explicit self-justification formulas (e.g., 'this is important because', 'this matters because', 'this is highly relevant'). Let the clinical relevance and biological rationale be clear from the facts and synthesis."
+  current_takeaway:
+    target_paragraphs: "2-3"
+    must_include:
+      - "plain-language research direction"
+      - "what changed or why the topic is tracked"
+      - "explicit uncertainty when evidence is early"
+    must_not_include:
+      - "clinical recommendations"
+      - "hype beyond source strength"
+      - "self-reference ('this thread', 'the thread exists to')"
+  state_of_evidence:
+    format: "short bullets grouped by evidence status"
+    preferred_labels:
+      - "Established"
+      - "Plausible but early"
+      - "Not established"
+      - "Key limitations"
+
+timeline_update:
+  heading_format: "### DATE_OR_PERIOD - concise event title"
+  date_rule: "Use an exact date only when the source material supports an exact publication, registry, conference, announcement, or event date. Use a bounded period such as 'Before YYYY-MM-DD' or 'YYYY-YYYY' when the source material indicates timing but not an exact date."
+  ordering: "evidence_sequence_then_chronology"
+  ordering_explanation: "Order updates by the reader's causal/evidence sequence first, then by source date within the same sequence level. A follow-up trial may appear after the pilot signal it tests even if the registry date is earlier than the pilot publication date."
+  date_fields:
+    event_timing: "When the research event happened or is known to have happened; may be exact, bounded, or approximate if source-supported."
+    source_date: "When the cited source was published, registered, posted, presented, or announced."
+    added_date: "When this site added or updated the note; never use this as the timeline date."
+  date_precision_policy:
+    exact_dates: "Use exact dates only from source metadata or source text."
+    bounded_dates: "Use phrases like 'Before 2025-06-01' only when a later dated source proves the event already existed by that date."
+    approximate_dates: "Use approximate dates only when the source itself gives approximate timing; make the uncertainty visible in the heading or first sentence."
+    no_invented_dates: true
+  same_day_order:
+    - "peer-reviewed paper"
+    - "preprint"
+    - "trial registry"
+    - "official announcement"
+    - "conference talk"
+    - "conference report"
+    - "news or social media report"
+  target_visible_detail:
+    sentences: "4-7"
+    must_answer:
+      - "what changed"
+      - "why it matters for the clinical direction or mechanism"
+      - "what it does not prove yet"
+  source_block:
+    label: "Sources"
+    required_for_each_update: true
+    minimum_sources: 1
+    preferred_format: "Markdown list of external primary source links; internal source-note links are optional but not a substitute."
+  expandable_detail:
+    allowed: false
+    rule: "Do not use click-to-expand details sections in thread timeline entries. Include the necessary detail inline."
+  inline_detail_policy:
+    required: true
+    rule: "Each timeline entry should contain enough visible context for a reader to understand the source type, the main update, the key caveat, and any provenance limitation without expanding hidden UI."
+
+ordering_rules:
+  primary_sort: "evidence_sequence_ascending"
+  secondary_sort: "event_date_ascending"
+  correction_rule: "If ingestion order conflicts with the evidence sequence, reorder by evidence sequence and preserve exact source dates in headings."
+  follow_up_rule: "A follow-up trial registry or announcement comes after the pilot/source it follows when the earlier work generated the rationale, even if the pilot paper was published later. State the mismatch explicitly in the relevant entries."
+  publication_after_event_rule: "If an event happened before its paper/report was published, create either one combined event entry that names the later publication date or two entries: one for the earlier research event and one for the later publication, depending on reader clarity."
+  conference_rule: "Conference updates are ordered by conference presentation date and must name the event, location when known, speaker or presenter, and talk/session title when available."
+
+linking_policy:
+  no_legacy_summary_links: true
+  source_priority:
+    - "peer-reviewed paper DOI or journal page"
+    - "trial registry record"
+    - "official conference talk/session/video page"
+    - "conference recap video with relevant timestamps"
+    - "official press release or funder/institution announcement"
+    - "preprint page"
+    - "conference abstract or proceedings"
+    - "high-signal secondary conference report"
+    - "social media or thread capture"
+  primary_source_requirement: "Every timeline update must link at least one best available original source unless no original source is publicly available."
+  secondary_source_requirement: "When using secondary reporting for details, label it as reporting and keep primary-source metadata separate."
+  generic_link_rule: "Do not link a generic agenda, homepage, or channel page when a specific paper, registry, talk, abstract, video, or announcement URL exists."
+  unavailable_primary_source_rule: "If the best primary page exists but the video/PDF/content is unavailable, keep the specific primary page and add the best secondary report for factual details."
+  dead_source_rule: "If a previously cited URL returns 404 or is otherwise unavailable, do not keep it as a normal source link. Replace it with the best available source and document the source downgrade in the source note limitations."
+  video_source_rule: "For video sources, include the URL, source type, speaker, relevant timestamp range, extraction method when known, and a caveat if the video is a recap rather than the primary presentation."
+
+validation_checks:
+  - "No Markdown link target may contain '/summaries/' unless explicitly allowed for a migration audit."
+  - "Thread timeline headings must match '### DATE_OR_PERIOD - ...' where DATE_OR_PERIOD is an exact date or a clearly marked source-supported period."
+  - "Timeline entries must follow evidence sequence; dates may be non-monotonic only when the text explains a follow-up relationship."
+  - "Conference updates must include event-specific metadata when available."
+  - "Generic source URLs must be replaced when a more specific source URL exists."
+  - "Exact dates must be traceable to source metadata or source text; approximate or bounded dates must visibly communicate uncertainty."
+  - "If a title contains machine learning, algorithm, classifier, diagnostic model, AUC, diagnose, psychometric, scale, or biomarker and primary_thread is a mechanism thread, flag for review."
+  - "If a title contains conference, symposium, overview, funding, project launch, consortium, ethics, or perspectives and primary_thread is a mechanism thread, flag for review."
+  - "If a title contains GWAS, WGS, genome-wide, DecodeME, genetic association, Mendelian randomization, monogenic variation, genetic architecture, or gene prioritization and primary_thread is not genetic-risk-factors, flag for review."
+  - "If a title or source focus contains TRPM3 ion channel dysfunction and primary_thread is not low-dose-naltrexone, flag for review."
+  - "If a title contains muscle, myopathy, skeletal, myoblast, biopsy, or sodium content and primary_thread is neuroinflammation-brain-changes, flag for review."
+  - "If an active thread has fewer than three primary sources, flag for possible merge, parked status, or secondary-only tag."

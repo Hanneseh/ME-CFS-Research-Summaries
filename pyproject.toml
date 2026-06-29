@@ -15,12 +15,14 @@ python-dotenv = "^1.2.1"
 pydantic = "^2.12.5"
 google-genai = "^1.56.0"
 tenacity = "^9.1.4"
+youtube-transcript-api = {version = "^1.2.4", python = ">=3.13,<3.15"}
 
 [tool.poetry.group.dev.dependencies]
 commitizen = "^4.10.1"
 deptry = "^0.24.0"
 ruff = "^0.15.15"
 pyright = "^1.1.409"
+pyyaml = "^6.0.3"
 
 [build-system]
 requires = ["poetry-core"]

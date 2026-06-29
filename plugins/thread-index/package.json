@@ -1,0 +1,22 @@
+{
+  "name": "@me-cfs/thread-index",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    }
+  },
+  "main": "./index.js",
+  "quartz": {
+    "name": "thread-index",
+    "displayName": "Thread Index",
+    "category": "pageType",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

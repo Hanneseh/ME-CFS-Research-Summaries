@@ -26,7 +26,7 @@ export default ((config: FlexConfig) => {
     return (
       <div
         class={classNames(props.displayClass, "flex-component")}
-        style={`flex-direction: ${direction}; flex-wrap: ${wrap}; gap: ${gap}; width: 100%;`}
+        style={`flex-direction: ${direction}; flex-wrap: ${wrap}; gap: ${gap};`}
       >
         {config.components.map((c) => {
           const grow = c.grow ? 1 : 0

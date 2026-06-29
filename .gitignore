@@ -52,6 +52,10 @@ htmlcov/
 
 # Test & build
 dist/
+!plugins/explorer/dist/
+!plugins/explorer/dist/**
+!plugins/graph/dist/
+!plugins/graph/dist/**
 docs/
 mails/
 data/
@@ -59,12 +63,15 @@ data/
 # Custom
 public/
 .quartz-cache/
+.quartz/
 .agent/
 agent/input/
 agent/state/
 agent/debug_prompts/
-scripts/
+/agent-cli/state/
+/scripts/
 
 # TypeScript & IDE Build Caches
 tsconfig.tsbuildinfo
 pyrightconfig.json
+*.eml
