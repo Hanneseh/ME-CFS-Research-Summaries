@@ -2,19 +2,32 @@
 
 Working area for the new thread-first local agent system.
 
-This directory is separate from the legacy `agent/` pipeline. The legacy `agent/`
-directory remains useful as reference for the old ingestion and summary flow, but
-new Antigravity/Codex-driven thread maintenance work should live here.
+This directory replaces the legacy standalone-summary agent. New
+Antigravity/Codex-driven thread maintenance work should live here.
 
 ## Contents
 
 - `thread_content_rules.yaml` - machine-readable content rules for thread pages,
   source notes, source verification, dates, links, and video-source handling.
 - `scripts/` - deterministic helper scripts used for bounded source checks.
+- `state/` - ignored transient run state created during one ingress pass.
 
 ## Current Tools
 
 Run Python tools through Poetry from the repository root.
+
+Ingest raw sources:
+
+```bash
+poetry run python agent-cli/ingress.py all --channel <YOUTUBE_CHANNEL_URL_OR_ID> --add-source <URL>
+```
+
+Build exact pre-filter artifacts:
+
+```bash
+poetry run python agent-cli/scripts/extract_inventory.py
+poetry run python agent-cli/scripts/pre_filter.py
+```
 
 Prepare normalized Stage 2 artifacts after `raw_candidates.json` exists:
 
@@ -60,6 +73,17 @@ The YouTube tool is only for video-source checking. Prefer direct papers,
 registries, abstracts, official pages, and written reports when those are the
 best available source material.
 
+## State Cleanup
+
+`agent-cli/state/` is not product source. It contains per-run batches, evidence
+packs, worker outputs, and reports. After the public thread edits have been
+reviewed and folded into `content/`, delete the directory before committing:
+
+```bash
+rm -rf agent-cli/state
+npm run build
+```
+
 ## Public Thread Structure
 
 Public content should converge toward an index-only Quartz folder model:
@@ -72,9 +96,9 @@ Thread pages should include `cssclasses: [thread-page]`. This hides Quartz's
 empty child-page listing on thread folders while preserving folder listings on
 group pages.
 
-## Intended Direction
+## Future Additions
 
-Future additions should include:
+Useful future helpers include:
 
 - deterministic Python helpers for source inventories, link checks, and
   frontmatter validation

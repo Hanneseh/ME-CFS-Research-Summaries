@@ -143,46 +143,64 @@ cd ../..
 npx quartz build --baseDir /ME-CFS-Research-Summaries
 ```
 
-## Research Agent
+## Thread-First Ingress Workflow
 
 ```mermaid
 flowchart TD
-    Ingest["Ingestion Alerts<br/>(Gmail IMAP & Reddit RSS)"] --> S1["Stage 1<br/>Data Synthesis"]
-    S1 --> S2["Stage 2<br/>Fuzzy Deduplication"]
-    S2 --> S3{"Stage 3<br/>Relevance Screen"}
-    S3 -- Keep --> S4["Stage 4<br/>Research & Integrate"]
-    S3 -- Reject --> Ex["Excluded"]
-    S4 --> Quartz["Quartz Digital Garden"]
+    Ingest["Stage 1<br/>Ingest alerts and discoveries"] --> Pre["Stage 2a<br/>Exact pre-filter"]
+    Pre --> Dedupe["Stage 2b<br/>Global dedupe and worker batches"]
+    Dedupe --> Curate{"Stage 2c<br/>Sub-agent curation"}
+    Curate -- Keep --> Packs["Stage 3<br/>Source evidence packs"]
+    Curate -- Reject --> Ex["Excluded or deferred"]
+    Packs --> Map["Stage 4a<br/>Global thread routing map"]
+    Map --> Threads["Stage 4b<br/>Thread synthesis edits"]
+    Threads --> Review["Stage 5<br/>Final review and cleanup"]
+    Review --> Quartz["Quartz Digital Garden"]
 
     style Ingest fill:#f5f5f5,stroke:#666,stroke-width:1px
-    style S1 fill:#e8f0fe,stroke:#1a73e8,stroke-width:1px
-    style S2 fill:#e8f0fe,stroke:#1a73e8,stroke-width:1px
-    style S3 fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
-    style S4 fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    style Pre fill:#e8f0fe,stroke:#1a73e8,stroke-width:1px
+    style Dedupe fill:#e8f0fe,stroke:#1a73e8,stroke-width:1px
+    style Curate fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
+    style Packs fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    style Map fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    style Threads fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    style Review fill:#f3e5f5,stroke:#7b1fa2,stroke-width:1px
     style Ex fill:#ffebee,stroke:#c62828,stroke-width:1px
     style Quartz fill:#ede7f6,stroke:#6a1b9a,stroke-width:1px
 ```
 
-| Stage     | Purpose                                                     | Notes                                                           |
-| :-------- | :---------------------------------------------------------- | :-------------------------------------------------------------- |
-| `Ingestion` | Fetch incoming unread alerts and clean the inboxes        | `fetch_emails.py` (Gmail IMAP) & `fetch_reddit.py` (RSS feeds)  |
-| `Stage 1` | Parse raw, messy inputs into candidate publications         | Programmatic parsing for structured JSON + LLM for raw emails    |
-| `Stage 2` | Filter duplicates against the existing corpus               | Programmatic exact link/title match + fuzzy `SequenceMatcher` fallback |
-| `Stage 3` | Decide whether an item belongs in the garden                | Prompt-based screening using versioned relevance criteria       |
-| `Stage 4` | Research the paper and integrate it into thread pages       | Grounded source review, thread selection, and timeline updates  |
+The current ingress system is local, staged, and thread-first. Codex coordinates
+the run, deterministic Python scripts prepare bounded artifacts, and
+Antigravity/Gemini worker sessions handle token-intensive reading, clustering,
+and synthesis. The public source of truth is always the living thread Markdown
+under `content/`, not the temporary state files produced during an import run.
 
-The legacy agent code is still present as a reference point. The next generation should be local and thread-first: it should classify new sources into existing thread updates or proposed new threads, then edit the living Markdown pages rather than generating standalone chronological summaries.
+| Stage | Purpose | Primary files |
+| :--- | :--- | :--- |
+| `Stage 1` | Fetch unread email alerts, Reddit/RSS items, YouTube channel uploads, and manual URLs | `agent-cli/ingress.py`, `agent-cli/input/` |
+| `Stage 2a` | Extract existing citations and remove exact duplicates | `agent-cli/scripts/extract_inventory.py`, `agent-cli/scripts/pre_filter.py` |
+| `Stage 2b` | Normalize candidates, cluster globally, and emit worker batches | `agent-cli/scripts/stage_2_prepare.py` |
+| `Stage 2c` | Use bounded worker sessions to screen relevance, resolve wrappers, and map candidate clusters to valid thread slugs | `agent-cli/scripts/consolidate_worker_reviews.py` |
+| `Stage 3` | Create source-level evidence packs for retained sources | `agent-cli/state/evidence_packs/` during a run |
+| `Stage 4` | Build a global thread routing map, then update public thread pages by thread or thread family | `content/**/index.md` |
+| `Stage 5` | Review diffs, run the Quartz build, delete transient run state, and publish | `.gitignore`, `npm run build` |
+
+`agent-cli/state/` is intentionally ignored. It is scratch/audit state for a
+single ingress run and can be deleted after the reviewed material has been
+folded into public thread pages.
 
 ## Project Structure
 
-- `agent/`
-  - legacy ingestion and research-agent code retained for future thread-first refactoring
-- `agent/fetch_emails.py`
-  - automated Gmail IMAP unread alert fetcher and inbox cleaner
-- `agent/fetch_reddit.py`
-  - automated Reddit RSS feed scraper and Pydantic JSON generator
-- `agent/prompts/`
-  - version-controlled prompts for screening, summarization, and tagging
+- `agent-cli/`
+  - thread-first local ingress workspace, deterministic helper scripts, and
+    machine-readable thread rules
+- `agent-cli/ingress.py`
+  - unified command for email, Reddit/RSS, YouTube, and manual source intake
+- `agent-cli/scripts/`
+  - deterministic helpers for inventory extraction, pre-filtering, Stage 2
+    preparation, worker-review consolidation, and YouTube transcript checks
+- `agent-cli/state/`
+  - ignored transient run state; delete after a completed and reviewed import
 - `content/<thread-group>/<thread-slug>/index.md`
   - public living research thread pages
 - `content/index.md`
