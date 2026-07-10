@@ -1,8 +1,8 @@
 ---
 title: Hyperbaric Oxygen Therapy (HBOT)
 description: A living thread on hyperbaric oxygen therapy, clinical trials, prospective registries, neuroimaging findings, and safety signals in ME/CFS, Fibromyalgia, and Long COVID.
-date: 2026-06-18
-last_updated: 2026-06-18
+date: 2026-06-22
+last_updated: 2026-06-22
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -21,7 +21,7 @@ cssclasses: [thread-page]
 
 Hyperbaric Oxygen Therapy (HBOT) is an intervention that involves breathing pure oxygen in a pressurized chamber, which increases blood oxygenation and tissue perfusion. In Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS), Fibromyalgia, and Long COVID, clinical trials, prospective registries, and neuroimaging studies explore whether HBOT can alleviate core symptoms like fatigue, chronic pain, and cognitive dysfunction. The scientific rationale for HBOT centers on its potential to reverse tissue hypoxia, reduce neuroinflammation, and restore functional brain connectivity.
 
-Recent research has advanced the field by providing both larger real-world registry data and objective neuroimaging correlates. A systematic review in fibromyalgia confirmed pain-relief benefits from early trials, while a large-scale Long COVID registry reported quality-of-life improvements in about 60% of patients. Most recently, a prospective cohort study in ME/CFS linked clinical improvements to the normalization of baseline thalamic functional hyperconnectivity using fMRI, suggesting a specific central nervous system mechanism.
+Recent research has advanced the field by providing both larger real-world registry data and objective neuroimaging correlates. A systematic review in fibromyalgia confirmed pain-relief benefits from early trials, while a large-scale Long COVID registry reported quality-of-life improvements in about 60% of patients. Most recently, a prospective cohort study and conference updates in ME/CFS linked clinical improvements to the normalization of baseline thalamic functional hyperconnectivity using fMRI, suggesting a specific central nervous system mechanism and indicating that a 40-session protocol is superior to a 20-session protocol, though responses remain heterogeneous and physical gains declined for the overall cohort by month 11.
 
 However, the state of the evidence remains early and characterized by significant uncertainty. All major clinical findings are derived from systematic reviews of small trials, uncontrolled registries, or small prospective cohorts without a sham-control group. Because intensive daily protocols can be physically exhausting, there is a documented risk of clinical deterioration in a subset of patients, particularly those prone to post-exertional malaise (PEM). Large-scale, randomized, double-blind sham-controlled trials are urgently needed to establish true efficacy and standardized, safe protocols.
 
@@ -34,7 +34,7 @@ HBOT is a highly sought-after, expensive, and intensive intervention that is cur
 - **Established:** Standard daily HBOT protocols carry a high patient burden, and mild barotrauma (ear pressure issues) is the most common reversible side effect across clinical cohorts.
 - **Plausible but early:** HBOT may improve pain, fatigue, and cognitive function in fibromyalgia, Long COVID, and ME/CFS; a 40-session protocol appears superior to 20 sessions for physical functional gains and pain relief; clinical response is associated with fMRI normalization of baseline thalamic hyperconnectivity.
 - **Not established:** True clinical efficacy of HBOT (differentiating active treatment from sham/placebo effects) in post-infectious cohorts; long-term durability of clinical benefit beyond 11 months.
-- **Key limitations:** Most clinical studies are small, observational, and lack a sham-treatment control group, which is crucial due to high placebo susceptibility; prospective registries and off-label access exhibit selection bias due to self-funding; demanding protocols can trigger post-exertional malaise (PEM) or clinical worsening; severely affected, homebound patients are excluded from trial designs, limiting generalizability.
+- **Key limitations:** Most clinical studies are small, observational, and lack a sham-treatment control group, which is crucial due to high placebo susceptibility; prospective registries and off-label access exhibit selection bias due to self-funding; demanding protocols can trigger post-exertional malaise (PEM) or clinical worsening; severely affected, homebound patients are excluded from trial designs, limiting generalizability; clinical response is highly heterogeneous, with overall cohort physical function gains declining by month 11.
 
 ## Timeline
 
@@ -70,3 +70,11 @@ A mixed-methods pilot study of six participants with Long COVID evaluated the sa
 Sources:
 
 - [Gale et al. 2026, British Journal of Nursing](https://doi.org/10.12968/bjon.2025.0241)
+
+### 2026-06-22 - Conference presentation reports Phase II trial comparing 40 vs. 20 sessions of HBOT in ME/CFS
+
+At the Internationale ME/CFS-Konferenz 2026, Dr. Claudia Kedor presented findings from a Phase II observational two-cohort trial comparing 40 versus 20 sessions of Hyperbaric Oxygen Therapy (HBOT) (90-minute sessions of 100% oxygen at 2.0 ATA, 3–5 times weekly) in post-infectious ME/CFS patients. Both groups showed significant improvements in fatigue and cognitive processing speed at month 3, with the 40-session cohort showing more sustained benefits up to 11 months. Furthermore, only the 40-session cohort achieved significant, long-term improvements in pain, hand grip strength, and 1-minute sit-to-stand performance, which correlated with the normalization of thalamic functional connectivity on MRI. These preliminary findings suggest that a full 40-session course may be superior to a shorter 20-session protocol for sustained symptomatic relief, though clinical responses remain heterogeneous. However, these results are preliminary as the trial was observational, lacked a randomized sham-control group to rule out placebo effects, and was limited by high dropout rates in the 20-session cohort.
+
+Sources:
+
+- [Kedor 2026, Internationale ME/CFS-Konferenz 2026](https://youtu.be/k4ixa1mIZng)

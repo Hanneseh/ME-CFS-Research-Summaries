@@ -1,8 +1,8 @@
 ---
 title: Diagnostics & Biomarkers
 description: A living thread on diagnostic tests, biomarker panels, machine-learning classifiers, biosensors, assays, and measurement tools for ME/CFS and Long COVID.
-date: 2026-05-29
-last_updated: 2026-05-29
+date: 2026-07-10
+last_updated: 2026-07-10
 thread_status: active
 evidence_level: early clinical validation
 primary_topics:
@@ -17,9 +17,9 @@ cssclasses: [thread-page]
 
 ## Current Takeaway
 
-No single biomarker or diagnostic test for ME/CFS has reached clinical deployment, but a growing body of blood-based, genomic, metabolomic, and functional studies has moved the field from exclusion-by-symptoms toward measurable biological signatures. Epigenetic profiling, circulating cell-free RNA, extracellular vesicle cargo, metabolomic machine-learning classifiers, and autonomic measurements have each shown the ability to separate ME/CFS cohorts from healthy controls with accuracies ranging from around 77 percent to well above 90 percent in initial studies. The consistency across modalities is notable: immune dysregulation, metabolic inflexibility, and autonomic dysfunction all produce detectable signals, and multiple independent groups have converged on overlapping biological pathways.
+No single biomarker or diagnostic test for ME/CFS has reached clinical deployment, but a growing body of blood-based, genomic, metabolomic, and functional studies has moved the field from exclusion-by-symptoms toward measurable biological signatures. 3D chromosome conformation profiling, circulating cell-free RNA, exploratory extracellular vesicle cargo proteomics, metabolomic machine-learning classifiers, and autonomic measurements have each shown the ability to separate ME/CFS cohorts from healthy controls with accuracies ranging from around 77 percent to well above 90 percent in initial retrospective or pilot studies. The consistency across modalities is notable: immune dysregulation, metabolic inflexibility, and autonomic dysfunction all produce detectable signals, and multiple independent groups have converged on overlapping biological pathways.
 
-The evidence is still early. Most studies use small, selected, or single-center cohorts, very few include mild or moderate patients alongside severe cases, and none of the candidate tests has been validated head-to-head against other chronic inflammatory conditions in a prospective clinical setting. Machine-learning models trained on one dataset frequently need revalidation before they generalize. The practical direction is toward multi-marker panels and interpretable, low-cost methods that can scale to routine clinical use, while leaving any single universal test unproven.
+The evidence is still early. Most studies use small, selected, or single-center cohorts, and prospective validation of exploratory biomarkers—such as candidate epigenetic panels or extracellular vesicle cargo—in real-world clinical settings remains a key barrier. Very few studies include mild or moderate patients alongside severe cases, and none of the candidate tests has been validated head-to-head against other chronic inflammatory conditions in a prospective clinical setting. Machine-learning models trained on one dataset frequently need revalidation before they generalize. The practical direction is toward multi-marker panels and interpretable, low-cost methods that can scale to routine clinical use, while leaving any single universal test unproven.
 
 ## Why This Matters
 
@@ -30,9 +30,9 @@ Multiplexed protein biosensors, cfRNA liquid biopsy, epigenetic chromosome-confo
 ## State of Evidence
 
 - **Established:** ME/CFS produces measurable biological differences from healthy controls across multiple modalities, including immune gene expression, plasma metabolites, autonomic parameters, and circulating nucleic acids. Machine-learning classifiers built on these signals routinely exceed 80 percent accuracy in discovery cohorts.
-- **Plausible but early:** Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle miRNA panels, SMPDL3B plasma levels, metabolomic AutoML models, and beat-to-beat autonomic classifiers each show strong initial performance. Multi-omics integration and large-language-model-adjacent tools may allow molecular subtyping to replace symptom-only classification.
-- **Not established:** Any single test validated prospectively against clinical diagnosis across mild, moderate, and severe ME/CFS. Head-to-head specificity against overlapping conditions such as multiple sclerosis, rheumatoid arthritis, and fibromyalgia. Diagnostic biomarkers derived from exercise-challenge (PEM) conditions rather than resting samples.
-- **Key limitations:** Small and often severely ill or female-only cohorts, cross-sectional designs that cannot prove causation, limited external replication, and the technical gap between research-grade assays and scalable clinical tests. Some metabolomic and epigenetic models rely on proprietary or not-yet-commercial platforms.
+- **Plausible but early:** Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle cargo profiling, SMPDL3B plasma levels, metabolomic AutoML models, and beat-to-beat autonomic classifiers each show strong initial performance in retrospective or pilot cohorts. Multi-omics integration, post-exertional provocation models, and machine-learning tools may allow molecular subtyping and cognitive trajectory mapping to supplement symptom-based classification.
+- **Not established:** Any single test validated prospectively against clinical diagnosis across mild, moderate, and severe ME/CFS. Head-to-head specificity against overlapping conditions such as multiple sclerosis, rheumatoid arthritis, and fibromyalgia. Clinically validated diagnostic biomarkers derived from exercise-challenge (PEM) provocation protocols, though pilot multi-omic and cognitive trajectory studies are underway.
+- **Key limitations:** Small and often severely ill or female-only cohorts, cross-sectional designs that cannot prove causation, lack of prospective validation, and the technical gap between research-grade assays and scalable clinical tests. Some metabolomic and epigenetic models rely on proprietary platforms with inherent developer conflicts of interest.
 
 ## Timeline
 
@@ -67,14 +67,6 @@ This editorial in Neuroprotection, introducing a thematic journal issue, grouped
 Sources:
 
 - [Walczak et al. 2024/2025, Neuroprotection](https://doi.org/10.1002/nep3.70017)
-
-### 2025-10-08 - EpiSwitch® chromosome-conformation test reaches 96% accuracy for severe ME/CFS
-
-A retrospective case-control study from Oxford BioDynamics and the University of East Anglia analyzed whole blood from 47 severely ill, housebound ME/CFS patients and 61 healthy controls using a genome-wide microarray screening nearly one million chromosome conformations. A machine-learning model selected 200 markers that formed the EpiSwitch CFS test, which in an independent validation cohort achieved 92 percent sensitivity, 98 percent specificity, and 96 percent overall accuracy. Pathway analysis of the markers revealed dysregulation of IL-2, TNFα, and JAK/STAT signaling and allowed patients to cluster into distinct biological subgroups, which points toward precision immunotherapy matching. The test has not yet been validated against other chronic inflammatory diseases such as MS or rheumatoid arthritis, and the cohort was limited to severe cases, leaving mild and moderate ME/CFS applicability unknown.
-
-Sources:
-
-- [Hunter et al. 2025, Journal of Translational Medicine](https://doi.org/10.1186/s12967-025-07203-w)
 
 ### 2025-10-30 - AutoML metabolomics model achieves 87% diagnostic accuracy using explainable AI
 
@@ -180,13 +172,37 @@ Sources:
 
 - [Heidarifard et al. 2026, International Journal of Molecular Sciences](https://pubmed.ncbi.nlm.nih.gov/42278463/)
 
-### 2026-06 - Study finds elevated plasma EV concentrations but protein cargo changes lack statistical correction significance
+### 2026-06-15 - Alain Moreau presentation outlines home-based PEM provocation and cognitive trajectories
 
-In an exploratory case-control study published in *Biochemistry and Biophysics Reports*, Rydland et al. analyzed plasma extracellular vesicle (EV) profiles in 49 ME/CFS patients and 50 healthy controls. While they successfully replicated findings of significantly higher concentrations of EVs in ME/CFS patients compared to healthy controls, their proteomic analysis yielded less robust results. Of 424 proteins analyzed, 11 showed differing levels—including elevated liver-derived proteins and decreased erythroid and B-cell-derived proteins—but these differences did not survive correction for multiple testing or correlate with illness severity. The study was underpowered due to the relatively small sample size, and functional replication is needed.
+In a conference presentation at the Internationale ME/CFS-Konferenz 2026, Alain Moreau presented early pilot data detailing a deep phenotyping and post-exertional malaise (PEM) provocation protocol. The protocol utilizes a home-based inflatable cuff massage to safely and standardly trigger post-exertional responses in severely affected patients, followed by multi-omics analysis. Post-provocation, researchers identified three distinct cognitive trajectories using a 10-minute tablet-based BrainCheck test, which were indistinguishable at baseline: memory decline (Cluster A), resilience (Cluster B), and severe multi-domain decline (Cluster C). The severe decline group correlated with reduced cerebral oxygen extraction via near-infrared spectroscopy (NIRS) and a sudden drop in circulating brain-derived neurotrophic factor (BDNF). Vulnerability in Cluster C was linked to the HP2-1 haptoglobin phenotype and elevated soluble LRP1, which acts as a decoy blocking hemoglobin detoxification. While offering therapeutic leads like recombinant haptoglobin, pentoxifylline, and mitapivat, these findings represent early pilot data requiring validation in larger cohorts, and active provocation carries risk of clinical worsening.
 
 Sources:
 
-- [Rydland et al. 2026, Biochemistry and Biophysics Reports](https://www.sciencedirect.com/science/article/pii/S2405580826002396)
+- [Moreau 2026, Internationale ME/CFS-Konferenz](https://youtu.be/xOMQANDBoT4)
+
+### 2026-07-10 - EpiSwitch® 3D genomic test validated in retrospective severe cohort
+
+In a peer-reviewed retrospective case-control study published in the *Journal of Translational Medicine*, researchers validated the EpiSwitch® 3D genomic test for ME/CFS. Using whole-genome 3D DNA screening of peripheral blood mononuclear cells from 47 severe ME/CFS patients and 61 healthy controls, the study developed a 200-marker chromosome conformation model. The diagnostic panel achieved 92 percent sensitivity and 98 percent specificity in an independent retrospective validation cohort. Pathway analysis linked these conformation markers to neuroinflammatory, tumor necrosis factor alpha (TNFα), and JAK/STAT signaling, and identified a potential responder subpopulation for Rituximab and glatiramer acetate based on IL-2 pathway conformations. However, the study is limited by its retrospective design, lack of validation in mild-to-moderate cohorts, and a potential commercial conflict of interest, as multiple co-authors are employees of the test's developer, Oxford BioDynamics plc. Prospective clinical validation is still required before the assay can be deployed as a routine diagnostic tool.
+
+Sources:
+
+- [Hunter et al. 2025/2026, Journal of Translational Medicine](https://pubmed.ncbi.nlm.nih.gov/41057909/)
+
+### 2026-07-10 - Exploratory proteomics identifies cellular cargo changes in plasma extracellular vesicles
+
+In a peer-reviewed exploratory case-control study published in *Biochemistry and Biophysics Reports*, Rydland et al. analyzed plasma extracellular vesicle (EV) profiles in 49 ME/CFS patients and 50 healthy controls. The study successfully replicated findings showing significantly elevated total concentrations of plasma EVs in ME/CFS patients compared to controls. However, high-resolution quantitative proteomics of the vesicle cargo yielded less robust diagnostic markers. Out of 424 detected proteins, 11 proteins showed differential expression (including elevated liver-derived proteins and decreased erythroid and B-cell-derived proteins), but these differences did not remain statistically significant after correcting for multiple testing. While the study provides further evidence for altered systemic vesicle biology and cellular communication, the small cohort size and lack of multiple testing significance mean these specific protein cargo signatures remain unvalidated, exploratory findings requiring larger replication cohorts.
+
+Sources:
+
+- [Rydland et al. 2026, Biochemistry and Biophysics Reports](https://pubmed.ncbi.nlm.nih.gov/42375682/)
+
+### 2026-07-10 - Systematic review identifies NF-κB pathway as central hub for PAIS biomarkers
+
+In a peer-reviewed systematic literature review of 142 studies analyzing biomarkers in post-acute infection syndromes (PAIS), researchers synthesized molecular findings across Long COVID (PACS), ME/CFS, and Guillain-Barré syndrome (GBS). The review identifies widespread alterations across multiple physiological domains, including energy, lipid, and amino acid metabolism, gut microbiome dysbiosis, mitochondrial stress, and microRNA (miRNA) regulatory networks. Notably, the authors identify the NF-κB pathway as a central molecular hub that connects cellular stress, persistent immune activation, metabolic reprogramming, and systemic inflammation. The review argues that PAIS is a multisystem disorder driven by persistent dysregulated host responses rather than active viral replication, supporting a clinical shift toward mechanism-based classification. However, because the review synthesizes existing literature with high heterogeneity in patient cohorts and analytical methods, it does not present new primary patient data or validate a clinical diagnostic test.
+
+Sources:
+
+- [PAIS Biomarker Review 2026, Frontiers in Immunology](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1741761/full)
 
 ## Related Threads
 

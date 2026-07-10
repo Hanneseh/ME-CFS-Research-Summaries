@@ -20,7 +20,8 @@ Mitochondrial and metabolic dysfunction remain one of the strongest biological f
 
 The latest additions strengthen that pattern without resolving it. New conference and preprint data point to sex-specific arginine and polyamine abnormalities, intrinsic metabolic reprogramming in patient-derived myogenic cells, large-cohort dried blood spot signatures converging on carnitine shuttle and TCA-cycle pathways, persistent handgrip-based muscle dysfunction, and reduced cerebral ATP-to-phosphocreatine ratios in a post-COVID cohort that partly overlaps with ME/CFS criteria. Together these findings support a distributed energy-processing problem rather than a universal one-size-fits-all signature.
 
-Important uncertainty remains. Several of the newest signals come from conference talks, preprints, or exploratory models, and some cohorts are small, female-only, or based on self-reported PEM-like phenotypes rather than clinically adjudicated ME/CFS. A recent Long COVID metabolic review remains useful as synthesis support, but it does not add new primary human evidence on its own.
+Important uncertainty remains. Several of the newest signals come from conference talks, preprints, or exploratory models, and some cohorts are small, female-only, or based on self-reported PEM-like phenotypes rather than clinically adjudicated ME/CFS. A recent Long COVID metabolic review remains useful as synthesis support, but it does not add new primary human evidence on its own. Cell-line metabolic profiling in Long COVID also points to increased glycolytic reliance, but these in vitro findings are early, based on small cohorts, and cannot yet be assumed as established mechanisms in ME/CFS.
+
 
 ## Why This Matters
 
@@ -29,9 +30,9 @@ Elucidating the molecular pathways of mitochondrial and metabolic failure provid
 ## State of Evidence
 
 - **Established:** ME/CFS and Long COVID cohorts repeatedly show abnormalities in energy metabolism, including post-exertional recovery failure, altered lipid and amino-acid handling, and objective peripheral muscle dysfunction. Structural and functional muscle findings continue to support impaired energy handling rather than simple deconditioning.
-- **Plausible but early:** Newer 2026 studies suggest that the signal is heterogeneous and tissue-specific. Male ME/CFS cohorts may show arginine-NO pathway imbalance, patient-derived myogenic cells may shift toward branched-chain amino acid degradation, dried blood spot metabolomics may recover pathway-level convergence at scale, and phosphorus-MRS may detect impaired cerebral high-energy phosphate buffering.
-- **Not established:** No single mitochondrial or metabolomic signature has been shown to define all patients, separate ME/CFS cleanly from overlapping post-viral syndromes, or prove one causal entry point. Drug-repurposing outputs derived from transcriptomic datasets remain hypothesis-generating rather than treatment evidence.
-- **Key limitations:** Several recent additions are conference presentations or preprints without full peer-reviewed methods. Some cohorts are small, sex-restricted, or based on self-reported phenotypes. Narrative reviews, including the 2026 Long COVID metabolic synthesis, are helpful for context but do not replace primary cohort data.
+- **Plausible but early:** Newer 2026 studies suggest that the signal is heterogeneous and tissue-specific. Male ME/CFS cohorts may show arginine-NO pathway imbalance, patient-derived myogenic cells may shift toward branched-chain amino acid degradation, dried blood spot metabolomics may recover pathway-level convergence at scale, phosphorus-MRS may detect impaired cerebral high-energy phosphate buffering, and in vitro models of Long COVID cells show altered substrate utilization.
+- **Not established:** No single mitochondrial or metabolomic signature has been shown to define all patients, separate ME/CFS cleanly from overlapping post-viral syndromes, or prove one causal entry point. Drug-repurposing outputs derived from transcriptomic datasets remain hypothesis-generating, and in vitro cell line findings from Long COVID cohorts have not been established as direct ME/CFS pathomechanisms.
+- **Key limitations:** Several recent additions are conference presentations or preprints without full peer-reviewed methods. Some cohorts are small, sex-restricted, or based on self-reported phenotypes. In vitro studies using immortalized cell lines (such as lymphoblastoid lines in Long COVID) have very small sample sizes and may reflect culture adaptations rather than in vivo physiology. Narrative reviews, including the 2026 Long COVID metabolic synthesis, are helpful for context but do not replace primary cohort data.
 
 ## Timeline
 
@@ -260,6 +261,16 @@ Sources:
 Sources:
 
 - [Ikeda et al. 2026, Open Forum Infectious Diseases](https://doi.org/10.1093/ofid/ofag209)
+
+### 2026-05-26 - In vitro metabolic profiling maps altered energy substrate utilization in Long COVID
+
+- **What changed:** A study comparing Epstein-Barr virus (EBV)-immortalized lymphoblastoid cell lines (LCLs) from 10 Long COVID patients and 10 healthy controls using mammalian microarrays identified a two-fold enhanced utilization of glycolytic and anaerobic substrates. Additionally, cells from patients with more severe symptoms (>4 symptoms) showed significant metabolic deviations, including lower energy levels across 36 compounds and reduced NADH production, combined with a blunted response to metabolic effectors and growth factors.
+- **Why it matters:** This supports the hypothesis of cellular-level bioenergetic reprogramming and metabolic dysfunction in post-viral syndromes, suggesting that affected cells adapt to chronic stress by unsustainably shifting toward anaerobic pathways.
+- **What it does not prove yet:** The study is restricted to a small cohort, relies on in vitro culture-adapted LCLs rather than unmanipulated primary patient tissues, and cannot establish these Long COVID cell line findings as an established pathomechanism for ME/CFS.
+
+Sources:
+
+- [Srikanth et al. 2026, Infectious Disease Reports](https://doi.org/10.3390/idr18030050)
 
 ### 2026-06-10 - Dried blood spot metabolomics shows pathway-level convergence with ME/CFS biology in a large community cohort
 

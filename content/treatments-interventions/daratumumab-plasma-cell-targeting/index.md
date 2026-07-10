@@ -20,9 +20,9 @@ cssclasses:
 
 ## Current Takeaway
 
-Daratumumab is an anti-CD38 monoclonal antibody that depletes plasma cells, the immune cells responsible for long-lived antibody production. In ME/CFS, it is being investigated to determine if a patient subgroup has symptoms sustained by autoantibodies or other plasma-cell-mediated pathways. The research sequence progressed from an uncontrolled ten-patient open-label pilot to the registry of the randomized ResetME Phase II trial, followed by the peer-reviewed publication of the pilot findings.
+Daratumumab is an anti-CD38 monoclonal antibody that depletes plasma cells, the immune cells responsible for long-lived antibody production. In ME/CFS, plasma-cell and B-cell targeting strategies are being investigated to determine if a patient subgroup has symptoms sustained by autoantibodies or other plasma-cell-mediated pathways. The research sequence progressed from an uncontrolled ten-patient open-label pilot to the registry of the randomized ResetME Phase II trial, followed by the peer-reviewed publication of the pilot findings.
 
-An update from the ongoing ResetME trial reported that 38 of the target 66 patients have been enrolled, with 17 completing initial follow-up, while pilot follow-up data demonstrated a correlation between clinical improvement and reductions in autoantibody profiles. However, because the trial remains blinded and recruitment is incomplete, these findings do not establish clinical efficacy. Additionally, the reporting of a serious adverse event involving hospitalization for symptom worsening underscores that safety and tolerability remain unproven.
+An update from the ongoing ResetME trial reported that 38 of the target 66 patients have been enrolled, with 17 completing initial follow-up, while pilot follow-up data demonstrated a correlation between clinical improvement and reductions in autoantibody profiles. Additionally, clinical plans and case series have emerged for CD19-targeted Inebilizumab and CD38-targeted Isatuximab in selected patients. However, because the ResetME trial remains blinded and the CD19/CD38 studies are planned protocols with preliminary case series, clinical efficacy has not been proven for any of these treatments, including daratumumab. Furthermore, these high-potency monoclonal antibodies carry serious safety risks, including severe immunosuppression, infusion reactions, and infection risk, necessitating strict clinical supervision.
 
 ## Why This Matters
 
@@ -36,13 +36,16 @@ Testing a concrete immune-treatment hypothesis (rather than only describing asso
   - Clinical responders in pilot follow-up evaluations show post-treatment reductions in autoantibody profiles (autoreactome).
 - **Plausible but early:**
   - The pilot's response pattern, NK-cell association, and post-treatment autoantibody reductions support the hypothesis of an antibody-mediated disease subgroup.
+  - CD19 and CD38 monoclonal antibodies (Inebilizumab and Isatuximab) are proposed for pilot studies in subsets of patients defined by immunoadsorption response or specific laboratory parameters.
 - **Not established:**
   - Efficacy and safety of daratumumab for ME/CFS are not established; the ResetME trial is still ongoing and remains blinded.
+  - The clinical efficacy and safety of planned Inebilizumab (anti-CD19) and Isatuximab (anti-CD38) therapies in ME/CFS cohorts are not established.
 - **Key limitations:**
   - The initial pilot was small (10 participants) and limited to female patients.
   - The ResetME trial uses strict enrollment criteria, including a minimum baseline Natural Killer (NK) cell threshold (>125 x 10^6/L), limiting generalizability.
   - A serious adverse event involving hospitalization due to symptom worsening has been reported, requiring careful supervision.
   - Conference updates and recap videos provide incomplete data until the full trial dataset is analyzed and published.
+  - CD19 and CD38 depletion carry substantial safety risks (e.g., severe immunosuppression, infection risk, and infusion reactions) and lack randomized controlled trial evidence in ME/CFS.
 
 ## Timeline
 
@@ -69,6 +72,14 @@ The Bergen pilot study was formally published in a peer-reviewed journal, provid
 Sources:
 
 - [Fluge et al. 2025, Frontiers in Medicine](https://doi.org/10.3389/fmed.2025.1607353)
+
+### 2026-05-07 - CD19 and CD38 targeting clinical plans and case series presented
+
+At the Internationale ME/CFS-Konferenz 2026, Dr. Judith Bellmann-Strobl from Charité Berlin presented clinical plans for targeting B cells and plasma cells using monoclonal antibodies, outlining prospective studies for CD19-targeted Inebilizumab and CD38-targeted Isatuximab. Emphasizing the biological heterogeneity of ME/CFS, she presented a preliminary case series of patients treated with Inebilizumab who were selected based on prior positive responses to immunoadsorption. The planned clinical protocols include a placebo-controlled pilot study of Inebilizumab for GPCR-autoantibody-positive patients who respond to immunoadsorption, and a second pilot study using Isatuximab for patients with normal IgG levels and normal NK cell counts. However, these trial plans and small case series do not establish clinical efficacy for either agent, nor do they prove the efficacy of anti-CD38 therapies like daratumumab. Furthermore, both CD19 and CD38 depletion carry substantial safety risks, including severe immunosuppression, infusion-related reactions, and increased infection risk, requiring strict clinical supervision and monitoring.
+
+Sources:
+
+- [Bellmann-Strobl 2026, Internationale ME/CFS-Konferenz 2026](https://youtu.be/ibbPt7_G2WE)
 
 ### 2026-05-10 - ResetME trial progress and autoantibody profiles presented at conference
 

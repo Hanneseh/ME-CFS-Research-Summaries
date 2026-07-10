@@ -1,8 +1,8 @@
 ---
 title: Immunoadsorption & Apheresis
 description: A living thread tracking immunoadsorption, H.E.L.P. apheresis, and other extracorporeal blood-filtration therapies for ME/CFS and Long COVID.
-date: 2026-06-15
-last_updated: 2026-06-15
+date: 2026-07-10
+last_updated: 2026-07-10
 thread_status: active
 evidence_level: early clinical observation
 primary_topics:
@@ -28,7 +28,7 @@ Immunoadsorption and extracorporeal apheresis are blood-filtration therapies inv
 
 Clinical interest has been driven by preliminary open-label observational studies showing significant physical and functional improvements in small patient cohorts. Specifically, pilot data suggest that H.E.L.P. apheresis may improve capillary perfusion and resolve symptoms like fatigue and cognitive dysfunction in Long COVID, while open-label immunoadsorption has demonstrated temporary physical and functional improvement in a subset of patients with post-infectious ME/CFS who exhibit elevated autoantibodies targeting G-protein-coupled receptors (GPCRs).
 
-However, the therapeutic value of these procedures is highly uncertain. A 2026 randomized, sham-controlled crossover trial of immunoadsorption in Post-COVID syndrome found no significant benefit over sham treatment despite successfully clearing GPCR autoantibodies. This critical finding indicates that prior positive results in open-label settings may have been driven by placebo or contextual effects, highlighting the necessity of randomized controlled trials (RCTs) to establish the safety, efficacy, and clinical utility of these invasive and resource-intensive therapies.
+However, the therapeutic value of these procedures is highly uncertain. A 2026 randomized, sham-controlled crossover trial of immunoadsorption in Post-COVID syndrome found no significant benefit over sham treatment despite successfully clearing GPCR autoantibodies. This critical finding indicates that prior positive results in open-label settings may have been driven by placebo or contextual effects, highlighting the necessity of randomized controlled trials (RCTs) to establish the safety, efficacy, and clinical utility of these invasive and resource-intensive therapies. Literature reviews also suggest that broad, unselected cohorts in prior clinical trials may have masked therapeutic efficacy, arguing for biomarker-guided patient stratification and a shift toward selective 'precision apheresis' column technologies designed to target specific pathological factors while minimizing adverse effects.
 
 ## Why This Matters
 
@@ -39,7 +39,7 @@ These extracorporeal therapies target hypothesized vascular and autoimmune patho
 - **Established:** Extracorporeal apheresis and immunoadsorption techniques can successfully deplete targeted substances—such as fibrinogen, inflammatory cytokines, LDL, and IgG autoantibodies—from circulation during the procedure.
 - **Plausible but early:** Heparin-mediated extracorporeal LDL precipitation (H.E.L.P.) apheresis may resolve severe fatigue, cognitive dysfunction, and perfusion deficits by clearing microclots and improving microcirculation; repeat immunoadsorption (RIA) may temporarily improve physical and functional capacity in a subset of post-COVID ME/CFS patients who have elevated autoantibodies against the ß2-adrenergic receptor.
 - **Not established:** True clinical efficacy of immunoadsorption (differentiating active treatment from sham/placebo effects) in post-COVID or ME/CFS cohorts, as the first sham-controlled crossover trial found no significant symptom reduction; the durability of symptom improvements beyond 3–6 months.
-- **Key limitations:** A randomized, sham-controlled crossover trial demonstrated no clinical benefit for immunoadsorption over sham treatment; positive clinical reports are mostly limited to small, uncontrolled observational studies susceptible to placebo and contextual effects; both procedures are highly invasive, resource-intensive, and carry risks such as catheter-associated jugular vein thrombosis; autoantibodies re-accumulate within months, causing symptoms to recur.
+- **Key limitations:** A randomized, sham-controlled crossover trial demonstrated no clinical benefit for immunoadsorption over sham treatment; positive clinical reports are mostly limited to small, uncontrolled observational studies susceptible to placebo and contextual effects; both procedures are highly invasive, resource-intensive, and carry risks such as catheter-associated jugular vein thrombosis; autoantibodies re-accumulate within months, causing symptoms to recur; clinical trials have historically evaluated unselected patient populations without biomarker-guided stratification, which may mask efficacy within specific immunological subgroups; protocols and patient selection criteria for newer 'precision apheresis' column technologies remain under active investigation.
 
 ## Timeline
 
@@ -75,3 +75,19 @@ Sources:
 
 - [Stein 2026, ME/CFS Symposium 2026](https://youtu.be/tg_xgRwA-e4)
 - *Note: An English presentation of these findings is scheduled to premiere at the International ME/CFS Conference on 2026-07-08 ([Stein 2026, YouTube](https://youtu.be/xagpfZg5nbo)).*
+
+### 2026-07-10 - Narrative review advocates for biomarker-guided patient stratification in trials
+
+A narrative review by Dr. Gary Kaplan synthesized research on shared immunological dysregulation—including chronic inflammation, GPCR autoantibodies, and cellular dysfunction—across post-infectious syndromes such as ME/CFS, Long COVID, PTLDS, and PANS/PANDAS. The author evaluated immunomodulatory therapies including intravenous immunoglobulin (IVIG), rituximab, and therapeutic plasma exchange (TPE). A key focus of the review is that trials using unselected patient populations, such as the RituxME phase III study and certain post-COVID TPE trials, are prone to failure because broad cohort definitions mask subpopulation efficacy. Kaplan argued that future trials must utilize biomarker-guided patient stratification, such as immunologic phenotyping and autoantibody screening, to restrict these invasive therapies to patients with documented immunological abnormalities. However, as a narrative review, this work does not present new primary clinical data. The review also notes that high-risk interventions like TPE, IVIG, and rituximab carry serious safety risks, and there remains a lack of randomized, double-blind, placebo-controlled trials validating this biomarker-guided approach.
+
+Sources:
+
+- [Kaplan 2026, PubMed](https://pubmed.ncbi.nlm.nih.gov/42391726/)
+
+### 2026-07-10 - Editorial review outlines transition to selective precision apheresis
+
+A guest editorial review in *Transfusion and Apheresis Science* described the ongoing clinical transition of therapeutic apheresis from broad, non-selective plasma exchange toward targeted 'precision apheresis' methodologies. This evolution involves using selective column technologies (such as the MTx.100) designed to isolate and remove specific pathological drivers—including autoantibodies, lipids, and cytokines—while preserving essential plasma proteins. The review coincided with the publication of the American Society for Apheresis (ASFA) Ninth Edition guidelines in the *Journal of Clinical Apheresis* Special Issue, which updates evidence-based fact sheets for 166 indications. Transitioning to selective adsorbers could reduce treatment side effects and improve therapeutic safety compared to non-selective methods. However, this editorial is a general review and does not present new primary clinical trial data or patient outcomes. Additionally, specific protocols and selection criteria for precision apheresis in complex conditions like ME/CFS and Long COVID are not yet established.
+
+Sources:
+
+- [Guest Editorial 2026, Transfusion and Apheresis Science](https://www.sciencedirect.com/science/article/pii/S1473050226001126)

@@ -1,8 +1,8 @@
 ---
 title: Rapamycin & mTOR Inhibition
 description: A living thread on rapamycin (sirolimus) and other mTOR inhibitors, tracking clinical trials, observational studies, and mechanisms of autophagy restoration in ME/CFS and Long COVID.
-date: 2025-10-21
-last_updated: 2025-10-21
+date: 2026-05-07
+last_updated: 2026-05-07
 thread_status: active
 evidence_level: early clinical and biomarker validation
 primary_topics:
@@ -22,20 +22,20 @@ cssclasses:
 
 Rapamycin (also known as sirolimus) and other mTOR inhibitors are emerging as key therapeutic candidates for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID. The scientific rationale for these interventions centers on the hypothesis that chronic inflammation and cellular dysfunction in these post-viral and chronic illnesses are driven by the overactivation of the mammalian target of rapamycin (mTOR) pathway. This overactivation stalls autophagy, a vital cellular cleaning and recycling process that removes damaged organelles and proteins, potentially leading to the severe energy deficits, fatigue, and post-exertional malaise (PEM) characteristic of these conditions.
 
-Clinical translation of mTOR-inhibiting drugs focuses on restoring autophagy and alleviating core symptoms. Recent work has demonstrated that a low-dose rapamycin regimen can restore cellular autophagy and lead to significant improvements in fatigue, PEM, sleep quality, and orthostatic symptoms. Additionally, a placebo-controlled trial has been initiated to evaluate whether targeting the mTOR pathway with low-dose sirolimus can resolve underlying biological drivers and symptoms in Long COVID.
+Clinical translation of mTOR-inhibiting drugs focuses on restoring autophagy and alleviating core symptoms. Recent work has demonstrated that a low-dose rapamycin regimen can restore cellular autophagy and lead to significant improvements in fatigue, PEM, sleep quality, and orthostatic symptoms. Early clinical trial data also indicates that low-dose rapamycin may improve symptoms in a subset of patients exhibiting mTOR pathway dysregulation, correlating clinical response with increased cellular oxidative reserve. Additionally, a placebo-controlled trial has been initiated to evaluate whether targeting the mTOR pathway with low-dose sirolimus can resolve underlying biological drivers and symptoms in Long COVID.
 
-Despite these promising signals, the evidence supporting rapamycin for ME/CFS and Long COVID is in its infancy and remains highly uncertain. The only published clinical findings come from a small, uncontrolled observational pilot study, which is susceptible to placebo effects, high dropout rates, and patient-reporting biases, while the placebo-controlled trial is still actively recruiting and has not published results. Consequently, it is not yet established whether mTOR inhibitors are safe or effective for these conditions, and patients should not interpret these early research findings as clinical recommendations.
+Despite these promising signals, the evidence supporting rapamycin for ME/CFS and Long COVID is in its infancy and remains highly uncertain. The clinical findings are limited to a small, uncontrolled observational pilot study and preliminary Phase 1/2 conference reports, both of which are susceptible to placebo effects, participant selection bias, and patient-reporting biases. A placebo-controlled trial is still actively recruiting and has not published results. Consequently, it is not yet established whether mTOR inhibitors are safe or effective for these conditions, and patients should not interpret these early research findings as clinical recommendations.
 
 ## Why This Matters
 
-Investigating rapamycin and sirolimus connects a widely discussed off-label drug to a specific, measurable cellular pathway—mTOR-mediated autophagy impairment—in post-viral and chronic fatigue syndromes. Rather than relying solely on subjective patient-reported outcomes, researchers have identified plasma biomarkers (BECLIN-1 and pSer258-ATG13) that correlate with cellular autophagy status and reflect clinical improvements. By validating a concrete biological target, this research provides a mechanistic foundation for patient symptoms like PEM and fatigue, paving the way for biomarker-guided, personalized clinical trials and the potential repurposing of existing, FDA-approved medications.
+Investigating rapamycin and sirolimus connects a widely discussed off-label drug to a specific, measurable cellular pathway—mTOR-mediated autophagy impairment—in post-viral and chronic fatigue syndromes. Rather than relying solely on subjective patient-reported outcomes, researchers have identified plasma biomarkers (BECLIN-1 and pSer258-ATG13) that correlate with cellular autophagy status and reflect clinical improvements, alongside findings linking clinical response to changes in cellular oxidative reserve capacity. By validating a concrete biological target, this research provides a mechanistic foundation for patient symptoms like PEM and fatigue, paving the way for biomarker-guided, personalized clinical trials and the potential repurposing of existing, FDA-approved medications.
 
 ## State of Evidence
 
 - **Established:** Rapamycin (sirolimus) is an FDA-approved immunosuppressive drug that acts as an mTOR inhibitor, promoting cellular autophagy ex vivo and in animal models.
-- **Plausible but early:** Low-dose rapamycin treatment correlates with self-reported symptom improvement (fatigue, PEM, orthostatic intolerance) in ME/CFS patients; clinical improvement in ME/CFS patients correlates with biomarker changes (increased BECLIN-1, decreased pSer258-ATG13) indicating restoration of the autophagy pathway.
+- **Plausible but early:** Low-dose rapamycin treatment correlates with self-reported symptom improvement (fatigue, PEM, orthostatic intolerance, and cognition) in a subset of ME/CFS patients; clinical improvement correlates with biomarker changes (increased BECLIN-1, decreased pSer258-ATG13) and increased cellular oxidative reserve.
 - **Not established:** Low-dose rapamycin/sirolimus has not been proven safe or effective for ME/CFS or Long COVID in randomized, double-blind, placebo-controlled trials; optimal dosing, treatment duration, and long-term tolerability in these patient populations remain undefined.
-- **Key limitations:** Published clinical evidence is limited to a single, decentralized, open-label pilot study without a control group, making it vulnerable to placebo effects; the study had a high dropout rate and used non-standardized drug formulations; the Phase 3 trial for Long COVID excludes individuals with pre-2020 ME/CFS, limiting the immediate applicability of its future findings to the wider ME/CFS community.
+- **Key limitations:** Published and presented clinical evidence is limited to a single, decentralized, open-label pilot study and preliminary Phase 1/2 conference reports without placebo controls, making them vulnerable to placebo effects and bias; only a subset (~one-third) of patients respond to treatment, indicating a critical need for biomarker-based stratification; the Phase 3 trial for Long COVID excludes individuals with pre-2020 ME/CFS, limiting the immediate applicability of its future findings to the wider ME/CFS community.
 
 ## Timeline
 
@@ -55,9 +55,18 @@ Sources:
 
 - [Ruan et al. 2025, Journal of Translational Medicine](https://doi.org/10.1186/s12967-025-07213-8)
 
+### 2026-05-07 - Conference presentation reports Phase 1/2 results for low-dose rapamycin
+
+At the Internationale ME/CFS-Konferenz 2026, Dr. Gunnar Gottschalk presented preliminary findings from Phase 1 and Phase 2 clinical studies investigating low-dose rapamycin (sirolimus) in ME/CFS. The studies targeted a patient subgroup exhibiting mTOR pathway dysregulation and impaired cellular autophagy. Results indicated that approximately one-third of participants who completed the studies demonstrated a clinical response, with self-reported improvements in fatigue, physical capability, and cognitive function. This clinical response correlated with an increase in cellular oxidative reserve capacity. While the low-dose regimen (about one-third of the standard transplant dose) appeared generally safe and well tolerated, these findings remain preliminary and have only been presented in a conference format with full peer-reviewed publications pending. A randomized, placebo-controlled trial is planned and will be required to confirm these efficacy signals and rule out placebo effects.
+
+Sources:
+
+- [Gottschalk 2026 presentation video](https://youtu.be/KdmaHaA6EaA) (Conference presentation video; Speaker: Dr. Gunnar Gottschalk; full presentation video)
+
 ## Open Questions
 
 - What is the optimal dosing regimen of rapamycin for ME/CFS and Long COVID to maximize autophagy restoration while minimizing side effects?
+- Can serum biomarkers like Phospho-ATG13 and Beclin-1 reliably identify which patients are likely to respond to low-dose rapamycin before starting therapy?
 - Will the clinical and biomarker improvements observed in the open-label pilot study be replicated in a rigorous, placebo-controlled randomized clinical trial?
 - Does restoring autophagy translate into long-term disease modification, or does it require continuous/lifelong administration?
 - Are there specific patient subgroups (e.g., defined by baseline BECLIN-1 or pSer258-ATG13 levels) who are more likely to respond to mTOR inhibition?

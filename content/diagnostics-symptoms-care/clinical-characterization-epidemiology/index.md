@@ -1,8 +1,8 @@
 ---
 title: Clinical Characterization & Epidemiology
 description: A living thread on ME/CFS case definitions, clinical guidelines, epidemiology, cohort structure, symptom measurement, research infrastructure, and funding developments for ME/CFS and Long COVID.
-date: 2026-06-28
-last_updated: 2026-06-28
+date: 2026-07-10
+last_updated: 2026-07-10
 thread_status: active
 evidence_level: established clinical consensus with ongoing refinement
 primary_topics:
@@ -18,9 +18,11 @@ cssclasses: [thread-page]
 
 ## Current Takeaway
 
-ME/CFS is established as a serious, multi-systemic, biologically grounded illness. Since the 2015 IOM report proposed a tightened clinical case definition around post-exertional malaise, unrefreshing sleep, and cognitive or orthostatic symptoms, the field has accumulated a much clearer picture of who gets sick, how symptoms are distributed, and what institutional conditions slow or accelerate diagnosis. Recent cohort and symptom-clustering work now shows that PEM-dominant and high-burden subgroups are repeatedly visible across ME/CFS and Long COVID datasets, but that clustering results can depend heavily on the algorithm, sampling route, and population studied. Cohort coverage remains uneven, and standard medical registries consistently under-represent patients from lower socioeconomic backgrounds.
+ME/CFS is established as a serious, multi-systemic, biologically grounded illness. Since the 2015 IOM report established a tightened clinical case definition around post-exertional malaise, unrefreshing sleep, and cognitive or orthostatic symptoms, large-scale epidemiology and registry studies have clarified the disease's massive socioeconomic burden and persistent care gaps. In the United States, survey data indicates that 1.5% of adults have received a diagnosis, with the critical caveat that nearly half of those reporting a "past" diagnosis still experience active symptoms and functional impairment. In New Zealand, nationwide registry data documents severe socioeconomic disadvantage, including employment rates under 20% and significant barriers to obtaining disability support services. These challenges are compounded by healthcare fragmentation and "statistical invisibility" due to missing diagnostic codes, as highlighted in service reviews, which obstruct patient tracking and service capacity planning.
 
-The research and care infrastructure has grown substantially since 2024. Large multi-omics stratification projects, long-read whole-genome sequencing initiatives, patient-led data platforms, pediatric activity and participation scales, national guideline efforts, and disease-specific funding programs all signal institutional recognition at a scale not seen before. At the same time, clinical practice has not kept pace: most patients still reach specialist care without guideline-consistent management for core symptoms, and newer studies continue to document under-recognition, fragmented follow-up, and uneven access to ME-sensitive self-management support. How the new infrastructure translates into validated biomarkers, revised case definitions, and accessible care remains open.
+Recent large-scale symptom-clustering and factor analysis work has successfully stratified patients into distinct clinical subgroups. Analysis of the UK DecodeME cohort of over 19,000 participants identified high- and low-symptom-burden subgroups, linking infectious onset to higher long-term severity, though without finding genome-wide genetic predictors. Other factor analyses confirm that patient-reported symptoms group into coherent biological dimensions (brain, autonomic, gut-immune), with sex-stratified models revealing that female sex hormones dynamically modulate immune symptoms (such as flu-like complaints in premenopausal women) but not gastrointestinal pathways. Standardized symptom measurement has also advanced with the Rasch-validated TIMES scale, mapping a severe cumulative multi-system burden where cognitive symptoms are ranked as the most troublesome.
+
+National research and care infrastructure has grown substantially with new large-scale funding and specialized networks. In Europe, the launching of the €7.5 million DISCOVER-ME consortium aims to standardize biobank protocols across 20+ institutions to validate multi-system biomarkers. In Germany, the BMG-funded PEDNET-LC network has established care pathways and a centralized pediatric registry, complementing childhood cohort data showing that pediatric post-COVID symptom persistence correlates stepwise with initial infection severity. However, therapeutic evidence remains preliminary: while pilot updates from the Cohen Center report safety for home-use magnetic therapy and long-term antiviral case series, a major controlled trial of specialized inpatient rehabilitation in Germany showed no significant physical function benefit over standard GP care.
 
 ## Why This Matters
 
@@ -30,10 +32,10 @@ Measurement tools directly affect whether clinical trials can detect real change
 
 ## State of Evidence
 
-- **Established:** ME/CFS meets clinical criteria for a severe, chronic, multi-systemic illness. PEM, unrefreshing sleep, and cognitive or autonomic symptoms anchor all major case definitions in active use. Diagnostic delays of many years are documented across multiple health systems. Care guidelines explicitly contraindicate graded exercise therapy and emphasize pacing, energy management, symptom relief, and comorbidity assessment.
-- **Plausible but early:** PEM-dominant and high-multisystem-burden subgroups are repeatedly visible in ME/CFS and Long COVID cohorts, and pediatric/youth scales are beginning to capture activity and participation limits more directly. Registry-based prevalence estimates are known to be biased by socioeconomic access; patient-led recruitment and home-based digital monitoring may reach patients missed by clinic-based studies, but these approaches also introduce their own selection biases.
-- **Not established:** Any single objective biomarker or diagnostic test that reliably identifies ME/CFS across populations. A revised or internationally harmonized case definition that is both more specific and more practical than the 2015 IOM criteria. Whether CBT- or rehabilitation-based findings from broad or older trial criteria generalize to PEM-defined ME/CFS.
-- **Key limitations:** Most epidemiological studies use self-reported onset data, registry codes with known diagnostic biases, single-country samples, or online recruitment. Conference, protocol, and funding updates represent intended direction, not achieved outcomes. Symptom clustering without objective biomarkers can impose artificial boundaries on continuous clinical variation.
+- **Established:** ME/CFS meets clinical criteria for a severe, chronic, multi-systemic illness. PEM, unrefreshing sleep, and cognitive or autonomic symptoms anchor all major case definitions. The massive socioeconomic impact, including extremely low employment and high polypharmacy, is documented at the national registry level. Clinical symptom profiles consistently group into statistically distinct biological factors (brain, gut, immune, autonomic) across large cohorts. Care guidelines contraindicate graded exercise therapy, emphasizing pacing and symptom management.
+- **Plausible but early:** ME/CFS symptom severity can be stratified into distinct high- and low-symptom-burden subgroups linked to infectious triggers. Sex- and menopause-related variations dynamically alter immune (flu-like) symptoms but not gastrointestinal pathways in female cohorts. In children and adolescents, post-COVID symptom persistence correlates with initial infection severity, and structured networks can standardize pediatric clinical pathways. Home-use microtesla magnetic therapy and long-term antiviral/anti-inflammatory combination protocols show safety and preliminary feasibility.
+- **Not established:** Any single objective biomarker or diagnostic test that reliably identifies ME/CFS across populations. Genome-wide significant genetic variants that differentiate clinical severity subgroups. Measurable improvement in physical function from specialized inpatient rehabilitation models compared to standard primary care.
+- **Key limitations:** National administrative databases and benefit systems under-represent patients and lack activated diagnostic codes, causing "statistical invisibility." Many large cohort analyses and symptom-burden scales (such as TIMES) rely on self-reported online surveys, introducing selection biases and lacking objective physiological measures. Conference presentations, pilot trials, and observational case series remain preliminary and subject to selection or placebo biases.
 
 ## Timeline
 
@@ -117,6 +119,14 @@ Sources:
 
 - [Thomas et al. 2026, npj Women's Health](https://doi.org/10.1038/s44294-025-00120-9)
 
+### 2026-01-16 - Dutch Lifelines cohort study identifies "general malaise" as a transdiagnostic symptom dimension
+
+An analysis of 108,418 adult participants in the Dutch Lifelines Cohort Study used factor analysis on 30 symptoms of major depressive disorder, generalized anxiety disorder, ME/CFS, fibromyalgia, and irritable bowel syndrome to identify five distinct symptom dimensions: Depression, Anxiety, IBS, Musculoskeletal Pain, and General Malaise. Symptoms of ME/CFS and fibromyalgia did not form their own isolated categories, but instead loaded onto the general malaise (characterized by concentration difficulties, fatigue, and unrefreshing sleep) and musculoskeletal pain dimensions. Chronic stress was the only risk factor significantly associated with all five dimensions, suggesting a shared pathway involving stress response system dysregulation. This validates that the core disabling symptoms of ME/CFS represent a highly real, measurable "general malaise" dimension that is distinct from primary depression and anxiety, even while showing high transdiagnostic comorbidity. However, this study relies entirely on cross-sectional self-reported survey data rather than clinician-verified diagnoses, which prevents establishing causal relationships or tracking individual trajectories over time.
+
+Sources:
+
+- [Lifelines cohort study: van der Veen et al. 2026, Journal of Psychosomatic Research](https://pubmed.ncbi.nlm.nih.gov/41546021)
+
 ### 2026-02-01 - Lancet Americas longitudinal cohort maps symptom persistence over 12 months in US PASC patients
 
 A national US cohort study using the COPE Initiative, which tracked more than 11,000 adults, reported that fatigue, brain fog, and shortness of breath were not only common after SARS-CoV-2 infection but showed persistent or fluctuating trajectories over 12 months in a substantial proportion of PASC patients. The study found that pre-existing conditions and absence of booster vaccination were associated with longer recovery and higher symptom burden, while vaccination and early antiviral treatment were associated with reduced long-term load. The characterisation of PASC as a condition with fluctuating rather than uniformly declining symptoms over a year is relevant to how clinicians explain the illness trajectory to patients and to how clinical trials define endpoints: a single follow-up point at three or six months may miss the full course. The study does not address ME/CFS diagnostic criteria directly but describes the cohort dynamics that will appear upstream of formal ME/CFS diagnosis in many post-COVID patients.
@@ -157,6 +167,14 @@ Sources:
 
 - [McGrath et al. 2026, Oxford Open Immunology](https://doi.org/10.1093/oxfimm/iqag007)
 
+### 2026-03-17 - German pediatric cohort study finds post-COVID symptom persistence correlates with acute infection severity
+
+The German CoCo-Fakt study analyzed real-world surveillance data from two health departments (Cologne and Augsburg) in 731 children aged 15 and under with PCR-confirmed SARS-CoV-2 infection. The study observed a stepwise increase in the prevalence of persistent (lasting over 4 weeks) symptoms corresponding directly to the severity of the acute infection, ranging from 0% in asymptomatic cases up to 50% in children who experienced severe acute illness. This provides objective, real-world evidence that pediatric populations suffer from persistent post-COVID symptoms and suggests that the severity of the initial infection is a major clinical predictor of ongoing morbidity. However, the study relies on health department registries with potential underreporting, and it lacks clinical examination or formal ME/CFS diagnostic validation. Additionally, tracking symptoms only past 4 weeks may capture transient post-viral recovery rather than a chronic, long-term post-COVID syndrome.
+
+Sources:
+
+- [CoCo-Fakt study: Schmachtenberg et al. 2026, European Journal of Pediatrics](https://pubmed.ncbi.nlm.nih.gov/41840550)
+
 ### 2026-03-25 - Charité 3rd International Conference expert perspectives paper maps consensus across mechanisms, care, and trials
 
 A multi-author report synthesizing the 3rd International Conference of the Charité Fatigue Center, held in May 2025, was published in Autoimmunity Reviews in March 2026. The paper brought together dozens of leading international ME/CFS and post-COVID researchers to consolidate current consensus across pathophysiology, diagnostic biomarkers, clinical care models, and therapeutic trial directions. Key mechanistic consensus points included a model of sarcolemmal depolarization and Na+/K+-ATPase dysfunction in skeletal muscle and significant microvascular impairment in retinal venular function. From a clinical characterization standpoint, the paper is significant for what it names as missing: universally validated diagnostic biomarkers and standardized clinical care guidelines are identified as critical gaps requiring urgent international collaboration. Preliminary trial data from hyperbaric oxygen, immunoadsorption, and daratumumab were presented but not yet conclusive, underlining that research infrastructure consensus has moved faster than treatment evidence.
@@ -180,6 +198,14 @@ A retrospective chart review of 571 adult ME/CFS patients referred to a Mayo Cli
 Sources:
 
 - [Grach et al. 2026, Annals of Family Medicine](https://doi.org/10.1370/afm.250266)
+
+### 2026-05-07 - German CFS_CARE study finds no physical function difference for specialized inpatient rehabilitation
+
+In a presentation at the Internationale ME/CFS-Konferenz 2026, preliminary results from the German "CFS_CARE" prospective study (funded by the G-BA Innovationsfonds) were shared. The study compared 12-month outcomes for ME/CFS patients who received specialized interdisciplinary outpatient care and a customized five-week inpatient rehabilitation program against a control group managing symptoms through standard primary care. The analysis showed no statistically significant differences between the two groups in physical function (measured via SF-36) or secondary outcomes after 12 months. This trial suggests that standard inpatient rehabilitation models—even when customized—are not effective at improving physical function in ME/CFS patients compared to routine GP care, highlighting the need for caution to avoid triggering post-exertional malaise. However, these findings are preliminary, conference-reported results that have not yet undergone peer review or been published with full data tables. The lack of benefit could stem from cohort heterogeneity or the rehabilitation design failing to sufficiently prevent exertional triggers.
+
+Sources:
+
+- [Wittke, CFS_CARE presentation at the Internationale ME/CFS-Konferenz 2026](https://youtu.be/A9kK1RJTFP8)
 
 ### 2026-05-07 - Day 1 of International ME/CFS Conference 2026 in Berlin surfaces genetics, neuroimaging, and metabolic convergence
 
@@ -317,6 +343,14 @@ Sources:
 
 - [Erbguth et al. 2026, DGNB statement summary](https://pubmed.ncbi.nlm.nih.gov/42313182/)
 
+### 2026-06-21 - German PEDNET-LC network establishes nationwide clinical care and registry infrastructure for pediatric syndromes
+
+In a presentation at the Internationale ME/CFS-Konferenz 2026, the structure and objectives of the new PEDNET-LC network were outlined. Funded with approximately €41-45 million by the German Federal Ministry of Health (BMG), this initiative connects 20 specialized care centers, pain clinics, rehabilitation facilities, and research institutes across Germany. The network aims to standardize pediatric diagnostic tools, establish clinical care pathways, and build a centralized registry to collect longitudinal clinical and biological data for children and adolescents suffering from Long COVID, post-vaccination syndromes, and ME/CFS. This builds substantial national clinical and research infrastructure specifically tailored to pediatric cohorts, a population historically facing severe care shortages, and creates a structured dataset to support future clinical trials. As a conference presentation, it focused on infrastructure and registry design rather than final clinical outcomes or mechanistic discoveries. Furthermore, the registry and care pathways are currently restricted to the German healthcare system.
+
+Sources:
+
+- [Behrends, PEDNET-LC presentation at the Internationale ME/CFS-Konferenz 2026](https://youtu.be/_AKY_n7AeHA)
+
 ### 2026-06-22 - Jordan Delphi study adapts home-based pulmonary rehabilitation for Long COVID with PEM safeguards
 
 A modified e-Delphi study with 15 multidisciplinary experts developed a culturally adapted home-based pulmonary rehabilitation program for Long COVID in Jordan. The final consensus emphasized low-technology delivery, phone-based supervision, Borg RPE monitoring, symptom-contingent progression, pacing, energy conservation, and mandatory PEM screening. This matters because rehabilitation designs that ignore PEM can cause harm, while resource-limited settings need feasible models that do not rely on intensive specialist access. The study is consensus-based and has not yet shown clinical outcomes. It is best treated as care-model design, not proof that rehabilitation improves PEM-defined illness.
@@ -324,6 +358,14 @@ A modified e-Delphi study with 15 multidisciplinary experts developed a cultural
 Sources:
 
 - [Shaltaf et al. 2026, Research Square](https://www.researchsquare.com/article/rs-9973821/latest)
+
+### 2026-06-25 - Cohen Center updates detail pilot trial results of microtesla magnetic therapy and antiviral combination protocol
+
+At the Internationale ME/CFS-Konferenz 2026, clinical trial updates from the Cohen Center for Recovery from Complex Chronic Illness at Mount Sinai were presented. The updates included positive safety and feasibility results from a completed 30-participant, triple-blind, randomized controlled trial of Farion's "Mighty" home-use microtesla magnetic therapy (MMT) device, showing exploratory cognitive speed benefits. Additionally, case series data for 26 patients treated with the "Prigen protocol" (combining valacyclovir, celecoxib, and a 15-day course of Paxlovid) showed durable symptomatic improvements on the Patient Global Impression of Change up to two years post-treatment. These preliminary signals offer feasibility data for home-based magnetic therapy and long-term antiviral/anti-inflammatory combination therapies, supporting planned larger validation trials. However, these are preliminary conference reports rather than peer-reviewed papers. The MMT trial was a very small pilot (n=30) requiring larger replication, and the Prigen protocol data are based on an open-label, non-randomized case series (n=26) subject to selection and placebo biases.
+
+Sources:
+
+- [Putrino, Mount Sinai Cohen Center updates presentation at the Internationale ME/CFS-Konferenz 2026](https://youtu.be/FEv2NKSNECo)
 
 ### 2026-06-28 - Patient-led Long COVID clustering study shows high-burden PEM groups but warns against over-interpreting algorithmic phenotypes
 
@@ -364,6 +406,58 @@ Nova Southeastern University announced NIH funding to study possible links betwe
 Sources:
 
 - [NSU 2026, NIH mold-exposure study announcement](https://news.nova.edu/uncategorized/nih-awards-nsu-researchers-3-million-to-study-potential-link-between-mold-exposure-and-myalgic-encephalomyelitis-chronic-fatigue-syndrome/)
+
+### 2026-06-30 - Sex- and menopause-related differences in symptom architecture highlight distinct hormonal influences
+
+A sex-stratified structural equation modeling and factor analysis preprint involving 748 adults (608 women, 137 men) with ME/CFS examined immune and gastrointestinal symptom architectures. In women, immune symptoms (flu-like symptoms and infection susceptibility) and gut symptoms (gastrointestinal complaints and food intolerances) formed two distinct, separable clusters, whereas in men, all immune and gut symptoms loaded onto a single integrated factor. Furthermore, premenopausal women reported significantly more frequent flu-like symptoms than postmenopausal women, while gastrointestinal symptoms remained stable across menopausal status. This suggests that ME/CFS manifests with different biological and symptom structures between sexes, and that female hormones may dynamically modulate immune pathways, highlighting the necessity of sex-stratified trial designs. As a preprint, these findings remain preliminary and have not yet undergone peer review. Additionally, the study relies on self-reported dichotomous symptom coding and features a female-skewed sample that reduces comparative statistical power for men.
+
+Sources:
+
+- [Symptom architecture preprint: Research Square](https://www.researchsquare.com/article/rs-9825975/latest.pdf)
+
+### 2026-06-30 - Pan-European DISCOVER-ME consortium secures €7.5M to build biomarker-guided clinical networks
+
+The European ME Research Group (EMERG) consortium secured a €7.5 million Horizon Europe grant to launch the "DISCOVER-ME" project, led by Prof. Eva Untersmayr-Elsenhuber and Prof. Simon Carding. Connecting over 20 institutions across Europe and Canada, the project aims to establish standardized clinical and laboratory protocols across multiple European biobanks. The ultimate goal is to validate biomarkers across genetic, immune, metabolic, neuroendocrine, and vascular domains while embedding patient-led organizations to inform stratification and future trial designs. This builds large-scale, standardized research infrastructure across European biobanks, establishing a unified foundation for biomarker validation and patient stratification in future clinical trials. As a research infrastructure initiative, it does not directly test new treatments or provide immediate diagnostic tools for clinical use. The timeline for translating these standardized biobank findings into clinical trials and approved diagnostics will span several years.
+
+Sources:
+
+- [DISCOVER-ME grant launch: Quadram Institute Press Release](https://quadram.ac.uk/quadram-institute-announces-major-european-research-milestone-in-myalgic-encephalomyelitis-me/)
+
+### 2026-07-01 - DecodeME symptom analysis of 19,019 UK participants identifies two main severity subgroups linked to onset type
+
+A preprint using data from 19,019 UK participants in the DecodeME cohort applied k-modes cluster analysis to patient symptoms. The analysis identified two primary patient subgroups: a High Symptom Burden Cluster (HSBC) comprising 57% of participants, characterized by greater illness severity and comorbidities, and a Lower Symptom Burden Cluster (LSBC) comprising 43%. Participants who reported an infectious or unknown illness onset had significantly higher adjusted odds of belonging to the HSBC compared to those with a non-infectious onset. A companion genome-wide association study (GWAS) for cluster membership failed to identify any genome-wide significant genetic variants associated with either subgroup. This indicates that ME/CFS symptom severity can be stratified into distinct subgroups, showing a strong link between infectious triggers and long-term symptom severity. As a preprint, these findings remain preliminary and have not yet completed peer-review. Furthermore, the negative GWAS findings suggest that the genetic architecture of severity is either highly complex or largely non-genetic.
+
+Sources:
+
+- [DecodeME subgroups preprint: medRxiv](https://www.medrxiv.org/content/medrxiv/early/2026/07/01/2026.06.29.26356818.full.pdf)
+
+### 2026-07-10 - National registry and healthcare surveys in the US, New Zealand, and Australia highlight socioeconomic burden and diagnostic gaps
+
+Three large-scale studies profiled the socio-economic impact and health services landscape of ME/CFS and Long COVID. In New Zealand, a nationwide Integrated Data Infrastructure (IDI) study of 1,902 benefit recipients with ME/CFS found extremely low employment rates (18.3% vs. 83.8% controls), high polypharmacy (32.8%), and a low rate of disability support service usage (1.6% vs. 7.2% other benefit recipients) indicating major structural barriers to care. In the US, an analysis of the 2021-2023 National Health Interview Survey (NHIS) representing 86,655 adults estimated that 1.5% have received an ME/CFS diagnosis, and found that among the 20.7% who reported past (resolved) ME/CFS, 40-50% still experienced active symptoms and functional impairment comparable to those with active disease. Finally, an Australian review of Long COVID service delivery documented severe fragmentation following public clinic closures, forcing patients into private fee-for-service clinics, and highlighted "statistical invisibility" due to a lack of active diagnostic codes as a major barrier to surveillance and service capacity planning. Collectively, these registry and guideline evaluations show that standard administrative databases significantly underestimate the true illness burden, and that patients face severe, systemic barriers to obtaining specialized care, benefits, and accurate diagnostic tracking. However, these studies rely heavily on administrative diagnostic codes, which are prone to misclassification, or self-reported survey data without clinical validation. Furthermore, the services mapped are highly system-specific to New Zealand, the US, and Australia.
+
+Sources:
+
+- [New Zealand IDI study: Wheeler et al. 2026, Journal of Health Psychology](https://pubmed.ncbi.nlm.nih.gov/42032509/)
+- [US NHIS survey: CDC reports 2026](https://pubmed.ncbi.nlm.nih.gov/42104344/)
+- [Australian service review: Hall et al. 2026, Medical Journal of Australia](https://pubmed.ncbi.nlm.nih.gov/41862917/)
+
+### 2026-07-10 - Large cohort studies in Germany, China, and the UK validate distinct symptom clusters and comorbidity burden
+
+Three studies validated symptom clustering and burden using statistical modeling. In Germany, a factor analysis and structural equation modeling (SEM) study of 748 adult patients in the APAV-ME/CFS study confirmed that symptoms group into distinct, functional biological systems, demonstrating an excellent model fit for a "Brain" factor, a two-factor "Gut-Immune" structure, and a higher-order "Autonomic" symptom complex. In China, a cross-sectional case-control study of 1,821 participants (956 patients, 865 controls) at Shanghai Shuguang Hospital reported that patients experienced twice the fatigue severity compared to controls across all MFI-20 domains, and identified comorbid insomnia and GI discomfort as major contributors to poor health outcomes. In the UK, a preprint study of 1,028 adult patients using the new "Index of ME Symptoms" (TIMES) questionnaire applied Rasch analysis to create a 0–100 interval scale, reporting a severe cumulative multi-system symptom burden (mean score 57.2/100) with cognitive symptoms ranked as the most troublesome and women experiencing higher symptom burden than men. These studies validate that patient-reported symptoms are not random or isolated but group into coherent biological clusters, providing a standardized, psychometrically validated method (TIMES) to measure cumulative multi-system burden. However, these symptom clusters are modeled based on subjective questionnaire responses rather than direct biological measurements, and the TIMES study remains a preliminary preprint. Additionally, the cohorts are geographically restricted to Germany, China, and the UK.
+
+Sources:
+
+- [APAV study: Alisch et al. 2026, Journal of Translational Medicine](https://pubmed.ncbi.nlm.nih.gov/42050709/)
+- [Shanghai Shuguang Hospital study: Wang et al. 2026, Medicine](https://pubmed.ncbi.nlm.nih.gov/41654906/)
+- [TIMES survey preprint: Horton et al. 2026, medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.17.26355870.full.pdf)
+
+### 2026-07-10 - Actigraphy study links irregular light exposure patterns with worse fatigue, sleep, and metabolic markers in ME/CFS
+
+An observational cross-sectional study using wrist-worn actigraphy monitored light exposure, activity, and wrist temperature in 100 ME/CFS patients and 56 healthy controls at home for one week. Principal component analysis revealed that a "healthy" light pattern (stable daytime light, low nocturnal light) was associated with significantly reduced fatigue, fewer sleep complaints, and milder autonomic dysfunction. In contrast, irregular or nocturnal light exposure correlated with worse clinical symptoms, lower serotonin concentrations, and elevated levels of triglycerides and vascular cell adhesion molecule-1 (VCAM-1). This identifies light exposure patterns as a potentially modifiable, non-invasive lifestyle target for stabilizing circadian rhythms and managing multi-system symptoms. However, due to the observational, cross-sectional design, causality cannot be established. Severely ill or photophobic patients may simply be unable to get daytime light exposure due to being housebound or sensitive to sensory overload.
+
+Sources:
+
+- [Actigraphy light exposure study: Ortiz-Gomez et al. 2026, Chronobiology International](https://pubmed.ncbi.nlm.nih.gov/42399727/)
 
 ## Related Threads
 

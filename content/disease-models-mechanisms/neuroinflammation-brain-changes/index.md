@@ -1,8 +1,8 @@
 ---
 title: Neuroinflammation & Brain Changes
 description: A living thread on brain imaging, neurovascular coupling, microglial activation, and neuroendocrine alterations in ME/CFS and Long COVID.
-date: 2026-06-28
-last_updated: 2026-06-28
+date: 2026-07-10
+last_updated: 2026-07-10
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -16,11 +16,11 @@ cssclasses: [thread-page]
 
 ## Current Takeaway
 
-Central nervous system alterations, impaired neurovascular coupling, and chronic neuroimmune activation represent a key pathological axis in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Post-Acute Sequelae of COVID-19 (PASC). In these conditions, chronic activation of brain-resident immune cells, microglial priming, and astrocytic dysfunction disrupt synaptic homeostasis and alter the brain's internal microenvironment. This persistent neuroimmune dysregulation is associated with cognitive impairment, sensory hypersensitivity, and sleep disturbances. High-resolution functional neuroimaging indicates that post-exertional cognitive and physical exhaustion is accompanied by aberrant network coordination, characterized by hyperactivation of the anterior Default Mode Network (DMN) in the prefrontal cortex and impaired connectivity within subcortical dopaminergic pathways. Visual and cognitive tasks trigger abnormal shifts to inefficient anaerobic metabolism in the brain, resulting in elevated visual cortex lactate and reduced energy availability (reduced ATP-to-phosphocreatine ratios) in the cingulate cortex.
+Central nervous system alterations, impaired neurovascular coupling, and chronic neuroimmune activation represent a key pathological axis in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Post-Acute Sequelae of COVID-19 (PASC). Multimodal imaging—including structural MRI, diffusion tensor and kurtosis imaging (DTI/DKI), and functional MRI (fMRI)—reveals widespread, yet localized, alterations in the post-viral brain. A systematic review of 12 imaging studies confirms that objective white matter tract connectivity changes (42%) and grey matter volume reductions (16%) frequently affect the prefrontal cortex, precentral gyrus, and subcortical regions (thalamus, pallidum, and basal ganglia). These structural and network changes display distinct pathological profiles under comparative DTI/DKI, with ME/CFS patients showing alterations in the cingulum, supplementary motor areas, and corpus callosum, while Long COVID cohorts show changes in the fusiform and precentral gyri, and a direct divergence in the left corona radiata. Furthermore, [18F]DPA-714 PET/fMRI reveals that high neuroinflammatory activity (observed in 22% of Post-COVID patients) directly correlates with reduced functional connectivity within the visual-peripheral and dorsal-attention networks, alongside reduced cerebellar connectivity.
 
-A major driver of these central symptoms is the failure of the neurovascular unit, where persistent low-grade vascular inflammation, endothelial activation, and impaired capillary blood flow dynamics compromise cerebral perfusion. This dynamic hypoarousal state, characterized by decreased visual processing speed and reduced pupillary unrest, represents functional rather than structural damage, suggesting that post-viral neurocognitive symptoms are potentially reversible. Post-mortem tissue analysis and clinical evaluations reveal specific endocrine alterations in the hypothalamus, particularly involving neurons producing corticotropin-releasing hormone (CRH) and vasopressin. This central hormonal dysregulation explains the characteristic hyporeactive hypothalamic-pituitary-adrenal (HPA) axis, characterized by bioactive cortisol deficits, exaggerated glucocorticoid feedback sensitivity, and impaired fluid homeostasis.
+These network and microstructural alterations translate clinically to impaired cognitive and sensory processing. Event-related potential (ERP) studies demonstrate that sensory hypersensitivity in ME/CFS is mediated by deficits in higher-order, top-down cognitive and attentional control mechanisms (characterized by a reduced late auditory P300 potential) rather than early sensory gating pathways (such as P50 suppression), which remain intact. At the cellular level, these alterations are framed as a functional, potentially modifiable neurovascular and synaptic dysregulation of brain-resident cells—driven by microglial priming, astrocytic activation, and prefrontal-hippocampal excitation-inhibition (E/I) imbalance—rather than permanent structural neurodegeneration. Clinical trial protocols are actively deploying multimodal MRI to investigate whether non-invasive therapies can restore hippocampal metabolism and resting-state functional connectivity.
 
-Despite consistent findings of neurochemical and microstructural alterations, significant inter-individual variability remains. Widespread chronic neuroinflammation is not observed in all cohorts, and many proposed mechanisms—including glymphatic system waste clearance failure, choroid plexus swelling, and autoantibody-mediated receptor blockades—are based on early validation models. Direct causal relationships between peripheral immune markers, autoantibodies, and specific structural brain changes require further longitudinal replication.
+Despite these advancements, significant clinical and methodological challenges persist. Group-level neuroimaging and metabolic signatures—such as regional hypoperfusion seen in arterial spin labeling, elevated lactate and glutamate in 7T spectroscopy, and altered gut-brain axis kynurenine metabolites—serve as research observations rather than validated individual diagnostic biomarkers. Crucially, the evidence is limited by the heterogeneity of scanning protocols, modest cohort sizes, and the preliminary nature of conference proceedings and study protocols. Further large-scale longitudinal validation is required to establish causal pathways linking systemic expression of serotonin-metabolizing enzymes in brainstem endothelial cells, endocrine hyporeactivity, and central nervous system remodeling.
 
 ## Why This Matters
 
@@ -30,10 +30,10 @@ Identifying specific cellular processes, such as microglial priming, astrocytic 
 
 ## State of Evidence
 
-- **Established:** Post-viral cognitive dysfunction involves objective deficits in attention, executive function, and visual processing speed. Endothelial activation and vascular inflammation are elevated in neurological post-viral cohorts up to a year post-infection. A hyporeactive HPA axis is characterized by decreased salivary, urinary, and hair cortisol levels in patients compared to controls.
-- **Plausible but early:** Submaximal exercise induces hyperactivation of the anterior Default Mode Network (medial prefrontal cortex) during resting states. Visual and cognitive tasks trigger abnormal shifts to anaerobic pathways, resulting in elevated visual cortex lactate and reduced cingulate cortex ATP-to-phosphocreatine ratios. Widespread white matter abnormalities, characterized by cerebral edema and cellular infiltration, are detectable using advanced neuroinflammation diffusion MRI. Autopsy tissue reveals functional down-regulation of hypothalamic CRH and vasopressin neurons, and altered microglial states without widespread chronic neuroinflammation. Post-exertional symptom severity is modulated by haptoglobin phenotype (Hp2-1 associated with worse PEM and cognitive deficits). Nicotinic acetylcholine receptor blockade by viral spike proteins impairs cholinergic neurotransmission, which can be restored by nicotine displacement. Intranasal immunomodulation (such as anti-CD3) recruits regulatory T cells to resolve neuroinflammation and restore hippocampal neurogenesis in animal models.
-- **Not established:** A single, universal neuroimaging or CSF biomarker that reliably diagnoses ME/CFS or Long COVID in clinical settings. Direct causal evidence that glymphatic system waste clearance dysfunction or choroid plexus swelling is the primary driver of cognitive symptoms in human cohorts. The clinical efficacy of low-dose hydrocortisone or neurotransmitter-rebalancing drugs (like memantine or dextromethorphan) in unstratified patient populations.
-- **Key limitations:** Many neuroimaging studies feature small, highly heterogeneous cohorts and lack longitudinal follow-up to track whether structural and functional brain changes resolve over time. In vivo measurement of glymphatic flow and choroid plexus perfusion is technically challenging and early-stage. The absence of healthy control groups in cerebrospinal fluid proteomic studies due to ethical lumbar puncture restrictions limits the specificity of identified biomarkers. Animal models of passive antibody transfer and intranasal immunotherapy may not fully replicate the chronic, multi-systemic pathobiology of human disease.
+- **Established:** Post-viral cognitive dysfunction involves objective deficits in attention, executive function, and visual processing speed. Endothelial activation and vascular inflammation are elevated in neurological post-viral cohorts up to a year post-infection. A hyporeactive HPA axis is characterized by decreased salivary, urinary, and hair cortisol levels in patients compared to controls. Widespread white matter microstructural alterations and localized grey matter volume reductions (especially in the prefrontal cortex, precentral gyrus, thalamus, and basal ganglia) are consistently observed at the group level across patient cohorts.
+- **Plausible but early:** Submaximal exercise induces hyperactivation of the anterior Default Mode Network (medial prefrontal cortex) during resting states. Visual and cognitive tasks trigger abnormal shifts to anaerobic pathways, resulting in elevated visual cortex lactate and reduced cingulate cortex ATP-to-phosphocreatine ratios. Widespread white matter abnormalities, characterized by cerebral edema and cellular infiltration, are detectable using advanced neuroinflammation diffusion MRI. Autopsy tissue reveals functional down-regulation of hypothalamic CRH and vasopressin neurons, and altered microglial states without widespread chronic neuroinflammation. Post-exertional symptom severity is modulated by haptoglobin phenotype (Hp2-1 associated with worse PEM and cognitive deficits). Nicotinic acetylcholine receptor blockade by viral spike proteins impairs cholinergic neurotransmission, which can be restored by nicotine displacement. Intranasal immunomodulation (such as anti-CD3) recruits regulatory T cells to resolve neuroinflammation and restore hippocampal neurogenesis in animal models. Neurocognitive symptoms are associated with reduced within-network connectivity in resting-state cognitive networks (such as default mode, visual-peripheral, and dorsal attention networks), which correlates with high neuroinflammatory activity on [18F]DPA-714 PET in a subset of post-COVID patients. Sensory hypersensitivity in ME/CFS is driven by dysfunction in higher-order cognitive control and attentional processing (characterized by reduced late auditory P300 potential on ERP tasks) rather than early sensory gating deficits. Cognitive dysfunction is driven by functional, modifiable neurovascular and synaptic dysregulation of brain-resident cells (microglial priming, astrocytic dysfunction, and prefrontal-hippocampal E/I imbalance) rather than permanent neurodegenerative damage.
+- **Not established:** A single, universal neuroimaging or CSF biomarker that reliably diagnoses ME/CFS or Long COVID in clinical settings. Direct causal evidence that glymphatic system waste clearance dysfunction or choroid plexus swelling is the primary driver of cognitive symptoms in human cohorts. The clinical efficacy of low-dose hydrocortisone or neurotransmitter-rebalancing drugs (like memantine or dextromethorphan) in unstratified patient populations. The clinical efficacy of interventions such as acupuncture or hyperbaric oxygen therapy (HBOT) in reversing hippocampal connectivity or metabolic dysfunction in larger, placebo-controlled trials.
+- **Key limitations:** Many neuroimaging studies feature small, highly heterogeneous cohorts and lack longitudinal follow-up to track whether structural and functional brain changes resolve over time. In vivo measurement of glymphatic flow and choroid plexus perfusion is technically challenging and early-stage. The absence of healthy control groups in cerebrospinal fluid proteomic studies due to ethical lumbar puncture restrictions limits the specificity of identified biomarkers. Animal models of passive antibody transfer and intranasal immunotherapy may not fully replicate the chronic, multi-systemic pathobiology of human disease. TSPO-based PET neuroimaging requires complex genotyping to account for binder affinity, limiting its clinical scalability and generalizability. Conference abstracts and clinical trial protocols represent preliminary or planned work that has not yet undergone full peer-reviewed publication or large-scale replication.
 
 ## Timeline
 
@@ -107,13 +107,6 @@ In a molecular imaging study published in *Brain Communications*, Fujimoto et al
 Sources:
 
 - [Fujimoto et al. 2025, Brain Communications](https://academic.oup.com/braincomms/article/7/5/fcaf337/8258475?login=false)
-
-### 2025-11-20 - Passive transfer of patient IgG induces sensory pain and binds peripheral neurons in mice
-
-A passive transfer study demonstrated that purified IgG antibodies from Long COVID patients with neurological symptoms cause a transient increase in mechanical pain sensitivity (allodynia) when injected into mice, whereas healthy control IgG does not. Fluorescent imaging revealed that the patient-derived antibodies accumulated in the lumbar dorsal root ganglia (DRG) and bound directly to sensory neurons, with no neuroinflammation detected in the brain. This establishes a direct, antibody-mediated cause for peripheral pain and sensory symptoms, pointing toward antibody-targeted treatments like plasma exchange or immune modulators. However, the passive transfer failed to replicate cognitive impairment, anxiety, or depression in the mice, suggesting that cognitive "brain fog" is driven by distinct, non-antibody mechanisms or requires chronic exposure.
-Sources:
-
-- [Mignolet et al. 2025, bioRxiv](https://doi.org/10.1101/2025.11.20.689423)
 
 ### 2025-11-25 - Multimodal MRI identifies persistent microstructural and neurochemical changes
 
@@ -199,13 +192,6 @@ Sources:
 
 - [Bragée et al. 2026, Scientific Reports](https://doi.org/10.1038/s41598-026-46965-1)
 
-### 2026-04-08 - Nasal anti-CD3 treatment reverses neuroinflammation and restores neurogenesis in mice
-
-A preclinical study utilizing a mouse model of Long COVID demonstrated that intranasal administration of anti-CD3 monoclonal antibodies reduces chronic neuroinflammation and restores cognitive function. The treatment increased the recruitment of protective regulatory T cells (Tregs) to the brain and shifted primed microglia from a pro-inflammatory to a restorative, tissue-healing state. This immunomodulatory shift reduced brain inflammation, restored hippocampal neurogenesis, and improved short-term memory. The study also found that humans with neurological Long COVID have lower levels of the same protective Tregs. However, human clinical trials are required to determine if intranasal anti-CD3 therapies replicate these neuroprotective and cognitive recovery effects in patients.
-Sources:
-
-- [Lu et al. 2026, bioRxiv](https://doi.org/10.64898/2026.04.07.716934)
-
 ### 2026-04-20 - Cell-resolved model maps the immune-vascular-cognitive axis in brain fog
 
 A review synthesized neuroimaging and neurobiological evidence to outline an "immune-vascular-cognitive axis" explaining how systemic inflammation causes cognitive impairment. The framework maps dynamic interactions within the neurovascular unit, showing that microglial priming and astrocytic dysfunction disrupt synaptic homeostatic mechanisms and create an excitation-inhibition imbalance. Crucially, the model suggests that cognitive dysfunction in ME/CFS reflects a state of persistent neuroimmune and neurometabolic dysregulation rather than permanent structural damage, indicating that the cognitive decline is potentially reversible. Proposed targets for therapeutic validation include cytokine blockades, nitric oxide enhancement, and acupuncture to restore neurovascular health. However, direct causal validation of these cellular interactions in human patients remains a challenge.
@@ -234,6 +220,13 @@ Sources:
 
 - [McAlpine et al. 2026, Brain, Behavior, & Immunity - Health](https://doi.org/10.1016/j.bbih.2026.101247)
 
+### 2026-05-07 - Conference presentation highlights gut-brain-immune axis metabolites and brainstem serotonin regulation
+
+At the Internationale ME/CFS-Konferenz 2026 in Berlin, Dr. Helena Radbruch presented SERIMM consortium findings linking cognitive and autonomic symptoms to dysregulation of the gut-brain-immune axis. The research demonstrated that Post-COVID patients exhibit elevated levels of the gut metabolite trimethylamine N-oxide (TMAO) and kynurenine pathway activation, patterns similar to inflammatory disease controls like multiple sclerosis. In contrast, serotonin levels in the cerebrospinal fluid were not reduced, although the peripheral serotonin-to-tryptophan ratio was decreased. Spatial sequencing of brainstem tissue suggested that endothelial cells, rather than neurons, are the primary site of serotonin-metabolizing enzyme expression. These findings highlight that neurocognitive symptoms are driven by complex metabolic and endothelial pathways rather than a simple central serotonin deficiency, though translating these animal and tissue-level models to live patient clinical outcomes remains a key challenge.
+Sources:
+
+- [Helena Radbruch | Internationale ME/CFS-Konferenz 2026: Stoffwechsel- und Immunsystemveränderungen bei ME/CFS](https://youtu.be/tEj3t0MgY34)
+
 ### 2026-05-13 - Systems model links connective tissue degradation to chronic inflammatory loops
 
 A theoretical model proposed a bidirectional cycle where preexisting ligament laxity predisposes individuals to orthostatic stress and ME/CFS, while ME/CFS-associated pathophysiological processes further degrade connective tissues. The hypothesis suggests that chronic mast cell activation releases enzymes (tryptase and chymase) that activate collagen-degrading metalloproteinases. Simultaneously, local tissue hypoxia and oxidative stress inhibit prolyl hydroxylases (PHDs), impairing collagen stability and leading to basement membrane thickening and reduced capillary density. In the neck, this metabolic muscle dysfunction impairs the ability to compensate for lax ligaments, worsening craniocervical instability. While providing a molecular explanation for the high rates of hypermobility and POTS comorbidity, direct measurement of these enzyme and collagen pathways in clinical cohorts is required.
@@ -257,13 +250,19 @@ Sources:
 
 - [Arendt et al. 2026, Brain Research Bulletin](https://www.sciencedirect.com/science/article/pii/S0361923026002728)
 
-### 2026-06-18 - Electrophysiological study indicates higher-order cortical dysfunction, rather than early sensory gating deficits, underlies sensory problems in ME/CFS
+### 2026-06-03 - Multimodal MRI protocol launched to investigate acupuncture mechanisms in post-COVID cognitive dysfunction
 
-Kumar et al. (published in *Frontiers in Medicine*) investigated the electrophysiological correlates of sensory hypersensitivity in 31 ME/CFS patients and 30 matched controls. Patients reported significantly higher sensory sensitivity on questionnaires. Electrophysiologically, early sensory gating (P50, N100, and P200 attenuation on a paired-click task) was intact and did not differ between groups. However, the ME/CFS group exhibited a significantly reduced P300 potential on an auditory oddball task during infrequent trials, which weakly correlated with self-reported symptom severity. The findings suggest that sensory hypersensitivity in ME/CFS is mediated by alterations in higher-order, top-down cognitive and attentional mechanisms (working memory updating and stimulus evaluation) rather than early sensory processing systems. Limitations include a modest sample size and a significant gender imbalance between groups.
-
+A randomized controlled trial protocol (NCT07357688) was published to evaluate the clinical efficacy and underlying neurological mechanisms of acupuncture for cognitive impairment in post-COVID-19 ME/CFS. Enrolling 129 patients and 30 healthy controls, the study randomizes patients to verum acupuncture, sham acupuncture (non-acupoint stimulation), or waitlist control (43 per group). The researchers plan to use multimodal MRI—specifically resting-state functional connectivity and metabolic MRI—to measure structural and metabolic changes in the hippocampus. While this study represents a rigorous attempt to evaluate acupuncture's potential to restore neurovascular or network health, the publication provides only the trial design. Blinding remains an inherent challenge in acupuncture trials, and clinical efficacy remains to be proven when the trial is completed.
 Sources:
 
-- [Kumar et al. 2026, Frontiers in Medicine](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1842841/full)
+- [Exploring the mechanisms of acupuncture in improving cognitive function in post-COVID-19 myalgic encephalomyelitis/chronic fatigue syndrome: study protocol for a randomized controlled trial using multimodal MRI, PubMed](https://pubmed.ncbi.nlm.nih.gov/42383026)
+
+### 2026-06-09 - Systematic review maps widespread structural brain alterations correlating with cognitive dysfunction
+
+A systematic review and meta-synthesis of 12 neuroimaging studies including 652 participants (428 ME/CFS patients and 224 controls) confirmed objective alterations in brain structure and connectivity. The analysis showed that 42% of the studies reported white matter alterations (such as decreased connectivity), 16% reported grey matter volume reductions, and 42% reported changes in both. The most frequently affected regions were the precentral gyrus (66%), prefrontal cortex (58%), and subcortical basal ganglia and thalamus (42% each), areas critical for motor control and executive function. Although these widespread alterations correlate with clinical fatigue and brain fog, the review is limited by the methodological heterogeneity and small sample sizes of the primary studies, which often relied on the older Fukuda diagnostic criteria.
+Sources:
+
+- [Correlating Neuroimaging Changes to Fatigue and Cognitive Dysfunction in ME/CFS (P10-1.006), Neurology](https://www.neurology.org/doi/abs/10.1212/WNL.0000000000217681)
 
 ### 2026-06-18 - Preliminary MELOPIS study results show astrocyte activation and default mode network inefficiency
 
@@ -272,6 +271,13 @@ In a study update for the MELOPIS project (supported by Open Medicine Foundation
 Sources:
 
 - [Chris Armstrong & Jamie Elliott 2026, Open Medicine Foundation Australia Update](https://youtube.com/watch?v=BBIRZvHPc5E)
+
+### 2026-06-19 - Conference review outlines localized subcortical volume loss, hypoperfusion, and metabolic alterations
+
+Prof. Dr. Carsten Finke presented a comprehensive summary of neuroimaging findings in ME/CFS and post-COVID syndrome at the International ME/CFS Conference 2026 in Berlin. The presentation detailed structural MRI evidence of localized volume reductions in the thalamus and pallidum, alongside diffusion tensor imaging (DTI) white matter changes that correlate with physical fatigue. Functional resting-state MRI showed reduced connectivity within default mode network (DMN), hippocampal, and thalamic circuits, while arterial spin labeling (ASL) documented regional cerebral hypoperfusion correlating with symptom severity. Additionally, 7-Tesla MR spectroscopy (MRS) revealed metabolic abnormalities (elevated lactate and glutamate, reduced choline) indicating impaired energy metabolism. A pilot study of 30 patients also suggested that hyperbaric oxygen therapy (HBOT) might normalize elevated thalamic connectivity, though these preliminary findings are based on small cohorts and require large-scale, peer-reviewed replication before clinical adoption.
+Sources:
+
+- [Carsten Finke | International ME/CFS Conference 2026: Neuroimaging Findings in ME/CFS and PCS](https://youtu.be/i4Unjz3sn5M)
 
 ### 2026-06-19 - First study demonstrating glymphatic dysfunction in ME/CFS linked to sleep and cognitive symptoms
 
@@ -289,6 +295,14 @@ Sources:
 
 - [Thomas et al. 2026, Frontiers in Neuroendocrinology](https://www.sciencedirect.com/science/article/pii/S0091302226000385)
 
+### 2026-06-23 - Multimodal imaging and literature review characterize neuroinflammatory connectivity and multi-system pathology in Long COVID
+
+A multimodal neuroimaging study combining [18F]DPA-714 PET and resting-state fMRI in 45 post-COVID syndrome (PCS) patients demonstrated that the 22% of patients with high neuroinflammatory activity had decreased functional connectivity in cognitive networks, particularly the visual-peripheral and dorsal-attention networks. A significant correlation was observed between increasing neuroinflammation and reduced connectivity in the cerebellum. Concurrently, a comprehensive literature review in the *Journal of Neuroimmunology* synthesized these findings with wider systemic pathways, mapping how neuroinflammation, blood-brain barrier disruption, endothelial activation, hypoperfusion, and autoantibodies interact to drive neuropsychiatric symptoms. While these studies reinforce the biological reality of post-viral brain fog, both emphasize key caveats: the PET tracer requires complex TSPO genotyping that limits scalability, and the precise causal relationships among these multi-system mechanisms remain to be established in prospective, longitudinal trials.
+Sources:
+
+- [Decreased functional connectivity in post-COVID syndrome patients with high neuroinflammatory activity, NeuroImage](https://doi.org/10.1016/j.neuroimage.2026.121951)
+- [Neurological sequelae of Long COVID: Pathophysiological mechanisms, diagnostic advances, and therapeutic perspectives, Journal of Neuroimmunology](https://www.sciencedirect.com/science/article/pii/S0165572826001591)
+
 ### 2026-06-28 - Study finds persistent cerebral hypometabolism in Long COVID patients with fatigue and PEM
 
 In a retrospective study published in the *Journal of Primary Care & Community Health*, Dr. Ravindra Ganesh and colleagues at the Mayo Clinic evaluated brain metabolic activity using 18F-FDG PET-CT scans in 40 patients with Long COVID. Compared to a normative database, they identified significant, persistent cerebral hypometabolism in the 29 patients presenting with fatigue and post-exertional malaise (PEM). The hypometabolism was most pronounced in the left sensorimotor cortex and bilateral primary visual cortex, persisting up to two years post-infection. These findings provide objective evidence of long-term central nervous system metabolic alterations in a phenotype of Long COVID that overlaps significantly with ME/CFS. Limitations include a small sample size, demographically homogeneous cohort, retrospective design, lack of a prospective matched control group, and no correction for multiple statistical testing.
@@ -296,6 +310,33 @@ In a retrospective study published in the *Journal of Primary Care & Community H
 Sources:
 
 - [Ganesh et al. 2026, Journal of Primary Care & Community Health](https://journals.sagepub.com/doi/full/10.1177/21501319261458748)
+
+### 2026-06-29 - Comparative DTI/DKI imaging reveals shared yet distinct white matter microstructural changes
+
+A comparative neuroimaging study combining Diffusion Tensor Imaging (DTI) and Diffusion Kurtosis Imaging (DKI) in 37 ME/CFS patients, 19 Long COVID patients, and 27 controls mapped distinct white matter microstructural alterations. ME/CFS patients exhibited microstructural changes in the cingulum, supplementary motor areas, and corpus callosum, whereas Long COVID patients showed alterations in the fusiform gyrus, precentral gyrus, and major white matter tracts. A direct comparison between the two patient cohorts identified a significant difference in the left corona radiata, illustrating unique pathological signatures despite overlapping clinical profiles. These findings provide objective evidence of microstructural tissue changes that may underlie cognitive and motor fatigue, though the study's cross-sectional design cannot determine if these changes are progressive or reversible over time.
+Sources:
+
+- [Microstructural Alterations in Brain Tissue of ME/CFS and Long COVID Using Diffusion Tensor Imaging and Diffusion Kurtosis Imaging, Frontiers in Medicine](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1824498/full)
+
+### 2026-07-10 - Electrophysiological and cell-resolved models frame cognitive dysfunction as higher-order, reversible neural dysregulation
+
+An event-related potential (ERP) study by Kumar et al. evaluating 31 ME/CFS patients and 30 controls demonstrated that sensory hypersensitivity is mediated by higher-order cognitive control systems rather than early sensory gating deficits. Patients showed intact early auditory P50 suppression but a significantly reduced late P300 potential, indicating that deficits in stimulus evaluation and working memory updating underlie sensory overload. Complementing this, a comprehensive review proposed a cell-resolved framework for cognitive dysfunction, integrating microglial priming, astrocytic dysfunction, prefrontal-hippocampal excitation-inhibition (E/I) imbalance, and neurovascular unit breakdown. The review argues that "brain fog" represents a functional, potentially reversible neurometabolic and neuroimmune state rather than structural neurodegeneration. While these models offer a cohesive biological explanation for sensory and cognitive symptoms, they rely on cross-sectional data, and direct clinical trials targeting these specific cellular and higher-order networks are needed to confirm reversibility.
+Sources:
+
+- [Higher-order brain processes, rather than early processing, underlie sensory problems in ME/CFS: evidence from ERPs, Frontiers in Medicine](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1842841/full)
+- [Neurovascular and synaptic milieu of brain-resident cells in cognitive dysfunction of myalgic encephalomyelitis/chronic fatigue syndrome, PubMed](https://pubmed.ncbi.nlm.nih.gov/42015171/)
+
+#### Preclinical & Animal Studies
+
+* **2025-11-20 - Passive transfer of patient IgG induces sensory pain and binds peripheral neurons in mice**
+  A passive transfer study demonstrated that purified IgG antibodies from Long COVID patients with neurological symptoms cause a transient increase in mechanical pain sensitivity (allodynia) when injected into mice, whereas healthy control IgG does not. Fluorescent imaging revealed that the patient-derived antibodies accumulated in the lumbar dorsal root ganglia (DRG) and bound directly to sensory neurons, with no neuroinflammation detected in the brain. This establishes a direct, antibody-mediated cause for peripheral pain and sensory symptoms, pointing toward antibody-targeted treatments like plasma exchange or immune modulators. However, the passive transfer failed to replicate cognitive impairment, anxiety, or depression in the mice, suggesting that cognitive "brain fog" is driven by distinct, non-antibody mechanisms or requires chronic exposure.
+  Sources:
+  - [Mignolet et al. 2025, bioRxiv](https://doi.org/10.1101/2025.11.20.689423)
+
+* **2026-04-08 - Nasal anti-CD3 treatment reverses neuroinflammation and restores neurogenesis in mice**
+  A preclinical study utilizing a mouse model of Long COVID demonstrated that intranasal administration of anti-CD3 monoclonal antibodies reduces chronic neuroinflammation and restores cognitive function. The treatment increased the recruitment of protective regulatory T cells (Tregs) to the brain and shifted primed microglia from a pro-inflammatory to a restorative, tissue-healing state. This immunomodulatory shift reduced brain inflammation, restored hippocampal neurogenesis, and improved short-term memory. The study also found that humans with neurological Long COVID have lower levels of the same protective Tregs. However, human clinical trials are required to determine if intranasal anti-CD3 therapies replicate these neuroprotective and cognitive recovery effects in patients.
+  Sources:
+  - [Lu et al. 2026, bioRxiv](https://doi.org/10.64898/2026.04.07.716934)
 
 ## Open Questions
 

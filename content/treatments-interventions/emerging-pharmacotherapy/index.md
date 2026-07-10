@@ -1,8 +1,8 @@
 ---
 title: Emerging Pharmacotherapy
 description: Clinical trials, pilot studies, and case reports of repurposed drugs, supplements, and experimental therapies for ME/CFS and Long COVID.
-date: 2026-06-28
-last_updated: 2026-06-28
+date: 2026-07-10
+last_updated: 2026-07-10
 thread_status: active
 evidence_level: early clinical trials and pilot studies
 primary_topics:
@@ -15,6 +15,10 @@ primary_topics:
   - Sonlicromanol
   - 5-ALA/SFC
   - ANKTIVA
+  - Donepezil
+  - Methylprednisolone
+  - Tuina
+  - Cognitive Rehabilitation
 cssclasses:
   - thread-page
 ---
@@ -23,9 +27,9 @@ cssclasses:
 
 Clinical management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID currently relies on the off-label repurposing of drugs and supplements targeting suspected pathological mechanisms. Key areas of investigation focus on resolving autonomic dysfunction (preload failure), restoring mitochondrial bioenergetics, correcting chronic neuroinflammation, and clearing persistent post-viral reservoirs. A growing body of clinical trial protocols, randomized pilot studies, and case reports tracks these interventions to identify promising signals that warrant larger-scale replication.
 
-Recent clinical work has highlighted distinct pharmacotherapeutic agents, including the acetylcholinesterase inhibitor pyridostigmine for neuromuscular weakness and orthostatic intolerance, the metabolic enhancer oxaloacetate for cognitive dysfunction, and the antidiabetic drug metformin for preventing Long COVID and protecting synapses. In parallel, early-phase investigations are evaluating the IL-15 superagonist ANKTIVA for viral clearance, the potassium channel blocker amifampridine for neuromuscular fatigue, the NMDA receptor antagonist ketamine for rapid fatigue reduction, and mitochondrial-supportive combinations like 5-ALA/SFC.
+Recent clinical studies have evaluated several new interventions, including the acetylcholinesterase inhibitor donepezil for fatigue and depression in a subgroup of Post-Acute Sequelae of COVID-19 (PASC) patients with HHV-6B SITH-1-induced acetylcholine deficiency, telehealth-delivered cognitive rehabilitation for goal attainment, and physical/behavioral modalities like Tuina massage and mind-body retraining. However, a major safety signal emerged from the PoCoWiT randomized controlled trial, which tested high-dose oral methylprednisolone for post-COVID cognitive dysfunction; the trial was terminated early due to a cluster of serious adverse events—including pulmonary embolism, deep vein thrombosis, and serious infections—along with a complete lack of efficacy. This safety termination highlights the severe risks of high-dose corticosteroids in this population and underscores the need for extreme caution when considering potent immunomodulating agents off-label.
 
-Although these pilot trials and mechanistic perspectives provide clear biological rationales, the current evidence base is early and preliminary. Many trials are small, single-center, or open-label, which limits statistical power and increases the risk of bias. Consequently, none of these interventions have achieved regulatory approval or established definitive efficacy in large-scale, placebo-controlled settings, leaving substantial uncertainty regarding their long-term safety, optimal dosing, and generalizability.
+Although these trials and mechanistic concepts offer biological rationales, the evidence base remains early and preliminary. Many studies are small, open-label, or lack randomized control groups, which limits statistical power and increases the risk of bias. Consequently, no pharmacological or behavioral intervention has achieved regulatory approval or demonstrated definitive, disease-modifying efficacy in large-scale, placebo-controlled settings, leaving substantial uncertainty regarding long-term safety, optimal dosing, and generalizability across heterogeneous patient cohorts.
 
 ## Why This Matters
 
@@ -39,6 +43,7 @@ Systematic research into these agents offers objective measures of efficacy to c
   - Metformin decreases the risk of developing post-COVID-19 condition (Long COVID) when administered during acute infection in overweight or obese adults.
   - Pyridostigmine improves peak oxygen consumption ($VO_2$ peak) and right atrial pressure in patients with exertional intolerance and confirmed preload failure during invasive cardiopulmonary exercise testing.
   - Oxaloacetate is safe and well-tolerated at daily doses up to 2,000 mg in clinical cohorts.
+  - High-dose oral methylprednisolone does not improve cognitive function in Post-COVID Syndrome and carries a high risk of serious adverse events (including deep vein thrombosis, pulmonary embolism, and serious infections), resulting in early trial termination.
 - **Plausible but early:**
   - Pyridostigmine enhances hand grip strength and decreases heart rate elevations upon standing.
   - Oxaloacetate improves objective cognitive processing speed and reduces total symptom burden in Long COVID and ME/CFS.
@@ -48,15 +53,24 @@ Systematic research into these agents offers objective measures of efficacy to c
   - Continuous sipping of high-dose cromolyn sodium improves symptoms of comorbid Mast Cell Activation Syndrome (MCAS) in post-viral patients.
   - Sonlicromanol improves fatigue, pain, and physical function over long-term (52-week) open-label administration in mitochondrial disease models.
   - Oral 5-ALA/SFC combined with ubiquinone resolves severe chronic fatigue in individuals with specific genetic mutations affecting mitochondrial function (e.g., ADCK1).
+  - Donepezil reduces fatigue and depressive symptoms in the subgroup of PASC patients seropositive for anti-SITH-1 antibodies.
+  - Telehealth-delivered cognitive rehabilitation improves daily goal attainment and resource management in Long COVID cognitive impairment.
+  - Tuina therapy (traditional Chinese manual massage) reduces overall and physical fatigue, anxiety, and sleep complaints in chronic fatigue syndrome.
+  - Structured mind-body retraining ('The Switch') is associated with self-reported improvements in physical and emotional functioning in chronic fatigue and Long COVID.
 - **Not established:**
   - Definitive clinical efficacy or regulatory approval for any of these repurposed therapies in treating ME/CFS or Long COVID.
   - The efficacy of metformin, ketamine, or amifampridine in large-scale, parallel-group, randomized, placebo-controlled trials specifically for ME/CFS.
   - Long-term safety and tolerability of continuous high-dose protocols (e.g., cromolyn sodium or oxaloacetate) beyond several months.
+  - Definitive clinical efficacy of donepezil, Tuina therapy, or mind-body retraining in large-scale, pre-registered, placebo-controlled trials.
+  - Long-term safety, optimal dosing, and durability of donepezil, Tuina therapy, or cognitive rehabilitation programs.
 - **Key limitations:**
   - Small sample sizes in pilot studies (e.g., 20 patients for pyridostigmine hand grip, 10 patients for ketamine crossover, 5 patients for amifampridine and cromolyn series) limit statistical power and generalizability.
   - High risk of placebo effects and response bias in open-label studies and retrospective case series.
   - Crossover trial designs for drugs like ketamine are prone to carryover effects that confound efficacy comparisons against comparators like midazolam.
   - Preclinical data (e.g., metformin’s protection of rat synapses, sonlicromanol’s primary mitochondrial disease trial) require human translational validation in ME/CFS before clinical conclusions can be drawn.
+  - Subgroup analyses (e.g., donepezil limited to SITH-1 seropositive patients) and lack of patient blinding in manual therapies (Tuina) or behavioral programs (The Switch, cognitive rehabilitation) limit the generalizability and control of placebo/expectation effects.
+  - Uncontrolled observational designs (The Switch cohort) cannot exclude spontaneous recovery or selection bias.
+  - Use of broad diagnostic criteria (e.g., 1994 CDC Fukuda criteria for Tuina) that do not require post-exertional malaise limits applicability to strict ME/CFS.
 
 ## Timeline
 
@@ -212,6 +226,14 @@ Sources:
 
 - [Valentina Puntmann, "MYOFLAME-19" (International ME/CFS Conference 2026 presentation)](https://youtu.be/78hlqk_mRK8)
 
+### 2026-06-25 - Conference presentation reports early safety termination and lack of efficacy in PoCoWiT methylprednisolone RCT
+
+At the Internationale ME/CFS-Konferenz 2026, Lucas Adam presented preliminary results from the PoCoWiT trial, a double-blind randomized controlled trial (RCT) evaluating high-dose oral methylprednisolone (1 mg/kg/day for 4 weeks followed by tapering) for cognitive dysfunction in Post-COVID Syndrome (PCS). The trial was terminated early by the Data and Safety Monitoring Board (DSMB) after enrolling 96 of 180 planned patients due to a cluster of five serious adverse events occurring exclusively in the active treatment group and a clear lack of efficacy. These severe events included deep vein thrombosis (DVT), pulmonary embolism (PE), atypical pneumonia, pyelonephritis, and severe headache requiring hospitalization. Efficacy analyses revealed no statistically significant difference in cognitive recovery between the methylprednisolone and placebo groups, with both showing only a minor, identical 3-point improvement on the Memory Quality Questionnaire (MMQ) at the 8-week follow-up. This early termination establishes a prominent safety warning against using high-dose oral corticosteroids for post-COVID cognitive impairment, though the study was underpowered due to its early cessation and limited to a narrow cognitive phenotype.
+
+Sources:
+
+- [Lucas Adam, "Methylprednisolon bei PCS" (Internationale ME/CFS-Konferenz 2026 presentation)](https://youtu.be/jNzp-j0kKCY)
+
 ### 2026-06-28 - Preclinical metabolomics study indicates Ginseng stem-leaf saponins modulate brain-gut pathways in chronic fatigue syndrome mice
 
 A preclinical animal study published in the *Journal of Pharmaceutical and Biomedical Analysis* by Wu et al. evaluated the effects of Ginseng stem-leaf saponins (GSLS) in a chronic fatigue mouse model induced by a long-term forced-swimming protocol. Using untargeted metabolomics, the authors analyzed brain tissue and fecal samples, identifying 17 differential metabolites in the brain and 17 in feces. GSLS supplementation partially normalized metabolic abnormalities mapping to lipid-derived mediators, membrane-lipid remodeling, and energy/redox cofactor pathways. As a preclinical study in a mouse model, these findings represent early exploratory biology and do not demonstrate therapeutic efficacy or clinical safety in human patients.
@@ -236,6 +258,38 @@ Sources:
 
 - [Carpallo-Porcar et al. 2026, Research Square preprint](https://www.researchsquare.com/article/rs-9354365/latest.pdf)
 
+### 2026-06-29 - Clinical trial subgroup study links donepezil efficacy to SITH-1-induced acetylcholine deficiency
+
+A randomized clinical trial subgroup analysis published in *Frontiers in Pharmacology* showed that the acetylcholinesterase inhibitor donepezil significantly improved fatigue and depressive symptoms in Post-Acute Sequelae of COVID-19 (PASC) patients positive for anti-SITH-1 antibodies. The researchers demonstrated that latent HHV-6B reactivation in the brain and olfactory bulb can express the SITH-1 protein, which subsequently drives a reduction in brain acetylcholine levels. In the study's cohort of 156 PASC patients, approximately 63% were seropositive for anti-SITH-1 antibodies and presented with more severe baseline symptoms. Within this seropositive subgroup, donepezil treatment led to statistically significant improvements on the Chalder Fatigue Scale and HADS depression scores compared to placebo, suggesting anti-SITH-1 testing could serve as a companion diagnostic. However, the study does not establish donepezil's efficacy in the broader, seronegative PASC cohort, and the relatively short trial duration means long-term safety and tolerability in this population remain unproven.
+
+Sources:
+
+- [Donepezil ameliorates fatigue and depression in PASC patients with HHV-6B SITH-1-induced acetylcholine deficiency (Frontiers in Pharmacology 2026)](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1807203/full)
+
+### 2026-07-01 - Randomized clinical trial evaluates telehealth-delivered cognitive rehabilitation for Long COVID
+
+A randomized clinical trial published in *JAMA Network Open* demonstrated that a 10-week, individualized, telehealth-delivered cognitive rehabilitation program significantly improved functional outcomes in 78 adults with Long COVID cognitive impairment. At the 3-month mark, 84% of the rehabilitation group reported a clinically meaningful improvement in achieving personal goals in daily life, work, and hobbies, compared to 53% of the usual care control group, with improvements sustained at 6 months. Rather than curing the underlying pathology or increasing baseline cognitive capacity (as shown by only minor improvements in standardized cognitive test scores), the program primarily helped patients develop compensation strategies and manage cognitive resources more efficiently. These results indicate that structured cognitive pacing and rehabilitation are highly effective for functional management, although the resource-intensive nature of one-on-one telehealth delivery may limit scalability. Additionally, the trial's reliance on unblinded, self-reported functional outcomes introduces a potential reporting bias, and the program must be carefully paced to avoid triggering post-exertional malaise.
+
+Sources:
+
+- [Cognitive Rehabilitation and Functional Outcomes in Long COVID–Related Cognitive Impairment: A Randomized Clinical Trial (JAMA Network Open 2026)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2851024)
+
+### 2026-07-10 - Randomized controlled trial reports efficacy of Tuina therapy for chronic fatigue syndrome
+
+An assessor-blinded, single-center randomized controlled trial (RCT) involving 110 adults with chronic fatigue syndrome demonstrated that Tuina therapy (traditional Chinese manual massage) combined with usual care significantly reduced fatigue severity compared to usual care alone. Over a 4-week protocol consisting of 12 sessions, the Tuina group showed significant reductions in fatigue scores (adjusted mean difference -2.90) and sleep complaints, with a higher proportion achieving a minimal clinically important difference (89.1% vs 69.1%). The therapy demonstrated a more pronounced effect on physical fatigue (effect size 0.70) than on mental fatigue (effect size 0.41), while also significantly reducing anxiety. These findings suggest that gentle, tailored manual therapies are safe and helpful adjunctive options for managing somatic symptoms and sleep issues in chronic fatigue. However, because patients could not be blinded, the results are susceptible to expectations and placebo effects, and the use of the 1994 CDC Fukuda diagnostic criteria limits generalizability to patients with strict, post-exertional malaise-defined ME/CFS.
+
+Sources:
+
+- [Tuina therapy for patients with chronic fatigue syndrome: a randomized controlled trial (PubMed 2026)](https://pubmed.ncbi.nlm.nih.gov/41507906/)
+
+### 2026-07-10 - Observational cohort study evaluates 'The Switch' mind-body retraining program
+
+An observational feasibility and efficacy study of "The Switch" mind-body retraining program in 104 participants (75 with chronic fatigue syndrome and 29 with Long COVID) reported significant self-reported improvements in physical role limitations and emotional functioning. These benefits were observed at 2 months and remained stable at 12 months, with no significant differences in clinical outcomes between telehealth (Zoom) and face-to-face delivery formats. The comparable efficacy of online delivery suggests that virtual programs may offer a viable option that reduces the orthostatic and energetic travel burdens on patients. However, the study's lack of a randomized control group or active comparator makes it impossible to rule out placebo effects, selection bias, or spontaneous recovery. Furthermore, the findings are limited by their complete reliance on unvalidated, self-reported diagnoses and subjective health questionnaires without objective functional or physiological confirmation, and patients must remain within their physiological pacing limits to avoid triggering severe crashes.
+
+Sources:
+
+- [Initial evidence for mind body retraining intervention 'The Switch' for those with idiopathic chronic fatigue (Fatigue: Biomedicine, Health & Behavior 2026)](https://tandfonline.com/doi/pdf/10.1080/21641846.2026.2694949)
+
 ## Open Questions
 
 - **What are the optimal patient stratification criteria?** Given the heterogeneity of ME/CFS and Long COVID, identifying specific clinical phenotypes (such as preload failure, mitochondrial dysfunction, or MCAS) is crucial to match patients with the most appropriate pharmacotherapeutic mechanism.
@@ -247,3 +301,5 @@ Sources:
 - [Low-Dose Naltrexone (LDN)](../low-dose-naltrexone/)
 - [Rapamycin & mTOR Inhibition](../rapamycin-mtor/)
 - [Antivirals & Monoclonal Antibodies](../antivirals-monoclonals/)
+- [Neuroinflammation & Brain Changes](../../disease-models-mechanisms/neuroinflammation-brain-changes/)
+- [Viral Persistence & Reactivation](../../disease-models-mechanisms/viral-persistence-reactivation/)

@@ -1,8 +1,8 @@
 ---
 title: Immune Dysregulation & Chronic Inflammation
 description: A living thread on cellular immune activation, cytokine profiles, CD8 T-cell dysfunction/exhaustion, monocyte subsets, HLA associations, mast cell activation, and inflammasome pathways in ME/CFS and Long COVID.
-date: 2026-06-28
-last_updated: 2026-06-28
+date: 2026-07-10
+last_updated: 2026-07-10
 thread_status: active
 evidence_level: clinical and mechanistic validation
 primary_topics:
@@ -19,9 +19,9 @@ cssclasses: [thread-page]
 
 Immune dysregulation remains one of the most consistent findings across ME/CFS and Long COVID, but the newer evidence suggests that it is not just a generic "inflammation" signal. The pattern increasingly looks like a mix of chronic antigen-driven adaptive dysfunction, persistent innate activation, and abnormal immune-tissue signaling that may differ by subgroup and trigger history.
 
-The latest additions sharpen that picture. New work tracks exhausted or clonally expanded T cells back toward specific unresolved antigens, maps monocyte, B-cell, T-cell, and NK-cell abnormalities at single-cell resolution, identifies elevated IL-11 and MMP-9 with EBV-responsive mast-cell signaling, and adds glycosylation changes in serum, IgG, and red blood cells that could affect both immune function and blood flow. These findings fit the idea that immune dysfunction is interacting with vascular and metabolic systems rather than operating in isolation.
+The latest additions sharpen that picture. New work tracks exhausted or clonally expanded T cells back toward specific unresolved antigens, maps monocyte, B-cell, T-cell, and NK-cell abnormalities at single-cell resolution, identifies elevated IL-11 and MMP-9 with EBV-responsive mast-cell signaling, outlines a conceptual system-dynamics framework for modeling stability states in mast cell activation syndrome (MCAS), and adds glycosylation changes in serum, IgG, and red blood cells that could affect both immune function and blood flow. These findings fit the idea that immune dysfunction is interacting with vascular and metabolic systems rather than operating in isolation.
 
-The evidence still needs cautious handling. Some of the newest material is preliminary, including a webinar on antigen discovery, a single-cell preprint, and a thesis-based glycosylation study. Even the peer-reviewed additions remain mostly cross-sectional, so they help define plausible mechanisms and subgroups more than they prove one dominant cause.
+The evidence still needs cautious handling. Some of the newest material is preliminary or conceptual, including a webinar on antigen discovery, a single-cell preprint, a thesis-based glycosylation study, and a theoretical perspective on MCAS stability states. Even the peer-reviewed additions remain mostly cross-sectional, so they help define plausible mechanisms and subgroups more than they prove one dominant cause.
 
 ## Why This Matters
 
@@ -31,8 +31,8 @@ Unraveling the precise mechanisms of immune dysregulation is essential for movin
 
 - **Established:** Post-infectious immune abnormalities are repeatedly observed in both ME/CFS and Long COVID, including altered lymphocyte populations, impaired cytotoxic-cell function, inflammatory cytokine changes, and evidence of ongoing innate-adaptive mismatch.
 - **Plausible but early:** Antigen-specific T-cell exhaustion, monocyte and NK-cell inflammatory programs, mast-cell-linked IL-11/MMP-9 signaling, and altered glycosylation patterns all have growing support as subgroup-defining mechanisms. These may help explain why some patients look more immune-activated, others more immune-suppressed, and some show stronger vascular or autonomic overlap.
-- **Not established:** It is still not clear which immune abnormalities are upstream disease drivers, which are downstream consequences, and which are compensatory responses. Antigen-discovery work has not yet produced validated public antigen targets, and immune-glycan abnormalities are not ready for clinical classification.
-- **Key limitations:** Several important 2026 additions are preliminary, preprint, or thesis-based. Most studies remain cross-sectional and blood-based, which limits conclusions about tissue-resident immune dysfunction in the gut, marrow, vasculature, or nervous system.
+- **Not established:** It is still not clear which immune abnormalities are upstream disease drivers, which are downstream consequences, and which are compensatory responses. Antigen-discovery work has not yet produced validated public antigen targets, and immune-glycan abnormalities are not ready for clinical classification. Furthermore, while theoretical system-dynamics frameworks model Mast Cell Activation Syndrome (MCAS) as a driver of systemic volatility, MCAS is not established as the primary underlying mechanism of ME/CFS.
+- **Key limitations:** Several important 2026 additions are preliminary, preprint, or thesis-based. Most studies remain cross-sectional and blood-based, which limits conclusions about tissue-resident immune dysfunction in the gut, marrow, vasculature, or nervous system. Additionally, the proposed MCAS system-dynamics model is purely conceptual and requires extensive longitudinal clinical validation.
 
 ## Timeline
 
@@ -251,6 +251,14 @@ A comparative cohort study from TU Wien found higher free serum sialic acid in s
 Sources:
 
 - [Garcia de Otazo Hernandez 2026, TU Wien thesis PDF](https://repositum.tuwien.at/bitstream/20.500.12708/228796/1/Garcia%2520de%2520Otazo%2520Hernandez%2520Daniel%2520-%25202026%2520-%2520Uncovering%2520glycosylation%2520changes%2520in...pdf)
+
+### 2026-07-10 - System-dynamics framework models state-dependent instability in Mast Cell Activation Syndrome
+
+A theoretical perspective paper proposed a system-dynamics framework to model clinical volatility and crash susceptibility in Mast Cell Activation Syndrome (MCAS). The model reframes MCAS as a disorder of state-dependent systemic instability rather than focusing solely on mediator burden, suggesting why resting mediator levels often correlate poorly with functional capacity. The framework classifies patient operating regimes into four states (recovery-capable, plateau, slow drift, and crash-prone) governed by three axes: energetic reserve, dominant pressure domain, and multisystem synchronization. As a purely conceptual model rather than clinical evidence, it does not present new patient data, clinical trial outcomes, or validated biomarkers. While it offers a potential mechanism to explain clinical fluctuations and post-perturbation crashes, the model requires longitudinal clinical validation and does not establish MCAS as a primary driver or mechanism of ME/CFS.
+
+Sources:
+
+- [Tellier 2026, Frontiers in Immunology](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1865449/full)
 
 ## Open Questions
 
