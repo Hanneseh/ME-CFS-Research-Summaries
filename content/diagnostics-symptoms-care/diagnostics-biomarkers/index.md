@@ -1,8 +1,8 @@
 ---
 title: Diagnostics & Biomarkers
 description: A living thread on diagnostic tests, biomarker panels, machine-learning classifiers, biosensors, assays, and measurement tools for ME/CFS and Long COVID.
-date: 2026-07-10
-last_updated: 2026-07-10
+date: 2026-07-15
+last_updated: 2026-07-15
 thread_status: active
 evidence_level: early clinical validation
 primary_topics:
@@ -180,6 +180,14 @@ Sources:
 
 - [Moreau 2026, Internationale ME/CFS-Konferenz](https://youtu.be/xOMQANDBoT4)
 
+### 2026-06-30 - Explainable ensemble learning classifies ME/CFS using plasma metabolomics and lipidomics
+
+In a study published in the *International Journal of Molecular Sciences*, Yagin et al. evaluated three machine learning classifiers to distinguish ME/CFS patients from healthy controls based on plasma metabolomic and lipidomic profiles. Using data from 106 ME/CFS patients and 91 healthy controls across 888 features, the Explainable Boosting Machine (EBM) classifier achieved the highest performance, yielding 90.9 percent accuracy and an AUC of 0.940 under 50-repeat stratified hold-out validation. Pairwise metabolite interaction terms—specifically proline and indole-3-lactate, tyrosine and N-acetylornithine, and maleic acid and arachidic acid—provided the strongest discriminative signals, indicating that metabolite co-variation offers diagnostic value beyond individual metabolite levels. While these metabolomic alterations implicate pathways in amino acid catabolism, tryptophan-kynurenine pathway dysregulation, mitochondrial energy impairment, and lipid remodeling, the classifier requires prospective testing and calibration assessment in independent cohorts before clinical translation.
+
+Sources:
+
+- [Yagin et al. 2026, International Journal of Molecular Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC13362375)
+
 ### 2026-07-10 - EpiSwitch® 3D genomic test validated in retrospective severe cohort
 
 In a peer-reviewed retrospective case-control study published in the *Journal of Translational Medicine*, researchers validated the EpiSwitch® 3D genomic test for ME/CFS. Using whole-genome 3D DNA screening of peripheral blood mononuclear cells from 47 severe ME/CFS patients and 61 healthy controls, the study developed a 200-marker chromosome conformation model. The diagnostic panel achieved 92 percent sensitivity and 98 percent specificity in an independent retrospective validation cohort. Pathway analysis linked these conformation markers to neuroinflammatory, tumor necrosis factor alpha (TNFα), and JAK/STAT signaling, and identified a potential responder subpopulation for Rituximab and glatiramer acetate based on IL-2 pathway conformations. However, the study is limited by its retrospective design, lack of validation in mild-to-moderate cohorts, and a potential commercial conflict of interest, as multiple co-authors are employees of the test's developer, Oxford BioDynamics plc. Prospective clinical validation is still required before the assay can be deployed as a routine diagnostic tool.
@@ -203,6 +211,14 @@ In a peer-reviewed systematic literature review of 142 studies analyzing biomark
 Sources:
 
 - [PAIS Biomarker Review 2026, Frontiers in Immunology](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1741761/full)
+
+### 2026-07-15 - Standardized repeated handgrip strength testing evaluated in young patient cohort
+
+In a prospective observational study published in the *Journal of Translational Medicine*, Mihatsch et al. evaluated the clinical utility of a standardized two-session repeated handgrip strength (HGS) test, separated by a 60-minute break, in 147 children, adolescents, and young adults with chronic fatigue and self-reported post-exertional malaise (PEM) alongside 83 healthy controls. The test showed high feasibility with completion rates exceeding 96 percent, and patient cohorts demonstrated significantly lower handgrip strength than healthy controls, with a mean difference of -9.93 kg. HGS indices correlated modestly with physical functioning but did not correlate with PEM duration, and they failed to reliably differentiate ME/CFS patients from those with other fatiguing conditions. In a sensitivity analysis restricted to patients meeting the Canadian Consensus Criteria, the test achieved moderate diagnostic discrimination (62.8 to 70.7 percent accuracy) using absolute strength indices and recovery ratios, indicating that its utility is for tracking physical functioning and functional impairment rather than as a standalone diagnostic biomarker.
+
+Sources:
+
+- [Mihatsch et al. 2026, Journal of Translational Medicine](https://pubmed.ncbi.nlm.nih.gov/42458481)
 
 ## Related Threads
 

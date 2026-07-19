@@ -1,8 +1,8 @@
 ---
 title: Mitochondrial & Metabolic Dysfunction
 description: A living thread on cellular bioenergetics, mitochondrial respiration, Complex V inefficiency, metabolomic and lipidomic profiles, and skeletal muscle energy failure in ME/CFS and Long COVID.
-date: 2026-06-16
-last_updated: 2026-06-16
+date: 2026-07-13
+last_updated: 2026-07-13
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -295,6 +295,14 @@ Nguyen and colleagues generated induced pluripotent stem cell-derived myogenic p
 Sources:
 
 - [Nguyen et al. 2026, Research Square](https://www.researchsquare.com/article/rs-10015511/latest.pdf)
+
+### 2026-07-13 - Younger Lab announces planned brain ATP imaging study using custom Phosphorus-31 spectroscopy
+
+In a Younger Lab video presentation, Dr. Jarred Younger outlined a planned pilot study to directly measure brain adenosine triphosphate (ATP) levels in ME/CFS patients and healthy controls using a custom-built Phosphorus-31 Magnetic Resonance Spectroscopy (31P-MRS) head coil. The lab has secured an equipment grant for the custom coil (with Dr. Vinitra Meshram as principal investigator), which is expected in October 2026, and is actively writing a grant proposal for approximately $200,000 USD to fund participant recruitment. Because this is an upcoming, currently unfunded pilot study with no participants recruited or data collected yet, it represents a limited, early-stage plan rather than a completed clinical trial. The study aims to combine these bioenergetic measurements with neuroinflammatory scans to investigate central nervous system energy deficits in post-viral illness.
+
+Sources:
+
+- [Younger 2026, Younger Lab video announcement](https://youtu.be/TV9hulVWR4Q)
 
 ## Open Questions
 

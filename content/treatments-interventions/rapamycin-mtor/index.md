@@ -1,8 +1,8 @@
 ---
 title: Rapamycin & mTOR Inhibition
 description: A living thread on rapamycin (sirolimus) and other mTOR inhibitors, tracking clinical trials, observational studies, and mechanisms of autophagy restoration in ME/CFS and Long COVID.
-date: 2026-05-07
-last_updated: 2026-05-07
+date: 2026-07-10
+last_updated: 2026-07-10
 thread_status: active
 evidence_level: early clinical and biomarker validation
 primary_topics:
@@ -62,6 +62,14 @@ At the Internationale ME/CFS-Konferenz 2026, Dr. Gunnar Gottschalk presented pre
 Sources:
 
 - [Gottschalk 2026 presentation video](https://youtu.be/KdmaHaA6EaA) (Conference presentation video; Speaker: Dr. Gunnar Gottschalk; full presentation video)
+
+### 2026-07-10 - Phase II pilot study reports low-dose rapamycin improves fatigue and modulates purine metabolism
+
+A phase II observational pilot trial (NCT06257420) of compounded low-dose rapamycin for patients with ME/CFS reported significant reductions in fatigue symptoms. Mechanistic analyses of a responder cohort after 90 days of therapy indicated that rapamycin alters purine biosynthesis by reducing IMP dehydrogenase activity in peripheral blood mononuclear cells (PBMCs), thereby limiting the conversion of inosine monophosphate (IMP) to xanthosine-5-monophosphate (XMP) and altering hypoxanthine (HPX) plasma levels. The study proposed that this modulation of purine metabolism alleviates mitochondrial energy impairment (assessed via Seahorse oxygen consumption rate) and microglial inflammatory activation. However, because this is a small, uncontrolled observational pilot trial, it cannot rule out placebo effects, and the molecular analyses are biased toward positive findings as they were conducted only on a responder cohort.
+
+Sources:
+
+- [Gile et al. 2026, Journal of Translational Medicine](https://link.springer.com/article/10.1186/s12967-026-08575-3)
 
 ## Open Questions
 

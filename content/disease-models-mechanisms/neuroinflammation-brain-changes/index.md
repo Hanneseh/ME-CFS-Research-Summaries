@@ -1,8 +1,8 @@
 ---
 title: Neuroinflammation & Brain Changes
 description: A living thread on brain imaging, neurovascular coupling, microglial activation, and neuroendocrine alterations in ME/CFS and Long COVID.
-date: 2026-07-10
-last_updated: 2026-07-10
+date: 2026-07-19
+last_updated: 2026-07-19
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -325,6 +325,27 @@ Sources:
 
 - [Higher-order brain processes, rather than early processing, underlie sensory problems in ME/CFS: evidence from ERPs, Frontiers in Medicine](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1842841/full)
 - [Neurovascular and synaptic milieu of brain-resident cells in cognitive dysfunction of myalgic encephalomyelitis/chronic fatigue syndrome, PubMed](https://pubmed.ncbi.nlm.nih.gov/42015171/)
+
+### 2026-07-12 - PET imaging reveals striatal dopamine system injury in Long COVID
+
+A PET imaging study evaluated vesicular monoamine transporter 2 (VMAT2) binding—an index of dopamine terminal density—in patients with Long COVID compared to healthy controls. The researchers identified significantly lower VMAT2 levels in the striatum of the Long COVID cohort. Localized VMAT2 reductions in the ventral striatum correlated with decreased motivation, while reductions in the dorsal putamen and caudate/putamen linked to slowed motor performance and memory deficits, respectively. However, cohort sizes and statistical metrics are not detailed in the available summary, and further validation is needed to determine the clinical utility of targeting the dopamine system.
+Sources:
+
+- [Liu et al. 2026, eBioMedicine](https://doi.org/10.1016/j.ebiom.2026.106339)
+
+### 2026-07-16 - Post-COVID fatigue associated with peripheral immunometabolic changes affecting hippocampal function
+
+A study of 38 individuals with past COVID-19 infection showed that fatigue severity correlates with lower serum levels of interleukin-8 (IL-8), tryptophan-derived and monoamine-related metabolites (such as 5-hydroxyindoleacetic acid [5HIAA]), and kynurenine pathway metabolites (kynurenine and quinolinic acid). To investigate central effects, the researchers exposed human hippocampal progenitor cells to 1% patient serum in vitro. However, the study is limited by a small cohort size, and in vitro models using diluted serum may not fully represent the complex, in vivo neuroimmune microenvironment of the human hippocampus.
+Sources:
+
+- [Mariani et al. 2026, Translational Psychiatry](https://nature.com/articles/s41398-026-04250-9)
+
+### 2026-07-19 - Cerebrospinal fluid opening pressure and craniocervical anatomy evaluated in ME/CFS
+
+A case-control study of 34 patients with ME/CFS (65% of whom had moderate disease severity) investigated cerebrospinal fluid (CSF) opening pressure, clinical symptoms, and craniocervical anatomy. Lumbar punctures were performed to measure opening pressure—utilizing a 20 cmH2O cut point for patient stratification—and evaluate symptomatic relief post-procedure. However, this study is limited by a small cohort size and the lack of healthy controls undergoing lumbar punctures, and specific statistical outcomes or radiological correlations were not fully detailed in the available summary.
+Sources:
+
+- [Jolley et al. 2026, Frontiers in Medicine](https://frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1869714/full)
 
 #### Preclinical & Animal Studies
 

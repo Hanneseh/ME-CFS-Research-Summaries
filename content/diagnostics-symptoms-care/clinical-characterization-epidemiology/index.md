@@ -1,8 +1,8 @@
 ---
 title: Clinical Characterization & Epidemiology
 description: A living thread on ME/CFS case definitions, clinical guidelines, epidemiology, cohort structure, symptom measurement, research infrastructure, and funding developments for ME/CFS and Long COVID.
-date: 2026-07-10
-last_updated: 2026-07-10
+date: 2026-07-17
+last_updated: 2026-07-17
 thread_status: active
 evidence_level: established clinical consensus with ongoing refinement
 primary_topics:
@@ -431,6 +431,14 @@ Sources:
 
 - [DecodeME subgroups preprint: medRxiv](https://www.medrxiv.org/content/medrxiv/early/2026/07/01/2026.06.29.26356818.full.pdf)
 
+### 2026-07-07 - Survey and EMR analysis reveals gaps in Long COVID diagnostic coding
+
+A cross-sectional survey (n = 205) and electronic medical record (EMR) sub-analysis (n = 100) investigated the relationship between patient-reported Long COVID symptom interference and official clinical diagnostic coding. In the survey cohort, 41% of participants reported high symptom interference with daily life activities, which significantly correlated with older age, female sex, obesity, poorer general, physical, and mental health metrics, and the presence of a U09.9 diagnosis code. However, among those reporting high symptom interference, only 64% (25 of 39) in the EMR sub-analysis actually had a corresponding Long COVID diagnostic code documented. While the study found no evidence of demographic biases in receiving a diagnosis among patients experiencing high symptom interference, it highlights a notable gap between patient-reported severity and clinical coding. Limitations include the cross-sectional design, reliance on self-reported survey data susceptible to recall bias, and a small EMR sub-analysis sample.
+
+Sources:
+
+- [Diagnostic coding study 2026, BMC Infectious Diseases](https://link.springer.com/article/10.1186/s12879-026-13943-x)
+
 ### 2026-07-10 - National registry and healthcare surveys in the US, New Zealand, and Australia highlight socioeconomic burden and diagnostic gaps
 
 Three large-scale studies profiled the socio-economic impact and health services landscape of ME/CFS and Long COVID. In New Zealand, a nationwide Integrated Data Infrastructure (IDI) study of 1,902 benefit recipients with ME/CFS found extremely low employment rates (18.3% vs. 83.8% controls), high polypharmacy (32.8%), and a low rate of disability support service usage (1.6% vs. 7.2% other benefit recipients) indicating major structural barriers to care. In the US, an analysis of the 2021-2023 National Health Interview Survey (NHIS) representing 86,655 adults estimated that 1.5% have received an ME/CFS diagnosis, and found that among the 20.7% who reported past (resolved) ME/CFS, 40-50% still experienced active symptoms and functional impairment comparable to those with active disease. Finally, an Australian review of Long COVID service delivery documented severe fragmentation following public clinic closures, forcing patients into private fee-for-service clinics, and highlighted "statistical invisibility" due to a lack of active diagnostic codes as a major barrier to surveillance and service capacity planning. Collectively, these registry and guideline evaluations show that standard administrative databases significantly underestimate the true illness burden, and that patients face severe, systemic barriers to obtaining specialized care, benefits, and accurate diagnostic tracking. However, these studies rely heavily on administrative diagnostic codes, which are prone to misclassification, or self-reported survey data without clinical validation. Furthermore, the services mapped are highly system-specific to New Zealand, the US, and Australia.
@@ -458,6 +466,22 @@ An observational cross-sectional study using wrist-worn actigraphy monitored lig
 Sources:
 
 - [Actigraphy light exposure study: Ortiz-Gomez et al. 2026, Chronobiology International](https://pubmed.ncbi.nlm.nih.gov/42399727/)
+
+### 2026-07-13 - Australian registry study profiles health-related quality of life and case definitions in ME/CFS
+
+An Australian registry-based study compared 2,873 ME/CFS patients against 797 non-fatigued controls between 2014 and 2026 to assess health-related quality of life (HRQoL) and clinical presentation. Within the registry cohort, patients met different case criteria, with 39.0% meeting the Fukuda definition, 30.4% meeting the Canadian Consensus Criteria (CCC), and 30.6% meeting the International Consensus Criteria (ICC). Although patients meeting the strict ICC criteria were more likely to report the poorest outcomes, HRQoL was severely and globally impaired across all ME/CFS patients compared to controls, regardless of the specific case definition met. Using K-means clustering, the researchers identified four distinct patient clusters based on symptom severity, frequency, and case criteria. The study is limited by its cross-sectional design, reliance on self-reported questionnaire data prone to recall bias, and potential selection bias from drawing participants from a specialized neuroimmunology registry.
+
+Sources:
+
+- [Australian Registry Study 2026, Journal of Translational Medicine](https://link.springer.com/article/10.1186/s12967-026-08618-9)
+
+### 2026-07-17 - ME/CFS Research Foundation announces €2.4 million in funding for seven new studies
+
+The ME/CFS Research Foundation announced €2.4 million in funding for seven new research projects under its Research Funding Programme 2026, scheduled to begin in the summer of 2026. Selected from approximately 30 submissions by an international expert jury and advisory board, the projects will focus on investigating new treatment approaches, disease mechanisms, and biomarkers. As this is a brief funding press release rather than a peer-reviewed scientific study, it does not provide clinical data, patient outcomes, or specific study methodologies, and the exact details of the individual projects are not disclosed.
+
+Sources:
+
+- [ME/CFS Research Foundation Funding Announcement 2026, press release](https://mecfs-research.org/en/news-researchfunding-projects2026)
 
 ## Related Threads
 

@@ -1,8 +1,8 @@
 ---
 title: Low-Dose Naltrexone (LDN)
 description: A living thread on low-dose naltrexone, dextro-naltrexone, TRPM3 ion channel function, and neuroinflammation in ME/CFS and Long COVID.
-date: 2026-06-02
-last_updated: 2026-06-02
+date: 2026-06-29
+last_updated: 2026-06-29
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -90,4 +90,12 @@ A narrative review published in the *Mental Health Clinician* by Pucci et al. su
 Sources:
 
 - [Pucci et al. 2026, Mental Health Clinician](https://pubmed.ncbi.nlm.nih.gov/42239825/)
+
+### 2026-06-29 - New NIH/NINDS-funded 5-year low-dose naltrexone clinical trial announced for ME/CFS
+
+Dr. Jarred Younger announced that the National Institute of Neurological Disorders and Stroke (NINDS) of the National Institutes of Health (NIH) has funded a new five-year clinical trial of low-dose naltrexone (LDN) for ME/CFS, with Younger serving as the Principal Investigator. Younger reports that the study features a remote design to enable nationwide recruitment across the United States, specifically seeking to include severely affected housebound and bedbound patients. According to the investigator's announcement, the trial is structured in two stages: a two-year dose-finding phase with approximately 100 participants, followed by a three-year randomized, double-blind, placebo-controlled parallel-group phase involving about 200 participants. Additionally, a local subgroup of participants will undergo brain scanning to investigate whether LDN responders demonstrate a reduction in brain neuroinflammation through microglial modulation, directly linking the study's scientific objectives to the [neuroinflammation-brain-changes](../../disease-models-mechanisms/neuroinflammation-brain-changes/) thread. The trial is projected to begin in September 2026, with recruitment starting locally before expanding nationwide. However, key limitations of the study include its long five-year timeline—where the randomized controlled phase does not start until year three—and that the informal announcement is not yet a registered clinical trial protocol.
+
+Sources:
+
+- [Younger Lab (Jarred Younger), YouTube, 2026-06-29](https://youtu.be/JcoUdWkwKvM)
 

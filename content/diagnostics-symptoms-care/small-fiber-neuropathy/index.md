@@ -1,8 +1,8 @@
 ---
 title: Small Fiber Neuropathy & Dysautonomia Overlap
 description: A living thread on peripheral small-fiber neuropathy in ME/CFS and post-COVID, covering skin biopsy and Sudoscan diagnostics, corneal confocal microscopy, the dysautonomia overlap including POTS, and mast-cell or neuroimmune mechanisms driving neuropathic and autonomic symptoms.
-date: 2026-03-06
-last_updated: 2026-03-06
+date: 2026-07-08
+last_updated: 2026-07-08
 thread_status: active
 evidence_level: early — two primary sources, cross-sectional and narrative review
 primary_topics:
@@ -53,6 +53,14 @@ Morcos and Theoharides published a narrative review in the Journal of Neuropatho
 Sources:
 
 - [Morcos & Theoharides 2026, Journal of Neuropathology & Experimental Neurology](https://doi.org/10.1093/jnen/nlag016)
+
+### 2026-07-08 - Press release reports new diagnostic model for post-COVID eye problems
+
+Linköping University in Sweden issued a press release reporting that even mild cases of COVID-19 can cause severe and long-lasting eye problems. The study highlights that the resulting abnormal eye behavior is difficult to detect using standard clinical methods. To address this gap, researchers developed a new diagnostic model specifically designed to detect these COVID-related visual issues. However, because this information is based solely on a brief university news release rather than a peer-reviewed scientific paper, specific details of the diagnostic model, study design, and sample size are not provided, representing a limited level of evidence.
+
+Sources:
+
+- [Linköping University Press Release, EurekAlert!](https://eurekalert.org/news-releases/1134768)
 
 ## Open Questions
 

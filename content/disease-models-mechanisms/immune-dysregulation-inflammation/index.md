@@ -1,8 +1,8 @@
 ---
 title: Immune Dysregulation & Chronic Inflammation
 description: A living thread on cellular immune activation, cytokine profiles, CD8 T-cell dysfunction/exhaustion, monocyte subsets, HLA associations, mast cell activation, and inflammasome pathways in ME/CFS and Long COVID.
-date: 2026-07-10
-last_updated: 2026-07-10
+date: 2026-07-13
+last_updated: 2026-07-13
 thread_status: active
 evidence_level: clinical and mechanistic validation
 primary_topics:
@@ -259,6 +259,14 @@ A theoretical perspective paper proposed a system-dynamics framework to model cl
 Sources:
 
 - [Tellier 2026, Frontiers in Immunology](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1865449/full)
+
+### 2026-07-13 - Longitudinal single-cell profiling reveals a monocyte-plasma cell axis in Long COVID
+
+This longitudinal single-cell profiling study identified a monocyte-plasma cell axis in patients with Long COVID, providing early high-resolution cellular evidence of immune dysregulation. However, this work is currently an un-peer-reviewed preprint and is based on a very small cohort of approximately 7 Long COVID patients and 5 controls. Due to these limitations and the preliminary nature of the evidence, these findings require formal peer review and replication in larger patient cohorts.
+
+Sources:
+
+- [Research Square Preprint on Monocyte-Plasma Cell Axis](https://assets-eu.researchsquare.com/files/rs-9917774/v1/e6bcb7a4-015a-4c8a-9b4d-760e69b61648.pdf)
 
 ## Open Questions
 

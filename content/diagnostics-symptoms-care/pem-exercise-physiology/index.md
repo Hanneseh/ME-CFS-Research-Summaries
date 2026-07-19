@@ -1,8 +1,8 @@
 ---
 title: Post-Exertional Malaise & Exercise Physiology
 description: A living thread on PEM, repeat CPET, lactate recovery, pacing physiology, wearable monitoring, and exertion-response biomarkers in ME/CFS and Long COVID.
-date: 2026-07-10
-last_updated: 2026-07-10
+date: 2026-07-14
+last_updated: 2026-07-14
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -261,6 +261,14 @@ A scoping review of 21 randomized controlled trials (RCTs) including 1,916 parti
 Sources:
 
 - [Long COVID Exercise Rehabilitation Scoping Review, Journal of Bodywork and Movement Therapies](https://www.sciencedirect.com/science/article/pii/S1360859226001725)
+
+### 2026-07-14 - REVEAL-study evaluates agreement between two-day step test and two-day CPET
+
+A crossover study (n = 25) evaluated the level of agreement and reliability between a two-day 6-minute incremental step test (6MIST) using wireless wearable sensors and a two-day cardiopulmonary exercise test (CPET) for assessing post-exertional malaise (PEM) in patients with post-COVID-19 condition. The two-day 6MIST demonstrated limited overall agreement with the gold-standard CPET, showing low reliability and agreement for objective VO2peak and neuromuscular complaints, which suggests the 6MIST cannot yet replace CPET. However, the study observed moderate reliability between the two tests for rated perceived exertion at all times and for changes in subjective fatigue after 24 hours. These findings highlight the difficulty of finding less burdensome alternatives to the two-day CPET, with the study constrained by its small cohort size and requiring further protocol refinement to optimize PEM assessment.
+
+Sources:
+
+- [Bomans et al. 2026, PLOS ONE](https://pubmed.ncbi.nlm.nih.gov/42447127)
 
 ## Related Threads
 

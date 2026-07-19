@@ -19,6 +19,7 @@ primary_topics:
   - Methylprednisolone
   - Tuina
   - Cognitive Rehabilitation
+  - Cyclobenzaprine (Tonmya)
 cssclasses:
   - thread-page
 ---
@@ -218,6 +219,14 @@ Sources:
 
 - [Filatenkova et al. 2026, Medical academic journal](https://journals.rcsi.science/MAJ/article/view/426498)
 
+### 2026-06-08 - FDA approves Tonmya (sublingual cyclobenzaprine) for fibromyalgia, discussed for off-label ME/CFS relevance
+
+On June 8, 2026, the FDA approved Tonmya (sublingual cyclobenzaprine, though captions rendered the brand name variably as Tonmya or Tomaya) for the treatment of fibromyalgia. In a Younger Lab commentary, Dr. Jarred Younger discussed the drug's pharmacokinetic rationale, explaining that sublingual delivery bypasses first-pass hepatic and gut metabolism, avoiding the rapid conversion to norcyclobenzaprine and reducing next-day grogginess compared to oral generic Flexeril. While published clinical trials demonstrated a clear separation between Tonmya and placebo in improving fibromyalgia severity, sleep, and fatigue, there are no head-to-head trials comparing it to cheap oral generics. Given that ME/CFS, Long COVID, and Gulf War Illness have zero FDA-approved treatments, Dr. Younger framed Tonmya as potentially useful off-label for these conditions due to their overlapping symptom profiles, though he noted that no ME/CFS-specific efficacy data exist. Practical limitations include a high out-of-pocket cost of approximately $2,000 per month compared to around $15 for generic oral formulations, mucosal irritation or chemical burn risk if the tablet does not dissolve before sleep, and the necessity of a 2-month trial to properly judge efficacy.
+
+Sources:
+
+- [Younger Lab (Jarred Younger), YouTube, 2026-06-08](https://youtu.be/U-GkHJe_Ng8)
+
 ### 2026-06-25 - MYOFLAME-19 trial of losartan and prednisone for post-COVID cardiac inflammation presents results at International ME/CFS Conference 2026
 
 Prof. Dr. Valentina Puntmann presented findings from the MYOFLAME-19 trial, a 16-week randomized, placebo-controlled trial evaluating the angiotensin receptor blocker losartan (with or without the corticosteroid prednisone) in 279 patients with post-COVID fatigue syndrome showing subclinical cardiac inflammation on MRI. While the study did not meet its primary confirmatory endpoint of improving left ventricular ejection fraction (LVEF) using a conservative unpaired t-test, an ANCOVA analysis adjusting for baseline LVEF showed a statistically significant treatment effect. The trial showed directional proof of concept with improvements in cardiac volume, reduced tissue and systemic inflammation (CRP, D-dimer, lymphocytes), and reduced fatigue. However, the study suffered from a high attrition rate (11.8%), and LVEF may not be the optimal endpoint for post-infectious endothelial dysfunction.
@@ -273,6 +282,14 @@ A randomized clinical trial published in *JAMA Network Open* demonstrated that a
 Sources:
 
 - [Cognitive Rehabilitation and Functional Outcomes in Long COVID–Related Cognitive Impairment: A Randomized Clinical Trial (JAMA Network Open 2026)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2851024)
+
+### 2026-07-05 - Feasibility study evaluates telehealth-delivered ketogenic metabolic therapy for post-viral illness
+
+A cross-sectional survey evaluating a fully remote telehealth program that combined ketogenic metabolic therapy, thiamine supplementation, circadian entrainment, and mindfulness coaching in 41 international patients with post-viral illness (including Long COVID) reported high acceptability and perceived benefits. Upon program completion, 96% of participants reported the multicomponent intervention was helpful, and 75% felt 'a lot better'. However, the evidence level is limited, as the study relied entirely on a small, self-reported survey design without a control or placebo group. Furthermore, the multicomponent nature of the program prevents isolating the therapeutic efficacy of ketogenic therapy or thiamine from lifestyle changes, mindfulness, or natural recovery.
+
+Sources:
+
+- [Colgan et al. 2026, Journal of Patient Experience](https://pubmed.ncbi.nlm.nih.gov/42416120)
 
 ### 2026-07-10 - Randomized controlled trial reports efficacy of Tuina therapy for chronic fatigue syndrome
 
