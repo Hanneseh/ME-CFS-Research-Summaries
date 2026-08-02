@@ -1,8 +1,8 @@
 ---
 title: Low-Dose Naltrexone (LDN)
 description: A living thread on low-dose naltrexone, dextro-naltrexone, TRPM3 ion channel function, and neuroinflammation in ME/CFS and Long COVID.
-date: 2026-06-29
-last_updated: 2026-06-29
+date: 2026-07-25
+last_updated: 2026-07-25
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -23,7 +23,7 @@ cssclasses:
 
 Low-Dose Naltrexone (LDN) is an off-label immunomodulatory medication widely used by clinicians and patients to treat fatigue, chronic pain, and cognitive dysfunction in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID. Clinical interest centers on emerging trial data and the underlying biological mechanisms—specifically the dysfunction of Transient Receptor Potential Melastatin 3 (TRPM3) ion channels and glial-mediated neuroinflammation.
 
-Recent research has significantly advanced our understanding by demonstrating that LDN treatment can restore normal TRPM3 calcium-channel function in natural killer (NK) cells, and by establishing a direct connection between impaired TRPM3 signaling and downstream mitochondrial energy deficits. Additionally, translational efforts are underway to develop Dextro-Naltrexone (D-Naltrexone) to target brain neuroinflammation at higher doses without the side effects of opioid receptor blockade.
+Recent research has significantly advanced our understanding by demonstrating that LDN treatment can restore normal TRPM3 calcium-channel function in natural killer (NK) cells, and by establishing a direct connection between impaired TRPM3 signaling and downstream cytosolic and mitochondrial energy deficits in both ME/CFS and Post-COVID-19 condition. Additionally, translational efforts are underway to develop Dextro-Naltrexone (D-Naltrexone) to target brain neuroinflammation at higher doses without the side effects of opioid receptor blockade.
 
 Despite these promising mechanistic insights, the clinical evidence for LDN remains early and of low certainty. While small observational studies and systematic reviews report improvements in symptoms and daily functioning, there are currently no published, large-scale randomized controlled trials confirming its efficacy, leaving significant uncertainty about its therapeutic benefits.
 
@@ -34,9 +34,9 @@ LDN connects a widely used clinical intervention with concrete, laboratory-valid
 ## State of Evidence
 
 - **Established:** TRPM3 ion channel dysfunction in natural killer cells is a consistent, validated biomarker for ME/CFS that remains stable across multiple independent testing sites.
-- **Plausible but early:** Low-dose naltrexone treatment appears to restore TRPM3-mediated calcium influx in the immune cells of Long COVID patients; impaired TRPM3 function is linked to downstream mitochondrial calcium transport deficits that may drive cellular energy exhaustion; observational clinical studies show moderate to large improvements in patient symptoms.
-- **Not established:** LDN is not clinically proven to be effective for ME/CFS or Long COVID in placebo-controlled settings; the safety and efficacy of pure Dextro-Naltrexone in humans have not been tested.
-- **Key limitations:** Existing clinical evidence is limited to small, uncontrolled, observational pre-post studies susceptible to placebo effects and regression to the mean; patch-clamp assays for TRPM3 function are highly specialized and not suitable for routine clinical diagnostics; current D-Naltrexone research is preclinical and requires FDA IND approval and funding before starting human trials.
+- **Plausible but early:** Low-dose naltrexone treatment appears to restore TRPM3-mediated calcium influx in the immune cells of Long COVID patients; impaired TRPM3 function is linked to downstream cytosolic and mitochondrial calcium transport deficits in both ME/CFS and Post-COVID-19 condition NK cells; observational clinical studies show moderate to large improvements in patient symptoms.
+- **Not established:** LDN is not clinically proven to be effective for ME/CFS or Long COVID in placebo-controlled settings; the safety and efficacy of pure Dextro-Naltrexone in humans have not been tested; cellular TRPM3 restoration in vitro or ex vivo does not establish in vivo clinical efficacy or symptom resolution.
+- **Key limitations:** Existing clinical evidence is limited to small, uncontrolled, observational pre-post studies susceptible to placebo effects and regression to the mean; patch-clamp and live-cell calcium imaging assays for TRPM3 function are specialized laboratory methods not suitable for routine clinical diagnostics; TRPM3 cellular studies rely on small cohorts (e.g., $n = 8$ to $10$ per group) and require larger prospective validation; Long COVID findings cannot be assumed to be identical to classic ME/CFS without direct comparison.
 
 ## Timeline
 
@@ -99,3 +99,18 @@ Sources:
 
 - [Younger Lab (Jarred Younger), YouTube, 2026-06-29](https://youtu.be/JcoUdWkwKvM)
 
+### 2026-07-25 - Deficient TRPM3-linked mitochondrial calcium influx demonstrated in ME/CFS natural killer cells
+
+An in vitro physiological study examined natural killer (NK) cells isolated from ME/CFS patients compared to healthy controls, focusing on TRPM3-dependent calcium ($Ca^{2+}$) dynamics. The researchers demonstrated that impaired TRPM3 ion channel activity directly compromises mitochondrial calcium influx in ME/CFS NK cells. This finding links cell-surface ion channel dysfunction directly to downstream mitochondrial bioenergetic failure and impaired immune cell function in ME/CFS. For patient relevance, it reinforces the biological rationale for therapies targeting TRPM3 channel activity, such as low-dose naltrexone. However, as an in vitro cellular assay, the study does not evaluate clinical treatment outcomes or establish in vivo efficacy. Although TRPM3 mechanism studies provide the biological foundation for low-dose naltrexone, these cellular findings describe basic ion channel pathology without proving that low-dose naltrexone provides clinical benefit.
+
+Sources:
+
+- [PubMed: PMID 42177403](https://pubmed.ncbi.nlm.nih.gov/42177403/)
+
+### 2026-07-25 - Altered TRPM3-dependent cytosolic and mitochondrial calcium influx identified in Post-COVID-19 condition NK cells
+
+An ex vivo live-cell calcium imaging study published in the *European Journal of Immunology* investigated TRPM3 ion channel function in natural killer (NK) cells from patients with Post-COVID-19 condition (PCC) compared to healthy controls. The study revealed significantly reduced passive cytosolic calcium influx alongside altered mitochondrial calcium mobilization in PCC NK cells. Furthermore, stimulation with the TRPM3 agonist pregnenolone sulfate produced significantly impaired cytosolic and mitochondrial calcium response rates in PCC cells. Mechanistically, this study demonstrates that TRPM3 channelopathy and linked mitochondrial calcium deficits extend to post-viral Post-COVID-19 condition. For patient relevance, it indicates a shared channelopathy mechanism across post-viral states that may inform targeted immunomodulatory research. However, the study was conducted in a small pilot cohort ($n = 8$ PCC patients and $n = 8$ controls) and requires prospective validation in larger cohorts. Furthermore, these ex vivo cellular observations in Long COVID must not be overstated as direct evidence for classic ME/CFS, nor do they establish clinical therapeutic efficacy for low-dose naltrexone.
+
+Sources:
+
+- [European Journal of Immunology (PMID 42484498)](https://pubmed.ncbi.nlm.nih.gov/42484498/)

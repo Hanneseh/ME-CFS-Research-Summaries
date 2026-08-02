@@ -1,8 +1,8 @@
 ---
 title: Immune Dysregulation & Chronic Inflammation
 description: A living thread on cellular immune activation, cytokine profiles, CD8 T-cell dysfunction/exhaustion, monocyte subsets, HLA associations, mast cell activation, and inflammasome pathways in ME/CFS and Long COVID.
-date: 2026-07-13
-last_updated: 2026-07-13
+date: 2026-07-25
+last_updated: 2026-07-25
 thread_status: active
 evidence_level: clinical and mechanistic validation
 primary_topics:
@@ -17,11 +17,11 @@ cssclasses: [thread-page]
 
 ## Current Takeaway
 
-Immune dysregulation remains one of the most consistent findings across ME/CFS and Long COVID, but the newer evidence suggests that it is not just a generic "inflammation" signal. The pattern increasingly looks like a mix of chronic antigen-driven adaptive dysfunction, persistent innate activation, and abnormal immune-tissue signaling that may differ by subgroup and trigger history.
+Immune dysregulation remains one of the most consistent findings across ME/CFS and Long COVID, but the newer evidence suggests that it is not just a generic "inflammation" signal. The pattern increasingly looks like a mix of chronic antigen-driven adaptive dysfunction, persistent innate activation, and abnormal immune-tissue signaling that may differ by subgroup, biological sex, and trigger history.
 
-The latest additions sharpen that picture. New work tracks exhausted or clonally expanded T cells back toward specific unresolved antigens, maps monocyte, B-cell, T-cell, and NK-cell abnormalities at single-cell resolution, identifies elevated IL-11 and MMP-9 with EBV-responsive mast-cell signaling, outlines a conceptual system-dynamics framework for modeling stability states in mast cell activation syndrome (MCAS), and adds glycosylation changes in serum, IgG, and red blood cells that could affect both immune function and blood flow. These findings fit the idea that immune dysfunction is interacting with vascular and metabolic systems rather than operating in isolation.
+The latest additions sharpen that picture. Single-cell mass cytometry (CyTOF) reveals sex-specific T-cell dysregulation—highlighting elevated IFNγ-producing γδ T cells in males versus chronic CD8+ memory T-cell stimulation in females. Complementary work identifies elevated serum IL-11 and MMP-9, maps monocyte and NK-cell alterations, details IL-6 family and gp130 cytokine signaling pathways, synthesizes post-viral immunomodulatory strategies, and outlines a conceptual system-dynamics model for mast cell activation syndrome (MCAS). These findings fit the idea that immune dysfunction interacts closely with vascular, endocrine, and metabolic systems rather than operating in isolation.
 
-The evidence still needs cautious handling. Some of the newest material is preliminary or conceptual, including a webinar on antigen discovery, a single-cell preprint, a thesis-based glycosylation study, and a theoretical perspective on MCAS stability states. Even the peer-reviewed additions remain mostly cross-sectional, so they help define plausible mechanisms and subgroups more than they prove one dominant cause.
+The evidence still needs cautious handling. Some additions are preliminary or conceptual, including a conference abstract on sex-specific CyTOF profiling, narrative literature reviews on cytokine pathways and immunomodulation, a webinar on antigen discovery, and a theoretical perspective on MCAS stability states. Even the peer-reviewed case-control studies remain mostly cross-sectional, so they help define plausible mechanisms and subgroups more than they prove one dominant cause.
 
 ## Why This Matters
 
@@ -30,9 +30,9 @@ Unraveling the precise mechanisms of immune dysregulation is essential for movin
 ## State of Evidence
 
 - **Established:** Post-infectious immune abnormalities are repeatedly observed in both ME/CFS and Long COVID, including altered lymphocyte populations, impaired cytotoxic-cell function, inflammatory cytokine changes, and evidence of ongoing innate-adaptive mismatch.
-- **Plausible but early:** Antigen-specific T-cell exhaustion, monocyte and NK-cell inflammatory programs, mast-cell-linked IL-11/MMP-9 signaling, and altered glycosylation patterns all have growing support as subgroup-defining mechanisms. These may help explain why some patients look more immune-activated, others more immune-suppressed, and some show stronger vascular or autonomic overlap.
-- **Not established:** It is still not clear which immune abnormalities are upstream disease drivers, which are downstream consequences, and which are compensatory responses. Antigen-discovery work has not yet produced validated public antigen targets, and immune-glycan abnormalities are not ready for clinical classification. Furthermore, while theoretical system-dynamics frameworks model Mast Cell Activation Syndrome (MCAS) as a driver of systemic volatility, MCAS is not established as the primary underlying mechanism of ME/CFS.
-- **Key limitations:** Several important 2026 additions are preliminary, preprint, or thesis-based. Most studies remain cross-sectional and blood-based, which limits conclusions about tissue-resident immune dysfunction in the gut, marrow, vasculature, or nervous system. Additionally, the proposed MCAS system-dynamics model is purely conceptual and requires extensive longitudinal clinical validation.
+- **Plausible but early:** Sex-stratified T-cell dysregulation (male γδ T-cell IFNγ production vs female CD8+ memory chronic stimulation), antigen-specific T-cell exhaustion, monocyte and NK-cell inflammatory programs, mast-cell-linked IL-11/MMP-9 signaling, IL-6 family/gp130 cytokine cascades, and altered glycosylation patterns all have growing support as subgroup-defining mechanisms. These may help explain why some patients look more immune-activated, others more immune-suppressed, and some show stronger vascular or autonomic overlap.
+- **Not established:** It is still not clear which immune abnormalities are upstream disease drivers, which are downstream consequences, and which are compensatory responses. Target-antigen discovery has not yet produced validated public antigen panels, and candidate IL-6 or MMP-9 inhibitors are not established treatments for ME/CFS. Furthermore, while theoretical system-dynamics frameworks model Mast Cell Activation Syndrome (MCAS) as a driver of systemic volatility, MCAS is not established as the primary underlying mechanism of ME/CFS.
+- **Key limitations:** Several important additions are conference abstracts (e.g. AAI IMMUNOLOGY2026 CyTOF abstract) or narrative literature reviews. Most empirical studies remain cross-sectional and blood-based, which limits conclusions about tissue-resident immune dysfunction in the gut, marrow, vasculature, or nervous system. Additionally, proposed MCAS system-dynamics models are purely conceptual and require extensive longitudinal clinical validation.
 
 ## Timeline
 
@@ -212,6 +212,14 @@ Sources:
 
 - [Selin, Kohlgruber, and Kumar 2026, Solve ME/CFS webinar deck](https://solvecfs.org/wp-content/uploads/2026/05/PDF-Deck-for-4.28.26-Selin_Kohlgruber_Kumar-webinar.pdf)
 
+### 2026-05-01 - Mass cytometry profiling reveals sex-specific T-cell dysregulation in ME/CFS
+
+High-dimensional mass cytometry (CyTOF) profiling of peripheral blood mononuclear cells from 53 ME/CFS patients and 36 healthy controls revealed distinct sex-stratified T-cell dysregulation. Male ME/CFS patients exhibited elevated IFNγ-producing CD27+ γδ T cells alongside memory T-cell activation, suggesting pathogen-driven immune activation pathways. In contrast, female ME/CFS patients demonstrated chronic stimulation phenotypes across CD8+ T-cell memory subsets. These findings demonstrate that pooling male and female immune data masks key biological signatures, emphasizing the necessity of sex-stratified diagnostic and therapeutic research in ME/CFS. However, because the study was presented as an AAI IMMUNOLOGY2026 conference abstract in *The Journal of Immunology Supplement*, full peer-reviewed manuscript details and prospective multi-center replication remain required.
+
+Sources:
+
+- [McNally et al. 2026, The Journal of Immunology Supplement](https://academic.oup.com/jimmunol/article/215/Supplement_1/vkag141.1488/8744898?login=false)
+
 ### 2026-05-05 - T-cell receptor sequencing project targets specific antigens driving CD8+ T-cell exhaustion
 
 A Solve M.E. Catalyst-funded project utilized single-cell immune profiling and T-cell receptor (TCR) sequencing to map TCR clusters of exhausted CD8+ T cells against human leukocyte antigen (HLA)–displayed microbial and human self-proteins. This project aims to identify the specific pathogens (e.g. herpesviruses, SARS-CoV-2, _Borrelia_) or self-proteins driving chronic T-cell exhaustion, which will enable precise diagnostic profiling and patient stratification. However, the project is actively mapping these targets, and validated diagnostic subsets have not yet been established.
@@ -268,12 +276,37 @@ Sources:
 
 - [Research Square Preprint on Monocyte-Plasma Cell Axis](https://assets-eu.researchsquare.com/files/rs-9917774/v1/e6bcb7a4-015a-4c8a-9b4d-760e69b61648.pdf)
 
+### 2026-07-16 - Case-control study identifies elevated serum IL-11 and MMP-9 in ME/CFS
+
+A peer-reviewed case-control study published in *Frontiers in Immunology* evaluated circulating inflammatory cytokines and tissue-remodeling enzymes in patients with ME/CFS compared to healthy controls. The investigation identified statistically significant elevations in serum levels of interleukin-11 (IL-11) and matrix metalloproteinase-9 (MMP-9). Elevated IL-11 points toward pro-inflammatory and pro-fibrotic signaling within the IL-6 cytokine family, while increased MMP-9 activity indicates active extracellular matrix remodeling and potential degradation of connective tissue or the blood-brain barrier. Identifying these circulating inflammatory proteins offers candidate diagnostic markers and highlights specific anti-inflammatory pathways for therapeutic targeting. However, the cross-sectional design cannot establish whether IL-11 and MMP-9 elevations represent primary upstream drivers or secondary downstream consequences, requiring prospective validation in larger cohorts that include non-ME/CFS fatiguing controls.
+
+Sources:
+
+- [Chinnappan et al. 2026, Frontiers in Immunology](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1827700/full)
+
+### 2026-07-22 - Comprehensive review synthesizes post-viral immune mechanisms and immunomodulatory strategies
+
+A narrative review published in *Frontiers in Immunology* synthesized post-viral immune pathomechanisms across Long COVID and post-infectious syndromes, focusing on persistent immune activation, altered T-cell and B-cell phenotypes, and chronic low-grade inflammatory cascades. The authors evaluated targeted immunomodulatory interventions, cytokine-specific therapies, and host-directed treatments currently in development or undergoing clinical testing. This framework connects post-viral immune dysfunction to candidate therapeutic translation, emphasizing the necessity of biomarker-stratified clinical trial designs to account for biological heterogeneity. However, as a narrative synthesis of existing literature and early-stage trial concepts rather than novel empirical cohort data, it reflects heterogeneous clinical trial endpoints across cited studies, and immunomodulatory agents require rigorous clinical trial evaluation before routine off-label use.
+
+Sources:
+
+- [Frontiers in Immunology Review 2026, Frontiers in Immunology](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1935027/full)
+
+### 2026-07-25 - Narrative review maps IL-6 family cytokine signaling and gp130 pathways in Long COVID
+
+A narrative review published in *Biochimica et Biophysica Acta (BBA) - Molecular Cell Research* analyzed the pathogenic roles of IL-6 family cytokines across acute COVID-19 hyper-inflammation and persistent Long COVID syndrome. The review detailed gp130-mediated signaling pathways, cellular origins across macrophages, endothelial cells, and adipocytes, as well as diagnostic biomarker utility and targeted therapeutic interventions. The authors evaluated strategies to selectively suppress harmful IL-6 family inflammatory cascades while preserving essential antiviral host defense. This provides a mechanistic rationale for targeting IL-6 family signaling to control chronic post-viral inflammation in Long COVID. However, as a narrative literature review, the paper does not present new primary patient cohort data or clinical trial outcomes, and candidate IL-6 targeted interventions require formal validation in prospective human trials.
+
+Sources:
+
+- [Biochimica et Biophysica Acta Review 2026, Biochimica et Biophysica Acta](https://sciencedirect.com/science/article/pii/S0167488926000972)
+
 ## Open Questions
 
+- What molecular mechanisms and hormonal interactions drive the divergence between male (IFNγ-producing γδ T cells) and female (CD8+ memory chronic stimulation) T-cell dysregulation in ME/CFS?
 - What molecular mechanisms drive the divergence between the immune hyper-activation/exhaustion state in Long COVID and the immune suppression/trafficking deficit state in ME/CFS?
 - How does the epigenetic priming (NF-κB activation) observed in classical monocytes interact with physical exertion to trigger the onset and severity of post-exertional malaise?
 - What are the precise viral or autoimmune target antigens recognized by exhausted CD8+ T-cell receptors in ME/CFS and Long COVID cohorts, and can they be used to stratify patients for targeted antivirals or immunotherapies?
-- What is the clinical safety and efficacy profile of specialized pro-resolving mediators (SPMs) or JAK-STAT inhibitors when evaluated in double-blind, placebo-controlled trials for post-viral syndromes?
+- What is the clinical safety and efficacy profile of targeting IL-6 family / gp130 signaling, MMP-9 activity, or JAK-STAT pathways in prospective double-blind, placebo-controlled trials for post-viral syndromes?
 - Can therapeutic regulation of sex hormones (such as testosterone in females and estradiol in males) or low-dose cortisol safely restore immune homeostasis and resolve myelopoietic shifts?
 
 ## Related Threads

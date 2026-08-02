@@ -1,8 +1,8 @@
 ---
 title: Emerging Pharmacotherapy
 description: Clinical trials, pilot studies, and case reports of repurposed drugs, supplements, and experimental therapies for ME/CFS and Long COVID.
-date: 2026-07-10
-last_updated: 2026-07-10
+date: 2026-07-28
+last_updated: 2026-07-28
 thread_status: active
 evidence_level: early clinical trials and pilot studies
 primary_topics:
@@ -19,6 +19,7 @@ primary_topics:
   - Methylprednisolone
   - Tuina
   - Cognitive Rehabilitation
+  - PsyLoCo (Psychotherapeutic Group Intervention)
   - Cyclobenzaprine (Tonmya)
 cssclasses:
   - thread-page
@@ -28,7 +29,7 @@ cssclasses:
 
 Clinical management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID currently relies on the off-label repurposing of drugs and supplements targeting suspected pathological mechanisms. Key areas of investigation focus on resolving autonomic dysfunction (preload failure), restoring mitochondrial bioenergetics, correcting chronic neuroinflammation, and clearing persistent post-viral reservoirs. A growing body of clinical trial protocols, randomized pilot studies, and case reports tracks these interventions to identify promising signals that warrant larger-scale replication.
 
-Recent clinical studies have evaluated several new interventions, including the acetylcholinesterase inhibitor donepezil for fatigue and depression in a subgroup of Post-Acute Sequelae of COVID-19 (PASC) patients with HHV-6B SITH-1-induced acetylcholine deficiency, telehealth-delivered cognitive rehabilitation for goal attainment, and physical/behavioral modalities like Tuina massage and mind-body retraining. However, a major safety signal emerged from the PoCoWiT randomized controlled trial, which tested high-dose oral methylprednisolone for post-COVID cognitive dysfunction; the trial was terminated early due to a cluster of serious adverse events—including pulmonary embolism, deep vein thrombosis, and serious infections—along with a complete lack of efficacy. This safety termination highlights the severe risks of high-dose corticosteroids in this population and underscores the need for extreme caution when considering potent immunomodulating agents off-label.
+Recent clinical studies have evaluated several new interventions, including the acetylcholinesterase inhibitor donepezil for fatigue and depression in a subgroup of Post-Acute Sequelae of COVID-19 (PASC) patients with HHV-6B SITH-1-induced acetylcholine deficiency, telehealth-delivered cognitive rehabilitation for goal attainment, and physical/behavioral modalities like Tuina massage and mind-body retraining. A major safety signal emerged from the PoCoWiT randomized controlled trial, which tested high-dose oral methylprednisolone for post-COVID cognitive dysfunction; the trial was terminated early due to a cluster of serious adverse events—including pulmonary embolism, deep vein thrombosis, and serious infections—along with a complete lack of efficacy. Meanwhile, the PsyLoCo randomized waitlist-controlled trial (n=48) found that standardized psychotherapeutic group sessions did not significantly reduce somatic symptom burden, depression, or anxiety in Post-COVID-19 condition compared to treatment as usual, reinforcing that physical post-viral symptoms require biological rather than purely psychological management approaches.
 
 Although these trials and mechanistic concepts offer biological rationales, the evidence base remains early and preliminary. Many studies are small, open-label, or lack randomized control groups, which limits statistical power and increases the risk of bias. Consequently, no pharmacological or behavioral intervention has achieved regulatory approval or demonstrated definitive, disease-modifying efficacy in large-scale, placebo-controlled settings, leaving substantial uncertainty regarding long-term safety, optimal dosing, and generalizability across heterogeneous patient cohorts.
 
@@ -63,6 +64,7 @@ Systematic research into these agents offers objective measures of efficacy to c
   - The efficacy of metformin, ketamine, or amifampridine in large-scale, parallel-group, randomized, placebo-controlled trials specifically for ME/CFS.
   - Long-term safety and tolerability of continuous high-dose protocols (e.g., cromolyn sodium or oxaloacetate) beyond several months.
   - Definitive clinical efficacy of donepezil, Tuina therapy, or mind-body retraining in large-scale, pre-registered, placebo-controlled trials.
+  - Efficacy of psychotherapeutic group interventions (including psychoeducation, somatic symptom processing, and emotional regulation) for reducing core physical symptom burden in Post-COVID-19 condition; the PsyLoCo RCT found no significant superiority over treatment as usual.
   - Long-term safety, optimal dosing, and durability of donepezil, Tuina therapy, or cognitive rehabilitation programs.
 - **Key limitations:**
   - Small sample sizes in pilot studies (e.g., 20 patients for pyridostigmine hand grip, 10 patients for ketamine crossover, 5 patients for amifampridine and cromolyn series) limit statistical power and generalizability.
@@ -71,6 +73,7 @@ Systematic research into these agents offers objective measures of efficacy to c
   - Preclinical data (e.g., metformin’s protection of rat synapses, sonlicromanol’s primary mitochondrial disease trial) require human translational validation in ME/CFS before clinical conclusions can be drawn.
   - Subgroup analyses (e.g., donepezil limited to SITH-1 seropositive patients) and lack of patient blinding in manual therapies (Tuina) or behavioral programs (The Switch, cognitive rehabilitation) limit the generalizability and control of placebo/expectation effects.
   - Uncontrolled observational designs (The Switch cohort) cannot exclude spontaneous recovery or selection bias.
+  - The PsyLoCo trial's small sample (n=48) and waitlist-controlled design in an outpatient psychosomatic setting limited statistical power to detect small effect sizes.
   - Use of broad diagnostic criteria (e.g., 1994 CDC Fukuda criteria for Tuina) that do not require post-exertional malaise limits applicability to strict ME/CFS.
 
 ## Timeline
@@ -307,11 +310,20 @@ Sources:
 
 - [Initial evidence for mind body retraining intervention 'The Switch' for those with idiopathic chronic fatigue (Fatigue: Biomedicine, Health & Behavior 2026)](https://tandfonline.com/doi/pdf/10.1080/21641846.2026.2694949)
 
+### 2026-07-28 - PsyLoCo RCT finds no efficacy of psychotherapeutic group intervention for Post-COVID-19 condition
+
+The PsyLoCo randomized waitlist-controlled trial (n=48, pre-registered DRKS00040598/OSF osf.io/tdn38) evaluated 10 bi-weekly manual-guided group psychotherapeutic sessions—combining psychoeducation, somatic symptom processing, and emotional regulation training—against treatment as usual (TAU) in an outpatient psychosomatic setting for patients with Post-COVID-19 condition. The primary outcome (somatic symptom burden, SSS-8; p=0.091) and secondary outcomes (depression PHQ-9, p=0.251; anxiety GAD-7, p=0.588) showed no statistically significant superiority of the group psychotherapy intervention over TAU. The trial's small sample size (n=48) limited statistical power to detect small effects, and the waitlist-controlled design cannot fully account for non-specific therapeutic contact effects. These null findings are consistent with a growing body of evidence indicating that core physical post-viral symptom burden does not respond to psychotherapeutic interventions alone, though supportive psychological care may still address coping and quality of life. The study was conducted in a Post-COVID-19 condition cohort and does not directly assess efficacy in classic ME/CFS populations meeting post-exertional malaise criteria.
+
+Sources:
+
+- [Efficacy of a psychotherapeutic group intervention for patients with Post-COVID-19 condition: a randomized controlled trial (PsyLoCo study) (PubMed 2026)](https://pubmed.ncbi.nlm.nih.gov/42487142/)
+
 ## Open Questions
 
 - **What are the optimal patient stratification criteria?** Given the heterogeneity of ME/CFS and Long COVID, identifying specific clinical phenotypes (such as preload failure, mitochondrial dysfunction, or MCAS) is crucial to match patients with the most appropriate pharmacotherapeutic mechanism.
 - **Do acute signals translate to long-term clinical efficacy?** Pilot trials demonstrating short-term or single-dose improvements (e.g., pyridostigmine for exercise capacity or ketamine for fatigue) must be followed by long-term tolerability and safety studies.
 - **Can combination therapies target multiple pathways simultaneously?** Because these conditions are multi-systemic, research is needed to determine if combining low-risk metabolic, autonomic, and immunomodulatory interventions yields synergistic clinical benefits.
+- **What role remains for psychotherapeutic support?** Given that the PsyLoCo RCT found no effect on physical symptom burden, further work is needed to clarify whether psychological interventions have utility for secondary outcomes like coping, quality of life, or functional adaptation rather than core disease modification.
 
 ## Related Threads
 

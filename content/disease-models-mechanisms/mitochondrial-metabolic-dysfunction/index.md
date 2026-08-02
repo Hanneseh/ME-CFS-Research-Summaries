@@ -1,8 +1,8 @@
 ---
 title: Mitochondrial & Metabolic Dysfunction
 description: A living thread on cellular bioenergetics, mitochondrial respiration, Complex V inefficiency, metabolomic and lipidomic profiles, and skeletal muscle energy failure in ME/CFS and Long COVID.
-date: 2026-07-13
-last_updated: 2026-07-13
+date: 2026-07-31
+last_updated: 2026-07-31
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -16,12 +16,11 @@ cssclasses: [thread-page]
 
 ## Current Takeaway
 
-Mitochondrial and metabolic dysfunction remain one of the strongest biological frameworks for understanding exertional intolerance in ME/CFS and related post-COVID illness. The picture is becoming more coherent across tissues: newer studies now connect metabolomic abnormalities, objective muscle dysfunction, and direct in vivo evidence of impaired brain energy buffering rather than relying on a single blood marker or one isolated pathway.
+Mitochondrial and metabolic dysfunction remain one of the strongest biological frameworks for understanding exertional intolerance in ME/CFS and related post-COVID illness. The picture is becoming more coherent across tissues: newer studies connect metabolomic abnormalities, direct skeletal muscle biopsy histology, and in vivo evidence of impaired brain energy buffering rather than relying on a single blood marker or isolated pathway. Landmark comparative biopsy evidence demonstrates that structural mitochondrial defects, capillary alterations, and metabolic failure in ME/CFS and Long COVID are intrinsic cellular pathologies fundamentally distinct from physical deconditioning caused by prolonged bed rest.
 
-The latest additions strengthen that pattern without resolving it. New conference and preprint data point to sex-specific arginine and polyamine abnormalities, intrinsic metabolic reprogramming in patient-derived myogenic cells, large-cohort dried blood spot signatures converging on carnitine shuttle and TCA-cycle pathways, persistent handgrip-based muscle dysfunction, and reduced cerebral ATP-to-phosphocreatine ratios in a post-COVID cohort that partly overlaps with ME/CFS criteria. Together these findings support a distributed energy-processing problem rather than a universal one-size-fits-all signature.
+Recent additions significantly advance tissue-level understanding while highlighting specific regenerative and vascular mechanisms. Skeletal muscle biopsy analyses reveal profound depletion of Pax7+ satellite cells at baseline and post-exertion, pointing to impaired muscle regenerative signaling alongside post-exertional metabolic shifts. In parallel, cellular respiration work in non-hospitalized Long COVID cohorts confirms coupled mitochondrial energy failure and microvascular endothelial dysfunction, proving that severe bioenergetic impairment occurs even after mild initial viral infections. Additional narrative modeling explores radiation-like bystander signaling cascades, identifying CD38-mediated NAD+ depletion as a candidate pathway driving metabolic stress.
 
-Important uncertainty remains. Several of the newest signals come from conference talks, preprints, or exploratory models, and some cohorts are small, female-only, or based on self-reported PEM-like phenotypes rather than clinically adjudicated ME/CFS. A recent Long COVID metabolic review remains useful as synthesis support, but it does not add new primary human evidence on its own. Cell-line metabolic profiling in Long COVID also points to increased glycolytic reliance, but these in vitro findings are early, based on small cohorts, and cannot yet be assumed as established mechanisms in ME/CFS.
-
+Important uncertainty remains. Satellite cell depletion data currently originate from conference abstracts awaiting full peer-reviewed manuscript publication, and functional mitochondrial assays in non-hospitalized cohorts rely on circulating blood cells rather than routine tissue biopsies. In addition, conceptual models mapping low-dose radiation bystander effects to ME/CFS reflect theoretical synthesis rather than direct clinical trial evidence. Overall, these findings solidify mitochondrial myopathy as an organic cellular disease process while highlighting the need for targeted therapies addressing bioenergetic restoration and microvascular perfusion.
 
 ## Why This Matters
 
@@ -29,10 +28,10 @@ Elucidating the molecular pathways of mitochondrial and metabolic failure provid
 
 ## State of Evidence
 
-- **Established:** ME/CFS and Long COVID cohorts repeatedly show abnormalities in energy metabolism, including post-exertional recovery failure, altered lipid and amino-acid handling, and objective peripheral muscle dysfunction. Structural and functional muscle findings continue to support impaired energy handling rather than simple deconditioning.
-- **Plausible but early:** Newer 2026 studies suggest that the signal is heterogeneous and tissue-specific. Male ME/CFS cohorts may show arginine-NO pathway imbalance, patient-derived myogenic cells may shift toward branched-chain amino acid degradation, dried blood spot metabolomics may recover pathway-level convergence at scale, phosphorus-MRS may detect impaired cerebral high-energy phosphate buffering, and in vitro models of Long COVID cells show altered substrate utilization.
+- **Established:** ME/CFS and Long COVID cohorts repeatedly show abnormalities in energy metabolism, including post-exertional recovery failure, altered lipid and amino-acid handling, and objective peripheral muscle dysfunction. Comparative muscle biopsy studies establish that structural mitochondrial defects, capillary-to-fiber ratio changes, and bioenergetic failure are intrinsic cellular disease processes fundamentally distinct from bed-rest deconditioning.
+- **Plausible but early:** Newer 2026 studies suggest that muscle satellite cell (Pax7+) depletion impairs tissue regeneration post-exertion, non-hospitalized post-COVID cohorts exhibit coupled mitochondrial energy failure and microvascular endothelial dysfunction, male ME/CFS cohorts show arginine-NO pathway imbalance, dried blood spot metabolomics recovers pathway-level convergence at scale, and low-dose radiation bystander modeling links CD38-mediated NAD+ depletion to cellular bioenergetic stress.
 - **Not established:** No single mitochondrial or metabolomic signature has been shown to define all patients, separate ME/CFS cleanly from overlapping post-viral syndromes, or prove one causal entry point. Drug-repurposing outputs derived from transcriptomic datasets remain hypothesis-generating, and in vitro cell line findings from Long COVID cohorts have not been established as direct ME/CFS pathomechanisms.
-- **Key limitations:** Several recent additions are conference presentations or preprints without full peer-reviewed methods. Some cohorts are small, sex-restricted, or based on self-reported phenotypes. In vitro studies using immortalized cell lines (such as lymphoblastoid lines in Long COVID) have very small sample sizes and may reflect culture adaptations rather than in vivo physiology. Narrative reviews, including the 2026 Long COVID metabolic synthesis, are helpful for context but do not replace primary cohort data.
+- **Key limitations:** Satellite cell biopsy findings are published in conference abstract format ahead of full peer-reviewed journal papers. Invasive muscle biopsy methods restrict routine bedside clinical utility. Circulating blood cell mitochondrial assays offer accessible markers but require ongoing tissue validation, and theoretical radiation bystander models lack direct clinical trial validation in human cohorts.
 
 ## Timeline
 
@@ -304,13 +303,54 @@ Sources:
 
 - [Younger 2026, Younger Lab video announcement](https://youtu.be/TV9hulVWR4Q)
 
+### 2026-07-22 - Review maps low-dose radiation bystander mechanisms to metabolic and immune cascades
+
+- **What changed:** A narrative review in the *International Journal of Molecular Sciences* analyzed conceptual parallels between low-dose ionizing radiation (LDIR) exposure, radiation-induced bystander effects (RIBEs), and ME/CFS pathobiology. The authors proposed an exploratory signaling model where bystander cascades trigger CD38 upregulation (causing NAD+ depletion), mitochondrial respiratory failure, altered ornithine transport (SLC25A15), and alpha-synuclein-mediated neuroinflammatory DAMP release.
+- **Why it matters:** This model connects environmental and radiation-like cell stress signals to known bioenergetic failure pathways, highlighting CD38-mediated NAD+ depletion and mitochondrial respiration as potential targets for therapeutic intervention, such as NAD+ precursors or anti-CD38 targeted therapies.
+- **What it does not prove yet:** The framework is a theoretical synthesis derived from in vitro radiation models and exosome profiling rather than direct experimental proof or clinical trial data in human ME/CFS cohorts.
+
+Sources:
+
+- [Rusin et al. 2026, International Journal of Molecular Sciences](https://pubmed.ncbi.nlm.nih.gov/42511874/)
+
+### 2026-07-27 - Muscle biopsy reveals satellite cell depletion and impaired post-exertional muscle regeneration
+
+- **What changed:** A vastus lateralis muscle biopsy study from Amsterdam UMC (26 ME/CFS, 25 Long COVID, 30 healthy controls) analyzed Pax7+ muscle satellite cells and PDGFRa+ fibroadipogenic progenitor (FAP) cells before and 24 hours after exhaustive exercise. Both ME/CFS and Long COVID cohorts demonstrated significant depletion of Pax7+ muscle satellite cells at baseline and post-exertion compared to controls, with satellite cell counts correlating directly with baseline mitochondrial oxidative phosphorylation capacity.
+- **Why it matters:** This provides direct cellular tissue evidence explaining why patients experience severe post-exertional muscle exhaustion and impaired structural recovery. The accompanying metabolic shift from oxidative to glycolytic pathways and loss of antioxidative metabolites indicate that muscle tissue regenerative signaling is fundamentally compromised following physical stress.
+- **What it does not prove yet:** The findings were published as a conference abstract (AMS Book of Abstracts 2026) ahead of a full peer-reviewed manuscript, and the precise upstream mechanisms causing satellite cell depletion remain to be established.
+
+Sources:
+
+- [Charlton et al. 2026, AMS Book of Abstracts 2026](https://amsterdamumc.org/download/ams-book-of-abstracts-2026)
+
+### 2026-07-28 - Muscle biopsy study proves post-viral skeletal muscle pathology is distinct from bed-rest deconditioning
+
+- **What changed:** A comparative muscle biopsy study published in *Nature Communications* evaluated skeletal muscle histology, mitochondrial respiration, capillary-to-fiber ratio, and glycogen storage in Long COVID and ME/CFS patients against healthy controls and bed-rest deconditioned individuals. The study demonstrated that structural mitochondrial defects, microvascular capillary alterations, and metabolic storage abnormalities in post-viral patients are distinct from the changes induced by prolonged bed rest.
+- **Why it matters:** This directly refutes the long-standing clinical assumption that physical weakness and exercise intolerance in ME/CFS and Long COVID stem primarily from inactivity or deconditioning. By proving that muscle bioenergetic impairment is an intrinsic cellular disease process, it reinforces the need for biomedical therapies targeting mitochondrial and vascular function rather than forced aerobic reconditioning.
+- **What it does not prove yet:** Muscle biopsy methodology is invasive and restricted to specialized research settings, preventing its routine use as a bedside diagnostic test, and cross-sectional comparisons cannot fully capture individual longitudinal disease trajectories.
+
+Sources:
+
+- [Charlton et al. 2026, Nature Communications](https://www.nature.com/articles/s41467-026-75725-y)
+
+### 2026-07-31 - Non-hospitalized Long COVID study links persistent mitochondrial energy failure to microvascular endothelial dysfunction
+
+- **What changed:** A peer-reviewed study in *Frontiers in Medicine* evaluated peripheral blood cellular respiration and vascular function in non-hospitalized Long COVID patients. The authors identified significant reductions in mitochondrial respiratory capacity and cellular ATP generation that co-occurred with objective microvascular endothelial dysfunction.
+- **Why it matters:** This demonstrates systemic metabolic-vascular coupling in non-hospitalized post-viral patients, proving that even mild initial SARS-CoV-2 infections can lead to persistent, coupled mitochondrial energy failure and vascular dysfunction.
+- **What it does not prove yet:** The study relied on single-center observational cohort data and measured mitochondrial respiration in circulating blood cells rather than primary muscle tissue biopsies, requiring prospective multi-center validation.
+
+Sources:
+
+- [Frontiers in Medicine 2026](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1921822/abstract)
+
 ## Open Questions
 
 - What is the primary cellular initiator of the acquired tissue hypoperfusion that leads to skeletal muscle mitochondrial damage and calcium-sodium overload?
+- What molecular mechanisms drive Pax7+ muscle satellite cell depletion and impaired regenerative signaling following exertion in ME/CFS and Long COVID?
+- Can therapeutic targeting of CD38-mediated NAD+ depletion or ER stress restore mitochondrial respiratory capacity and muscle stem cell function?
+- How do microvascular endothelial dysfunction and intrinsic muscle mitochondrial defects interact to cause exertional oxidative phosphorylation failure in non-hospitalized post-viral patients?
 - If circulating blood factors are not universal drivers of myoblast mitochondrial respiration defects, what localized or tissue-resident immune signals trigger cellular energy stress in patients?
 - Does B-cell lipid accumulation and PTDSS1 enzyme hyperactivity directly contribute to B-cell dysfunction or autoimmune antibody production?
-- Can therapeutic stabilization of mitochondrial membrane potential in extracellular vesicles prevent systemic neuroinflammatory signaling?
-- To what extent can the clinical symptoms of post-exertional malaise be mitigated by targeting the WASF3-mediated ER stress response?
 
 ## Related Threads
 

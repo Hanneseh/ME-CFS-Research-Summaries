@@ -1,8 +1,8 @@
 ---
 title: Diagnostics & Biomarkers
 description: A living thread on diagnostic tests, biomarker panels, machine-learning classifiers, biosensors, assays, and measurement tools for ME/CFS and Long COVID.
-date: 2026-07-15
-last_updated: 2026-07-15
+date: 2026-07-27
+last_updated: 2026-07-27
 thread_status: active
 evidence_level: early clinical validation
 primary_topics:
@@ -17,9 +17,9 @@ cssclasses: [thread-page]
 
 ## Current Takeaway
 
-No single biomarker or diagnostic test for ME/CFS has reached clinical deployment, but a growing body of blood-based, genomic, metabolomic, and functional studies has moved the field from exclusion-by-symptoms toward measurable biological signatures. 3D chromosome conformation profiling, circulating cell-free RNA, exploratory extracellular vesicle cargo proteomics, metabolomic machine-learning classifiers, and autonomic measurements have each shown the ability to separate ME/CFS cohorts from healthy controls with accuracies ranging from around 77 percent to well above 90 percent in initial retrospective or pilot studies. The consistency across modalities is notable: immune dysregulation, metabolic inflexibility, and autonomic dysfunction all produce detectable signals, and multiple independent groups have converged on overlapping biological pathways.
+No single biomarker or diagnostic test for ME/CFS has reached clinical deployment, but a growing body of blood-based, genomic, metabolomic, and functional studies has moved the field from exclusion-by-symptoms toward measurable biological signatures. 3D chromosome conformation profiling, circulating cell-free RNA, extracellular vesicle microRNA signatures, metabolomic machine-learning classifiers, and autonomic measurements have each shown the ability to separate ME/CFS cohorts from healthy controls with accuracies ranging from around 77 percent to well above 90 percent in initial retrospective or pilot studies. The consistency across modalities is notable: immune dysregulation, metabolic inflexibility, and autonomic dysfunction all produce detectable signals, and multiple independent groups have converged on overlapping biological pathways.
 
-The evidence is still early. Most studies use small, selected, or single-center cohorts, and prospective validation of exploratory biomarkers—such as candidate epigenetic panels or extracellular vesicle cargo—in real-world clinical settings remains a key barrier. Very few studies include mild or moderate patients alongside severe cases, and none of the candidate tests has been validated head-to-head against other chronic inflammatory conditions in a prospective clinical setting. Machine-learning models trained on one dataset frequently need revalidation before they generalize. The practical direction is toward multi-marker panels and interpretable, low-cost methods that can scale to routine clinical use, while leaving any single universal test unproven.
+The evidence is still early. Most studies use small, selected, or single-center cohorts, and prospective validation of exploratory biomarkers—such as candidate epigenetic panels or extracellular vesicle microRNA signatures—in real-world clinical settings remains a key barrier. Very few studies include mild or moderate patients alongside severe cases, and none of the candidate tests has been validated head-to-head against other chronic inflammatory conditions in a prospective clinical setting. Machine-learning and large language models trained on transcriptomic or metabolomic datasets show promise for feature extraction but frequently need revalidation before generalizing to complex multisystem cohorts. The practical direction is toward multi-marker panels and interpretable, low-cost methods that can scale to routine clinical use, while leaving any single universal test unproven.
 
 ## Why This Matters
 
@@ -30,7 +30,7 @@ Multiplexed protein biosensors, cfRNA liquid biopsy, epigenetic chromosome-confo
 ## State of Evidence
 
 - **Established:** ME/CFS produces measurable biological differences from healthy controls across multiple modalities, including immune gene expression, plasma metabolites, autonomic parameters, and circulating nucleic acids. Machine-learning classifiers built on these signals routinely exceed 80 percent accuracy in discovery cohorts.
-- **Plausible but early:** Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle cargo profiling, SMPDL3B plasma levels, metabolomic AutoML models, and beat-to-beat autonomic classifiers each show strong initial performance in retrospective or pilot cohorts. Multi-omics integration, post-exertional provocation models, and machine-learning tools may allow molecular subtyping and cognitive trajectory mapping to supplement symptom-based classification.
+- **Plausible but early:** Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle microRNA and proteomic cargo profiling, SMPDL3B plasma levels, metabolomic AutoML models, LLM-guided transcriptomic feature selection, and beat-to-beat autonomic classifiers each show strong initial performance in retrospective or pilot cohorts. Multi-omics integration, post-exertional provocation models, and machine-learning tools may allow molecular subtyping and cognitive trajectory mapping to supplement symptom-based classification.
 - **Not established:** Any single test validated prospectively against clinical diagnosis across mild, moderate, and severe ME/CFS. Head-to-head specificity against overlapping conditions such as multiple sclerosis, rheumatoid arthritis, and fibromyalgia. Clinically validated diagnostic biomarkers derived from exercise-challenge (PEM) provocation protocols, though pilot multi-omic and cognitive trajectory studies are underway.
 - **Key limitations:** Small and often severely ill or female-only cohorts, cross-sectional designs that cannot prove causation, lack of prospective validation, and the technical gap between research-grade assays and scalable clinical tests. Some metabolomic and epigenetic models rely on proprietary platforms with inherent developer conflicts of interest.
 
@@ -172,6 +172,14 @@ Sources:
 
 - [Heidarifard et al. 2026, International Journal of Molecular Sciences](https://pubmed.ncbi.nlm.nih.gov/42278463/)
 
+### 2026-06-11 - LLMs benchmarked for cell-free RNA diagnostic biomarker discovery
+
+A peer-reviewed study in *Nature Communications* evaluated six large language models—including architectures from OpenAI, Anthropic, and Google—for cell-free RNA (cfRNA) diagnostic biomarker discovery across three plasma datasets, including an ME/CFS cohort paired with sedentary controls. The benchmark tested both literature-guided gene panel nomination and autonomous classifier construction. Model-nominated cfRNA panels successfully recapitulated canonical immune pathways and matched conventional differential gene expression baselines established in distinct infectious cohorts such as tuberculosis. However, end-to-end autonomous classifier performance dropped significantly for the complex ME/CFS dataset compared to more discrete inflammatory disease pairs like Kawasaki disease versus MIS-C. High prompt adherence variance across models highlighted that LLM-driven gene selection remains task-dependent and cannot yet reliably automate diagnostic classification in multisystem illnesses without human oversight. For patient care, the findings establish both the potential of AI tools for rapid transcriptomic feature extraction and their current boundaries in complex post-viral diagnostics.
+
+Sources:
+
+- [Li et al. 2026, Nature Communications](https://pubmed.ncbi.nlm.nih.gov/42276999/)
+
 ### 2026-06-15 - Alain Moreau presentation outlines home-based PEM provocation and cognitive trajectories
 
 In a conference presentation at the Internationale ME/CFS-Konferenz 2026, Alain Moreau presented early pilot data detailing a deep phenotyping and post-exertional malaise (PEM) provocation protocol. The protocol utilizes a home-based inflatable cuff massage to safely and standardly trigger post-exertional responses in severely affected patients, followed by multi-omics analysis. Post-provocation, researchers identified three distinct cognitive trajectories using a 10-minute tablet-based BrainCheck test, which were indistinguishable at baseline: memory decline (Cluster A), resilience (Cluster B), and severe multi-domain decline (Cluster C). The severe decline group correlated with reduced cerebral oxygen extraction via near-infrared spectroscopy (NIRS) and a sudden drop in circulating brain-derived neurotrophic factor (BDNF). Vulnerability in Cluster C was linked to the HP2-1 haptoglobin phenotype and elevated soluble LRP1, which acts as a decoy blocking hemoglobin detoxification. While offering therapeutic leads like recombinant haptoglobin, pentoxifylline, and mitapivat, these findings represent early pilot data requiring validation in larger cohorts, and active provocation carries risk of clinical worsening.
@@ -219,6 +227,14 @@ In a prospective observational study published in the *Journal of Translational 
 Sources:
 
 - [Mihatsch et al. 2026, Journal of Translational Medicine](https://pubmed.ncbi.nlm.nih.gov/42458481)
+
+### 2026-07-27 - Circulating extracellular vesicle microRNAs differentiate ME/CFS from non-ME/CFS fatigue controls
+
+A peer-reviewed case-control study in the *Journal of Translational Medicine* evaluated circulating extracellular vesicle (EV) microRNA profiles as potential diagnostic biomarkers for ME/CFS. Isolating plasma EVs, the researchers identified distinct EV-microRNA expression signatures that separated ME/CFS patients not only from healthy controls but also from non-ME/CFS chronic fatigue comparison groups. The specific microRNA cargo implicates systemic extracellular vesicle transport in persistent inflammatory signaling cascades and immune cell communication. Achieving high diagnostic discrimination against disease-matched fatiguing controls addresses a key historical hurdle in ME/CFS biomarker development, where non-specific fatigue controls often blur diagnostic boundaries. However, EV isolation protocols currently require specialized, resource-intensive laboratory infrastructure, and the candidate microRNA panel requires prospective validation in larger multi-center cohorts before clinical adoption. If replicated, this EV microRNA signature could support the development of a non-invasive, blood-based diagnostic assay capable of objective patient classification.
+
+Sources:
+
+- [Zhang et al. 2026, Journal of Translational Medicine](https://pubmed.ncbi.nlm.nih.gov/42533331/)
 
 ## Related Threads
 

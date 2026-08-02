@@ -1,8 +1,8 @@
 ---
 title: Vagus & Tragus Nerve Stimulation
 description: A living thread on transcutaneous and percutaneous auricular vagus nerve stimulation for post-viral fatigue and orthostatic intolerance.
-date: 2026-06-18
-last_updated: 2026-06-18
+date: 2026-07-24
+last_updated: 2026-07-24
 thread_status: active
 evidence_level: early clinical and randomized controlled trials
 primary_topics:
@@ -17,7 +17,7 @@ cssclasses:
 
 Vagus and tragus nerve stimulation involves modulating the autonomic nervous system using non-invasive transcutaneous auricular devices (taVNS/LL-TS) or percutaneous approaches. By targeting the auricular branch of the vagus nerve, these interventions aim to restore parasympathetic activity and suppress sympathetic over-activation to address dysautonomia and post-viral fatigue.
 
-Clinical trials have yielded mixed results. Although low-level tragus stimulation has demonstrated sustained physiological and symptomatic benefits in post-COVID Postural Orthostatic Tachycardia Syndrome (POTS), larger studies on post-COVID fatigue show conflicting evidence, with one trial showing significant fatigue reduction in adherent participants and another pilot trial showing no benefit over sham treatment.
+Clinical trials have yielded mixed results. Although low-level tragus stimulation has demonstrated sustained physiological and symptomatic benefits in post-COVID Postural Orthostatic Tachycardia Syndrome (POTS), larger studies on post-COVID fatigue show conflicting evidence, with one trial showing significant fatigue reduction in adherent participants and another pilot trial showing no benefit over sham treatment. Recent qualitative research in ME/CFS cohorts highlights perceived gains in autonomic stability and sensory gating among subsets of patients, alongside notable variability in individual tolerability.
 
 Because of small sample sizes, variable device adherence, and strong potential placebo effects, the clinical efficacy of vagus nerve stimulation for post-viral fatigue and orthostatic syndromes remains early and unestablished. Objective biological markers and larger sham-controlled cohorts are needed to confirm the therapeutic benefit.
 
@@ -28,9 +28,9 @@ Targeting the vagus nerve addresses a suspected core mechanism of post-viral syn
 ## State of Evidence
 
 - **Established:** Low-level tragus stimulation (LL-TS) significantly reduces orthostatic heart rate acceleration and lowers plasma neuropeptide Y (NPY) in patients with post-COVID POTS.
-- **Plausible but early:** Daily transcutaneous auricular vagus nerve stimulation (taVNS) may improve subjective fatigue, peripheral muscle fatigue, and cortical excitability in patients who adhere to at least one hour of daily stimulation.
+- **Plausible but early:** Daily transcutaneous auricular vagus nerve stimulation (taVNS) may improve subjective fatigue, peripheral muscle fatigue, and cortical excitability in patients who adhere to at least one hour of daily stimulation. Qualitative feedback in ME/CFS cohorts reports perceived improvements in autonomic stability, sleep, and sensory gating.
 - **Not established:** Clear superiority of active taVNS over sham stimulation for fatigue reduction in general post-COVID populations has not been demonstrated, with pilot trials showing similar improvements in sham groups.
-- **Key limitations:** Existing studies are constrained by small sample sizes (under 120 participants), high rates of participant non-adherence in home-based protocols, short trial durations, and a lack of double-blinded designs that could rule out strong placebo responses.
+- **Key limitations:** Existing studies are constrained by small sample sizes (under 120 participants), high rates of participant non-adherence in home-based protocols, reliance on unblinded or open-label qualitative designs in ME/CFS subsets, and a lack of large double-blinded sham-controlled trials.
 
 ## Timeline
 
@@ -66,3 +66,10 @@ Sources:
 
 - [Brandl et al. 2026, BMJ Open](https://pubmed.ncbi.nlm.nih.gov/42342403/)
 
+### 2026-07-24 - Qualitative study on patient experiences and feasibility of auricular vagus nerve stimulation in ME/CFS
+
+A qualitative clinical study published in *Physiotherapy* by Liptrot et al. evaluated patient experiences, perceived symptom responses, tolerability, and practical feasibility of transcutaneous auricular vagus nerve stimulation (taVNS) specifically in individuals with Myalgic Encephalomyelitis. Participants reported qualitative perceived improvements in autonomic stability, sleep quality, and sensory gating in subsets of users, offering real-world patient perspectives on non-invasive neuromodulation. The study identified key implementation factors, such as ear clip physical comfort and the necessity of gradual stimulation parameter titration. Participants also described variable individual response rates and transient adverse effects, including localized ear discomfort or heightened fatigue when stimulation intensity was increased too rapidly. As an open-label qualitative study based on semi-structured interviews, these findings do not provide sham-controlled efficacy data or objective physiological endpoint measurements. However, they establish essential feasibility parameters for patient-centered trial design and emphasize the importance of cautious parameter titration to accommodate individual autonomic sensitivities.
+
+Sources:
+
+- [Liptrot et al. 2026, Physiotherapy](https://www.physiotherapyjournal.com/article/S0031-9406(26)00095-7/abstract)

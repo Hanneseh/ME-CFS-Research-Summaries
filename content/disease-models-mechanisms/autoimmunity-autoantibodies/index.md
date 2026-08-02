@@ -1,8 +1,8 @@
 ---
 title: Autoimmunity & Autoantibodies
 description: A living thread on GPCR autoantibodies, receptor targeting, antigen profiling, and IgG-mediated mechanisms in ME/CFS and Long COVID.
-date: 2026-05-07
-last_updated: 2026-05-07
+date: 2026-07-22
+last_updated: 2026-07-22
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -154,6 +154,14 @@ At the International ME/CFS Conference 2026 in Berlin, Germany, Dr. Keyla Sá (Y
 Sources:
 
 - [Sá 2026, Internationale ME/CFS-Konferenz Presentation Video](https://youtu.be/NXMl_u78338)
+
+### 2026-07-22 - Research initiative launches to investigate GPCR autoantibodies and vascular endothelial damage
+
+The German Centre for Cardiovascular Research (DZHK) partner institution at Goethe University Frankfurt announced a dedicated research project funded by the ME/CFS Research Foundation 2026 Programme to investigate the functional role of G-protein coupled receptor (GPCR) autoantibodies in Post-COVID ME/CFS. The study focuses on molecular mechanisms by which functional GPCR autoantibodies induce vascular endothelial injury, impaired microvascular perfusion, and exertional intolerance. By combining established cardiovascular research infrastructure with targeted post-viral disease funding, the initiative aims to clarify how post-infectious autoantibodies impair vascular tone and endothelial integrity. However, this is an institutional research announcement detailing study launch and methodological design rather than completed empirical trial findings. As such, it does not yet provide new patient cohort data or validate therapeutic targeting of these autoantibodies in clinical settings.
+
+Sources:
+
+- [DZHK Newsroom 2026, Autoantikörper im Fokus: Neue Studie untersucht Herz- und Gefäßschäden bei Post-COVID- ME/CFS](https://dzhk.de/newsroom/aktuelles/news/artikel/autoantikoerper-im-fokus-neue-studie-untersucht-herz-und-gefaessschaeden-bei-post-covid-me-cfs)
 
 ## Open Questions
 

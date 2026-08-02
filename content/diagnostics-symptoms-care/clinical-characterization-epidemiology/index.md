@@ -1,8 +1,8 @@
 ---
 title: Clinical Characterization & Epidemiology
 description: A living thread on ME/CFS case definitions, clinical guidelines, epidemiology, cohort structure, symptom measurement, research infrastructure, and funding developments for ME/CFS and Long COVID.
-date: 2026-07-17
-last_updated: 2026-07-17
+date: 2026-08-01
+last_updated: 2026-08-01
 thread_status: active
 evidence_level: established clinical consensus with ongoing refinement
 primary_topics:
@@ -32,10 +32,10 @@ Measurement tools directly affect whether clinical trials can detect real change
 
 ## State of Evidence
 
-- **Established:** ME/CFS meets clinical criteria for a severe, chronic, multi-systemic illness. PEM, unrefreshing sleep, and cognitive or autonomic symptoms anchor all major case definitions. The massive socioeconomic impact, including extremely low employment and high polypharmacy, is documented at the national registry level. Clinical symptom profiles consistently group into statistically distinct biological factors (brain, gut, immune, autonomic) across large cohorts. Care guidelines contraindicate graded exercise therapy, emphasizing pacing and symptom management.
-- **Plausible but early:** ME/CFS symptom severity can be stratified into distinct high- and low-symptom-burden subgroups linked to infectious triggers. Sex- and menopause-related variations dynamically alter immune (flu-like) symptoms but not gastrointestinal pathways in female cohorts. In children and adolescents, post-COVID symptom persistence correlates with initial infection severity, and structured networks can standardize pediatric clinical pathways. Home-use microtesla magnetic therapy and long-term antiviral/anti-inflammatory combination protocols show safety and preliminary feasibility.
-- **Not established:** Any single objective biomarker or diagnostic test that reliably identifies ME/CFS across populations. Genome-wide significant genetic variants that differentiate clinical severity subgroups. Measurable improvement in physical function from specialized inpatient rehabilitation models compared to standard primary care.
-- **Key limitations:** National administrative databases and benefit systems under-represent patients and lack activated diagnostic codes, causing "statistical invisibility." Many large cohort analyses and symptom-burden scales (such as TIMES) rely on self-reported online surveys, introducing selection biases and lacking objective physiological measures. Conference presentations, pilot trials, and observational case series remain preliminary and subject to selection or placebo biases.
+- **Established:** ME/CFS meets clinical criteria for a severe, chronic, multi-systemic illness. PEM, unrefreshing sleep, and cognitive or autonomic symptoms anchor all major case definitions. International medical societies and clinical consensus guidelines (IDSA, ERJ) define infection-associated chronic conditions (IACCs) and mandate pacing while contraindicating graded exercise therapy. The massive socioeconomic impact, including extremely low employment and high polypharmacy, is documented at the national registry level. Clinical symptom profiles consistently group into statistically distinct biological factors (brain, gut, immune, autonomic) across large cohorts.
+- **Plausible but early:** ME/CFS symptom severity can be stratified into distinct high- and low-symptom-burden subgroups linked to infectious triggers. Structural equation modeling demonstrates sex- and menopause-specific latent symptom structures, with female sex hormones dynamically modulating immune (flu-like) symptoms but not gastrointestinal pathways. Large-scale epidemiological surveys show adolescent CFS prevalence correlates with academic stage and physical endurance deficits, while participatory research frameworks (CureME, Deutsche Gesellschaft für ME/CFS) optimize biobanking and trial co-design. In children, post-COVID symptom persistence correlates with initial infection severity.
+- **Not established:** Any single objective biomarker or diagnostic test that reliably identifies ME/CFS across populations. Genome-wide significant genetic variants that differentiate clinical severity subgroups. Electronic health record (EHR) diagnostic billing codes as sensitive or complete metrics for population prevalence, due to widespread diagnostic undercoding and billing delays.
+- **Key limitations:** Multi-country network cohort analyses relying on ICD billing codes in electronic health records undercount ME/CFS and dysautonomia cases due to diagnostic delays and coding stigma. Standard patient-reported outcome measures (PROMs) frequently miss post-exertional malaise and cognitive fluctuations, introducing measurement error into clinical trials. Many large cohort analyses rely on self-reported online surveys, introducing selection biases and lacking objective physiological measures.
 
 ## Timeline
 
@@ -431,6 +431,14 @@ Sources:
 
 - [DecodeME subgroups preprint: medRxiv](https://www.medrxiv.org/content/medrxiv/early/2026/07/01/2026.06.29.26356818.full.pdf)
 
+### 2026-07-06 - Multimodal study protocol outlines biological subgrouping framework for ME/CFS
+
+A published study protocol for a multimodal mechanistic trial led by researchers at KU Leuven and Hasselt University details a prospective cross-sectional and longitudinal study design enrolling 115 ME/CFS patients and 55 healthy controls. The protocol combines functional magnetic resonance imaging (fMRI), autonomic nervous system testing, 18F-FEPPA PET neuroinflammation imaging, gut microbiome sequencing, short-chain fatty acid measurements, and 7-day ecological momentary assessment (EMA). By integrating systemic immune, neuroinflammatory, autonomic, and microflora parameters, the study aims to replace homogeneous cohort assumptions with objective neuropsychophysiological endotypes. Clinically, this multimodal approach addresses a core research barrier by identifying whether distinct biological subgroups predict treatment response to pacing and rehabilitation interventions. A key limitation is that as a study protocol paper, it describes experimental design and methodology prior to empirical data collection and subgroup validation.
+
+Sources:
+
+- [Dooms et al. 2026, Brain, Behavior, & Immunity - Health](https://pubmed.ncbi.nlm.nih.gov/42472232/)
+
 ### 2026-07-07 - Survey and EMR analysis reveals gaps in Long COVID diagnostic coding
 
 A cross-sectional survey (n = 205) and electronic medical record (EMR) sub-analysis (n = 100) investigated the relationship between patient-reported Long COVID symptom interference and official clinical diagnostic coding. In the survey cohort, 41% of participants reported high symptom interference with daily life activities, which significantly correlated with older age, female sex, obesity, poorer general, physical, and mental health metrics, and the presence of a U09.9 diagnosis code. However, among those reporting high symptom interference, only 64% (25 of 39) in the EMR sub-analysis actually had a corresponding Long COVID diagnostic code documented. While the study found no evidence of demographic biases in receiving a diagnosis among patients experiencing high symptom interference, it highlights a notable gap between patient-reported severity and clinical coding. Limitations include the cross-sectional design, reliance on self-reported survey data susceptible to recall bias, and a small EMR sub-analysis sample.
@@ -483,9 +491,131 @@ Sources:
 
 - [ME/CFS Research Foundation Funding Announcement 2026, press release](https://mecfs-research.org/en/news-researchfunding-projects2026)
 
+### 2026-07-17 - Deutsche Gesellschaft für ME/CFS publishes guidance on participatory health research standards
+
+The Deutsche Gesellschaft für ME/CFS published a guidance document establishing principles and methodology for participatory health research (patient-led research) in ME/CFS study design and clinical trials. The framework defines standards for embedding patient representatives directly into trial co-design, primary outcome selection, protocol safety screening, and institutional ethics review. From a research infrastructure perspective, formalizing patient participation ensures that study protocols account for post-exertional malaise and severe functional impairment, preventing inappropriate exercise interventions that risk patient harm. The guidance also provides tools to optimize participant recruitment, longitudinal retention, and data validity in complex chronic illness cohorts. The document functions as an organizational policy and methodological standard rather than reporting novel biological data or clinical trial outcomes.
+
+Sources:
+
+- [Deutsche Gesellschaft für ME/CFS 2026, Participatory Health Research Guidance](https://www.mecfs.de/partizipative-gesundheitsforschung/)
+
+### 2026-07-19 - Health services study identifies critical gaps in physiotherapy workforce capacity for Long COVID
+
+A health services research study published in Respiratory Medicine evaluated physiotherapy workforce knowledge, institutional readiness, and service capacity for delivering post-COVID rehabilitation care. The assessment identified widespread gaps in physiotherapist training regarding post-exertional malaise (PEM) recognition, orthostatic intolerance screening, and physiological pacing limits. Clinically, these findings highlight a critical risk in current care delivery: without guideline-aligned education, routine exercise-based rehabilitation (such as graded exercise therapy) may be inappropriately prescribed, triggering severe post-exertional relapses in Long COVID and ME/CFS patients. The study underscores the urgent necessity of integrating post-viral exertional physiology into professional physical therapy curricula and clinical service planning. The investigation relied on workforce surveys and health service capacity metrics, and did not prospectively track clinical patient outcomes under modified pacing protocols.
+
+Sources:
+
+- [Physiotherapy capacity study 2026, Respiratory Medicine](https://www.sciencedirect.com/science/article/pii/S0954611126004099)
+
+### 2026-07-22 - Swiss observational study details care access disparities and insurance hurdles in Post-COVID Condition
+
+An observational healthcare study published in Healthcare (Basel) evaluated Post-COVID-19 Condition (PCC) pathways within the Swiss medical system, focusing on care delivery bottlenecks, diagnostic delays, and patient burden. The study documented substantial waiting times for specialized post-COVID consultations alongside pronounced disparities in insurance reimbursement approvals for diagnostic workups and off-label symptom management. Affected individuals reported high persistent symptom severity, marked functional impairment, and widespread reduction in working capacity or job loss. Clinically, the study quantifies how structural healthcare fragmentation and administrative barriers exacerbate disease burden, demonstrating that access to multidisciplinary care remains highly unequal even in high-resource healthcare systems. A major limitation is that the survey design was subject to selection bias toward patients actively seeking specialist care or engaged with patient advocacy registries.
+
+Sources:
+
+- [Diem et al. 2026, Healthcare (Basel)](https://pubmed.ncbi.nlm.nih.gov/42512736/)
+
+### 2026-07-23 - Consensus framework in Clinical Infectious Diseases defines recognition and care for infection-associated chronic conditions
+
+A major consensus policy and clinical paper published in Clinical Infectious Diseases established an overarching framework for Infection-Associated Chronic Conditions and Illnesses (IACCs), endorsed across infectious disease specialty organizations. The document provides formal guidance for recognizing, diagnosing, and coordinating multidisciplinary care for overlapping post-infectious syndromes, including ME/CFS, Long COVID, and chronic post-treatment Lyme disease. By emphasizing shared clinical features and underlying pathobiology—such as chronic immune activation, autonomic dysregulation, and neuroinflammation—the framework seeks to eliminate systemic clinical skepticism and streamline diagnostic pathways. For clinical characterization, this consensus marks a institutional shift toward integrating post-viral conditions into standard infectious disease education and healthcare delivery. As a clinical consensus and policy recommendation framework, it does not present new empirical trial data or novel biological biomarker discoveries.
+
+Sources:
+
+- [Clinical Infectious Diseases consensus paper 2026, PubMed](https://pubmed.ncbi.nlm.nih.gov/41967005/)
+
+### 2026-07-24 - Science journalism feature highlights macroeconomic burden and healthcare deficits of ME/CFS in Germany
+
+An investigative episode of the German science podcast series 'Forschungsquartett' (co-produced by Spektrum.de and detektor.fm) examined the macroeconomic impact, workforce loss, and medical care infrastructure gaps associated with ME/CFS in Germany. The report synthesized health-economic data detailing multi-billion euro indirect costs driven by long-term disability, alongside severe structural deficits in medical education, diagnostic coding, and specialized clinical care capacity. Publicly framing ME/CFS as a major socioeconomic and health-policy priority helps drive institutional momentum for clinical trial funding and healthcare system reform. However, as a secondary science journalism feature and podcast recap, the episode presents synthesized expert commentary and economic estimates rather than primary peer-reviewed scientific trial data.
+
+Sources:
+
+- [Forschungsquartett podcast 2026, Spektrum.de](https://spektrum.de/podcast/forschungsquartett-eine-krankheit-die-deutschland-milliarden-kostet/2335948)
+
+### 2026-07-25 - European Respiratory Journal publishes international clinical practice guidelines for Long COVID
+
+An international clinical practice guideline published in The European Respiratory Journal provided evidence-graded recommendations for clinicians evaluating and treating adults with Long COVID. The guidelines outline standardized diagnostic algorithms for primary care physicians, pulmonologists, and rehabilitation specialists, covering symptom screening, exclusion workups, and multidisciplinary management strategies. The panel emphasized activity pacing and symptom-contingent management while evaluating candidate pharmacological interventions. Clinically, the guideline establishes an authoritative benchmark for routine medical practice, helping standardize post-COVID care across international healthcare settings. A critical caveat noted by the authors is that many recommended pharmacological therapies rest on low-to-moderate certainty evidence, highlighting the ongoing need for rigorous randomized controlled trials.
+
+Sources:
+
+- [European Respiratory Society guidelines 2026, The European Respiratory Journal](https://pubmed.ncbi.nlm.nih.gov/41856572/)
+
+### 2026-07-25 - Systematic scoping review maps post-COVID new-onset fibromyalgia and diagnostic overlap with ME/CFS
+
+A systematic scoping review published in the Journal of Translational Medicine analyzed literature on new-onset fibromyalgia manifestations following non-hospitalized COVID-19. The review examined post-viral pain phenotypes, central sensitization mechanisms, small-fiber neuropathy overlap, and methodological inconsistencies across published cohorts. It highlighted substantial diagnostic ambiguity between post-COVID fibromyalgia and ME/CFS, noting that many studies fail to rigorously evaluate post-exertional malaise. Clinically, this scoping analysis emphasizes the necessity of careful differential diagnosis to ensure post-viral pain patients receive appropriate pacing guidance rather than harmful exercise prescriptions. The conclusions are limited by high heterogeneity and variable quality across included secondary studies, as well as an absence of prospective baseline data prior to viral infection.
+
+Sources:
+
+- [Plaut 2026, Journal of Translational Medicine](https://pubmed.ncbi.nlm.nih.gov/42174645/)
+
+### 2026-07-25 - Peer-reviewed evaluation validates CureME participatory research and biobank infrastructure model
+
+A peer-reviewed publication evaluated the UK ME/CFS Biobank (CureME) participatory research framework, demonstrating how patient-partnered governance, longitudinal biobanking, and open data sharing resolve systemic barriers in ME/CFS research. The study showed that integrating patient representatives into protocol design and sample collection strategies significantly improved cohort characterization, longitudinal sample retention, and data quality. Infrastructure initiatives of this caliber are essential for enabling reproducible multi-omics research and providing high-quality biospecimens for international validation studies. The paper represents a descriptive methodology and infrastructure evaluation rather than a clinical outcome study or biological biomarker discovery trial.
+
+Sources:
+
+- [CureME participatory model 2026, PubMed](https://pubmed.ncbi.nlm.nih.gov/42483535/)
+
+### 2026-07-25 - Qualitative study reveals coverage gaps in patient-reported outcome measures for Long COVID
+
+A qualitative study published in Quality of Life Research evaluated patient comprehension, cognitive validity, and item coverage across widely used patient-reported outcome measures (PROMs) in Long COVID research. Qualitative interviews with patients demonstrated that standard health questionnaires frequently fail to capture core post-viral features, specifically post-exertional symptom exacerbation, cognitive fluctuations, and post-exertional delay. Ambiguous item phrasing and inappropriate recall windows were shown to induce misinterpretation and measurement error. Psychometrically, these findings indicate that unvalidated PROMs risk underestimating treatment response or missing key clinical deterioration in clinical trials. The study focused on survey design and cognitive debriefing, without collecting physiological data or testing therapeutic interventions.
+
+Sources:
+
+- [PROM validation study 2026, Quality of Life Research](https://link.springer.com/article/10.1007/s11136-026-04340-7)
+
+### 2026-07-25 - Medical perspective paper rejects psychogenic misattribution and defines supportive care role
+
+A peer-reviewed perspective article published in PubMed evaluated the role of psychiatry and psychotherapy in ME/CFS and Long COVID, establishing that somatic biomedical pathology is primary and firmly rejecting historical psychogenic or psychosomatic misattributions. The authors argued that mental health support must be strictly evidence-based, patient-centered, and restricted to helping individuals cope with severe chronic illness burden, rather than claiming curative potential or assuming psychological perpetuation. Clinically, this paper provides an important conceptual benchmark for protecting patients from harmful exertional therapies and diagnostic stigma while supporting legitimate psychological care for chronic illness burden. As an ethical and clinical perspective paper, it presents theoretical analysis rather than empirical clinical trial data or biological cohort measurements.
+
+Sources:
+
+- [Psychiatry and ME/CFS perspective 2026, PubMed](https://pubmed.ncbi.nlm.nih.gov/42119693/)
+
+### 2026-07-27 - Structural equation modeling demonstrates sex- and menopause-related variations in ME/CFS symptom architecture
+
+A cross-sectional study of 748 adults with ME/CFS published in the Journal of Translational Medicine applied factor analysis and structural equation modeling (SEM) to assess sex- and menopause-specific latent symptom structures. The analysis revealed distinct symptom architectures between sexes: female patients presented with two partially separable symptom factors (immune vs. gastrointestinal), whereas male patients exhibited a single integrated gut-immune factor. Furthermore, premenopausal women reported significantly higher flu-like symptom frequency than postmenopausal women, while gastrointestinal symptom severity remained stable across menopausal stages. Clinically, this evidence proves that biological sex and hormonal status dynamically shape ME/CFS symptom expression, underscoring the necessity of sex-stratified design in clinical trials. A key limitation is the cross-sectional, self-reported survey design, which requires prospective longitudinal validation alongside objective endocrine and immunological biomarkers.
+
+Sources:
+
+- [Symptom architecture study 2026, Journal of Translational Medicine](https://pubmed.ncbi.nlm.nih.gov/42522006/)
+
+### 2026-07-27 - Deutschlandfunk investigative audio series synthesizes research acceleration and trial pipelines in ME/CFS
+
+Part 2 of Deutschlandfunk's investigative science radio feature ('Wissenschaft im Brennpunkt') synthesized current biomedical research progress across international research groups. The broadcast detailed emerging pathophysiological models—including DecodeME genetic findings, sodium-potassium pump dysfunction, microvascular impairment, and autoantibody-mediated vascular damage—while profiling off-label trial pipelines such as daratumumab. Featuring expert commentary from leading researchers, the feature outlined key bottlenecks in European research funding and clinical trial infrastructure. While providing high-signal public science synthesis, the broadcast remains a journalistic media report rather than a peer-reviewed empirical scientific publication.
+
+Sources:
+
+- [Deutschlandfunk radio feature 2026, ME/CFS research synthesis](https://www.deutschlandfunk.de/me-cfs-heilen-2-2-forschung-nimmt-fahrt-auf-100.html)
+
+### 2026-07-29 - ME/CFS Research Foundation launches 2026 research funding program
+
+The ME/CFS Research Foundation announced the official launch of its 2026 research funding cycle, opening grant applications for targeted biomedical research projects. The program focuses on expanding private foundation funding for projects investigating disease mechanisms, objective biomarker validation, and novel therapeutic targets in ME/CFS. By funding multi-center collaborative projects in Germany and internationally, the initiative seeks to bridge financial gaps in public research infrastructure. As an official funding program press release, the document details grant availability and strategic research priorities without reporting scientific data or clinical trial results.
+
+Sources:
+
+- [ME/CFS Research Foundation 2026 Funding Program Announcement](https://mecfs-research.org/en/press/press-releases/pm-research-funding-program2026)
+
+### 2026-08-01 - Eight-country network cohort study evaluates post-acute COVID-19 autoimmune risk and EMR coding limits
+
+A multi-country network cohort study published in BMJ Public Health analyzed electronic health record (EHR) data across eight countries (covering Europe, the US, and Korea) to quantify post-acute autoimmune and inflammatory diagnoses following COVID-19. The study evaluated relative risks for conditions including rheumatoid arthritis, inflammatory bowel disease, systemic lupus erythematosus, and ME/CFS/POTS over a 9-month follow-up window. While providing large-scale multi-population tracking, the authors highlighted critical diagnostic coding limitations in administrative EHR databases, where ME/CFS and dysautonomia are frequently undercoded due to diagnostic delays and absent billing codes. Clinically, the study demonstrates that the lack of electronic health record code elevation in administrative databases does not rule out individual post-viral illness, underscoring the gap between clinical reality and health system coding. The study's observational database design remains subject to misclassification and detection bias.
+
+Sources:
+
+- [Burkard et al. 2026, BMJ Public Health](https://pubmed.ncbi.nlm.nih.gov/42516718/)
+
+### 2026-08-01 - Epidemiological survey of 8,840 secondary students in Shaanxi Province documents 2.06% CFS prevalence and physical impairment
+
+A cross-sectional epidemiological study published in PubMed surveyed 8,840 secondary school students across 25 schools in Shaanxi Province, China, assessing Chronic Fatigue Syndrome (CFS) prevalence and physical health correlations. The survey identified an overall CFS detection rate of 2.059% (1.903% in males, 2.234% in females), with prevalence increasing stepwise across academic stages from 1.012% in grade 7 to a peak of 3.728% in cram school students. CFS severity negatively correlated with physical endurance performance on 800m/1000m running tests across both genders, with female cram school students exhibiting significantly reduced vital capacity. The findings provide large-scale epidemiological evidence of adolescent fatigue burden and its link to academic stress and physical performance deficits. Limitations include a cross-sectional questionnaire screening design subject to self-report bias and specific regional applicability to secondary school populations in Shaanxi Province.
+
+Sources:
+
+- [Shaanxi secondary school epidemiological study 2026, PubMed](https://pubmed.ncbi.nlm.nih.gov/42519734/)
+
 ## Related Threads
 
 - [Post-Exertional Malaise & Exercise Physiology](../pem-exercise-physiology/)
 - [Diagnostics & Biomarkers](../diagnostics-biomarkers/)
 - [Severe ME/CFS Care](../severe-mecfs-care/)
 - [Genetic Risk Factors](../../disease-models-mechanisms/genetic-risk-factors/)
+- [Immune Dysregulation & Inflammation](../../disease-models-mechanisms/immune-dysregulation-inflammation/)
+- [Autoimmunity & Autoantibodies](../../disease-models-mechanisms/autoimmunity-autoantibodies/)

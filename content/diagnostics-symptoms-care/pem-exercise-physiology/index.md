@@ -1,8 +1,8 @@
 ---
 title: Post-Exertional Malaise & Exercise Physiology
 description: A living thread on PEM, repeat CPET, lactate recovery, pacing physiology, wearable monitoring, and exertion-response biomarkers in ME/CFS and Long COVID.
-date: 2026-07-14
-last_updated: 2026-07-14
+date: 2026-07-27
+last_updated: 2026-07-27
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -19,9 +19,9 @@ cssclasses: [thread-page]
 
 Post-exertional malaise is increasingly described as a measurable recovery disorder rather than nonspecific fatigue. Wearable monitoring, repeated CPET, lactate kinetics, epigenetic profiling, plasma proteomics, and oxygen-delivery studies all point to delayed or abnormal physiologic recovery after load in at least a subset of ME/CFS and Long COVID cohorts. The strongest signal is not that exercise capacity is always low at baseline, but that recovery after exertion can be biologically distorted in ways standard resting tests miss.
 
-The practical direction is toward objective phenotyping of exertional limits, pacing thresholds, and molecular recovery patterns rather than universal exercise prescriptions. While some studies and scoping reviews report functional improvements from exercise interventions, they systematically exclude or fail to adequately screen for and monitor post-exertional malaise (PEM). Thus, these reviews do not justify graded exercise recommendations, which carry a high risk of triggering severe, long-term crashes. In contrast, major clinical trials like RECOVER-ENERGIZE stratify participants by PEM status, using structured pacing supported by wearable trackers to prevent exertional harm. Large-scale surveys also show that heart rate monitor (HRM) pacing provides valuable biofeedback that helps patients manage energy limits and stop the push-crash cycle.
+The practical direction is toward objective phenotyping of exertional limits, pacing thresholds, and molecular recovery patterns rather than universal exercise prescriptions. While some studies and scoping reviews report functional improvements from exercise interventions, they systematically exclude or fail to adequately screen for and monitor post-exertional malaise (PEM). Thus, these reviews do not justify graded exercise recommendations, which carry a high risk of triggering severe, long-term crashes. Position statements and clinical summaries (such as from the Deutsche Gesellschaft für ME/CFS) explicitly warn against activating rehabilitation protocols due to high deterioration risks. In contrast, major clinical trials like RECOVER-ENERGIZE stratify participants by PEM status, using structured pacing supported by wearable trackers to prevent exertional harm. Qualitative studies and multi-day observational data show that heart rate monitor (HRM) and wearable HRV monitoring provide valuable biofeedback that helps patients manage energy limits and identify exertion thresholds (such as the first ventilatory threshold, VT1), though tracking fatigue and setup barriers remain.
 
-This emphasis on safety is reinforced by physiological and molecular findings. Large-scale wearable sensor data from the RECOVER-adult cohort shows that patients with high symptom burden exhibit sustained, long-term cardiopulmonary deficits—including reduced heart rate variability (HRV) and decreased daily steps—at a median of 21 months post-infection. Mechanistically, research has proposed a model of "irisin resistance" driven by thrombospondin-1 (TSP-1) antagonism, explaining why physical exertion fails to trigger adaptive metabolic recovery. Furthermore, deep phenotyping initiatives like the BioSig-PEM study highlight distinct lactate clearance and global recovery profiles after exertion, reinforcing that PEM is a distinct physiological dysfunction rather than simple deconditioning.
+This emphasis on safety is reinforced by physiological and molecular findings. Continuous wearable sensor data demonstrates that exertion exceeding individual ventilatory thresholds causes blunted sympathovagal recovery lasting over 24 hours, alongside long-term cardiopulmonary deficits—including reduced heart rate variability (HRV) and decreased daily steps—at a median of 21 months post-infection in high-symptom Long COVID cohorts. Mechanistically, research has proposed a model of "irisin resistance" driven by thrombospondin-1 (TSP-1) antagonism, explaining why physical exertion fails to trigger adaptive metabolic recovery. Furthermore, deep phenotyping initiatives like the BioSig-PEM study and ecological momentary assessment (EMA) protocols highlight distinct lactate clearance, global recovery profiles, and daily activity-fatigue dynamics after exertion, reinforcing that PEM is a distinct physiological dysfunction rather than simple deconditioning.
 
 ## Why This Matters
 
@@ -31,10 +31,10 @@ The same data stream can serve different clinical questions: actigraphy for day-
 
 ## State of Evidence
 
-- **Established:** PEM is a reproducible clinical phenomenon in ME/CFS and Long COVID, and exertion-sensitive protocols capture abnormal recovery patterns that are not visible at rest. Wearable monitoring shows that high symptom burden correlates with sustained, long-term cardiopulmonary deficits, including reduced heart rate variability (HRV) and lower physical activity levels.
-- **Plausible but early:** Exertional intolerance and recovery failure may be driven by molecular pathways such as irisin signaling resistance (driven by TSP-1 antagonism) and epigenetic or proteomic shifts during recovery. Wearable-supported activity pacing, lactate clearance phenotypes, and clinical instruments like the Vienna PEM Questionnaire (VPEM) help track thresholds and operationalize PEM.
+- **Established:** PEM is a reproducible clinical phenomenon in ME/CFS and Long COVID, and exertion-sensitive protocols capture abnormal recovery patterns that are not visible at rest. Wearable monitoring shows that high symptom burden correlates with sustained, long-term cardiopulmonary deficits, including reduced heart rate variability (HRV) and lower physical activity levels. Exertion at or above individual first ventilatory thresholds (VT1) triggers blunted sympathovagal and HRV recovery lasting more than 24 hours.
+- **Plausible but early:** Exertional intolerance and recovery failure may be driven by molecular pathways such as irisin signaling resistance (driven by TSP-1 antagonism) and epigenetic or proteomic shifts during recovery. Wearable-supported activity pacing, continuous HRV biofeedback, digital tracking tools, lactate clearance phenotypes, ecological momentary assessment (EMA) dynamics, and clinical instruments like the Vienna PEM Questionnaire (VPEM) help track thresholds and operationalize PEM.
 - **Not established:** A single universal biomarker, CPET metric, or wearable signature that diagnostic trials can rely on; a validated exercise prescription that is safe or effective for individuals experiencing post-exertional malaise.
-- **Key limitations:** Many exercise studies and reviews fail to screen for or monitor PEM, rely on subjective fatigue scales susceptible to expectation bias, rebrand Graded Exercise Therapy (GET) under alternative names, and omit reporting on dropouts or adverse events. Consequently, these reviews do not justify progressive or graded exercise recommendations for patients with PEM. Additionally, observational pacing studies suffer from confounding by indication, as patients naturally adjust activity based on daily symptoms.
+- **Key limitations:** Many exercise studies and reviews fail to screen for or monitor PEM, rely on subjective fatigue scales susceptible to expectation bias, rebrand Graded Exercise Therapy (GET) under alternative names, and omit reporting on dropouts or adverse events. Consequently, these reviews do not justify progressive or graded exercise recommendations for patients with PEM. Qualitative pacing evaluations and observational wearable studies suffer from selection bias and confounding by indication, as patients naturally adjust activity based on daily symptoms, while digital tools require individual threshold calibration and face setup or cognitive tracking burdens.
 
 ## Timeline
 
@@ -222,6 +222,14 @@ Sources:
 
 - [Pimminger et al. 2026, Research Square](https://doi.org/10.21203/rs.3.rs-10040145/v1)
 
+### 2026-06-16 - Ecological momentary assessment tracks daily activity-fatigue dynamics in ME/CFS
+
+An ecological momentary assessment (EMA) study presented at EAPM 2026 tracked 109 ME/CFS patients and 55 healthy controls using a 7-day experience sampling protocol with 8 random prompts per day. ME/CFS participants demonstrated significantly higher momentary physical fatigue both at rest and after activity compared to healthy controls (p < 0.001). While activity-triggered fatigue increases were similar across both groups, higher activity enjoyment uniquely buffered concurrent physical fatigue in ME/CFS. Notably, individual daily-life EMA activity-fatigue slopes did not correlate with laboratory-based 4-hour post-cycling PEM recovery trajectories. Methodologically, the study relied on a conference proceedings abstract and measured binary activity preceding each prompt rather than duration or intensity, introducing potential zero-inflation. Patient-wise, these findings suggest that while positive engagement may temporarily buffer momentary exertion-related fatigue, subjective activity enjoyment does not substitute for physiological pacing or prevent delayed post-exertional malaise.
+
+Sources:
+
+- [Bogaerts et al. 2026, UHasselt Document Server](https://documentserver.uhasselt.be/handle/1942/49628)
+
 ### 2026-06-17 - Randomized trial compares hospital-based rehabilitation and telerehabilitation for Long COVID CFS
 
 A randomized controlled trial of 145 participants in Bangladesh compared an 8-week "adapted physical activity and therapeutic exercise" (APTE) program delivered via hospital-based rehabilitation (HBR), remote telerehabilitation (TR), or an unsupervised home program (HP). The authors reported that supervised HBR led to significantly greater reductions in patient-reported fatigue (Chalder Fatigue Scale) and improvements in physical function than remote or unsupervised formats. However, the trial has faced significant criticism from researchers regarding major methodological limitations and safety risks. Specifically, the trial was registered as evaluating "Graded Exercise Therapy" (GET) but rebranded the intervention as APTE in the final paper, and it did not screen for post-exertional malaise (PEM), monitor delayed symptom crashes, or report adverse events and dropout rates. These deficiencies, combined with unexplained deviations from the trial registry (such as reducing the intervention from 12 to 8 weeks) and statistical inconsistencies, highlight the persistent safety hazards of prescribing exercise to post-viral cohorts without pacing protocols.
@@ -269,6 +277,38 @@ A crossover study (n = 25) evaluated the level of agreement and reliability betw
 Sources:
 
 - [Bomans et al. 2026, PLOS ONE](https://pubmed.ncbi.nlm.nih.gov/42447127)
+
+### 2026-07-22 - Evidence summary warns of high deterioration risk from exercise-based rehabilitation in ME/CFS
+
+A clinical evidence synthesis published by the Deutsche Gesellschaft für ME/CFS synthesized international guidelines and patient survey data to warn against standard exercise-based inpatient rehabilitation protocols in ME/CFS. The report highlights that activating rehabilitation regimens—such as graded exercise therapy (GET)—trigger severe, long-term functional deterioration in up to 80% of affected individuals due to post-exertional malaise and exertion-induced neuro-immune breakdown. The synthesis urges disability insurers, medical evaluators, and rehabilitation centers to abandon mandatory activation protocols and replace them with PEM screening and pacing-based care frameworks. As an organizational evidence summary and advocacy report rather than a primary empirical trial, the document provides clinical policy guidance rather than new experimental data. Clinically, it underscores the essential safety requirement to screen for PEM before making rehabilitation referrals or prescribing activity programs.
+
+Sources:
+
+- [Thoma 2026, Deutsche Gesellschaft für ME/CFS](https://mecfs.de/rehabilitation-bei-me-cfs-birgt-verschlechterungsgefahr)
+
+### 2026-07-24 - Qualitative study evaluates patient experiences with heart rate monitor-guided pacing in ME/CFS
+
+A qualitative clinical study published in *Physiotherapy* explored patient experiences, implementation barriers, and perceived outcomes of heart rate monitor (HRM) guided pacing in individuals living with ME/CFS. Participants reported that using wearable heart rate monitors to keep activity below estimated anaerobic thresholds provided valuable biofeedback, helping identify subtle exertion triggers and reduce post-exertional crash frequency. However, the study identified substantial practical challenges, including initial equipment setup difficulties, ongoing cognitive fatigue from continuous data tracking, and the need for specialized physiotherapist support to establish accurate baseline thresholds. The study relied on qualitative self-reported data without objective continuous biomarker validation or a control group. Clinically, the findings emphasize that while HRM pacing is a valued self-management strategy for maintaining energy limits, successful adoption requires clinical guidance to prevent setting inappropriate targets or incurring tracking fatigue.
+
+Sources:
+
+- [Clague-Baker et al. 2026, Physiotherapy](https://www.physiotherapyjournal.com/article/S0031-9406(26)00074-X/abstract)
+
+### 2026-07-25 - Observational study demonstrates blunted wearable HRV recovery following exertion at first ventilatory threshold in Long COVID
+
+An observational study published in *Sports Medicine* evaluated continuous multi-day wearable heart rate variability (HRV) in 121 Long COVID patients and 21 healthy controls following cardiopulmonary exercise testing (CPET). Long COVID participants exhibited significantly lower overall HRV during daily activities and sleep compared to controls (p = 0.027). When exercising at or above their individual first ventilatory threshold (VT1), Long COVID patients demonstrated blunted sympathovagal recovery, with HRV suppression persisting for over 24 hours post-exertion (p = 0.010) and significant nighttime HRV reductions (p = 0.018). The study had key limitations, including a relatively small control group and a heterogeneous Long COVID cohort without explicit ME/CFS diagnostic subtyping. Clinically, these findings establish wearable HRV monitoring as an objective method to capture post-exertional autonomic strain and demonstrate that exertion at or above VT1 induces prolonged physiological stress, reinforcing the rationale for pacing below VT1.
+
+Sources:
+
+- [Ruijgt et al. 2026, Sports Medicine](https://link.springer.com/article/10.1007/s40279-026-02487-4)
+
+### 2026-07-27 - Narrative review evaluates digital tools and wearable tracking for energy envelope management
+
+A narrative review published in *PLOS Digital Health* synthesized clinical evidence on wearable heart-rate monitors, HRV tracking, smartphone applications, and Just-In-Time Adaptive Interventions (JITAIs) for energy envelope management in ME/CFS and Long COVID. The authors reviewed evidence showing that continuous physiological sensing can help detect impending energy envelope depletion and provide real-time feedback to prevent post-exertional crashes. The review identified key implementation barriers, including digital access disparities, algorithm inaccuracy under dysautonomia, and the necessity of individual baseline calibration rather than rigid population step targets. As a narrative review and conceptual framework, the manuscript does not report new primary trial data, and digital pacing tools require prospective randomized trials to validate long-term clinical efficacy. For patient care, it highlights how consumer wearables can be integrated into clinical pacing frameworks when calibrated to individual physiological limits.
+
+Sources:
+
+- [PLOS Digital Health 2026, PLOS Digital Health](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001586)
 
 ## Related Threads
 

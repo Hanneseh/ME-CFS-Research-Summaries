@@ -69,6 +69,7 @@ agent/input/
 agent/state/
 agent/debug_prompts/
 /agent-cli/state/
+/agent-cli/input/
 /scripts/
 
 # TypeScript & IDE Build Caches

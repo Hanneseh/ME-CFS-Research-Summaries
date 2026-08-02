@@ -1,8 +1,8 @@
 ---
 title: Vascular Endothelial Dysfunction & Microclots
 description: A living thread on endothelial impairment, circulating microclots, red blood cell deformability, hypercoagulability, fibrin amyloid fibrils, and microvascular perfusion.
-date: 2026-06-11
-last_updated: 2026-06-11
+date: 2026-08-01
+last_updated: 2026-08-01
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -17,11 +17,11 @@ cssclasses: [thread-page]
 
 ## Current Takeaway
 
-Vascular endothelial dysfunction and microcirculatory impairment remain a plausible core mechanism linking fatigue, orthostatic symptoms, cognitive strain, and post-exertional worsening in ME/CFS and Long COVID. The model is no longer limited to isolated microclot reports. Newer work is layering together capillary structure, cerebral perfusion responses, extracellular-vesicle signals, platelet and complement activation, and coagulation profiling into a broader thrombo-inflammatory picture.
+Vascular endothelial dysfunction and microcirculatory impairment remain a plausible core mechanism linking fatigue, orthostatic symptoms, cognitive strain, and post-exertional worsening in ME/CFS and Long COVID. The model is no longer limited to isolated microclot reports. Newer work is layering together capillary structure, cerebral perfusion responses, extracellular-vesicle signals, platelet and complement activation, coagulation profiling, and now programmed cell-death pathways into a broader thrombo-inflammatory picture.
 
-The latest additions push the field toward multi-scale measurement rather than one single marker. Conference data from the MIRACLE program suggest that accessible tools such as capillaroscopy and orthostatic transcranial Doppler may capture microvascular and cerebral perfusion differences, while extracellular-vesicle cargo studies point to endothelial and hypoperfusion-related biomarker candidates. A new longitudinal multi-omics paper also strengthens the idea that acute immunothrombosis can leave a durable endothelial-platelet activation signature in people who later develop Long COVID.
+The latest additions push the field toward multi-scale measurement and upstream pathway identification. A peer-reviewed study has linked necroptosis—a regulated form of inflammatory cell death—to persistent endothelial and immune dysfunction in Long COVID, suggesting that vascular barrier damage may be actively maintained by specific cell-death signaling rather than passively persisting after infection. A separate hypothesis paper proposes that capillary microclotting acts in concert with interstitial accumulation of viscous extracellular material (such as hyaluronan) to restrict both blood-side perfusion and tissue-side oxygen transfer, offering a dual-compartment model for peripheral symptoms. These join earlier multi-omics, capillaroscopy, and extracellular-vesicle work in building a broader mechanistic picture.
 
-Clinical translation is still early. A 2026 review on thromboelastography is useful because it frames clot strength and impaired fibrinolysis as measurable functional signals, but it is still a review rather than new cohort evidence. No blood-flow, microclot, or coagulation assay here is ready to serve as a standalone diagnostic or treatment guide, and intervention evidence remains preliminary.
+Clinical translation is still early. No blood-flow, microclot, necroptosis, or coagulation assay is ready to serve as a standalone diagnostic or treatment guide, and intervention evidence—whether targeting cell death pathways, clot clearance, or extracellular matrix compliance—remains preliminary.
 
 ## Why This Matters
 
@@ -30,7 +30,7 @@ The identification of structural capillary alterations and circulating microclot
 ## State of Evidence
 
 - **Established:** ME/CFS and Long COVID research continues to show reproducible signs of vascular dysregulation, including impaired perfusion, endothelial stress, abnormal clotting biology, and links between these changes and symptom burden.
-- **Plausible but early:** Multi-scale approaches are gaining traction, with nailfold capillaroscopy, orthostatic cerebral flow measurements, extracellular-vesicle cargo, endothelial-platelet transcriptomic programs, and thromboelastography all pointing toward thrombo-inflammatory perfusion problems. These signals are mechanistically coherent, but they are not yet standardized enough for routine use.
+- **Plausible but early:** Multi-scale approaches are gaining traction, with nailfold capillaroscopy, orthostatic cerebral flow measurements, extracellular-vesicle cargo, endothelial-platelet transcriptomic programs, thromboelastography, necroptosis-mediated endothelial injury, and interstitial matrix models all pointing toward thrombo-inflammatory perfusion problems. These signals are mechanistically coherent, but they are not yet standardized enough for routine use.
 - **Not established:** It remains unclear whether microclots, endothelial injury, and platelet activation are primary disease drivers, downstream consequences, or only one branch of a broader multi-system process. TEG-guided management, anticoagulant strategies, and other clot-targeting interventions do not yet have robust controlled evidence in these populations.
 - **Key limitations:** Several important additions are conference-stage findings, small female-only biomarker cohorts, or review-level syntheses. Assay standardization remains a major barrier, especially for microclot detection and real-time coagulation profiling.
 
@@ -131,6 +131,22 @@ Ansone and colleagues followed 81 hospitalized COVID-19 patients from the acute 
 Sources:
 
 - [Ansone et al. 2026, iScience](https://www.sciencedirect.com/science/article/pii/S2589004226017013)
+
+### 2026-07-25 - Necroptosis and cellular stress pathways linked to endothelial and immune dysfunction in Long COVID
+
+A peer-reviewed study in the Journal of Allergy and Clinical Immunology identified elevated necroptosis markers—indicators of a regulated, pro-inflammatory form of programmed cell death—in circulating immune cells and endothelial cells from Long COVID patients. The work mechanistically links activation of necroptosis signaling to microvascular barrier disruption and systemic inflammation, suggesting that endothelial damage may be actively sustained by specific cell-death pathways rather than simply persisting as residual post-infectious injury. The authors propose necroptosis pathway inhibition as a potential therapeutic strategy for microvascular repair. The study relies on in vitro and ex vivo functional assays; clinical proof of efficacy for necroptosis inhibitors in human patients has not been tested. The findings are from a Long COVID cohort and should not be assumed to generalize to all ME/CFS presentations.
+
+Sources:
+
+- [Journal of Allergy and Clinical Immunology (2026)](https://www.sciencedirect.com/science/article/pii/S0091674926004963)
+
+### 2026-08-01 - Hypothesis paper proposes dual microvascular–interstitial model for peripheral Long COVID symptoms
+
+A hypothesis article in the Journal of Bodywork & Movement Therapies proposes a dual-compartment pathophysiological model combining capillary microclot obstruction with accumulation of viscous extracellular material (such as hyaluronan) in the interstitial and fascial spaces. The model argues that microvascular perfusion failure and tissue-side matrix thickening jointly restrict oxygen transfer and alter mechanotransduction, contributing to persistent muscular pain, tissue stiffness, and fatigue in Long COVID and related conditions including ME/CFS. Therapeutically, it suggests that both microvascular clot clearance and restoration of extracellular matrix compliance may need to be addressed. The paper synthesizes existing concepts and does not present new experimental data; direct tissue biopsy and interstitial fluid measurements would be needed to confirm the proposed mechanism.
+
+Sources:
+
+- [Journal of Bodywork & Movement Therapies (2026)](https://sciencedirect.com/science/article/pii/S1360859226002184)
 
 ## Related Threads
 

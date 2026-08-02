@@ -1,8 +1,8 @@
 ---
 title: Care & Assessment for Severe ME/CFS
 description: A living thread on severe and very severe ME/CFS care, inpatient and outreach models, home-visit diagnostics, perioperative safety, and bedbound patient assessment.
-date: 2026-06-01
-last_updated: 2026-06-01
+date: 2026-07-29
+last_updated: 2026-07-29
 thread_status: active
 evidence_level: early clinical, protocol, and retrospective case series
 primary_topics:
@@ -30,9 +30,9 @@ The sources tracked here address each of those gaps directly. Inpatient outcome 
 ## State of Evidence
 
 - **Established:** Severe and very severe ME/CFS patients are systematically underrepresented in research because standard trial participation requires travel and exertion that can cause lasting deterioration. This exclusion produces a self-reinforcing evidence gap at the most severe end of the disease spectrum.
-- **Plausible but early:** A dedicated inpatient care environment that prioritises PEM avoidance and sensory adaptation may produce measurable clinical improvement in some severely affected patients, particularly those with shorter illness duration. Staged outreach diagnostics are feasible in housebound patients without triggering uniform deterioration. Acute-phase symptom complexity in young people predicts severe long-term outcome.
-- **Not established:** Which specific components of inpatient or outreach care drive improvement. Whether early risk stratification in children and young adults changes long-term outcomes. The full perioperative risk profile in ME/CFS, particularly delayed PEM following general anaesthesia.
-- **Key limitations:** All current inpatient and outreach outcome data come from single centres with fewer than 25 patients. The paediatric risk-stratification study is monocentric and used a registry design. The perioperative study has 15 ME/CFS patients matched to 15 controls. Protocol publications like ACHTSAM have not yet reported outcome data. Evidence of what does not work — high-stimulation environments, mandatory physical therapy, and standard surgical pain protocols — is largely derived from adverse patient experience rather than controlled comparison.
+- **Plausible but early:** A dedicated inpatient care environment that prioritises PEM avoidance and sensory adaptation may produce measurable clinical improvement in some severely affected patients, particularly those with shorter illness duration. Staged outreach diagnostics are feasible in housebound patients without triggering uniform deterioration. Transdisciplinary expert consensus provides practice-oriented guidelines for home-based care, nursing, and PEM-aware care adaptation. Acute-phase symptom complexity in young people predicts severe long-term outcome.
+- **Not established:** Which specific components of inpatient, outreach, or home care drive clinical improvement. Whether early risk stratification in children and young adults changes long-term outcomes. The full perioperative risk profile in ME/CFS, particularly delayed PEM following general anaesthesia.
+- **Key limitations:** All current inpatient and outreach outcome data come from single centres with fewer than 25 patients. Transdisciplinary home care guidelines are based on expert consensus and practice-oriented experience rather than randomized interventional trials. The paediatric risk-stratification study is monocentric and used a registry design. The perioperative study has 15 ME/CFS patients matched to 15 controls. Protocol publications like ACHTSAM have not yet reported outcome data. Evidence of what does not work — high-stimulation environments, mandatory physical therapy, and standard surgical pain protocols — is largely derived from adverse patient experience rather than controlled comparison.
 
 ## Timeline
 
@@ -83,6 +83,14 @@ A transdisciplinary Austrian expert group—including nursing scientists, physio
 Sources:
 
 - [Hermisson et al. 2026, Wiener Medizinische Wochenschrift](https://link.springer.com/article/10.1007/s10354-026-01155-6)
+
+### 2026-07-29 - Transdisciplinary expert statement establishes clinical guidance for severe ME/CFS home care
+
+Hermisson et al. published a transdisciplinary expert consensus statement in *Wiener Medizinische Wochenschrift* establishing practice-oriented guidelines for home-based management, nursing care, physical therapy adaptation, outreach diagnostics, and palliative care principles in severe and very severe ME/CFS. The panel—comprising medical specialists, nursing scientists, physiotherapists, public health researchers, and patient advocates—structured care protocols specifically tailored around individual exertion thresholds and post-exertional malaise (PEM) prevention. The guidance categorizes practical care dimensions across nutrition, personal hygiene, positioning, sensory mitigation (light and sound reduction), and low-stimulation communication strategies to prevent severe post-exertional crashes during essential daily activities. It further outlines requirements for professional caregiver instruction, family caregiver support, adapted home visits, and the selective application of palliative care principles for extremely severe cases. The primary limitation is that these guidelines reflect structured expert consensus and clinical experience rather than evidence from randomized interventional trials. For patients, families, and visiting healthcare professionals, this statement provides an actionable framework to guide home-based care while protecting severely ill patients from exertion-induced deterioration.
+
+Sources:
+
+- [Hermisson et al. 2026, Wiener Medizinische Wochenschrift](https://link.springer.com/article/10.1007/s10354-026-01182-3)
 
 ## Open Questions
 
