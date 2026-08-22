@@ -1,8 +1,8 @@
 ---
 title: Diagnostics & Biomarkers
 description: A living thread on diagnostic tests, biomarker panels, machine-learning classifiers, biosensors, assays, and measurement tools for ME/CFS and Long COVID.
-date: 2026-07-27
-last_updated: 2026-07-27
+date: 2026-08-11
+last_updated: 2026-08-11
 thread_status: active
 evidence_level: early clinical validation
 primary_topics:
@@ -30,9 +30,9 @@ Multiplexed protein biosensors, cfRNA liquid biopsy, epigenetic chromosome-confo
 ## State of Evidence
 
 - **Established:** ME/CFS produces measurable biological differences from healthy controls across multiple modalities, including immune gene expression, plasma metabolites, autonomic parameters, and circulating nucleic acids. Machine-learning classifiers built on these signals routinely exceed 80 percent accuracy in discovery cohorts.
-- **Plausible but early:** Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle microRNA and proteomic cargo profiling, SMPDL3B plasma levels, metabolomic AutoML models, LLM-guided transcriptomic feature selection, and beat-to-beat autonomic classifiers each show strong initial performance in retrospective or pilot cohorts. Multi-omics integration, post-exertional provocation models, and machine-learning tools may allow molecular subtyping and cognitive trajectory mapping to supplement symptom-based classification.
+- **Plausible but early:** Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle microRNA and proteomic cargo profiling, SMPDL3B plasma levels, metabolomic AutoML models, LLM-guided transcriptomic feature selection, and beat-to-beat autonomic classifiers each show strong initial performance in retrospective or pilot cohorts. Objective neurophysiological measures (such as sleep EEG slow-wave microstructure disruptions, altered post-movement beta rebound, and resting alpha frequency slowing) demonstrate measurable group-level central nervous system differences. Multi-omics integration, post-exertional provocation models, and machine-learning tools may allow molecular subtyping and cognitive trajectory mapping to supplement symptom-based classification.
 - **Not established:** Any single test validated prospectively against clinical diagnosis across mild, moderate, and severe ME/CFS. Head-to-head specificity against overlapping conditions such as multiple sclerosis, rheumatoid arthritis, and fibromyalgia. Clinically validated diagnostic biomarkers derived from exercise-challenge (PEM) provocation protocols, though pilot multi-omic and cognitive trajectory studies are underway.
-- **Key limitations:** Small and often severely ill or female-only cohorts, cross-sectional designs that cannot prove causation, lack of prospective validation, and the technical gap between research-grade assays and scalable clinical tests. Some metabolomic and epigenetic models rely on proprietary platforms with inherent developer conflicts of interest.
+- **Key limitations:** Small and often severely ill or female-only cohorts, cross-sectional designs that cannot prove causation, lack of prospective validation, and the technical gap between research-grade assays and scalable clinical tests. Several candidate markers arrive as preprints or preliminary conference abstracts lacking full diagnostic performance metrics. Furthermore, laboratory-dependent testing protocols (including in-facility polysomnography, high-density EEG, and repeated physical dynamometry) systematically exclude bedbound and very severe patients, skewing the biomarker evidence base toward ambulatory cohorts. Some metabolomic and epigenetic models rely on proprietary platforms with inherent developer conflicts of interest.
 
 ## Timeline
 
@@ -156,6 +156,14 @@ Sources:
 
 - [Ladek et al. 2026, Biomedicines](https://doi.org/10.3390/biomedicines14040855)
 
+### 2026-04-22 - Overnight polysomnography reveals sleep EEG microstructure changes in Long COVID and ME/CFS
+
+A peer-reviewed case-control neurophysiology study in *Sleep* evaluated overnight in-facility polysomnography and sleep EEG microstructures across 19 ME/CFS patients, 28 Long COVID patients, and 28 matched healthy controls. Quantitative spectral analysis revealed elevated slow oscillation (SO) power during pre-sleep wakefulness and REM sleep in Long COVID compared to controls. During non-REM sleep stages N2 and N3, both ME/CFS and Long COVID cohorts displayed microstructural disruptions, including faster intra-spindle frequency drops and shorter frontal SO peak durations. Furthermore, the study identified altered phase-amplitude coupling with premature fast spindle coupling at the SO trough, which correlated significantly with patient-reported severity of unrefreshing sleep. These findings provide objective electrophysiological evidence that post-viral unrefreshing sleep involves disrupted thalamocortical oscillations and slow-wave coordination. However, the study is limited by modest subcohort sizes, a cross-sectional design without longitudinal tracking, and an in-laboratory overnight testing protocol that excludes bedbound or severely ill individuals while risking acute post-exertional symptom exacerbation.
+
+Sources:
+
+- [Sun et al. 2026, Sleep](https://doi.org/10.1093/sleep/zsag090)
+
 ### 2026-05-15 - Multi-omics review maps a molecular reclassification roadmap from genomics to AI platforms
 
 A narrative review from Nova Southeastern University's Institute for Neuro-Immune Medicine synthesized landmark studies across genomics (DecodeME GWAS), epigenetic profiling, single-cell transcriptomics, metabolomic pathway mapping, and multi-modal AI frameworks (BioMapAI, HEAL2, Positive Unlabeled Learning) to outline how ME/CFS could shift from symptom-based diagnosis to molecularly defined subtypes. The review identified CD8+ T-cell exhaustion marked by TOX and EOMES transcription factors, compromised mitochondrial coupling efficiency, system-wide hypometabolism, and sex-specific proteomic recovery signatures as convergent downstream consequences of the disease regardless of which molecular pathway is primary in any individual patient. Circulating cell-free RNA signatures and BioMapAI are highlighted as current diagnostic and classification anchors. The review's diagnostic contribution is a framework rather than new data: the challenge it names—translating high-dimensional computational models into accessible clinical laboratory tests—remains the central unsolved problem for the field.
@@ -228,6 +236,14 @@ Sources:
 
 - [Mihatsch et al. 2026, Journal of Translational Medicine](https://pubmed.ncbi.nlm.nih.gov/42458481)
 
+### 2026-07-24 - Handgrip variability study shows coefficient of variation cannot separate ME/CFS fatigability from submaximal effort
+
+In an observational modeling preprint on medRxiv, Steinkirchner et al. evaluated repeated handgrip strength (HGS) test variability across three multicenter cohorts comprising 211 ME/CFS patients and 170 controls. Standard repeated dynamometry protocols frequently employ the coefficient of variation (CV) as an effort-validity marker, historically misclassifying high trial-to-trial variability as poor motivation or deliberate submaximal effort. The authors demonstrate that CV distributions overlap substantially between ME/CFS patients exerting full effort and healthy controls instructed to exert only 50 percent force, showing that CV cannot reliably differentiate pathophysiological neuromuscular fatigability from voluntary submaximal force. To address this, the researchers propose a trajectory-aware sum-of-residuals metric that models fatigue decay curves to prevent false accusations of poor effort in clinical and disability assessments. As a preprint, these findings have not completed peer review, and the proposed metric remains an experimental methodological framework rather than established medicolegal practice. Additionally, the study focused solely on upper-extremity isometric dynamometry without intramuscular metabolic or electromyographic measurements, and repeated clinic testing underrepresents severe and bedbound patients while carrying risk of localized post-exertional strain.
+
+Sources:
+
+- [Steinkirchner et al. 2026, medRxiv](https://doi.org/10.1101/2026.07.22.26358672)
+
 ### 2026-07-27 - Circulating extracellular vesicle microRNAs differentiate ME/CFS from non-ME/CFS fatigue controls
 
 A peer-reviewed case-control study in the *Journal of Translational Medicine* evaluated circulating extracellular vesicle (EV) microRNA profiles as potential diagnostic biomarkers for ME/CFS. Isolating plasma EVs, the researchers identified distinct EV-microRNA expression signatures that separated ME/CFS patients not only from healthy controls but also from non-ME/CFS chronic fatigue comparison groups. The specific microRNA cargo implicates systemic extracellular vesicle transport in persistent inflammatory signaling cascades and immune cell communication. Achieving high diagnostic discrimination against disease-matched fatiguing controls addresses a key historical hurdle in ME/CFS biomarker development, where non-specific fatigue controls often blur diagnostic boundaries. However, EV isolation protocols currently require specialized, resource-intensive laboratory infrastructure, and the candidate microRNA panel requires prospective validation in larger multi-center cohorts before clinical adoption. If replicated, this EV microRNA signature could support the development of a non-invasive, blood-based diagnostic assay capable of objective patient classification.
@@ -236,10 +252,35 @@ Sources:
 
 - [Zhang et al. 2026, Journal of Translational Medicine](https://pubmed.ncbi.nlm.nih.gov/42533331/)
 
+### 2026-08-01 - Conference abstract presents FLow-based Immune Profiling of multi-isotype antibody signatures in Long COVID and post-treatment Lyme
+
+A conference abstract published in a *Journal of Immunology* supplement from the American Association of Immunologists meeting introduced FLow-based Immune Profiling (FLIP) for multidimensional serological profiling across post-infectious cohorts. Researchers applied the high-parameter multiplexed flow cytometry platform to evaluate pathogen-specific and surface-bound antibodies across major isotypes (IgD, IgM, IgA, IgE) and IgG subclasses (IgG1–4) in plasma from the RECOVER Long COVID cohort and the MAESTRO Post-Treatment Lyme Disease Syndrome (PTLDS) cohort. The platform identified distinct ratiometric antibody signatures that differentiated individuals experiencing persistent chronic symptoms from those who had fully recovered, revealing divergent humoral trajectories across infection-associated conditions. Because this source is a preliminary conference abstract rather than a full peer-reviewed paper, detailed analytical methodology, cohort breakdown tables, and diagnostic ROC/AUC performance metrics are omitted. The study evaluated broad Long COVID and PTLDS cohorts without a dedicated Canadian Consensus Criteria ME/CFS arm, and the findings require prospective replication before high-parameter flow-based serology can be evaluated as a diagnostic tool. While standard blood draws pose minimal physical burden for patients, the assay currently requires specialized laboratory instrumentation.
+
+Sources:
+
+- [Kremer et al. 2026, The Journal of Immunology](https://doi.org/10.1093/jimmun/vkag141.942)
+
+### 2026-08-04 - Peer-reviewed publication reports haptoglobin phenotype stratification of post-exertional cognitive decline
+
+In a peer-reviewed study in the *International Journal of Molecular Sciences*, Moezzi et al. evaluated haptoglobin (Hp) phenotypes as biological stratification markers in post-viral illness. The investigators subjected 44 Long COVID patients and 20 rapid-recovery controls to a 90-minute standardized passive pneumatic cuff provocation challenge while monitoring computerized cognitive performance, cerebral tissue oxygen extraction via near-infrared spectroscopy (NIRS), and plasma metabolomics. Patients carrying the Hp2-2 phenotype exhibited significant post-provocation cognitive decline on BrainCheck testing, reduced right-hemisphere cerebral fractional tissue oxygen extraction, and depressed plasma levels of citric acid, isethionate, and glucosamine. In contrast, cognitively resilient Hp1-1 carriers maintained cerebral oxygen extraction and metabolic stability during provocation. This Long COVID cohort therefore extends, but should not be conflated with, the earlier conference-reported ME/CFS pilot that associated Hp2-1 with a worse trajectory; the differing phenotype signals require replication and direct cohort comparison. While passive pneumatic cuff stimulation provides an exertion-testing alternative for individuals unable to perform maximal exercise tests, active provocation still carries a risk of inducing post-exertional symptom flares. Key limitations include a modest sample size, the absence of a prepandemic non-COVID ME/CFS comparison cohort, and the fact that proposed haptoglobin-modulating therapeutic concepts remain unvalidated preclinical hypotheses.
+
+Sources:
+
+- [Moezzi et al. 2026, International Journal of Molecular Sciences](https://doi.org/10.3390/ijms27157000)
+
+### 2026-08-11 - EEG study identifies reduced post-movement beta rebound and resting alpha slowing in Long COVID fatigue
+
+A peer-reviewed case-control neurophysiology study in the *Journal of Clinical Neuroscience* evaluated cortical oscillatory dynamics using 64-channel electroencephalography (EEG) in 20 Long COVID participants experiencing fatigue, brain fog, and post-exertional malaise alongside 20 matched healthy controls. Recordings obtained during resting state and sustained isometric handgrip tasks revealed a significant reduction in post-movement beta rebound (PMBR) in the primary motor and somatosensory cortex upon motor release in patients. Long COVID participants also demonstrated marked slowing of resting sensorimotor alpha center frequency (averaging ~9.6 Hz versus ~10.6 Hz in controls), with both oscillatory abnormalities correlating with self-reported fatigue severity. These electrophysiological shifts point to disrupted cortical excitatory-inhibitory balance and impaired GABAergic intracortical inhibition in post-viral neurocognitive fatigue. However, the study is limited by a small single-center sample, a cross-sectional design that cannot establish whether oscillatory changes precede or result from chronic illness, and the enrollment of a broad post-COVID cohort rather than criteria-defined ME/CFS. Furthermore, in-laboratory testing requirements and motor contraction tasks exclude severely affected or bedbound individuals while carrying potential for triggering post-exertional fatigue.
+
+Sources:
+
+- [Casado Sánchez et al. 2026, Journal of Clinical Neuroscience](https://doi.org/10.1016/j.jocn.2026.112230)
+
 ## Related Threads
 
 - [Post-Exertional Malaise & Exercise Physiology](../pem-exercise-physiology/)
 - [Clinical Characterization & Epidemiology](../clinical-characterization-epidemiology/)
+- [Neuroinflammation & Brain Changes](../../disease-models-mechanisms/neuroinflammation-brain-changes/)
 - [Immune Dysregulation & Inflammation](../../disease-models-mechanisms/immune-dysregulation-inflammation/)
 - [Mitochondrial & Metabolic Dysfunction](../../disease-models-mechanisms/mitochondrial-metabolic-dysfunction/)
 - [Autoimmunity & Autoantibodies](../../disease-models-mechanisms/autoimmunity-autoantibodies/)

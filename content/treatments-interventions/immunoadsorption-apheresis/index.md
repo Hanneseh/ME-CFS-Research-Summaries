@@ -1,8 +1,8 @@
 ---
 title: Immunoadsorption & Apheresis
 description: A living thread tracking immunoadsorption, H.E.L.P. apheresis, and other extracorporeal blood-filtration therapies for ME/CFS and Long COVID.
-date: 2026-07-10
-last_updated: 2026-07-10
+date: 2026-08-11
+last_updated: 2026-08-11
 thread_status: active
 evidence_level: early clinical observation
 primary_topics:
@@ -28,7 +28,7 @@ Immunoadsorption and extracorporeal apheresis are blood-filtration therapies inv
 
 Clinical interest has been driven by preliminary open-label observational studies showing significant physical and functional improvements in small patient cohorts. Specifically, pilot data suggest that H.E.L.P. apheresis may improve capillary perfusion and resolve symptoms like fatigue and cognitive dysfunction in Long COVID, while open-label immunoadsorption has demonstrated temporary physical and functional improvement in a subset of patients with post-infectious ME/CFS who exhibit elevated autoantibodies targeting G-protein-coupled receptors (GPCRs).
 
-However, the therapeutic value of these procedures is highly uncertain. A 2026 randomized, sham-controlled crossover trial of immunoadsorption in Post-COVID syndrome found no significant benefit over sham treatment despite successfully clearing GPCR autoantibodies. This critical finding indicates that prior positive results in open-label settings may have been driven by placebo or contextual effects, highlighting the necessity of randomized controlled trials (RCTs) to establish the safety, efficacy, and clinical utility of these invasive and resource-intensive therapies. Literature reviews also suggest that broad, unselected cohorts in prior clinical trials may have masked therapeutic efficacy, arguing for biomarker-guided patient stratification and a shift toward selective 'precision apheresis' column technologies designed to target specific pathological factors while minimizing adverse effects.
+However, the therapeutic value of these procedures is highly uncertain. Multiple 2026 investigations—including the randomized sham-controlled IAMPOCO trial of immunoadsorption, a sham-controlled pilot of gravity-driven plasmapheresis, and prospective studies tracking objective functional endpoints—found no benefit over sham on their measured outcomes or no measurable functional improvement from baseline. These results show that biomarker clearance does not necessarily translate into recovery; improvements in earlier uncontrolled studies cannot be attributed to the procedure and are consistent with placebo, contextual effects, or natural fluctuation. Small trials have therefore not demonstrated clinical benefit in unselected post-COVID cohorts, but they do not prove that no biomarker-defined subgroup could respond. Whether patient stratification or selective "precision apheresis" column technologies can identify such a subgroup remains an open question requiring controlled validation.
 
 ## Why This Matters
 
@@ -36,10 +36,10 @@ These extracorporeal therapies target hypothesized vascular and autoimmune patho
 
 ## State of Evidence
 
-- **Established:** Extracorporeal apheresis and immunoadsorption techniques can successfully deplete targeted substances—such as fibrinogen, inflammatory cytokines, LDL, and IgG autoantibodies—from circulation during the procedure.
+- **Established:** Extracorporeal apheresis and immunoadsorption techniques can successfully deplete targeted substances—such as fibrinogen, inflammatory cytokines, LDL, and IgG autoantibodies—from circulation during the procedure, though autoantibody titers typically rebound to baseline within 3–6 months.
 - **Plausible but early:** Heparin-mediated extracorporeal LDL precipitation (H.E.L.P.) apheresis may resolve severe fatigue, cognitive dysfunction, and perfusion deficits by clearing microclots and improving microcirculation; repeat immunoadsorption (RIA) may temporarily improve physical and functional capacity in a subset of post-COVID ME/CFS patients who have elevated autoantibodies against the ß2-adrenergic receptor.
-- **Not established:** True clinical efficacy of immunoadsorption (differentiating active treatment from sham/placebo effects) in post-COVID or ME/CFS cohorts, as the first sham-controlled crossover trial found no significant symptom reduction; the durability of symptom improvements beyond 3–6 months.
-- **Key limitations:** A randomized, sham-controlled crossover trial demonstrated no clinical benefit for immunoadsorption over sham treatment; positive clinical reports are mostly limited to small, uncontrolled observational studies susceptible to placebo and contextual effects; both procedures are highly invasive, resource-intensive, and carry risks such as catheter-associated jugular vein thrombosis; autoantibodies re-accumulate within months, causing symptoms to recur; clinical trials have historically evaluated unselected patient populations without biomarker-guided stratification, which may mask efficacy within specific immunological subgroups; protocols and patient selection criteria for newer 'precision apheresis' column technologies remain under active investigation.
+- **Not established:** True clinical efficacy of immunoadsorption or therapeutic plasma exchange (differentiating active treatment from sham/placebo effects) in post-COVID or ME/CFS cohorts, as multiple 2026 studies—including randomized sham-controlled trials and prospective studies tracking objective functional endpoints (such as 6-minute walk distance, grip strength, spirometry, and wearable step counts)—demonstrate no therapeutic superiority over sham treatment or measurable functional improvement.
+- **Key limitations:** Randomized sham-controlled trials in Long COVID demonstrate substantial within-group symptom improvements in placebo arms, so improvements in open-label apheresis case series cannot by themselves establish treatment efficacy; procedures are highly invasive and resource-intensive, frequently requiring central venous catheterization (in up to 94% of participants) with attendant risks of jugular vein thrombosis and transient profound hypogammaglobulinemia (IgG <3 g/L); severe and bedbound patients have been systematically excluded from recent trials; clinical trials have historically evaluated unselected patient populations without biomarker-guided stratification, which may mask efficacy within specific immunological subgroups; protocols and patient selection criteria for newer 'precision apheresis' column technologies remain under active investigation.
 
 ## Timeline
 
@@ -91,3 +91,19 @@ A guest editorial review in *Transfusion and Apheresis Science* described the on
 Sources:
 
 - [Guest Editorial 2026, Transfusion and Apheresis Science](https://www.sciencedirect.com/science/article/pii/S1473050226001126)
+
+### 2026-08-05 - Randomized sham-controlled plasmapheresis pilot in Suriname finds no benefit over placebo
+
+A double-blind, randomized, sham-controlled pilot trial evaluated therapeutic plasma exchange using a gravity-driven crossflow microfiltration system (HemoClear) in 18 adult outpatients with Long COVID in Suriname: 11 received active plasma filtration and 7 received a sham blood-draw-and-reinfusion procedure. Participants underwent five sessions, with primary outcomes assessed at 90 days. Both groups exhibited substantial, near-identical reductions in fatigue (Chalder Fatigue Scale scores improving from 20 to 10 in active treatment versus 22 to 12 in placebo; p = 0.8770); 9 of 11 active-treatment participants and 5 of 7 sham participants met the clinical responder criterion (>30% fatigue reduction). Secondary functional instruments (SF-36 and Fatigue Assessment Scale) showed concordant null between-group findings, so the marked symptomatic improvements cannot be attributed to plasma clearance and are consistent with non-specific or placebo effects. The study was constrained by early termination due to slow recruitment, an unstratified cohort lacking biological marker enrichment, and the explicit exclusion of bedridden or severe ME/CFS patients. Furthermore, the report was published on F1000Research, where articles appear before formal peer review completes, leaving peer-review status unrecorded.
+
+Sources:
+
+- [Bihariesingh-Sanchit et al. 2026, F1000Research](https://doi.org/10.12688/f1000research.186744.1)
+
+### 2026-08-11 - Rostock study finds autoantibody clearance without objective functional improvement in post-COVID patients
+
+A prospective exploratory study evaluated five consecutive immunoadsorption sessions using Miltenyi Biotec columns in 18 adult post-COVID syndrome patients selected for elevated autoantibodies against adrenergic and muscarinic receptors. The procedure achieved profound immediate depletion of total IgG (<3 g/L) and targeted G-protein-coupled receptor (GPCR) autoantibodies, but antibody titers returned to baseline within 3 to 6 months. Crucially, objective functional performance endpoints—including 6-minute walk test distance, handgrip dynamometry, spirometry, and continuous smartwatch daily step counts—showed no statistically significant improvement at any follow-up point, even at the autoantibody nadir. While patients reported slight descriptive reductions in subjective fatigue and pain diaries, correlation analyses confirmed that autoantibody reduction was decoupled from symptomatic change. These findings directly converge with the sham-controlled IAMPOCO trial results, demonstrating that clearing circulating autoantibodies does not translate into measurable functional recovery in unstratified post-COVID cohorts. The study carried substantial procedural burden and safety signals, requiring central venous catheterization in 17 of 18 participants and causing transient profound hypogammaglobulinemia. Limitations include the small open-label sample size without a parallel sham arm, recruitment based on WHO post-COVID criteria rather than formal ME/CFS consensus definitions, and the exclusion of severely ill, bedbound patients.
+
+Sources:
+
+- [Wossidlo et al. 2026, Infection](https://doi.org/10.1007/s15010-026-02914-8)

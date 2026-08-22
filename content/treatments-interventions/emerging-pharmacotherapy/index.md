@@ -1,8 +1,8 @@
 ---
 title: Emerging Pharmacotherapy
 description: Clinical trials, pilot studies, and case reports of repurposed drugs, supplements, and experimental therapies for ME/CFS and Long COVID.
-date: 2026-07-28
-last_updated: 2026-07-28
+date: 2026-08-14
+last_updated: 2026-08-14
 thread_status: active
 evidence_level: early clinical trials and pilot studies
 primary_topics:
@@ -21,6 +21,8 @@ primary_topics:
   - Cognitive Rehabilitation
   - PsyLoCo (Psychotherapeutic Group Intervention)
   - Cyclobenzaprine (Tonmya)
+  - Repurposed Metabolic Compounds (Pioglitazone, Tideglusib, MHY1485)
+  - Intermittent Hypoxia-Hyperoxia Treatment (IHHT)
 cssclasses:
   - thread-page
 ---
@@ -65,6 +67,8 @@ Systematic research into these agents offers objective measures of efficacy to c
   - Long-term safety and tolerability of continuous high-dose protocols (e.g., cromolyn sodium or oxaloacetate) beyond several months.
   - Definitive clinical efficacy of donepezil, Tuina therapy, or mind-body retraining in large-scale, pre-registered, placebo-controlled trials.
   - Efficacy of psychotherapeutic group interventions (including psychoeducation, somatic symptom processing, and emotional regulation) for reducing core physical symptom burden in Post-COVID-19 condition; the PsyLoCo RCT found no significant superiority over treatment as usual.
+  - Clinical efficacy, safety, or validated dosing of computationally nominated repurposing candidates (e.g., pioglitazone, tideglusib, MHY1485) from transcriptomic signature screens in ME/CFS, which remain preclinical in silico and in vitro hypotheses without human trial evidence.
+  - Clinical efficacy of intermittent hypoxia-hyperoxia treatment (IHHT) in ME/CFS; published trial protocols (e.g., REenergizeME) record study methodology and investigational intent rather than clinical outcomes.
   - Long-term safety, optimal dosing, and durability of donepezil, Tuina therapy, or cognitive rehabilitation programs.
 - **Key limitations:**
   - Small sample sizes in pilot studies (e.g., 20 patients for pyridostigmine hand grip, 10 patients for ketamine crossover, 5 patients for amifampridine and cromolyn series) limit statistical power and generalizability.
@@ -286,6 +290,14 @@ Sources:
 
 - [Cognitive Rehabilitation and Functional Outcomes in Long COVID–Related Cognitive Impairment: A Randomized Clinical Trial (JAMA Network Open 2026)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2851024)
 
+### 2026-07-04 - Transcriptomic signature screen nominates four metabolism-targeting compounds for ME/CFS
+
+A bioinformatics and in vitro drug-repurposing study published as a preprint on Research Square by Dehlia et al. re-analyzed two independent public transcriptomic datasets (GSE14577 and GSE227375) to identify therapeutic candidates targeting metabolic dysfunction in ME/CFS cohorts. By extracting a consensus 46-gene expression signature reflecting disruptions in cytokine signaling, immune pathways, lipid and nucleotide metabolism, and cellular redox balance, the authors queried the Connectivity Map (CMap) L1000 database to prioritize perturbagens predicted to reverse the ME/CFS gene expression profile. This computational screen nominated four repurposed compounds: the PPAR-gamma agonists pioglitazone and rosiglitazone, the GSK-3beta inhibitor tideglusib, and the mTOR pathway activator MHY1485. In vitro validation in mouse C2C12 skeletal muscle myoblasts demonstrated that pioglitazone, tideglusib, and MHY1485 significantly increased mitochondrial membrane potential in TMRM and JC-1 assays, providing preclinical support for their capacity to counteract cellular metabolic suppression. However, as an unreviewed preprint, the findings are based solely on in silico re-analysis and mouse muscle cell-line assays rather than patient-derived primary cells or validated animal models of ME/CFS. The underlying transcriptomic cohorts did not report severe or bedbound patient representation, and these potent pharmacological agents have no human clinical trial evidence, validated dosing, or established safety profiles in ME/CFS, precluding off-label use.
+
+Sources:
+
+- [Dehlia et al. 2026, Research Square preprint](https://doi.org/10.21203/rs.3.rs-10076074/v1)
+
 ### 2026-07-05 - Feasibility study evaluates telehealth-delivered ketogenic metabolic therapy for post-viral illness
 
 A cross-sectional survey evaluating a fully remote telehealth program that combined ketogenic metabolic therapy, thiamine supplementation, circadian entrainment, and mindfulness coaching in 41 international patients with post-viral illness (including Long COVID) reported high acceptability and perceived benefits. Upon program completion, 96% of participants reported the multicomponent intervention was helpful, and 75% felt 'a lot better'. However, the evidence level is limited, as the study relied entirely on a small, self-reported survey design without a control or placebo group. Furthermore, the multicomponent nature of the program prevents isolating the therapeutic efficacy of ketogenic therapy or thiamine from lifestyle changes, mindfulness, or natural recovery.
@@ -318,6 +330,14 @@ Sources:
 
 - [Efficacy of a psychotherapeutic group intervention for patients with Post-COVID-19 condition: a randomized controlled trial (PsyLoCo study) (PubMed 2026)](https://pubmed.ncbi.nlm.nih.gov/42487142/)
 
+### 2026-08-14 - REenergizeME protocol published for a sham-controlled trial of intermittent hypoxia-hyperoxia treatment
+
+A clinical trial protocol published in *BMJ Open* by Nochi et al. outlines the design of the REenergizeME study, a prospective, randomized, double-blind, sham-controlled trial (NCT07317401) evaluating intermittent hypoxia-hyperoxia treatment (IHHT) in ME/CFS. The trial investigates whether 8 weeks of IHHT—which repeatedly cycles brief intervals of normobaric hypoxia (10–14% O2) and hyperoxia (30–36% O2) to activate hypoxia-inducible factor (HIF) and cellular redox adaptations—can improve mitochondrial bioenergetics and microvascular oxygen extraction. The protocol plans to enroll 104 female participants aged 20–59 meeting the 2011 International Consensus Criteria (ICC), randomizing patients to active IHHT or sham gas and comparing them with a separate, non-randomized healthy-control group. The primary outcome is health-related quality of life measured by the SF-36 vitality subscale, alongside multi-system secondary assessments including near-infrared spectroscopy (NIRS) tissue oxygenation, skin biopsy intraepidermal nerve fiber density, corneal confocal microscopy, and autonomic testing over 12 months of follow-up. As a trial protocol, this publication outlines study methodology and mechanistic rationale only and does not report clinical efficacy, tolerability, or safety results. Severely affected and bedbound individuals are explicitly excluded due to the requirement for frequent in-clinic visits over eight weeks, and hypoxic gas challenges carry a theoretical risk of provoking post-exertional malaise in susceptible patients while posing practical challenges for maintaining effective sham blinding.
+
+Sources:
+
+- [Nochi et al. 2026, BMJ Open](https://doi.org/10.1136/bmjopen-2026-117729)
+
 ## Open Questions
 
 - **What are the optimal patient stratification criteria?** Given the heterogeneity of ME/CFS and Long COVID, identifying specific clinical phenotypes (such as preload failure, mitochondrial dysfunction, or MCAS) is crucial to match patients with the most appropriate pharmacotherapeutic mechanism.
@@ -330,5 +350,7 @@ Sources:
 - [Low-Dose Naltrexone (LDN)](../low-dose-naltrexone/)
 - [Rapamycin & mTOR Inhibition](../rapamycin-mtor/)
 - [Antivirals & Monoclonal Antibodies](../antivirals-monoclonals/)
+- [Mitochondrial & Metabolic Dysfunction](../../disease-models-mechanisms/mitochondrial-metabolic-dysfunction/)
 - [Neuroinflammation & Brain Changes](../../disease-models-mechanisms/neuroinflammation-brain-changes/)
 - [Viral Persistence & Reactivation](../../disease-models-mechanisms/viral-persistence-reactivation/)
+- [Small-Fiber Neuropathy](../../diagnostics-symptoms-care/small-fiber-neuropathy/)

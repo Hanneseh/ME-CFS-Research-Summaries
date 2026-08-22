@@ -31,8 +31,8 @@ The identification of structural capillary alterations and circulating microclot
 
 - **Established:** ME/CFS and Long COVID research continues to show reproducible signs of vascular dysregulation, including impaired perfusion, endothelial stress, abnormal clotting biology, and links between these changes and symptom burden.
 - **Plausible but early:** Multi-scale approaches are gaining traction, with nailfold capillaroscopy, orthostatic cerebral flow measurements, extracellular-vesicle cargo, endothelial-platelet transcriptomic programs, thromboelastography, necroptosis-mediated endothelial injury, and interstitial matrix models all pointing toward thrombo-inflammatory perfusion problems. These signals are mechanistically coherent, but they are not yet standardized enough for routine use.
-- **Not established:** It remains unclear whether microclots, endothelial injury, and platelet activation are primary disease drivers, downstream consequences, or only one branch of a broader multi-system process. TEG-guided management, anticoagulant strategies, and other clot-targeting interventions do not yet have robust controlled evidence in these populations.
-- **Key limitations:** Several important additions are conference-stage findings, small female-only biomarker cohorts, or review-level syntheses. Assay standardization remains a major barrier, especially for microclot detection and real-time coagulation profiling.
+- **Not established:** It remains unclear whether microclots, endothelial injury, and platelet activation are primary disease drivers, downstream consequences, or only one branch of a broader multi-system process. TEG-guided management, anticoagulant strategies, and other clot-targeting interventions do not yet have robust controlled evidence in these populations. Static retinal microvascular metrics (such as OCTA vessel density and foveolar avascular zone) have not separated post-COVID patients from recovered controls, in contrast to dynamic functional retinal vessel analysis.
+- **Key limitations:** Several important additions are conference-stage findings, small female-only biomarker cohorts, or review-level syntheses. Assay standardization remains a major barrier, especially for microclot detection, real-time coagulation profiling, and thromboelastography-based assessment across different laboratories.
 
 ## Timeline
 
@@ -126,11 +126,19 @@ Sources:
 
 ### 2026-06-11 - Longitudinal multi-omics ties acute immunothrombosis to persistent endothelial-platelet activation in Long COVID
 
-Ansone and colleagues followed 81 hospitalized COVID-19 patients from the acute phase into recovery and compared those who later developed Long COVID with those who recovered. Acute illness showed the expected immunothrombotic pattern, including complement activation, neutrophil and NET-related programs, platelet activation, mitochondrial metabolic stress, and renal tubular injury. What makes the study important for this thread is that at 3 months, the Long COVID group still showed a distinct blood signature consistent with endothelial-associated and platelet activation, including elevated VWF and PROS1 transcripts alongside inflammatory and tissue-remodeling signals. That supports the idea that acute thrombo-inflammatory injury can leave a durable vascular imprint rather than resolving cleanly once infection clears. The study still reflects a hospitalized severe-COVID population, so it should not be assumed to map directly onto every ME/CFS or community Long COVID cohort.
+Ansone and colleagues followed 81 hospitalized COVID-19 patients from the acute phase into recovery and compared those who later developed Long COVID with those who recovered. Acute illness showed the expected immunothrombotic pattern, including complement activation, neutrophil and NET-related programs, platelet activation, mitochondrial metabolic stress, and renal tubular injury. At 3 months, the Long COVID group still showed a distinct blood signature consistent with endothelial-associated and platelet activation, including elevated VWF and PROS1 transcripts alongside inflammatory and tissue-remodeling signals. That supports the idea that acute thrombo-inflammatory injury can leave a durable vascular imprint rather than resolving cleanly once infection clears. The study still reflects a hospitalized severe-COVID population, so it should not be assumed to map directly onto every ME/CFS or community Long COVID cohort.
 
 Sources:
 
 - [Ansone et al. 2026, iScience](https://www.sciencedirect.com/science/article/pii/S2589004226017013)
+
+### 2026-06-11 - Review proposes thromboelastography for dynamic microclot and hypofibrinolysis profiling
+
+A narrative review in *Blood Coagulation & Fibrinolysis* synthesized the clinical and mechanistic utility of thromboelastography (TEG) for dynamic profiling of fibrinoid microclots and hypofibrinolysis across ME/CFS and Long COVID. The authors highlight a recurrent viscoelastic profile marked by increased clot strength (elevated maximum amplitude) and delayed clot lysis (reduced LY30), which captures functional hypercoagulability missed by standard static coagulation panels such as PT/INR, aPTT, or D-dimer. The paper evaluates how dynamic viscoelastic monitoring might guide precision interventions, including antiplatelet agents, direct oral anticoagulants such as apixaban, and enzymatic fibrinolytics like lumbrokinase or nattokinase. However, the review presents no new empirical patient cohort data or pooled effect sizes, and viscoelastic testing remains vulnerable to pre-analytical handling artifacts without harmonized inter-laboratory reference standards. Crucially, TEG-guided anticoagulant and fibrinolytic regimens lack randomized controlled trial validation and carry substantial bleeding risks, meaning dynamic profiling cannot yet serve as an established clinical management tool.
+
+Sources:
+
+- [Saleem et al. 2026, Blood Coagulation & Fibrinolysis](https://doi.org/10.1097/MBC.0000000000001439)
 
 ### 2026-07-25 - Necroptosis and cellular stress pathways linked to endothelial and immune dysfunction in Long COVID
 
@@ -139,6 +147,14 @@ A peer-reviewed study in the Journal of Allergy and Clinical Immunology identifi
 Sources:
 
 - [Journal of Allergy and Clinical Immunology (2026)](https://www.sciencedirect.com/science/article/pii/S0091674926004963)
+
+### 2026-07-25 - Retinal imaging finds neuro-retinal thinning but no static microvascular difference in post-COVID syndrome
+
+A cross-sectional observational study in *Brain, Behavior, & Immunity - Health* investigated neuro-retinal structure and microvascular perfusion in Post-COVID-19 Syndrome (PCS) compared to recovered controls using optical coherence tomography (OCT) and OCT angiography (OCTA). Structural imaging revealed significant neuro-retinal layer thinning—specifically of the peripapillary retinal nerve fibre layer, ganglion cell inner plexiform layer, and total macular volume—which correlated with overall symptom burden and elevated circulating MCP-1. In contrast, static microvascular parameters yielded an explicit null finding: OCTA vessel density and foveolar avascular zone showed no significant differences between PCS patients and controls after adjusting for age and sex, and did not correlate with symptoms. This static null result provides a critical point of contrast with the dynamic functional retinal vessel analysis reported in the January 2026 Wallraven et al. preprint, suggesting that post-viral microvascular impairment may be more detectable under dynamic stimulation than in baseline capillary metrics. Key limitations include a monocentric cross-sectional design without longitudinal follow-up, lack of sub-stratification by CCC/ICC ME/CFS criteria, and reliance on specialized in-clinic imaging that excluded severely ill, bedbound patients.
+
+Sources:
+
+- [Wunderle et al. 2026, Brain, Behavior, & Immunity - Health](https://doi.org/10.1016/j.bbih.2026.101315)
 
 ### 2026-08-01 - Hypothesis paper proposes dual microvascular–interstitial model for peripheral Long COVID symptoms
 
