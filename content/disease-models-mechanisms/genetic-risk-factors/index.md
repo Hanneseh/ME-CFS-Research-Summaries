@@ -1,8 +1,8 @@
 ---
 title: Genetic Risk Factors
 description: A living thread on GWAS, whole-genome sequencing, Mendelian randomization, genetic correlations, rare monogenic variation, combinatorial genetic analysis, and gene-prioritization studies in ME/CFS.
-date: 2026-08-01
-last_updated: 2026-08-01
+date: 2026-08-27
+last_updated: 2026-08-27
 thread_status: active
 evidence_level: early replication, landmark GWAS published
 primary_topics:
@@ -137,6 +137,22 @@ An exploratory exome-wide machine learning study published in Frontiers in Medic
 Sources:
 
 - [Frontiers in Medicine 2026](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1837186/full)
+
+### 2026-08-22 - PBMC methylation profiles distinguish ME/CFS from fibromyalgia in an all-women cohort
+
+Polli et al. performed a cross-sectional epigenome-wide study of 188 women (71 with ME/CFS, 44 with fibromyalgia, and 73 healthy controls) using PBMC methylation arrays. One principal-component axis distinguished ME/CFS from fibromyalgia and controls and correlated with PEM and cognitive symptoms; another tracked broader symptom burden, pain, and sleep disruption. Region-level signals implicated neuroimmune and metabolic pathways, but methylation changes cannot establish cause or provide a clinical diagnostic test. The center-based cohort did not report a dedicated severe/bedbound subgroup; blood sampling was less exertional than CPET, but travel and venipuncture remained burdensome, and no treatment or PEM provocation was performed.
+
+Sources:
+
+- [Polli et al. 2026, Journal of Translational Medicine](https://doi.org/10.1186/s12967-026-08824-5)
+
+### 2026-08-27 - GEM meta-GWAS expands common-variant ME/CFS risk signals, with phenotype caveats
+
+Martin Broberg presented Abstract #185 for the Genetic Epidemiology of ME/CFS (GEM) consortium in the Biomedical Track at the inaugural ISLC-PAIS conference in Amsterdam on 27 August 2026. The multi-cohort meta-GWAS combined 46,450 cases and 2,461,268 controls across 20 biobanks and reported 10 genome-wide significant loci, including six novel signals, more than 30 suggestive associations, and a lead signal on chromosome 20; several mapped near immune- and brain-related genes. This is preliminary conference evidence: broad ICD/self-report definitions were combined with clinical criteria, so PEM was not uniformly verified and the title's 12-locus count differs from the reported 10 robust loci. Severe and bedbound representation was not reported and biobank participation generally requires in-person sampling. Genetic associations are not diagnostic tests or treatment targets.
+
+Sources:
+
+- [ISLC-PAIS 2026 Thursday program, Abstract #185 (the most specific official URL currently available)](https://islc-pais.org/conference-program-thursday/)
 
 ## Open Questions
 

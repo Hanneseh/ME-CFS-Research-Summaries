@@ -1,8 +1,8 @@
 ---
 title: Emerging Pharmacotherapy
 description: Clinical trials, pilot studies, and case reports of repurposed drugs, supplements, and experimental therapies for ME/CFS and Long COVID.
-date: 2026-08-14
-last_updated: 2026-08-14
+date: 2026-09-09
+last_updated: 2026-09-09
 thread_status: active
 evidence_level: early clinical trials and pilot studies
 primary_topics:
@@ -31,7 +31,7 @@ cssclasses:
 
 Clinical management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID currently relies on the off-label repurposing of drugs and supplements targeting suspected pathological mechanisms. Key areas of investigation focus on resolving autonomic dysfunction (preload failure), restoring mitochondrial bioenergetics, correcting chronic neuroinflammation, and clearing persistent post-viral reservoirs. A growing body of clinical trial protocols, randomized pilot studies, and case reports tracks these interventions to identify promising signals that warrant larger-scale replication.
 
-Recent clinical studies have evaluated several new interventions, including the acetylcholinesterase inhibitor donepezil for fatigue and depression in a subgroup of Post-Acute Sequelae of COVID-19 (PASC) patients with HHV-6B SITH-1-induced acetylcholine deficiency, telehealth-delivered cognitive rehabilitation for goal attainment, and physical/behavioral modalities like Tuina massage and mind-body retraining. A major safety signal emerged from the PoCoWiT randomized controlled trial, which tested high-dose oral methylprednisolone for post-COVID cognitive dysfunction; the trial was terminated early due to a cluster of serious adverse events—including pulmonary embolism, deep vein thrombosis, and serious infections—along with a complete lack of efficacy. Meanwhile, the PsyLoCo randomized waitlist-controlled trial (n=48) found that standardized psychotherapeutic group sessions did not significantly reduce somatic symptom burden, depression, or anxiety in Post-COVID-19 condition compared to treatment as usual, reinforcing that physical post-viral symptoms require biological rather than purely psychological management approaches.
+Recent clinical studies have evaluated several new interventions, including the acetylcholinesterase inhibitor donepezil for fatigue and depression in a subgroup of Post-Acute Sequelae of COVID-19 (PASC) patients with HHV-6B SITH-1-induced acetylcholine deficiency, telehealth-delivered cognitive rehabilitation for goal attainment, and physical/behavioral modalities like Tuina massage and mind-body retraining. A major safety signal emerged from the PoCoWiT randomized controlled trial, which tested high-dose oral methylprednisolone for post-COVID cognitive dysfunction; the trial was terminated early due to a cluster of serious adverse events—including pulmonary embolism, deep vein thrombosis, and serious infections—along with a complete lack of efficacy. Meanwhile, the PsyLoCo randomized waitlist-controlled trial (n=48) found that standardized psychotherapeutic group sessions did not significantly reduce somatic symptom burden, depression, or anxiety in Post-COVID-19 condition compared to treatment as usual. A 15-patient retrospective conference abstract on off-label esketamine adds only an exploratory neuropsychiatric Long-COVID signal and cannot establish efficacy.
 
 Although these trials and mechanistic concepts offer biological rationales, the evidence base remains early and preliminary. Many studies are small, open-label, or lack randomized control groups, which limits statistical power and increases the risk of bias. Consequently, no pharmacological or behavioral intervention has achieved regulatory approval or demonstrated definitive, disease-modifying efficacy in large-scale, placebo-controlled settings, leaving substantial uncertainty regarding long-term safety, optimal dosing, and generalizability across heterogeneous patient cohorts.
 
@@ -69,6 +69,7 @@ Systematic research into these agents offers objective measures of efficacy to c
   - Efficacy of psychotherapeutic group interventions (including psychoeducation, somatic symptom processing, and emotional regulation) for reducing core physical symptom burden in Post-COVID-19 condition; the PsyLoCo RCT found no significant superiority over treatment as usual.
   - Clinical efficacy, safety, or validated dosing of computationally nominated repurposing candidates (e.g., pioglitazone, tideglusib, MHY1485) from transcriptomic signature screens in ME/CFS, which remain preclinical in silico and in vitro hypotheses without human trial evidence.
   - Clinical efficacy of intermittent hypoxia-hyperoxia treatment (IHHT) in ME/CFS; published trial protocols (e.g., REenergizeME) record study methodology and investigational intent rather than clinical outcomes.
+  - Clinical efficacy of esketamine in neuropsychiatric Long COVID; current evidence is limited to a 15-patient uncontrolled retrospective conference abstract without blinding, a comparator, or reported baseline functional severity.
   - Long-term safety, optimal dosing, and durability of donepezil, Tuina therapy, or cognitive rehabilitation programs.
 - **Key limitations:**
   - Small sample sizes in pilot studies (e.g., 20 patients for pyridostigmine hand grip, 10 patients for ketamine crossover, 5 patients for amifampridine and cromolyn series) limit statistical power and generalizability.
@@ -330,6 +331,14 @@ Sources:
 
 - [Efficacy of a psychotherapeutic group intervention for patients with Post-COVID-19 condition: a randomized controlled trial (PsyLoCo study) (PubMed 2026)](https://pubmed.ncbi.nlm.nih.gov/42487142/)
 
+### 2026-08-13 - Narrative hypothesis proposes an eight-agent nutraceutical research pathway for PEM
+
+Praet's narrative review proposes three interacting hypotheses for Long COVID-associated PEM and brain fog: mitochondrial bioenergetic failure, Nrf2-thioredoxin redox imbalance, and mPGES-1/PGE2 neurovascular inflammation. It groups eight candidate nutraceuticals into bioenergetic (CoQ10, alpha-lipoic acid), redox (selenium, sulforaphane, resveratrol), and prostaglandin/resolution (Boswellia, luteolin, EPA) modules, but explicitly grades direct evidence for the complete combination as absent/very low certainty. No patients were recruited; severe or bedbound inclusion was not reported, and the proposed regimen would impose substantial pill, monitoring, and interaction burden. The review also flags cumulative bleeding and atrial-fibrillation risks with high-dose EPA/antiplatelet compounds, selenium toxicity, ALA-related hypoglycemia, and PEM hazards from exertion testing. It proposes Phase 0/1 formulation and pharmacokinetic work, not a treatment protocol.
+
+Sources:
+
+- [Praet 2026, Nutrients](https://doi.org/10.3390/nu18162650)
+
 ### 2026-08-14 - REenergizeME protocol published for a sham-controlled trial of intermittent hypoxia-hyperoxia treatment
 
 A clinical trial protocol published in *BMJ Open* by Nochi et al. outlines the design of the REenergizeME study, a prospective, randomized, double-blind, sham-controlled trial (NCT07317401) evaluating intermittent hypoxia-hyperoxia treatment (IHHT) in ME/CFS. The trial investigates whether 8 weeks of IHHT—which repeatedly cycles brief intervals of normobaric hypoxia (10–14% O2) and hyperoxia (30–36% O2) to activate hypoxia-inducible factor (HIF) and cellular redox adaptations—can improve mitochondrial bioenergetics and microvascular oxygen extraction. The protocol plans to enroll 104 female participants aged 20–59 meeting the 2011 International Consensus Criteria (ICC), randomizing patients to active IHHT or sham gas and comparing them with a separate, non-randomized healthy-control group. The primary outcome is health-related quality of life measured by the SF-36 vitality subscale, alongside multi-system secondary assessments including near-infrared spectroscopy (NIRS) tissue oxygenation, skin biopsy intraepidermal nerve fiber density, corneal confocal microscopy, and autonomic testing over 12 months of follow-up. As a trial protocol, this publication outlines study methodology and mechanistic rationale only and does not report clinical efficacy, tolerability, or safety results. Severely affected and bedbound individuals are explicitly excluded due to the requirement for frequent in-clinic visits over eight weeks, and hypoxic gas challenges carry a theoretical risk of provoking post-exertional malaise in susceptible patients while posing practical challenges for maintaining effective sham blinding.
@@ -337,6 +346,22 @@ A clinical trial protocol published in *BMJ Open* by Nochi et al. outlines the d
 Sources:
 
 - [Nochi et al. 2026, BMJ Open](https://doi.org/10.1136/bmjopen-2026-117729)
+
+### 2026-08-19 - Narrative micronutrition review separates mitochondrial plausibility from clinical efficacy
+
+Abanades et al. review NAD+ precursors, B vitamins, magnesium, CoQ10, alpha-lipoic acid, GlyNAC, L-carnitine, PQQ, taurine, and creatine as possible approaches to mitochondrial and redox dysfunction in ME/CFS and fibromyalgia. This is a non-systematic narrative review with no new patient cohort; the proposed future RCT is in fatigued fibromyalgia, not completed ME/CFS evidence. Oral dosing may avoid exertion, but pill burden, gastrointestinal effects, interactions, cost, and monitoring remain relevant, and severe/bedbound trial representation was not established. Mechanistic plausibility does not support self-directed supplementation or mega-dosing.
+
+Sources:
+
+- [Abanades et al. 2026, Nutrients](https://pubmed.ncbi.nlm.nih.gov/42654282/)
+
+### 2026-09-09 - Retrospective series reports off-label esketamine use as a step-4 escalation strategy in neuropsychiatric Long COVID
+
+A conference abstract by Hartman et al. reported on a retrospective, uncontrolled case series of 15 patients with neuropsychiatric Long COVID treated with off-label esketamine in specialized routine care. Used as a step-4 escalation strategy via intranasal or intravenous administration, the authors described general tolerability alongside multi-domain improvements across fatigue, cognitive dysfunction, affective symptoms, and autonomic hyperreactivity. However, this tiny uncontrolled observational series cannot establish clinical efficacy or distinguish drug effects from placebo response, concurrent care, or the natural course of illness. Whether severe or bedbound patients were included is unknown because baseline functional severity was not reported in the abstract. Both intranasal and intravenous delivery impose significant clinical monitoring burdens—such as sustained observation for hemodynamic fluctuations, dissociation, and psychiatric adverse effects—compounded by substantial safety uncertainties surrounding repeated dosing in post-viral illness. These preliminary findings represent an exploratory escalation signal rather than established evidence, offering no support for routine off-label treatment.
+
+Sources:
+
+- [Hartman et al. 2026, International Journal of Neuropsychopharmacology](https://doi.org/10.1093/ijnp/pyag040.161)
 
 ## Open Questions
 
@@ -352,5 +377,6 @@ Sources:
 - [Antivirals & Monoclonal Antibodies](../antivirals-monoclonals/)
 - [Mitochondrial & Metabolic Dysfunction](../../disease-models-mechanisms/mitochondrial-metabolic-dysfunction/)
 - [Neuroinflammation & Brain Changes](../../disease-models-mechanisms/neuroinflammation-brain-changes/)
+- [Clinical Characterization & Epidemiology](../../diagnostics-symptoms-care/clinical-characterization-epidemiology/)
 - [Viral Persistence & Reactivation](../../disease-models-mechanisms/viral-persistence-reactivation/)
 - [Small-Fiber Neuropathy](../../diagnostics-symptoms-care/small-fiber-neuropathy/)

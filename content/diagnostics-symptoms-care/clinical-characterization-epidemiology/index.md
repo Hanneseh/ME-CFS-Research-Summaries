@@ -1,8 +1,8 @@
 ---
 title: Clinical Characterization & Epidemiology
 description: A living thread on ME/CFS case definitions, clinical guidelines, epidemiology, cohort structure, symptom measurement, research infrastructure, and funding developments for ME/CFS and Long COVID.
-date: 2026-08-16
-last_updated: 2026-08-16
+date: 2026-09-07
+last_updated: 2026-09-07
 thread_status: active
 evidence_level: established clinical consensus with ongoing refinement
 primary_topics:
@@ -20,9 +20,11 @@ cssclasses: [thread-page]
 
 ME/CFS is established as a serious, multi-systemic, biologically grounded illness. Since the 2015 IOM report established a tightened clinical case definition around post-exertional malaise, unrefreshing sleep, and cognitive or orthostatic symptoms, large-scale epidemiology and registry studies have clarified the disease's massive socioeconomic burden and persistent care gaps. In the United States, survey data indicates that 1.5% of adults have received a diagnosis, with the critical caveat that nearly half of those reporting a "past" diagnosis still experience active symptoms and functional impairment. In New Zealand, nationwide registry data documents severe socioeconomic disadvantage, including employment rates under 20% and significant barriers to obtaining disability support services. These challenges are compounded by healthcare fragmentation and "statistical invisibility" due to missing diagnostic codes, as highlighted in service reviews, which obstruct patient tracking and service capacity planning.
 
-Recent large-scale symptom-clustering and factor analysis work has successfully stratified patients into distinct clinical subgroups. Analysis of the UK DecodeME cohort of over 19,000 participants identified high- and low-symptom-burden subgroups, linking infectious onset to higher long-term severity, though without finding genome-wide genetic predictors. Other factor analyses confirm that patient-reported symptoms group into coherent biological dimensions (brain, autonomic, gut-immune), with sex-stratified models revealing that female sex hormones dynamically modulate immune symptoms (such as flu-like complaints in premenopausal women) but not gastrointestinal pathways. Standardized symptom measurement has also advanced with the Rasch-validated TIMES scale, mapping a severe cumulative multi-system burden where cognitive symptoms are ranked as the most troublesome.
+Recent large-scale symptom-clustering and factor analysis work has successfully stratified patients into distinct clinical subgroups. Analysis of the UK DecodeME cohort of over 19,000 participants identified high- and low-symptom-burden subgroups, linking infectious onset to higher long-term severity, though without finding genome-wide genetic predictors. Comparative cohort evidence using a prospectively followed post-mononucleosis arm further indicates that Long COVID functional and symptom burden can fall between operationally defined moderate and severe post-mononucleosis ME/CFS groups, supporting phenotypic overlap across post-viral conditions while distinguishing university-cohort severity labels from bedbound disease. Other factor analyses confirm that patient-reported symptoms group into coherent biological dimensions (brain, autonomic, gut-immune), with sex-stratified models revealing that female sex hormones dynamically modulate immune symptoms (such as flu-like complaints in premenopausal women) but not gastrointestinal pathways. Standardized symptom measurement has also advanced with the Rasch-validated TIMES scale, mapping a severe cumulative multi-system burden where cognitive symptoms are ranked as the most troublesome.
 
 National research and care infrastructure has grown substantially with new large-scale funding and specialized networks. In Europe, the launching of the €7.5 million DISCOVER-ME consortium aims to standardize biobank protocols across 20+ institutions to validate multi-system biomarkers. In Germany, the BMG-funded PEDNET-LC network has established care pathways and a centralized pediatric registry, complementing childhood cohort data showing that pediatric post-COVID symptom persistence correlates stepwise with initial infection severity. However, therapeutic evidence remains preliminary: while pilot updates from the Cohen Center report safety for home-use magnetic therapy and long-term antiviral case series, a major controlled trial of specialized inpatient rehabilitation in Germany showed no significant physical function benefit over standard GP care.
+
+Recent evidence also makes the practical gaps harder to dismiss. Population cohorts show that high-burden Long COVID trajectories and persistent post-COVID symptoms can plateau rather than resolve quickly, while patient-led measurement tools and an international diagnostic consensus are pushing care toward lower-burden, PEM-aware assessment. Surveys document medical and administrative invalidation as structural barriers, and trial-landscape work shows that patient-prioritized treatments and PEM endpoints remain sparsely represented. These developments improve orientation and study design, but they do not amount to validated biomarkers or proven disease-modifying treatments.
 
 ## Why This Matters
 
@@ -33,9 +35,9 @@ Measurement tools directly affect whether clinical trials can detect real change
 ## State of Evidence
 
 - **Established:** ME/CFS meets clinical criteria for a severe, chronic, multi-systemic illness. PEM, unrefreshing sleep, and cognitive or autonomic symptoms anchor all major case definitions. International medical societies and clinical consensus guidelines (IDSA, ERJ) define infection-associated chronic conditions (IACCs) and mandate pacing while contraindicating graded exercise therapy. The massive socioeconomic impact, including extremely low employment and high polypharmacy, is documented at the national registry level. Clinical symptom profiles consistently group into statistically distinct biological factors (brain, gut, immune, autonomic) across large cohorts. Gastrointestinal comorbidity is quantitatively elevated, with meta-analytic data demonstrating a 37% pooled prevalence and a seven-fold increased odds of irritable bowel syndrome (OR 7.20, 95% CI 2.77–18.76) in ME/CFS, though the direction of association remains unresolved.
-- **Plausible but early:** ME/CFS symptom severity can be stratified into distinct high- and low-symptom-burden subgroups linked to infectious triggers. Structural equation modeling demonstrates sex- and menopause-specific latent symptom structures, with female sex hormones dynamically modulating immune (flu-like) symptoms but not gastrointestinal pathways. Large-scale epidemiological surveys show adolescent CFS prevalence correlates with academic stage and physical endurance deficits, while participatory research frameworks (CureME, Deutsche Gesellschaft für ME/CFS) optimize biobanking and trial co-design. In children, post-COVID symptom persistence correlates with initial infection severity.
-- **Not established:** Any single objective biomarker or diagnostic test that reliably identifies ME/CFS across populations. Genome-wide significant genetic variants that differentiate clinical severity subgroups. Electronic health record (EHR) diagnostic billing codes as sensitive or complete metrics for population prevalence, due to widespread diagnostic undercoding and billing delays.
-- **Key limitations:** Multi-country network cohort analyses relying on ICD billing codes in electronic health records undercount ME/CFS and dysautonomia cases due to diagnostic delays and coding stigma. Standard patient-reported outcome measures (PROMs) frequently miss post-exertional malaise and cognitive fluctuations, introducing measurement error into clinical trials. Many large cohort analyses rely on self-reported online surveys, introducing selection biases and lacking objective physiological measures. A growing share of the post-viral characterization literature relies on broad Post-COVID Condition (PASC) or registry cohorts without ME/CFS case definitions or standardized post-exertional malaise measurement, meaning prevalence figures, symptom distributions, and socioeconomic burden estimates from these cohorts do not transfer directly to criteria-defined ME/CFS.
+- **Plausible but early:** ME/CFS symptom severity can be stratified into distinct high- and low-symptom-burden subgroups linked to infectious triggers. Comparative evidence from 55 post-mononucleosis ME/CFS participants and 55 matched people with Long COVID indicates that Long COVID symptom burden fell between operationally defined moderate and severe ME/CFS groups, supporting phenotypic overlap without establishing identical biology or a shared longitudinal baseline. Structural equation modeling demonstrates sex- and menopause-specific latent symptom structures, with female sex hormones dynamically modulating immune (flu-like) symptoms but not gastrointestinal pathways. Large-scale epidemiological surveys show adolescent CFS prevalence correlates with academic stage and physical endurance deficits, while participatory research frameworks (CureME, Deutsche Gesellschaft für ME/CFS) optimize biobanking and trial co-design. In children, post-COVID symptom persistence correlates with initial infection severity. Recent community cohorts further support persistent, high-burden symptom trajectories, while the patient-led CNAME instrument and an international consensus framework offer promising infrastructure for needs assessment and safer diagnostic standardization.
+- **Not established:** Any single objective biomarker or diagnostic test that reliably identifies ME/CFS across populations. Genome-wide significant genetic variants that differentiate clinical severity subgroups. Electronic health record (EHR) diagnostic billing codes as sensitive or complete metrics for population prevalence, due to widespread diagnostic undercoding and billing delays. The new consensus cut-offs and symptom-timing framework remain provisional and require prospective validation against relevant disease controls.
+- **Key limitations:** Multi-country network cohort analyses relying on ICD billing codes in electronic health records undercount ME/CFS and dysautonomia cases due to diagnostic delays and coding stigma. Standard patient-reported outcome measures (PROMs) frequently miss post-exertional malaise and cognitive fluctuations, introducing measurement error into clinical trials. Many large cohort analyses rely on self-reported online surveys, introducing selection biases and lacking objective physiological measures. A growing share of the post-viral characterization literature relies on broad Post-COVID Condition (PASC) or registry cohorts without ME/CFS case definitions or standardized post-exertional malaise measurement, meaning prevalence figures, symptom distributions, and socioeconomic burden estimates from these cohorts do not transfer directly to criteria-defined ME/CFS. The operationalization of severe ME/CFS within university student cohorts does not capture housebound or bedbound patients seen in community cohorts, and clinical phenotypic concordance between distinct viral triggers does not establish identical underlying cellular etiology. Severe and very severe patients remain difficult to represent, even in remote surveys, and conference or preprint findings may change after full peer review.
 
 ## Timeline
 
@@ -199,6 +201,14 @@ Sources:
 
 - [Seltzer et al. 2026, International Journal of Environmental Research and Public Health](https://doi.org/10.3390/ijerph23040460)
 
+### 2026-04-15 - Prospective cohort compares post-mononucleosis ME/CFS with Long COVID
+
+Jason, Furst, and Katz compared 55 young adults who developed ME/CFS following Epstein-Barr virus infectious mononucleosis with 55 matched people who developed Long COVID after SARS-CoV-2 infection, alongside a recovered SARS-CoV-2 comparison group. The mononucleosis arm was enrolled before infection, providing prospective baseline information within that cohort; the matched SARS-CoV-2 comparison sample was recruited after infection, so the between-cohort comparison does not carry the same baseline control. Across standardized measures, the overall symptom and functional burden of individuals with Long COVID fell intermediate between the moderate and severe post-mononucleosis ME/CFS subgroups, supporting marked phenotypic overlap. Crucially, the "severe" ME/CFS subgroup was defined by research criteria applied within an ambulatory college cohort, not by the functional severity categories used for bedbound or non-ambulatory community patients. While the symptom profiles align, distinct viral triggers mean shared clinical phenotypes cannot be assumed to reflect identical cellular or molecular mechanisms. The analysis also relied primarily on self-reported questionnaires in young adults, and its subgroup sizes were modest.
+
+Sources:
+
+- [Jason et al. 2026, Chronic Illness](https://doi.org/10.1177/17423953251347108)
+
 ### 2026-04-29 - Mayo Clinic chart review documents widespread underuse of core ME/CFS pharmacotherapy before specialist contact
 
 A retrospective chart review of 571 adult ME/CFS patients referred to a Mayo Clinic specialty clinic between 2018 and 2022 found that while 68.3 percent had tried at least one medication before their first specialist appointment, most were for secondary symptoms like pain or anxiety. Medications specifically targeting core ME/CFS features—fatigue, brain fog, and orthostatic intolerance—were rarely prescribed at the primary care level; low-dose naltrexone, for example, appeared in very few pre-referral medication lists. More than 72 percent of patients relied on supplements in the absence of targeted pharmacological guidance. The study quantifies what clinical guidelines have described qualitatively: a systematic disconnect between specialist-level care and general practice, where clinicians manage mood and pain but leave the physiological core of the illness unaddressed. The authors argue that education and standardized treatment guides could partially close this gap without waiting for approved disease-modifying therapies.
@@ -254,6 +264,14 @@ An expert consensus paper published in Brain by researchers across leading US in
 Sources:
 
 - [Arnaboldi et al. 2026, Brain (Oxford University Press)](https://doi.org/10.1093/brain/awag016)
+
+### 2026-05-21 - Longitudinal community cohort identifies persistent high-burden Long COVID trajectories
+
+The CHASING COVID national community cohort followed 511 adults with Long COVID at 3, 6, 9, and 12 months and used longitudinal clustering to identify three overall symptom-burden trajectories. The highest-burden trajectory remained multisystemic, commonly including fatigue, concentration problems, PEM, myalgia, sleep symptoms, gastrointestinal complaints, and mobility limitation, with further multisystemic, neuropsychiatric, and physical/respiratory subclusters. Community recruitment avoided imposed exercise and may have reached people outside tertiary clinics, but severe or bedbound inclusion was not specifically reported and the cohort was not a direct ME/CFS sample. Self-report, imputation, and observational clustering limit causal interpretation; the result supports heterogeneity and persistence, not a treatment effect.
+
+Sources:
+
+- [Shen et al. 2026, BMC Infectious Diseases](https://doi.org/10.1186/s12879-026-11252-7)
 
 ### 2026-05-22 - Mechanistic review argues ME/CFS pathology is state-dependent and calls for challenge-based study designs
 
@@ -659,6 +677,14 @@ Sources:
 
 - [Shaanxi secondary school epidemiological study 2026, PubMed](https://pubmed.ncbi.nlm.nih.gov/42519734/)
 
+### 2026-08-04 - Post-COVID ME/CFS shows a different depressive-symptom profile from historical controls
+
+In an exploratory secondary analysis, 17 adults meeting 2015 IOM criteria for post-COVID ME/CFS were compared with 34 age- and sex-matched pre-COVID historical controls with similar total PHQ-9 scores. Depressed mood was lower in the post-COVID group while anhedonia did not differ, suggesting that somatic exhaustion can inflate a composite depression score without establishing primary mood disorder. The questionnaire itself imposed little physical burden and involved no exertion or PEM challenge, but the outpatient hospital recruitment did not report severe or bedbound inclusion. The small, post hoc design, historical controls, and lack of structured psychiatric interviews limit interpretation; this is a caution about symptom measurement and misattribution, not evidence for a treatment.
+
+Sources:
+
+- [Tusconi et al. 2026, Frontiers in Psychiatry](https://doi.org/10.3389/fpsyt.2026.1877162)
+
 ### 2026-08-04 - Registry modelling positions muscle symptoms as a central bridge in ME/CFS symptom architecture
 
 A cross-sectional modeling preprint by Habermann-Horstmeier and Horstmeier on Research Square analyzed 745 patients with ME/CFS from the German APAV-ME/CFS registry. Extending the authors' earlier sex- and menopause-stratified analyses, structural equation modeling identified muscle symptoms—including weakness, myalgia, and fasciculations—as a central bridge linking respiratory, flu-like, and thermoregulatory complaints into a single latent physiological dysregulation factor. Cardiovascular symptoms and visual disturbances further loaded directly onto the muscle-associated construct in reduced physiological models, while factor weightings varied significantly by sex and menopausal status. These statistical findings support the concept that neuromuscular symptoms in ME/CFS reflect integrated systemic neuroimmune and autonomic dysregulation rather than isolated peripheral deconditioning. As a non-peer-reviewed preprint relying on self-reported registry questionnaires without objective muscle biopsies or CPET ergometry, the study is limited by potential recall bias and the underrepresentation of severe, bedbound patients unable to complete digital surveys.
@@ -707,11 +733,108 @@ Sources:
 
 - [ME/CFS Research Foundation Top 100 PAIS Trials Report 2026](https://mecfs-research.org/en/news-top100paistrials/)
 
+### 2026-08-17 - Population cohort finds post-COVID symptom recovery slows into a prolonged plateau
+
+A prospective Dutch population cohort followed 809 adults with post-COVID condition for a mean of 368 days against their pre-infection symptom baselines. Symptoms declined most quickly early on, with a median decline time of 226 days, then improved more slowly; each additional baseline symptom predicted a lower likelihood of recovery (HR 0.69). Community sampling avoided exercise provocation and may have reached a broader functional range, but dedicated severe or bedbound numbers were not reported, and the cohort did not isolate ME/CFS or objectively measure PEM. Because recovery was self-reported return toward pre-infection symptoms, adaptation and reduced activity may make recovery appear better than functional recovery.
+
+Sources:
+
+- [Recovery trajectories in post-COVID-19 condition 2026, The Lancet Regional Health – Europe](https://doi.org/10.1016/j.lanepe.2026.101802)
+
+### 2026-08-21 - Comparative review separates SARS-CoV-2-specific risks from broader post-viral symptoms
+
+Pinto et al. screened 9,371 records, included 22 adult cohort studies, and meta-analysed 14 comparing post-acute SARS-CoV-2 with other respiratory viral infections. Higher post-SARS-CoV-2 risks were found for selected vascular or thromboembolic events, abnormal breathing, fatigue, cognitive impairment, and palpitations, while many other systemic outcomes did not differ clearly. The review used codes and symptom checklists rather than objective exertion testing, so it does not measure PEM or establish exercise safety; severe/bedbound post-acute representation was heterogeneous. The findings support a broader post-acute infection framework while retaining SARS-CoV-2-specific signals, not a treatment recommendation.
+
+Sources:
+
+- [Pinto et al. 2026, International Journal of Infectious Diseases](https://doi.org/10.1016/j.ijid.2026.109056)
+
+### 2026-08-25 - German patient survey links medical invalidation to structural care barriers
+
+Saad and colleagues surveyed 577 adults with ME/CFS, Long COVID, or post-vaccination syndrome in Germany. Eighty-seven percent reported difficulty accessing necessary care, with absent therapies and symptoms being dismissed among the leading barriers; ME/CFS respondents more often reported physician knowledge gaps and travel/accessibility barriers, while welfare authorities and workplaces were rated more invalidating than medical staff. The remote survey imposed no physical exertion, but screen and cognitive burden remained possible and severe or bedbound inclusion was not reported. Cross-sectional self-report and digital recruitment limit causal inference, and the PAIMS umbrella is a study framework rather than an established diagnostic category; no treatment was tested.
+
+Sources:
+
+- [Saad et al. 2026, Scientific Reports](https://doi.org/10.1038/s41598-026-67883-2)
+
+### 2026-08-26 - Patient-led study validates the Clinical Needs Assessment for ME (CNAME)
+
+Tyson and Fleming co-produced and validated the 21-item CNAME with people living with ME/CFS and NHS specialist clinicians using COSMIN-informed methods. The work included an advisory group of 15 patients, a 400-person Great Britain validation survey, and a 124-person revision survey; 18.5% of the main survey respondents were reported as severely or very severely affected, and flexible completion modes and carer support were used to reduce burden. CNAME creates an actionable profile of clinical and practical needs rather than a summated severity score, with no exercise challenge and no treatment validation; even so, very severe participants with screen intolerance remained difficult to include. The open-access tool is available through the ME Association Clinical Assessment Toolkit and Autonom-E app.
+
+Sources:
+
+- [Tyson & Fleming 2026, Health Expectations](https://doi.org/10.1111/hex.70854)
+
+### 2026-08-27 - Scoping review maps stigma and structural vulnerability across ME/CFS care
+
+Vester et al. mapped qualitative, cross-sectional, and health-economic literature on ME/CFS stigma across interpersonal, healthcare, institutional, and structural domains. The review links delegitimization, psychiatric misattribution, and clinician skepticism with delayed diagnosis and barriers to pacing, symptom support, and disability accommodation, with severe and bedbound people described as especially vulnerable to inaccessible care and medical trauma. It imposed no direct patient burden and did not provoke PEM, but the underlying studies were heterogeneous and severe-patient representation was not quantified. Reports of harmful pressure toward graded exercise are contextual evidence about care safety, not a trial of GET or an anti-stigma intervention.
+
+Sources:
+
+- [Vester et al. 2026, Stigma and Health](https://doi.org/10.1037/sah0000714)
+
+### 2026-08-28 - Narrative review consolidates ME/CFS criteria, evidence gaps, and severe-care priorities
+
+Jeyaraman et al. published a broad, non-registered narrative review covering diagnostic criteria, epidemiology, multi-system mechanisms, biomarkers, treatment research, and prognosis in ME/CFS and overlapping Long COVID. It emphasizes PEM as central, documents that clinic-based research systematically misses many housebound or bedbound patients, and calls for decentralized trials and home monitoring; it also reiterates that graded exercise therapy is contraindicated and that proposed biomarkers and treatments remain unvalidated or early-stage. As a review it imposed no patient burden or exertion challenge, but its underlying literature is heterogeneous and the narrative method did not provide systematic risk-of-bias appraisal or meta-analytic estimates. The paper is useful orientation, not new primary evidence or a treatment recommendation.
+
+Sources:
+
+- [Jeyaraman et al. 2026, Journal of Translational Medicine](https://link.springer.com/article/10.1186/s12967-026-08833-4)
+
+### 2026-08-29 - ISLC-PAIS abstract book maps preliminary research signals and PEM-safe methods
+
+The official ISLC-PAIS 2026 abstract book compiles preliminary observational, mechanistic, diagnostic, and interventional reports across Long COVID, ME/CFS, POTS, and related syndromes. It highlights converging vascular, metabolic, immune, and CNS hypotheses and the need for passive or lower-burden alternatives to maximal CPET, but it is a heterogeneous compendium rather than one study and provides no single denominator or pooled effect. Severe and bedbound inclusion is not consistent across abstracts, and treatment methods, adverse events, and follow-up are incomplete; the conference material therefore cannot establish efficacy or safety. Its value here is as a map of active research and study-design concerns, not as a clinical recommendation.
+
+Sources:
+
+- [ISLC-PAIS Conference 2026 abstract book](https://online.flippingbook.com/view/634960183/)
+
+### 2026-08-31 - Cross-registry audit finds patient-prioritized treatments and PEM endpoints underrepresented
+
+Gabriel et al. audited 714 deduplicated interventional Post-COVID trials across ClinicalTrials.gov, DRKS, and EU-CTR against a patient-prioritized treatment guide. Only 51 trials (7.1%) evaluated any listed patient-prioritized treatment, while PEM appeared in 57 trials (8.0%) and served as a primary endpoint in only eight (1.1%); ten commonly used treatment classes had no registered trial in the audited registries. This desk-based preprint imposed no patient burden and no PEM challenge, but it did not establish treatment efficacy or safety, did not report severe/bedbound inclusion, and reflects a 16 July 2026 registry snapshot with conservative text matching. The result is a research-prioritization finding, not support for any untested therapy.
+
+Sources:
+
+- [Gabriel et al. 2026, Research Square preprint](https://doi.org/10.21203/rs.3.rs-10851936/v1)
+
+### 2026-09-01 - Department of Defense funds PROBE-PASC experimental-medicine trial network
+
+The Sick Times reported that a U.S. Department of Defense grant announcement and conference slides describe an $8 million award to launch PROBE-PASC, a network linking four clinical sites with six mechanistic laboratories. According to that secondary report, the inaugural planned Phase 2 trial would randomize 200 participants to pemivibart (Pemgarda), hydroxychloroquine, both, or placebo while tracking viral, immune, endothelial, and patient-reported measures over 180 days; a primary award notice or full protocol was not independently inspected here. This is an infrastructure and trial-launch report, not an efficacy result; severe or bedbound inclusion was not reported, and repeated infusion and blood-sampling visits may impose travel, orthostatic, and PEM burdens. Both interventions carry clinical risks and should not be pursued outside appropriate medical supervision or the formal trial.
+
+Sources:
+
+- [Ladyzhets 2026, The Sick Times](https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/)
+
+### 2026-09-02 - Representative New York City survey estimates a substantial PEM burden after COVID-19
+
+A probability-weighted survey of 9,620 New York City adults with prior COVID-19 estimated PEM symptoms in 20.9% of respondents, rising to 42.3% among those reporting Long COVID; prolonged PEM lasting at least 14 hours was estimated at 4.0%. PEM was associated with substantially higher WHODAS disability scores and higher screening risk for anxiety and depression, with longer PEM linked to greater disability. Remote web, mobile, and telephone collection reduced travel and exertion burden and likely reached some housebound people, but strictly bedbound numbers and ME/CFS staging were not reported. The cross-sectional, self-reported survey did not provoke PEM or test treatment efficacy, and its prevalence estimates should not be treated as a clinical diagnosis.
+
+Sources:
+
+- [Packard et al. 2026, Research Square preprint](https://doi.org/10.64898/2026.08.31.26356614)
+
+### 2026-09-04 - Trigger-timing framework proposes a low-burden way to organize symptom patterns
+
+Groysman proposes a conceptual intake framework that records trigger, delay to onset, symptom pattern, and recovery trajectory to organize possible autonomic, PEM, metabolic, gastrointestinal, or circadian phenotypes. It relies on patient-observed daily patterns rather than deliberate stress testing, which could reduce burden for housebound and bedbound people, but severe-patient usability has not been empirically tested. The paper reports no cohort, diagnostic-accuracy estimate, biomarker validation, or treatment outcome, and symptom timing alone cannot establish mechanism or safe activity thresholds. It is a communication and research-stratification hypothesis, not a clinical treatment algorithm.
+
+Sources:
+
+- [Groysman 2026, Frontiers in Medicine](https://doi.org/10.3389/fmed.2026.1898440)
+
+### 2026-09-07 - International consensus proposes risk-stratified diagnostic standardization for ME/CFS and PAIS
+
+Kujawski and colleagues used a modified Nominal Group Technique with 19 experts across 10 countries to propose provisional assessment parameters across PEM, autonomic, cognitive, functional, sleep, pain, and hypersensitivity domains. The framework explicitly classifies low-, moderate-, and high-risk assessments and advises against routine repeated CPET or prolonged tilt testing in moderate-to-severe and bedbound patients, favoring low-burden questionnaires, passive monitoring, and home or decentralized assessment where possible. It is a consensus framework rather than prospective diagnostic-accuracy research: the cut-offs lack multicenter validation, advanced tests may remain inaccessible, and no primary patient cohort was enrolled. Its main contribution is a safety-oriented standardization proposal, not a validated diagnostic test or treatment recommendation.
+
+Sources:
+
+- [Kujawski et al. 2026, BMC Medicine](https://doi.org/10.1186/s12916-026-05161-8)
+
 ## Related Threads
 
 - [Post-Exertional Malaise & Exercise Physiology](../pem-exercise-physiology/)
 - [Diagnostics & Biomarkers](../diagnostics-biomarkers/)
 - [Severe ME/CFS Care](../severe-mecfs-care/)
+- [Viral Persistence & Reactivation](../../disease-models-mechanisms/viral-persistence-reactivation/)
 - [Genetic Risk Factors](../../disease-models-mechanisms/genetic-risk-factors/)
 - [Immune Dysregulation & Inflammation](../../disease-models-mechanisms/immune-dysregulation-inflammation/)
 - [Autoimmunity & Autoantibodies](../../disease-models-mechanisms/autoimmunity-autoantibodies/)

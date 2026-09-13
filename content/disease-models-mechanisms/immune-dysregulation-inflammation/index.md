@@ -1,8 +1,8 @@
 ---
 title: Immune Dysregulation & Chronic Inflammation
 description: A living thread on cellular immune activation, cytokine profiles, CD8 T-cell dysfunction/exhaustion, monocyte subsets, HLA associations, mast cell activation, and inflammasome pathways in ME/CFS and Long COVID.
-date: 2026-07-25
-last_updated: 2026-07-25
+date: 2026-08-27
+last_updated: 2026-08-27
 thread_status: active
 evidence_level: clinical and mechanistic validation
 primary_topics:
@@ -299,6 +299,14 @@ A narrative review published in *Biochimica et Biophysica Acta (BBA) - Molecular
 Sources:
 
 - [Biochimica et Biophysica Acta Review 2026, Biochimica et Biophysica Acta](https://sciencedirect.com/science/article/pii/S0167488926000972)
+
+### 2026-08-27 - Mouse study links female-biased post-viral memory deficits to X-chromosome dosage and TLR7
+
+In a preclinical SARS-CoV-2 mouse study, females developed persistent hippocampal inflammation and memory deficits through 84 days despite respiratory viral clearance and no detectable brain infection. Four Core Genotypes experiments implicated having two X chromosomes, rather than gonadal sex, alongside sustained Xist and Tlr7 expression, reactive microglia, and systemic myeloid activation. Post-acute Enpatoran (M5049), an investigational TLR7/8 inhibitor, reversed inflammatory and memory phenotypes in mice. No human participants were studied: severe or bedbound inclusion and PEM were not applicable, and translation to ME/CFS or Long COVID remains unproven. TLR7 inhibition carries potential immunosuppression and infection risks and is not a clinical recommendation.
+
+Sources:
+
+- [Liu et al. 2026, bioRxiv preprint, version 2 posted 2026-08-27](https://doi.org/10.1101/2025.10.13.682101)
 
 ## Open Questions
 

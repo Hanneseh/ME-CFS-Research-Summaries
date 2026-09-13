@@ -1,8 +1,8 @@
 ---
 title: Autoimmunity & Autoantibodies
 description: A living thread on GPCR autoantibodies, receptor targeting, antigen profiling, and IgG-mediated mechanisms in ME/CFS and Long COVID.
-date: 2026-07-22
-last_updated: 2026-07-22
+date: 2026-08-28
+last_updated: 2026-08-28
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -162,6 +162,14 @@ The German Centre for Cardiovascular Research (DZHK) partner institution at Goet
 Sources:
 
 - [DZHK Newsroom 2026, Autoantikörper im Fokus: Neue Studie untersucht Herz- und Gefäßschäden bei Post-COVID- ME/CFS](https://dzhk.de/newsroom/aktuelles/news/artikel/autoantikoerper-im-fokus-neue-studie-untersucht-herz-und-gefaessschaeden-bei-post-covid-me-cfs)
+
+### 2026-08-28 - DN2 atypical memory B cells linked to autoantibody production after SARS-CoV-2
+
+Yuan et al. combined single-cell RNA/ATAC sequencing, proteome-wide autoantibody profiling, longitudinal plasma sampling, genetic mapping, and in-vitro stimulation in 12 age- and sex-matched acute-COVID participants. CD11c+ double-negative 2 (DN2) atypical memory B cells showed strong TLR7 activity, oxidative-stress and class-switching signatures, and preferential differentiation into autoantibody-secreting cells after TLR7/8 stimulation. Autoantibody levels fell as acute infection resolved, but the study did not test whether DN2 cells persist in Long COVID or ME/CFS. Severe and bedbound post-acute patients were not reported; blood collection was non-exertional, and no treatment or PEM outcome was tested. The findings identify a mechanistic candidate, not a validated biomarker or therapeutic target.
+
+Sources:
+
+- [Yuan et al. 2026, Immunity](https://doi.org/10.1016/j.immuni.2026.08.002)
 
 ## Open Questions
 

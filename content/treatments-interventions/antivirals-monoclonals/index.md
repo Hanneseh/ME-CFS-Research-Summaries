@@ -1,8 +1,8 @@
 ---
 title: Antivirals & Monoclonal Antibodies
 description: A living thread tracking antiviral drugs, viral-targeting monoclonal antibodies, and pathogen-directed immunotherapies in ME/CFS and Long COVID.
-date: 2026-03-09
-last_updated: 2026-03-09
+date: 2026-08-31
+last_updated: 2026-08-31
 thread_status: active
 evidence_level: early clinical and preclinical
 primary_topics:
@@ -84,6 +84,14 @@ A Phase 2a randomized, double-blind, placebo-controlled clinical trial evaluated
 Sources:
 
 - [Peluso et al. 2026, medRxiv](https://doi.org/10.64898/2026.03.07.26347857)
+
+### 2026-08-31 - RECOVER-VITAL phase 2 trial finds no day-90 benefit from 15 or 25 days of Paxlovid
+
+The multicentre, double-blind, placebo-controlled RECOVER-VITAL phase 2 trial randomized 959 adults with established Long COVID at 69 US centres to 15 or 25 days of nirmatrelvir-ritonavir or matched placebo. Neither duration improved prespecified cognitive, autonomic, or exercise-intolerance/PEM phenotypes at day 90; serious adverse events were balanced at about 4% in the available summary. The oral intervention was comparatively low burden, but repeated site visits and medication interactions still matter. The cohort did not adequately represent homebound or bedbound patients. This negative result argues against unselected short-course antiviral monotherapy for established Long COVID, while leaving biomarker-selected, longer, or combination strategies unresolved; it is not direct ME/CFS treatment evidence.
+
+Sources:
+
+- [Baden et al. 2026, The Lancet Infectious Diseases](https://doi.org/10.1016/S1473-3099(26)00406-8)
 
 ## Open Questions
 

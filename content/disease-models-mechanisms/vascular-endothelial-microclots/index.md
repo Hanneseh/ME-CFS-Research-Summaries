@@ -1,8 +1,8 @@
 ---
 title: Vascular Endothelial Dysfunction & Microclots
 description: A living thread on endothelial impairment, circulating microclots, red blood cell deformability, hypercoagulability, fibrin amyloid fibrils, and microvascular perfusion.
-date: 2026-08-01
-last_updated: 2026-08-01
+date: 2026-09-08
+last_updated: 2026-09-08
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -163,6 +163,22 @@ A hypothesis article in the Journal of Bodywork & Movement Therapies proposes a 
 Sources:
 
 - [Journal of Bodywork & Movement Therapies (2026)](https://sciencedirect.com/science/article/pii/S1360859226002184)
+
+### 2026-08-19 - Retinal vessel analysis detects endothelial dysfunction across post-COVID groups
+
+The prospective All Eyes on PCS study used static and flicker-based retinal vessel analysis in 300 participants: 96 uninfected controls, 102 recovered controls, and 102 post-COVID participants, including 62 meeting ME/CFS criteria. Post-COVID participants had narrower retinal arterioles, reduced flicker-induced venular dilation, and a lower arteriolar-to-venular ratio; a combined model discriminated the ME/CFS-criteria subgroup with AUC 0.79. This was an observational, single-center study, not a validated diagnostic test. Severe or bedbound inclusion was not reported; seated clinic imaging and flickering light avoided exercise provocation but still impose travel, orthostatic, and sensory burden.
+
+Sources:
+
+- [Wallraven et al. 2026, BMC Medicine](https://doi.org/10.1186/s12916-026-05144-9)
+
+### 2026-09-08 - FMSF links dynamic microvascular impairment with NAD redox imbalance in Long COVID
+
+In a case-control study of 36 people with Long COVID and 47 age-matched controls, Lewandowska et al. paired Flow-Mediated Skin Fluorescence (FMSF) during forearm occlusion and reperfusion with HPLC-MS metabolomics. Long COVID participants showed blunted ischemic responses, delayed post-hyperemic recovery, a lower NAD+/NADH ratio, and altered NAD-related metabolites; FMSF measures correlated with redox and endothelial parameters. The non-exercise assay offers a candidate research measure, not a treatment or routine diagnostic. Severe and bedbound inclusion was not reported, and clinic attendance, cuff discomfort, and venipuncture remain relevant burdens even without direct exercise-triggered PEM.
+
+Sources:
+
+- [Lewandowska et al. 2026, Microcirculation](https://doi.org/10.1111/micc.70085)
 
 ## Related Threads
 

@@ -1,8 +1,8 @@
 ---
 title: Diagnostics & Biomarkers
 description: A living thread on diagnostic tests, biomarker panels, machine-learning classifiers, biosensors, assays, and measurement tools for ME/CFS and Long COVID.
-date: 2026-08-11
-last_updated: 2026-08-11
+date: 2026-08-24
+last_updated: 2026-08-24
 thread_status: active
 evidence_level: early clinical validation
 primary_topics:
@@ -30,9 +30,9 @@ Multiplexed protein biosensors, cfRNA liquid biopsy, epigenetic chromosome-confo
 ## State of Evidence
 
 - **Established:** ME/CFS produces measurable biological differences from healthy controls across multiple modalities, including immune gene expression, plasma metabolites, autonomic parameters, and circulating nucleic acids. Machine-learning classifiers built on these signals routinely exceed 80 percent accuracy in discovery cohorts.
-- **Plausible but early:** Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle microRNA and proteomic cargo profiling, SMPDL3B plasma levels, metabolomic AutoML models, LLM-guided transcriptomic feature selection, and beat-to-beat autonomic classifiers each show strong initial performance in retrospective or pilot cohorts. Objective neurophysiological measures (such as sleep EEG slow-wave microstructure disruptions, altered post-movement beta rebound, and resting alpha frequency slowing) demonstrate measurable group-level central nervous system differences. Multi-omics integration, post-exertional provocation models, and machine-learning tools may allow molecular subtyping and cognitive trajectory mapping to supplement symptom-based classification.
+- **Plausible but early:** Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle microRNA and proteomic cargo profiling, SMPDL3B plasma levels, metabolomic AutoML models, LLM-guided transcriptomic feature selection, and beat-to-beat autonomic classifiers each show strong initial performance in retrospective or pilot cohorts. Objective neurophysiological measures (such as sleep EEG slow-wave microstructure disruptions, altered post-movement beta rebound, and resting alpha frequency slowing) demonstrate measurable group-level central nervous system differences. Multi-omics integration, post-exertional provocation models, and machine-learning tools may allow molecular subtyping and cognitive trajectory mapping to supplement symptom-based classification. A new cross-disease 3D-genome network analysis and a UK Biobank resting-state fMRI classifier add useful negative and hypothesis-generating evidence, but neither is a validated ME/CFS diagnostic test.
 - **Not established:** Any single test validated prospectively against clinical diagnosis across mild, moderate, and severe ME/CFS. Head-to-head specificity against overlapping conditions such as multiple sclerosis, rheumatoid arthritis, and fibromyalgia. Clinically validated diagnostic biomarkers derived from exercise-challenge (PEM) provocation protocols, though pilot multi-omic and cognitive trajectory studies are underway.
-- **Key limitations:** Small and often severely ill or female-only cohorts, cross-sectional designs that cannot prove causation, lack of prospective validation, and the technical gap between research-grade assays and scalable clinical tests. Several candidate markers arrive as preprints or preliminary conference abstracts lacking full diagnostic performance metrics. Furthermore, laboratory-dependent testing protocols (including in-facility polysomnography, high-density EEG, and repeated physical dynamometry) systematically exclude bedbound and very severe patients, skewing the biomarker evidence base toward ambulatory cohorts. Some metabolomic and epigenetic models rely on proprietary platforms with inherent developer conflicts of interest.
+- **Key limitations:** Small and often severely ill or female-only cohorts, cross-sectional designs that cannot prove causation, lack of prospective validation, and the technical gap between research-grade assays and scalable clinical tests. Several candidate markers arrive as preprints or preliminary conference abstracts lacking full diagnostic performance metrics. Furthermore, laboratory-dependent testing protocols (including in-facility polysomnography, high-density EEG, and repeated physical dynamometry) systematically exclude bedbound and very severe patients, skewing the biomarker evidence base toward ambulatory cohorts. Some metabolomic and epigenetic models rely on proprietary platforms with inherent developer conflicts of interest. The UK Biobank fatigue study used a broad self-report definition without PEM characterization and found resting-state fMRI performance near clinical-feature baselines, while the 3D-genome network extension does not report complete denominators or severe-patient representation.
 
 ## Timeline
 
@@ -275,6 +275,22 @@ A peer-reviewed case-control neurophysiology study in the *Journal of Clinical N
 Sources:
 
 - [Casado Sánchez et al. 2026, Journal of Clinical Neuroscience](https://doi.org/10.1016/j.jocn.2026.112230)
+
+### 2026-08-22 - 3D-genome network analysis maps cross-disease biomarker hypotheses
+
+This systems-biology investigation combined EpiSwitch chromosome-conformation measurements with GWAS and Orion knowledgebase analyses across ME/CFS, Long COVID, PTSD, rheumatoid arthritis, and multiple sclerosis. It reports 552 ME/CFS 3D-genomic anchors mapping to 567 genes and network-level convergence around immune, interferon, mitochondrial/metabolic, neuroendocrine, LAG3, and mTOR-related pathways, but direct gene overlap was limited and the work is retrospective and substantially in silico. Severe or bedbound representation was not reported; blood-based sampling could eventually be lower burden than exercise or imaging, but venipuncture and travel remain relevant and no home collection was established. No exertion challenge, PEM outcome, safety result, or treatment effect was studied, so proposed drug-target links are hypothesis-generating rather than clinical guidance. Cross-links include [Genetic Risk Factors](../../disease-models-mechanisms/genetic-risk-factors/), [Immune Dysregulation & Chronic Inflammation](../../disease-models-mechanisms/immune-dysregulation-inflammation/), and [Mitochondrial & Metabolic Dysfunction](../../disease-models-mechanisms/mitochondrial-metabolic-dysfunction/).
+
+Sources:
+
+- [Hunter et al. 2026, Journal of Translational Medicine](https://doi.org/10.1186/s12967-026-08874-9)
+
+### 2026-08-24 - UK Biobank study finds resting-state fMRI adds little to broad fatigue classification
+
+Pereira and colleagues evaluated preregistered machine-learning models using clinical features and 3T resting-state fMRI functional/effective connectivity in 2,247 UK Biobank participants reporting chronic fatigue or not. Clinical variables alone reached 61.2% balanced accuracy, while adding connectivity produced 60.0–63.5%; frequent insomnia was the dominant feature and reached 57.3% alone, and the planned continuous Fatigue Severity Scale analysis was abandoned because only 91 participants had sufficient data. The broad single-question fatigue phenotype did not assess PEM, autonomic or cognitive crashes, or criteria-defined ME/CFS, and the imaging protocol systematically excluded severe and bedbound patients through travel and scanner requirements; no exertion challenge or treatment was studied. The result is a useful negative test of current resting-state fMRI biomarker claims, not evidence against neurobiological illness, and it points toward disease-specific cohorts and challenge-based imaging; see [Neuroinflammation & Brain Changes](../../disease-models-mechanisms/neuroinflammation-brain-changes/) and [Clinical Characterization & Epidemiology](../clinical-characterization-epidemiology/).
+
+Sources:
+
+- [Pereira et al. 2026, medRxiv](https://doi.org/10.64898/2026.08.21.26360925)
 
 ## Related Threads
 

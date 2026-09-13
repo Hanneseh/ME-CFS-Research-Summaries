@@ -1,8 +1,8 @@
 ---
 title: Hyperbaric Oxygen Therapy (HBOT)
 description: A living thread on hyperbaric oxygen therapy, clinical trials, prospective registries, neuroimaging findings, and safety signals in ME/CFS, Fibromyalgia, and Long COVID.
-date: 2026-06-22
-last_updated: 2026-06-22
+date: 2026-08-01
+last_updated: 2026-08-01
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -78,3 +78,11 @@ At the Internationale ME/CFS-Konferenz 2026, Dr. Claudia Kedor presented finding
 Sources:
 
 - [Kedor 2026, Internationale ME/CFS-Konferenz 2026](https://youtu.be/k4ixa1mIZng)
+
+### 2026-08-01 - Mouse study links hyperbaric oxygen effects to PLA2G4A lipid signaling
+
+In a controlled chronic multi-stressor mouse model, Zhao et al. administered hyperbaric oxygen at 2.5 ATA for 60 minutes, four times weekly for three weeks. The mice showed improved fatigue- and memory-related behaviors, reduced hippocampal injury and inflammatory/microglial signals, and partial normalization of glycerophospholipid metabolism; PLA2G4A inhibition produced a similar effect without additive benefit. No human participants were studied, so severe/bedbound inclusion, PEM, efficacy, and patient safety were not assessed. Translating repeated chamber sessions to ME/CFS would add travel, pressure, oxygen-toxicity, and confinement burdens; the animal result is mechanistic and does not establish a treatment.
+
+Sources:
+
+- [Zhao et al. 2026, Neurochemistry International](https://pubmed.ncbi.nlm.nih.gov/42425204/)

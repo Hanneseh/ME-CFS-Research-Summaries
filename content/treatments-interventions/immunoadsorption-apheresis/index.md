@@ -1,8 +1,8 @@
 ---
 title: Immunoadsorption & Apheresis
 description: A living thread tracking immunoadsorption, H.E.L.P. apheresis, and other extracorporeal blood-filtration therapies for ME/CFS and Long COVID.
-date: 2026-08-11
-last_updated: 2026-08-11
+date: 2026-08-27
+last_updated: 2026-08-27
 thread_status: active
 evidence_level: early clinical observation
 primary_topics:
@@ -28,7 +28,7 @@ Immunoadsorption and extracorporeal apheresis are blood-filtration therapies inv
 
 Clinical interest has been driven by preliminary open-label observational studies showing significant physical and functional improvements in small patient cohorts. Specifically, pilot data suggest that H.E.L.P. apheresis may improve capillary perfusion and resolve symptoms like fatigue and cognitive dysfunction in Long COVID, while open-label immunoadsorption has demonstrated temporary physical and functional improvement in a subset of patients with post-infectious ME/CFS who exhibit elevated autoantibodies targeting G-protein-coupled receptors (GPCRs).
 
-However, the therapeutic value of these procedures is highly uncertain. Multiple 2026 investigations—including the randomized sham-controlled IAMPOCO trial of immunoadsorption, a sham-controlled pilot of gravity-driven plasmapheresis, and prospective studies tracking objective functional endpoints—found no benefit over sham on their measured outcomes or no measurable functional improvement from baseline. These results show that biomarker clearance does not necessarily translate into recovery; improvements in earlier uncontrolled studies cannot be attributed to the procedure and are consistent with placebo, contextual effects, or natural fluctuation. Small trials have therefore not demonstrated clinical benefit in unselected post-COVID cohorts, but they do not prove that no biomarker-defined subgroup could respond. Whether patient stratification or selective "precision apheresis" column technologies can identify such a subgroup remains an open question requiring controlled validation.
+However, the therapeutic value of these procedures is highly uncertain. Multiple 2026 investigations—including the randomized sham-controlled IAMPOCO trial of immunoadsorption, a sham-controlled pilot of gravity-driven plasmapheresis, and prospective studies tracking objective functional endpoints—found no benefit over sham on their measured outcomes or no measurable functional improvement from baseline. These results show that biomarker clearance does not necessarily translate into recovery; improvements in earlier uncontrolled studies cannot be attributed to the procedure and are consistent with placebo, contextual effects, or natural fluctuation. Small trials have therefore not demonstrated clinical benefit in unselected post-COVID cohorts, but they do not prove that no biomarker-defined subgroup could respond. Candidate immune endotypes—such as subsets distinguished by germinal center versus extrafollicular B-cell activation—have been proposed as an exploratory translational framework for heterogeneous clinical responses, but whether biological patient stratification or selective "precision apheresis" column technologies can identify a responsive subgroup remains an unproven hypothesis requiring prospective, controlled validation.
 
 ## Why This Matters
 
@@ -37,9 +37,9 @@ These extracorporeal therapies target hypothesized vascular and autoimmune patho
 ## State of Evidence
 
 - **Established:** Extracorporeal apheresis and immunoadsorption techniques can successfully deplete targeted substances—such as fibrinogen, inflammatory cytokines, LDL, and IgG autoantibodies—from circulation during the procedure, though autoantibody titers typically rebound to baseline within 3–6 months.
-- **Plausible but early:** Heparin-mediated extracorporeal LDL precipitation (H.E.L.P.) apheresis may resolve severe fatigue, cognitive dysfunction, and perfusion deficits by clearing microclots and improving microcirculation; repeat immunoadsorption (RIA) may temporarily improve physical and functional capacity in a subset of post-COVID ME/CFS patients who have elevated autoantibodies against the ß2-adrenergic receptor.
-- **Not established:** True clinical efficacy of immunoadsorption or therapeutic plasma exchange (differentiating active treatment from sham/placebo effects) in post-COVID or ME/CFS cohorts, as multiple 2026 studies—including randomized sham-controlled trials and prospective studies tracking objective functional endpoints (such as 6-minute walk distance, grip strength, spirometry, and wearable step counts)—demonstrate no therapeutic superiority over sham treatment or measurable functional improvement.
-- **Key limitations:** Randomized sham-controlled trials in Long COVID demonstrate substantial within-group symptom improvements in placebo arms, so improvements in open-label apheresis case series cannot by themselves establish treatment efficacy; procedures are highly invasive and resource-intensive, frequently requiring central venous catheterization (in up to 94% of participants) with attendant risks of jugular vein thrombosis and transient profound hypogammaglobulinemia (IgG <3 g/L); severe and bedbound patients have been systematically excluded from recent trials; clinical trials have historically evaluated unselected patient populations without biomarker-guided stratification, which may mask efficacy within specific immunological subgroups; protocols and patient selection criteria for newer 'precision apheresis' column technologies remain under active investigation.
+- **Plausible but early:** Heparin-mediated extracorporeal LDL precipitation (H.E.L.P.) apheresis may resolve severe fatigue, cognitive dysfunction, and perfusion deficits by clearing microclots and improving microcirculation; repeat immunoadsorption (RIA) may temporarily improve physical and functional capacity in a subset of post-COVID ME/CFS patients who have elevated autoantibodies against the ß2-adrenergic receptor; multi-layered immune profiling (e.g., distinguishing germinal center from extrafollicular B-cell signatures) may provide candidate stratification endotypes to explore differential clinical responses.
+- **Not established:** True clinical efficacy of immunoadsorption or therapeutic plasma exchange (differentiating active treatment from sham/placebo effects) in post-COVID or ME/CFS cohorts, as multiple 2026 studies—including randomized sham-controlled trials and prospective studies tracking objective functional endpoints (such as 6-minute walk distance, grip strength, spirometry, and wearable step counts)—demonstrate no therapeutic superiority over sham treatment or measurable functional improvement; clinical utility or prospective validity of candidate immune endotypes for predicting apheresis response.
+- **Key limitations:** Randomized sham-controlled trials in Long COVID demonstrate substantial within-group symptom improvements in placebo arms, so improvements in open-label apheresis case series cannot by themselves establish treatment efficacy; procedures are highly invasive and resource-intensive, frequently requiring central venous catheterization (in up to 94% of participants) with attendant risks of jugular vein thrombosis and transient profound hypogammaglobulinemia (IgG <3 g/L); severe and bedbound patients have been systematically excluded from recent trials; proposed endotype stratification models derive from preliminary conference abstracts without peer review or reported sample sizes, and their prospective validity remains unverified; clinical trials have historically evaluated unselected patient populations without biomarker-guided stratification, which may mask efficacy within specific immunological subgroups; protocols and patient selection criteria for newer 'precision apheresis' column technologies remain under active investigation.
 
 ## Timeline
 
@@ -107,3 +107,24 @@ A prospective exploratory study evaluated five consecutive immunoadsorption sess
 Sources:
 
 - [Wossidlo et al. 2026, Infection](https://doi.org/10.1007/s15010-026-02914-8)
+
+### 2026-08-27 - Conference abstract proposes candidate immune endotypes linked to immunoadsorption responsiveness
+
+At ISLC-PAIS 2026 in Amsterdam on 27 August 2026, Arendholz and colleagues presented the conference abstract "Multi-layered immune profiling reveals treatment-relevant endotypes in Long Covid-ME/CFS." The team applied CyTOF mass cytometry, plasma proteomics, and machine learning across two cohorts—a Long COVID-ME/CFS cohort enriched for elevated GPCR autoantibodies with linked immunoadsorption response data, and an unselected Long COVID-ME/CFS cohort—to explore treatment-relevant biological stratification. Unsupervised analysis identified three candidate immune endotypes: a germinal center-associated autoimmune endotype characterized by germinal center B-cell features that retrospectively tracked with positive immunoadsorption response; a high-inflammatory autoimmune endotype marked by extrafollicular B-cell activation, heightened innate immune signaling, elevated autoimmunity scores, and molecular similarities to Sjögren's disease that retrospectively tracked with treatment non-response; and a low-inflammatory endotype identified in the unselected cohort with expanded CD161+ CD4+ and CD8+ T cells. These observations are preliminary stratification hypotheses that may inform future trial designs. Given the high procedural burden and risks documented in recent immunoadsorption studies, rigorous biological stratification would be necessary before any subgroup-specific clinical value could be assessed. The abstract book entry was not peer reviewed, reported no sample sizes for the profiling cohorts, and provided no prospective validation or information about severe or bedbound inclusion; the retrospective associations do not establish treatment efficacy.
+
+Sources:
+
+- [Arendholz et al. 2026, “Multi-layered immune profiling reveals treatment-relevant endotypes in Long Covid-ME/CFS,” ISLC-PAIS abstract book](https://online.flippingbook.com/view/634960183/)
+
+## Open Questions
+
+- Can multi-layered immune profiling (such as germinal center versus extrafollicular B-cell activation signatures) be prospectively validated in randomized, sham-controlled trials to predict clinical response to immunoadsorption?
+- Do specific adsorber column chemistries (such as tryptophan versus peptide columns) show differential efficacy or safety across distinct immunological endotypes?
+- Can less invasive predictive biomarkers identify candidates for extracorporeal therapies without requiring patients to undergo high-burden invasive screening?
+- Why do autoantibody titers decouple from objective functional performance in unstratified cohorts, and what alternative biological mechanisms govern patient outcomes?
+
+## Related Threads
+
+- [Autoimmunity & Autoantibodies](../../disease-models-mechanisms/autoimmunity-autoantibodies/)
+- [Immune Dysregulation & Chronic Inflammation](../../disease-models-mechanisms/immune-dysregulation-inflammation/)
+- [Daratumumab & Plasma-Cell Targeting](../daratumumab-plasma-cell-targeting/)
