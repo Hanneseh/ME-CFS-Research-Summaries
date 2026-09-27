@@ -1,8 +1,8 @@
 ---
 title: Antivirals & Monoclonal Antibodies
 description: A living thread tracking antiviral drugs, viral-targeting monoclonal antibodies, and pathogen-directed immunotherapies in ME/CFS and Long COVID.
-date: 2026-08-31
-last_updated: 2026-08-31
+date: 2026-09-16
+last_updated: 2026-09-16
 thread_status: active
 evidence_level: early clinical and preclinical
 primary_topics:
@@ -41,6 +41,7 @@ The development of targeted antiviral therapies, pathogen-specific monoclonal an
   - An EBV gp350 ferritin nanoparticle vaccine adjuvanted with Matrix-M safely induces durable neutralizing antibody levels in humans that exceed those from natural infection.
   - Early administration of a combined antiviral and anti-inflammatory therapy (nirmatrelvir/molnupiravir + corticosteroids) post-infection prevents persistent neurological and behavioral deficits by limiting the host inflammatory cascade.
   - Fully human monoclonal antibodies targeting EBV gp42 and gp350 protect against EBV infection in humanized mouse models.
+  - In one uncontrolled, industry-funded feasibility study, a 5-day course of intravenous remdesivir was feasible and generally well tolerated in ambulatory people with Long COVID. Its efficacy has not been tested.
 
 - **Not established:**
   - Antivirals, monoclonal antibodies, or combination immunomodulatory therapies have not been proven effective or safe for the treatment of ME/CFS or Long COVID in large-scale, randomized, placebo-controlled trials.
@@ -92,6 +93,16 @@ The multicentre, double-blind, placebo-controlled RECOVER-VITAL phase 2 trial ra
 Sources:
 
 - [Baden et al. 2026, The Lancet Infectious Diseases](https://doi.org/10.1016/S1473-3099(26)00406-8)
+
+### 2026-09-16 - ERASE-LC journal publication reports IV remdesivir feasibility, not controlled efficacy
+
+ERASE-LC is a single-arm, open-label feasibility study published as a peer-reviewed accepted manuscript in Oxford Open Immunology, following a July preprint. Adults with Long COVID at UK sites received a 5-day course of intravenous remdesivir: 200 mg on day 1, then 100 mg daily. Of 73 people enrolled, 97% completed dosing and 96% completed follow-up about 28 days later. Adverse events occurred in 36% of participants and adverse reactions in 31%. Most reactions were mild, headache was the most common, and no severe reactions were reported. Fatigue and six-minute walk scores improved, but the study had no placebo arm, ran no formal hypothesis tests, and followed people only briefly, so the changes cannot be attributed to the drug. People at high risk of severe PEM were excluded, and treatment required five consecutive days of site visits. Applicability to housebound or bedbound patients is not established. Gilead Sciences, which makes remdesivir, funded the study. This is feasibility evidence, not efficacy evidence, and it does not conflict with the RECOVER-VITAL null result.
+
+Sources:
+
+- [Faghy et al. 2026, Oxford Open Immunology](https://doi.org/10.1093/oxfimm/iqag014)
+- [ERASE-LC 2026, initial medRxiv preprint](https://doi.org/10.64898/2026.07.26.26358852)
+- [ClinicalTrials.gov NCT05911906](https://clinicaltrials.gov/study/NCT05911906)
 
 ## Open Questions
 

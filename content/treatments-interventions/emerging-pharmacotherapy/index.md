@@ -1,8 +1,8 @@
 ---
 title: Emerging Pharmacotherapy
 description: Clinical trials, pilot studies, and case reports of repurposed drugs, supplements, and experimental therapies for ME/CFS and Long COVID.
-date: 2026-09-09
-last_updated: 2026-09-09
+date: 2026-09-16
+last_updated: 2026-09-16
 thread_status: active
 evidence_level: early clinical trials and pilot studies
 primary_topics:
@@ -23,6 +23,8 @@ primary_topics:
   - Cyclobenzaprine (Tonmya)
   - Repurposed Metabolic Compounds (Pioglitazone, Tideglusib, MHY1485)
   - Intermittent Hypoxia-Hyperoxia Treatment (IHHT)
+  - Bezisterim (NE3107)
+  - Rozanolixizumab
 cssclasses:
   - thread-page
 ---
@@ -70,6 +72,8 @@ Systematic research into these agents offers objective measures of efficacy to c
   - Clinical efficacy, safety, or validated dosing of computationally nominated repurposing candidates (e.g., pioglitazone, tideglusib, MHY1485) from transcriptomic signature screens in ME/CFS, which remain preclinical in silico and in vitro hypotheses without human trial evidence.
   - Clinical efficacy of intermittent hypoxia-hyperoxia treatment (IHHT) in ME/CFS; published trial protocols (e.g., REenergizeME) record study methodology and investigational intent rather than clinical outcomes.
   - Clinical efficacy of esketamine in neuropsychiatric Long COVID; current evidence is limited to a 15-patient uncontrolled retrospective conference abstract without blinding, a comparator, or reported baseline functional severity.
+  - Efficacy of bezisterim (NE3107) in Long COVID; a sponsor-reported, not yet peer-reviewed phase 2 topline found no significant endpoint in the full intent-to-treat population, and its high-symptom-burden subgroup signals need confirmation.
+  - Group-level benefit from unselected IgG lowering; in adjacent fibromyalgia, the FcRn blocker rozanolixizumab showed no broad group-level efficacy in a phase 2a RCT, which is not ME/CFS treatment evidence.
   - Long-term safety, optimal dosing, and durability of donepezil, Tuina therapy, or cognitive rehabilitation programs.
 - **Key limitations:**
   - Small sample sizes in pilot studies (e.g., 20 patients for pyridostigmine hand grip, 10 patients for ketamine crossover, 5 patients for amifampridine and cromolyn series) limit statistical power and generalizability.
@@ -362,6 +366,24 @@ A conference abstract by Hartman et al. reported on a retrospective, uncontrolle
 Sources:
 
 - [Hartman et al. 2026, International Journal of Neuropsychopharmacology](https://doi.org/10.1093/ijnp/pyag040.161)
+
+### 2026-09-15 - Sponsor topline: bezisterim (NE3107) phase 2 ADDRESS-LC finds no significant endpoint in the full Long COVID population
+
+In a sponsor-reported topline press release that has not been peer reviewed, BioVie reported that its randomized, double-blind, placebo-controlled phase 2 ADDRESS-LC trial of oral bezisterim 20 mg twice daily reached statistical significance on no individual endpoint in the full intent-to-treat population of 203 adults with Long COVID. According to the registry, treatment lasted 84 days. The exploratory design assessed 22 outcomes, covering cognition, fatigue, sleep, quality of life and post-exertional malaise (PEM), without a single primary endpoint; 21 numerically favoured bezisterim. The company reports significant results in prespecified high-fatigue, high-PEM and objective-cognitive-impairment subgroups. With no confidence intervals and no described multiplicity correction, these are hypothesis-generating only. Treatment-emergent adverse events occurred in 41.6% on bezisterim vs 55.9% on placebo. The registry excluded chronic fatigue syndrome, fibromyalgia or POTS predating the index COVID-19 infection. ME/CFS status, severity and bedbound inclusion were not reported, and the fatigue entry threshold was low. A phase 3 trial is planned, with no timeline given.
+
+Sources:
+
+- [BioVie topline press release, ADDRESS-LC (2026-09-15)](https://investors.bioviepharma.com/news/news-details/2026/BioVie-Announces-Topline-Results-from-Phase-2-ADDRESSLC-Trial-Evaluating-Bezisterim-for-the-Treatment-of-Neurological-Symptoms-Associated-with-Long-COVID/default.aspx)
+- [ClinicalTrials.gov Registry: NCT06847191](https://clinicaltrials.gov/study/NCT06847191)
+
+### 2026-09-16 - FcRn blocker rozanolixizumab shows no broad efficacy in a severe-fibromyalgia phase 2a RCT
+
+This adjacent-disease trial tested unselected IgG lowering; it is not ME/CFS treatment evidence. In a UCB-funded phase 2a, double-blind, placebo-controlled trial in *The Lancet Rheumatology* (NCT05643794), 63 adults with fibromyalgia, classed as severe by pain and pain-interference scores, were randomized 1:1:1. The arms were weekly subcutaneous rozanolixizumab 560 mg for 24 weeks, placebo followed by rozanolixizumab, or placebo throughout. At week 12, the BPI-SF interference difference was -0.5 (80% CI -1.0 to -0.1; p=0.065). This met the prespecified one-sided 10% threshold but not a two-sided 5% test (95% CI -1.2 to 0.2; p=0.13). The authors concluded there was no broad efficacy. Patients were not selected for pathogenic autoantibodies, even though IgG passive-transfer pain data have been published in fibromyalgia. It adds adjacent-disease evidence that a compelling antibody rationale need not translate into clinically meaningful benefit in an unselected population. It neither establishes nor refutes an IgG mechanism in ME/CFS. No serious treatment-emergent adverse events were reported during active dosing. Weekly site-based dosing is burdensome, and functional severity and bedbound status were not reported.
+
+Sources:
+
+- [Efficacy and safety of rozanolixizumab in severe fibromyalgia: a phase 2A randomised trial (The Lancet Rheumatology 2026)](<https://doi.org/10.1016/S2665-9913(26)00252-3>)
+- [ClinicalTrials.gov Registry: NCT05643794](https://clinicaltrials.gov/study/NCT05643794)
 
 ## Open Questions
 

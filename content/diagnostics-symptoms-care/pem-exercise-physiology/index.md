@@ -1,8 +1,8 @@
 ---
 title: Post-Exertional Malaise & Exercise Physiology
 description: A living thread on PEM, repeat CPET, lactate recovery, pacing physiology, wearable monitoring, and exertion-response biomarkers in ME/CFS and Long COVID.
-date: 2026-09-09
-last_updated: 2026-09-09
+date: 2026-09-21
+last_updated: 2026-09-21
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -174,14 +174,6 @@ Sources:
 
 - [Mancini et al. 2026, Frontiers in Physiology](https://pubmed.ncbi.nlm.nih.gov/42212259/)
 
-### 2026-05-15 - Coronary vasomotor disorders emerge in a chest-pain subset
-
-This invasive coronary testing study found vasospasm, microvascular dysfunction, and endothelial dysfunction in most ME/CFS patients selected for chest pain and peripheral exercise limitation. The change is a more specific cardiac phenotype inside the broader PEM landscape, with a shift toward coronary vasomotor disease rather than obstructive atherosclerosis. That gives chest pain in ME/CFS a measurable physiologic target. The sample is small and highly selected, so the prevalence cannot be generalized to all PEM patients.
-
-Sources:
-
-- [Mackay et al. 2026, American Journal of Respiratory and Critical Care Medicine](https://academic.oup.com/ajrccm/article/212/Supplement_1/aamag162.1316/8680789)
-
 ### 2026-05-24 - Safety study shows CPET flare is temporary in severe post-COVID
 
 This matched case-control study monitored PEM symptoms daily before and after a maximal CPET in severe post-COVID condition. The main change was a temporary symptom worsening for several days after testing, followed by return to baseline within about a week. That supports CPET as an objective assessment tool that can provoke PEM without causing permanent deterioration in the studied cohort. It does not cover very severe bedbound patients and does not mean the test is benign for every individual.
@@ -349,6 +341,23 @@ Sakellaropoulos and colleagues synthesize exercise bioenergetics and cardiopulmo
 Sources:
 
 - [Sakellaropoulos et al. 2026, Current Problems in Cardiology](https://doi.org/10.1016/j.cpcardiol.2026.103453)
+
+### 2026-09-14 - Conference abstract: plasma lipids lower at rest and immediately after CPET in ME/CFS
+
+This ACSM 2026 poster abstract, published in a Medicine & Science in Sports & Exercise supplement rather than as a full peer-reviewed paper, compared 25 people with ME/CFS and 25 healthy controls around one maximal ramp CPET. Plasma drawn at baseline and 2 and 30 minutes after the test was analyzed with targeted lipidomics covering 794 predefined lipids. Lipid abundance was lower in ME/CFS at every timepoint, with the most nominal group differences at baseline (101, then 60 and 39 after exertion); only four lipids per timepoint passed false-discovery correction. The deficit therefore looks at least partly like a resting trait, and the study complements the 24-hour recovery proteomics reported by Germain et al. (2025) by covering the immediate post-test window. The abstract reports no link to PEM symptoms or severity, no 24–72-hour sampling, and no diagnostic criteria or severity data, so it is not a PEM biomarker. Participants had to complete maximal CPET plus three blood draws; post-test PEM was not reported, and applicability to severe or bedbound patients is not established.
+
+Sources:
+
+- [Christopoulos et al. 2026, Medicine & Science in Sports & Exercise (conference abstract)](https://doi.org/10.1249/01.mss.0001266284.00441.cb)
+
+### 2026-09-21 - Peer-reviewed Yale study extends coronary vasomotor (ANOCA) findings beyond the chest-pain abstract
+
+A May 2026 conference abstract from this Yale group (Mackay et al.) reported coronary vasomotor disorders in 86% of 25 ME/CFS patients selected for chest pain and peripheral limitation on invasive CPET (iCPET). The full peer-reviewed paper, now ahead of print, adds a reverse-direction record review: among 261 patients with angina with no obstructive coronary arteries (ANOCA) confirmed by coronary function testing, 47 (18%) had ME/CFS, and only connective tissue disease differed significantly from those without ME/CFS. In a 27-patient ME/CFS iCPET cohort, 24 (89%) had ANOCA, the diagnosis changed management in 81%, and iCPET showed impaired peak oxygen extraction with normal oxygen delivery. This cohort probably includes or expands the abstract's 25 (not confirmed), so it is one study account, not replication. Limits include a retrospective, single-center, referral-selected design, an exploratory iCPET analysis, no outcome data for the management changes, and no reported ME/CFS criteria, severity or post-test PEM. Both tests are invasive, and iCPET requires exertion that can provoke PEM. Applicability to bedbound patients is unreported; these results do not establish a case for routine screening.
+
+Sources:
+
+- [Mackay et al. 2026, American Journal of Physiology – Heart and Circulatory Physiology](https://doi.org/10.1152/ajpheart.90080.2026)
+- [Mackay et al. 2026, American Journal of Respiratory and Critical Care Medicine (conference abstract)](https://academic.oup.com/ajrccm/article/212/Supplement_1/aamag162.1316/8680789)
 
 ## Open Questions
 

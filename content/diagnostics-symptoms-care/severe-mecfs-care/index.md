@@ -1,8 +1,8 @@
 ---
 title: Care & Assessment for Severe ME/CFS
 description: A living thread on severe and very severe ME/CFS care, inpatient and outreach models, home-visit diagnostics, perioperative safety, and bedbound patient assessment.
-date: 2026-07-29
-last_updated: 2026-07-29
+date: 2026-09-03
+last_updated: 2026-09-03
 thread_status: active
 evidence_level: early clinical, protocol, and retrospective case series
 primary_topics:
@@ -12,6 +12,7 @@ primary_topics:
   - Outreach Assessment
   - Perioperative Safety
   - Risk Stratification
+  - Nutrition & Tube Feeding
 cssclasses: [thread-page]
 ---
 
@@ -32,7 +33,7 @@ The sources tracked here address each of those gaps directly. Inpatient outcome 
 - **Established:** Severe and very severe ME/CFS patients are systematically underrepresented in research because standard trial participation requires travel and exertion that can cause lasting deterioration. This exclusion produces a self-reinforcing evidence gap at the most severe end of the disease spectrum.
 - **Plausible but early:** A dedicated inpatient care environment that prioritises PEM avoidance and sensory adaptation may produce measurable clinical improvement in some severely affected patients, particularly those with shorter illness duration. Staged outreach diagnostics are feasible in housebound patients without triggering uniform deterioration. Transdisciplinary expert consensus provides practice-oriented guidelines for home-based care, nursing, and PEM-aware care adaptation. Acute-phase symptom complexity in young people predicts severe long-term outcome.
 - **Not established:** Which specific components of inpatient, outreach, or home care drive clinical improvement. Whether early risk stratification in children and young adults changes long-term outcomes. The full perioperative risk profile in ME/CFS, particularly delayed PEM following general anaesthesia.
-- **Key limitations:** All current inpatient and outreach outcome data come from single centres with fewer than 25 patients. Transdisciplinary home care guidelines are based on expert consensus and practice-oriented experience rather than randomized interventional trials. The paediatric risk-stratification study is monocentric and used a registry design. The perioperative study has 15 ME/CFS patients matched to 15 controls. Protocol publications like ACHTSAM have not yet reported outcome data. Evidence of what does not work — high-stimulation environments, mandatory physical therapy, and standard surgical pain protocols — is largely derived from adverse patient experience rather than controlled comparison.
+- **Key limitations:** All current inpatient and outreach outcome data come from single centres with fewer than 25 patients. Transdisciplinary home care guidelines are based on expert consensus and practice-oriented experience rather than randomized interventional trials. The paediatric risk-stratification study is monocentric and used a registry design. The perioperative study has 15 ME/CFS patients matched to 15 controls. Protocol publications like ACHTSAM have not yet reported outcome data. Evidence of what does not work — high-stimulation environments, mandatory physical therapy, and standard surgical pain protocols — is largely derived from adverse patient experience rather than controlled comparison. The BACME tube-feeding report is a self-selected UK survey without controlled outcome data.
 
 ## Timeline
 
@@ -92,12 +93,21 @@ Sources:
 
 - [Hermisson et al. 2026, Wiener Medizinische Wochenschrift](https://link.springer.com/article/10.1007/s10354-026-01182-3)
 
+### 2026-09-03 - BACME survey documents gaps in tube-feeding care for ME/CFS
+
+The British Association of Clinicians in ME/CFS (BACME), a UK professional body, published a non-peer-reviewed report on an online survey of patients, carers and clinicians about tube feeding. People with tube-feeding experience, including people with severe ME/CFS, helped design the questions alongside dietetic clinicians. The survey ran for 8 weeks in August–October 2025. Of 105 responses started, at most 75 had completed questions (28 patients, 21 carers, 26 clinicians), so results are given as counts. Only 7 of 20 patients had been under a dietitian's care for more than 4 weeks before feeding began. Of 21, 15 started tube feeding in hospital and continued at home, and 9 of 20 said problems arranging home feeding delayed discharge. The report names ME/CFS-specific adaptations: orthostatic intolerance versus standard head-elevated positioning, hospital visits to change tubes, pump noise and alarms, and managing suppliers. The sample was self-selected and uncontrolled, and severity was not reported. The report documents care gaps and does not show that any feeding approach works. BACME plans ME/CFS nutrition guidance but gives no timeline.
+
+Sources:
+
+- [BACME 2026, ME/CFS Tube Feeding Survey Report](https://meassociation.org.uk/wp-content/uploads/2026/09/BACME-MECFS-Tube-Feeding-Survey-Report-Sept-2026.pdf)
+
 ## Open Questions
 
 - Whether the improvement signal from the Røysumtunet unit can be replicated in a multicentre setting, and what the active ingredients of adapted inpatient care are.
 - Whether ACHTSAM's outreach diagnostic framework will prove feasible and PEM-safe when applied across the planned patient range, and whether the physiological measurements taken at home yield interpretable data.
 - What happens to ME/CFS patients in the days and weeks after surgery — the perioperative PEM window that the current retrospective data cannot capture.
 - Whether the acute-phase risk factors identified in children and young adults with post-COVID condition apply to ME/CFS arising after other viral triggers or in adult-onset cases.
+- Whether nutritional screening can be validated for ME/CFS, and what outcomes enteral feeding produces in severe and very severe patients.
 
 ## Related Threads
 

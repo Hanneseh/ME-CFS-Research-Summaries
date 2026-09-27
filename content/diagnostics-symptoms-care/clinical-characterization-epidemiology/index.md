@@ -1,8 +1,8 @@
 ---
 title: Clinical Characterization & Epidemiology
 description: A living thread on ME/CFS case definitions, clinical guidelines, epidemiology, cohort structure, symptom measurement, research infrastructure, and funding developments for ME/CFS and Long COVID.
-date: 2026-09-07
-last_updated: 2026-09-07
+date: 2026-09-25
+last_updated: 2026-09-25
 thread_status: active
 evidence_level: established clinical consensus with ongoing refinement
 primary_topics:
@@ -22,7 +22,7 @@ ME/CFS is established as a serious, multi-systemic, biologically grounded illnes
 
 Recent large-scale symptom-clustering and factor analysis work has successfully stratified patients into distinct clinical subgroups. Analysis of the UK DecodeME cohort of over 19,000 participants identified high- and low-symptom-burden subgroups, linking infectious onset to higher long-term severity, though without finding genome-wide genetic predictors. Comparative cohort evidence using a prospectively followed post-mononucleosis arm further indicates that Long COVID functional and symptom burden can fall between operationally defined moderate and severe post-mononucleosis ME/CFS groups, supporting phenotypic overlap across post-viral conditions while distinguishing university-cohort severity labels from bedbound disease. Other factor analyses confirm that patient-reported symptoms group into coherent biological dimensions (brain, autonomic, gut-immune), with sex-stratified models revealing that female sex hormones dynamically modulate immune symptoms (such as flu-like complaints in premenopausal women) but not gastrointestinal pathways. Standardized symptom measurement has also advanced with the Rasch-validated TIMES scale, mapping a severe cumulative multi-system burden where cognitive symptoms are ranked as the most troublesome.
 
-National research and care infrastructure has grown substantially with new large-scale funding and specialized networks. In Europe, the launching of the €7.5 million DISCOVER-ME consortium aims to standardize biobank protocols across 20+ institutions to validate multi-system biomarkers. In Germany, the BMG-funded PEDNET-LC network has established care pathways and a centralized pediatric registry, complementing childhood cohort data showing that pediatric post-COVID symptom persistence correlates stepwise with initial infection severity. However, therapeutic evidence remains preliminary: while pilot updates from the Cohen Center report safety for home-use magnetic therapy and long-term antiviral case series, a major controlled trial of specialized inpatient rehabilitation in Germany showed no significant physical function benefit over standard GP care.
+National research and care infrastructure has grown substantially with new large-scale funding and specialized networks. In Europe, the launching of the €7.5 million DISCOVER-ME consortium aims to standardize biobank protocols across 20+ institutions to validate multi-system biomarkers. In Germany, the BMG-funded PEDNET-LC network has established care pathways and a centralized pediatric registry, complementing childhood cohort data showing that pediatric post-COVID symptom persistence correlates stepwise with initial infection severity. However, therapeutic evidence remains preliminary: while pilot updates from the Cohen Center report safety for home-use magnetic therapy and long-term antiviral case series, a peer-reviewed, non-randomized controlled Charité study found no statistically significant 12-month physical-function difference for integrated multidisciplinary care with inpatient rehabilitation compared with a single specialist consultation.
 
 Recent evidence also makes the practical gaps harder to dismiss. Population cohorts show that high-burden Long COVID trajectories and persistent post-COVID symptoms can plateau rather than resolve quickly, while patient-led measurement tools and an international diagnostic consensus are pushing care toward lower-burden, PEM-aware assessment. Surveys document medical and administrative invalidation as structural barriers, and trial-landscape work shows that patient-prioritized treatments and PEM endpoints remain sparsely represented. These developments improve orientation and study design, but they do not amount to validated biomarkers or proven disease-modifying treatments.
 
@@ -217,14 +217,6 @@ Sources:
 
 - [Grach et al. 2026, Annals of Family Medicine](https://doi.org/10.1370/afm.250266)
 
-### 2026-05-07 - German CFS_CARE study finds no physical function difference for specialized inpatient rehabilitation
-
-In a presentation at the Internationale ME/CFS-Konferenz 2026, preliminary results from the German "CFS_CARE" prospective study (funded by the G-BA Innovationsfonds) were shared. The study compared 12-month outcomes for ME/CFS patients who received specialized interdisciplinary outpatient care and a customized five-week inpatient rehabilitation program against a control group managing symptoms through standard primary care. The analysis showed no statistically significant differences between the two groups in physical function (measured via SF-36) or secondary outcomes after 12 months. This trial suggests that standard inpatient rehabilitation models—even when customized—are not effective at improving physical function in ME/CFS patients compared to routine GP care, highlighting the need for caution to avoid triggering post-exertional malaise. However, these findings are preliminary, conference-reported results that have not yet undergone peer review or been published with full data tables. The lack of benefit could stem from cohort heterogeneity or the rehabilitation design failing to sufficiently prevent exertional triggers.
-
-Sources:
-
-- [Wittke, CFS_CARE presentation at the Internationale ME/CFS-Konferenz 2026](https://youtu.be/A9kK1RJTFP8)
-
 ### 2026-05-07 - Day 1 of International ME/CFS Conference 2026 in Berlin surfaces genetics, neuroimaging, and metabolic convergence
 
 A live social-media thread summarising the first day of the International ME/CFS Conference in Berlin covered 19 presentations from global researchers spanning genetics, neuroimaging, immunology, and metabolic dysfunction. Highlights included neural tissue enrichment of DecodeME genetic signals, distinct autoimmune endotypes from immune profiling, neuroinflammation evidenced by TSPO-PET imaging and white matter MRI, impaired brain energy metabolism measured by phosphorus MRS, and distinct lactate recovery trajectories after exertion in ME/CFS and post-infectious cohorts. The conference-level context matters for clinical characterization because it shows where the field's subtyping efforts are converging: researchers from multiple independent groups are pointing to similar biological disruptions using different measurement modalities, which strengthens the case for pathological consistency even without yet having validated biomarkers. These are preliminary data from ongoing projects and have not yet completed full peer review.
@@ -379,11 +371,12 @@ Sources:
 
 ### 2026-06-22 - Jordan Delphi study adapts home-based pulmonary rehabilitation for Long COVID with PEM safeguards
 
-A modified e-Delphi study with 15 multidisciplinary experts developed a culturally adapted home-based pulmonary rehabilitation program for Long COVID in Jordan. The final consensus emphasized low-technology delivery, phone-based supervision, Borg RPE monitoring, symptom-contingent progression, pacing, energy conservation, and mandatory PEM screening. This matters because rehabilitation designs that ignore PEM can cause harm, while resource-limited settings need feasible models that do not rely on intensive specialist access. The study is consensus-based and has not yet shown clinical outcomes. It is best treated as care-model design, not proof that rehabilitation improves PEM-defined illness.
+An expert consensus survey informed by qualitative item generation (Delphi-like), with 15 multidisciplinary experts, developed a culturally adapted home-based pulmonary rehabilitation program for Long COVID in Jordan; 90 of 97 statements (92.8%) reached consensus. The final consensus emphasized low-technology delivery, symptom-contingent progression, pacing, energy conservation, and mandatory PEM screening; the preprint version also described phone-based supervision and Borg RPE monitoring. This matters because rehabilitation designs that ignore PEM can cause harm, while resource-limited settings need feasible models that do not rely on intensive specialist access. The study is consensus-based and has not yet shown clinical outcomes. It is best treated as care-model design, not proof that rehabilitation improves PEM-defined illness.
 
 Sources:
 
-- [Shaltaf et al. 2026, Research Square](https://www.researchsquare.com/article/rs-9973821/latest)
+- [Shaltaf et al. 2026, Scientific Reports](https://www.nature.com/articles/s41598-026-70867-x)
+- [Shaltaf et al. 2026, Research Square preprint](https://www.researchsquare.com/article/rs-9973821/latest)
 
 ### 2026-06-25 - Cohen Center updates detail pilot trial results of microtesla magnetic therapy and antiviral combination protocol
 
@@ -828,6 +821,31 @@ Kujawski and colleagues used a modified Nominal Group Technique with 19 experts 
 Sources:
 
 - [Kujawski et al. 2026, BMC Medicine](https://doi.org/10.1186/s12916-026-05161-8)
+
+### 2026-09-20 - Melbourne study finds slower processing speed and greater psychosocial burden in adolescents with mild-to-moderate ME/CFS
+
+Chau and colleagues compared 25 adolescents with mild-to-moderate ME/CFS with 25 healthy controls aged 10–19 years in Melbourne, using self-report questionnaires, caregiver ratings, and in-person cognitive testing. The ME/CFS group had significantly slower information processing speed, while other measures of intellectual functioning did not differ consistently. Adolescents with ME/CFS also reported poorer sleep and quality of life and more anxiety and depression; caregivers reported attention and working-memory concerns but no group difference in internalising behaviours, and adolescent and caregiver ratings did not always agree. The authors call for flexible, paced accommodations at school and in clinical care. This is a small, single-site, cross-sectional study, and the abstract does not report effect sizes, diagnostic criteria, or whether testing triggered PEM. Severe and bedbound adolescents were excluded by design, and an in-person test battery may be too demanding for them. The findings describe cognitive and psychosocial burden, not brain pathology.
+
+Sources:
+
+- [Chau et al. 2026, Journal of Paediatrics and Child Health](https://doi.org/10.1111/jpc.70587)
+
+### 2026-09-22 - Peer-reviewed Charité integrated-care study detects no 12-month physical-function advantage
+
+Peters, Wittke, Scheibenbogen, and colleagues at the Charité Fatigue Center published a prospective, open-label, non-randomized controlled study of an integrated multidisciplinary care model, enrolling patients in 2022–2023. This is very likely the full publication of the CFS_CARE study first reported by Wittke at the Internationale ME/CFS-Konferenz on 7 May 2026, although the abstract does not name CFS_CARE, so cohort identity cannot be confirmed from it alone. The intervention group received multidisciplinary specialist assessment, clinical management, and tailored inpatient rehabilitation (five weeks, according to the conference talk); the control group received one outpatient specialist consultation plus a report for their primary physician. In the per-protocol analysis (89 intervention, 93 control), 12-month SF-36 physical functioning did not differ significantly, and disability, symptom severity, quality of life, handgrip strength, and steps per day showed no substantial differences. Everyone who started rehabilitation completed it, but completion does not establish PEM safety. The abstract reports no intention-to-treat or adverse-event data, and bedbound inclusion was not reported.
+
+Sources:
+
+- [Peters et al. 2026, The American Journal of Medicine](https://doi.org/10.1016/j.amjmed.2026.09.013)
+- [Wittke, CFS_CARE presentation at the Internationale ME/CFS-Konferenz 2026](https://youtu.be/A9kK1RJTFP8)
+
+### 2026-09-25 - PYCNOVID secondary analysis sets an 8-point EQ-VAS minimal important difference in post-COVID condition
+
+Kopp and colleagues at the University of Zurich pooled both arms of the single-centre Swiss PYCNOVID trial, a 12-week comparison of Pycnogenol with placebo, to study how the EQ-VAS, a single 0–100 self-rating of health, behaves in adults with post-COVID-19 condition. Participants rated EQ-VAS on seven consecutive days before randomisation and again at 12 weeks. Among 153 participants, baseline self-rated health was low (median 48.7) and day-to-day variability was considerable (median within-person SD 6.4 points). Triangulating distribution-based estimates with an anchor-based estimate from FACIT-Fatigue, the only anchor meeting the prespecified correlation threshold, the authors set a minimal important difference of 8 points and suggest that a weekly average of daily ratings is more robust than a single-day rating. This is a measurement paper and says nothing about whether Pycnogenol works. The population was post-COVID condition rather than criteria-defined ME/CFS, the share with PEM was not reported, and applicability to housebound or bedbound patients is unknown.
+
+Sources:
+
+- [Kopp et al. 2026, BMJ Open](https://doi.org/10.1136/bmjopen-2026-121051)
 
 ## Related Threads
 

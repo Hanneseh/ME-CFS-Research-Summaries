@@ -31,7 +31,7 @@ The identification of structural capillary alterations and circulating microclot
 
 - **Established:** ME/CFS and Long COVID research continues to show reproducible signs of vascular dysregulation, including impaired perfusion, endothelial stress, abnormal clotting biology, and links between these changes and symptom burden.
 - **Plausible but early:** Multi-scale approaches are gaining traction, with nailfold capillaroscopy, orthostatic cerebral flow measurements, extracellular-vesicle cargo, endothelial-platelet transcriptomic programs, thromboelastography, necroptosis-mediated endothelial injury, and interstitial matrix models all pointing toward thrombo-inflammatory perfusion problems. These signals are mechanistically coherent, but they are not yet standardized enough for routine use.
-- **Not established:** It remains unclear whether microclots, endothelial injury, and platelet activation are primary disease drivers, downstream consequences, or only one branch of a broader multi-system process. TEG-guided management, anticoagulant strategies, and other clot-targeting interventions do not yet have robust controlled evidence in these populations. Static retinal microvascular metrics (such as OCTA vessel density and foveolar avascular zone) have not separated post-COVID patients from recovered controls, in contrast to dynamic functional retinal vessel analysis.
+- **Not established:** It remains unclear whether microclots, endothelial injury, and platelet activation are primary disease drivers, downstream consequences, or only one branch of a broader multi-system process. TEG-guided management, anticoagulant strategies, and other clot-targeting interventions do not yet have robust controlled evidence in these populations. Static retinal microvascular metrics (such as OCTA vessel density and foveolar avascular zone) have not separated post-COVID patients from recovered controls, in contrast to dynamic functional retinal vessel analysis. Circulating NETosis markers were not raised in one long-duration, severe Long COVID cohort, so sampling timing and assay choice matter for the NET-scaffolded microclot model.
 - **Key limitations:** Several important additions are conference-stage findings, small female-only biomarker cohorts, or review-level syntheses. Assay standardization remains a major barrier, especially for microclot detection, real-time coagulation profiling, and thromboelastography-based assessment across different laboratories.
 
 ## Timeline
@@ -179,6 +179,14 @@ In a case-control study of 36 people with Long COVID and 47 age-matched controls
 Sources:
 
 - [Lewandowska et al. 2026, Microcirculation](https://doi.org/10.1111/micc.70085)
+
+### 2026-09-08 - Severe long-term Long COVID cohort shows no rise in circulating NETosis markers
+
+In a single-centre, cross-sectional brief report from Erasmus MC, Humer et al. measured three plasma NETosis markers (MPO-DNA, histone-DNA, and citrullinated H3) in 51 people with severe Long COVID and 52 age- and sex-matched controls who had recovered from COVID-19. Inclusion required self-reported PEM and functioning at or below 70% of pre-COVID health; median functioning was 20% after about 3 years of illness. No marker differed significantly between groups (MPO-DNA was borderline, p=0.08), clustering found no subgroups, and levels did not track symptom burden, PEM, or disease duration. This is a counterweight to the Thierry 2025 and Steifman 2026 NET findings, but it measured circulating markers at a single timepoint, not NETs embedded in microclots, and cannot exclude earlier or intermittent NETosis. The cohort was not classified by ME/CFS criteria, groups differed in variant era and supplement use, and bedbound or housebound status was not reported; participation required a blood draw and questionnaires.
+
+Sources:
+
+- [Humer et al. 2026, Frontiers in Cellular and Infection Microbiology](https://doi.org/10.3389/fcimb.2026.1920533)
 
 ## Related Threads
 
