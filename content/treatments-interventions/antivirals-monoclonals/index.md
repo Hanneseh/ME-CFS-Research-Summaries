@@ -1,8 +1,8 @@
 ---
 title: Antivirals & Monoclonal Antibodies
 description: A living thread tracking antiviral drugs, viral-targeting monoclonal antibodies, and pathogen-directed immunotherapies in ME/CFS and Long COVID.
-date: 2026-09-16
-last_updated: 2026-09-16
+date: 2026-10-07
+last_updated: 2026-10-07
 thread_status: active
 evidence_level: early clinical and preclinical
 primary_topics:
@@ -21,7 +21,7 @@ cssclasses:
 
 Targeting persistent viral pathogens and the acute post-viral inflammatory response represents a major therapeutic focus for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID. The clinical rationale is built around two primary hypotheses: first, that chronic symptoms are driven by the persistence of viral reservoirs or viral proteins (such as SARS-CoV-2 or Epstein-Barr virus) that continuously trigger immune responses; and second, that acute viral infections initiate a self-sustaining inflammatory cascade that leads to long-term neurological damage, even after the active virus is cleared.
 
-Recent developments span preclinical models and early-phase human trials testing vaccines, monoclonal antibodies, and combination regimens. In clinical studies, a Phase 2a trial of the SARS-CoV-2 monoclonal antibody AER002 demonstrated safety but did not show clinical benefit in a broad Long COVID cohort, though post-hoc analyses suggest potential efficacy in patients with low baseline immunity. In Epstein-Barr virus (EBV) research, a Phase I trial of a gp350 ferritin nanoparticle vaccine demonstrated the safety and durability of neutralizing antibody responses in humans, while preclinical work has identified fully human monoclonal antibodies targeting EBV glycoproteins gp350 and gp42 that successfully block infection in humanized mouse models. Additionally, preclinical work on SARS-CoV-2 shows that combining antiviral agents with anti-inflammatory corticosteroids mitigates long-term dopaminergic neuron loss and microglial activation in mice.
+Recent developments span preclinical models and early-phase human trials testing vaccines, monoclonal antibodies, and combination regimens. In clinical studies, a Phase 2a trial of the SARS-CoV-2 monoclonal antibody AER002 demonstrated safety but did not show clinical benefit in a broad Long COVID cohort; its peer-reviewed Nature Communications publication concludes the drug was not efficacious: the day-90 primary endpoint was missed, and no significant differences in physical health, quality of life, objective physical or cognitive function, or blood biomarkers were found during 360 days of follow-up, and treating a perceived-benefit signal in patients with low baseline antibodies and higher drug exposure as post-hoc and hypothesis-generating only. Additionally, a small uncontrolled study of tixagevimab/cilgavimab in nine immunodeficient spike-positive post-COVID ME/CFS patients observed no group-level clinical change and a non-significant spike decline. In Epstein-Barr virus (EBV) research, a Phase I trial of a gp350 ferritin nanoparticle vaccine demonstrated the safety and durability of neutralizing antibody responses in humans, while preclinical work has identified fully human monoclonal antibodies targeting EBV glycoproteins gp350 and gp42 that successfully block infection in humanized mouse models. Preclinical work on SARS-CoV-2 also shows that combining antiviral agents with anti-inflammatory corticosteroids mitigates long-term dopaminergic neuron loss and microglial activation in mice.
 
 These findings are early and contain significant uncertainties. The clinical trials completed to date are small, pilot-phase, or open-label studies that do not prove therapeutic efficacy in broad patient populations. Preclinical findings in animal models require clinical trials to establish whether the observed mechanisms, therapeutic windows, and drug combinations translate to humans.
 
@@ -37,7 +37,8 @@ The development of targeted antiviral therapies, pathogen-specific monoclonal an
   - Systemic SARS-CoV-2 infection in mice can lead to long-term microglial activation and loss of dopaminergic neurons even without persistent viral replication in the brain.
 
 - **Plausible but early:**
-  - A single infusion of a SARS-CoV-2-specific monoclonal antibody (AER002) is safe in people with Long COVID and may provide clinical benefit in a subset of patients characterized by low baseline natural antibody levels.
+  - A single AER002 infusion was safe and well tolerated in Long COVID; a post-hoc perceived-benefit signal in people with low baseline antibodies and higher drug exposure is hypothesis-generating only.
+  - In a small uncontrolled study, tixagevimab/cilgavimab given to immunodeficient spike-positive post-COVID ME/CFS patients produced a nominal, unadjusted β1-adrenergic autoantibody decline without clinical or significant spike change.
   - An EBV gp350 ferritin nanoparticle vaccine adjuvanted with Matrix-M safely induces durable neutralizing antibody levels in humans that exceed those from natural infection.
   - Early administration of a combined antiviral and anti-inflammatory therapy (nirmatrelvir/molnupiravir + corticosteroids) post-infection prevents persistent neurological and behavioral deficits by limiting the host inflammatory cascade.
   - Fully human monoclonal antibodies targeting EBV gp42 and gp350 protect against EBV infection in humanized mouse models.
@@ -49,7 +50,8 @@ The development of targeted antiviral therapies, pathogen-specific monoclonal an
 
 - **Key limitations:**
   - Clinical data for the EBV vaccine candidate are limited to a small (n=40), open-label Phase I trial in healthy adults, lacking placebo control and direct efficacy data.
-  - The Phase 2a trial of AER002 in Long COVID was small (n=36) and did not meet its primary clinical endpoint, with potential confounding from high baseline antibody levels in the placebo group.
+  - The Phase 2a trial of AER002 in Long COVID was small (n=36) and did not meet its primary clinical endpoint, with its journal version reporting no efficacy on primary or objective secondary endpoints through 360 days, alongside potential confounding from high baseline antibody levels in the placebo group.
+  - The tixagevimab/cilgavimab study was non-randomized and analysed only 9 immunodeficient patients over 30 days of follow-up; the healthy reference group was not an efficacy control, the drug was administered under its prophylaxis indication, and adverse events were not reported in the abstract.
   - Therapeutic efficacy of combined antiviral/anti-inflammatory regimens and EBV-specific monoclonal antibodies has only been demonstrated in preclinical animal models, which may not replicate human disease pathobiology or treatment windows.
 
 ## Timeline
@@ -78,14 +80,6 @@ Sources:
 
 - [Chhan et al. 2026, Cell Reports Medicine](https://doi.org/10.1016/j.xcrm.2026.102618)
 
-### 2026-03-09 - Phase 2a trial of SARS-CoV-2 monoclonal antibody AER002 in Long COVID
-
-A Phase 2a randomized, double-blind, placebo-controlled clinical trial evaluated a single infusion of the SARS-CoV-2-specific monoclonal antibody AER002 in 36 people with Long COVID. The trial demonstrated that the infusion was safe but found no statistically significant difference in physical or cognitive function between the treatment and placebo groups at the 90-day primary endpoint. A post-hoc analysis indicated that participants with lower baseline natural antibody levels and higher drug exposure reported greater perceived symptom improvements. This study provides a clinical test of the viral persistence hypothesis, suggesting that baseline humoral immunity and pharmacokinetic exposure are key variables for selecting patients in future trials. However, because the trial did not meet its primary endpoint and was limited by a small sample size, it does not prove the efficacy of AER002 or general monoclonal antibodies for Long COVID.
-
-Sources:
-
-- [Peluso et al. 2026, medRxiv](https://doi.org/10.64898/2026.03.07.26347857)
-
 ### 2026-08-31 - RECOVER-VITAL phase 2 trial finds no day-90 benefit from 15 or 25 days of Paxlovid
 
 The multicentre, double-blind, placebo-controlled RECOVER-VITAL phase 2 trial randomized 959 adults with established Long COVID at 69 US centres to 15 or 25 days of nirmatrelvir-ritonavir or matched placebo. Neither duration improved prespecified cognitive, autonomic, or exercise-intolerance/PEM phenotypes at day 90; serious adverse events were balanced at about 4% in the available summary. The oral intervention was comparatively low burden, but repeated site visits and medication interactions still matter. The cohort did not adequately represent homebound or bedbound patients. This negative result argues against unselected short-course antiviral monotherapy for established Long COVID, while leaving biomarker-selected, longer, or combination strategies unresolved; it is not direct ME/CFS treatment evidence.
@@ -104,6 +98,24 @@ Sources:
 - [ERASE-LC 2026, initial medRxiv preprint](https://doi.org/10.64898/2026.07.26.26358852)
 - [ClinicalTrials.gov NCT05911906](https://clinicaltrials.gov/study/NCT05911906)
 
+### 2026-09-30 - AER002 phase 2a journal publication: safe, not efficacious in Long COVID
+
+The peer-reviewed publication of the AER002 phase 2a mechanistic trial in Nature Communications follows the 2026-03-09 medRxiv preprint, evaluating a single infusion of the SARS-CoV-2 monoclonal antibody in 36 adults meeting the WHO Long COVID case definition with 360 days of follow-up (NCT05877508). In this exploratory, double-blind, 2:1 randomized, placebo-controlled trial, AER002 was safe and well tolerated, but missed its primary endpoint of PROMIS-29 physical health summary score at day 90. The authors conclude that AER002 was 'not efficacious in this proof-of-concept study', with no significant differences observed between arms in physical health, quality of life, objective physical or cognitive function, or blood biomarkers. A post-hoc subgroup analysis found that lower baseline anti-spike antibody levels and higher drug exposure correlated with greater perceived benefit on the Patient Global Impression of Change (PGIC), but this retrospective signal remains strictly hypothesis-generating. Eligibility did not require ME/CFS criteria, homebound or bedbound status was not reported, and four study co-authors are affiliated with Aerium Therapeutics. The trial tests spike-directed antibody therapy, but neither demonstrates viral clearance nor establishes clinical benefit.
+
+Sources:
+
+- [Peluso et al. 2026, Nature Communications](https://doi.org/10.1038/s41467-026-77925-y)
+- [Peluso et al. 2026, initial medRxiv preprint](https://doi.org/10.64898/2026.03.07.26347857)
+- [ClinicalTrials.gov NCT05877508](https://clinicaltrials.gov/study/NCT05877508)
+
+### 2026-10-07 - Tixagevimab/cilgavimab in immunodeficient spike-positive post-COVID ME/CFS: no group-level clinical change
+
+A prospective, non-randomized observational pre/post study from Marien Hospital Herne and Ruhr-Universität Bochum investigated the anti-spike monoclonal combination tixagevimab/cilgavimab administered for pre-exposure prophylaxis in 10 immunodeficient patients with post-COVID ME/CFS and persistent circulating spike protein. Nine patients completed baseline and day-30 assessments alongside 11 healthy convalescent controls who served only as a descriptive reference rather than an efficacy comparator. At 30 days, β1-adrenergic receptor (β1-AR) autoantibodies decreased from 26.8 ± 18.2 to 21.2 ± 14.7 U/ml (unadjusted p=0.003), whereas β2-AR and muscarinic M3/M4 autoantibodies remained unchanged, circulating spike declined non-significantly from a median of 63 to 26 pg/ml (p=0.63), and no group-level clinical improvement was detected. The report is limited by a small sample size, single-arm open design, short 30-day follow-up, and no adverse-event reporting in the abstract. These exploratory findings link to related work on GPCR autoantibodies in post-COVID cohorts by the same Bochum research group covered in [Autoimmunity & Autoantibodies](../../disease-models-mechanisms/autoimmunity-autoantibodies/), but they do not establish that persistent spike protein is disease-causing or that monoclonal therapy provides clinical benefit in ME/CFS.
+
+Sources:
+
+- [Seidel et al. 2026, Immunology Letters](https://doi.org/10.1016/j.imlet.2026.107247)
+
 ## Open Questions
 
 - What is the therapeutic window for combined antiviral and anti-inflammatory regimens to prevent post-viral neurological damage in humans?
@@ -113,6 +125,8 @@ Sources:
 
 ## Related Threads
 
+- [Autoimmunity & Autoantibodies](../../disease-models-mechanisms/autoimmunity-autoantibodies/)
 - [Daratumumab & Plasma-Cell Targeting](../daratumumab-plasma-cell-targeting/)
 - [Low-Dose Naltrexone (LDN)](../low-dose-naltrexone/)
 - [Rapamycin & mTOR Inhibition](../rapamycin-mtor/)
+- [Viral Persistence & Reactivation](../../disease-models-mechanisms/viral-persistence-reactivation/)

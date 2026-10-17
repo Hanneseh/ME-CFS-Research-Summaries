@@ -1,8 +1,8 @@
 ---
 title: Emerging Pharmacotherapy
 description: Clinical trials, pilot studies, and case reports of repurposed drugs, supplements, and experimental therapies for ME/CFS and Long COVID.
-date: 2026-09-16
-last_updated: 2026-09-16
+date: 2026-09-29
+last_updated: 2026-09-29
 thread_status: active
 evidence_level: early clinical trials and pilot studies
 primary_topics:
@@ -25,6 +25,8 @@ primary_topics:
   - Intermittent Hypoxia-Hyperoxia Treatment (IHHT)
   - Bezisterim (NE3107)
   - Rozanolixizumab
+  - Microtesla Magnetic Therapy
+  - Virtual Reality Exergaming
 cssclasses:
   - thread-page
 ---
@@ -33,7 +35,7 @@ cssclasses:
 
 Clinical management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID currently relies on the off-label repurposing of drugs and supplements targeting suspected pathological mechanisms. Key areas of investigation focus on resolving autonomic dysfunction (preload failure), restoring mitochondrial bioenergetics, correcting chronic neuroinflammation, and clearing persistent post-viral reservoirs. A growing body of clinical trial protocols, randomized pilot studies, and case reports tracks these interventions to identify promising signals that warrant larger-scale replication.
 
-Recent clinical studies have evaluated several new interventions, including the acetylcholinesterase inhibitor donepezil for fatigue and depression in a subgroup of Post-Acute Sequelae of COVID-19 (PASC) patients with HHV-6B SITH-1-induced acetylcholine deficiency, telehealth-delivered cognitive rehabilitation for goal attainment, and physical/behavioral modalities like Tuina massage and mind-body retraining. A major safety signal emerged from the PoCoWiT randomized controlled trial, which tested high-dose oral methylprednisolone for post-COVID cognitive dysfunction; the trial was terminated early due to a cluster of serious adverse events—including pulmonary embolism, deep vein thrombosis, and serious infections—along with a complete lack of efficacy. Meanwhile, the PsyLoCo randomized waitlist-controlled trial (n=48) found that standardized psychotherapeutic group sessions did not significantly reduce somatic symptom burden, depression, or anxiety in Post-COVID-19 condition compared to treatment as usual. A 15-patient retrospective conference abstract on off-label esketamine adds only an exploratory neuropsychiatric Long-COVID signal and cannot establish efficacy.
+Recent clinical studies have evaluated several new interventions, including the acetylcholinesterase inhibitor donepezil for fatigue and depression in a subgroup of Post-Acute Sequelae of COVID-19 (PASC) patients with HHV-6B SITH-1-induced acetylcholine deficiency, telehealth-delivered cognitive rehabilitation for goal attainment, and physical/behavioral modalities like Tuina massage and mind-body retraining. A major safety signal emerged from the PoCoWiT randomized controlled trial, which tested high-dose oral methylprednisolone for post-COVID cognitive dysfunction; the trial was terminated early due to a cluster of serious adverse events—including pulmonary embolism, deep vein thrombosis, and serious infections—along with a complete lack of efficacy. Meanwhile, the PsyLoCo randomized waitlist-controlled trial (n=48) found that standardized psychotherapeutic group sessions did not significantly reduce somatic symptom burden, depression, or anxiety in Post-COVID-19 condition compared to treatment as usual. A 15-patient retrospective conference abstract on off-label esketamine adds only an exploratory neuropsychiatric Long-COVID signal and cannot establish efficacy. A peer-reviewed sham-controlled pilot of at-home microtesla magnetic therapy in Long COVID cognitive impairment supports feasibility and tolerability only; no cognitive or emotional difference survived FDR correction. An RCT of immersive VR exergaming versus conventional activation exercise for post-COVID fatigue missed its primary endpoint, did not require PEM for inclusion, and does not establish exercise safety or efficacy in ME/CFS.
 
 Although these trials and mechanistic concepts offer biological rationales, the evidence base remains early and preliminary. Many studies are small, open-label, or lack randomized control groups, which limits statistical power and increases the risk of bias. Consequently, no pharmacological or behavioral intervention has achieved regulatory approval or demonstrated definitive, disease-modifying efficacy in large-scale, placebo-controlled settings, leaving substantial uncertainty regarding long-term safety, optimal dosing, and generalizability across heterogeneous patient cohorts.
 
@@ -75,6 +77,8 @@ Systematic research into these agents offers objective measures of efficacy to c
   - Efficacy of bezisterim (NE3107) in Long COVID; a sponsor-reported, not yet peer-reviewed phase 2 topline found no significant endpoint in the full intent-to-treat population, and its high-symptom-burden subgroup signals need confirmation.
   - Group-level benefit from unselected IgG lowering; in adjacent fibromyalgia, the FcRn blocker rozanolixizumab showed no broad group-level efficacy in a phase 2a RCT, which is not ME/CFS treatment evidence.
   - Long-term safety, optimal dosing, and durability of donepezil, Tuina therapy, or cognitive rehabilitation programs.
+  - Efficacy of microtesla magnetic therapy for Long COVID cognitive impairment; the 33-randomized pilot met its feasibility endpoint and reported no device-related AEs, but no exploratory cognitive or quality-of-life outcome survived FDR correction.
+  - Superiority of VR neuromuscular exergaming over conventional activation exercise for post-COVID fatigue (IFATICO primary endpoint not significant), or applicability of either to PEM-defined ME/CFS.
 - **Key limitations:**
   - Small sample sizes in pilot studies (e.g., 20 patients for pyridostigmine hand grip, 10 patients for ketamine crossover, 5 patients for amifampridine and cromolyn series) limit statistical power and generalizability.
   - High risk of placebo effects and response bias in open-label studies and retrospective case series.
@@ -84,6 +88,8 @@ Systematic research into these agents offers objective measures of efficacy to c
   - Uncontrolled observational designs (The Switch cohort) cannot exclude spontaneous recovery or selection bias.
   - The PsyLoCo trial's small sample (n=48) and waitlist-controlled design in an outpatient psychosomatic setting limited statistical power to detect small effect sizes.
   - Use of broad diagnostic criteria (e.g., 1994 CDC Fukuda criteria for Tuina) that do not require post-exertional malaise limits applicability to strict ME/CFS.
+  - Industry funding and Fareon employee co-authors in the microtesla magnetic therapy pilot.
+  - The IFATICO trial had no rest or pacing control, PEM was not an inclusion criterion, and severe patients were effectively excluded.
 
 ## Timeline
 
@@ -384,6 +390,22 @@ Sources:
 
 - [Efficacy and safety of rozanolixizumab in severe fibromyalgia: a phase 2A randomised trial (The Lancet Rheumatology 2026)](<https://doi.org/10.1016/S2665-9913(26)00252-3>)
 - [ClinicalTrials.gov Registry: NCT05643794](https://clinicaltrials.gov/study/NCT05643794)
+
+### 2026-09-28 - Microtesla magnetic therapy pilot reports feasibility, but no FDR-corrected cognitive benefit
+
+A randomized (2:1), sham-controlled pilot study at Mount Sinai evaluated an at-home microtesla magnetic therapy headset (Fareon Restore, 27.12 MHz) in adults with Long COVID and objective cognitive impairment (Canori et al., NCT06739668). Participants self-administered 15-minute sessions twice weekly for 4 weeks with follow-up at week 8; 33 individuals were randomized and 30 completed the protocol (20 active, 10 sham), with 90.9% meeting the primary feasibility benchmark and no device-related or serious adverse events reported. Although exploratory uncorrected week-8 comparisons favoured the active arm on measures including Digit Span Sequencing, verbal learning, colour naming, and emotional well-being, no cognitive or quality-of-life differences survived false discovery rate (FDR) correction. The study was funded by Fareon, Inc., included two employee co-authors, did not assess ME/CFS, and required in-person neuropsychological testing that effectively excluded severe or bedbound individuals. This paper represents the peer-reviewed publication of the pilot previously presented on 2026-06-25 (discussed in [Clinical Characterization & Epidemiology](../../diagnostics-symptoms-care/clinical-characterization-epidemiology/)), confirming feasibility and tolerability without demonstrating clinical efficacy.
+
+Sources:
+
+- [Canori et al. 2026, Brain Communications](https://doi.org/10.1093/braincomms/fcag364)
+
+### 2026-09-29 - IFATICO RCT does not establish superiority of VR exergaming for post-COVID fatigue
+
+In the single-centre double-blind IFATICO trial in Heidelberg (DRKS00032059), 100 adults meeting WHO post-COVID criteria with fatigue severity scale (FSS) scores $\ge$36 were randomized to 12 supervised 45-minute sessions over 6 weeks of either immersive virtual reality neuromuscular exergaming (n=48) or conventional activation exercise (n=52). Exercise intensity in both arms was guided by Borg ratings of perceived exertion adjusted to prevent post-exertional malaise (PEM), and while fatigue improved in both groups, the primary endpoint showed no statistically significant difference between arms (between-group difference 3.03 points; 95% CI −1.02 to 7.06; p=0.15). Responder rates were comparable (37% vs 32%), and while dropouts (3 vs 12) and overall symptom worsening (4/46 vs 11/50; p=0.07, not significant) were numerically lower in the VR arm, worsening episodes of PEM occurred in both groups (3 in VR vs 1 in conventional) without serious adverse events. The trial lacked a rest or pacing control group, the conventional exercise arm exceeded its intended exertion ceiling, and exploratory secondary outcomes were uncorrected for multiplicity. Because PEM was not an inclusion criterion and in-person attendance effectively excluded severe or bedbound individuals, these findings cannot be generalized to PEM-defined ME/CFS and do not establish exercise safety or efficacy for ME/CFS (see [Post-Exertional Malaise & Exercise Physiology](../../diagnostics-symptoms-care/pem-exercise-physiology/)).
+
+Sources:
+
+- [Lange et al. 2026, Psychotherapy and Psychosomatics](https://doi.org/10.1159/pps/aemag017)
 
 ## Open Questions
 

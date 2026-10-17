@@ -1,8 +1,8 @@
 ---
 title: Immune Dysregulation & Chronic Inflammation
 description: A living thread on cellular immune activation, cytokine profiles, CD8 T-cell dysfunction/exhaustion, monocyte subsets, HLA associations, mast cell activation, and inflammasome pathways in ME/CFS and Long COVID.
-date: 2026-08-27
-last_updated: 2026-08-27
+date: 2026-09-29
+last_updated: 2026-09-29
 thread_status: active
 evidence_level: clinical and mechanistic validation
 primary_topics:
@@ -21,7 +21,7 @@ Immune dysregulation remains one of the most consistent findings across ME/CFS a
 
 The latest additions sharpen that picture. Single-cell mass cytometry (CyTOF) reveals sex-specific T-cell dysregulation—highlighting elevated IFNγ-producing γδ T cells in males versus chronic CD8+ memory T-cell stimulation in females. Complementary work identifies elevated serum IL-11 and MMP-9, maps monocyte and NK-cell alterations, details IL-6 family and gp130 cytokine signaling pathways, synthesizes post-viral immunomodulatory strategies, and outlines a conceptual system-dynamics model for mast cell activation syndrome (MCAS). These findings fit the idea that immune dysfunction interacts closely with vascular, endocrine, and metabolic systems rather than operating in isolation.
 
-The evidence still needs cautious handling. Some additions are preliminary or conceptual, including a conference abstract on sex-specific CyTOF profiling, narrative literature reviews on cytokine pathways and immunomodulation, a webinar on antigen discovery, and a theoretical perspective on MCAS stability states. Even the peer-reviewed case-control studies remain mostly cross-sectional, so they help define plausible mechanisms and subgroups more than they prove one dominant cause.
+The evidence still needs cautious handling. Some additions are preliminary or conceptual, including a conference abstract on sex-specific CyTOF profiling, narrative literature reviews on cytokine pathways and immunomodulation, a webinar on antigen discovery, and a theoretical perspective on MCAS stability states. Even the peer-reviewed case-control studies remain mostly cross-sectional, so they help define plausible mechanisms and subgroups more than they prove one dominant cause. An Erasmus MC study found no detectable resting peripheral-blood immune differences between people with long-term severe Long COVID and convalescent controls, limiting the diagnostic use of the assessed blood immune markers years after onset while leaving exertion-triggered, tissue, or central nervous system immune involvement untested.
 
 ## Why This Matters
 
@@ -32,7 +32,7 @@ Unraveling the precise mechanisms of immune dysregulation is essential for movin
 - **Established:** Post-infectious immune abnormalities are repeatedly observed in both ME/CFS and Long COVID, including altered lymphocyte populations, impaired cytotoxic-cell function, inflammatory cytokine changes, and evidence of ongoing innate-adaptive mismatch.
 - **Plausible but early:** Sex-stratified T-cell dysregulation (male γδ T-cell IFNγ production vs female CD8+ memory chronic stimulation), antigen-specific T-cell exhaustion, monocyte and NK-cell inflammatory programs, mast-cell-linked IL-11/MMP-9 signaling, IL-6 family/gp130 cytokine cascades, and altered glycosylation patterns all have growing support as subgroup-defining mechanisms. These may help explain why some patients look more immune-activated, others more immune-suppressed, and some show stronger vascular or autonomic overlap.
 - **Not established:** It is still not clear which immune abnormalities are upstream disease drivers, which are downstream consequences, and which are compensatory responses. Target-antigen discovery has not yet produced validated public antigen panels, and candidate IL-6 or MMP-9 inhibitors are not established treatments for ME/CFS. Furthermore, while theoretical system-dynamics frameworks model Mast Cell Activation Syndrome (MCAS) as a driver of systemic volatility, MCAS is not established as the primary underlying mechanism of ME/CFS.
-- **Key limitations:** Several important additions are conference abstracts (e.g. AAI IMMUNOLOGY2026 CyTOF abstract) or narrative literature reviews. Most empirical studies remain cross-sectional and blood-based, which limits conclusions about tissue-resident immune dysfunction in the gut, marrow, vasculature, or nervous system. Additionally, proposed MCAS system-dynamics models are purely conceptual and require extensive longitudinal clinical validation.
+- **Key limitations:** Several important additions are conference abstracts (e.g. AAI IMMUNOLOGY2026 CyTOF abstract) or narrative literature reviews. Most empirical studies remain cross-sectional and blood-based, which limits conclusions about tissue-resident immune dysfunction in the gut, marrow, vasculature, or nervous system. Additionally, proposed MCAS system-dynamics models are purely conceptual and require extensive longitudinal clinical validation. Resting blood sampling also cannot evaluate exertion-dependent or tissue-resident immune changes, which remain untested by null resting-blood findings in long-term Long COVID.
 
 ## Timeline
 
@@ -307,6 +307,14 @@ In a preclinical SARS-CoV-2 mouse study, females developed persistent hippocampa
 Sources:
 
 - [Liu et al. 2026, bioRxiv preprint, version 2 posted 2026-08-27](https://doi.org/10.1101/2025.10.13.682101)
+
+### 2026-09-29 - No detectable resting blood immune differences in prolonged severe Long COVID versus convalescent controls
+
+In an early-access case-control study from Erasmus MC funded by the Netherlands ME/CFS Cohort and Biobank consortium (IMMUNESTRATIFY), Humer, Berentschot, and colleagues compared individuals with prolonged severe Long COVID (median illness duration about three years) against convalescent controls. Across resting peripheral-blood assays—including immune-subset counts and frequencies, interferon-pathway activation, monocyte transcriptional profiles, and serum cytokines—no markers showed statistically significant differences after multiple-testing correction, and none correlated with illness duration or patient-reported outcomes such as fatigue, post-exertional malaise, or orthostatic intolerance. The authors contrasted these null resting findings with subtle inflammatory abnormalities reported closer to initial infection, suggesting these blood immune markers have limited diagnostic or stratification utility years after onset. The available abstract does not establish cohort size, severity criteria, or whether participants met ME/CFS criteria, and resting blood cannot capture exertion-triggered or tissue-resident processes. The findings indicate an absence of detectable differences in the specific resting blood markers evaluated rather than lack of immune involvement, and the study comes from the same Erasmus MC group as the 2026-09-08 NETosis report in [Vascular, Endothelial & Microclots](../vascular-endothelial-microclots/) and a 2025 interferon-response study in [Viral Persistence & Reactivation](../viral-persistence-reactivation/); participant overlap has not been established.
+
+Sources:
+
+- [Humer et al. 2026, Scientific Reports](https://doi.org/10.1038/s41598-026-73807-x)
 
 ## Open Questions
 

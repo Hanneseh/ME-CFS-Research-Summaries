@@ -1,8 +1,8 @@
 ---
 title: Mitochondrial & Metabolic Dysfunction
 description: A living thread on cellular bioenergetics, mitochondrial respiration, Complex V inefficiency, metabolomic and lipidomic profiles, and skeletal muscle energy failure in ME/CFS and Long COVID.
-date: 2026-08-12
-last_updated: 2026-08-12
+date: 2026-10-07
+last_updated: 2026-10-07
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -30,7 +30,7 @@ Elucidating the molecular pathways of mitochondrial and metabolic failure provid
 
 - **Established:** ME/CFS and Long COVID cohorts repeatedly show abnormalities in energy metabolism, including post-exertional recovery failure, altered lipid and amino-acid handling, and objective peripheral muscle dysfunction. Comparative muscle biopsy studies establish that structural mitochondrial defects, capillary-to-fiber ratio changes, and bioenergetic failure are intrinsic cellular disease processes fundamentally distinct from bed-rest deconditioning.
 - **Plausible but early:** Newer 2026 studies suggest that muscle satellite cell (Pax7+) depletion impairs tissue regeneration post-exertion, non-hospitalized post-COVID cohorts exhibit coupled mitochondrial energy failure and microvascular endothelial dysfunction, male ME/CFS cohorts show arginine-NO pathway imbalance, dried blood spot metabolomics recovers pathway-level convergence at scale, and low-dose radiation bystander modeling links CD38-mediated NAD+ depletion to cellular bioenergetic stress. Preclinical cell models also demonstrate that specific SARS-CoV-2 accessory proteins (such as ORF7a) suppress oxidative phosphorylation via PDK4 activation and direct Complex I supercomplex disruption, complementing viral envelope-protein cardiolipin findings while remaining in vitro evidence.
-- **Not established:** No single mitochondrial or metabolomic signature has been shown to define all patients, separate ME/CFS cleanly from overlapping post-viral syndromes, or prove one causal entry point. Drug-repurposing outputs derived from transcriptomic datasets remain hypothesis-generating, in vitro cell line findings from Long COVID cohorts have not been established as direct ME/CFS pathomechanisms, and recovery-failure models of PEM based on incomplete mitophagy remain untested hypotheses without human validation.
+- **Not established:** No single mitochondrial or metabolomic signature has been shown to define all patients, separate ME/CFS cleanly from overlapping post-viral syndromes, or prove one causal entry point. Drug-repurposing outputs derived from transcriptomic datasets remain hypothesis-generating, including LINCS2-ranked compounds from iPSC-derived myotubes, none of which were reported as tested experimentally; in vitro cell line findings from Long COVID cohorts have not been established as direct ME/CFS pathomechanisms, and recovery-failure models of PEM based on incomplete mitophagy remain untested hypotheses without human validation.
 - **Key limitations:** Satellite cell biopsy findings are published in conference abstract format ahead of full peer-reviewed journal papers. Invasive muscle biopsy methods restrict routine bedside clinical utility. Circulating blood cell mitochondrial assays offer accessible markers but require ongoing tissue validation, and theoretical radiation bystander models lack direct clinical trial validation in human cohorts.
 
 ## Timeline
@@ -358,6 +358,14 @@ A peer-reviewed narrative review in *Frontiers in Medicine* proposed a theoretic
 Sources:
 
 - [Groysman 2026, Frontiers in Medicine](https://doi.org/10.3389/fmed.2026.1905758)
+
+### 2026-10-07 - iPSC-derived myotubes from 6 ME/CFS and 7 control donors show three gene-level differences and isoform signals
+
+A bioRxiv preprint by Nguyen and colleagues at Deakin University examined skeletal-muscle myotubes differentiated from induced pluripotent stem cells (iPSCs) of 6 ME/CFS donors and 7 healthy controls, with myogenic differentiation confirmed by titin and myosin heavy chain expression. Transcriptomic profiling identified sparse gene-level differences—with only three differentially expressed genes (*ERVH48-1*, *CDX4*, and *SLC2A14*)—alongside 16 genes with significant differential isoform usage involved in RNA processing, protein synthesis, proteostasis, and mitochondrial quality control. In silico LINCS2 connectivity analysis prioritized 14 candidate compounds for future functional validation, though the abstract reports no experimental testing in cells or patients. The study extends myogenic-progenitor work from the same research group and likely shares the same donor cohort given identical sample numbers, but evaluates a later differentiation stage and does not replace the earlier June preprint. Limitations include the unreviewed preprint status, a very small sample size, potential erasure of disease features during epigenetic reprogramming, and the absence of whole-body physiological or post-exertional malaise context; additionally, because full-text access was unavailable, donor sex, diagnostic criteria, and illness severity could not be verified.
+
+Sources:
+
+- [Nguyen et al. 2026, bioRxiv](https://www.biorxiv.org/content/10.1101/2026.10.01.755863v1)
 
 ## Open Questions
 
