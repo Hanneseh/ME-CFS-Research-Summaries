@@ -1,8 +1,8 @@
 ---
 title: Mitochondrial & Metabolic Dysfunction
 description: A living thread on cellular bioenergetics, mitochondrial respiration, Complex V inefficiency, metabolomic and lipidomic profiles, and skeletal muscle energy failure in ME/CFS and Long COVID.
-date: 2026-10-07
-last_updated: 2026-10-07
+date: 2026-10-27
+last_updated: 2026-10-27
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -29,7 +29,7 @@ Elucidating the molecular pathways of mitochondrial and metabolic failure provid
 ## State of Evidence
 
 - **Established:** ME/CFS and Long COVID cohorts repeatedly show abnormalities in energy metabolism, including post-exertional recovery failure, altered lipid and amino-acid handling, and objective peripheral muscle dysfunction. Comparative muscle biopsy studies establish that structural mitochondrial defects, capillary-to-fiber ratio changes, and bioenergetic failure are intrinsic cellular disease processes fundamentally distinct from bed-rest deconditioning.
-- **Plausible but early:** Newer 2026 studies suggest that muscle satellite cell (Pax7+) depletion impairs tissue regeneration post-exertion, non-hospitalized post-COVID cohorts exhibit coupled mitochondrial energy failure and microvascular endothelial dysfunction, male ME/CFS cohorts show arginine-NO pathway imbalance, dried blood spot metabolomics recovers pathway-level convergence at scale, and low-dose radiation bystander modeling links CD38-mediated NAD+ depletion to cellular bioenergetic stress. Preclinical cell models also demonstrate that specific SARS-CoV-2 accessory proteins (such as ORF7a) suppress oxidative phosphorylation via PDK4 activation and direct Complex I supercomplex disruption, complementing viral envelope-protein cardiolipin findings while remaining in vitro evidence.
+- **Plausible but early:** Newer 2026 studies suggest that muscle satellite cell (Pax7+) depletion impairs tissue regeneration post-exertion, non-hospitalized post-COVID cohorts exhibit coupled mitochondrial energy failure and microvascular endothelial dysfunction, male ME/CFS cohorts show arginine-NO pathway imbalance, dried blood spot metabolomics recovers pathway-level convergence at scale, and low-dose radiation bystander modeling links CD38-mediated NAD+ depletion to cellular bioenergetic stress. Preclinical cell models also demonstrate that specific SARS-CoV-2 accessory proteins (such as ORF7a) suppress oxidative phosphorylation via PDK4 activation and direct Complex I supercomplex disruption, complementing viral envelope-protein cardiolipin findings while remaining in vitro evidence. WASF3 experiments connect brain energy metabolism to learning in mice, not human treatment response. Small Long COVID biobank cohorts show lipid-mediator differences, without validated symptom-defined subgroups or evidence that changing those mediators helps patients.
 - **Not established:** No single mitochondrial or metabolomic signature has been shown to define all patients, separate ME/CFS cleanly from overlapping post-viral syndromes, or prove one causal entry point. Drug-repurposing outputs derived from transcriptomic datasets remain hypothesis-generating, including LINCS2-ranked compounds from iPSC-derived myotubes, none of which were reported as tested experimentally; in vitro cell line findings from Long COVID cohorts have not been established as direct ME/CFS pathomechanisms, and recovery-failure models of PEM based on incomplete mitophagy remain untested hypotheses without human validation.
 - **Key limitations:** Satellite cell biopsy findings are published in conference abstract format ahead of full peer-reviewed journal papers. Invasive muscle biopsy methods restrict routine bedside clinical utility. Circulating blood cell mitochondrial assays offer accessible markers but require ongoing tissue validation, and theoretical radiation bystander models lack direct clinical trial validation in human cohorts.
 
@@ -366,6 +366,22 @@ A bioRxiv preprint by Nguyen and colleagues at Deakin University examined skelet
 Sources:
 
 - [Nguyen et al. 2026, bioRxiv](https://www.biorxiv.org/content/10.1101/2026.10.01.755863v1)
+
+### 2026-10-14 - Lipid-mediator study suggests altered inflammatory resolution in Long COVID
+
+A peer-reviewed iScience study analysed plasma lipid mediators in two small biobank cohorts classified as Long COVID or recovered by chart review. In early samples from 14 people who later developed Long COVID and nine who recovered, several 12-lipoxygenase products were higher; longitudinal samples from 29 Long COVID participants and seven recovered controls also showed altered lipid-mediator trajectories, including lower resolvin D1. Exploratory lipid-defined subgroups did not establish symptom-linked responder groups. These associations suggest pathways to test, rather than proving that abnormal lipid metabolism causes illness. Medication, diet and fasting data were unavailable, the suggested platelet source of the lipid signal was not directly established, and some authors disclosed industry financial interests. The cohorts were not defined by ME/CFS or PEM or characterized for bedbound inclusion. Blood collection could support future research, but neither a validated test nor a treatment follows from these findings.
+
+Sources:
+
+- [Moss, Pons et al. 2026, iScience](https://doi.org/10.1016/j.isci.2026.117581)
+
+### 2026-10-27 - Mouse experiments connect WASF3 to brain energy metabolism and learning
+
+A peer-reviewed PNAS study extended the earlier WASF3 mitochondrial-respiration work into transgenic and knockout mice. Increased WASF3 disrupted respiratory complex IV, shifted hippocampal metabolism toward glycolysis, reduced ATPIF1 and impaired learning; WASF3 deficiency produced the opposite metabolic pattern and preserved cognitive function under stress. This supplies an experimentally testable link between cellular stress, energy production and cognition. It does not show that this pathway causes human ME/CFS brain fog or that inhibiting WASF3 would improve patients. No human treatment or severity-stratified cohort was tested, so severe-patient applicability and clinical safety remain unknown. Translation would require confirmation in relevant human tissue and a safe way to modify the pathway.
+
+Sources:
+
+- [Syed et al. 2026, PNAS](https://doi.org/10.1073/pnas.2617198123)
 
 ## Open Questions
 

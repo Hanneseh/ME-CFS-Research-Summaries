@@ -1,8 +1,8 @@
 ---
 title: Low-Dose Naltrexone (LDN)
 description: A living thread on low-dose naltrexone, dextro-naltrexone, TRPM3 ion channel function, and neuroinflammation in ME/CFS and Long COVID.
-date: 2026-07-25
-last_updated: 2026-07-25
+date: 2026-10-26
+last_updated: 2026-10-26
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -25,18 +25,19 @@ Low-Dose Naltrexone (LDN) is an off-label immunomodulatory medication widely use
 
 Recent research has significantly advanced our understanding by demonstrating that LDN treatment can restore normal TRPM3 calcium-channel function in natural killer (NK) cells, and by establishing a direct connection between impaired TRPM3 signaling and downstream cytosolic and mitochondrial energy deficits in both ME/CFS and Post-COVID-19 condition. Additionally, translational efforts are underway to develop Dextro-Naltrexone (D-Naltrexone) to target brain neuroinflammation at higher doses without the side effects of opioid receptor blockade.
 
-Despite these promising mechanistic insights, the clinical evidence for LDN remains early and of low certainty. While small observational studies and systematic reviews report improvements in symptoms and daily functioning, there are currently no published, large-scale randomized controlled trials confirming its efficacy, leaving significant uncertainty about its therapeutic benefits.
+Clinical evidence now includes a 160-person randomized, double-blind preprint trial in post-COVID fatigue syndrome that found no average benefit over placebo on fatigue or secondary outcomes. This tempers the positive uncontrolled reports without settling efficacy in classic ME/CFS, other dosing regimens or severe disease. Cellular findings do not establish clinical benefit, and the controlled result still awaits peer review.
 
 ## Why This Matters
 
-LDN connects a widely used clinical intervention with concrete, laboratory-validated pathomechanisms in ME/CFS and Long COVID. Rather than relying solely on subjective patient-reported outcomes, researchers have identified a specific cellular defect—impaired TRPM3-mediated calcium entry and its downstream impact on mitochondrial bioenergetics—that is consistently present in patients and appears to be restored by LDN. Understanding these biological targets not only validates patient experiences of post-exertional malaise and exhaustion but also guides the development of next-generation therapies, such as Dextro-Naltrexone, designed to target neuroinflammation more selectively.
+LDN connects a widely used clinical intervention with concrete, laboratory-validated pathomechanisms in ME/CFS and Long COVID. Rather than relying solely on subjective patient-reported outcomes, researchers have identified a specific cellular defect—impaired TRPM3-mediated calcium entry and its downstream impact on mitochondrial bioenergetics—reported across case-control laboratory studies and appearing to normalize in LDN-associated cellular work. Understanding these biological targets not only validates patient experiences of post-exertional malaise and exhaustion but also guides the development of next-generation therapies, such as Dextro-Naltrexone, designed to target neuroinflammation more selectively.
 
 ## State of Evidence
 
-- **Established:** TRPM3 ion channel dysfunction in natural killer cells is a consistent, validated biomarker for ME/CFS that remains stable across multiple independent testing sites.
+- **Cellular evidence:** Reduced NK-cell TRPM3 function has been reported repeatedly, including a two-laboratory patch-clamp study of 36 ME/CFS patients and 42 controls. These specialized research assays are not validated routine diagnostic tests, and they do not establish clinical benefit from LDN.
 - **Plausible but early:** Low-dose naltrexone treatment appears to restore TRPM3-mediated calcium influx in the immune cells of Long COVID patients; impaired TRPM3 function is linked to downstream cytosolic and mitochondrial calcium transport deficits in both ME/CFS and Post-COVID-19 condition NK cells; observational clinical studies show moderate to large improvements in patient symptoms.
+- **Controlled clinical evidence:** A 160-person placebo-controlled preprint in post-COVID fatigue syndrome found no average symptomatic or functional benefit after 16 weeks; severe or bedbound inclusion was not reported.
 - **Not established:** LDN is not clinically proven to be effective for ME/CFS or Long COVID in placebo-controlled settings; the safety and efficacy of pure Dextro-Naltrexone in humans have not been tested; cellular TRPM3 restoration in vitro or ex vivo does not establish in vivo clinical efficacy or symptom resolution.
-- **Key limitations:** Existing clinical evidence is limited to small, uncontrolled, observational pre-post studies susceptible to placebo effects and regression to the mean; patch-clamp and live-cell calcium imaging assays for TRPM3 function are specialized laboratory methods not suitable for routine clinical diagnostics; TRPM3 cellular studies rely on small cohorts (e.g., $n = 8$ to $10$ per group) and require larger prospective validation; Long COVID findings cannot be assumed to be identical to classic ME/CFS without direct comparison.
+- **Key limitations:** Earlier positive clinical evidence consists of small, uncontrolled pre-post studies susceptible to placebo effects and regression to the mean, whereas the newer controlled post-COVID result is a preprint; patch-clamp and live-cell calcium imaging assays for TRPM3 function are specialized laboratory methods not suitable for routine clinical diagnostics; TRPM3 cellular studies rely on small cohorts (e.g., $n = 8$ to $10$ per group) and require larger prospective validation; Long COVID findings cannot be assumed to be identical to classic ME/CFS without direct comparison.
 
 ## Timeline
 
@@ -114,3 +115,11 @@ An ex vivo live-cell calcium imaging study published in the *European Journal of
 Sources:
 
 - [European Journal of Immunology (PMID 42484498)](https://pubmed.ncbi.nlm.nih.gov/42484498/)
+
+### 2026-10-26 - Placebo-controlled LDN trial finds no average benefit for post-COVID fatigue
+
+A double-blind randomized medRxiv preprint tested low-dose naltrexone, titrated from 1 to 4.5 mg/day for 16 weeks, in 160 adults with post-COVID fatigue syndrome (81 LDN, 79 placebo). It found no between-group benefit on fatigue, pain, overall symptom score, daily steps or quality of life, tempering earlier uncontrolled reports. Grade 3 or higher adverse events occurred in five LDN participants and three placebo participants; these small numbers do not establish a difference in risk. The largely decentralized design reduced travel, but severe or bedbound participation was not reported and PEM was not a dedicated safety outcome. This is an unreviewed result in post-COVID illness with ME/CFS-type symptoms, rather than a trial establishing efficacy or inefficacy in classic ME/CFS. An exploratory sex interaction does not establish a responder subgroup.
+
+Sources:
+
+- [Naik et al. 2026, medRxiv preprint](https://doi.org/10.64898/2026.10.22.26363582)

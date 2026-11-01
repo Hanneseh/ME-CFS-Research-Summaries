@@ -1,8 +1,8 @@
 ---
 title: Post-Exertional Malaise & Exercise Physiology
 description: A living thread on PEM, repeat CPET, lactate recovery, pacing physiology, wearable monitoring, and exertion-response biomarkers in ME/CFS and Long COVID.
-date: 2026-09-21
-last_updated: 2026-09-21
+date: 2026-10-26
+last_updated: 2026-10-26
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -32,7 +32,7 @@ The same data stream can serve different clinical questions: actigraphy for day-
 ## State of Evidence
 
 - **Established:** PEM is a reproducible clinical phenomenon in ME/CFS and Long COVID, and exertion-sensitive protocols capture abnormal recovery patterns that are not visible at rest. Wearable monitoring shows that high symptom burden correlates with sustained, long-term cardiopulmonary deficits, including reduced heart rate variability (HRV) and lower physical activity levels. Exertion at or above individual first ventilatory thresholds (VT1) triggers blunted sympathovagal and HRV recovery lasting more than 24 hours.
-- **Plausible but early:** Exertional intolerance and recovery failure may be driven by molecular pathways such as irisin signaling resistance (driven by TSP-1 antagonism) and epigenetic or proteomic shifts during recovery. Wearable-supported activity pacing, continuous HRV biofeedback, digital tracking tools, lactate clearance phenotypes, ecological momentary assessment (EMA) dynamics, and clinical instruments like the Vienna PEM Questionnaire (VPEM) help track thresholds and operationalize PEM. Recent conceptual and experimental work extends this picture across multiple recovery timescales, including cardiometabolic desynchronization, altered immediate post-exercise corticomotor responses, endothelial redox hypotheses, and objective activity restriction measured without provocation; none yet defines a safe exertion threshold or treatment.
+- **Plausible but early:** Exertional intolerance and recovery failure may be driven by molecular pathways such as irisin signaling resistance (driven by TSP-1 antagonism) and epigenetic or proteomic shifts during recovery. Wearable-supported activity pacing, continuous HRV biofeedback, digital tracking tools, lactate clearance phenotypes, ecological momentary assessment (EMA) dynamics, and clinical instruments like the Vienna PEM Questionnaire (VPEM) help track thresholds and operationalize PEM. Recent conceptual and experimental work extends this picture across multiple recovery timescales, including cardiometabolic desynchronization, altered immediate post-exercise corticomotor responses, endothelial redox hypotheses, and objective activity restriction measured without provocation; none yet defines a safe exertion threshold or treatment. A conference abstract reports initial psychometric support for the Vienna PEM questionnaire in 1,108 adults. Mixed factor structure, incomplete scoring of crash severity/recovery and unreported longitudinal responsiveness prevent treating it as an established trial endpoint.
 - **Not established:** A single universal biomarker, CPET metric, isolated exercise lactate threshold, or wearable signature that diagnostic trials can rely on; a validated exercise prescription that is safe or effective for individuals experiencing post-exertional malaise.
 - **Key limitations:** Many exercise studies and reviews fail to screen for or monitor PEM, rely on subjective fatigue scales susceptible to expectation bias, rebrand Graded Exercise Therapy (GET) under alternative names, and omit reporting on dropouts or adverse events. Consequently, these reviews do not justify progressive or graded exercise recommendations for patients with PEM. Qualitative pacing evaluations and observational wearable studies suffer from selection bias and confounding by indication, as patients naturally adjust activity based on daily symptoms, while digital tools require individual threshold calibration and face setup or cognitive tracking burdens. The new Long COVID studies largely excluded bedbound patients, and immediate laboratory responses or passive activity measures cannot substitute for delayed PEM measurement in criteria-defined ME/CFS. Exercise lactate metrics are strongly protocol- and work-rate-dependent, precluding uniform diagnostic cut-offs across centers, while maximal CPET protocols carry substantial PEM exacerbation risks and access barriers for severe or bedbound individuals.
 
@@ -358,6 +358,14 @@ Sources:
 
 - [Mackay et al. 2026, American Journal of Physiology – Heart and Circulatory Physiology](https://doi.org/10.1152/ajpheart.90080.2026)
 - [Mackay et al. 2026, American Journal of Respiratory and Critical Care Medicine (conference abstract)](https://academic.oup.com/ajrccm/article/212/Supplement_1/aamag162.1316/8680789)
+
+### 2026-10-26 - Conference abstract reports initial validation of a multidomain PEM questionnaire
+
+A European Journal of Public Health conference-supplement abstract reports initial psychometric validation of the Vienna Post-Exertional Malaise Assessment Questionnaire in 1,108 adults with ME/CFS, following earlier content-development work. It assesses exertion thresholds across physical, cognitive, sensory, emotional-social and orthostatic domains without requiring an exercise challenge. Internal consistency was good and scores correlated with DSQ-PEM and FUNCAP-27, but factor-analysis fit was mixed and discrimination between the highest PEM groups was limited. The authors caution against treating the score as one homogeneous dimension; crash severity and recovery duration still need better scoring formats. This is an abstract, not a full validation paper, and test–retest reliability, responsiveness to treatment, severe or bedbound inclusion and independence from the earlier development cohort remain unreported. It offers a potentially lower-burden measurement direction, not an established diagnostic or trial endpoint.
+
+Sources:
+
+- [Brandl, Pimminger et al. 2026, conference abstract](https://doi.org/10.1093/eurpub/ckag169.1100)
 
 ## Open Questions
 

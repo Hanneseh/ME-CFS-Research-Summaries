@@ -33,6 +33,7 @@ Multiplexed protein biosensors, cfRNA liquid biopsy, epigenetic chromosome-confo
 - **Plausible but early:** Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle microRNA and proteomic cargo profiling, SMPDL3B plasma levels, metabolomic AutoML models, LLM-guided transcriptomic feature selection, and beat-to-beat autonomic classifiers each show strong initial performance in retrospective or pilot cohorts. Objective neurophysiological measures (such as sleep EEG slow-wave microstructure disruptions, altered post-movement beta rebound, and resting alpha frequency slowing) demonstrate measurable group-level central nervous system differences. Multi-omics integration, post-exertional provocation models, and machine-learning tools may allow molecular subtyping and cognitive trajectory mapping to supplement symptom-based classification. A new cross-disease 3D-genome network analysis and a UK Biobank resting-state fMRI classifier add useful negative and hypothesis-generating evidence, but neither is a validated ME/CFS diagnostic test.
 - **Not established:** Any single test validated prospectively against clinical diagnosis across mild, moderate, and severe ME/CFS. Head-to-head specificity against overlapping conditions such as multiple sclerosis, rheumatoid arthritis, and fibromyalgia. Clinically validated diagnostic biomarkers derived from exercise-challenge (PEM) provocation protocols, though pilot multi-omic and cognitive trajectory studies are underway. Routine laboratory panels as diagnostic, subtyping or prognostic tools in Long COVID. Handgrip dynamometry as a standalone ME/CFS classifier.
 - **Key limitations:** Small and often severely ill or female-only cohorts, cross-sectional designs that cannot prove causation, lack of prospective validation, and the technical gap between research-grade assays and scalable clinical tests. Several candidate markers arrive as preprints or preliminary conference abstracts lacking full diagnostic performance metrics. Furthermore, laboratory-dependent testing protocols (including in-facility polysomnography, high-density EEG, and repeated physical dynamometry) systematically exclude bedbound and very severe patients, skewing the biomarker evidence base toward ambulatory cohorts. Some metabolomic and epigenetic models rely on proprietary platforms with inherent developer conflicts of interest. The UK Biobank fatigue study used a broad self-report definition without PEM characterization and found resting-state fMRI performance near clinical-feature baselines, while the 3D-genome network extension does not report complete denominators or severe-patient representation.
+- **Research tool, not a clinical test:** CATCH-EVseq detected as little as one enterovirus RNA copy per microgram in artificial samples but found none in the small set of ME blood samples tested. Tissue persistence, real-world diagnostic accuracy and severe-patient applicability remain unresolved.
 
 ## Timeline
 
@@ -307,6 +308,14 @@ In a single-center observational cohort study published in *Clinical Chemistry a
 Sources:
 
 - [Oberhauser et al. 2026, Clinical Chemistry and Laboratory Medicine](https://doi.org/10.1515/cclm-2026-1238)
+
+### 2026-10-13 - Sensitive enterovirus capture assay finds no viral RNA in tested ME blood samples
+
+A peer-reviewed methods paper introduced CATCH-EVseq, combining viral RNA capture with sequencing to search for low-level enterovirus infection. In artificial samples it detected one RNA copy per microgram in two of three replicates, but no enterovirus RNA was found in the small set of ME and control blood samples, including after in vitro amplification. This supports developing more sensitive research methods while providing no positive evidence for circulating enterovirus in the participants tested. A blood null cannot rule out persistence in gut, muscle or other tissues, and artificial-sample sensitivity does not establish clinical diagnostic accuracy. The abstract does not give the patient count, case definition or severe-patient inclusion. Blood draws may be feasible for some homebound participants in future research, whereas biopsy-based investigation would impose substantially greater burden.
+
+Sources:
+
+- [Germain & Hanson 2026, IJMS](https://doi.org/10.3390/ijms27209065)
 
 ## Related Threads
 

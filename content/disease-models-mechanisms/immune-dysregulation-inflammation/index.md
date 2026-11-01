@@ -1,8 +1,8 @@
 ---
 title: Immune Dysregulation & Chronic Inflammation
 description: A living thread on cellular immune activation, cytokine profiles, CD8 T-cell dysfunction/exhaustion, monocyte subsets, HLA associations, mast cell activation, and inflammasome pathways in ME/CFS and Long COVID.
-date: 2026-09-29
-last_updated: 2026-09-29
+date: 2026-10-16
+last_updated: 2026-10-16
 thread_status: active
 evidence_level: clinical and mechanistic validation
 primary_topics:
@@ -30,7 +30,7 @@ Unraveling the precise mechanisms of immune dysregulation is essential for movin
 ## State of Evidence
 
 - **Established:** Post-infectious immune abnormalities are repeatedly observed in both ME/CFS and Long COVID, including altered lymphocyte populations, impaired cytotoxic-cell function, inflammatory cytokine changes, and evidence of ongoing innate-adaptive mismatch.
-- **Plausible but early:** Sex-stratified T-cell dysregulation (male γδ T-cell IFNγ production vs female CD8+ memory chronic stimulation), antigen-specific T-cell exhaustion, monocyte and NK-cell inflammatory programs, mast-cell-linked IL-11/MMP-9 signaling, IL-6 family/gp130 cytokine cascades, and altered glycosylation patterns all have growing support as subgroup-defining mechanisms. These may help explain why some patients look more immune-activated, others more immune-suppressed, and some show stronger vascular or autonomic overlap.
+- **Plausible but early:** Sex-stratified T-cell dysregulation (male γδ T-cell IFNγ production vs female CD8+ memory chronic stimulation), antigen-specific T-cell exhaustion, monocyte and NK-cell inflammatory programs, mast-cell-linked IL-11/MMP-9 signaling, IL-6 family/gp130 cytokine cascades, and altered glycosylation patterns all have growing support as subgroup-defining mechanisms. These may help explain why some patients look more immune-activated, others more immune-suppressed, and some show stronger vascular or autonomic overlap. A preprint reports activated, exhaustion-like virus-specific CD8 T cells in a Long COVID subset, consistent with ongoing antigen exposure. This is indirect, abstract-level evidence rather than proof of a reservoir, EBV reactivation or symptom causation.
 - **Not established:** It is still not clear which immune abnormalities are upstream disease drivers, which are downstream consequences, and which are compensatory responses. Target-antigen discovery has not yet produced validated public antigen panels, and candidate IL-6 or MMP-9 inhibitors are not established treatments for ME/CFS. Furthermore, while theoretical system-dynamics frameworks model Mast Cell Activation Syndrome (MCAS) as a driver of systemic volatility, MCAS is not established as the primary underlying mechanism of ME/CFS.
 - **Key limitations:** Several important additions are conference abstracts (e.g. AAI IMMUNOLOGY2026 CyTOF abstract) or narrative literature reviews. Most empirical studies remain cross-sectional and blood-based, which limits conclusions about tissue-resident immune dysfunction in the gut, marrow, vasculature, or nervous system. Additionally, proposed MCAS system-dynamics models are purely conceptual and require extensive longitudinal clinical validation. Resting blood sampling also cannot evaluate exertion-dependent or tissue-resident immune changes, which remain untested by null resting-blood findings in long-term Long COVID.
 
@@ -315,6 +315,14 @@ In an early-access case-control study from Erasmus MC funded by the Netherlands 
 Sources:
 
 - [Humer et al. 2026, Scientific Reports](https://doi.org/10.1038/s41598-026-73807-x)
+
+### 2026-10-16 - Virus-specific T-cell activation points to ongoing antigen exposure in a Long COVID subset
+
+A bioRxiv preprint compared virus-specific T cells in people with Long COVID and recovered controls using flow cytometry and single-cell methods. Its author abstract reports persistent activation of CD8 T cells recognizing SARS-CoV-2 spike and/or Epstein–Barr virus lytic antigens in a subset of Long COVID participants, with exhaustion-related features and reduced peptide responses. The pattern is consistent with continuing antigen stimulation, but it does not directly locate a viral reservoir, demonstrate EBV reactivation or establish that these cells cause symptoms. The abstract leaves subgroup thresholds and quantitative effect sizes unspecified. ME/CFS criteria, PEM and severe or bedbound inclusion were not reported in that abstract. This remains an unreviewed biological lead, with blood-based follow-up potentially useful for stratification rather than an established antiviral treatment rationale.
+
+Sources:
+
+- [Painter et al. 2026, bioRxiv preprint](https://www.biorxiv.org/content/10.64898/2026.10.14.759221v1)
 
 ## Open Questions
 

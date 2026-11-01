@@ -1,8 +1,8 @@
 ---
 title: Emerging Pharmacotherapy
 description: Clinical trials, pilot studies, and case reports of repurposed drugs, supplements, and experimental therapies for ME/CFS and Long COVID.
-date: 2026-09-29
-last_updated: 2026-09-29
+date: 2026-10-24
+last_updated: 2026-10-24
 thread_status: active
 evidence_level: early clinical trials and pilot studies
 primary_topics:
@@ -37,7 +37,7 @@ Clinical management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CF
 
 Recent clinical studies have evaluated several new interventions, including the acetylcholinesterase inhibitor donepezil for fatigue and depression in a subgroup of Post-Acute Sequelae of COVID-19 (PASC) patients with HHV-6B SITH-1-induced acetylcholine deficiency, telehealth-delivered cognitive rehabilitation for goal attainment, and physical/behavioral modalities like Tuina massage and mind-body retraining. A major safety signal emerged from the PoCoWiT randomized controlled trial, which tested high-dose oral methylprednisolone for post-COVID cognitive dysfunction; the trial was terminated early due to a cluster of serious adverse events—including pulmonary embolism, deep vein thrombosis, and serious infections—along with a complete lack of efficacy. Meanwhile, the PsyLoCo randomized waitlist-controlled trial (n=48) found that standardized psychotherapeutic group sessions did not significantly reduce somatic symptom burden, depression, or anxiety in Post-COVID-19 condition compared to treatment as usual. A 15-patient retrospective conference abstract on off-label esketamine adds only an exploratory neuropsychiatric Long-COVID signal and cannot establish efficacy. A peer-reviewed sham-controlled pilot of at-home microtesla magnetic therapy in Long COVID cognitive impairment supports feasibility and tolerability only; no cognitive or emotional difference survived FDR correction. An RCT of immersive VR exergaming versus conventional activation exercise for post-COVID fatigue missed its primary endpoint, did not require PEM for inclusion, and does not establish exercise safety or efficacy in ME/CFS.
 
-Although these trials and mechanistic concepts offer biological rationales, the evidence base remains early and preliminary. Many studies are small, open-label, or lack randomized control groups, which limits statistical power and increases the risk of bias. Consequently, no pharmacological or behavioral intervention has achieved regulatory approval or demonstrated definitive, disease-modifying efficacy in large-scale, placebo-controlled settings, leaving substantial uncertainty regarding long-term safety, optimal dosing, and generalizability across heterogeneous patient cohorts.
+PreVitaCOV adds a controlled result for low-dose prednisolone: a small short-term symptom difference below the prespecified threshold for clinical relevance, with no B-vitamin benefit; bedridden patients were excluded. Although these trials and mechanistic concepts offer biological rationales, the evidence base remains early and preliminary. Many studies are small, open-label, or lack randomized control groups, which limits statistical power and increases the risk of bias. Consequently, no pharmacological or behavioral intervention has achieved regulatory approval or demonstrated definitive, disease-modifying efficacy in large-scale, placebo-controlled settings, leaving substantial uncertainty regarding long-term safety, optimal dosing, and generalizability across heterogeneous patient cohorts.
 
 ## Why This Matters
 
@@ -79,6 +79,8 @@ Systematic research into these agents offers objective measures of efficacy to c
   - Long-term safety, optimal dosing, and durability of donepezil, Tuina therapy, or cognitive rehabilitation programs.
   - Efficacy of microtesla magnetic therapy for Long COVID cognitive impairment; the 33-randomized pilot met its feasibility endpoint and reported no device-related AEs, but no exploratory cognitive or quality-of-life outcome survived FDR correction.
   - Superiority of VR neuromuscular exergaming over conventional activation exercise for post-COVID fatigue (IFATICO primary endpoint not significant), or applicability of either to PEM-defined ME/CFS.
+  - Durable, clinically meaningful benefit from short-course low-dose prednisolone or B1/B6/B12 in post-COVID syndrome; PreVitaCOV excluded bedridden patients.
+  - A single severe-ME/CFS vaccine case with transient improvement and relapse does not establish treatment efficacy or safety.
 - **Key limitations:**
   - Small sample sizes in pilot studies (e.g., 20 patients for pyridostigmine hand grip, 10 patients for ketamine crossover, 5 patients for amifampridine and cromolyn series) limit statistical power and generalizability.
   - High risk of placebo effects and response bias in open-label studies and retrospective case series.
@@ -406,6 +408,23 @@ In the single-centre double-blind IFATICO trial in Heidelberg (DRKS00032059), 10
 Sources:
 
 - [Lange et al. 2026, Psychotherapy and Psychosomatics](https://doi.org/10.1159/pps/aemag017)
+
+### 2026-10-13 - Single severe ME/CFS case links brief post-vaccination remission with immune changes
+
+A peer-reviewed case report describes a woman in her 60s with long-standing severe ME/CFS who reported brief improvement in sleep, cognition, pain and mobility after each of two recombinant zoster vaccine doses, followed by relapse; after the first dose, symptoms were briefly worse than baseline before returning to baseline. Blood immune profiling around the second dose showed changes in monocytes, exhaustion-associated T-cell markers and NK-cell degranulation, compared with one healthy control. She used a cane or walker on most days, and the report does not name a specific diagnostic case definition or establish applicability to continuously bedbound disease. This is a direct severe-ME/CFS observation, but a single uncontrolled case with self-reported symptoms cannot establish causation or predict who might respond. There was no sustained recovery, standardized functional outcome or adequate longitudinal safety/PEM assessment. Fever and body aches accompanied the doses, and the temporary remissions do not support using vaccination as an ME/CFS treatment. The research question is whether serial sampling in larger cohorts can connect reversible immune changes to independently measured function.
+
+Sources:
+
+- [Bigleri et al. 2026, Brain, Behavior, & Immunity – Health](https://doi.org/10.1016/j.bbih.2026.101388)
+
+### 2026-10-24 - PreVitaCOV finds a small steroid effect below its clinical-importance threshold
+
+The peer-reviewed PreVitaCOV trial randomized 323 adults with post-COVID syndrome to 28 days of low-dose prednisolone, vitamins B1/B6/B12, both or placebo in a double-blind factorial design. Prednisolone improved the total symptom score by an adjusted 1.4 points versus no prednisolone (95% CI 0.4–2.5 points better), below the prespecified 3-point threshold for clinical relevance; B vitamins had no detectable benefit. Between-group symptom differences were significant during treatment but not at the later follow-ups, and no study-drug-related serious adverse events were identified. Bedridden patients and those requiring nursing care were excluded, and the report does not establish benefit in a PEM-defined ME/CFS subgroup. Oral dosing was relatively simple, but participation required clinical assessment and follow-up. These findings neither establish a durable treatment nor cancel the serious safety findings from the separate, higher-dose PoCoWiT methylprednisolone trial.
+
+Sources:
+
+- [Gágyor et al. 2026, eClinicalMedicine](https://doi.org/10.1016/j.eclinm.2026.104264)
+- [Open-access full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC13720163/)
 
 ## Open Questions
 

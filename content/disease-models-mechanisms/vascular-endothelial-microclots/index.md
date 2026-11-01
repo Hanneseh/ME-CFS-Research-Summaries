@@ -1,8 +1,8 @@
 ---
 title: Vascular Endothelial Dysfunction & Microclots
 description: A living thread on endothelial impairment, circulating microclots, red blood cell deformability, hypercoagulability, fibrin amyloid fibrils, and microvascular perfusion.
-date: 2026-09-08
-last_updated: 2026-09-08
+date: 2026-10-19
+last_updated: 2026-10-19
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -21,7 +21,7 @@ Vascular endothelial dysfunction and microcirculatory impairment remain a plausi
 
 The latest additions push the field toward multi-scale measurement and upstream pathway identification. A peer-reviewed study has linked necroptosis—a regulated form of inflammatory cell death—to persistent endothelial and immune dysfunction in Long COVID, suggesting that vascular barrier damage may be actively maintained by specific cell-death signaling rather than passively persisting after infection. A separate hypothesis paper proposes that capillary microclotting acts in concert with interstitial accumulation of viscous extracellular material (such as hyaluronan) to restrict both blood-side perfusion and tissue-side oxygen transfer, offering a dual-compartment model for peripheral symptoms. These join earlier multi-omics, capillaroscopy, and extracellular-vesicle work in building a broader mechanistic picture.
 
-Clinical translation is still early. No blood-flow, microclot, necroptosis, or coagulation assay is ready to serve as a standalone diagnostic or treatment guide, and intervention evidence—whether targeting cell death pathways, clot clearance, or extracellular matrix compliance—remains preliminary.
+A controlled EXPLAIN substudy in never-hospitalized Long COVID found no persistent prothrombotic pattern or excess fibrin(ogen)-cell membrane microaggregates. Its assay differs from amyloid-microclot methods, and the result does not settle all vascular mechanisms or apply directly to very severe ME/CFS. Clinical translation is still early. No blood-flow, microclot, necroptosis, or coagulation assay is ready to serve as a standalone diagnostic or treatment guide, and intervention evidence—whether targeting cell death pathways, clot clearance, or extracellular matrix compliance—remains preliminary.
 
 ## Why This Matters
 
@@ -33,6 +33,7 @@ The identification of structural capillary alterations and circulating microclot
 - **Plausible but early:** Multi-scale approaches are gaining traction, with nailfold capillaroscopy, orthostatic cerebral flow measurements, extracellular-vesicle cargo, endothelial-platelet transcriptomic programs, thromboelastography, necroptosis-mediated endothelial injury, and interstitial matrix models all pointing toward thrombo-inflammatory perfusion problems. These signals are mechanistically coherent, but they are not yet standardized enough for routine use.
 - **Not established:** It remains unclear whether microclots, endothelial injury, and platelet activation are primary disease drivers, downstream consequences, or only one branch of a broader multi-system process. TEG-guided management, anticoagulant strategies, and other clot-targeting interventions do not yet have robust controlled evidence in these populations. Static retinal microvascular metrics (such as OCTA vessel density and foveolar avascular zone) have not separated post-COVID patients from recovered controls, in contrast to dynamic functional retinal vessel analysis. Circulating NETosis markers were not raised in one long-duration, severe Long COVID cohort, so sampling timing and assay choice matter for the NET-scaffolded microclot model.
 - **Key limitations:** Several important additions are conference-stage findings, small female-only biomarker cohorts, or review-level syntheses. Assay standardization remains a major barrier, especially for microclot detection, real-time coagulation profiling, and thromboelastography-based assessment across different laboratories.
+- **Controlled negative finding:** The EXPLAIN substudy found no persistent systemic hypercoagulability or excess fibrin(ogen)-cell membrane microaggregates in never-hospitalized Long COVID. Different aggregate methods, single-time-point sampling and unreported severe-patient inclusion limit comparisons with earlier positive reports.
 
 ## Timeline
 
@@ -187,6 +188,14 @@ In a single-centre, cross-sectional brief report from Erasmus MC, Humer et al. m
 Sources:
 
 - [Humer et al. 2026, Frontiers in Cellular and Infection Microbiology](https://doi.org/10.3389/fcimb.2026.1920533)
+
+### 2026-10-19 - EXPLAIN substudy finds no persistent prothrombotic signal in never-hospitalized Long COVID
+
+A peer-reviewed HemaSphere letter compared 117 people with specialist-confirmed Long COVID after non-hospitalized acute infection with 34 recovered controls. Coagulation, endothelial and platelet markers, clot-lysis time and fibrin architecture showed no persistent prothrombotic pattern; blinded analysis of 55 samples also found no excess fibrin(ogen)-cell membrane microaggregates. These aggregates differ from the thioflavin-stained amyloid aggregates used in earlier reports, so the methods are not interchangeable. The finding challenges a universal circulating-clot explanation in this population while leaving other vascular mechanisms open. Sampling occurred long after infection at a single time point, without PEM-defined recruitment or reported bedbound inclusion; blood collection and pulmonary imaging also limit extrapolation to very severe ME/CFS. It is an observational result, not a treatment trial.
+
+Sources:
+
+- [Fraser, Ng et al. 2026, HemaSphere](https://doi.org/10.1002/hem3.70501)
 
 ## Related Threads
 

@@ -1,8 +1,8 @@
 ---
 title: Autoimmunity & Autoantibodies
 description: A living thread on GPCR autoantibodies, receptor targeting, antigen profiling, and IgG-mediated mechanisms in ME/CFS and Long COVID.
-date: 2026-09-23
-last_updated: 2026-09-23
+date: 2026-10-23
+last_updated: 2026-10-23
 thread_status: active
 evidence_level: early clinical and mechanistic validation
 primary_topics:
@@ -32,6 +32,7 @@ Research into autoimmunity and autoantibodies provides a functional link between
 - **Plausible but early:** Patient-derived IgG transfers sensory pain hypersensitivity, motor coordination loss, and small fiber neuropathy to healthy mice in passive transfer models. Purified patient IgG (specifically the Fab portion) enters endothelial cells, causing mitochondrial fragmentation and forcing cells into a threat-adapted hypermetabolic state. In fibromyalgia and related pain syndromes, patient-derived IgG-induced hypersensitivity is mediated by the activation of MRGPRX2 (Mrgprb2 in rodents) receptors on mast cells, promoting local inflammatory mediator release. Specific genetic alleles of inhibitory killer cell immunoglobulin-like receptors (KIRs), such as KIR3DL3\*002, predispose individuals to natural killer (NK) cell dysfunction in ME/CFS. Patient-derived IgG binds to cultivated central nervous system (CNS) neurons and astrocytes in vitro, with binding intensity correlating with neurological symptom severity. A highly diverse landscape of autoantibodies targeting neurological structures and blood vessel tissues is present in subsets of patients. GPCR autoantibodies function as active modulators of vascular tone and central blood pressure, rather than passive markers of inflammation. GPCR autoantibody and GPCR-reactive CD4 T-cell profiles shared between post-COVID and post-vaccination syndromes (single small preprint).
 - **Not established:** A universal, shared autoantibody signature that distinguishes all ME/CFS or Long COVID patients from healthy or recovered controls. Direct causal proof that GPCR autoantibodies or other central nervous system-targeting autoantibodies are the sole or primary drivers of cognitive symptoms (brain fog), autonomic symptoms, or clinical disability in humans. Clinical efficacy or safety of broad immunotherapies (like rituximab, efgartigimod, or BC007) in unstratified post-infectious patient cohorts. Serum brain-epitope autoantibody panels as an explanation or diagnostic test for PCS; a large 2026 serum study found no PCS-versus-recovered difference.
 - **Key limitations:** Animal passive transfer experiments utilize high doses of purified IgG over short periods, which may not capture the chronic, low-dose exposure in human disease. Many GPCR autoantibody studies rely on ELISA titers, which measure antibody quantity but do not confirm functional activity (i.e., whether the antibodies stimulate, block, or act neutrally on the receptors). High-throughput antigen profiling platforms (like PhIP-Seq and REAP) are limited by the specific peptide libraries used, which may miss conformational epitopes or post-translational modifications. Clinical cohorts in active trials and biomarker studies are often small and show high heterogeneity, necessitating larger, stratified, and sex-disaggregated longitudinal validation. Preliminary findings presented in conferences or posted as preprints have not undergone rigorous peer review and must be interpreted with caution.
+- **Controlled negative finding:** A 206-person post-COVID cohort found no association between receptor-binding antibody levels and fatigue. Binding assays do not test functional antibody effects, and this was not a PEM-defined ME/CFS cohort.
 
 ## Timeline
 
@@ -186,6 +187,14 @@ In an un-peer-reviewed medRxiv preprint, Dinser et al. compared 28 individuals w
 Sources:
 
 - [Dinser et al. 2026, medRxiv](https://doi.org/10.64898/2026.09.18.26363380)
+
+### 2026-10-23 - Receptor-binding autoantibodies do not track fatigue in a post-COVID cohort
+
+A peer-reviewed study assessed binding antibodies against 13 neurotransmitter-related receptors in 206 people after SARS-CoV-2 infection: 144 with new fatigue, 24 with pre-existing fatigue and 38 without fatigue. Antibody levels did not distinguish the groups after multiple-testing correction, and adjusted analyses found no association with new fatigue or fatigue severity. The result argues against these binding assays as stand-alone post-COVID fatigue biomarkers. It does not exclude antibodies with functional effects, tissue-specific autoimmunity or a defined autoimmune subgroup. The cohort was not selected using ME/CFS or PEM criteria, severe or bedbound inclusion was unreported, and some receptor-specific subsets were small. Blood-based testing is less burdensome than exertion testing, but this study does not validate a diagnostic test or a way to select immunotherapy.
+
+Sources:
+
+- [Achleitner et al. 2026, Brain, Behavior, & Immunity – Health](https://doi.org/10.1016/j.bbih.2026.101393)
 
 ## Open Questions
 
