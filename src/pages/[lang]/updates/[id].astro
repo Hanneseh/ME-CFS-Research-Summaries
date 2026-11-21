@@ -2,7 +2,6 @@
 import type { GetStaticPaths } from "astro";
 import Base from "../../../layouts/Base.astro";
 import EntryCard from "../../../components/EntryCard.astro";
-import UpdateStats from "../../../components/UpdateStats.astro";
 import { getUpdate, getUpdates } from "../../../lib/content";
 import { t } from "../../../lib/i18n";
 import { langHome, updatesUrl } from "../../../lib/paths";
@@ -30,15 +29,14 @@ const batchLabels = { added: s.upd.itemAdded, upgraded: s.upd.itemUpgraded };
             <li aria-current="page">{update.dateLabel}</li>
           </ol>
         </nav>
-        <p class="update-eyebrow update-eyebrow-page">
-          <span class="update-dot" aria-hidden="true"></span>
-          <time datetime={update.date}>{s.upd.added(update.dateLabel)}</time>
-        </p>
         <h1 class="display update-title" {...langAttr}><Fragment set:html={update.title} /></h1>
-        <p class="update-meta">
+        <p class="thread-meta">
+          <time class="num" datetime={update.date}>{update.dateLabel}</time>
+          <span aria-hidden="true">·</span>
           <span>{s.upd.period}: <time datetime={update.periodFrom || update.periodTo}>{update.periodLabel}</time></span>
+          <span aria-hidden="true">·</span>
+          <span class="num">{s.entries(update.items.length)}</span>
         </p>
-        <UpdateStats lang={lang} update={update} />
         {update.contentLang && <p class="fallback-note">{s.fallbackNote}</p>}
       </div>
     </header>
@@ -96,7 +94,6 @@ const batchLabels = { added: s.upd.itemAdded, upgraded: s.upd.itemUpgraded };
         <section class="timeline-section update-entries" aria-labelledby="update-entries-title">
           <div class="wrap narrow">
             <h2 id="update-entries-title" class="block-title">{s.upd.entriesTitle}</h2>
-            <p class="section-lead">{s.upd.entriesLead}</p>
             <div class="entry-list">
               {update.items.map((it) => (
                 <EntryCard lang={lang} entry={it.entry} context="feed" batch={it.action} batchLabels={batchLabels} />

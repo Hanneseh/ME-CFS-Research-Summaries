@@ -28,7 +28,7 @@ const summary = thread.plainSummaryText || thread.subtitle.replace(/<[^>]+>/g, "
   <div class="thread-card-foot">
     <TierPill lang={lang} tier={thread.evidenceTier} />
     <span class="thread-card-meta">
-      {s.lastUpdated}: <time class="num" datetime={thread.lastUpdated}>{thread.lastUpdated ? formatDate(thread.lastUpdated, lang) : "–"}</time>
+      <time class="num" datetime={thread.lastUpdated}>{thread.lastUpdated ? formatDate(thread.lastUpdated, lang) : "–"}</time>
       · <span class="num">{s.entries(thread.entryCount)}</span>
     </span>
   </div>

@@ -13,22 +13,18 @@ const s = t(lang);
 const site = getSite(lang);
 const present = new Set(site.terms.map((x) => x.category));
 const categories = [...Object.keys(TERM_CATEGORIES).filter((c) => present.has(c)), ...[...present].filter((c) => !(c in TERM_CATEGORIES))];
-const tierCounts = new Map<string, number>();
-for (const th of site.threads) tierCounts.set(th.evidenceTier, (tierCounts.get(th.evidenceTier) ?? 0) + 1);
 ---
 
-<Base lang={lang} title={s.glossaryTitle} description={s.glossaryLead} subpath="glossary/" active="glossary">
+<Base lang={lang} title={s.glossaryTitle} description={s.glossaryDescription} subpath="glossary/" active="glossary">
   <section class="page-head">
     <div class="wrap narrow">
       <h1 class="display">{s.glossaryTitle}</h1>
-      <p class="lead">{s.glossaryLead}</p>
     </div>
   </section>
 
   <section class="section section-tight" id="tiers" aria-labelledby="tiers-title">
     <div class="wrap narrow">
       <h2 id="tiers-title" class="section-title">{s.tiersTitle}</h2>
-      <p class="section-lead">{s.tiersLead}</p>
       <ol class="tier-legend">
         {
           site.tiers.map((tier, i) => (
@@ -45,7 +41,6 @@ for (const th of site.threads) tierCounts.set(th.evidenceTier, (tierCounts.get(t
                     {tier.short}
                   </span>
                   <span class="tier-row-label">{tier.label}</span>
-                  {tierCounts.get(tier.id) ? <span class="muted small num">· {tierCounts.get(tier.id)} {s.statThreads}</span> : null}
                 </p>
                 <p class="tier-row-desc">{tier.description}</p>
               </div>

@@ -1,7 +1,6 @@
 ---
 import type { GetStaticPaths } from "astro";
 import Base from "../../../layouts/Base.astro";
-import UpdateStats from "../../../components/UpdateStats.astro";
 import { getUpdates } from "../../../lib/content";
 import { t } from "../../../lib/i18n";
 import { updateUrl } from "../../../lib/paths";
@@ -14,11 +13,10 @@ const s = t(lang);
 const updates = getUpdates(lang);
 ---
 
-<Base lang={lang} title={s.upd.archiveTitle} description={s.upd.archiveLead} subpath="updates/" active="updates">
+<Base lang={lang} title={s.upd.archiveTitle} description={s.upd.archiveDescription} subpath="updates/" active="updates">
   <section class="page-head">
     <div class="wrap narrow">
       <h1 class="display">{s.upd.archiveTitle}</h1>
-      <p class="lead">{s.upd.archiveLead}</p>
     </div>
   </section>
 
@@ -34,16 +32,13 @@ const updates = getUpdates(lang);
                   <article class="update-row">
                     <p class="update-row-meta">
                       {i === 0 && <span class="badge badge-batch" data-batch="added">{s.upd.latestBadge}</span>}
-                      <time datetime={u.date}>{s.upd.added(u.dateLabel)}</time>
-                      <span aria-hidden="true">·</span>
-                      <span>{u.periodLabel}</span>
+                      <time datetime={u.date}>{u.dateLabel}</time>
                     </p>
                     <h2 class="update-row-title" {...langAttr}>
                       <a class="stretched" href={updateUrl(lang, u.id)}>
                         <Fragment set:html={u.title} />
                       </a>
                     </h2>
-                    <UpdateStats lang={lang} update={u} />
                     {u.lead && <div class="update-row-lead" {...langAttr} set:html={u.lead} />}
                     <p class="update-row-cta" aria-hidden="true">{s.upd.readSummary}</p>
                   </article>

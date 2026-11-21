@@ -20,11 +20,10 @@ const threadsByGroup = site.groups.map((g) => ({
 const config = JSON.stringify({ lang, page: PAGE, card: s.card, tpl: s.tpl });
 ---
 
-<Base lang={lang} title={s.feedTitle} description={s.feedLead} subpath="feed/" active="feed">
+<Base lang={lang} title={s.feedTitle} description={s.feedDescription} subpath="feed/" active="feed">
   <section class="page-head">
     <div class="wrap">
       <h1 class="display">{s.feedTitle}</h1>
-      <p class="lead">{s.feedLead}</p>
     </div>
   </section>
 

@@ -58,8 +58,8 @@ added_entries:
     entry_id: 2026-08-18_gut-microbiota-dysbiosis-in-post-covid-fatigue-and-limitation
     action: added
 en:
-  title: "November 2026 Update: POTS Antibody Trial, LIFT Protocol & German Funding Audit"
-  lead: "This update covers late October through 21 November 2026 with 17 new entries and 1 peer-reviewed journal upgrade across 7 threads. There is still no newly proven treatment or ready-to-use blood test, but concrete clinical trials are taking shape (baloncibart heading to Phase 3 in POTS, the published LIFT protocol for LDN and pyridostigmine in ME/CFS), while Germany gets its first transparent public-funding audit and a new federal pathomechanism call."
+  title: "POTS Antibody Trial, LIFT Protocol & German Funding Audit"
+  lead: "Still no newly proven treatment or ready-to-use blood test, but concrete clinical trials are taking shape (baloncibart heading to Phase 3 in POTS, the published LIFT protocol for LDN and pyridostigmine in ME/CFS), while Germany gets its first transparent public-funding audit and a new federal pathomechanism call."
   highlights:
     - tag: "Worth reading closely"
       title: "Clinical trials: baloncibart in POTS, LIFT protocol for LDN + pyridostigmine, and early biomarker leads"
@@ -101,8 +101,8 @@ en:
   what_to_skip_or_caveats: |
     Several exploratory laboratory and imaging additions—including a structural brain-MRI machine-learning classifier (AUC 0.86 in internal cross-validation only), an exploratory T-cell/oxidative-stress biomarker panel, two small gut-microbiome studies (15–30 patients), and a two-day submaximal exercise acid-base study with a null overall group result—add useful mechanistic context but are **not** clinical tests and do not change day-to-day care. If you have limited energy, you can safely skim the top two highlights above and skip the exploratory lab entries for now.
 de:
-  title: "Update November 2026: POTS-Antikörperstudie, LIFT-Protokoll & Förderbericht"
-  lead: "Dieses Update bündelt den Zeitraum von Ende Oktober bis 21. November 2026 mit 17 neuen Einträgen und einer Journal-Aktualisierung in 7 Forschungssträngen. Es gibt weiterhin keine neu belegte Therapie und keinen fertigen Bluttest – aber konkrete klinische Studien nehmen Gestalt an (Baloncibart geht bei POTS Richtung Phase 3, das LIFT-Protokoll prüft LDN und Pyridostigmin bei ME/CFS), und in Deutschland zeigen Förderbericht und neue BMFTR-Ausschreibung klarer, wo Lücken liegen und Geld ansetzt."
+  title: "POTS-Antikörperstudie, LIFT-Protokoll & Förderbericht"
+  lead: "Weiterhin keine neu belegte Therapie und kein fertiger Bluttest – aber konkrete klinische Studien nehmen Gestalt an (Baloncibart geht bei POTS Richtung Phase 3, das LIFT-Protokoll prüft LDN und Pyridostigmin bei ME/CFS), und in Deutschland zeigen Förderbericht und neue BMFTR-Ausschreibung klarer, wo Lücken liegen und Geld ansetzt."
   highlights:
     - tag: "Lohnt sich genauer anzuschauen"
       title: "Klinische Studien: Baloncibart bei POTS, LIFT-Protokoll zu LDN + Pyridostigmin und frühe Biomarker-Spuren"

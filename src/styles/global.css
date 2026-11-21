@@ -402,22 +402,38 @@ kbd {
 .list-count { color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; margin: 4px 0 14px; }
 .empty-state { text-align: center; color: var(--muted); padding: 32px 16px; border: 1px dashed var(--line-strong); border-radius: var(--radius); }
 
-.page-head { padding: 48px 0 20px; }
+.page-head { padding: 28px 0 12px; }
 
-/* ---------- hero ---------- */
+/* ---------- home entry ---------- */
 
-.hero { padding: 56px 0 36px; border-bottom: 1px solid var(--line); }
-.hero-inner { max-width: 860px; }
-.hero .lead { font-size: clamp(1.06rem, 1rem + 0.3vw, 1.2rem); }
-.stats {
-  display: flex; flex-wrap: wrap; gap: 6px 12px; margin-top: 20px; color: var(--muted); font-size: 0.95rem;
+.home-top { padding: 20px 0 28px; border-bottom: 1px solid var(--line); }
+.home-bar { display: grid; gap: 12px; }
+.home-title { font-size: clamp(1.65rem, 1.35rem + 1.4vw, 2.25rem); }
+.hero-search { position: relative; }
+.home-entry { margin-top: 16px; display: grid; gap: 20px; align-items: start; }
+.home-aside { display: none; }
+
+@media (min-width: 840px) {
+  .home-top { padding: 28px 0 36px; }
+  .home-bar { grid-template-columns: minmax(0, 1fr) minmax(280px, 420px); align-items: center; gap: 24px; }
+  .home-entry { margin-top: 22px; }
 }
-.stats strong { color: var(--ink); font-weight: 650; }
-.hero-search { position: relative; margin-top: 28px; max-width: 680px; }
-.hint { color: var(--muted); font-size: 0.87rem; margin-top: 10px; padding-left: 4px; }
+
+@media (min-width: 900px) {
+  .home-entry { grid-template-columns: minmax(0, 1fr) 290px; gap: 28px; }
+  .home-aside {
+    display: block; padding: 20px 22px; border: 1px solid var(--line); border-radius: var(--radius);
+    background: var(--surface); color: var(--muted); font-size: 0.93rem; line-height: 1.55;
+  }
+  .aside-title { font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink); margin-bottom: 8px; }
+  .aside-links { display: flex; flex-direction: column; gap: 2px; margin-top: 12px; }
+  .aside-links a { font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; min-height: 34px; }
+  .aside-links a:hover { text-decoration: underline; }
+  .mobile-note { display: none; }
+}
 
 .search-popover {
-  position: absolute; left: 0; right: 0; top: 64px; z-index: 30;
+  position: absolute; left: 0; right: 0; top: calc(100% + 6px); z-index: 30;
   background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow-lg);
   max-height: min(70vh, 560px); overflow: auto; padding: 6px;
 }
@@ -752,33 +768,28 @@ sup, sub { line-height: 0; font-size: 0.72em; }
 }
 
 .update-eyebrow {
-  display: inline-flex; align-items: center; gap: 8px; margin-bottom: 10px;
+  display: inline-flex; align-items: center; gap: 8px; margin-bottom: 8px;
   font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent);
 }
 .update-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 16%, transparent); flex: none; }
-.update-stats {
-  display: flex; flex-wrap: wrap; gap: 4px 8px; margin-top: 12px; width: fit-content; max-width: 100%;
-  padding: 4px 12px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface-2);
-  color: var(--muted); font-size: 0.86rem; font-weight: 600;
-}
 
-.section-update { padding: 32px 0 0; }
 .update-teaser {
-  position: relative; max-width: 860px; padding: 26px 28px 24px; border-radius: var(--radius);
+  position: relative; padding: 22px 24px 20px; border-radius: var(--radius);
   background: color-mix(in srgb, var(--accent) 5%, var(--surface));
   border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--line));
   box-shadow: var(--shadow);
 }
-.update-teaser-title { font-family: var(--font-serif); font-size: clamp(1.3rem, 1.15rem + 0.8vw, 1.65rem); font-weight: 600; line-height: 1.25; }
+.update-teaser-title { font-family: var(--font-serif); font-size: clamp(1.25rem, 1.12rem + 0.7vw, 1.55rem); font-weight: 600; line-height: 1.25; }
 .update-teaser-title a { color: var(--ink); text-decoration: none; }
 .update-teaser-title a:hover { text-decoration: underline; text-decoration-color: var(--line-strong); }
-.update-teaser-lead { margin-top: 14px; color: var(--ink); max-width: 68ch; line-height: 1.6; }
+.update-teaser-lead { margin-top: 10px; color: var(--ink); max-width: 68ch; line-height: 1.58; }
 .update-teaser-lead > p + p { margin-top: 0.6em; }
-.update-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 20px; margin-top: 20px; }
+.update-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 20px; margin-top: 16px; }
 .update-archive-link { font-weight: 600; color: var(--muted); text-decoration: none; display: inline-flex; align-items: center; min-height: 44px; }
 .update-archive-link:hover { color: var(--ink); text-decoration: underline; }
 @media (max-width: 520px) {
-  .update-teaser { padding: 20px 18px 18px; }
+  .update-teaser { padding: 16px 16px 14px; }
+  .update-teaser-lead { font-size: 0.98rem; }
   .update-actions .btn { width: 100%; }
 }
 
@@ -792,12 +803,10 @@ sup, sub { line-height: 0; font-size: 0.72em; }
 .update-row-title { font-family: var(--font-serif); font-size: 1.3rem; font-weight: 600; line-height: 1.3; }
 .update-row-title a { color: var(--ink); text-decoration: none; }
 .update-row-title a:focus-visible { outline: none; }
-.update-row-lead { margin-top: 12px; color: var(--muted); line-height: 1.55; }
+.update-row-lead { margin-top: 10px; color: var(--muted); line-height: 1.55; }
 .update-row-cta { margin-top: 12px; font-weight: 600; color: var(--accent); }
 
-.update-hero .update-eyebrow-page { margin-top: 18px; }
-.update-title { max-width: 30ch; }
-.update-meta { margin-top: 14px; color: var(--muted); font-size: 0.95rem; }
+.update-title { max-width: 30ch; margin-top: 14px; }
 .update-body { padding-top: 22px; padding-bottom: 8px; }
 .update-lead { font-size: 1.14rem; line-height: 1.65; max-width: 64ch; }
 .update-lead > p + p { margin-top: 0.7em; }
