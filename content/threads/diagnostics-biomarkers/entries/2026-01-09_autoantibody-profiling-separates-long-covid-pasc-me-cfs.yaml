@@ -1,0 +1,19 @@
+id: 2026-01-09_autoantibody-profiling-separates-long-covid-pasc-me-cfs
+date: '2026-01-09'
+date_display: '2026-01-09'
+date_precision: exact
+source_type: paper
+study_design: Cross-sectional study
+sources:
+- label: Purpura et al. 2026, Clinical Infectious Diseases
+  url: https://doi.org/10.1093/cid/ciaf624
+  kind: paper
+en:
+  title: Autoantibody profiling separates Long COVID, PASC-ME/CFS, and post-vaccination syndrome
+  plain_summary: A Columbia University study compared people with post-COVID ME/CFS, non-ME/CFS Long COVID, and post-vaccination syndrome, finding similar overall disability but distinct autoantibody patterns in the post-vaccination group. Because the post-vaccination subgroup was very small (28 people) at one center, these antibody signals need replication.
+  detail: A cross-sectional study from Columbia University Irving Medical Center compared 71 PASC patients meeting ME/CFS criteria, 82 non-ME/CFS PASC patients, and 28 post-acute COVID-19 vaccination syndrome patients on symptom burden, functional impairment, and immunologic markers. The ME/CFS phenotype showed the highest multi-system symptom burden, and the post-vaccination group showed comparable functional impairment to the ME/CFS group, despite different symptom profiles that included higher rates of peripheral neuropathy, tinnitus, and rash. Immunologically, the post-vaccination group had markedly higher rates of anticardiolipin IgM (43%) and anti-U1-RNP (21%) positivity, distinguishing it from both PASC groups. High rates of HSP-70 autoantibodies and cytokine elevations appeared across all three groups. The single-center, cross-sectional design and small post-vaccination subgroup (n=28) limit generalizability, and the autoantibody findings require prospective replication.
+de:
+  title: Autoantikörper-Profilierung trennt Long COVID, PASC-ME/CFS und Post-Vakzin-Syndrom
+  plain_summary: Eine Studie der Columbia University verglich Betroffene mit Post-COVID-ME/CFS, sonstigem Long COVID und Post-Vakzin-Syndrom und fand ähnlich starke Alltagseinschränkungen, aber teils unterschiedliche Autoantikörper-Muster beim Post-Vakzin-Syndrom. Da die Post-Vakzin-Gruppe mit 28 Personen an nur einem Zentrum sehr klein war, müssen diese Befunde erst unabhängig bestätigt werden.
+  detail: Eine Querschnittsstudie am Columbia University Irving Medical Center verglich 71 PASC-Patientinnen und -Patienten mit erfüllten ME/CFS-Kriterien, 82 PASC-Betroffene ohne ME/CFS sowie 28 Personen mit Post-Akut-COVID-19-Impfsyndrom hinsichtlich Symptomlast, funktioneller Beeinträchtigung und immunologischer Marker. Der ME/CFS-Phänotyp wies die höchste multisystemische Symptomlast auf, und die Post-Vakzin-Gruppe zeigte trotz anderer Beschwerdeschwerpunkte – darunter häufigere periphere Neuropathie, Tinnitus und Hautausschläge – eine vergleichbare funktionelle Einschränkung wie die ME/CFS-Gruppe. Immunologisch fanden sich in der Post-Vakzin-Gruppe deutlich höhere Positivraten für Anticardiolipin-IgM (43 %) und Anti-U1-RNP (21 %), wodurch sie sich von beiden PASC-Gruppen abhob. Hohe Raten an HSP-70-Autoantikörpern und Zytokinerhöhungen traten in allen drei Gruppen auf. Das monozentrische Querschnittsdesign und die kleine Post-Vakzin-Untergruppe (n = 28) schränken die Übertragbarkeit
+    ein, sodass die Autoantikörper-Befunde prospektiv repliziert werden müssen.

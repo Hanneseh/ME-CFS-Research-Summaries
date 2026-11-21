@@ -1,0 +1,19 @@
+id: 2026-07-27_narrative-review-evaluates-digital-tools-and-wearable-tracking
+date: '2026-07-27'
+date_display: '2026-07-27'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: PLOS Digital Health 2026, PLOS Digital Health
+  url: https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001586
+  kind: paper
+en:
+  title: Narrative review evaluates digital tools and wearable tracking for energy envelope management
+  plain_summary: A review in *PLOS Digital Health* examines smartwatches, HRV apps, and adaptive alerts for pacing, concluding they can help spot early energy drain if tailored to individual limits rather than rigid step goals. Because it is a narrative review without new trial data, randomized studies are still needed to prove long-term benefit.
+  detail: A narrative review published in *PLOS Digital Health* synthesized clinical evidence on wearable heart-rate monitors, HRV tracking, smartphone applications, and Just-In-Time Adaptive Interventions (JITAIs) for energy envelope management in ME/CFS and Long COVID. The authors reviewed evidence showing that continuous physiological sensing can help detect impending energy envelope depletion and provide real-time feedback to prevent post-exertional crashes. The review identified key implementation barriers, including digital access disparities, algorithm inaccuracy under dysautonomia, and the necessity of individual baseline calibration rather than rigid population step targets. As a narrative review and conceptual framework, the manuscript does not report new primary trial data, and digital pacing tools require prospective randomized trials to validate long-term clinical efficacy. For patient care, it highlights how consumer wearables can be integrated into clinical pacing frameworks
+    when calibrated to individual physiological limits.
+de:
+  title: Narrative Übersichtsarbeit bewertet digitale Werkzeuge und Wearable-Tracking für das Energiemanagement
+  plain_summary: Eine Übersichtsarbeit in *PLOS Digital Health* untersucht Smartwatches, HRV-Apps und adaptive Warnhinweise für das Pacing und sieht Potenzial zur Früherkennung von Überlastung, sofern individuelle Grenzen statt starrer Schrittziele kalibriert werden. Als narrative Übersicht liefert sie keine neuen Studiendaten, sodass kontrollierte Wirksamkeitsstudien noch ausstehen.
+  detail: Eine narrative Übersichtsarbeit in *PLOS Digital Health* fasste die klinische Evidenz zu tragbaren Pulsmessern, HRV-Tracking, Smartphone-Apps und Just-In-Time Adaptive Interventions (JITAIs) für das Management der Energiegrenzen bei ME/CFS und Long COVID zusammen. Die Autorinnen und Autoren zeigten auf, dass kontinuierliche physiologische Sensorik drohende Energieerschöpfung erkennen und Echtzeit-Feedback zur Vermeidung von PEM-Crashs liefern kann. Als zentrale Hürden benannte die Übersicht Ungleichheiten beim digitalen Zugang, Ungenauigkeiten von Algorithmen bei Dysautonomie sowie die Notwendigkeit individueller Basiskalibrierung statt starrer bevölkerungsweiter Schrittziele. Da die Arbeit keine neuen Primärdaten berichtet, bleiben prospektive randomisierte Studien nötig, um den langfristigen klinischen Nutzen digitaler Pacing-Werkzeuge zu belegen.

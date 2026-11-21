@@ -1,0 +1,18 @@
+id: 2026-08-27_mouse-study-links-female-biased-post-viral-memory
+date: '2026-08-27'
+date_display: '2026-08-27'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Liu et al. 2026, bioRxiv preprint, version 2 posted 2026-08-27
+  url: https://doi.org/10.1101/2025.10.13.682101
+  kind: preprint
+en:
+  title: Mouse study links female-biased post-viral memory deficits to X-chromosome dosage and TLR7
+  plain_summary: A preprint mouse study found that female mice—specifically those with two X chromosomes—developed lasting brain inflammation and memory issues after SARS-CoV-2 cleared, linked to the immune sensor TLR7. While a TLR7-blocking drug helped the mice, animal findings do not prove the same happens in people and TLR7 blockers carry infection risks.
+  detail: 'In a preclinical SARS-CoV-2 mouse study, females developed persistent hippocampal inflammation and memory deficits through 84 days despite respiratory viral clearance and no detectable brain infection. Four Core Genotypes experiments implicated having two X chromosomes, rather than gonadal sex, alongside sustained Xist and Tlr7 expression, reactive microglia, and systemic myeloid activation. Post-acute Enpatoran (M5049), an investigational TLR7/8 inhibitor, reversed inflammatory and memory phenotypes in mice. No human participants were studied: severe or bedbound inclusion and PEM were not applicable, and translation to ME/CFS or Long COVID remains unproven. TLR7 inhibition carries potential immunosuppression and infection risks and is not a clinical recommendation.'
+de:
+  title: Mausstudie verknüpft weiblich geprägte postvirale Gedächtnisdefizite mit X-Chromosomen-Dosis und TLR7
+  plain_summary: Ein Preprint an Mäusen zeigte, dass Tiere mit zwei X-Chromosomen nach abgeklungener SARS-CoV-2-Infektion über den Immunsensor TLR7 eine anhaltende Hirnentzündung und Gedächtnisprobleme entwickelten. Ein experimenteller TLR7-Hemmer besserte dies zwar bei den Mäusen, doch sind Tierdaten nicht auf Menschen übertragbar und bergen Infektionsrisiken.
+  detail: In einer präklinischen SARS-CoV-2-Mausstudie entwickelten Weibchen trotz Abklingen des Virus in den Atemwegen und ohne nachweisbare Hirninfektion über 84 Tage hinweg eine anhaltende Entzündung im Hippocampus sowie Gedächtnisdefizite. Experimente mit dem Four-Core-Genotypes-Modell führten dies auf das Vorhandensein zweier X-Chromosomen statt auf das hormonelle Geschlecht zurück – begleitet von anhaltender Xist- und Tlr7-Expression, reaktiven Mikroglia und systemischer myeloider Aktivierung; der experimentelle TLR7/8-Hemmer Enpatoran (M5049) bildete Entzündungs- und Gedächtnisphänotypen in Mäusen zurück. Es wurden keine Menschen untersucht (PEM und Schwerstbetroffene sind nicht abbildbar), die Übertragbarkeit auf ME/CFS oder Long COVID ist unbewiesen, und eine TLR7-Hemmung birgt Risiken einer Immunsuppression.

@@ -1,0 +1,19 @@
+id: 2025-08-04_real-world-long-covid-registry-reports-mixed-outcomes
+date: '2025-08-04'
+date_display: '2025-08-04'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: van Berkel et al. 2025, Scientific Reports
+  url: https://doi.org/10.1038/s41598-025-11539-0
+  kind: paper
+en:
+  title: Real-world Long COVID registry reports mixed outcomes and worsening in a minority
+  plain_summary: A Dutch registry tracking 232 Long COVID patients who paid for hyperbaric oxygen therapy found that 56–63% improved in cognition and quality of life after three months, while 13–19% worsened significantly. With no placebo group and a real risk that daily chamber sessions exhaust patients and trigger PEM, this real-world data cannot prove HBOT works or is safe for everyone.
+  detail: 'A prospective observational registry tracking 232 Long COVID patients across six Dutch hyperbaric centers found that 3 months after HBOT, 56–63% of patients experienced clinically relevant improvements in cognitive symptoms and quality of life, but 13–19% suffered significant clinical deterioration. This finding provides the first large-scale, real-world cohort data and highlights a critical safety signal: the intensive, demanding protocol of daily HBOT sessions can be exhausting and may trigger clinical worsening, potentially by inducing post-exertional malaise (PEM). However, the study''s observational design lacks a placebo or sham control group, meaning it cannot prove that the reported benefits were caused directly by the HBOT itself. Furthermore, it does not prove the treatment helps patients return to work (with only 11% of unable-to-work patients resuming work) and contains selection bias, as the off-label therapy had to be entirely self-funded by patients.'
+de:
+  title: Versorgungsregister zu Long COVID berichtet gemischte Ergebnisse und Verschlechterungen bei einer Minderheit
+  plain_summary: Ein niederländisches Register mit 232 selbstzahlenden Long-COVID-Betroffenen zeigte drei Monate nach einer HBOT bei 56–63 % Besserungen bei Kognition und Lebensqualität, bei 13–19 % jedoch eine deutliche Verschlechterung. Ohne Placebogruppe und angesichts des Risikos, dass tägliche Druckkammersitzungen überlasten und PEM auslösen, belegen die Daten weder die Wirksamkeit noch die allgemeine Sicherheit.
+  detail: 'Ein prospektives Beobachtungsregister, das 232 Long-COVID-Patientinnen und -Patienten an sechs niederländischen Druckkammerzentren verfolgte, ergab drei Monate nach HBOT bei 56–63 % klinisch relevante Verbesserungen der kognitiven Symptome und Lebensqualität, jedoch bei 13–19 % eine deutliche klinische Verschlechterung. Dieser Befund liefert erste größere Versorgungsdaten und markiert ein wichtiges Sicherheitssignal: Das intensive, fordernde Protokoll täglicher HBOT-Sitzungen kann stark erschöpfen und eine Verschlechterung anstoßen, möglicherweise durch das Auslösen von Post-Exertional Malaise (PEM). Da dem Beobachtungsdesign eine Placebo- oder Scheinkontrollgruppe fehlt, kann es jedoch nicht beweisen, dass die berichteten Besserungen direkt durch HBOT verursacht wurden. Zudem belegt die Studie keine Rückkehr in den Beruf (nur 11 % der arbeitsunfähigen Teilnehmenden nahmen die Arbeit wieder auf) und unterliegt einer Selektionsverzerrung, da die Off-Label-Therapie vollständig selbst
+    finanziert werden musste.'

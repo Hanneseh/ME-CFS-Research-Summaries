@@ -1,0 +1,19 @@
+id: 2025-10-01_study-identifies-systemic-increase-of-brain-ampa-receptors
+date: '2025-10-01'
+date_display: '2025-10-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Fujimoto et al. 2025, Brain Communications
+  url: https://academic.oup.com/braincomms/article/7/5/fcaf337/8258475?login=false
+  kind: paper
+en:
+  title: Study identifies systemic increase of brain AMPA receptors in Long COVID cognitive impairment
+  plain_summary: A PET scan study in Japan found widespread increases in glutamate-related AMPA receptors across the brain in 30 Long COVID patients with cognitive symptoms, tracking worse memory and inflammation markers. While the scan separated patients from controls in this small cohort, it needs replication in diverse populations before any diagnostic or drug use.
+  detail: In a molecular imaging study published in *Brain Communications*, Fujimoto et al. used the novel AMPA receptor (AMPAR) PET tracer [11C]K-2 and structural MRI to study 30 patients with Long COVID-related cognitive impairment and 80 healthy controls. The researchers discovered a widespread, systemic increase in postsynaptic AMPAR density across large brain regions in patients. The level of AMPAR upregulation correlated with poorer cognitive performance on RBANS subscales (specifically Picture Naming and Figure Recall) and with plasma neuroinflammatory cytokines. A classification model using the AMPAR density data achieved 100% sensitivity and 91.25% specificity (AUC = 0.980) in distinguishing patients from controls. The study suggests that synaptic AMPAR upregulation drives cognitive dysfunction and poses a risk of excitotoxic neuronal damage. Limitations include a Japanese-only cohort, cross-sectional design, and small sample size.
+de:
+  title: Studie identifiziert systemweiten Anstieg von Hirn-AMPA-Rezeptoren bei kognitiver Beeinträchtigung durch Long COVID
+  plain_summary: Eine PET-Studie aus Japan fand bei 30 Long-COVID-Betroffenen mit kognitiven Beschwerden eine verbreitete Zunahme von AMPA-Rezeptoren im Gehirn, die mit schlechterer Gedächtnisleistung und Entzündungsmarkern zusammenhing. In dieser kleinen Gruppe trennte der Scan Betroffene gut von Kontrollen, muss aber erst in vielfältigeren Kohorten überprüft werden.
+  detail: In einer in *Brain Communications* veröffentlichten molekularen Bildgebungsstudie nutzten Fujimoto et al. den neuartigen AMPA-Rezeptor-(AMPAR-)PET-Tracer [11C]K-2 sowie strukturelle MRT, um 30 Patientinnen und Patienten mit Long-COVID-bedingter kognitiver Beeinträchtigung und 80 gesunde Kontrollen zu untersuchen. Die Forschenden entdeckten bei den Betroffenen einen weitreichenden, systemweiten Anstieg der postsynaptischen AMPAR-Dichte über große Hirnregionen hinweg. Das Ausmaß der AMPAR-Hochregulierung korrelierte mit schlechterer kognitiver Leistung auf RBANS-Subskalen (insbesondere Bildbenennung und Figuren-Erinnerung) sowie mit neuroinflammatorischen Zytokinen im Plasma. Ein Klassifikationsmodell auf Basis der AMPAR-Dichtedaten erreichte 100 % Sensitivität und 91,25 % Spezifität (AUC = 0,980) bei der Unterscheidung von Patientinnen und Patienten und Kontrollen. Die Studie legt nahe, dass eine synaptische AMPAR-Hochregulierung kognitive Dysfunktion antreibt und das Risiko einer
+    exzitotoxischen neuronalen Schädigung birgt. Einschränkungen sind eine rein japanische Kohorte, das Querschnittsdesign und die kleine Fallzahl.

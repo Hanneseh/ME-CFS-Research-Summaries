@@ -1,0 +1,19 @@
+id: 2026-06-29_comparative-dti-dki-imaging-reveals-shared-yet-distinct
+date: '2026-06-29'
+date_display: '2026-06-29'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Microstructural Alterations in Brain Tissue of ME/CFS and Long COVID Using Diffusion Tensor Imaging and Diffusion Kurtosis Imaging, Frontiers in Medicine
+  url: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1824498/full
+  kind: paper
+en:
+  title: Comparative DTI/DKI imaging reveals shared yet distinct white matter microstructural changes
+  plain_summary: Advanced white-matter scans of 83 people found structural nerve-tract differences in both ME/CFS and Long COVID compared with healthy controls, but in partly different brain pathways. As a one-time scan study, it cannot show whether these white-matter changes improve or worsen over time.
+  detail: A comparative neuroimaging study combining Diffusion Tensor Imaging (DTI) and Diffusion Kurtosis Imaging (DKI) in 37 ME/CFS patients, 19 Long COVID patients, and 27 controls mapped distinct white matter microstructural alterations. ME/CFS patients exhibited microstructural changes in the cingulum, supplementary motor areas, and corpus callosum, whereas Long COVID patients showed alterations in the fusiform gyrus, precentral gyrus, and major white matter tracts. A direct comparison between the two patient cohorts identified a significant difference in the left corona radiata, illustrating unique pathological signatures despite overlapping clinical profiles. These findings provide objective evidence of microstructural tissue changes that may underlie cognitive and motor fatigue, though the study's cross-sectional design cannot determine if these changes are progressive or reversible over time.
+de:
+  title: Vergleichende DTI/DKI-Bildgebung deckt gemeinsame und doch unterschiedliche Mikrostrukturveränderungen der weißen Substanz auf
+  plain_summary: Spezialisierte Scans der weißen Hirnsubstanz bei 83 Personen zeigten sowohl bei ME/CFS als auch bei Long COVID Veränderungen der Nervenfaserbahnen gegenüber Gesunden, jedoch in teils unterschiedlichen Hirnregionen. Als Querschnittsstudie klärt sie nicht, ob sich diese Veränderungen mit der Zeit zurückbilden oder fortschreiten.
+  detail: Eine vergleichende Bildgebungsstudie, die Diffusions-Tensor-Bildgebung (DTI) und Diffusions-Kurtosis-Bildgebung (DKI) bei 37 ME/CFS-Patientinnen und -Patienten, 19 Long-COVID-Betroffenen und 27 Kontrollen kombinierte, kartierte unterschiedliche mikrostrukturelle Veränderungen der weißen Substanz. ME/CFS-Betroffene zeigten mikrostrukturelle Veränderungen im Cingulum, in supplementär-motorischen Arealen und im Corpus callosum, während Long-COVID-Betroffene Veränderungen im Gyrus fusiformis, im Gyrus praecentralis und in großen Bahnen der weißen Substanz aufwiesen. Ein direkter Vergleich zwischen den beiden Patientenkohorten identifizierte einen signifikanten Unterschied in der linken Corona radiata, was trotz überlappender klinischer Profile auf eigene pathologische Signaturen hinweist. Diese Befunde liefern objektive Hinweise auf mikrostrukturelle Gewebeveränderungen, die kognitiver und motorischer Fatigue zugrunde liegen könnten, wobei das Querschnittsdesign der Studie nicht klären
+    kann, ob diese Veränderungen im Zeitverlauf fortschreitend oder reversibel sind.

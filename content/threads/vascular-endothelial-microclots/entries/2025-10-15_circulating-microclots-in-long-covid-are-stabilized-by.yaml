@@ -1,0 +1,19 @@
+id: 2025-10-15_circulating-microclots-in-long-covid-are-stabilized-by
+date: '2025-10-15'
+date_display: '2025-10-15'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Thierry et al. 2025, Journal of Medical Virology
+  url: https://doi.org/10.1002/jmv.70613
+  kind: paper
+en:
+  title: Circulating microclots in Long COVID are stabilized by neutrophil extracellular traps
+  plain_summary: A blood imaging study found far more and larger microclots in Long COVID patients than in controls, reinforced by sticky webs of immune-cell DNA that make them hard to break down. Combining clot and DNA markers flagged cases accurately in this sample, but it does not prove these clots cause symptoms or that breaking them up helps patients.
+  detail: A comparative imaging study of blood plasma using imaging flow cytometry found that circulating microclots are nearly 20 times more abundant and significantly larger in Long COVID patients compared to controls. The research demonstrated that neutrophil extracellular traps (NETs)—sticky webs of DNA released by activated neutrophils—are physically embedded within these microclots, serving as a structural scaffold. This structural integration makes the microclots highly resistant to natural enzymatic breakdown (fibrinolysis), explaining their persistence in circulation. Combining microclot and NET markers achieved a diagnostic accuracy of 91%, supporting a thrombo-inflammatory model of disease. The study does not establish whether NET-stabilized microclots are a primary driver of tissue hypoxia or a secondary biomarker, nor does it prove that therapies targeting both fibrin and DNA structures are clinically effective.
+de:
+  title: Zirkulierende Mikrogerinnsel bei Long COVID werden durch Neutrophil Extracellular Traps stabilisiert
+  plain_summary: Eine Bildgebungsstudie fand bei Long COVID deutlich mehr und größere Mikrogerinnsel, verstärkt durch klebrige DNA-Netze von Immunzellen, die ihren Abbau erschweren. Ob diese Gerinnsel die Beschwerden direkt verursachen oder eine gezielte Auflösung hilft, ist damit noch nicht bewiesen.
+  detail: Eine vergleichende Blutplasma-Studie mittels bildgebender Durchflusszytometrie ergab, dass zirkulierende Mikrogerinnsel bei Long-COVID-Betroffenen fast 20-mal häufiger und deutlich größer sind als bei Kontrollpersonen. Die Untersuchung zeigte, dass Neutrophil Extracellular Traps (NETs) – klebrige DNA-Netze, die von aktivierten neutrophilen Granulozyten freigesetzt werden – physisch in diese Mikrogerinnsel eingebettet sind und als Stützgerüst dienen. Diese Verflechtung macht die Mikrogerinnsel besonders widerstandsfähig gegen den natürlichen enzymatischen Abbau (Fibrinolyse) und erklärt ihr Fortbestehen im Blutkreislauf. Die Kombination aus Mikrogerinnsel- und NET-Markern erreichte eine diagnostische Genauigkeit von 91 % und stützt ein thrombo-inflammatorisches Krankheitsmodell. Die Studie klärt jedoch nicht, ob NET-stabilisierte Mikrogerinnsel eine primäre Ursache für Gewebe-Hypoxie oder ein nachgeschalteter Biomarker sind, und beweist nicht, dass Therapien gegen Fibrin- und DNA-Strukturen
+    klinisch wirksam sind.

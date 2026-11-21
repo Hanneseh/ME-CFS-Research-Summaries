@@ -1,0 +1,18 @@
+id: 2024-04-08_longitudinal-n-of-1-profiling-of-severe-me
+date: '2024-04-08'
+date_display: '2024-04-08'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Jahanbani et al. 2024, Frontiers in Immunology
+  url: https://doi.org/10.3389/fimmu.2024.1369295
+  kind: paper
+en:
+  title: Longitudinal N-of-1 profiling of severe ME/CFS associates symptom severity with Th2-type cytokine profiles
+  plain_summary: Tracking one very severely ill, bedridden ME/CFS patient over four years showed that slight cognitive and sensory improvements lined up with drops in allergy-type (Th2) immune signals and mast-cell activity. Because it followed only a single person, it offers an interesting clue rather than a general rule for all patients.
+  detail: A four-year longitudinal study of an extremely severe, bedridden ME/CFS patient integrated multiplex cytokine profiling across nine blood samples with clinical and medication logs. The analysis showed that marginal symptom improvements (especially in cognitive function and sensory overload) correlated with a reduction in Th2-type cytokines and decreased activity of mast cells and eosinophils. This provides longitudinal evidence that a Th2-dominant immune profile and mast cell/eosinophil activation are associated with severe ME/CFS symptoms, strengthening the pathobiological link to hypermobility spectrum disorders (HSD) and mast cell activation syndrome (MCAS). However, being a single-patient (N-of-1) study, these immunopathological correlations cannot be assumed to represent the mechanisms driving milder cases or the wider patient population.
+de:
+  title: Vierjährige N-of-1-Langzeitprofilierung bei schwerstem ME/CFS verknüpft Symptomschwere mit Th2-Zytokinprofilen
+  plain_summary: Eine vierjährige Verlaufsbeobachtung einer schwerstbetroffenen, bettlägerigen ME/CFS-Patientin zeigte, dass leichte Besserungen bei Denken und Reizempfindlichkeit mit sinkenden Th2-Immunbotenstoffen und geringerer Mastzellaktivität zusammenfielen. Da nur eine einzige Person untersucht wurde, lässt sich das nicht auf alle Betroffenen verallgemeinern.
+  detail: Eine vierjährige Längsschnittstudie an einer äußerst schwer betroffenen, bettlägerigen ME/CFS-Patientin verknüpfte Multiplex-Zytokinanalysen aus neun Blutproben mit klinischen Verlaufs- und Medikationsprotokollen. Die Auswertung zeigte, dass leichte Besserungen der Symptome (insbesondere bei kognitiven Funktionen und Reizüberflutung) mit einem Rückgang von Th2-Zytokinen sowie verringerter Aktivität von Mastzellen und Eosinophilen korrelierten. Dies liefert Längsschnitthinweise darauf, dass ein Th2-dominantes Immunprofil sowie eine Aktivierung von Mastzellen und Eosinophilen mit schweren ME/CFS-Beschwerden zusammenhängen können, und stärkt die pathobiologische Verbindung zu Hypermobilitätsspektrum-Störungen (HSD) und MCAS. Da es sich jedoch um eine Einzelfallstudie (N-of-1) handelt, dürfen diese Korrelationen nicht als allgemeingültiger Mechanismus für mildere Verläufe oder die breitere Patientenpopulation vorausgesetzt werden.

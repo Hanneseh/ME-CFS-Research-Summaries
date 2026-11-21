@@ -1,0 +1,20 @@
+id: 2025-03-24_norwegian-registry-sampling-study-shows-socioeconomic-bias-in
+date: '2025-03-24'
+date_display: '2025-03-24'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Kielland et al. 2025, Journal of Health Psychology
+  url: https://doi.org/10.1177/13591053251325690
+  kind: paper
+en:
+  title: Norwegian registry sampling study shows socioeconomic bias in official ME/CFS records
+  plain_summary: A Norwegian study found that people with higher income and better specialist access were more likely to appear in official ME/CFS registries than equally ill peers. Official health records therefore undercount the true number of people affected, though online surveys still miss many of the most severely ill.
+  detail: 'A study comparing Norwegian ICD-10 G93.3 registry data with an online peer-referral sampling method (respondent-driven sampling, RDS) found that the likelihood of receiving a formal ME/CFS diagnosis was influenced by sociodemographic factors even after controlling for symptom severity. Patients with higher socioeconomic status and better access to specialist care were more likely to appear in administrative registers, meaning standard registry-based prevalence estimates exclude a substantial portion of the actual patient population. The RDS approach successfully reached a broader and more clinically homogeneous cohort using validated DePaul University algorithms against the Canadian Consensus Criteria. A residual limitation is that severely ill patients who are not active online remain difficult to reach even by peer referral. The finding is methodologically consequential: any epidemiological study that relies on national coding databases alone risks systematically undercounting
+    the burden of illness and producing skewed demographic profiles of who ME/CFS affects.'
+de:
+  title: Norwegische Register- und Stichprobenstudie zeigt sozioökonomische Verzerrung in offiziellen ME/CFS-Daten
+  plain_summary: Eine norwegische Studie ergab, dass Menschen mit höherem sozialen Status und besserem Zugang zu Fachärztinnen trotz gleicher Symptomschwere häufiger eine offizielle ME/CFS-Diagnose im Register erhielten. Offizielle Gesundheitsdaten unterschätzen die wahre Zahl der Betroffenen daher deutlich, während Online-Befragungen weiterhin viele Schwerstbetroffene verfehlen.
+  detail: 'Eine Studie, die norwegische Registerdaten mit dem Code ICD-10 G93.3 mit einer Online-Stichprobe über Patientennetzwerke (Respondent-Driven Sampling, RDS) verglich, ergab, dass die Wahrscheinlichkeit einer formalen ME/CFS-Diagnose selbst bei Kontrolle der Symptomschwere von soziodemografischen Faktoren abhing. Betroffene mit höherem sozioökonomischem Status und besserem Zugang zu fachärztlicher Versorgung erschienen häufiger in Verwaltungsregistern, sodass übliche registerbasierte Prävalenzschätzungen einen erheblichen Teil der tatsächlichen Erkrankten ausblenden. Der RDS-Ansatz erreichte mithilfe validierter Algorithmen der DePaul University nach den Kanadischen Konsenskriterien eine breitere und klinisch homogenere Kohorte. Eine verbleibende Einschränkung ist, dass schwer kranke Menschen ohne Online-Aktivität auch über Weiterempfehlungen schwer zu erreichen bleiben. Der Befund ist methodisch bedeutsam: Jede epidemiologische Studie, die sich allein auf nationale Abrechnungs-
+    und Registerdaten stützt, riskiert eine systematische Unterschätzung der Krankheitslast und verzerrte demografische Profile.'

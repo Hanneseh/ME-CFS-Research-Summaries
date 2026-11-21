@@ -1,0 +1,19 @@
+id: 2025-08-11_microfluidic-velocity-assays-reveal-impaired-red-blood-cell
+date: '2025-08-11'
+date_display: '2025-08-11'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Guo et al. 2025, blood RCI
+  url: https://doi.org/10.1016/j.brci.2025.100019
+  kind: paper
+en:
+  title: Microfluidic velocity assays reveal impaired red blood cell response to low oxygen
+  plain_summary: In tiny lab channels mimicking capillaries, red blood cells from people with ME/CFS failed to speed up normally when oxygen dropped. Two experimental drugs restored this response in the lab dish, but human trials are needed before any treatment use.
+  detail: An ex vivo study using capillary-mimicking microfluidic devices demonstrated that red blood cells (RBCs) from ME/CFS patients have an impaired velocity response to hypoxic stress. Unlike healthy RBCs, which speed up as oxygen tension ($PO_2$) decreases to maintain tissue perfusion, patient-derived RBCs showed a significantly reduced acceleration response. Measuring this dynamic "velocity slope" distinguished patients from controls with 77.8% accuracy and 90% specificity, demonstrating its potential as an objective diagnostic biomarker. Additionally, ex vivo treatment of patient RBCs with salmeterol xinafoate or xanomeline restored the velocity response to low oxygen. The study does not prove that these pharmaceutical agents will show safety or efficacy in clinical trials, nor does it establish the exact intracellular mechanism impairing RBC deformability and movement.
+de:
+  title: Mikrofluidik-Tests zeigen gestörte Reaktion roter Blutkörperchen auf Sauerstoffmangel
+  plain_summary: In winzigen Laborkanälen beschleunigten rote Blutkörperchen von ME/CFS-Betroffenen bei niedrigem Sauerstoff nicht wie gesunde Zellen. Zwei Wirkstoffe stellten das im Labor zwar wieder her, müssen aber erst in klinischen Studien geprüft werden.
+  detail: Eine Ex-vivo-Studie mit kapillarähnlichen Mikrofluidik-Chips zeigte, dass rote Blutkörperchen (Erythrozyten) von ME/CFS-Patientinnen und -Patienten bei Sauerstoffmangel eine gestörte Geschwindigkeitsreaktion aufweisen. Anders als gesunde Erythrozyten, die bei sinkendem Sauerstoffpartialdruck ($PO_2$) schneller fließen, um die Gewebeversorgung zu sichern, zeigten Patientenzellen eine deutlich abgeschwächte Beschleunigung. Die Messung dieser dynamischen Geschwindigkeitssteigung unterschied Betroffene mit 77,8 % Genauigkeit und 90 % Spezifität von Kontrollpersonen und deutet auf Potenzial als objektiver diagnostischer Biomarker hin. Zudem stellte die Ex-vivo-Behandlung von Patientenerythrozyten mit Salmeterolxinafoat oder Xanomelin die normale Reaktion auf niedrigen Sauerstoff wieder her. Die Studie beweist jedoch nicht, dass diese Wirkstoffe in klinischen Studien beim Menschen sicher oder wirksam sind, und klärt auch nicht den genauen intrazellulären Mechanismus der gestörten Verformbarkeit
+    und Bewegung.

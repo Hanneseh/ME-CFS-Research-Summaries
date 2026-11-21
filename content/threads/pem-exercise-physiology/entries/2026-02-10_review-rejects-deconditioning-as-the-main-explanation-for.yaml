@@ -1,0 +1,18 @@
+id: 2026-02-10_review-rejects-deconditioning-as-the-main-explanation-for
+date: '2026-02-10'
+date_display: '2026-02-10'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Charlton et al. 2026, British Journal of Sports Medicine
+  url: https://doi.org/10.1136/bjsports-2025-111387
+  kind: paper
+en:
+  title: Review rejects deconditioning as the main explanation for exercise intolerance
+  plain_summary: A review argues that heart and exercise abnormalities in ME/CFS and Long COVID reflect real biological problems—such as poor blood return, oxygen extraction, or vessel dysfunction—rather than simple physical deconditioning. It supports pacing-focused care over pushing exercise, though it is a conceptual review rather than a treatment trial.
+  detail: 'This review argued that the cardiac and exercise abnormalities seen in Long COVID and ME/CFS do not fit a simple deconditioning model. The change is conceptual rather than experimental: it reframes preload failure, impaired oxygen extraction, and mitochondrial or endothelial dysfunction as disease features, not consequences of inactivity. That aligns rehabilitation guidance more closely with pacing and physiologic limits. It does not settle which mechanism dominates in any given patient, and it does not validate a single treatment path.'
+de:
+  title: Übersichtsarbeit verwirft Dekonditionierung als Haupterklärung für Belastungsintoleranz
+  plain_summary: Eine Übersichtsarbeit legt dar, dass Herz- und Belastungsauffälligkeiten bei ME/CFS und Long COVID nicht zu bloßem Trainingsmangel passen, sondern auf reale Probleme bei Blutzustrom, Sauerstoffnutzung oder Gefäßen verweisen. Sie stützt eine am Pacing ausgerichtete Versorgung statt Aktivierungstraining, ist jedoch eine konzeptionelle Übersicht ohne eigene Therapiestudie.
+  detail: 'Diese Übersichtsarbeit argumentierte, dass die bei Long COVID und ME/CFS beobachteten kardialen und belastungsphysiologischen Auffälligkeiten nicht zu einem einfachen Dekonditionierungsmodell passen. Der Beitrag ist eher konzeptioneller als experimenteller Natur: Er ordnet Preload-Versagen, gestörte Sauerstoffextraktion sowie mitochondriale oder endotheliale Dysfunktion als Krankheitsmerkmale ein und nicht als Folgen von Inaktivität. Das rückt Reha-Empfehlungen näher an Pacing und physiologische Grenzen heran. Gleichwohl klärt die Arbeit nicht, welcher Mechanismus im Einzelfall überwiegt, und validiert keinen einzelnen Therapiepfad.'

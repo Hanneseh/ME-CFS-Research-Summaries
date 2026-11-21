@@ -1,0 +1,19 @@
+id: 2023-01-23_systematic-review-and-meta-analysis-support-hbot-efficacy
+date: '2023-01-23'
+date_display: '2023-01-23'
+date_precision: exact
+source_type: review
+study_design: Meta-analysis
+sources:
+- label: Chen et al. 2023, BMJ Open
+  url: https://doi.org/10.1136/bmjopen-2022-062322
+  kind: paper
+en:
+  title: Systematic review and meta-analysis support HBOT efficacy in fibromyalgia
+  plain_summary: A review of nine small clinical trials (288 people total) found that hyperbaric oxygen therapy eased pain, fatigue, and sleep problems in fibromyalgia, though nearly a quarter of patients had mild ear-pressure side effects. Because the trials were small, used different protocols, and studied fibromyalgia rather than ME/CFS, standardized rules and clear proof for ME/CFS are still lacking.
+  detail: A systematic review and meta-analysis of nine clinical trials (288 total patients) reported that hyperbaric oxygen therapy (HBOT) significantly relieved pain and improved other core symptoms, including fatigue, sleep, and overall function, in patients with fibromyalgia. This update consolidates early clinical evidence from both randomized and non-randomized trials, suggesting that HBOT could be a promising non-invasive option for fibromyalgia, a condition with high symptomatic overlap with ME/CFS and Long COVID. However, because the meta-analysis was based on a small number of randomized controlled trials with varied protocols (pressure levels and durations), it does not establish standardized treatment guidelines. Additionally, the review noted that 23.8% of patients experienced mild, reversible ear pressure issues (barotrauma) and 6.5% withdrew due to side effects, suggesting that lower-pressure protocols (under 2.0 ATA) may be necessary to improve safety and tolerability.
+de:
+  title: Systematische Übersicht und Metaanalyse stützen Wirksamkeit von HBOT bei Fibromyalgie
+  plain_summary: Eine Auswertung von neun kleinen klinischen Studien mit insgesamt 288 Teilnehmenden ergab, dass die hyperbare Sauerstofftherapie Schmerzen, Fatigue und Schlafprobleme bei Fibromyalgie linderte, wobei fast ein Viertel leichte Ohrdruck-Beschwerden hatte. Da die Studien klein waren, unterschiedliche Protokolle nutzten und Fibromyalgie statt ME/CFS untersuchten, fehlen einheitliche Leitlinien und ein klarer Nachweis für ME/CFS.
+  detail: Eine systematische Übersichtsarbeit und Metaanalyse von neun klinischen Studien (insgesamt 288 Patientinnen und Patienten) berichtete, dass die hyperbare Sauerstofftherapie (HBOT) bei Fibromyalgie Schmerzen deutlich linderte und weitere Kernsymptome wie Fatigue, Schlaf und allgemeine Funktionsfähigkeit verbesserte. Diese Auswertung bündelt frühe klinische Evidenz aus randomisierten wie nicht-randomisierten Studien und legt nahe, dass HBOT eine vielversprechende nicht-invasive Option bei Fibromyalgie sein könnte – einer Erkrankung mit erheblicher Symptomüberschneidung zu ME/CFS und Long COVID. Da die Metaanalyse jedoch auf einer kleinen Zahl randomisierter kontrollierter Studien mit stark variierenden Protokollen (Druckstufen und Dauer) beruht, etabliert sie keine standardisierten Behandlungsrichtlinien. Zudem zeigte die Übersicht, dass 23,8 % der Behandelten leichte, reversible Ohrdruck-Probleme (Barotrauma) erlitten und 6,5 % wegen Nebenwirkungen abbrachen, was darauf hinweist,
+    dass niedrigere Druckprotokolle (unter 2,0 ATA) für bessere Sicherheit und Verträglichkeit nötig sein könnten.

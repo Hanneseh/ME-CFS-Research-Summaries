@@ -1,0 +1,18 @@
+id: 2026-07-05_feasibility-study-evaluates-telehealth-delivered-ketogenic-metab
+date: '2026-07-05'
+date_display: '2026-07-05'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Colgan et al. 2026, Journal of Patient Experience
+  url: https://pubmed.ncbi.nlm.nih.gov/42416120
+  kind: paper
+en:
+  title: Feasibility study evaluates telehealth-delivered ketogenic metabolic therapy for post-viral illness
+  plain_summary: A survey of 41 people with post-viral illness who completed an online program combining a ketogenic diet, thiamine, sleep timing, and mindfulness found 75% reported feeling much better. Because there was no control group and multiple lifestyle changes happened at once, it cannot isolate whether the diet or vitamins actually helped.
+  detail: A cross-sectional survey evaluating a fully remote telehealth program that combined ketogenic metabolic therapy, thiamine supplementation, circadian entrainment, and mindfulness coaching in 41 international patients with post-viral illness (including Long COVID) reported high acceptability and perceived benefits. Upon program completion, 96% of participants reported the multicomponent intervention was helpful, and 75% felt 'a lot better'. However, the evidence level is limited, as the study relied entirely on a small, self-reported survey design without a control or placebo group. Furthermore, the multicomponent nature of the program prevents isolating the therapeutic efficacy of ketogenic therapy or thiamine from lifestyle changes, mindfulness, or natural recovery.
+de:
+  title: Machbarkeitsstudie bewertet telemedizinische ketogene Stoffwechseltherapie bei postviraler Erkrankung
+  plain_summary: In einer Umfrage unter 41 Personen mit postviraler Erkrankung nach einem Online-Programm aus ketogener Ernährung, Thiamin, Schlafrhythmus und Achtsamkeit gaben 75 % an, sich deutlich besser zu fühlen. Ohne Kontrollgruppe und wegen der Mischung vieler Maßnahmen lässt sich jedoch nicht trennen, ob Ernährung oder Vitamine tatsächlich wirkten.
+  detail: Eine Querschnittsumfrage zur Bewertung eines vollständig telemedizinisch durchgeführten Programms, das ketogene Stoffwechseltherapie, Thiamin-Supplementierung, zirkadiane Taktung und Achtsamkeitscoaching bei 41 internationalen Patientinnen und Patienten mit postviraler Erkrankung (einschließlich Long COVID) kombinierte, berichtete hohe Akzeptanz und wahrgenommenen Nutzen. Nach Programmabschluss empfanden 96 % die mehrkomponentige Intervention als hilfreich und 75 % fühlten sich „deutlich besser“. Die Aussagekraft ist jedoch begrenzt, da die Untersuchung vollständig auf einer kleinen Selbstbericht-Umfrage ohne Kontroll- oder Placebogruppe beruht; zudem verhindert die Kombination zahlreicher Komponenten eine Trennung möglicher Effekte von ketogener Diät oder Thiamin gegenüber Lebensstiländerungen, Achtsamkeit oder natürlicher Erholung.

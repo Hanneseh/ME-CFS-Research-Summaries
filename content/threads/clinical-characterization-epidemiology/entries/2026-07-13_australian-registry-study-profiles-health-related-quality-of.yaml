@@ -1,0 +1,19 @@
+id: 2026-07-13_australian-registry-study-profiles-health-related-quality-of
+date: '2026-07-13'
+date_display: '2026-07-13'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Australian Registry Study 2026, Journal of Translational Medicine
+  url: https://link.springer.com/article/10.1186/s12967-026-08618-9
+  kind: paper
+en:
+  title: Australian registry study profiles health-related quality of life and case definitions in ME/CFS
+  plain_summary: An Australian registry of 2,873 ME/CFS patients found severely impaired quality of life regardless of whether Fukuda, Canadian, or International criteria were used, though strict ICC criteria flagged the worst outcomes. Self-reported data from a specialty registry may not reflect the wider community.
+  detail: An Australian registry-based study compared 2,873 ME/CFS patients against 797 non-fatigued controls between 2014 and 2026 to assess health-related quality of life (HRQoL) and clinical presentation. Within the registry cohort, patients met different case criteria, with 39.0% meeting the Fukuda definition, 30.4% meeting the Canadian Consensus Criteria (CCC), and 30.6% meeting the International Consensus Criteria (ICC). Although patients meeting the strict ICC criteria were more likely to report the poorest outcomes, HRQoL was severely and globally impaired across all ME/CFS patients compared to controls, regardless of the specific case definition met. Using K-means clustering, the researchers identified four distinct patient clusters based on symptom severity, frequency, and case criteria. The study is limited by its cross-sectional design, reliance on self-reported questionnaire data prone to recall bias, and potential selection bias from drawing participants from a specialized
+    neuroimmunology registry.
+de:
+  title: Australische Registerstudie profiliert gesundheitsbezogene Lebensqualität und Falldefinitionen bei ME/CFS
+  plain_summary: Eine australische Registerstudie mit 2.873 ME/CFS-Betroffenen zeigte eine stark eingeschränkte Lebensqualität unabhängig davon, ob Fukuda-, Kanadische oder Internationale Kriterien erfüllt waren, wobei strenge ICC-Kriterien die schwersten Verläufe abbildeten. Selbstberichte aus einem Spezialregister lassen sich jedoch nicht ohne Weiteres auf alle Betroffenen übertragen.
+  detail: Eine australische Registerstudie verglich zwischen 2014 und 2026 insgesamt 2.873 ME/CFS-Patientinnen und -Patienten mit 797 nicht erschöpften Kontrollpersonen hinsichtlich gesundheitsbezogener Lebensqualität (HRQoL) und klinischer Ausprägung. Innerhalb der Kohorte erfüllten 39,0 % die Fukuda-Definition, 30,4 % die Kanadischen Konsenskriterien (CCC) und 30,6 % die Internationalen Konsenskriterien (ICC). Zwar berichteten Personen mit strengen ICC-Kriterien häufiger die schlechtesten Werte, doch war die Lebensqualität über alle ME/CFS-Gruppen hinweg im Vergleich zu Kontrollen stark und umfassend beeinträchtigt. Mittels K-Means-Clustering identifizierten die Forschenden vier Patientencluster anhand von Symptomschwere, Häufigkeit und Fallkriterien. Einschränkungen sind das Querschnittsdesign, selbstberichtete Fragebogendaten mit möglichem Erinnerungsfehler sowie eine mögliche Selektionsverzerrung durch Rekrutierung aus einem spezialisierten Neuroimmunologie-Register.

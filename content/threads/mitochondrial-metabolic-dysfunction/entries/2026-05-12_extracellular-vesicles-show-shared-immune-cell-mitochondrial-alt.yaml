@@ -1,0 +1,26 @@
+id: 2026-05-12_extracellular-vesicles-show-shared-immune-cell-mitochondrial-alt
+date: '2026-05-12'
+date_display: '2026-05-12'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ikeda et al. 2026, Open Forum Infectious Diseases
+  url: https://doi.org/10.1093/ofid/ofag209
+  kind: paper
+en:
+  title: Extracellular vesicles show shared immune cell mitochondrial alterations in patients
+  plain_summary: A blood study of 125 people found altered counts of immune-cell communication vesicles and higher mitochondrial charge inside them in both ME/CFS and Long COVID. Because it is a snapshot study without total mitochondrial mass controls, cause and effect remain open.
+  detail: '- **What changed:** A clinical study analyzing plasma extracellular vesicles (EVs) in 125 individuals showed elevated concentrations of leukocyte, macrophage, and platelet EVs, reduced B-cell EVs, and increased mitochondrial membrane potential in specific EV subsets.
+
+    - **Why it matters:** This provides blood-based evidence of shared immune-metabolic signaling disturbances in ME/CFS and Long COVID (ME/CFS phenotype), suggesting that vesicular mitochondrial potential is a promising biomarker.
+
+    - **What it does not prove yet:** The cross-sectional design cannot establish whether these vesicle alterations cause the disease or are secondary byproducts, and the study did not measure total mitochondrial mass to normalize the membrane potential signal.'
+de:
+  title: Extrazelluläre Vesikel zeigen gemeinsame mitochondriale Veränderungen von Immunzellen bei Betroffenen
+  plain_summary: Eine Blutstudie mit 125 Personen fand bei ME/CFS und Long COVID veränderte Mengen zellulärer Transportbläschen und ein erhöhtes mitochondriales Membranpotenzial darin. Als Querschnittsstudie ohne Abgleich der Gesamtmitochondrienmasse klärt sie Ursache und Wirkung noch nicht.
+  detail: '- **Was sich gezeigt hat:** Eine klinische Studie, die extrazelluläre Plasma-Vesikel (EVs) bei 125 Personen analysierte, zeigte erhöhte Konzentrationen von Leukozyten-, Makrophagen- und Thrombozyten-EVs, verringerte B-Zell-EVs sowie ein erhöhtes mitochondriales Membranpotenzial in bestimmten EV-Untergruppen.
+
+    - **Warum das wichtig ist:** Dies liefert blutbasierte Belege für gemeinsame immunmetabolische Signalstörungen bei ME/CFS und Long COVID (ME/CFS-Phänotyp) und legt das vesikuläre Mitochondrienpotenzial als möglichen Biomarker nahe.
+
+    - **Was damit noch nicht belegt ist:** Das Querschnittsdesign kann nicht klären, ob diese Vesikelveränderungen die Erkrankung auslösen oder sekundäre Begleitprodukte sind, und die Studie maß nicht die gesamte Mitochondrienmasse zur Normierung des Potenzialsignals.'

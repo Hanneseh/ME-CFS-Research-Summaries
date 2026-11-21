@@ -1,0 +1,18 @@
+id: 2026-01-09_clinical-review-outlines-multi-system-nature-of-pots
+date: '2026-01-09'
+date_display: '2026-01-09'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Lau et al. 2026, Heart, Lung and Circulation
+  url: https://doi.org/10.1016/j.hlc.2025.09.004
+  kind: paper
+en:
+  title: Clinical review outlines multi-system nature of POTS and calls for multidisciplinary care models
+  plain_summary: An expert review describes POTS as a multi-system disorder involving immune, nerve, and blood-volume pathways rather than a simple heart problem, calling for coordinated care. As a narrative summary, it offers no new trial data.
+  detail: A comprehensive expert review synthesized the current clinical understanding of POTS, emphasizing that it is a complex, multi-system autonomic disorder rather than an isolated cardiovascular condition. The authors detailed how POTS involves autoimmune, hyperadrenergic, neuropathic, and post-viral mechanisms, requiring a combination of lifestyle adjustments and pharmacological agents like ivabradine. This consensus highlights the need for multidisciplinary clinical teams, including primary care and specialists, to manage the broad symptom burden. The publication underscores the significant diagnostic delays and lack of trained specialists in autonomic medicine worldwide. However, the review is a narrative consensus of literature and does not present new primary clinical trial data or establish superior treatment efficacy for specific subtypes.
+de:
+  title: Klinische Übersichtsarbeit beschreibt Mehrsystem-Natur von POTS und fordert interdisziplinäre Versorgungsmodelle
+  plain_summary: Eine Expertenübersicht ordnet POTS als Mehrsystem-Erkrankung mit immunologischen, neurologischen und kreislaufbezogenen Mechanismen ein und plädiert für vernetzte Behandlungsteams. Neue klinische Studiendaten liefert der Überblick nicht.
+  detail: Eine umfassende Expertenübersicht fasste das aktuelle klinische Verständnis von POTS zusammen und betonte, dass es sich um eine komplexe Mehrsystem-Störung des autonomen Nervensystems handelt und nicht um eine isolierte Herzerkrankung. Die Autorinnen und Autoren erläuterten, wie bei POTS autoimmune, hyperadrenerge, neuropathische und postvirale Mechanismen zusammenwirken, was eine Kombination aus Lebensstilanpassungen und Medikamenten wie Ivabradin erfordert. Dieser Konsens unterstreicht den Bedarf an interdisziplinären Behandlungsteams aus Hausärztinnen und Fachärzten, um die breite Symptomlast abzudecken. Die Veröffentlichung weist zudem auf erhebliche Diagnoseverzögerungen und den weltweiten Mangel an spezialisierten Fachkräften hin. Da es sich um eine narrative Literaturübersicht handelt, liefert sie jedoch keine neuen Primärdaten aus klinischen Studien und belegt keine überlegene Wirksamkeit für bestimmte Subtypen.

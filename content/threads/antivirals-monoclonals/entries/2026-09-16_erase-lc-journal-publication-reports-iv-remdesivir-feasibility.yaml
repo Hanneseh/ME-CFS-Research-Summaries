@@ -1,0 +1,26 @@
+id: 2026-09-16_erase-lc-journal-publication-reports-iv-remdesivir-feasibility
+date: '2026-09-16'
+date_display: '2026-09-16'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Faghy et al. 2026, Oxford Open Immunology
+  url: https://doi.org/10.1093/oxfimm/iqag014
+  kind: paper
+- label: ERASE-LC 2026, initial medRxiv preprint
+  url: https://doi.org/10.64898/2026.07.26.26358852
+  kind: preprint
+- label: ClinicalTrials.gov NCT05911906
+  url: https://clinicaltrials.gov/study/NCT05911906
+  kind: registry
+en:
+  title: ERASE-LC journal publication reports IV remdesivir feasibility, not controlled efficacy
+  plain_summary: A UK study gave 73 adults with Long COVID five days of intravenous remdesivir and found most people could complete the infusions with mostly mild side effects like headache. Because there was no placebo group and high-risk PEM patients were excluded, the study only shows the infusions were feasible—not that remdesivir works.
+  detail: 'ERASE-LC is a single-arm, open-label feasibility study published as a peer-reviewed accepted manuscript in Oxford Open Immunology, following a July preprint. Adults with Long COVID at UK sites received a 5-day course of intravenous remdesivir: 200 mg on day 1, then 100 mg daily. Of 73 people enrolled, 97% completed dosing and 96% completed follow-up about 28 days later. Adverse events occurred in 36% of participants and adverse reactions in 31%. Most reactions were mild, headache was the most common, and no severe reactions were reported. Fatigue and six-minute walk scores improved, but the study had no placebo arm, ran no formal hypothesis tests, and followed people only briefly, so the changes cannot be attributed to the drug. People at high risk of severe PEM were excluded, and treatment required five consecutive days of site visits. Applicability to housebound or bedbound patients is not established. Gilead Sciences, which makes remdesivir, funded the study. This is feasibility
+    evidence, not efficacy evidence, and it does not conflict with the RECOVER-VITAL null result.'
+de:
+  title: ERASE-LC-Publikation belegt Machbarkeit von intravenösem Remdesivir, aber keine kontrollierte Wirksamkeit
+  plain_summary: Eine britische Studie verabreichte 73 Erwachsenen mit Long COVID fünf Tage lang Remdesivir per Infusion und zeigte, dass die Behandlung mit überwiegend leichten Nebenwirkungen wie Kopfschmerzen durchführbar war. Da eine Placebogruppe fehlte und Menschen mit hohem PEM-Risiko ausgeschlossen waren, belegt die Arbeit nur die Machbarkeit – nicht aber eine Wirksamkeit.
+  detail: 'ERASE-LC ist eine einarmige, offene Machbarkeitsstudie, die nach einem Juli-Preprint als begutachtetes Manuskript in *Oxford Open Immunology* veröffentlicht wurde. Erwachsene mit Long COVID erhielten an britischen Zentren eine 5-tägige intravenöse Remdesivir-Therapie: 200 mg an Tag 1, gefolgt von 100 mg täglich. Von 73 eingeschlossenen Personen beendeten 97 % die Infusionen und 96 % die Nachbeobachtung nach rund 28 Tagen. Unerwünschte Ereignisse traten bei 36 % und Nebenwirkungen bei 31 % der Teilnehmenden auf; die meisten Reaktionen waren mild (am häufigsten Kopfschmerzen), schwere Reaktionen wurden nicht berichtet. Zwar besserten sich Fatigue-Werte und 6-Minuten-Gehstrecke, doch die Studie hatte keinen Placebo-Arm, führte keine formalen Hypothesentests durch und beobachtete nur kurzzeitig, sodass die Veränderungen nicht dem Wirkstoff zugeschrieben werden können. Menschen mit hohem Risiko für schwere PEM wurden ausgeschlossen, die Behandlung erforderte fünf aufeinanderfolgende
+    Klinikbesuche, und die Übertragbarkeit auf hausgebundene oder bettlägerige Betroffene ist nicht belegt. Finanziert wurde die Studie vom Hersteller Gilead Sciences. Es handelt sich um eine Machbarkeits-, nicht um eine Wirksamkeitsstudie, und sie widerspricht nicht dem Null-Ergebnis von RECOVER-VITAL.'

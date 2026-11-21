@@ -1,0 +1,23 @@
+id: 2026-06-30_belgian-kce-report-420-assesses-me-cfs-care
+date: '2026-06-30'
+date_display: '2026-06-30'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: KCE Report 420, 2026
+  url: https://doi.org/10.57598/R420C
+  kind: paper
+- label: KCE Report 420S supplement, 2026
+  url: https://doi.org/10.57598/R420S
+  kind: paper
+en:
+  title: Belgian KCE Report 420 assesses ME/CFS care against patient needs
+  plain_summary: A Belgian government report surveying 749 people with ME/CFS documented severe quality-of-life drops, high rates of skipped care, and worsening after graded exercise. Because recruitment came through patient groups and missed the most severely ill, it maps care gaps rather than exact national rates.
+  detail: 'The Belgian Health Care Knowledge Centre (KCE), a federal health-services research institute, published Report 420 and a technical supplement combining a survey of 749 people with ME/CFS, 19 interviews, and a review of international care models. Mean EQ-5D-5L quality-of-life utility fell from 0.84 before onset to 0.36, against a Belgian population norm of 0.79; 42.4% of respondents had forgone care in the past year, and two-thirds had no professional coordinating their care. KCE cites NICE 2021, CDC, and the Belgian Superior Health Council 2020 as no longer recommending graded exercise therapy, and many respondents exposed to it reported marked symptom exacerbation (see [Post-Exertional Malaise & Exercise Physiology](thread:pem-exercise-physiology)). The report suggests structured multidisciplinary care pathways, GP training, pacing within energy limits, and workplace adjustments. Its limits are those of the study design: recruitment through patient organisations, a mostly Flemish
+    and female sample, self-reported diagnosis, no children, and likely under-representation of very severe patients, for whom a planned chat-interview option went unused (see [Severe ME/CFS Care](thread:severe-mecfs-care)).'
+de:
+  title: Belgischer KCE-Bericht 420 bewertet die ME/CFS-Versorgung anhand der Patientenbedürfnisse
+  plain_summary: Ein belgischer Regierungsbericht auf Basis von 749 Befragten mit ME/CFS dokumentierte einen starken Einbruch der Lebensqualität, häufig aufgeschobene Arztbesuche und Verschlechterungen nach abgestufter Aktivierung. Da überwiegend über Patientenorganisationen rekrutiert wurde und Schwerstbetroffene fehlten, bildet er Versorgungslücken ab, keine genauen Landesprävalenzen.
+  detail: 'Das belgische Federal Health Care Knowledge Centre (KCE) veröffentlichte Bericht 420 samt technischem Anhang auf Basis einer Umfrage unter 749 Menschen mit ME/CFS, 19 Interviews und einer Übersicht internationaler Versorgungsmodelle. Der mittlere EQ-5D-5L-Lebensqualitätswert sank von 0,84 vor Erkrankungsbeginn auf 0,36 bei einem belgischen Bevölkerungsdurchschnitt von 0,79; 42,4 % der Befragten hatten im Vorjahr auf medizinische Versorgung verzichtet, und zwei Drittel hatten keine koordinierende Fachperson. Das KCE verweist darauf, dass NICE 2021, CDC und der Belgische Hohe Gesundheitsrat 2020 keine abgestufte Aktivierungstherapie (GET) mehr empfehlen, und viele Betroffene nach entsprechender Anwendung über deutliche Symptomverschlechterungen berichteten (siehe [Post-Exertional Malaise & Belastungsphysiologie](thread:pem-exercise-physiology)). Der Bericht schlägt strukturierte multidisziplinäre Versorgungspfade, hausärztliche Fortbildung, Pacing innerhalb der Energiegrenzen und
+    Arbeitsplatzanpassungen vor. Grenzen ergeben sich aus dem Studiendesign: Rekrutierung über Patientenorganisationen, überwiegend flämische und weibliche Teilnehmende, selbstberichtete Diagnosen, keine Kinder sowie wahrscheinliche Unterrepräsentation sehr schwer Betroffener, da eine geplante Chat-Interview-Option ungenutzt blieb (siehe [Versorgung bei schwerem ME/CFS](thread:severe-mecfs-care)).'

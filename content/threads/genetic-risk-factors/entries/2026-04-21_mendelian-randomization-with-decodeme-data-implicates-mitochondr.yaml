@@ -1,0 +1,20 @@
+id: 2026-04-21_mendelian-randomization-with-decodeme-data-implicates-mitochondr
+date: '2026-04-21'
+date_display: '2026-04-21'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Wielscher et al. 2026, Research Square preprint
+  url: https://doi.org/10.21203/rs.3.rs-9363637/v2
+  kind: preprint
+en:
+  title: Mendelian randomization with DecodeME data implicates mitochondrial DNA copy number and platelet volume as causal factors
+  plain_summary: Using DecodeME data, a preprint tested whether inherited traits might play a causal role and found signals pointing toward mitochondrial DNA levels and blood platelet size. It also showed genetic overlap with migraine and irritable bowel syndrome, though these statistical clues still need lab and independent validation.
+  detail: 'Researchers applied genetic correlation, pleiotropic heritability analysis, and Mendelian randomization to DecodeME summary statistics (15,579 cases, 259,909 controls), evaluating 22 trait domains spanning cellular energetics, neurovascular regulation, and barrier-microbiome function. Strong genetic overlap was found between ME/CFS and migraine, irritable bowel syndrome, and cellular energetics domains. Mendelian randomization identified three potential causal factors: higher mitochondrial DNA copy number was protective against ME/CFS, while increased glycoprotein acetyls and higher mean platelet volume increased risk, pointing toward energy metabolism and platelet-associated inflammatory signalling as mechanistically upstream features of susceptibility. The analysis relied on GWAS summary statistics rather than individual-level data, limiting the ability to capture patient subgroup heterogeneity, and the identified causal factors require replication and experimental follow-up
+    before they can inform clinical decisions.'
+de:
+  title: Mendelsche Randomisierung mit DecodeME-Daten bringt mitochondriale DNA-Kopienzahl und Thrombozytenvolumen als kausale Faktoren ins Spiel
+  plain_summary: Ein Preprint nutzte DecodeME-Daten für statistische Kausalitätsanalysen und fand Hinweise auf eine Rolle der mitochondrialen DNA-Menge sowie der Blutplättchen-Größe. Zudem zeigte sich eine genetische Überschneidung mit Migräne und Reizdarmsyndrom; vor klinischen Schlüssen brauchen diese Signale aber experimentelle Überprüfung.
+  detail: 'Forschende wandten genetische Korrelationsanalysen, pleiotrope Heritabilitätsverfahren und Mendelsche Randomisierung auf DecodeME-Zusammenfassungsdaten (15.579 Fälle, 259.909 Kontrollen) über 22 Merkmalsbereiche von Zellenergetik bis Barriere- und Mikrobiomfunktion an. Dabei zeigte sich eine starke genetische Überschneidung zwischen ME/CFS und Migräne, Reizdarmsyndrom sowie Bereichen der Zellenergetik. Die Mendelsche Randomisierung identifizierte drei mögliche kausale Faktoren: Eine höhere mitochondriale DNA-Kopienzahl wirkte schützend gegen ME/CFS, während erhöhte Glykoprotein-Acetyle und ein höheres mittleres Thrombozytenvolumen das Risiko steigerten – was auf Energiestoffwechsel und plättchenassoziierte Entzündungssignale als vorgelagerte Risikofaktoren hinweist. Die Analyse stützte sich jedoch auf aggregierte GWAS-Statistiken statt auf Individualdaten, was Untergruppen-Unterschiede kaum abbildet, und die gefundenen Faktoren müssen repliziert und experimentell geprüft werden,
+    bevor sie klinische Entscheidungen leiten können.'

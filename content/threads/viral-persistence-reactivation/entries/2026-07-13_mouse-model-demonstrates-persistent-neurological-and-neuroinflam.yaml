@@ -1,0 +1,19 @@
+id: 2026-07-13_mouse-model-demonstrates-persistent-neurological-and-neuroinflam
+date: '2026-07-13'
+date_display: '2026-07-13'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'Frontiers in Microbiology 2026 (DOI: 10.3389/fmicb.2026.1871084)'
+  url: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1871084/full
+  kind: paper
+en:
+  title: Mouse model demonstrates persistent neurological and neuroinflammatory alterations after SARS-CoV-2 clearance
+  plain_summary: In a mouse model of mild SARS-CoV-2 infection, brain inflammation and memory problems persisted for weeks even after the virus was cleared. Because transgenic mice differ from human biology, these animal results cannot directly confirm what happens in human Long COVID or non-COVID ME/CFS.
+  detail: A preclinical study in _Frontiers in Microbiology_ used an optimized non-lethal K18-hACE2 transgenic mouse model to investigate long-term neurological consequences of acute SARS-CoV-2 infection. Researchers observed sustained behavioral alterations including memory deficits, persistent microglial activation, and elevated neuro-inflammatory markers in brain tissue weeks after viral clearance. The optimized model avoids acute lethality, enabling longitudinal tracking of post-viral CNS pathology. These findings provide animal model evidence that SARS-CoV-2 infection can establish lasting neuroinflammatory changes independent of continued viral replication, supporting the hypothesis that post-viral CNS dysfunction contributes to chronic cognitive symptoms in Long COVID. However, the K18-hACE2 transgenic system differs substantially from natural human ACE2 expression patterns, and preclinical rodent findings require translational validation in human clinical cohorts. The study does
+    not confirm whether comparable persistent neuroinflammatory signatures occur in ME/CFS triggered by non-SARS-CoV-2 pathogens.
+de:
+  title: Mausmodell zeigt anhaltende neurologische und neuroinflammatorische Veränderungen nach Abklingen von SARS-CoV-2
+  plain_summary: In einem Mausmodell nach überstandener SARS-CoV-2-Infektion hielten Hirnentzündung und Gedächtnisprobleme wochenlang an, obwohl das Virus bereits beseitigt war. Da sich transgene Mäuse deutlich vom Menschen unterscheiden, belegen diese Tierdaten noch nicht direkt die Vorgänge bei Long COVID oder nicht-COVID-bedingtem ME/CFS.
+  detail: Eine präklinische Studie in *Frontiers in Microbiology* nutzte ein optimiertes, nicht tödliches transgenes K18-hACE2-Mausmodell, um langfristige neurologische Folgen einer akuten SARS-CoV-2-Infektion zu untersuchen. Die Forschenden beobachteten anhaltende Verhaltensänderungen einschließlich Gedächtnisdefiziten, dauerhafte Mikroglia-Aktivierung sowie erhöhte Entzündungsmarker im Hirngewebe noch Wochen nach Beseitigung des Virus. Da das optimierte Modell akute Sterblichkeit vermeidet, ermöglicht es Längsschnittuntersuchungen postviraler ZNS-Veränderungen und liefert Tiermodell-Hinweise darauf, dass SARS-CoV-2 anhaltende Neuroinflammation auch ohne fortbestehende Virusvermehrung anstoßen kann. Allerdings weicht das K18-hACE2-System erheblich von der natürlichen menschlichen ACE2-Verteilung ab, sodass eine Übertragung auf menschliche Long-COVID- oder Nicht-SARS-CoV-2-ME/CFS-Kohorten noch aussteht.

@@ -1,0 +1,18 @@
+id: 2023-12-27_intracellular-cytokine-staining-identifies-cd8-t-cell-dysfunctio
+date: '2023-12-27'
+date_display: '2023-12-27'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Gil et al. 2023, Brain, Behavior, & Immunity - Health
+  url: https://doi.org/10.1016/j.bbih.2023.100720
+  kind: paper
+en:
+  title: Intracellular cytokine staining identifies CD8+ T-cell dysfunction in ME/CFS and Long COVID
+  plain_summary: Killer CD8 T cells from both ME/CFS and Long COVID patients produced fewer key immune signals (IFN-γ and TNF-α) when stimulated, resembling immune exhaustion seen in chronic viral infections. A tiny uncontrolled series of 8 patients also tried a nebulized agent, which is far too preliminary to show treatment effectiveness.
+  detail: CD8+ T cells from both ME/CFS and Long COVID patients were shown to have a significantly diminished capacity to produce interferon-gamma (IFN-γ) and tumor necrosis factor-alpha (TNF-α) after stimulation. A small retrospective case series (n = 8) showed that treatment with a nebulized antioxidant/anti-pathogen agent (Inspiritol) was associated with improved CD8+ T-cell function and a 54% decrease in symptom severity. This identifies CD8+ T-cell dysfunction (resembling T-cell exhaustion in chronic viral infections) as a shared immunological biomarker, suggesting that impaired host defense against latent pathogens is a common pathomechanism. However, the small size and retrospective, uncontrolled nature of the case series means the therapeutic efficacy of the nebulized agent is not established and requires validation in randomized controlled trials.
+de:
+  title: Intrazelluläre Zytokinfärbung weist CD8+-T-Zell-Fehlfunktion bei ME/CFS und Long COVID nach
+  plain_summary: CD8+-Killer-T-Zellen von Menschen mit ME/CFS und Long COVID bildeten nach Reizung deutlich weniger wichtige Immunbotenstoffe (IFN-γ und TNF-α) – ähnlich wie bei chronischen Virusinfektionen. Eine winzige, unkontrollierte Fallserie an 8 Personen testete zudem ein Inhalationsmittel, beweist damit aber noch keine Wirksamkeit.
+  detail: CD8+-T-Zellen von Patientinnen und Patienten mit ME/CFS sowie Long COVID zeigten nach Stimulation eine deutlich verringerte Fähigkeit zur Bildung von Interferon-gamma (IFN-γ) und Tumornekrosefaktor-alpha (TNF-α). Eine kleine retrospektive Fallserie (n = 8) berichtete, dass eine Behandlung mit einem vernebelten Antioxidans-/Anti-Erreger-Präparat (Inspiritol) mit einer verbesserten CD8+-T-Zell-Funktion und einem Rückgang der Symptomschwere um 54 % einherging. Dies weist auf eine CD8+-T-Zell-Fehlfunktion (ähnlich einer T-Zell-Erschöpfung bei chronischen Virusinfektionen) als gemeinsamen immunologischen Biomarker hin und legt eine geschwächte Abwehr gegen latente Erreger nahe. Die geringe Fallzahl sowie das retrospektive, unkontrollierte Design der Fallserie bedeuten jedoch, dass die Wirksamkeit des vernebelten Wirkstoffs nicht belegt ist und randomisierte kontrollierte Studien erfordert.

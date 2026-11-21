@@ -1,0 +1,20 @@
+id: 2026-04-29_mayo-clinic-chart-review-documents-widespread-underuse-of
+date: '2026-04-29'
+date_display: '2026-04-29'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Grach et al. 2026, Annals of Family Medicine
+  url: https://doi.org/10.1370/afm.250266
+  kind: paper
+en:
+  title: Mayo Clinic chart review documents widespread underuse of core ME/CFS pharmacotherapy before specialist contact
+  plain_summary: A review of 571 ME/CFS referrals showed that most patients received drugs for pain or anxiety beforehand, while medications targeting core issues like orthostatic intolerance or brain fog were rarely tried. It documents a gap in primary-care prescribing rather than testing any treatment.
+  detail: 'A retrospective chart review of 571 adult ME/CFS patients referred to a Mayo Clinic specialty clinic between 2018 and 2022 found that while 68.3 percent had tried at least one medication before their first specialist appointment, most were for secondary symptoms like pain or anxiety. Medications specifically targeting core ME/CFS features—fatigue, brain fog, and orthostatic intolerance—were rarely prescribed at the primary care level; low-dose naltrexone, for example, appeared in very few pre-referral medication lists. More than 72 percent of patients relied on supplements in the absence of targeted pharmacological guidance. The study quantifies what clinical guidelines have described qualitatively: a systematic disconnect between specialist-level care and general practice, where clinicians manage mood and pain but leave the physiological core of the illness unaddressed. The authors argue that education and standardized treatment guides could partially close this gap without waiting
+    for approved disease-modifying therapies.'
+de:
+  title: Mayo-Clinic-Aktenanalyse dokumentiert verbreitete Unterversorgung bei ME/CFS-Kerntherapien vor Facharztkontakt
+  plain_summary: Eine Auswertung von 571 ME/CFS-Überweisungen zeigte, dass die meisten Patientinnen und Patienten vorab Mittel gegen Schmerzen oder Angst erhielten, während Medikamente gegen Kernsymptome wie Kreislaufstörungen oder Brain Fog kaum verordnet wurden. Die Arbeit belegt eine Versorgungslücke in der Basismedizin, prüft aber keine Therapie.
+  detail: 'Eine retrospektive Aktenanalyse von 571 erwachsenen ME/CFS-Patientinnen und -Patienten, die zwischen 2018 und 2022 an eine Spezialambulanz der Mayo Clinic überwiesen wurden, ergab, dass 68,3 Prozent vor ihrem ersten Facharzttermin mindestens ein Medikament ausprobiert hatten – meist jedoch gegen Begleitsymptome wie Schmerzen oder Angst. Medikamente, die gezielt auf Kernsymptome von ME/CFS wie Fatigue, Brain Fog und orthostatische Intoleranz abzielen, wurden in der Primärversorgung nur selten verschrieben; niedrig dosiertes Naltrexon (LDN) tauchte etwa nur auf sehr wenigen Medikationslisten vor Überweisung auf. Mehr als 72 Prozent der Betroffenen griffen mangels gezielter ärztlicher Begleitung auf Nahrungsergänzungsmittel zurück. Die Studie beziffert damit, was Leitlinien qualitativ beschreiben: eine systematische Kluft zwischen Spezialambulanzen und Allgemeinmedizin, in der Stimmung und Schmerz behandelt werden, der physiologische Kern der Erkrankung aber unversorgt bleibt. Die
+    Autorinnen und Autoren argumentieren, dass Fortbildung und standardisierte Behandlungsleitfäden diese Lücke zumindest teilweise schließen könnten, ohne auf zugelassene krankheitsmodifizierende Therapien zu warten.'

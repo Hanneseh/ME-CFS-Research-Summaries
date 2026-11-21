@@ -1,0 +1,35 @@
+---
+import { formatDate, t } from "../lib/i18n";
+import { threadUrl } from "../lib/paths";
+import type { Thread } from "../lib/content";
+import type { Lang } from "../lib/types";
+import TierPill from "./TierPill.astro";
+
+interface Props {
+  lang: Lang;
+  thread: Thread;
+  showGroup?: boolean;
+  groupLabel?: string;
+  compact?: boolean;
+}
+const { lang, thread, showGroup = false, groupLabel, compact = false } = Astro.props;
+const s = t(lang);
+const summary = thread.plainSummaryText || thread.subtitle.replace(/<[^>]+>/g, "");
+---
+
+<article class:list={["thread-card", { compact }]} data-group={thread.group}>
+  <div class="thread-card-top">
+    {showGroup && groupLabel && <span class="group-label"><span class="dot" aria-hidden="true" />{groupLabel}</span>}
+    <h3 class="thread-card-title" lang={thread.contentLang}>
+      <a href={threadUrl(lang, thread.slug)} class="stretched"><Fragment set:html={thread.title} /></a>
+    </h3>
+    {!compact && <p class="thread-card-summary clamp-3" lang={thread.contentLang}>{summary}</p>}
+  </div>
+  <div class="thread-card-foot">
+    <TierPill lang={lang} tier={thread.evidenceTier} />
+    <span class="thread-card-meta">
+      {s.lastUpdated}: <time class="num" datetime={thread.lastUpdated}>{thread.lastUpdated ? formatDate(thread.lastUpdated, lang) : "–"}</time>
+      · <span class="num">{s.entries(thread.entryCount)}</span>
+    </span>
+  </div>
+</article>

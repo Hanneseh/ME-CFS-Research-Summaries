@@ -1,0 +1,19 @@
+id: 2025-05-16_mast-cell-mrgprx2-receptor-identified-as-neuro-immune
+date: '2025-05-16'
+date_display: '2025-05-16'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Sanchez et al. 2025, bioRxiv
+  url: https://doi.org/10.1101/2025.05.15.652596
+  kind: preprint
+en:
+  title: Mast cell MRGPRX2 receptor identified as neuro-immune bridge for fibromyalgia IgG pain
+  plain_summary: In a non-peer-reviewed preprint, antibodies from fibromyalgia patients triggered pain sensitivity in mice by activating a specific receptor on mast cells. Blocking that receptor prevented pain in mice, pointing to a potential pain target, though it does not show whether this pathway explains fatigue or ME/CFS symptoms.
+  detail: A preclinical passive transfer study identified the MRGPRX2 receptor on mast cells as the mediator of pain hypersensitivity induced by patient IgG in fibromyalgia. Researchers demonstrated that fibromyalgia-derived IgG binds directly to and activates mast cells, releasing inflammatory cytokines like IL-6. Mice genetically lacking this receptor (Mrgprb2 in rodents) were completely protected from the mechanical and cold pain hypersensitivity induced by patient antibodies, while patient skin biopsies showed elevated mast cell density. This pinpoints a specific peripheral target for therapeutic intervention, suggesting that blocking MRGPRX2 or inhibiting mast cells could treat autoimmune pain. However, this study was a preprint and has not undergone peer review, and it does not prove that mast cell activation drives non-pain symptoms like gastrointestinal dysfunction or fatigue.
+de:
+  title: Mastzell-Rezeptor MRGPRX2 als neuro-immune Brücke für IgG-vermittelten Schmerz bei Fibromyalgie identifiziert
+  plain_summary: In einem noch nicht begutachteten Preprint lösten Antikörper von Fibromyalgie-Betroffenen bei Mäusen über einen speziellen Mastzell-Rezeptor Schmerzüberempfindlichkeit aus. Das Ausschalten dieses Rezeptors verhinderte die Schmerzen im Mausmodell, doch bleibt offen, ob dieser Weg auch Fatigue oder ME/CFS-Symptome erklärt.
+  detail: Eine präklinische passive Transferstudie identifizierte den MRGPRX2-Rezeptor auf Mastzellen als Vermittler der durch Patienten-IgG ausgelösten Schmerzüberempfindlichkeit bei Fibromyalgie. Die Forschenden zeigten, dass aus Fibromyalgie stammendes IgG direkt an Mastzellen bindet und diese aktiviert, wodurch entzündliche Zytokine wie IL-6 freigesetzt werden. Mäuse, denen dieser Rezeptor genetisch fehlte (Mrgprb2 bei Nagetieren), waren vollständig vor der durch Patientenantikörper induzierten mechanischen und kältebedingten Schmerzüberempfindlichkeit geschützt, während Hautbiopsien von Patientinnen und Patienten eine erhöhte Mastzelldichte aufwiesen. Dies grenzt ein spezifisches peripheres Ziel für therapeutische Eingriffe ein und legt nahe, dass eine Blockade von MRGPRX2 oder eine Hemmung von Mastzellen autoimmune Schmerzen behandeln könnte. Allerdings war diese Studie ein Preprint ohne Peer-Review, und sie beweist nicht, dass Mastzellaktivierung nicht-schmerzhafte Symptome wie Magen-Darm-Störungen
+    oder Fatigue antreibt.

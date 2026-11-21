@@ -1,0 +1,20 @@
+id: 2026-07-10_systematic-review-identifies-nf-b-pathway-as-central
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: review
+study_design: Systematic review
+sources:
+- label: PAIS Biomarker Review 2026, Frontiers in Immunology
+  url: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1741761/full
+  kind: paper
+en:
+  title: Systematic review identifies NF-κB pathway as central hub for PAIS biomarkers
+  plain_summary: A review of 142 biomarker studies across Long COVID, ME/CFS, and Guillain-Barré syndrome highlights widespread metabolic and immune changes linked by the NF-κB inflammatory pathway. Because it summarizes diverse earlier studies without new patient testing, it does not validate any clinical diagnostic tool.
+  detail: In a peer-reviewed systematic literature review of 142 studies analyzing biomarkers in post-acute infection syndromes (PAIS), researchers synthesized molecular findings across Long COVID (PACS), ME/CFS, and Guillain-Barré syndrome (GBS). The review identifies widespread alterations across multiple physiological domains, including energy, lipid, and amino acid metabolism, gut microbiome dysbiosis, mitochondrial stress, and microRNA (miRNA) regulatory networks. Notably, the authors identify the NF-κB pathway as a central molecular hub that connects cellular stress, persistent immune activation, metabolic reprogramming, and systemic inflammation. The review argues that PAIS is a multisystem disorder driven by persistent dysregulated host responses rather than active viral replication, supporting a clinical shift toward mechanism-based classification. However, because the review synthesizes existing literature with high heterogeneity in patient cohorts and analytical methods, it does
+    not present new primary patient data or validate a clinical diagnostic test.
+de:
+  title: Systematische Übersichtsarbeit identifiziert den NF-κB-Signalweg als zentralen Knotenpunkt für PAIS-Biomarker
+  plain_summary: Eine Auswertung von 142 Biomarker-Studien zu Long COVID, ME/CFS und dem Guillain-Barré-Syndrom beschreibt breite Stoffwechsel- und Immunveränderungen rund um den entzündlichen NF-κB-Signalweg. Da die Arbeit nur sehr unterschiedliche Vorstudien zusammenfasst, ohne neue Patientendaten zu erheben, validiert sie noch keinen klinischen Diagnosetest.
+  detail: In einer begutachteten systematischen Literaturübersicht über 142 Studien zu Biomarkern bei postakuten Infektionssyndromen (PAIS) fassten Forschende molekulare Befunde zu Long COVID (PACS), ME/CFS und dem Guillain-Barré-Syndrom (GBS) zusammen. Die Arbeit beschreibt weitreichende Veränderungen über mehrere physiologische Bereiche hinweg, darunter Energie-, Lipid- und Aminosäurestoffwechsel, Dysbiose des Darmmikrobioms, mitochondrialen Stress und regulatorische microRNA-(miRNA)-Netzwerke. Bemerkenswerterweise benennen die Autorinnen und Autoren den NF-κB-Signalweg als zentralen molekularen Knotenpunkt, der zellulären Stress, anhaltende Immunaktivierung, metabolische Umprogrammierung und systemische Entzündung miteinander verbindet. Die Übersicht argumentiert, dass PAIS eine Multisystemerkrankung ist, die durch anhaltend fehlregulierte Wirtsreaktionen statt durch aktive Virusvermehrung angetrieben wird, was für eine mechanismusbasierte Klassifikation spricht. Da sie jedoch vorhandene
+    Studien mit hoher methodischer und klinischer Heterogenität zusammenführt, liefert sie weder neue Primärdaten noch einen validierten klinischen Test.

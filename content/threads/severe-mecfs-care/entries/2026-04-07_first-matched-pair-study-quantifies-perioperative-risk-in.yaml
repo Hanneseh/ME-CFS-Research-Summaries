@@ -1,0 +1,20 @@
+id: 2026-04-07_first-matched-pair-study-quantifies-perioperative-risk-in
+date: '2026-04-07'
+date_display: '2026-04-07'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Steinkirchner et al. 2026, medRxiv
+  url: https://doi.org/10.64898/2026.04.06.26348924
+  kind: preprint
+en:
+  title: First matched-pair study quantifies perioperative risk in ME/CFS
+  plain_summary: A German hospital study of 15 ME/CFS patients under general anesthesia found safe blood pressure and heart rate during surgery, but much higher post-surgery pain and greater need for strong pain relief than in matched controls. Because the study did not track delayed PEM crashes in the days after surgery, long-term post-operative risks remain unmeasured.
+  detail: 'Steinkirchner et al. published a retrospective matched-pair analysis at the University Hospital Regensburg comparing 15 ME/CFS patients with 15 age-, sex-, and procedure-matched controls undergoing general anaesthesia between 2015 and 2026. Intraoperative haemodynamics were lower in ME/CFS patients — minimum heart rate and minimum systolic blood pressure were both reduced — but remained within clinically safe limits throughout the procedures. The difference that did reach clinical significance was postoperative pain: ME/CFS patients reported maximum pain scores of 5.0 versus 1.0 in controls, and 80% required opioid rescue analgesia compared with 33% of controls. The study was not designed to capture delayed post-exertional deterioration in the days and weeks following surgery, which is the outcome most relevant to ME/CFS-specific surgical risk. That gap remains unaddressed in the published literature. The practical implication of what was measured is that standard surgical pain
+    protocols are likely insufficient for this population and that anaesthesiologists and surgical teams need disease-specific preparation before operating on ME/CFS patients.'
+de:
+  title: Erste Matched-Pair-Studie quantifiziert perioperatives Risiko bei ME/CFS
+  plain_summary: Eine deutsche Klinikstudie mit 15 ME/CFS-Betroffenen unter Vollnarkose fand während der Operation stabile Kreislaufwerte, danach jedoch deutlich stärkere Schmerzen und häufigeren Bedarf an starken Schmerzmitteln als bei Vergleichspatienten. Da verzögerte PEM-Einbrüche in den Tagen und Wochen nach dem Eingriff nicht erfasst wurden, bleiben die längerfristigen Operationsrisiken weiterhin ungeklärt.
+  detail: 'Steinkirchner et al. veröffentlichten eine retrospektive Matched-Pair-Analyse am Universitätsklinikum Regensburg, in der 15 ME/CFS-Patientinnen und -Patienten mit 15 nach Alter, Geschlecht und Eingriff passenden Kontrollpersonen verglichen wurden, die zwischen 2015 und 2026 eine Vollnarkose erhielten. Die intraoperative Hämodynamik lag bei ME/CFS niedriger – sowohl minimale Herzfrequenz als auch minimaler systolischer Blutdruck waren geringer –, blieb aber während der Eingriffe durchweg im klinisch sicheren Bereich. Klinisch bedeutsam war hingegen der Unterschied bei den postoperativen Schmerzen: ME/CFS-Betroffene gaben maximale Schmerzwerte von 5,0 gegenüber 1,0 in der Kontrollgruppe an, und 80 % benötigten eine Bedarfsanalgesie mit Opioiden im Vergleich zu 33 % der Kontrollen. Die Studie war nicht darauf ausgelegt, eine verzögerte post-exertionelle Verschlechterung in den Tagen und Wochen nach der Operation zu erfassen – also genau jenen Verlauf, der für das ME/CFS-spezifische
+    Operationsrisiko am wichtigsten ist. Diese Lücke besteht in der Fachliteratur weiterhin. Praktisch bedeutet das Gemessene, dass Standard-Schmerzprotokolle nach Operationen für diese Gruppe wahrscheinlich nicht ausreichen und Anästhesie- sowie Operationsteams vor Eingriffen bei ME/CFS-Patientinnen und -Patienten eine krankheitsspezifische Vorbereitung benötigen.'

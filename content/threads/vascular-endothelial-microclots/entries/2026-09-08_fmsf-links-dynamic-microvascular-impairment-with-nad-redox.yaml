@@ -1,0 +1,18 @@
+id: 2026-09-08_fmsf-links-dynamic-microvascular-impairment-with-nad-redox
+date: '2026-09-08'
+date_display: '2026-09-08'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Lewandowska et al. 2026, Microcirculation
+  url: https://doi.org/10.1111/micc.70085
+  kind: paper
+en:
+  title: FMSF links dynamic microvascular impairment with NAD redox imbalance in Long COVID
+  plain_summary: A study of 83 people paired a forearm-cuff skin blood-flow test with blood metabolomics and found slower vessel recovery and lower NAD+ energy-redox balance in Long COVID. It offers a non-exercise research measure, not a validated diagnostic test or treatment.
+  detail: In a case-control study of 36 people with Long COVID and 47 age-matched controls, Lewandowska et al. paired Flow-Mediated Skin Fluorescence (FMSF) during forearm occlusion and reperfusion with HPLC-MS metabolomics. Long COVID participants showed blunted ischemic responses, delayed post-hyperemic recovery, a lower NAD+/NADH ratio, and altered NAD-related metabolites; FMSF measures correlated with redox and endothelial parameters. The non-exercise assay offers a candidate research measure, not a treatment or routine diagnostic. Severe and bedbound inclusion was not reported, and clinic attendance, cuff discomfort, and venipuncture remain relevant burdens even without direct exercise-triggered PEM.
+de:
+  title: FMSF verknüpft dynamische Mikrozirkulationsstörung mit NAD-Redox-Ungleichgewicht bei Long COVID
+  plain_summary: Eine Studie mit 83 Teilnehmenden kombinierte eine Durchblutungsmessung am Unterarm mit Blutstoffwechsel-Analysen und fand bei Long COVID eine verzögerte Gefäßerholung und verschobene NAD+-Redoxwerte. Sie liefert ein Forschungswerkzeug ohne Belastungstest, aber noch keine Diagnostik oder Therapie.
+  detail: In einer Fall-Kontroll-Studie mit 36 Long-COVID-Betroffenen und 47 altersgleichen Kontrollpersonen kombinierten Lewandowska et al. die Flow-Mediated Skin Fluorescence (FMSF) während Unterarm-Stauung und anschließender Wiedereröffnung mit HPLC-MS-Metabolomik. Long-COVID-Teilnehmende zeigten abgeschwächte Reaktionen auf die Durchblutungsdrosselung, eine verzögerte Erholung nach der Reperfusion, ein niedrigeres NAD+/NADH-Verhältnis sowie veränderte NAD-bezogene Metaboliten; die FMSF-Werte korrelierten mit Redox- und Endothelparametern. Das Verfahren ohne körperliche Belastung bietet ein interessantes Forschungsinstrument, aber noch keine Behandlung und keinen Routinetest. Angaben zum Einschluss schwer Betroffener oder Bettlägeriger fehlten, und Klinikbesuch, Manschettendruck sowie Blutentnahme bleiben auch ohne belastungsausgelöste PEM spürbare Hürden.

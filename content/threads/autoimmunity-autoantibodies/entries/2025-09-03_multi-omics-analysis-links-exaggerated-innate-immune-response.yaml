@@ -1,0 +1,19 @@
+id: 2025-09-03_multi-omics-analysis-links-exaggerated-innate-immune-response
+date: '2025-09-03'
+date_display: '2025-09-03'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Che et al. 2025, npj Metabolic Health and Disease
+  url: https://doi.org/10.1038/s44324-025-00079-w
+  kind: paper
+en:
+  title: Multi-omics analysis links exaggerated innate immune response to post-exercise energy failure
+  plain_summary: Blood tests before and after exercise in 56 ME/CFS patients and 52 controls showed overactive innate immune responses alongside energy-metabolism disruption after exertion. The findings point to a biological link between immune priming and post-exertional malaise, though they measured blood cells rather than muscle or brain tissue.
+  detail: A multi-omics study analyzing plasma and stimulated immune cells from 56 ME/CFS patients and 52 controls before and after exercise revealed an exaggerated innate immune response to microbial triggers and post-exertional metabolic disruption. Patients showed heightened cytokine production baseline and exercise-induced mitochondrial dysfunction, characterized by plasma citrate accumulation, complement activation, and oxidative stress. This supports a "trained immunity" model where post-viral immune priming leads to chronic inflammation and metabolic blockages. This provides a biological basis for post-exertional malaise and guides the investigation of metabolic and immune-modulating agents. However, the study evaluated blood samples rather than direct muscle or neural tissues, and it does not confirm the precise microbial triggers driving the trained immune state in individual patients.
+de:
+  title: Multi-Omics-Analyse verknüpft überschießende angeborene Immunantwort mit Energieversagen nach Belastung
+  plain_summary: Blutuntersuchungen vor und nach Belastung bei 56 ME/CFS-Betroffenen und 52 Kontrollen zeigten eine überschießende angeborene Immunreaktion sowie Störungen im Energiestoffwechsel nach Anstrengung. Das stützt eine biologische Verbindung zwischen Immun-Priming und PEM, beruht jedoch auf Blutzellen und nicht auf Muskel- oder Nervengewebe.
+  detail: Eine Multi-Omics-Studie, die Plasma und stimulierte Immunzellen von 56 ME/CFS-Patientinnen und -Patienten sowie 52 Kontrollen vor und nach körperlicher Belastung analysierte, zeigte eine überschießende angeborene Immunantwort auf mikrobielle Reize sowie eine postexertionale Stoffwechselstörung. Betroffene wiesen eine erhöhte Zytokinproduktion im Ausgangszustand sowie eine belastungsinduzierte mitochondriale Dysfunktion auf, gekennzeichnet durch Citrat-Anreicherung im Plasma, Komplementaktivierung und oxidativen Stress. Dies stützt ein Modell der „trainierten Immunität“, bei dem ein postvirales Immun-Priming zu chronischer Entzündung und metabolischen Blockaden führt. Damit ergibt sich eine biologische Grundlage für Post-Exertional Malaise und eine Orientierung für die Erforschung stoffwechsel- und immunmodulierender Wirkstoffe. Allerdings untersuchte die Studie Blutproben und kein direktes Muskel- oder Nervengewebe, und sie bestätigt nicht die genauen mikrobiellen Auslöser, die
+    den trainierten Immunzustand bei einzelnen Betroffenen antreiben.

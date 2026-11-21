@@ -1,0 +1,20 @@
+id: 2026-08-20_cardiometabolic-framework-models-pem-as-multi-timescale-recovery
+date: '2026-08-20'
+date_display: '2026-08-20'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Westermeier et al. 2026, Cardiovascular Diabetology
+  url: https://doi.org/10.1186/s12933-026-03316-8
+  kind: paper
+en:
+  title: Cardiometabolic framework models PEM as multi-timescale recovery desynchronization
+  plain_summary: A perspective paper models PEM as a breakdown in recovery timing across blood vessels, nerves, muscles, metabolism, and immunity over seconds to weeks—explicitly warning that standard exercise tests can be unsafe for severe or bedbound patients. It proposes a framework for future studies rather than testing a treatment or safe activity limit.
+  detail: Westermeier and colleagues present a conceptual cardiometabolic framework in which PEM reflects disrupted coordination across autonomic, endothelial, cardiovascular, muscular, metabolic, and immune recovery over seconds to weeks rather than ordinary tiredness. The perspective does not recruit participants or test an intervention, but it explicitly treats severe and bedbound patients as a distinct population whose limited physiological reserve may make CPET, tilt testing, or handgrip challenges unsafe or intolerable. It adds no direct patient burden; the main safety contribution is its warning that standard exertional protocols can trigger severe crashes, while exploratory drug mentions remain unvalidated. The proposed multi-timescale model is relevant to [Mitochondrial & Metabolic Dysfunction](thread:mitochondrial-metabolic-dysfunction) and [Vascular Endothelial Dysfunction & Microclots](thread:vascular-endothelial-microclots), but requires longitudinal empirical testing and does
+    not define a safe activity threshold or treatment.
+de:
+  title: Kardiometabolisches Modell beschreibt PEM als Erholungs-Desynchronisation über mehrere Zeitskalen
+  plain_summary: Ein Perspektivpapier beschreibt PEM als zeitlich entgleistes Zusammenspiel von Gefäßen, Nerven, Muskeln, Stoffwechsel und Immunsystem über Sekunden bis Wochen und warnt ausdrücklich davor, schwer oder bettlägerig Erkrankte Standard-Belastungstests auszusetzen. Es liefert ein theoretisches Modell für künftige Forschung, aber keine geprüfte Behandlung oder sichere Aktivitätsgrenze.
+  detail: Westermeier und Kolleginnen stellen ein konzeptionelles kardiometabolisches Rahmenmodell vor, nach dem PEM eine gestörte zeitliche Abstimmung zwischen autonomer, endothelialer, kardiovaskulärer, muskulärer, metabolischer und immunologischer Erholung über Sekunden bis Wochen widerspiegelt und keine gewöhnliche Müdigkeit darstellt. Die Arbeit rekrutiert keine Teilnehmenden und prüft keine Intervention, behandelt aber schwer und bettlägerig Erkrankte ausdrücklich als eigenständige Gruppe, deren geringe physiologische Reserve CPET-, Kipptisch- oder Handkrafttests unsicher oder unerträglich machen kann. Sie erzeugt selbst keine direkte Patientenbelastung; der wichtigste Sicherheitsbeitrag liegt in der Warnung, dass Standard-Belastungsprotokolle schwere Einbrüche auslösen können, während beiläufig erwähnte Arzneistoffziele unbestätigt bleiben. Das Modell ist relevant für [Mitochondriale & metabolische Dysfunktion](thread:mitochondrial-metabolic-dysfunction) und [Vaskuläre, endotheliale
+    Dysfunktion & Mikrogerinnsel](thread:vascular-endothelial-microclots), erfordert aber empirische Längsschnitttests und definiert weder eine sichere Aktivitätsschwelle noch eine Therapie.

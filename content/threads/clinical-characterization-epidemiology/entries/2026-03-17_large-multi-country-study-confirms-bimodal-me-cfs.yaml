@@ -1,0 +1,20 @@
+id: 2026-03-17_large-multi-country-study-confirms-bimodal-me-cfs
+date: '2026-03-17'
+date_display: '2026-03-17'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: McGrath et al. 2026, Oxford Open Immunology
+  url: https://doi.org/10.1093/oxfimm/iqag007
+  kind: paper
+en:
+  title: Large multi-country study confirms bimodal ME/CFS onset with distinct severity profiles by age group
+  plain_summary: A survey of over 9,000 European ME/CFS patients confirmed two main peaks of onset—around age 16 and age 36—with teen-onset cases twice as likely to become severe. While onset ages were self-reported, the pattern replicated in a separate large UK dataset.
+  detail: A study analysing survey responses from more than 9,000 ME/CFS patients across 10 European countries, validated against a separate large UK dataset, found a clear bimodal age-at-onset distribution with an early peak at age 16 and a later peak at age 36. Early-onset cases were twice as likely to result in severe or very severe disability compared to later-onset cases, were more strongly associated with infectious triggers—particularly glandular fever—and showed a higher prevalence of first-degree relatives with the same condition, suggesting a stronger genetic predisposition component in adolescent-onset disease. The consistency of the bimodal pattern across multiple countries and datasets strengthens confidence in the finding despite the reliance on self-reported onset ages. Clinically, the implication is that adolescent-onset ME/CFS may represent a distinct phenotype requiring different research and clinical attention than adult-onset cases, and that genetic studies should consider
+    whether early- and late-onset cases have different heritability architectures.
+de:
+  title: Große Länderstudie bestätigt zweigipfligen Erkrankungsbeginn bei ME/CFS mit altersabhängigen Schweregraden
+  plain_summary: Eine Befragung von über 9.000 europäischen ME/CFS-Betroffenen bestätigte zwei Altersgipfel beim Krankheitsbeginn – um 16 und um 36 Jahre –, wobei ein Beginn im Jugendalter doppelt so häufig zu schweren Verläufen führte. Auch wenn das Erkrankungsalter selbst berichtet wurde, bestätigte sich das Muster in einem zweiten großen britischen Datensatz.
+  detail: Eine Studie, die Umfragedaten von mehr als 9.000 ME/CFS-Betroffenen aus zehn europäischen Ländern auswertete und anhand eines separaten großen britischen Datensatzes validierte, fand eine klare zweigipflige Altersverteilung bei Krankheitsbeginn mit einem frühen Gipfel um das 16. und einem späteren um das 36. Lebensjahr. Früh erkrankte Personen hatten eine doppelt so hohe Wahrscheinlichkeit für eine schwere oder sehr schwere Behinderung wie später Erkrankte, berichteten häufiger über infektiöse Auslöser – insbesondere Pfeiffersches Drüsenfieber – und wiesen öfter Verwandte ersten Grades mit derselben Erkrankung auf, was auf eine stärkere genetische Veranlagung bei Beginn im Jugendalter hindeutet. Die Übereinstimmung des zweigipfligen Musters über mehrere Länder und Datensätze hinweg stärkt das Vertrauen in den Befund trotz der Abhängigkeit von selbstberichteten Altersangaben. Klinisch legt dies nahe, dass im Jugendalter beginnendes ME/CFS ein eigenständiger Phänotyp sein könnte,
+    der in Forschung und Versorgung anders betrachtet werden sollte, und dass genetische Studien eine unterschiedliche Erblichkeitsarchitektur bei frühem und spätem Beginn berücksichtigen sollten.

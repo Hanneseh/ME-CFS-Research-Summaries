@@ -1,0 +1,22 @@
+id: 2026-10-24_previtacov-finds-a-small-steroid-effect-below-its
+date: '2026-10-24'
+date_display: '2026-10-24'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Gágyor et al. 2026, eClinicalMedicine
+  url: https://doi.org/10.1016/j.eclinm.2026.104264
+  kind: paper
+- label: Open-access full text
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13720163/
+  kind: paper
+en:
+  title: PreVitaCOV finds a small steroid effect below its clinical-importance threshold
+  plain_summary: In the 323-person PreVitaCOV trial for post-COVID syndrome, 28 days of low-dose prednisolone produced only a tiny, temporary symptom difference below the trial's threshold for meaningful clinical benefit, and B vitamins showed no benefit. Bedridden patients were excluded, and neither low-dose steroids nor B vitamins are established as effective treatments.
+  detail: The peer-reviewed PreVitaCOV trial randomized 323 adults with post-COVID syndrome to 28 days of low-dose prednisolone, vitamins B1/B6/B12, both or placebo in a double-blind factorial design. Prednisolone improved the total symptom score by an adjusted 1.4 points versus no prednisolone (95% CI 0.4–2.5 points better), below the prespecified 3-point threshold for clinical relevance; B vitamins had no detectable benefit. Between-group symptom differences were significant during treatment but not at the later follow-ups, and no study-drug-related serious adverse events were identified. Bedridden patients and those requiring nursing care were excluded, and the report does not establish benefit in a PEM-defined ME/CFS subgroup. Oral dosing was relatively simple, but participation required clinical assessment and follow-up. These findings neither establish a durable treatment nor cancel the serious safety findings from the separate, higher-dose PoCoWiT methylprednisolone trial.
+de:
+  title: PreVitaCOV findet nur einen kleinen Steroid-Effekt unterhalb der Schwelle für klinische Relevanz
+  plain_summary: In der PreVitaCOV-Studie mit 323 Post-COVID-Betroffenen führte eine 28-tägige Gabe von niedrigdosiertem Prednisolon nur zu einem winzigen, vorübergehenden Symptomunterschied unterhalb der vorab definierten Relevanzschwelle; B-Vitamine zeigten keinen Nutzen. Bettlägerige Patientinnen und Patienten waren ausgeschlossen, und eine dauerhafte Wirksamkeit ist weder für Steroide noch für B-Vitamine belegt.
+  detail: Die begutachtete PreVitaCOV-Studie randomisierte 323 Erwachsene mit Post-COVID-Syndrom in einem doppelt verblindeten faktoriellen Design auf 28 Tage niedrigdosiertes Prednisolon, Vitamin B1/B6/B12, beides oder Placebo. Prednisolon verbesserte den Gesamtsymptomscore um adjustierte 1,4 Punkte gegenüber keinem Prednisolon (95-%-KI 0,4–2,5 Punkte besser) – unterhalb der vorab festgelegten Schwelle von 3 Punkten für klinische Relevanz; B-Vitamine zeigten keinen erkennbaren Nutzen. Gruppenunterschiede waren während der Behandlung signifikant, nicht aber bei den späteren Nachuntersuchungen, und es wurden keine studienmedikamentbezogenen schweren unerwünschten Ereignisse festgestellt. Bettlägerige und pflegebedürftige Patientinnen und Patienten waren ausgeschlossen, und der Bericht belegt keinen Nutzen in einer PEM-definierten ME/CFS-Untergruppe. Die orale Einnahme war vergleichsweise einfach, erforderte jedoch ärztliche Untersuchungen und Kontrollen. Diese Befunde belegen weder eine dauerhafte
+    Therapie, noch heben sie die ernsten Sicherheitswarnungen aus der separaten, höher dosierten PoCoWiT-Methylprednisolon-Studie auf.

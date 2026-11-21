@@ -1,0 +1,26 @@
+id: 2026-03-16_purinergic-signaling-defects-proposed-to-link-taste-dysfunction
+date: '2026-03-16'
+date_display: '2026-03-16'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Srinivasan and Joseph 2026, Frontiers in Medicine
+  url: https://doi.org/10.3389/fmed.2026.1808646
+  kind: paper
+en:
+  title: Purinergic signaling defects proposed to link taste dysfunction and systemic fatigue
+  plain_summary: A perspective article proposes that faulty ATP energy signaling in taste cells links altered taste to chronic fatigue, suggesting taste tests as a simple screening tool. Because many factors affect taste, this idea still needs direct testing in patient cohorts.
+  detail: '- **What changed:** A perspective study proposed a pathological model where defects in ATP release from Type II taste receptor cells and impaired signaling through purinergic receptors (P2X2/P2X3) link dysgeusia (taste dysfunction) to chronic fatigue.
+
+    - **Why it matters:** This suggests that chemosensory dysfunction acts as a direct indicator of systemic purinergic energy failure, proposing taste testing as a simple, non-invasive clinical screening tool for disease progression.
+
+    - **What it does not prove yet:** Chemosensory symptoms can be confounded by multiple clinical factors, and the purinergic pathway''s causal role requires direct verification in clinical cohorts.'
+de:
+  title: Defekte der purinergen Signalübertragung als mögliche Verbindung zwischen Geschmacksstörung und Fatigue
+  plain_summary: Ein Perspektivartikel schlägt vor, dass gestörte ATP-Signale in Geschmackszellen Geschmacksverlust mit chronischer Fatigue verknüpfen. Da Geschmack durch viele Faktoren beeinflusst wird, muss diese Hypothese erst direkt an Patientenkohorten geprüft werden.
+  detail: '- **Was sich gezeigt hat:** Ein Perspektivartikel entwarf ein Krankheitsmodell, bei dem Defekte der ATP-Freisetzung aus Typ-II-Geschmacksrezeptorzellen und eine gestörte Signalübertragung über purinerge Rezeptoren (P2X2/P2X3) Dysgeusie (Geschmacksstörungen) mit chronischer Fatigue verbinden.
+
+    - **Warum das wichtig ist:** Dies legt nahe, dass chemosensorische Störungen als direkter Hinweis auf ein systemisches purinerges Energieversagen dienen könnten, und schlägt Geschmackstests als einfaches, nicht-invasives Verlaufswerkzeug vor.
+
+    - **Was damit noch nicht belegt ist:** Geschmacks- und Geruchsbeschwerden können durch zahlreiche klinische Faktoren überlagert sein, und eine ursächliche Rolle des purinergen Signalwegs erfordert eine direkte Überprüfung in klinischen Kohorten.'

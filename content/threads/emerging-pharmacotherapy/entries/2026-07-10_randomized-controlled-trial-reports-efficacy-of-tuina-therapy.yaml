@@ -1,0 +1,20 @@
+id: 2026-07-10_randomized-controlled-trial-reports-efficacy-of-tuina-therapy
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: 'Tuina therapy for patients with chronic fatigue syndrome: a randomized controlled trial (PubMed 2026)'
+  url: https://pubmed.ncbi.nlm.nih.gov/41507906/
+  kind: paper
+en:
+  title: Randomized controlled trial reports efficacy of Tuina therapy for chronic fatigue syndrome
+  plain_summary: A trial of 110 adults with chronic fatigue syndrome found adding 12 sessions of traditional Chinese Tuina massage to usual care reduced fatigue and sleep complaints over four weeks more than usual care alone. Because patients knew they were getting massage and broad criteria were used that do not require PEM, placebo effects and applicability to strict ME/CFS remain uncertain.
+  detail: An assessor-blinded, single-center randomized controlled trial (RCT) involving 110 adults with chronic fatigue syndrome demonstrated that Tuina therapy (traditional Chinese manual massage) combined with usual care significantly reduced fatigue severity compared to usual care alone. Over a 4-week protocol consisting of 12 sessions, the Tuina group showed significant reductions in fatigue scores (adjusted mean difference -2.90) and sleep complaints, with a higher proportion achieving a minimal clinically important difference (89.1% vs 69.1%). The therapy demonstrated a more pronounced effect on physical fatigue (effect size 0.70) than on mental fatigue (effect size 0.41), while also significantly reducing anxiety. These findings suggest that gentle, tailored manual therapies are safe and helpful adjunctive options for managing somatic symptoms and sleep issues in chronic fatigue. However, because patients could not be blinded, the results are susceptible to expectations and placebo
+    effects, and the use of the 1994 CDC Fukuda diagnostic criteria limits generalizability to patients with strict, post-exertional malaise-defined ME/CFS.
+de:
+  title: Randomisierte kontrollierte Studie berichtet Wirksamkeit von Tuina-Therapie beim Chronischen Fatigue-Syndrom
+  plain_summary: Eine Studie mit 110 Erwachsenen mit Chronischem Fatigue-Syndrom fand, dass 12 Sitzungen traditioneller chinesischer Tuina-Massage zusätzlich zur Regelversorgung Fatigue und Schlafprobleme über vier Wochen stärker senkten als Regelversorgung allein. Da Behandelte nicht verblindet waren und breite Diagnosekriterien ohne PEM-Pflicht genutzt wurden, bleiben Placeboeffekte und die Übertragbarkeit auf streng definiertes ME/CFS unklar.
+  detail: Eine bewerterverblindete, monozentrische randomisierte kontrollierte Studie (RCT) mit 110 Erwachsenen mit chronischem Fatigue-Syndrom zeigte, dass Tuina-Therapie (traditionelle chinesische manuelle Massage) kombiniert mit Regelversorgung die Fatigue-Schwere gegenüber Regelversorgung allein signifikant senkte. Über ein 4-wöchiges Protokoll mit 12 Sitzungen verzeichnete die Tuina-Gruppe signifikante Abnahmen der Fatigue-Scores (adjustierte mittlere Differenz -2,90) und Schlafbeschwerden, wobei ein größerer Anteil eine minimal klinisch relevante Verbesserung erreichte (89,1 % vs. 69,1 %). Der Effekt war bei körperlicher Fatigue (Effektstärke 0,70) stärker ausgeprägt als bei mentaler Fatigue (0,41), bei gleichzeitiger Abnahme von Angst. Diese Befunde deuten darauf hin, dass sanfte, angepasste manuelle Therapien als sichere Begleitmaßnahme bei somatischen Beschwerden und Schlafproblemen hilfreich sein können. Da Patientinnen und Patienten jedoch nicht verblindet werden konnten, sind
+    Erwartungs- und Placeboeffekte möglich, und die Verwendung der CDC-Fukuda-Kriterien von 1994 schränkt die Übertragbarkeit auf Betroffene mit streng durch Post-Exertional Malaise definiertem ME/CFS ein.

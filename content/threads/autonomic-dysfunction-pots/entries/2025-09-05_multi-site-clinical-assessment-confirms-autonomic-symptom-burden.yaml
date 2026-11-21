@@ -1,0 +1,18 @@
+id: 2025-09-05_multi-site-clinical-assessment-confirms-autonomic-symptom-burden
+date: '2025-09-05'
+date_display: '2025-09-05'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Issa et al. 2025, Journal of Clinical Medicine
+  url: https://doi.org/10.3390/jcm14176269
+  kind: paper
+en:
+  title: Multi-site clinical assessment confirms autonomic symptom burden scales with ME/CFS severity
+  plain_summary: A multi-site study of 301 ME/CFS patients found autonomic symptoms in 97% of participants, with worse symptoms tracking worse fatigue, pain, and disability. The findings highlight the need for routine autonomic screening, though the sample lacked demographic diversity.
+  detail: A large-scale, multi-site clinical study of 301 ME/CFS patients and 141 controls confirmed that autonomic symptoms are nearly universal in ME/CFS, affecting 97% of patients. Using the COMPASS-31 questionnaire and the NASA Lean Test, researchers demonstrated that the severity of orthostatic, gastrointestinal, and pupillomotor symptoms directly correlates with the severity of fatigue, pain, sleep disruption, and physical impairment. This validates dysautonomia as a core component of the disease rather than a secondary complication. The findings underscore the clinical necessity of routine autonomic screening in patient care to identify targetable symptoms. However, the study cohort was predominantly white, highly educated, and insured, which may limit how well these findings represent the broader, more diverse ME/CFS population.
+de:
+  title: Multizentrische klinische Erhebung bestätigt Zusammenhang zwischen autonomer Symptomlast und ME/CFS-Schweregrad
+  plain_summary: Eine multizentrische Studie mit 301 ME/CFS-Betroffenen fand bei 97 % autonome Beschwerden, deren Stärke mit Fatigue, Schmerzen und Einschränkung zusammenhing. Da die Stichprobe wenig vielfältig war, lässt sich das Ergebnis noch nicht auf alle Bevölkerungsgruppen verallgemeinern.
+  detail: Eine große, multizentrische klinische Studie mit 301 ME/CFS-Patientinnen und -Patienten sowie 141 Kontrollpersonen bestätigte, dass autonome Symptome bei ME/CFS nahezu durchgängig auftreten und 97 % der Betroffenen betreffen. Mithilfe des COMPASS-31-Fragebogens und des NASA-Lean-Tests zeigten die Forschenden, dass die Schwere orthostatischer, gastrointestinaler und pupillomotorischer Beschwerden direkt mit Fatigue, Schmerzen, Schlafstörungen und körperlicher Einschränkung zusammenhängt. Dies bestätigt Dysautonomie als Kernbestandteil der Erkrankung statt als bloße Begleiterscheinung. Die Ergebnisse unterstreichen die klinische Notwendigkeit eines routinemäßigen autonomen Screenings in der Versorgung, um gezielt behandelbare Symptome zu erkennen. Da die Kohorte jedoch überwiegend weiß, akademisch gebildet und gut versichert war, bildet sie die breitere, vielfältigere ME/CFS-Population möglicherweise nur eingeschränkt ab.

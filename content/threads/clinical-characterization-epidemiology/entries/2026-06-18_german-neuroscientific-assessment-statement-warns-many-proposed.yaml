@@ -1,0 +1,19 @@
+id: 2026-06-18_german-neuroscientific-assessment-statement-warns-many-proposed
+date: '2026-06-18'
+date_display: '2026-06-18'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Erbguth et al. 2026, DGNB statement summary
+  url: https://pubmed.ncbi.nlm.nih.gov/42313182/
+  kind: paper
+en:
+  title: German neuroscientific assessment statement warns many proposed PCS/ME/CFS tests lack individual diagnostic specificity
+  plain_summary: A German medical assessment society warned that popular research tests—such as GPCR autoantibodies, heart-rate variability, and stool panels—cannot reliably diagnose Post-COVID or ME/CFS in an individual patient. It does not deny biological illness, but underscores that clinical diagnosis still rests on history and PEM evaluation.
+  detail: 'The German Society for Neuroscientific Assessment published a consensus statement on diagnostic methods for Post-/Long-COVID syndromes and overlap with ME/CFS. It concludes that several commonly cited tests, including GPCR autoantibodies, heart-rate variability, commercial stool tests, surface electromyography, handgrip dynamometry, and routine structural or functional brain imaging, do not yet have enough specificity to prove PCS or ME/CFS at the individual level. This is an important counterweight to the growth of biomarker enthusiasm: many tools can be useful in research cohorts without being ready for forensic or clinical proof in a single patient. The statement is conservative and assessment-focused, so it should not be read as denying biological abnormalities. It clarifies where clinical documentation still depends on careful history, PEM assessment, functional impact, and validated exclusion workups.'
+de:
+  title: Deutsche Gesellschaft für Neurowissenschaftliche Begutachtung warnt vor mangelnder individueller Aussagekraft vieler PCS-/ME/CFS-Tests
+  plain_summary: Eine deutsche Fachgesellschaft für Begutachtung betont, dass häufig angeführte Tests wie GPCR-Autoantikörper, Herzratenvariabilität oder kommerzielle Stuhltests für eine sichere Einzeldiagnose von Post-COVID oder ME/CFS noch nicht spezifisch genug sind. Das stellt keine Leugnung biologischer Befunde dar, unterstreicht aber den Vorrang sorgfältiger Anamnese und PEM-Erfassung.
+  detail: 'Die Deutsche Gesellschaft für Neurowissenschaftliche Begutachtung veröffentlichte eine Konsensstellungnahme zu diagnostischen Verfahren bei Post-/Long-COVID-Syndromen und deren Überschneidung mit ME/CFS. Sie kommt zu dem Schluss, dass mehrere häufig genannte Tests – darunter GPCR-Autoantikörper, Herzratenvariabilität, kommerzielle Stuhlanalysen, Oberflächen-Elektromyografie, Handkraft-Dynamometrie sowie routinemäßige strukturelle oder funktionelle Hirnbildgebung – bislang nicht über ausreichende Spezifität verfügen, um PCS oder ME/CFS im Einzelfall zu beweisen. Das ist ein wichtiges Gegengewicht zur verbreiteten Biomarker-Euphorie: Viele Messverfahren können in Forschungskohorten aufschlussreich sein, ohne schon als forensischer oder individueller Klinikbeweis zu taugen. Die Stellungnahme ist konservativ und gutachterlich ausgerichtet und sollte nicht als Leugnung biologischer Auffälligkeiten verstanden werden; sie klärt vielmehr, wo ärztliche Dokumentation weiterhin auf sorgfältiger
+    Anamnese, PEM-Beurteilung, Funktionsauswirkung und fundierter Ausschlussdiagnostik beruht.'

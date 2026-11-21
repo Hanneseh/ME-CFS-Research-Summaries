@@ -1,0 +1,18 @@
+id: 2025-09-10_systematic-review-consolidates-observational-evidence-for-ldn-in
+date: '2025-09-10'
+date_display: '2025-09-10'
+date_precision: exact
+source_type: review
+study_design: Systematic review
+sources:
+- label: Byambasuren et al. 2025, medRxiv
+  url: https://doi.org/10.1101/2025.09.09.25335451
+  kind: preprint
+en:
+  title: Systematic review consolidates observational evidence for LDN in Long COVID
+  plain_summary: A systematic review pooled four small observational studies (155 Long COVID patients total) and reported improvements in pain, fatigue, brain fog, and sleep after starting LDN. Because none of those four studies had a placebo control group, the certainty of the evidence is low and placebo effects cannot be ruled out.
+  detail: A systematic review analyzed four observational, pre-post studies comprising 155 patients, finding that LDN was associated with moderate improvements in fatigue, brain fog, and sleep quality, alongside large improvements in pain and daily functioning. This represents the first pooled clinical data for LDN in a post-viral context, consolidating patient-reported benefits to justify its potential efficacy. However, the certainty of the evidence remains low because all included studies lacked a control or placebo group. Consequently, this review cannot prove that the observed improvements were caused by LDN rather than the natural course of illness, regression to the mean, or a placebo effect. It highlights the urgent need for large-scale, placebo-controlled randomized trials, three of which were noted as currently underway.
+de:
+  title: Systematische Übersicht bündelt Beobachtungsdaten zu LDN bei Long COVID
+  plain_summary: Eine systematische Übersichtsarbeit fasste vier kleine Beobachtungsstudien mit insgesamt 155 Long-COVID-Betroffenen zusammen und fand unter LDN Verbesserungen bei Schmerzen, Fatigue, Brain Fog und Schlaf. Da keine der vier Studien eine Placebokontrollgruppe hatte, bleibt die Aussagesicherheit gering und Placeboeffekte lassen sich nicht ausschließen.
+  detail: Eine systematische Übersichtsarbeit wertete vier beobachtende Vorher-Nachher-Studien mit insgesamt 155 Patientinnen und Patienten aus und fand unter LDN moderate Verbesserungen bei Fatigue, Brain Fog und Schlafqualität sowie deutliche Verbesserungen bei Schmerzen und Alltagsfunktion. Dies stellt die erste gebündelte klinische Datenbasis für LDN im postviralen Kontext dar und stützt patientenberichtete Besserungen als Anlass für weitere Prüfungen. Die Evidenzsicherheit bleibt jedoch niedrig, da alle eingeschlossenen Studien keine Kontroll- oder Placebogruppe hatten. Folglich kann die Übersichtsarbeit nicht beweisen, dass die beobachteten Besserungen durch LDN verursacht wurden und nicht auf den natürlichen Krankheitsverlauf, eine Regression zur Mitte oder einen Placeboeffekt zurückgehen. Sie unterstreicht den dringenden Bedarf an großen, placebokontrollierten randomisierten Studien, von denen drei als laufend vermerkt wurden.

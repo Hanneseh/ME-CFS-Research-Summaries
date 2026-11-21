@@ -1,0 +1,9 @@
+:root { color-scheme: light dark; }
+body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #faf9f5; color: #1c2120;
+  font: 17px/1.6 "Inter", ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+@media (prefers-color-scheme: dark) { body { background: #121618; color: #e7eceb; } a { color: #5dc2b2 !important; border-color: #283136 !important; } }
+.redirect { text-align: center; padding: 2rem; }
+.redirect-brand { font-family: ui-serif, "Iowan Old Style", Charter, Georgia, serif; font-size: 1.35rem; margin: 0 0 .25rem; }
+.redirect-links { display: flex; gap: .75rem; justify-content: center; }
+.redirect-links a { display: inline-flex; align-items: center; min-height: 44px; padding: 0 1.25rem; border: 1px solid #e6e2d8;
+  border-radius: 999px; color: #1d6f63; text-decoration: none; font-weight: 600; }

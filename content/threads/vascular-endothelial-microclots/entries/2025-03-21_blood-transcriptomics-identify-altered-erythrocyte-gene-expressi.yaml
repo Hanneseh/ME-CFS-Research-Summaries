@@ -1,0 +1,18 @@
+id: 2025-03-21_blood-transcriptomics-identify-altered-erythrocyte-gene-expressi
+date: '2025-03-21'
+date_display: '2025-03-21'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Karisola et al. 2025, Frontiers in Immunology
+  url: https://doi.org/10.3389/fimmu.2025.1500997
+  kind: paper
+en:
+  title: Blood transcriptomics identify altered erythrocyte gene expression in male subgroup
+  plain_summary: A blood gene-activity study in 54 people found no sweeping change overall, but spotted a distinct oxygen-transport gene pattern in a male Long COVID subgroup. It does not prove this pattern causes fatigue or explain why it appeared mainly in men.
+  detail: A transcriptomic study of peripheral blood cells from 54 Post-COVID Condition (PCC) patients and controls revealed that persistent symptoms are generally not reflected by major shifts in global blood gene expression. However, subgroup analysis identified a distinct male cohort showing significant changes in 399 genes and an increased proportion of immature red blood cells (erythroblasts) in circulation. These altered genes are primarily involved in heme metabolism and red blood cell gas exchange processes. This finding points to oxygen transport and erythrocyte health as a patient-specific disease driver, reinforcing the biological heterogeneity of post-infectious conditions. The study does not prove that these transcriptomic alterations directly cause symptoms of fatigue or exercise intolerance, nor does it clarify why this signature is limited to male patients.
+de:
+  title: Blut-Transkriptomik identifiziert veränderte Erythrozyten-Genexpression in männlicher Untergruppe
+  plain_summary: Eine Genaktivitätsstudie im Blut von 54 Personen fand insgesamt kein einheitliches Muster, entdeckte aber bei Männern mit Long COVID veränderte Gene für den Sauerstofftransport. Ob das die Beschwerden auslöst, ist damit noch nicht bewiesen.
+  detail: Eine Transkriptomik-Studie an peripheren Blutzellen von 54 Personen mit Post-COVID-Syndrom (PCC) und Kontrollpersonen zeigte, dass anhaltende Beschwerden im Allgemeinen nicht mit großen Verschiebungen der gesamten Genexpression im Blut einhergehen. Eine Subgruppenanalyse identifizierte jedoch eine männliche Untergruppe mit deutlichen Veränderungen bei 399 Genen und einem erhöhten Anteil unreifer roter Blutkörperchen (Erythroblasten) im Blutkreislauf. Diese veränderten Gene betreffen vor allem den Häm-Stoffwechsel und den Gasaustausch roter Blutkörperchen. Der Befund lenkt den Blick auf Sauerstofftransport und Erythrozyten-Gesundheit als möglichen untergruppenspezifischen Krankheitsfaktor und unterstreicht die biologische Vielfalt postinfektiöser Syndrome. Die Studie beweist nicht, dass diese Transkriptom-Veränderungen direkt Fatigue oder Belastungsintoleranz verursachen, und klärt nicht, warum diese Signatur auf männliche Patienten beschränkt war.

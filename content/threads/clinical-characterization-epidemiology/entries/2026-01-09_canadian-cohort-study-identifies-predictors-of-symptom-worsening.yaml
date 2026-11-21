@@ -1,0 +1,19 @@
+id: 2026-01-09_canadian-cohort-study-identifies-predictors-of-symptom-worsening
+date: '2026-01-09'
+date_display: '2026-01-09'
+date_precision: exact
+source_type: preprint
+study_design: Cohort study
+sources:
+- label: Beidari et al. 2026, medRxiv
+  url: https://doi.org/10.1101/2026.01.06.26343459
+  kind: preprint
+en:
+  title: Canadian cohort study identifies predictors of symptom worsening after vaccination in Long COVID
+  plain_summary: In a Canadian preprint of 476 Long COVID patients, nearly 29% reported symptom worsening after a COVID-19 vaccine dose, more often with Moderna or a lingering cough. Because the data are self-reported with no unvaccinated comparison group, it cannot show how often worsening lasts or prove causation.
+  detail: 'A multicenter cohort study of 476 Long COVID patients from 33 Canadian emergency departments found that 28.8 percent reported symptom deterioration after receiving a SARS-CoV-2 vaccine dose more than 90 days after initial infection. Two factors were significantly associated with this pattern: receiving the Moderna mRNA-1273 vaccine and having a persistent cough three months after initial infection. Sex and age were not significant predictors. The study is relevant to clinical characterization because it identifies a clinically recognized subgroup experience—post-vaccination symptom worsening—and attaches it to measurable pre-vaccination characteristics, which matters for patient counselling and for understanding how immune activation interacts with ongoing post-viral illness. Limitations include self-reported symptom data, absence of a non-vaccinated control arm, and the inability to assess whether reported deterioration was temporary or persistent.'
+de:
+  title: Kanadische Kohortenstudie identifiziert Prädiktoren für Symptomverschlechterung nach Impfung bei Long COVID
+  plain_summary: In einem kanadischen Preprint mit 476 Long-COVID-Betroffenen berichteten knapp 29 % über eine Symptomverschlechterung nach einer weiteren COVID-19-Impfung, häufiger nach Moderna oder bei anhaltendem Husten. Da die Angaben auf Selbstberichten ohne ungeimpfte Kontrollgruppe beruhen, bleibt offen, ob dies vorübergehend war oder ursächlich zusammenhängt.
+  detail: 'Eine multizentrische Kohortenstudie mit 476 Long-COVID-Patientinnen und -Patienten aus 33 kanadischen Notaufnahmen ergab, dass 28,8 Prozent über eine Verschlechterung ihrer Beschwerden berichteten, nachdem sie mehr als 90 Tage nach der Erstinfektion eine SARS-CoV-2-Impfdosis erhalten hatten. Zwei Faktoren waren signifikant mit diesem Muster verknüpft: der Erhalt des Impfstoffs mRNA-1273 von Moderna sowie ein drei Monate nach der Erstinfektion fortbestehender Husten. Geschlecht und Alter waren keine signifikanten Prädiktoren. Für die klinische Charakterisierung ist die Studie relevant, weil sie eine in der Praxis bekannte Erfahrung – Symptomverschlechterung nach Impfung – aufgreift und messbaren Merkmalen vor der Impfung zuordnet, was für Aufklärung und das Verständnis von Immunaktivierung bei fortbestehender postviraler Erkrankung bedeutsam ist. Einschränkungen sind selbstberichtete Symptomdaten, das Fehlen einer ungeimpften Kontrollgruppe sowie die Unmöglichkeit zu prüfen, ob
+    die Verschlechterung vorübergehend oder dauerhaft war.'

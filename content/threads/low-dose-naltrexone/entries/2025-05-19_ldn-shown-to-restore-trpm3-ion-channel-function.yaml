@@ -1,0 +1,18 @@
+id: 2025-05-19_ldn-shown-to-restore-trpm3-ion-channel-function
+date: '2025-05-19'
+date_display: '2025-05-19'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Sasso et al. 2025, Frontiers in Molecular Biosciences
+  url: https://doi.org/10.3389/fmolb.2025.1582967
+  kind: paper
+en:
+  title: LDN shown to restore TRPM3 ion channel function in Long COVID NK cells
+  plain_summary: A laboratory study found that immune cells from Long COVID patients taking low-dose naltrexone (LDN) showed normal TRPM3 calcium-channel activity, unlike untreated patients' cells. While this points to a measurable biological effect in cells, it does not prove that LDN improves symptoms in randomized human trials.
+  detail: An electrophysiological laboratory study demonstrated that long COVID patients treated with LDN (3–4.5 mg/day) had restored TRPM3 ion channel function in their natural killer (NK) cells, making their channel currents indistinguishable from those of healthy controls, whereas untreated patients showed significant channel dysfunction. This finding provides a direct, measurable cellular mechanism explaining how LDN might reverse a core biological abnormality (impaired calcium entry) common to both long COVID and ME/CFS. However, while this validates a specific biological target for LDN, it does not prove that the treatment is clinically effective in a randomized controlled setting. Additionally, the study does not establish whether restoring NK cell TRPM3 currents translates directly to systemic symptom relief or improved daily functioning for patients.
+de:
+  title: LDN stellt Funktion des TRPM3-Ionenkanals in Long-COVID-NK-Zellen wieder her
+  plain_summary: Eine Laborstudie zeigte, dass Immunzellen von Long-COVID-Betroffenen unter niedrigdosiertem Naltrexon (LDN) eine normale TRPM3-Kalziumkanalfunktion aufwiesen, anders als Zellen unbehandelter Patientinnen und Patienten. Dies belegt zwar einen messbaren zellulären Effekt, beweist aber noch keine klinische Symptomlinderung in randomisierten Studien.
+  detail: Eine elektrophysiologische Laborstudie zeigte, dass Long-COVID-Patientinnen und -Patienten unter Behandlung mit LDN (3–4,5 mg/Tag) eine wiederhergestellte TRPM3-Ionenkanalfunktion in ihren natürlichen Killerzellen (NK-Zellen) aufwiesen, sodass sich deren Kanalströme nicht mehr von denen gesunder Kontrollen unterschieden, während unbehandelte Betroffene eine deutliche Kanalfehlfunktion zeigten. Dieser Befund liefert einen direkten, messbaren zellulären Mechanismus dafür, wie LDN eine zentrale biologische Auffälligkeit (gestörten Kalziumeinstrom) ausgleichen könnte, die sowohl bei Long COVID als auch bei ME/CFS vorkommt. Obwohl damit ein konkretes biologisches Ziel für LDN bestätigt wird, beweist die Arbeit noch keine klinische Wirksamkeit in einem randomisierten kontrollierten Setting. Zudem zeigt sie nicht, ob die Normalisierung der TRPM3-Ströme in NK-Zellen unmittelbar zu systemischer Symptomlinderung oder besserer Alltagsfunktion führt.

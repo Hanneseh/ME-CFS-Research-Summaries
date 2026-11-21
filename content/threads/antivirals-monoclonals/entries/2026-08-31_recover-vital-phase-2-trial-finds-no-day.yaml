@@ -1,0 +1,19 @@
+id: 2026-08-31_recover-vital-phase-2-trial-finds-no-day
+date: '2026-08-31'
+date_display: '2026-08-31'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Baden et al. 2026, The Lancet Infectious Diseases
+  url: https://doi.org/10.1016/S1473-3099(26)00406-8
+  kind: paper
+en:
+  title: RECOVER-VITAL phase 2 trial finds no day-90 benefit from 15 or 25 days of Paxlovid
+  plain_summary: In a large placebo-controlled US trial of 959 adults with Long COVID, taking the antiviral Paxlovid for 15 or 25 days did not improve cognitive, autonomic, or exertion-intolerance symptoms at day 90. This argues against short courses of Paxlovid alone for unselected Long COVID patients, and it does not test ME/CFS directly or include many homebound or bedbound participants.
+  detail: The multicentre, double-blind, placebo-controlled RECOVER-VITAL phase 2 trial randomized 959 adults with established Long COVID at 69 US centres to 15 or 25 days of nirmatrelvir-ritonavir or matched placebo. Neither duration improved prespecified cognitive, autonomic, or exercise-intolerance/PEM phenotypes at day 90; serious adverse events were balanced at about 4% in the available summary. The oral intervention was comparatively low burden, but repeated site visits and medication interactions still matter. The cohort did not adequately represent homebound or bedbound patients. This negative result argues against unselected short-course antiviral monotherapy for established Long COVID, while leaving biomarker-selected, longer, or combination strategies unresolved; it is not direct ME/CFS treatment evidence.
+de:
+  title: RECOVER-VITAL-Phase-2-Studie findet keinen Nutzen nach 90 Tagen durch 15 oder 25 Tage Paxlovid
+  plain_summary: In einer großen placebokontrollierten US-Studie mit 959 Erwachsenen mit Long COVID brachte eine 15- oder 25-tägige Einnahme des antiviralen Mittels Paxlovid nach 90 Tagen keine Besserung bei kognitiven, autonomen oder Belastungs-Beschwerden. Das spricht gegen eine unselektierte Kurzzeit-Monotherapie mit Paxlovid bei Long COVID; direkte Evidenz für ME/CFS oder schwer betroffene Bettlägerige liefert die Studie nicht.
+  detail: Die multizentrische, doppelt verblindete, placebokontrollierte Phase-2-Studie RECOVER-VITAL randomisierte 959 Erwachsene mit bestehendem Long COVID an 69 US-Zentren auf 15 oder 25 Tage Nirmatrelvir-Ritonavir oder ein entsprechendes Placebo. Keine der beiden Behandlungsdauern verbesserte die vorab festgelegten kognitiven, autonomen oder Belastungsintoleranz-/PEM-Phänotypen an Tag 90; schwere unerwünschte Ereignisse waren in der vorliegenden Auswertung mit rund 4 % ausgeglichen verteilt. Die orale Einnahme war vergleichsweise wenig belastend, dennoch bleiben wiederholte Studienvisiten und Arzneimittelwechselwirkungen relevant. Hausgebundene oder bettlägerige Patientinnen und Patienten waren in der Kohorte nicht angemessen vertreten. Dieses negative Ergebnis spricht gegen eine unselektierte kurzzeitige antivirale Monotherapie bei etabliertem Long COVID, lässt aber biomarkergesteuerte, längere oder kombinierte Strategien offen und stellt keine direkte Behandlungsevidenz für ME/CFS
+    dar.

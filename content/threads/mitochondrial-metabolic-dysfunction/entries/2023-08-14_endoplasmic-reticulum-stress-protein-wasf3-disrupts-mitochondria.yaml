@@ -1,0 +1,26 @@
+id: 2023-08-14_endoplasmic-reticulum-stress-protein-wasf3-disrupts-mitochondria
+date: '2023-08-14'
+date_display: '2023-08-14'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Wang et al. 2023, Proceedings of the National Academy of Sciences (PNAS)
+  url: https://doi.org/10.1073/pnas.2302738120
+  kind: paper
+en:
+  title: Endoplasmic reticulum stress protein WASF3 disrupts mitochondrial respiration
+  plain_summary: Experiments in patient muscle biopsies, mice, and cell cultures found that cell stress raises levels of a protein called WASF3, which blocks mitochondrial energy complexes. Blocking that stress restored cell energy in the lab, though human trials are still needed.
+  detail: '- **What changed:** A mechanistic study using patient skeletal muscle biopsies, transgenic mice, and cell lines demonstrated that endoplasmic reticulum (ER) stress induces the protein WASF3, which physically interferes with the assembly of mitochondrial Complex III and IV supercomplexes.
+
+    - **Why it matters:** This identifies a specific molecular pathway ("ER stress response failure") driving exercise intolerance and muscle energy failure, and demonstrates that reducing ER stress with chemical chaperones can restore normal mitochondrial respiration in vitro.
+
+    - **What it does not prove yet:** The upstream trigger that initiates the chronic ER stress response in ME/CFS patients remains unknown, and the safety and clinical efficacy of ER stress inhibitors like Salubrinal or TUDCA have not been tested in human trials.'
+de:
+  title: ER-Stressprotein WASF3 stört die mitochondriale Atmung
+  plain_summary: Untersuchungen an Muskelbiopsien, Mäusen und Zellkulturen zeigten, dass zellulärer Stress das Protein WASF3 hochfährt, das Energiekomplexe in Mitochondrien blockiert. Eine Stresshemmung stellte die Zellatmung im Labor wieder her, wurde aber beim Menschen noch nicht geprüft.
+  detail: '- **Was sich gezeigt hat:** Eine mechanistische Studie an Skelettmuskelbiopsien von Patientinnen und Patienten, transgenen Mäusen und Zelllinien zeigte, dass Stress des endoplasmatischen Retikulums (ER-Stress) das Protein WASF3 induziert, das den Aufbau der mitochondrialen Superkomplexe III und IV physisch stört.
+
+    - **Warum das wichtig ist:** Dies benennt einen konkreten molekularen Signalweg („Versagen der ER-Stress-Antwort“) als Treiber von Belastungsintoleranz und Muskelenergieverlust und zeigt, dass chemische Chaperone die normale Mitochondrienatmung in vitro wiederherstellen können.
+
+    - **Was damit noch nicht belegt ist:** Der vorgelagerte Auslöser für den chronischen ER-Stress bei ME/CFS-Betroffenen bleibt unbekannt, und Sicherheit sowie klinische Wirksamkeit von ER-Stress-Hemmern wie Salubrinal oder TUDCA wurden noch nicht in Humanstudien geprüft.'

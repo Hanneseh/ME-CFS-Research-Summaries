@@ -1,0 +1,18 @@
+id: 2025-12-15_resting-substrate-use-links-inefficient-energy-consumption-to
+date: '2025-12-15'
+date_display: '2025-12-15'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Tamariz et al. 2025, Research Square
+  url: https://doi.org/10.21203/rs.3.rs-8072121/v1
+  kind: preprint
+en:
+  title: Resting substrate use links inefficient energy consumption to PEM in Long COVID
+  plain_summary: A preprint found that many Long COVID patients burn carbohydrates heavily even while resting, and that this pattern tracks with severe fatigue and PEM. Because it was measured at a single timepoint, it cannot tell whether this energy inefficiency causes PEM or results from the illness.
+  detail: This preprint found that many Long COVID patients rely disproportionately on carbohydrate metabolism even at rest, and that this pattern tracks with severe fatigue and PEM. The change is important because it points to metabolic inflexibility rather than heart-rate or peak-VO2 abnormalities alone. That favors a cellular energy model of exertional intolerance and suggests value in resting and submaximal metabolic phenotyping. The study remains cross-sectional, so it cannot show whether the substrate shift causes PEM or follows from illness burden.
+de:
+  title: Substratnutzung in Ruhe verknüpft ineffiziente Energieverwertung mit PEM bei Long COVID
+  plain_summary: Ein Preprint fand bei vielen Long-COVID-Betroffenen bereits in Ruhe einen übermäßigen Kohlenhydratverbrauch, der mit schwerer Fatigue und PEM zusammenhing. Da es sich um eine Querschnittsmessung handelt, bleibt offen, ob diese Stoffwechselverschiebung PEM auslöst oder eine Folge der Erkrankung ist.
+  detail: Dieser Preprint berichtete, dass viele Long-COVID-Patientinnen und -Patienten selbst in Ruhe überproportional auf Kohlenhydrat-Stoffwechsel zurückgreifen und dass dieses Muster mit schwerer Fatigue und PEM einhergeht. Die Beobachtung ist bedeutsam, weil sie auf metabolische Inflexibilität hinweist statt allein auf Auffälligkeiten von Herzfrequenz oder maximaler Sauerstoffaufnahme. Das spricht für ein zelluläres Energiemodell der Belastungsintoleranz und legt den Nutzen einer metabolischen Phänotypisierung in Ruhe und unter submaximaler Belastung nahe. Da die Studie weiterhin als Querschnittsuntersuchung vorliegt, kann sie nicht klären, ob die Substratverschiebung PEM verursacht oder aus der Krankheitslast folgt.

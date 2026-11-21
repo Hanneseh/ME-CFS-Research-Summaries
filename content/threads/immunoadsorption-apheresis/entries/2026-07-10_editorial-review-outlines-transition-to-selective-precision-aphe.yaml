@@ -1,0 +1,20 @@
+id: 2026-07-10_editorial-review-outlines-transition-to-selective-precision-aphe
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Guest Editorial 2026, Transfusion and Apheresis Science
+  url: https://www.sciencedirect.com/science/article/pii/S1473050226001126
+  kind: paper
+en:
+  title: Editorial review outlines transition to selective precision apheresis
+  plain_summary: An editorial review discussed newer blood-filtering columns designed to remove only targeted antibodies or lipids while sparing healthy blood proteins. This is a general overview with no new patient data, and clear rules or proof for using such selective filters in ME/CFS or Long COVID do not exist yet.
+  detail: A guest editorial review in *Transfusion and Apheresis Science* described the ongoing clinical transition of therapeutic apheresis from broad, non-selective plasma exchange toward targeted 'precision apheresis' methodologies. This evolution involves using selective column technologies (such as the MTx.100) designed to isolate and remove specific pathological drivers—including autoantibodies, lipids, and cytokines—while preserving essential plasma proteins. The review coincided with the publication of the American Society for Apheresis (ASFA) Ninth Edition guidelines in the *Journal of Clinical Apheresis* Special Issue, which updates evidence-based fact sheets for 166 indications. Transitioning to selective adsorbers could reduce treatment side effects and improve therapeutic safety compared to non-selective methods. However, this editorial is a general review and does not present new primary clinical trial data or patient outcomes. Additionally, specific protocols and selection
+    criteria for precision apheresis in complex conditions like ME/CFS and Long COVID are not yet established.
+de:
+  title: Editorial-Übersicht skizziert Übergang zur selektiven „Präzisions-Apherese“
+  plain_summary: Ein Fachkommentar beschreibt neuere Blutfilter-Säulen, die gezielt nur bestimmte Antikörper oder Lipide entfernen und gesunde Plasmaproteine schonen sollen. Der Beitrag enthält keine neuen Patientendaten; klare Protokolle oder Wirksamkeitsbelege für ME/CFS oder Long COVID liegen bislang nicht vor.
+  detail: Ein Gast-Editorial in *Transfusion and Apheresis Science* beschrieb den laufenden klinischen Übergang der therapeutischen Apherese vom breiten, unselektiven Plasmaaustausch hin zu gezielten Verfahren der „Präzisions-Apherese“. Diese Entwicklung nutzt selektive Säulentechnologien (wie MTx.100), die spezifische pathogene Treiber – darunter Autoantikörper, Lipide und Zytokine – gezielt herausfiltern und dabei lebenswichtige Plasmaproteine erhalten sollen. Der Beitrag erschien zeitgleich mit den Leitlinien der American Society for Apheresis (ASFA, 9. Auflage) im Sonderheft des *Journal of Clinical Apheresis*, das evidenzbasierte Steckbriefe für 166 Indikationen aktualisiert. Der Wechsel zu selektiven Adsorbern könnte Nebenwirkungen verringern und die Sicherheit gegenüber unselektiven Verfahren erhöhen. Es handelt sich jedoch um eine allgemeine Übersichtsarbeit ohne neue primäre Studiendaten oder Patientenergebnisse; zudem sind spezifische Protokolle und Auswahlkriterien für die Präzisions-Apherese
+    bei komplexen Erkrankungen wie ME/CFS und Long COVID noch nicht etabliert.

@@ -1,0 +1,20 @@
+id: 2025-12-12_case-control-study-maps-bacterial-dysbiosis-and-scfa
+date: '2025-12-12'
+date_display: '2025-12-12'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Cheng et al. 2025, Scientific Reports
+  url: https://doi.org/10.1038/s41598-025-27564-y
+  kind: paper
+en:
+  title: Case-control study maps bacterial dysbiosis and SCFA depletion to fatigue severity
+  plain_summary: Comparing 40 ME/CFS patients with 40 healthy people, researchers found fewer beneficial gut bacteria and lower levels of short-chain fatty acids in stool, which tracked with worse fatigue. Because this was a single-timepoint comparison, it cannot prove whether these gut changes drive the illness or result from it, nor has fiber supplementation been tested here as a treatment.
+  detail: A matched case-control study by Cheng et al. enrolled 40 ME/CFS patients and 40 healthy controls, using 16S rRNA sequencing to characterise gut bacterial composition and GC-MS to quantify six short-chain fatty acids in stool. Patients showed significantly lower alpha diversity and a consistent reduction in _Rikenellaceae_ and _Ruminococcaceae_—families associated with SCFA production—alongside significantly depressed concentrations of acetate, butyrate, isobutyrate, and isovalerate; lower SCFA levels correlated directly with higher FSS and FS-14 fatigue scores and lower quality-of-life ratings. Participants consuming higher dietary fibre had measurably higher acetate and isovalerate, raising the hypothesis that fibre supplementation could partially restore the SCFA deficit. The cross-sectional design means the study cannot determine whether SCFA depletion initiates or amplifies disease, and interventional trials to test dietary or probiotic correction of this deficit have not yet
+    been conducted.
+de:
+  title: Fall-Kontroll-Studie verknüpft bakterielle Dysbiose und SCFA-Mangel mit dem Schweregrad der Fatigue
+  plain_summary: Beim Vergleich von 40 ME/CFS-Betroffenen und 40 gesunden Kontrollen fanden sich im Stuhl weniger nützliche Darmbakterien und niedrigere Spiegel kurzkettiger Fettsäuren, was mit stärkerer Fatigue zusammenhing. Da die Studie nur eine Momentaufnahme darstellt, kann sie nicht klären, ob diese Darmveränderungen die Erkrankung antreiben oder deren Folge sind; auch eine Ballaststoff-Therapie wurde hier nicht getestet.
+  detail: Eine gematchte Fall-Kontroll-Studie von Cheng et al. schloss 40 ME/CFS-Patientinnen und -Patienten sowie 40 gesunde Kontrollen ein und nutzte 16S-rRNA-Sequenzierung zur Charakterisierung der Darmbakterien sowie GC-MS zur Quantifizierung von sechs kurzkettigen Fettsäuren (SCFA) im Stuhl. Betroffene zeigten eine signifikant geringere Alpha-Diversität und eine konsistente Abnahme von _Rikenellaceae_ und _Ruminococcaceae_ – Bakterienfamilien, die mit der SCFA-Produktion verknüpft sind – bei zugleich deutlich erniedrigten Konzentrationen von Acetat, Butyrat, Isobutyrat und Isovalerat; niedrigere SCFA-Spiegel korrelierten direkt mit höheren FSS- und FS-14-Fatigue-Werten sowie geringerer Lebensqualität. Teilnehmende mit höherer Ballaststoffaufnahme wiesen messbar höhere Acetat- und Isovalerat-Werte auf, was die Hypothese aufwirft, dass eine Ballaststoff-Supplementierung das SCFA-Defizit teilweise ausgleichen könnte. Aufgrund des Querschnittsdesigns kann die Studie nicht klären, ob der
+    SCFA-Mangel die Erkrankung auslöst oder verstärkt, und Interventionsstudien zur Prüfung einer diätetischen oder probiotischen Korrektur wurden noch nicht durchgeführt.

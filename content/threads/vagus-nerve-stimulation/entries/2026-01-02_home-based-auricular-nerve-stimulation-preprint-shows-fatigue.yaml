@@ -1,0 +1,20 @@
+id: 2026-01-02_home-based-auricular-nerve-stimulation-preprint-shows-fatigue
+date: '2026-01-02'
+date_display: '2026-01-02'
+date_precision: exact
+source_type: preprint
+study_design: RCT
+sources:
+- label: Germann et al. 2026, medRxiv
+  url: http://medrxiv.org/content/early/2026/01/02/2025.12.30.25343085
+  kind: preprint
+en:
+  title: Home-based auricular nerve stimulation preprint shows fatigue reduction in adherent participants
+  plain_summary: A preprint trial of 114 people with post-COVID fatigue reported fatigue and muscle-endurance gains from ear vagus-nerve stimulation, but only among those who used the device at least an hour every day. Because this paper has not yet been peer-reviewed and relied on a compliant subgroup, bias from dropouts cannot be ruled out.
+  detail: A randomized, single-blinded crossover trial (PAuSing-pCF) involving 114 participants evaluated 16 weeks of daily home-based transcutaneous auricular vagus nerve stimulation (taVNS) for post-COVID fatigue. Active stimulation at the tragus led to a significant 11.9-point improvement in subjective fatigue scores compared to the control group, but only among participants who adhered to the protocol for at least one hour daily. The active intervention also led to objective improvements in peripheral muscle fatigue, normalized autonomic function, and normalized cortical excitability. These findings connect subjective fatigue improvements with objective physiological markers, supporting autonomic and motor system regulation as central mechanisms. However, because this work was released as a preprint, it has not yet undergone official peer review to validate the results. The high rate of non-adherence also limits the strength of the evidence, as the primary efficacy was restricted to
+    a compliant subset which may introduce selection bias.
+de:
+  title: Preprint zu häuslicher Ohr-Nervenstimulation zeigt Fatigue-Rückgang bei therapietreuen Teilnehmenden
+  plain_summary: Eine Preprint-Studie mit 114 Personen mit Post-COVID-Fatigue berichtete Besserungen bei Fatigue und Muskelausdauer durch Ohr-Vagusnerv-Stimulation – allerdings nur bei jenen, die das Gerät mindestens eine Stunde täglich nutzten. Da die Arbeit noch nicht begutachtet ist und das Hauptergebnis auf dieser besonders therapietreuen Untergruppe beruht, sind Verzerrungen durch Abbrüche nicht auszuschließen.
+  detail: Eine randomisierte, einfach verblindete Crossover-Studie (PAuSing-pCF) mit 114 Teilnehmenden prüfte 16 Wochen lang eine tägliche häusliche transkutane aurikuläre Vagusnerv-Stimulation (taVNS) bei Post-COVID-Fatigue. Die aktive Stimulation am Tragus führte im Vergleich zur Kontrollgruppe zu einer signifikanten Verbesserung der subjektiven Fatigue-Scores um 11,9 Punkte – allerdings nur bei Teilnehmenden, die das Protokoll mindestens eine Stunde täglich einhielten. Die aktive Intervention führte zudem zu objektiven Verbesserungen der peripheren Muskelermüdung sowie zu einer Normalisierung der autonomen Funktion und der kortikalen Erregbarkeit. Diese Ergebnisse verknüpfen subjektive Fatigue-Verbesserungen mit objektiven physiologischen Markern und stützen die Regulation von autonomem Nervensystem und Motorik als zentrale Mechanismen. Da die Arbeit jedoch als Preprint veröffentlicht wurde, hat sie noch kein offizielles Peer-Review durchlaufen. Zudem schränkt die hohe Nicht-Adhärenzrate
+    die Aussagekraft ein, da die primäre Wirksamkeit auf eine therapietreue Teilgruppe beschränkt war, was zu Selektionsbias führen kann.

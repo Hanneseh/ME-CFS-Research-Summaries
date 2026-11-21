@@ -1,0 +1,20 @@
+id: 2026-10-13_routine-laboratory-values-do-not-track-long-covid
+date: '2026-10-13'
+date_display: '2026-10-13'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: Oberhauser et al. 2026, Clinical Chemistry and Laboratory Medicine
+  url: https://doi.org/10.1515/cclm-2026-1238
+  kind: paper
+en:
+  title: Routine laboratory values do not track Long COVID phenotype or prognosis in a 564-patient cohort
+  plain_summary: Across 1,452 clinic visits from 564 Long COVID patients, 89 standard routine blood tests reflected age rather than symptom patterns and could not predict who improved. Normal routine lab results therefore do not argue against post-infectious illness, though specialized research markers were not tested here.
+  detail: In a single-center observational cohort study published in *Clinical Chemistry and Laboratory Medicine*, Oberhauser, Haslacher, and colleagues evaluated 89 routine laboratory analytes across 1,452 visits from 564 Long COVID patients grouped into latent-class symptom phenotypes. Unsupervised clustering of routine laboratory data revealed no convincing structure, with the weak clustering that did emerge tracking patient age rather than clinical presentation, and none of the 89 analytes differed significantly across the age-independent symptom phenotypes. Furthermore, while overall symptom burden declined over longitudinal follow-up, baseline routine laboratory analytes failed to predict clinical improvement (AUC approximately 0.46). Normal routine laboratory panels should therefore not be interpreted as evidence against biological illness, because these analytes did not track illness phenotype in this cohort; the study did not assess specialised immune, endothelial, or metabolic
+    markers. Limitations include a single-center Long COVID cohort without ME/CFS case criteria or post-exertional malaise stratification, outpatient clinic recruitment that underrepresents housebound or bedbound individuals, and limited methodological detail in the available abstract; see [Clinical Characterization & Epidemiology](thread:clinical-characterization-epidemiology).
+de:
+  title: Routinelaborwerte bilden Long-COVID-Phänotyp oder Prognose in einer 564-Patienten-Kohorte nicht ab
+  plain_summary: Bei 1.452 Klinikbesuchen von 564 Long-COVID-Betroffenen spiegelten 89 Standard-Blutwerte eher das Alter als die Beschwerdemuster wider und sagten keine Besserung voraus. Unauffällige Routinewerte sprechen daher nicht gegen eine postinfektiöse Erkrankung – spezialisierte Forschungsmarker wurden hier jedoch nicht geprüft.
+  detail: In einer monozentrischen Beobachtungsstudie in *Clinical Chemistry and Laboratory Medicine* werteten Oberhauser, Haslacher und Kolleginnen 89 Routinelabor-Analyte über 1.452 Visiten von 564 Long-COVID-Patientinnen und -Patienten aus, die anhand latenter Klassen in Symptom-Phänotypen eingeteilt waren. Unüberwachtes Clustering der Routinelabordaten zeigte keine überzeugende Struktur; die schwachen Gruppierungen folgten dem Patientenalter statt dem klinischen Bild, und keiner der 89 Analyte unterschied sich signifikant zwischen den altersunabhängigen Symptom-Phänotypen. Zudem sagten Ausgangs-Routinewerte trotz rückläufiger Gesamtbeschwerden in der Längsschnitt-Nachbeobachtung keine klinische Besserung voraus (AUC etwa 0,46). Normale Routinelabor-Panels sollten daher nicht als Beleg gegen eine biologische Erkrankung gewertet werden, da diese Werte den Krankheitsphänotyp in dieser Kohorte nicht abbildeten; spezialisierte Immun-, Endothel- oder Stoffwechselmarker wurden nicht untersucht.
+    Einschränkungen sind eine monozentrische Long-COVID-Kohorte ohne ME/CFS-Fallkriterien oder PEM-Stratifizierung, ambulante Rekrutierung mit Unterrepräsentation hausgebundener oder bettlägeriger Personen sowie begrenzte methodische Angaben im verfügbaren Abstract; siehe [Klinische Charakterisierung & Epidemiologie](thread:clinical-characterization-epidemiology).

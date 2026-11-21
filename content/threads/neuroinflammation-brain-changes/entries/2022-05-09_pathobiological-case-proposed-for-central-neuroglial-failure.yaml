@@ -1,0 +1,19 @@
+id: 2022-05-09_pathobiological-case-proposed-for-central-neuroglial-failure
+date: '2022-05-09'
+date_display: '2022-05-09'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Renz-Polster et al. 2022, Frontiers in Cellular Neuroscience
+  url: https://doi.org/10.3389/fncel.2022.888232
+  kind: paper
+en:
+  title: Pathobiological case proposed for central neuroglial failure
+  plain_summary: This theoretical review proposes that over-reactive brain support cells disrupt blood flow and autonomic control, connecting immune and vascular findings to cognitive symptoms. It is an explanatory framework guiding research on drugs like low-dose naltrexone, not direct proof in patients.
+  detail: A theoretical review proposed that a chronic, hyper-reactive state of brain support and immune cells—collectively termed neuroglia—could serve as a central pathway linking peripheral immune and vascular abnormalities to core clinical symptoms. The model suggests that primed microglia, astrocytes, and oligodendrocytes disrupt the regulation of cerebral blood flow through neurovascular coupling and impair baroreflex control, thereby explaining both reduced baseline perfusion and post-exertional cognitive relapses. By connecting metabolic, immune, and vascular dysfunction to a central CNS mechanism, this framework guides research toward therapies targeting the neuro-immune interface, such as minocycline, aripiprazole, and low-dose naltrexone. However, direct in vivo confirmation of widespread glial activation and blood-brain barrier disruption in patients remains incomplete.
+de:
+  title: Pathobiologisches Modell für ein zentrales Versagen der Neuroglia vorgeschlagen
+  plain_summary: Eine theoretische Übersichtsarbeit schlägt vor, dass überaktive Stütz- und Immunzellen im Gehirn Durchblutung und autonome Regulation stören und so körperliche Befunde mit kognitiven Beschwerden verbinden. Das Modell dient als Forschungsrahmen für Ansätze wie niedrig dosiertes Naltrexon, ist beim Menschen aber noch nicht direkt belegt.
+  detail: Eine theoretische Übersichtsarbeit schlug vor, dass ein chronisch überreaktiver Zustand der Stütz- und Immunzellen des Gehirns – zusammengefasst als Neuroglia – als zentraler Pfad dienen könnte, der periphere Immun- und Gefäßauffälligkeiten mit den Kernsymptomen verbindet. Das Modell geht davon aus, dass voraktivierte („geprimte“) Mikroglia, Astrozyten und Oligodendrozyten die Regulation der Hirndurchblutung über die neurovaskuläre Kopplung stören und die Baroreflex-Kontrolle beeinträchtigen, was sowohl eine verringerte Ruheperfusion als auch kognitive Rückfälle nach Belastung erklärt. Indem es metabolische, immunologische und vaskuläre Dysfunktion mit einem zentralen ZNS-Mechanismus verknüpft, lenkt dieses Rahmenmodell die Forschung auf Therapien an der neuro-immunen Schnittstelle wie Minocyclin, Aripiprazol und niedrig dosiertes Naltrexon. Ein direkter In-vivo-Nachweis einer flächendeckenden Glia-Aktivierung und Störung der Blut-Hirn-Schranke bei Patientinnen und Patienten ist
+    jedoch noch unvollständig.

@@ -1,0 +1,20 @@
+id: 2026-05-26_study-proposes-irisin-signaling-resistance-and-tsp-1
+date: '2026-05-26'
+date_display: '2026-05-26'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Souma et al. 2026, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms27114770
+  kind: paper
+en:
+  title: Study proposes irisin signaling resistance and TSP-1 antagonism as a molecular mechanism for PEM
+  plain_summary: In 92 ME/CFS patients and 44 controls, researchers found altered levels of the exercise hormone irisin and its blocker TSP-1 after a mild stress test, proposing that 'irisin resistance' blunts healthy metabolic recovery. This offers a new biological clue for PEM, though it needs independent replication and does not yet translate into treatment.
+  detail: A clinical and in vitro study of 92 ME/CFS patients (Canadian Consensus Criteria) and 44 sedentary controls investigated the exercise-induced myokine irisin and its antagonist, thrombospondin-1 (TSP-1). ME/CFS patients demonstrated significantly lower baseline irisin levels and a blunted irisin release following a standardized 90-minute mechanical stress challenge designed to induce PEM. Paradoxically, patients with moderate-to-severe fatigue showed elevated levels of both irisin and TSP-1, and multivariable regression identified baseline irisin as an independent predictor of fatigue severity. Real-time cell signaling assays in Jurkat cells demonstrated that TSP-1 inhibits irisin bioactivity in a concentration-dependent manner, and that irisin signaling is dependent on the chaperone HSP90α and the integrin αvβ5. These findings suggest that a state of "irisin resistance" prevents normal metabolic adaptation to exertion, offering a biological explanation for post-exertional recovery
+    failure.
+de:
+  title: Studie schlägt Irisin-Signalresistenz und TSP-1-Antagonismus als molekularen PEM-Mechanismus vor
+  plain_summary: Bei 92 ME/CFS-Betroffenen und 44 Kontrollen fanden Forschende nach einer milden Stressprovokation veränderte Spiegel des Belastungshormons Irisin und seines Gegenspielers TSP-1 und vermuten eine „Irisin-Resistenz“ als Bremse der Erholung. Das liefert einen neuen biologischen Ansatzpunkt für PEM, muss aber erst unabhängig bestätigt werden und begründet noch keine Therapie.
+  detail: Eine klinische und In-vitro-Studie mit 92 ME/CFS-Patientinnen und -Patienten (nach Kanadischen Konsenskriterien) und 44 wenig aktiven Kontrollen untersuchte das belastungsinduzierte Myokin Irisin sowie seinen Gegenspieler Thrombospondin-1 (TSP-1). ME/CFS-Betroffene zeigten signifikant niedrigere Ausgangswerte von Irisin und eine abgeschwächte Irisin-Freisetzung nach einer standardisierten 90-minütigen mechanischen Stressprovokation zur PEM-Auslösung. Paradoxerweise wiesen Personen mit mittelschwerer bis schwerer Fatigue erhöhte Spiegel sowohl von Irisin als auch von TSP-1 auf, und eine multivariable Regression identifizierte Ausgangs-Irisin als unabhängigen Prädiktor für die Fatigue-Schwere. Zell-Assays zeigten, dass TSP-1 die biologische Aktivität von Irisin konzentrationsabhängig hemmt und die Irisin-Signalweiterleitung vom Chaperon HSP90α sowie dem Integrin αvβ5 abhängt. Diese Befunde legen nahe, dass eine Art „Irisin-Resistenz“ eine normale Stoffwechselanpassung an Belastung
+    verhindert und so eine biologische Erklärung für das Erholungsversagen nach Anstrengung bietet.

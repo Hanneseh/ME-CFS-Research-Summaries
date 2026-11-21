@@ -1,0 +1,20 @@
+id: 2026-02-01_lancet-americas-longitudinal-cohort-maps-symptom-persistence-ove
+date: '2026-02-01'
+date_display: '2026-02-01'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: Jackson et al. 2026, The Lancet Regional Health – Americas
+  url: https://www.sciencedirect.com/science/article/pii/S2666354626000384
+  kind: paper
+en:
+  title: Lancet Americas longitudinal cohort maps symptom persistence over 12 months in US PASC patients
+  plain_summary: A large US study of over 11,000 adults showed that post-COVID fatigue and brain fog often persist or fluctuate over a full year rather than steadily fading. While it tracked broad Long COVID rather than diagnosed ME/CFS, it shows why short follow-ups can miss ongoing illness.
+  detail: 'A national US cohort study using the COPE Initiative, which tracked more than 11,000 adults, reported that fatigue, brain fog, and shortness of breath were not only common after SARS-CoV-2 infection but showed persistent or fluctuating trajectories over 12 months in a substantial proportion of PASC patients. The study found that pre-existing conditions and absence of booster vaccination were associated with longer recovery and higher symptom burden, while vaccination and early antiviral treatment were associated with reduced long-term load. The characterisation of PASC as a condition with fluctuating rather than uniformly declining symptoms over a year is relevant to how clinicians explain the illness trajectory to patients and to how clinical trials define endpoints: a single follow-up point at three or six months may miss the full course. The study does not address ME/CFS diagnostic criteria directly but describes the cohort dynamics that will appear upstream of formal ME/CFS
+    diagnosis in many post-COVID patients.'
+de:
+  title: Längsschnittkohorte in Lancet Americas kartiert Symptompersistenz über 12 Monate bei US-PASC-Betroffenen
+  plain_summary: Eine große US-Studie mit über 11.000 Erwachsenen zeigte, dass Fatigue und Brain Fog nach COVID-19 oft ein ganzes Jahr lang anhalten oder schwanken, statt stetig abzuklingen. Sie untersuchte allgemeines Long COVID und kein diagnostiziertes ME/CFS, verdeutlicht aber, warum kurze Nachbeobachtungszeiten den Verlauf unterschätzen.
+  detail: 'Eine landesweite US-Kohortenstudie im Rahmen der COPE-Initiative, die mehr als 11.000 Erwachsene verfolgte, berichtete, dass Fatigue, Brain Fog und Kurzatmigkeit nach einer SARS-CoV-2-Infektion nicht nur häufig auftraten, sondern bei einem erheblichen Teil der PASC-Betroffenen über 12 Monate hinweg anhaltende oder schwankende Verläufe zeigten. Vorerkrankungen und fehlende Auffrischimpfungen gingen mit längerer Erholung und höherer Symptomlast einher, während Impfungen und frühe antivirale Behandlung mit einer geringeren Langzeitbelastung assoziiert waren. Die Beschreibung von PASC als Zustand mit schwankenden statt gleichmäßig abnehmenden Symptomen über ein Jahr ist wichtig dafür, wie Ärztinnen und Ärzte Betroffenen den Verlauf erklären und wie Studien Endpunkte festlegen: Ein einziger Kontrolltermin nach drei oder sechs Monaten kann den tatsächlichen Verlauf verfehlen. Die Studie untersucht keine ME/CFS-Diagnosekriterien direkt, beschreibt aber die Kohortendynamik, die bei vielen
+    Post-COVID-Betroffenen einer späteren ME/CFS-Diagnose vorausgeht.'

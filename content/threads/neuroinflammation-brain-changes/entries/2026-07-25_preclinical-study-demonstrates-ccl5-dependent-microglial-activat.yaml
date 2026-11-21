@@ -1,0 +1,18 @@
+id: 2026-07-25_preclinical-study-demonstrates-ccl5-dependent-microglial-activat
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Guo et al. 2026, Journal of Advanced Research
+  url: https://www.sciencedirect.com/science/article/pii/S2090123226005977
+  kind: paper
+en:
+  title: Preclinical study demonstrates CCL5-dependent microglial activation driving central neuroinflammation under hypoxia
+  plain_summary: In cell and animal experiments, body-wide inflammation under low-oxygen stress worsened brain-immune activation through a signaling protein called CCL5. This preclinical work points to a possible link between bodily flares and brain symptoms, but has not yet been tested in humans with ME/CFS or Long COVID.
+  detail: A mechanistic study published in the *Journal of Advanced Research* by Guo et al. investigated how systemic peripheral inflammation exacerbates central nervous system inflammation under hypoxic stress. Using cellular and animal models, the researchers demonstrated that peripheral inflammatory signaling drives microglial activation and neuroinflammatory cytokine amplification specifically through a CCL5 chemokine-dependent signaling axis. This elucidates a key biological pathway explaining how peripheral inflammatory triggers, such as post-viral flares, translate into central neuroinflammation and cognitive exhaustion. However, the study relies on preclinical models, and translational validation in human clinical ME/CFS or Long COVID cohorts is necessary before clinical applications can be derived.
+de:
+  title: Präklinische Studie belegt CCL5-abhängige Mikroglia-Aktivierung als Treiber zentraler Neuroinflammation unter Hypoxie
+  plain_summary: In Zell- und Tierversuchen verstärkte eine Körperentzündung unter Sauerstoffmangel die Immunaktivierung im Gehirn gezielt über den Botenstoff CCL5. Diese präklinischen Daten zeigen einen möglichen Mechanismus für Schübe, wurden aber bei Menschen mit ME/CFS oder Long COVID noch nicht bestätigt.
+  detail: Eine im *Journal of Advanced Research* veröffentlichte mechanistische Studie von Guo et al. untersuchte, wie systemische periphere Entzündung unter hypoxischem Stress Entzündungsprozesse im zentralen Nervensystem verstärkt. Mithilfe von Zell- und Tiermodellen zeigten die Forschenden, dass periphere Entzündungssignale die Mikroglia-Aktivierung und eine Verstärkung neuroinflammatorischer Zytokine spezifisch über eine CCL5-Chemokin-abhängige Signalachse antreiben. Dies beleuchtet einen wichtigen biologischen Signalweg, der erklärt, wie periphere Entzündungsauslöser – etwa postvirale Schübe – in zentrale Neuroinflammation und kognitive Erschöpfung übergehen. Die Studie stützt sich jedoch auf präklinische Modelle, und eine translationale Validierung in menschlichen ME/CFS- oder Long-COVID-Kohorten ist nötig, bevor sich klinische Anwendungen ableiten lassen.

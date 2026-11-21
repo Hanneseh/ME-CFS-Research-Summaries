@@ -1,0 +1,20 @@
+id: 2026-06-30_explainable-ensemble-learning-classifies-me-cfs-using-plasma
+date: '2026-06-30'
+date_display: '2026-06-30'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Yagin et al. 2026, International Journal of Molecular Sciences
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13362375
+  kind: paper
+en:
+  title: Explainable ensemble learning classifies ME/CFS using plasma metabolomics and lipidomics
+  plain_summary: An explainable machine-learning model applied to blood metabolites from 106 ME/CFS patients and 91 controls reached nearly 91% accuracy by looking at how pairs of molecules shift together. The findings point to altered amino acid, tryptophan, and energy metabolism, but still need testing in independent patient cohorts.
+  detail: In a study published in the *International Journal of Molecular Sciences*, Yagin et al. evaluated three machine learning classifiers to distinguish ME/CFS patients from healthy controls based on plasma metabolomic and lipidomic profiles. Using data from 106 ME/CFS patients and 91 healthy controls across 888 features, the Explainable Boosting Machine (EBM) classifier achieved the highest performance, yielding 90.9 percent accuracy and an AUC of 0.940 under 50-repeat stratified hold-out validation. Pairwise metabolite interaction terms—specifically proline and indole-3-lactate, tyrosine and N-acetylornithine, and maleic acid and arachidic acid—provided the strongest discriminative signals, indicating that metabolite co-variation offers diagnostic value beyond individual metabolite levels. While these metabolomic alterations implicate pathways in amino acid catabolism, tryptophan-kynurenine pathway dysregulation, mitochondrial energy impairment, and lipid remodeling, the classifier
+    requires prospective testing and calibration assessment in independent cohorts before clinical translation.
+de:
+  title: Erklärbares Ensemble-Lernen klassifiziert ME/CFS anhand von Plasmametabolomik und -lipidomik
+  plain_summary: Ein erklärbares KI-Modell erreichte bei Blut-Stoffwechseldaten von 106 ME/CFS-Betroffenen und 91 Kontrollen knapp 91 % Genauigkeit, indem es das Zusammenspiel bestimmter Molekülpaare auswertete. Die Ergebnisse deuten auf Veränderungen im Aminosäure-, Tryptophan- und Energiestoffwechsel hin, müssen aber noch in unabhängigen Gruppen bestätigt werden.
+  detail: In einer im *International Journal of Molecular Sciences* veröffentlichten Studie bewerteten Yagin et al. drei Machine-Learning-Klassifikatoren zur Unterscheidung von ME/CFS-Patientinnen und -Patienten von gesunden Kontrollen anhand von Plasmametabolom- und Lipidomprofilen. Auf Grundlage von 888 Merkmalen bei 106 ME/CFS-Betroffenen und 91 gesunden Kontrollpersonen erzielte der Explainable-Boosting-Machine-(EBM)-Klassifikator mit 90,9 Prozent Genauigkeit und einer AUC von 0,940 bei 50-fach wiederholter stratifizierter Hold-out-Validierung die höchste Leistung. Paarweise Metaboliten-Interaktionen – insbesondere Prolin und Indol-3-lactat, Tyrosin und N-Acetylornithin sowie Maleinsäure und Arachidinsäure – lieferten die stärksten Trennsignale, was zeigt, dass gemeinsame Veränderungen von Stoffwechselpaaren über Einzelwerte hinaus diagnostischen Wert besitzen. Während diese Muster auf Störungen im Aminosäureabbau, im Tryptophan-Kynurenin-Weg, in der mitochondrialen Energiegewinnung
+    und im Lipidumbau hinweisen, benötigt der Klassifikator vor einer klinischen Anwendung eine prospektive Prüfung und Kalibrierungsbewertung in unabhängigen Kohorten.

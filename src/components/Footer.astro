@@ -1,0 +1,49 @@
+---
+import { t } from "../lib/i18n";
+import { feedUrl, glossaryUrl, imprintUrl, langHome } from "../lib/paths";
+import type { Lang } from "../lib/types";
+import Logo from "./Logo.astro";
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const s = t(lang);
+const ext = { target: "_blank", rel: "noopener noreferrer" };
+---
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-about">
+      <a class="brand" href={langHome(lang)}><Logo /><span class="brand-text">{s.brand}</span></a>
+      <p>{s.footerAbout}</p>
+      <p class="muted small">{s.footerLicense}</p>
+    </div>
+    <nav aria-label={s.footerSite}>
+      <h2 class="footer-title">{s.footerSite}</h2>
+      <ul>
+        <li><a href={langHome(lang)}>{s.nav.overview}</a></li>
+        <li><a href={feedUrl(lang)}>{s.nav.feed}</a></li>
+        <li><a href={glossaryUrl(lang)}>{s.nav.glossary}</a></li>
+        <li><a href={imprintUrl(lang)}>{s.nav.imprint}</a></li>
+      </ul>
+    </nav>
+    <nav aria-label={s.footerCommunity}>
+      <h2 class="footer-title">{s.footerCommunity}</h2>
+      <ul>
+        <li><a href="https://www.reddit.com/r/CFSScience/" {...ext}>r/CFSScience</a></li>
+        <li><a href="https://crunchme.org/visuals" {...ext}>CrunchME Visuals</a></li>
+        <li><a href="https://github.com/Hanneseh/ME-CFS-Research-Summaries" {...ext}>{s.footerSource}</a></li>
+      </ul>
+    </nav>
+    <div>
+      <h2 class="footer-title">{s.footerContact}</h2>
+      <ul>
+        <li><a href="mailto:hannes.ehringfeld@gmail.com">hannes.ehringfeld@gmail.com</a></li>
+        <li>
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/" {...ext}>CC0 1.0 Universal</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,19 @@
+id: 2026-03-17_german-pediatric-cohort-study-finds-post-covid-symptom
+date: '2026-03-17'
+date_display: '2026-03-17'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: 'CoCo-Fakt study: Schmachtenberg et al. 2026, European Journal of Pediatrics'
+  url: https://pubmed.ncbi.nlm.nih.gov/41840550
+  kind: paper
+en:
+  title: German pediatric cohort study finds post-COVID symptom persistence correlates with acute infection severity
+  plain_summary: Data on 731 German children showed that persistent symptoms after COVID-19 rose sharply with initial infection severity, from 0% in asymptomatic cases to 50% after severe acute illness. Because it tracked symptoms past four weeks via health-department records without ME/CFS exams, it captures broad post-viral recovery as well as longer illness.
+  detail: The German CoCo-Fakt study analyzed real-world surveillance data from two health departments (Cologne and Augsburg) in 731 children aged 15 and under with PCR-confirmed SARS-CoV-2 infection. The study observed a stepwise increase in the prevalence of persistent (lasting over 4 weeks) symptoms corresponding directly to the severity of the acute infection, ranging from 0% in asymptomatic cases up to 50% in children who experienced severe acute illness. This provides objective, real-world evidence that pediatric populations suffer from persistent post-COVID symptoms and suggests that the severity of the initial infection is a major clinical predictor of ongoing morbidity. However, the study relies on health department registries with potential underreporting, and it lacks clinical examination or formal ME/CFS diagnostic validation. Additionally, tracking symptoms only past 4 weeks may capture transient post-viral recovery rather than a chronic, long-term post-COVID syndrome.
+de:
+  title: Deutsche Kinderkohortenstudie zeigt Zusammenhang zwischen Post-COVID-Symptompersistenz und Schwere der Akutinfektion
+  plain_summary: Daten zu 731 Kindern in Deutschland zeigten, dass über vier Wochen anhaltende Beschwerden nach COVID-19 stufenweise mit der Schwere der Akutinfektion zunahmen – von 0 % bei asymptomatischen bis zu 50 % bei schweren Verläufen. Da Gesundheitsamtsdaten ohne ärztliche ME/CFS-Prüfung genutzt wurden, umfasst dies auch vorübergehende Erholungsphasen.
+  detail: Die deutsche CoCo-Fakt-Studie wertete reale Überwachungsdaten zweier Gesundheitsämter (Köln und Augsburg) zu 731 Kindern bis einschließlich 15 Jahren mit PCR-bestätigter SARS-CoV-2-Infektion aus. Dabei zeigte sich ein stufenweiser Anstieg der Prävalenz anhaltender Beschwerden (länger als vier Wochen), der direkt mit der Schwere der Akutinfektion korrelierte – von 0 % bei asymptomatischen Verläufen bis hin zu 50 % bei Kindern mit schwerer akuter Erkrankung. Dies liefert belastbare Real-World-Belege dafür, dass auch Kinder und Jugendliche unter anhaltenden Post-COVID-Symptomen leiden können und die Schwere der Erstinfektion ein wichtiger klinischer Prädiktor für fortbestehende Krankheitslast ist. Allerdings stützt sich die Studie auf Meldedaten von Gesundheitsämtern mit möglicher Untererfassung und enthält keine ärztlichen Untersuchungen oder formale ME/CFS-Diagnoseprüfung. Zudem kann eine Nachbeobachtung bereits ab vier Wochen vorübergehende postvirale Erholungsverläufe miterfassen
+    statt nur ein langfristiges chronisches Post-COVID-Syndrom.

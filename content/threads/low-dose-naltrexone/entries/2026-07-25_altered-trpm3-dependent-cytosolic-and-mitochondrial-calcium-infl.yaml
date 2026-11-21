@@ -1,0 +1,20 @@
+id: 2026-07-25_altered-trpm3-dependent-cytosolic-and-mitochondrial-calcium-infl
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: European Journal of Immunology (PMID 42484498)
+  url: https://pubmed.ncbi.nlm.nih.gov/42484498/
+  kind: paper
+en:
+  title: Altered TRPM3-dependent cytosolic and mitochondrial calcium influx identified in Post-COVID-19 condition NK cells
+  plain_summary: A lab study of immune cells from eight Long COVID patients and eight healthy controls found impaired TRPM3-driven calcium movement into both the cell body and mitochondria. While this suggests Long COVID shares a cellular ion-channel defect seen in ME/CFS, the study was tiny and does not test or prove LDN treatment.
+  detail: An ex vivo live-cell calcium imaging study published in the *European Journal of Immunology* investigated TRPM3 ion channel function in natural killer (NK) cells from patients with Post-COVID-19 condition (PCC) compared to healthy controls. The study revealed significantly reduced passive cytosolic calcium influx alongside altered mitochondrial calcium mobilization in PCC NK cells. Furthermore, stimulation with the TRPM3 agonist pregnenolone sulfate produced significantly impaired cytosolic and mitochondrial calcium response rates in PCC cells. Mechanistically, this study demonstrates that TRPM3 channelopathy and linked mitochondrial calcium deficits extend to post-viral Post-COVID-19 condition. For patient relevance, it indicates a shared channelopathy mechanism across post-viral states that may inform targeted immunomodulatory research. However, the study was conducted in a small pilot cohort ($n = 8$ PCC patients and $n = 8$ controls) and requires prospective validation in larger
+    cohorts. Furthermore, these ex vivo cellular observations in Long COVID must not be overstated as direct evidence for classic ME/CFS, nor do they establish clinical therapeutic efficacy for low-dose naltrexone.
+de:
+  title: Veränderter TRPM3-abhängiger zytosolischer und mitochondrialer Kalziumeinstrom in NK-Zellen bei Post-COVID-Syndrom nachgewiesen
+  plain_summary: Eine Laborstudie an Immunzellen von acht Long-COVID-Betroffenen und acht gesunden Kontrollen zeigte eine gestörte TRPM3-vermittelte Kalziumbewegung in Zelle und Mitochondrien. Dies deutet zwar auf einen ähnlichen zellulären Ionenkanaldefekt wie bei ME/CFS hin, stammt aber aus einer winzigen Stichprobe und beweist keine Wirksamkeit von LDN.
+  detail: Eine Ex-vivo-Untersuchung mittels Live-Cell-Kalzium-Imaging, veröffentlicht im *European Journal of Immunology*, prüfte die Funktion des TRPM3-Ionenkanals in natürlichen Killerzellen (NK-Zellen) von Patientinnen und Patienten mit Post-COVID-19-Syndrom (PCC) im Vergleich zu gesunden Kontrollen. Die Studie zeigte einen signifikant verringerten passiven zytosolischen Kalziumeinstrom sowie eine veränderte mitochondriale Kalziummobilisierung in PCC-NK-Zellen. Zudem führte eine Stimulation mit dem TRPM3-Agonisten Pregnenolonsulfat zu deutlich abgeschwächten zytosolischen und mitochondrialen Kalziumantworten. Mechanistisch zeigt die Arbeit, dass die TRPM3-Kanalopathie und damit verknüpfte mitochondriale Kalziumdefizite auch auf das postvirale Post-COVID-19-Syndrom zutreffen, was auf einen gemeinsamen Mechanismus über postvirale Zustände hinweg hinweist. Allerdings wurde die Studie in einer kleinen Pilotkohorte ($n = 8$ PCC-Betroffene und $n = 8$ Kontrollen) durchgeführt und erfordert
+    eine prospektive Bestätigung in größeren Gruppen. Darüber hinaus dürfen diese Ex-vivo-Zellbefunde bei Long COVID nicht als direkter Beleg für klassisches ME/CFS überinterpretiert werden, und sie belegen keine klinische Wirksamkeit von niedrigdosiertem Naltrexon.

@@ -1,0 +1,18 @@
+id: 2026-04-27_orexin-and-glp-1-dysregulation-linked-to-neuroendocrine
+date: '2026-04-27'
+date_display: '2026-04-27'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ruhrländer et al. 2026, Endocrine Reviews
+  url: https://doi.org/10.1210/endrev/bnag009
+  kind: paper
+en:
+  title: Orexin and GLP-1 dysregulation linked to neuroendocrine-metabolic fatigue pathways
+  plain_summary: A review proposed that post-viral brain inflammation may disrupt two hormone signals—orexin (linked to wakefulness) and GLP-1 (linked to metabolism). It suggests GLP-1 drugs as an idea to explore, but the model is theoretical and has not been verified in large patient studies.
+  detail: A physiological review mapped the dysregulation of the neuropeptide Orexin and the metabolic hormone Glucagon-Like Peptide-1 (GLP-1) in post-viral syndromes. The authors proposed a model where viral-induced neuroinflammation impairs Orexin signaling, leading to sleep-wake disturbances, and depletes GLP-1, exacerbating metabolic failure. This model suggests that GLP-1 receptor agonists and orexin modulators could serve as targeted treatments for ME/CFS and Long COVID. It also highlights how sexual dimorphism in these pathways might explain the female-biased prevalence of post-viral illnesses. However, these hormone-neuropeptide cycles have not been systematically measured or validated in large patient cohorts. The study does not prove that administering metabolic modulators can successfully reverse post-viral neuroendocrine dysfunction.
+de:
+  title: Fehlregulation von Orexin und GLP-1 mit neuroendokrin-metabolischen Erschöpfungspfaden verknüpft
+  plain_summary: 'Eine Übersichtsarbeit schlägt vor, dass postvirale Hirnentzündung zwei Botenstoffe stört: Orexin (für den Schlaf-Wach-Rhythmus) und GLP-1 (für den Stoffwechsel). Das bringt zwar Ideen rund um GLP-1-Medikamente ins Gespräch, ist bislang aber ein unbestätigtes theoretisches Modell ohne Prüfung in großen Patientengruppen.'
+  detail: Eine physiologische Übersichtsarbeit skizzierte eine mögliche Fehlregulation des Neuropeptids Orexin und des Stoffwechselhormons Glucagon-like Peptide-1 (GLP-1) bei postviralen Syndromen. Die Autorinnen und Autoren schlagen ein Modell vor, bei dem virusbedingte Neuroinflammation die Orexin-Signalgebung stört – was Schlaf-Wach-Störungen begünstigt – und GLP-1 vermindert, was Stoffwechselprobleme verstärkt; zudem könnte ein Geschlechtsdimorphismus dieser Achsen zur höheren Betroffenheit von Frauen beitragen. Daraus leitet die Arbeit die Hypothese ab, dass GLP-1-Rezeptor-Agonisten und Orexin-Modulatoren künftig als gezielte Therapien für ME/CFS und Long COVID geprüft werden könnten. Bislang wurden diese Hormon- und Neuropeptid-Regelkreise jedoch nicht systematisch in großen Patientenkohorten gemessen, und ein Nutzen solcher Medikamente gegen postvirale Störungen ist nicht belegt.

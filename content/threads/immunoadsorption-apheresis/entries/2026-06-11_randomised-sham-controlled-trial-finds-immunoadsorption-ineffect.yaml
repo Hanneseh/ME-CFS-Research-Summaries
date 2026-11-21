@@ -1,0 +1,20 @@
+id: 2026-06-11_randomised-sham-controlled-trial-finds-immunoadsorption-ineffect
+date: '2026-06-11'
+date_display: '2026-06-11'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Stortz et al. 2026, The Lancet Regional Health - Europe
+  url: https://doi.org/10.1016/j.lanepe.2026.101744
+  kind: paper
+en:
+  title: Randomised sham-controlled trial finds immunoadsorption ineffective in Post-COVID syndrome
+  plain_summary: In the randomized sham-controlled IAMPOCO trial of 40 post-COVID patients, immunoadsorption successfully cleared autoantibodies from the blood but produced no better symptom or strength results than a fake procedure. Active treatment also caused more side effects, including blood clots from central venous catheters, underscoring that antibody removal alone did not prove helpful here.
+  detail: The IAMPOCO randomised, patient-blinded, sham-controlled crossover trial evaluated immunoadsorption with tryptophan adsorbers versus sham treatment in 40 patients with post-COVID syndrome. Although immunoadsorption successfully depleted G-protein-coupled receptor (GPCR) autoantibodies, there was no statistically significant difference in symptom improvements between the active and sham arms across scales measuring fatigue, cognitive function, and grip strength. These findings directly challenge earlier uncontrolled observational studies that suggested clinical benefit, indicating that prior positive results may have been driven by placebo or contextual effects. The trial also highlighted safety concerns, with a higher rate of adverse events during immunoadsorption, including jugular vein thrombosis associated with central venous catheters. While the study indicates that temporary autoantibody clearance is unlikely to provide therapeutic benefits, it does not rule out potential
+    benefits of immunoadsorption in early-stage disease or using alternative adsorber columns.
+de:
+  title: Randomisierte schein-kontrollierte Studie findet Immunadsorption bei Post-COVID-Syndrom unwirksam
+  plain_summary: In der randomisierten schein-kontrollierten IAMPOCO-Studie mit 40 Post-COVID-Betroffenen entfernte die Immunadsorption zwar Autoantikörper aus dem Blut, schnitt bei Symptomen und Kraft aber nicht besser ab als die Scheinbehandlung. Zudem traten im aktiven Arm mehr Nebenwirkungen auf, darunter Thrombosen durch zentrale Venenkatheter.
+  detail: Die randomisierte, patientenverblindete, schein-kontrollierte Crossover-Studie IAMPOCO untersuchte Immunadsorption mit Tryptophan-Adsorbern im Vergleich zu einer Scheinbehandlung bei 40 Patientinnen und Patienten mit Post-COVID-Syndrom. Obwohl die Immunadsorption Autoantikörper gegen G-Protein-gekoppelte Rezeptoren (GPCR) erfolgreich entfernte, gab es bei Skalen zu Fatigue, kognitiver Funktion und Handgreifkraft keinen statistisch signifikanten Unterschied zwischen aktivem Arm und Schein-Arm. Diese Ergebnisse stellen frühere unkontrollierte Beobachtungsstudien direkt infrage und deuten darauf hin, dass damalige positive Befunde durch Placebo- oder Kontexteffekte entstanden sein könnten. Die Studie machte zudem Sicherheitsrisiken deutlich, mit häufigeren unerwünschten Ereignissen während der Immunadsorption, darunter Jugularvenenthrombosen im Zusammenhang mit zentralen Venenkathetern. Wenngleich die Studie zeigt, dass eine vorübergehende Antikörper-Clearance wahrscheinlich keinen
+    therapeutischen Nutzen bringt, schließt sie mögliche Effekte in früheren Krankheitsstadien oder mit anderen Adsorbersäulen nicht endgültig aus.

@@ -1,0 +1,21 @@
+id: 2026-06-22_jordan-delphi-study-adapts-home-based-pulmonary-rehabilitation
+date: '2026-06-22'
+date_display: '2026-06-22'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Shaltaf et al. 2026, Scientific Reports
+  url: https://www.nature.com/articles/s41598-026-70867-x
+  kind: paper
+- label: Shaltaf et al. 2026, Research Square preprint
+  url: https://www.researchsquare.com/article/rs-9973821/latest
+  kind: preprint
+en:
+  title: Jordan Delphi study adapts home-based pulmonary rehabilitation for Long COVID with PEM safeguards
+  plain_summary: A Jordanian expert panel designed a low-tech, home-based Long COVID rehab guide that requires PEM screening and symptom-led pacing. It reflects expert consensus rather than a trial showing that the program works safely in patients.
+  detail: An expert consensus survey informed by qualitative item generation (Delphi-like), with 15 multidisciplinary experts, developed a culturally adapted home-based pulmonary rehabilitation program for Long COVID in Jordan; 90 of 97 statements (92.8%) reached consensus. The final consensus emphasized low-technology delivery, symptom-contingent progression, pacing, energy conservation, and mandatory PEM screening; the preprint version also described phone-based supervision and Borg RPE monitoring. This matters because rehabilitation designs that ignore PEM can cause harm, while resource-limited settings need feasible models that do not rely on intensive specialist access. The study is consensus-based and has not yet shown clinical outcomes. It is best treated as care-model design, not proof that rehabilitation improves PEM-defined illness.
+de:
+  title: Jordanische Delphi-Studie passt häusliche Lungenrehabilitation bei Long COVID mit PEM-Schutzmaßnahmen an
+  plain_summary: Ein jordanisches Expertengremium hat ein niedrigschwelliges Heim-Reha-Konzept für Long COVID entworfen, das verpflichtendes PEM-Screening und ein symptomgeführtes Pacing-Vorgehen vorsieht. Es handelt sich um einen Expertenkonsens, nicht um eine Studie, die Sicherheit oder Nutzen bereits an Patientinnen und Patienten belegt.
+  detail: Eine von qualitativer Item-Entwicklung gestützte Expertenbefragung (Delphi-ähnlich) mit 15 multidisziplinären Fachleuten entwickelte ein kulturell angepasstes häusliches Lungenrehabilitationsprogramm für Long COVID in Jordanien; 90 von 97 Aussagen (92,8 %) erreichten Konsens. Der abschließende Konsens betonte niedrigtechnologische Umsetzung, symptomabhängige Steigerung, Pacing, Energieeinsparung und verpflichtendes PEM-Screening; die Preprint-Fassung beschrieb zudem telefonische Begleitung und Borg-RPE-Monitoring. Das ist wichtig, weil Rehabilitationskonzepte ohne Berücksichtigung von PEM schaden können, während ressourcenärmere Gesundheitssysteme praktikable Modelle jenseits spezialisierter Zentren benötigen. Die Studie ist konsensbasiert und weist noch keine klinischen Patientenergebnisse vor; sie sollte daher als Versorgungsmodell-Entwurf betrachtet werden, nicht als Nachweis, dass Rehabilitation PEM-definierte Erkrankungen bessert.

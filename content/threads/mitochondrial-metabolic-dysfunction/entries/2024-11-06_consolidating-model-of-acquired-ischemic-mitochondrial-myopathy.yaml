@@ -1,0 +1,26 @@
+id: 2024-11-06_consolidating-model-of-acquired-ischemic-mitochondrial-myopathy
+date: '2024-11-06'
+date_display: '2024-11-06'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Scheibenbogen and Wirth 2025, Journal of Cachexia, Sarcopenia and Muscle
+  url: https://doi.org/10.1002/jcsm.13669
+  kind: paper
+en:
+  title: Consolidating model of acquired ischemic mitochondrial myopathy in skeletal muscle
+  plain_summary: A review pulls together past studies to propose that low muscle blood flow triggers a cycle of ion overload and mitochondrial damage in ME/CFS and Long COVID. Because it synthesizes separate papers, longitudinal studies are needed to test the sequence in patients.
+  detail: '- **What changed:** A systematic review consolidated experimental data to propose that ME/CFS and Long COVID present as an "acquired ischemic mitochondrial myopathy," where impaired blood flow triggers a self-sustaining cycle of sodium-calcium overload, mitochondrial damage, and tissue necrosis.
+
+    - **Why it matters:** This integrates vascular hypoperfusion and cellular bioenergetics into a unified clinical model, shifting focus from persistent viral replication to local muscle tissue restoration and perfusion-enhancing therapies like pyridostigmine or vericiguat.
+
+    - **What it does not prove yet:** The proposed model is a theoretical synthesis of separate studies and requires validation through longitudinal cohort studies tracking the progression from vascular hypoperfusion to muscle tissue necrosis in vivo.'
+de:
+  title: Konsolidierendes Modell einer erworbenen ischämischen mitochondrialen Myopathie der Skelettmuskulatur
+  plain_summary: Eine Übersichtsarbeit führt bisherige Befunde zu einem Modell zusammen, bei dem schlechte Muskeldurchblutung einen Kreislauf aus Ionenüberladung und Mitochondrienschäden antreibt. Da sie Einzelstudien verknüpft, müssen Langzeitstudien diese Abfolge erst im Körper belegen.
+  detail: '- **Was sich gezeigt hat:** Eine systematische Übersichtsarbeit führte experimentelle Daten zusammen und schlug vor, dass sich ME/CFS und Long COVID als „erworbene ischämische mitochondriale Myopathie“ darstellen, bei der eine verminderte Durchblutung einen sich selbst erhaltenden Zyklus aus Natrium-Kalzium-Überladung, Mitochondrienschäden und Gewebenekrose auslöst.
+
+    - **Warum das wichtig ist:** Dies integriert vaskuläre Minderdurchblutung und zelluläre Bioenergetik in ein einheitliches klinisches Modell und verlagert den Fokus von anhaltender Virusreplikation hin zu lokaler Muskelgewebe-Erholung und durchblutungsfördernden Therapien wie Pyridostigmin oder Vericiguat.
+
+    - **Was damit noch nicht belegt ist:** Das vorgeschlagene Modell ist eine theoretische Synthese einzelner Studien und erfordert eine Bestätigung durch Längsschnittkohorten, die den Verlauf von der Minderdurchblutung bis zur Muskelschädigung in vivo verfolgen.'

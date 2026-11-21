@@ -1,0 +1,97 @@
+slug: gut-microbiome-dysbiosis
+group: disease-models-mechanisms
+status: active
+evidence_tier: mechanistic
+topics:
+- Gut Bacterial Dysbiosis
+- Gut Mycobiome
+- Short-Chain Fatty Acids
+- Intestinal Barrier Dysfunction
+- Mucosal Viral Reservoirs
+- Microbiota-Derived Extracellular Vesicles
+aliases: []
+related_threads:
+- viral-persistence-reactivation
+- immune-dysregulation-inflammation
+- neuroinflammation-brain-changes
+- mitochondrial-metabolic-dysfunction
+- emerging-pharmacotherapy
+legacy_path: disease-models-mechanisms/gut-microbiome-dysbiosis
+en:
+  title: Gut Microbiome & Dysbiosis
+  subtitle: A living thread on bacterial and fungal dysbiosis, short-chain fatty acid depletion, intestinal barrier dysfunction, mucosal viral reservoirs, and microbiota-derived extracellular vesicles as mediators of gut-brain signaling in ME/CFS and Long COVID.
+  evidence_label: early clinical and mechanistic validation
+  plain_summary: People with ME/CFS and Long COVID often show less diverse gut bacteria and lower levels of helpful fatty acids that normally calm inflammation. Researchers are exploring whether an irritated gut lining lets microbial particles or inflammatory signals enter the bloodstream and affect the brain, or whether the gut and mouth harbor hidden viral traces. However, it is not yet clear whether gut changes help cause these illnesses or result from them, and probiotics or diet changes are not yet proven treatments.
+  takeaway: |-
+    A consistent pattern of gut microbial imbalance has emerged across ME/CFS and Long COVID cohorts: patients show reduced bacterial diversity, depletion of short-chain fatty acid (SCFA)-producing species, and—in a finding relatively new to the field—altered fungal communities whose composition shifts in an age-dependent manner. These bacterial and fungal changes correlate with fatigue severity, though they may function primarily as indicators of overall disease burden rather than direct causative agents. Correlation with markers of intestinal barrier disruption (such as FABP2) suggests that a permeable gut lining might allow inflammatory signals to enter the bloodstream, while one small post-infectious cohort adds a more specific mucosal-immune observation: both patients and healthy volunteers showed IgG targeting of gut bacteria and little evidence of gross systemic translocation, but only the patient group's targeted taxa were computationally enriched for stress and defense pathways. This refines rather than replaces the barrier-permeability model, and requires direct functional measurement and replication. A complementary line of evidence points to mucosal sites—the gut and the oral cavity—as reservoirs for herpesviruses and human endogenous retroviruses that remain undetectable in peripheral blood, offering a possible explanation for why blood-based viral searches in ME/CFS have yielded inconsistent results.
+
+    Two converging mechanistic proposals are shaping the current research direction. One framework situates the gut-brain axis centrally, with MAIT cells responding to microbial antigens and probiotics or dietary fiber being proposed—though not yet proven—as ways to restore homeostasis. A second and more specific proposal identifies microbiota-derived extracellular vesicles (GMEVs) as functional carriers that physically cross from a disrupted gut into systemic circulation, activate macrophages and brain-resident microglia, and thereby translate intestinal dysbiosis into neuroinflammation. Both proposals remain mechanistically plausible but have not been validated in large prospective human trials, and causal directionality—whether dysbiosis drives the disease or results from it—is not established.
+  why_it_matters: Dysbiosis and intestinal barrier failure provide a testable biological interface between the gut microenvironment and the systemic immune, metabolic, and neurological abnormalities documented in ME/CFS and Long COVID. Identifying specific microbial signatures and their vesicular byproducts creates potential targets for non-invasive diagnostics (stool sequencing, mycobiome profiling) and for interventions such as dietary fiber supplementation, prebiotics, probiotics, and GMEV-directed therapies. The mucosal viral reservoir hypothesis also redirects sampling strategy away from blood and toward saliva and stool, which could recover viral signals that blood testing has systematically missed.
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - ME/CFS patients have measurably lower gut bacterial diversity and reduced levels of SCFA-producing genera (especially _Rikenellaceae_ and _Ruminococcaceae_), with lower concentrations of acetate, butyrate, isobutyrate, and isovalerate correlating with fatigue severity scores across a matched cohort.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - The gut mycobiome is disrupted in ME/CFS with age-dependent patterns—reduced fungal richness in younger patients but paradoxically increased richness in the elderly—and age-stratified machine-learning models built on fecal fungal taxa show high within-sample discriminatory accuracy in single-cohort settings (though these models require replication in independent, larger populations). Mucosal tissues harbour herpesvirus and HERV signals absent in paired blood samples, suggesting compartmentalised viral persistence. Microbiota-derived extracellular vesicles from Long COVID individuals can impair intestinal barriers and activate microglia in mouse and human iPSC models. Intestinal-damage biomarkers such as FABP2 are elevated in ME/CFS and may index barrier permeability. In one small cohort, both post-infectious ME/CFS participants and healthy volunteers showed IgG targeting of gut taxa and little gross peripheral translocation; the group-specific signal was PICRUSt2-predicted stress and
+      defense pathway enrichment among targeted bacteria in ME/CFS. MAIT cell activation by gut microbial antigens is proposed as a bridge between dysbiosis and systemic neuroinflammation.
+  - status: not_established
+    label: Not established
+    items:
+    - A causal direction between gut dysbiosis and ME/CFS onset or progression. The clinical efficacy of probiotics, prebiotics, high-fibre dietary interventions, or GMEV-targeted therapies in reducing ME/CFS or Long COVID symptom burden. Whether mucosal viral persistence is a primary driver of symptoms or an opportunistic consequence of immune suppression secondary to the disease.
+  - status: limitations
+    label: Key limitations
+    items:
+    - Most bacterial and fungal cohort studies are cross-sectional, single-centre, and conducted in geographically restricted populations, limiting generalisability. The age-stratified mycobiome diagnostic models showing near-perfect within-sample accuracy suffer from small cohort sizes when subgrouped and require independent external validation before clinical use. The GMEV mechanistic study is a preprint and has not completed peer review. Functional pathway analyses often rely on computational inference (such as PICRUSt2) from 16S rRNA sequencing rather than direct functional measurement, while inpatient protocols likely limit participation by severe and bedbound patients whose inclusion is generally not reported. Longitudinal studies tracking dysbiosis from illness onset through recovery phases are largely absent.
+  open_questions:
+  - Does correcting SCFA depletion through dietary fibre, prebiotics, or direct SCFA supplementation produce measurable reductions in fatigue or barrier permeability in prospective ME/CFS trials?
+  - Are gut fungal dysbiosis patterns—particularly the paradoxical increase in richness among elderly patients—driven by immune suppression, antibiotic history, or primary metabolic factors, and do they influence bacterial dysbiosis or operate through independent pathways?
+  - Can GMEV cargo composition (protein, lipid, or nucleic acid content) distinguish ME/CFS from Long COVID and from other post-viral syndromes, and do specific vesicle species predict neuroinflammatory severity?
+  - Do mucosal viral reservoirs (EBV, HHV-6, HERVs) in gut or oral tissue persist independently of blood titres, and does antiviral treatment targeting mucosal compartments alter the dysbiosis or systemic symptom burden?
+  - Is intestinal barrier disruption (indexed by FABP2 or occludin loss) a cause, a consequence, or a co-occurring feature of the metabolic and immune abnormalities documented in ME/CFS?
+de:
+  title: Darmmikrobiom & Dysbiose
+  subtitle: Ein laufender Forschungsstrang zu bakterieller und pilzlicher Dysbiose, dem Mangel an kurzkettigen Fettsäuren, gestörter Darmbarriere, mukosalen Virusreservoiren und mikrobiellen extrazellulären Vesikeln als Vermittlern der Darm-Hirn-Achse bei ME/CFS und Long COVID.
+  evidence_label: frühe klinische und mechanistische Validierung
+  plain_summary: Bei Menschen mit ME/CFS und Long COVID finden sich häufig weniger vielfältige Darmbakterien und niedrigere Spiegel bestimmter Fettsäuren, die normalerweise entzündungshemmend wirken. Forschende untersuchen, ob über eine gereizte Darmschleimhaut Entzündungssignale oder winzige bakterielle Bläschen ins Blut gelangen und das Gehirn beeinflussen – oder ob Schleimhäute von Darm und Mund versteckte Virusspuren beherbergen. Ob diese Darmveränderungen die Erkrankung mitverursachen oder eher eine Folge davon sind, ist jedoch noch offen, und Probiotika oder Ernährungsumstellungen sind bislang keine belegte Therapie.
+  takeaway: |-
+    Über ME/CFS- und Long-COVID-Kohorten hinweg zeichnet sich ein wiederkehrendes Muster einer gestörten Darmmikrobiota ab: Betroffene weisen eine geringere bakterielle Vielfalt, einen Mangel an kurzkettige Fettsäuren (SCFA) produzierenden Bakterien sowie – als für das Feld noch recht neuen Befund – veränderte Pilzgemeinschaften (Mykobiom) auf, deren Zusammensetzung sich altersabhängig verschiebt. Diese bakteriellen und pilzlichen Veränderungen korrelieren mit dem Schweregrad der Fatigue, könnten jedoch eher Ausdruck der allgemeinen Krankheitslast sein als deren direkte Ursache. Korrelationen mit Markern einer gestörten Darmbarriere (wie FABP2) deuten darauf hin, dass eine durchlässigere Darmschleimhaut Entzündungssignale in den Blutkreislauf gelangen lassen könnte. Eine kleine Studie zu postinfektiösem ME/CFS ergänzt dies um eine präzisere mukosal-immunologische Beobachtung: Sowohl Patientinnen und Patienten als auch gesunde Freiwillige zeigten IgG-Bindungen an Darmbakterien bei kaum Hinweisen auf eine massive systemische Translokation, doch nur in der Patientengruppe waren die markierten Taxa rechnerisch für Stress- und Abwehrsignalwege angereichert. Dies verfeinert das Modell der Barriere-Durchlässigkeit, ersetzt es aber nicht und erfordert direkte funktionelle Messungen sowie eine Replikation. Eine komplementäre Evidenzlinie verweist auf Schleimhäute – im Darm und in der Mundhöhle – als Reservoire für Herpesviren und humane endogene Retroviren, die im peripheren Blut nicht nachweisbar sind. Das liefert eine mögliche Erklärung dafür, warum blutbasierte Virussuchen bei ME/CFS bislang widersprüchliche Ergebnisse erbrachten.
+
+    Zwei zusammenlaufende mechanistische Ansätze prägen derzeit die Forschungsrichtung. Ein Modell stellt die Darm-Hirn-Achse in den Mittelpunkt, bei der MAIT-Zellen auf mikrobielle Antigene reagieren und Probiotika oder Ballaststoffe als – bislang unbewiesene – Wege zur Wiederherstellung des Gleichgewichts diskutiert werden. Ein zweiter, spezifischerer Ansatz identifiziert von der Mikrobiota stammende extrazelluläre Vesikel (GMEVs) als funktionelle Transporter, die aus einem gestörten Darm in den Blutkreislauf übertreten, Makrophagen und Mikroglia im Gehirn aktivieren und so eine Darmdysbiose in Neuroinflammation übersetzen. Beide Ansätze sind mechanistisch plausibel, wurden jedoch noch nicht in großen prospektiven Humanstudien validiert, und die Kausalrichtung – ob Dysbiose die Erkrankung antreibt oder aus ihr folgt – ist ungeklärt.
+  why_it_matters: Dysbiose und eine gestörte Darmbarriere bieten eine prüfbare biologische Schnittstelle zwischen dem Darmmilieu und den systemischen immunologischen, metabolischen und neurologischen Auffälligkeiten bei ME/CFS und Long COVID. Die Identifikation spezifischer mikrobieller Signaturen und ihrer vesikulären Nebenprodukte eröffnet potenzielle Ansätze für nicht-invasive Diagnostik (Stuhlsequenzierung, Mykobiom-Profiling) sowie für Interventionen wie Ballaststoff-Supplementierung, Präbiotika, Probiotika und gegen GMEVs gerichtete Therapien. Die Hypothese mukosaler Virusreservoire lenkt die Probenahme zudem weg vom Blut hin zu Speichel und Stuhl, wodurch Virussignale erfasst werden könnten, die bei reinen Bluttests systematisch übersehen wurden.
+  state_of_evidence:
+  - status: established
+    label: Etabliert
+    items:
+    - ME/CFS-Patientinnen und -Patienten weisen eine messbar geringere bakterielle Darmdiversität und reduzierte Mengen SCFA-produzierender Gattungen (insbesondere _Rikenellaceae_ und _Ruminococcaceae_) auf; niedrigere Konzentrationen von Acetat, Butyrat, Isobutyrat und Isovalerat korrelieren in einer gematchten Kohorte mit höheren Fatigue-Werten.
+  - status: plausible
+    label: Plausibel, aber noch früh
+    items:
+    - Das Darm-Mykobiom ist bei ME/CFS altersabhängig verändert – mit verringerter Pilzvielfalt bei jüngeren Betroffenen, aber paradoxerweise erhöhter Vielfalt im höheren Lebensalter –, und altersstratifizierte Machine-Learning-Modelle auf Basis fäkaler Pilztaxa erreichen in Einzelkohorten hohe interne Trennschärfen (die allerdings noch in unabhängigen, größeren Populationen repliziert werden müssen).
+    - Schleimhautgewebe tragen Herpesvirus- und HERV-Signale, die in gepaarten Blutproben fehlen, was auf eine kompartimentierte Viruspersistenz hinweist.
+    - Von der Mikrobiota stammende extrazelluläre Vesikel (GMEVs) von Long-COVID-Betroffenen können in Maus- und humanen iPSC-Modellen Darmbarrieren schädigen und Mikroglia aktivieren.
+    - Biomarker für Darmschleimhautschäden wie FABP2 sind bei ME/CFS erhöht und könnten eine gestörte Barriere-Durchlässigkeit anzeigen.
+    - In einer kleinen Kohorte zeigten sowohl Personen mit postinfektiösem ME/CFS als auch gesunde Freiwillige IgG-Bindungen an Darmtaxa bei nur geringer grober peripherer Translokation; das gruppenspezifische Signal war eine mittels PICRUSt2 vorhergesagte Anreicherung von Stress- und Abwehrsignalwegen bei den IgG-gebundenen Bakterien der ME/CFS-Gruppe.
+    - Die Aktivierung von MAIT-Zellen durch mikrobielle Darmantigene wird als mögliche Brücke zwischen Dysbiose und systemischer Neuroinflammation diskutiert.
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Eine kausale Richtung zwischen Darmdysbiose und dem Ausbruch oder Verlauf von ME/CFS.
+    - Die klinische Wirksamkeit von Probiotika, Präbiotika, ballaststoffreichen Ernährungsinterventionen oder gegen GMEVs gerichteten Therapien zur Linderung von ME/CFS- oder Long-COVID-Symptomen.
+    - Ob mukosale Viruspersistenz ein primärer Treiber der Beschwerden oder eine opportunistische Folge einer sekundären Immunsuppression durch die Erkrankung ist.
+  - status: limitations
+    label: Wesentliche Einschränkungen
+    items:
+    - Die meisten bakteriellen und pilzlichen Kohortenstudien sind querschnittlich, monozentrisch und auf geografisch begrenzte Populationen beschränkt, was die Übertragbarkeit einschränkt.
+    - Die altersstratifizierten Mykobiom-Diagnosemodelle mit nahezu perfekter interner Genauigkeit leiden in den Untergruppen unter kleinen Fallzahlen und erfordern eine unabhängige externe Validierung vor einem klinischen Einsatz.
+    - Die mechanistische GMEV-Studie ist ein Preprint und hat noch kein Peer-Review durchlaufen.
+    - Funktionelle Signalweganalysen stützen sich häufig auf rechnerische Ableitungen (wie PICRUSt2) aus 16S-rRNA-Sequenzierungen statt auf direkte Funktionsmessungen; zudem erschweren stationäre Studienprotokolle wahrscheinlich die Teilnahme schwer Betroffener und Bettlägeriger, deren Einschluss meist nicht berichtet wird.
+    - Längsschnittstudien, die Dysbiose vom Erkrankungsbeginn bis in Erholungsphasen verfolgen, fehlen weitgehend.
+  open_questions:
+  - Führt der Ausgleich eines SCFA-Mangels durch Ballaststoffe, Präbiotika oder direkte SCFA-Gabe in prospektiven ME/CFS-Studien zu messbaren Verbesserungen von Fatigue oder Darmbarriere-Durchlässigkeit?
+  - Werden veränderte Darmpilz-Muster – insbesondere der paradoxe Anstieg der Vielfalt bei älteren Betroffenen – durch Immunsuppression, Antibiotika-Vorgeschichte oder primäre Stoffwechselfaktoren angetrieben, und beeinflussen sie die bakterielle Dysbiose oder wirken sie über unabhängige Pfade?
+  - Kann die Zusammensetzung der GMEV-Fracht (Proteine, Lipide oder Nukleinsäuren) ME/CFS von Long COVID und anderen postviralen Syndromen unterscheiden, und sagen bestimmte Vesikelspezies die Schwere einer Neuroinflammation voraus?
+  - Persistieren mukosale Virusreservoire (EBV, HHV-6, HERVs) in Darm- oder Mundgewebe unabhängig von Bluttitern, und verändert eine auf Schleimhautkompartimente abzielende antivirale Behandlung die Dysbiose oder die systemische Symptomlast?
+  - Ist eine Störung der Darmbarriere (angezeigt durch FABP2 oder Occludin-Verlust) Ursache, Folge oder Begleitmerkmal der bei ME/CFS dokumentierten metabolischen und immunologischen Auffälligkeiten?

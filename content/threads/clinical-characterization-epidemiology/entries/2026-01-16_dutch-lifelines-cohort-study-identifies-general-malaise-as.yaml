@@ -1,0 +1,20 @@
+id: 2026-01-16_dutch-lifelines-cohort-study-identifies-general-malaise-as
+date: '2026-01-16'
+date_display: '2026-01-16'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: 'Lifelines cohort study: van der Veen et al. 2026, Journal of Psychosomatic Research'
+  url: https://pubmed.ncbi.nlm.nih.gov/41546021
+  kind: paper
+en:
+  title: Dutch Lifelines cohort study identifies "general malaise" as a transdiagnostic symptom dimension
+  plain_summary: A survey of over 108,000 Dutch adults found that ME/CFS symptoms cluster into a distinct "general malaise" and pain pattern separate from depression and anxiety. Because it relies on one-time self-reported questionnaires rather than medical exams, it cannot prove cause or track disease course.
+  detail: 'An analysis of 108,418 adult participants in the Dutch Lifelines Cohort Study used factor analysis on 30 symptoms of major depressive disorder, generalized anxiety disorder, ME/CFS, fibromyalgia, and irritable bowel syndrome to identify five distinct symptom dimensions: Depression, Anxiety, IBS, Musculoskeletal Pain, and General Malaise. Symptoms of ME/CFS and fibromyalgia did not form their own isolated categories, but instead loaded onto the general malaise (characterized by concentration difficulties, fatigue, and unrefreshing sleep) and musculoskeletal pain dimensions. Chronic stress was the only risk factor significantly associated with all five dimensions, suggesting a shared pathway involving stress response system dysregulation. This validates that the core disabling symptoms of ME/CFS represent a highly real, measurable "general malaise" dimension that is distinct from primary depression and anxiety, even while showing high transdiagnostic comorbidity. However, this study
+    relies entirely on cross-sectional self-reported survey data rather than clinician-verified diagnoses, which prevents establishing causal relationships or tracking individual trajectories over time.'
+de:
+  title: Niederländische Lifelines-Kohortenstudie identifiziert „allgemeines Krankheitsgefühl“ als transdiagnostische Symptomdimension
+  plain_summary: Eine Befragung von über 108.000 Erwachsenen in den Niederlanden zeigte, dass ME/CFS-Beschwerden ein eigenes Muster aus allgemeinem Krankheitsgefühl und Schmerz bilden, das sich von Depression und Angst unterscheidet. Da es sich um eine einmalige Selbstauskunft ohne ärztliche Diagnoseprüfung handelt, lassen sich weder Ursachen noch Verläufe belegen.
+  detail: 'Eine Analyse von 108.418 erwachsenen Teilnehmenden der niederländischen Lifelines-Kohortenstudie wandte eine Faktorenanalyse auf 30 Symptome aus den Bereichen schwere Depression, generalisierte Angststörung, ME/CFS, Fibromyalgie und Reizdarmsyndrom an und identifizierte fünf abgrenzbare Symptomdimensionen: Depression, Angst, Reizdarmsyndrom, muskuloskelettaler Schmerz und allgemeines Krankheitsgefühl (General Malaise). Symptome von ME/CFS und Fibromyalgie bildeten keine isolierten Einzelkategorien, sondern luden auf die Dimensionen allgemeines Krankheitsgefühl (gekennzeichnet durch Konzentrationsprobleme, Fatigue und nicht erholsamen Schlaf) sowie muskuloskelettaler Schmerz. Chronischer Stress war der einzige Risikofaktor, der signifikant mit allen fünf Dimensionen zusammenhing, was auf einen gemeinsamen Pfad über Dysregulationen des Stressreaktionssystems hindeutet. Dies bestätigt, dass die stark einschränkenden Kernsymptome von ME/CFS eine reale, messbare Dimension des allgemeinen
+    Krankheitsgefühls darstellen, die sich von primärer Depression und Angst abgrenzt – trotz hoher Komorbidität. Allerdings stützt sich die Studie ausschließlich auf querschnittliche Selbstberichte statt ärztlich gesicherter Diagnosen, was Kausalschlüsse und Verlaufsbeobachtungen ausschließt.'

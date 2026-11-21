@@ -1,0 +1,18 @@
+id: 2026-05-26_anti-cd80-monoclonal-antibodies-selectively-destroy-ebv-infected
+date: '2026-05-26'
+date_display: '2026-05-26'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Yoshizato et al. 2026, Scientific Reports
+  url: https://doi.org/10.1038/s41598-026-55043-5
+  kind: paper
+en:
+  title: Anti-CD80 monoclonal antibodies selectively destroy EBV-infected B cells without complement activation
+  plain_summary: Lab and animal experiments tested an engineered antibody targeting CD80 that selectively clears EBV-infected B cells while sparing healthy T-cell defenses. This is strictly preclinical work and has not yet been tested in humans for safety or benefit in ME/CFS or Long COVID.
+  detail: A translational study developed chimeric monoclonal antibodies targeting CD80 (B7-1) to selectively eliminate Epstein-Barr virus (EBV)-infected B cells. Researchers demonstrated that CD80 is highly expressed on EBV-positive B cells and that anti-CD80 antibodies trigger NK-cell-mediated destruction (ADCC) of these cells. Crucially, this approach completely avoids complement-dependent cytotoxicity (CDC) and preserves host T-cell antiviral surveillance, offering a safer alternative to broad B-cell depletion. This provides a highly targeted clinical direction to selectively clear latent EBV reservoirs and pathogenic B-cell subsets without causing broad immunosuppression. However, the efficacy and safety of these engineered anti-CD80 antibodies have only been demonstrated in vitro and in animal models. Clinical trials are required to prove that this therapy can safely clear EBV reservoirs and improve symptoms in patients with post-viral conditions.
+de:
+  title: Monoklonale Anti-CD80-Antikörper zerstören selektiv EBV-infizierte B-Zellen ohne Komplementaktivierung
+  plain_summary: In Zellkulturen und Tierversuchen beseitigte ein gezielter Anti-CD80-Antikörper selektiv EBV-infizierte B-Zellen, ohne die übrige T-Zell-Abwehr zu beeinträchtigen. Es handelt sich um reine Grundlagen- und Tierforschung; Sicherheit und Nutzen bei Menschen mit ME/CFS oder Long COVID sind bislang völlig ungetestet.
+  detail: Eine translationale Studie entwickelte chimäre monoklonale Antikörper gegen CD80 (B7-1), um Epstein-Barr-Virus-(EBV-)infizierte B-Zellen gezielt auszuschalten. Die Forschenden zeigten, dass CD80 auf EBV-positiven B-Zellen stark ausgeprägt ist und Anti-CD80-Antikörper deren Beseitigung über NK-Zellen (ADCC) auslösen – ohne komplementabhängige Zellschädigung (CDC) und unter Erhalt der antiviralen T-Zell-Überwachung, was schonender wäre als eine breite B-Zell-Depletion. Dies eröffnet eine gezielte Forschungsrichtung, um latente EBV-Reservoirs und problematische B-Zell-Untergruppen ohne allgemeine Immunsuppression abzubauen. Bislang wurden Wirksamkeit und Sicherheit dieser Anti-CD80-Antikörper jedoch nur in vitro und in Tiermodellen gezeigt; für den Einsatz bei postviralen Erkrankungen sind erst klinische Studien am Menschen nötig.

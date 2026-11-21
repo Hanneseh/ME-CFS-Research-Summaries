@@ -1,0 +1,20 @@
+id: 2026-06-20_biosig-pem-study-presentation-maps-metabolic-and-recovery
+date: '2026-06-20'
+date_display: '2026-06-20'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: Puta, Christian. 2026, International ME/CFS Conference 2026
+  url: https://youtu.be/T-7nOEr94wg
+  kind: video
+en:
+  title: BioSig-PEM study presentation maps metabolic and recovery phenotypes
+  plain_summary: Preliminary conference results from Germany's BioSig-PEM study found three distinct blood-lactate recovery patterns and different overall recovery groups after a short standing test. These findings still await full peer-reviewed publication, and provocation tests require careful supervision to avoid crashes.
+  detail: 'A conference presentation outlined preliminary findings from the BMBF-funded "BioSig-PEM" study, which uses deep phenotyping over five days and four nights to analyze multi-system biosignatures of post-exertional malaise (PEM) and recovery kinetics. Using a one-minute stand test to monitor post-exertional lactate and glucose responses, researchers identified three distinct lactate recovery profiles: efficient clearance, no clearance (plateau), and a hyperlactate peak with minimal clearance. The study also established three global recovery phenotypes ranging from globally impaired (exhibiting the poorest cardiac recovery and highest symptom burden) to physiologically recovered. Additionally, data from post-COVID elite athletes showed that persistent symptoms correlate with altered immune and natural killer cells rather than deconditioning, as these individuals maintained high VO2 max levels. These findings are preliminary conference reports and require validation in larger cohorts,
+    and the exertional stand protocols must be conducted under strict supervision to avoid triggering severe PEM crashes.'
+de:
+  title: Konferenzvortrag zur BioSig-PEM-Studie kartiert Stoffwechsel- und Erholungsphänotypen
+  plain_summary: Vorläufige Tagungsergebnisse der deutschen BioSig-PEM-Studie zeigten nach einem kurzen Aufstehtest drei verschiedene Muster des Laktatabbaus sowie unterschiedliche Gesamterholungstypen. Die Daten warten noch auf eine vollständige begutachtete Publikation, und Belastungsprovokationen erfordern wegen des Crash-Risikos strenge Überwachung.
+  detail: 'Ein Konferenzvortrag stellte vorläufige Ergebnisse der BMBF-geförderten Studie „BioSig-PEM“ vor, die über fünf Tage und vier Nächte mittels Tiefenphänotypisierung multisystemische Biosignaturen von PEM und Erholungskinetik untersucht. Anhand eines einminütigen Aufstehtests zur Messung von Laktat- und Glukosereaktionen identifizierten die Forschenden drei Muster der Laktat-Erholung: effiziente Clearance, fehlende Clearance (Plateau) sowie ein Hyperlaktat-Gipfel mit minimalem Abbau. Zudem grenzte die Studie drei globale Erholungsphänotypen ab – von global beeinträchtigt (schlechteste kardiale Erholung, höchste Symptomlast) bis physiologisch erholt. Daten von Post-COVID-Leistungssportlern zeigten außerdem, dass anhaltende Beschwerden trotz hoher VO2max mit veränderten Immun- und NK-Zellen korrelierten statt mit Dekonditionierung. Es handelt sich um vorläufige Konferenzdaten, die in größeren Kohorten bestätigt werden müssen, und Provokationstests müssen streng überwacht werden, um
+    schwere PEM-Einbrüche zu vermeiden.'

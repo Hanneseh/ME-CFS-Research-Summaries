@@ -1,0 +1,18 @@
+id: 2026-06-28_glycosylation-study-suggests-immune-and-red-blood-cell
+date: '2026-06-28'
+date_display: '2026-06-28'
+date_precision: exact
+source_type: report
+study_design: Cohort study
+sources:
+- label: Garcia de Otazo Hernandez 2026, TU Wien thesis PDF
+  url: https://repositum.tuwien.at/bitstream/20.500.12708/228796/1/Garcia%2520de%2520Otazo%2520Hernandez%2520Daniel%2520-%25202026%2520-%2520Uncovering%2520glycosylation%2520changes%2520in...pdf
+  kind: other
+en:
+  title: Glycosylation study suggests immune and red-blood-cell desialylation changes in ME/CFS and Long COVID
+  plain_summary: A study from TU Wien found altered sugar coatings on antibodies and red blood cells—along with higher free sialic acid in blood—in people with ME/CFS and Long COVID. Because these sugar tags affect how antibodies act and how red blood cells flow, this offers a clue linking immunity to circulation, though the ME/CFS group was small.
+  detail: A comparative cohort study from TU Wien found higher free serum sialic acid in symptomatic ME/CFS and Long COVID groups, altered IgG N-glycan patterns, and reduced lectin-based hemagglutination in ME/CFS red blood cells consistent with surface desialylation. These findings matter because glycosylation affects antibody behavior, cell-cell signaling, and the electrical and mechanical properties of red blood cells, so the result could help connect immune dysregulation to vascular symptoms. The study also reported overrepresentation of blood type A in the ME/CFS cohort, which is interesting as a susceptibility clue but remains preliminary. This is still an early cohort study with a small ME/CFS sample, so it should be treated as a lead rather than a settled biomarker framework.
+de:
+  title: Glykosylierungsstudie deutet auf veränderte Zuckerstrukturen an Immun- und roten Blutzellen bei ME/CFS und Long COVID hin
+  plain_summary: Eine Studie der TU Wien fand bei ME/CFS und Long COVID erhöhte freie Sialinsäure im Blut sowie veränderte Zuckerketten an Antikörpern und roten Blutkörperchen. Da solche Zuckerstrukturen sowohl Antikörperreaktionen als auch die Fließeigenschaften roter Blutzellen beeinflussen, könnte dies Immun- und Gefäßbefunde verbinden – die ME/CFS-Gruppe war allerdings noch klein.
+  detail: Eine vergleichende Kohortenstudie der TU Wien fand bei symptomatischen ME/CFS- und Long-COVID-Gruppen höhere Spiegel freier Sialinsäure im Serum, veränderte IgG-N-Glykan-Muster sowie eine verringerte Lektin-vermittelte Hämagglutination roter Blutkörperchen bei ME/CFS, was zu einer Entzuckerung (Desialylierung) der Zelloberfläche passt. Da Glykosylierungen das Verhalten von Antikörpern, Zell-Zell-Signale sowie die elektrischen und mechanischen Eigenschaften roter Blutkörperchen steuern, könnte dieses Ergebnis eine Brücke zwischen Immundysregulation und Durchblutungssymptomen schlagen; zudem fiel eine Häufung der Blutgruppe A in der ME/CFS-Kohorte als vorläufiger Hinweis auf. Es handelt sich jedoch um eine frühe Kohortenstudie mit kleiner ME/CFS-Stichprobe, die als Ansatzpunkt und noch nicht als etabliertes Biomarker-Verfahren zu werten ist.

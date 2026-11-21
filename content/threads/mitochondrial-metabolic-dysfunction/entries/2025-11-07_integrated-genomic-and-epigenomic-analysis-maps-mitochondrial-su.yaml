@@ -1,0 +1,26 @@
+id: 2025-11-07_integrated-genomic-and-epigenomic-analysis-maps-mitochondrial-su
+date: '2025-11-07'
+date_display: '2025-11-07'
+date_precision: exact
+source_type: paper
+study_design: GWAS
+sources:
+- label: Elremaly et al. 2025, DNA
+  url: https://doi.org/10.3390/dna5040053
+  kind: paper
+en:
+  title: Integrated genomic and epigenomic analysis maps mitochondrial susceptibility
+  plain_summary: A genetic review pulled together twin studies and the DecodeME GWAS to outline how inherited DNA variants and epigenetic shifts may affect mitochondrial energy pathways. Because it synthesizes existing datasets, these links still need testing across diverse populations.
+  detail: '- **What changed:** A molecular review synthesized twin studies, Candidate Gene Association studies, and the DecodeME GWAS to map the role of mitochondrial DNA variations and epigenetic changes in predisposing individuals to post-viral chronic illness.
+
+    - **Why it matters:** This establishes that genetic variations in energy metabolism pathways and environmental-induced epigenetic shifts combine to drive mitochondrial dysfunction and transposable element activation.
+
+    - **What it does not prove yet:** The review consolidates existing data and does not provide new primary clinical datasets, and the identified genomic/epigenomic associations require replication across diverse multi-ethnic populations.'
+de:
+  title: Integrierte genomische und epigenomische Analyse kartiert mitochondriale Anfälligkeit
+  plain_summary: Eine genetische Übersichtsarbeit verbindet Zwillingsstudien und die DecodeME-GWAS, um erbliche und epigenetische Risiken im Energiestoffwechsel zu umreißen. Da sie vorhandene Daten zusammenführt, müssen die Befunde noch in vielfältigeren Gruppen überprüft werden.
+  detail: '- **Was sich gezeigt hat:** Eine molekulare Übersichtsarbeit führte Zwillingsstudien, Kandidatengen-Assoziationsstudien und die DecodeME-GWAS zusammen, um die Rolle mitochondrialer DNA-Varianten und epigenetischer Veränderungen bei der Veranlagung für postvirale chronische Erkrankungen abzubilden.
+
+    - **Warum das wichtig ist:** Dies verdeutlicht, dass genetische Varianten in Energiestoffwechselwegen und umweltbedingte epigenetische Verschiebungen zusammenwirken können, um mitochondriale Dysfunktion und eine Aktivierung transponierbarer Elemente voranzutreiben.
+
+    - **Was damit noch nicht belegt ist:** Die Arbeit bündelt bestehende Daten ohne eigene neue Patientenkohorten, und die identifizierten genomischen und epigenomischen Assoziationen bedürfen einer Replikation in ethnisch vielfältigeren Populationen.'

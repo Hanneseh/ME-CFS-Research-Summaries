@@ -1,0 +1,20 @@
+id: 2026-09-25_pycnovid-secondary-analysis-sets-an-8-point-eq
+date: '2026-09-25'
+date_display: '2026-09-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Kopp et al. 2026, BMJ Open
+  url: https://doi.org/10.1136/bmjopen-2026-121051
+  kind: paper
+en:
+  title: PYCNOVID secondary analysis sets an 8-point EQ-VAS minimal important difference in post-COVID condition
+  plain_summary: Using data from 153 Long COVID trial participants, researchers calculated that an 8-point change on the 0–100 EQ-VAS health scale represents a meaningful shift and advised averaging daily ratings over a week. This measurement analysis says nothing about whether the tested supplement works or whether it fits ME/CFS.
+  detail: Kopp and colleagues at the University of Zurich pooled both arms of the single-centre Swiss PYCNOVID trial, a 12-week comparison of Pycnogenol with placebo, to study how the EQ-VAS, a single 0–100 self-rating of health, behaves in adults with post-COVID-19 condition. Participants rated EQ-VAS on seven consecutive days before randomisation and again at 12 weeks. Among 153 participants, baseline self-rated health was low (median 48.7) and day-to-day variability was considerable (median within-person SD 6.4 points). Triangulating distribution-based estimates with an anchor-based estimate from FACIT-Fatigue, the only anchor meeting the prespecified correlation threshold, the authors set a minimal important difference of 8 points and suggest that a weekly average of daily ratings is more robust than a single-day rating. This is a measurement paper and says nothing about whether Pycnogenol works. The population was post-COVID condition rather than criteria-defined ME/CFS, the share with
+    PEM was not reported, and applicability to housebound or bedbound patients is unknown.
+de:
+  title: PYCNOVID-Sekundäranalyse bestimmt 8 Punkte als klinisch bedeutsamen Unterschied auf der EQ-VAS-Skala bei Post-COVID-Zustand
+  plain_summary: Anhand von Daten von 153 Teilnehmenden einer Long-COVID-Studie ermittelten Forschende, dass eine Veränderung um 8 Punkte auf der 0–100-Gesundheitsskala EQ-VAS klinisch bedeutsam ist, und empfehlen Wochenmittelwerte statt Einzelmessungen. Diese Messstudie sagt nichts darüber aus, ob das geprüfte Präparat wirkt oder ob die Schwelle für ME/CFS gilt.
+  detail: Kopp und Kolleginnen und Kollegen an der Universität Zürich führten beide Arme der monozentrischen Schweizer PYCNOVID-Studie – eines 12-wöchigen Vergleichs von Pycnogenol mit Placebo – zusammen, um das Verhalten der einzelnen 0–100-Gesundheits-Selbstbewertung EQ-VAS bei Erwachsenen mit Post-COVID-19-Zustand zu untersuchen. Teilnehmende bewerteten die EQ-VAS an sieben aufeinanderfolgenden Tagen vor Randomisierung sowie erneut nach 12 Wochen. Bei 153 Personen war die Ausgangsgesundheit niedrig (Median 48,7) bei beträchtlicher Tagesschwankung (mediane intraindividuelle Standardabweichung 6,4 Punkte). Aus Verteilungsmaßen und einer ankerbasierten Schätzung über FACIT-Fatigue als einzigem ausreichend korrelierendem Anker leiteten die Autorinnen und Autoren eine minimal bedeutsame Veränderung von 8 Punkten ab und empfehlen ein Wochenmittel täglicher Bewertungen gegenüber einer Einzelmessung. Als reine Messmethodik-Arbeit trifft sie keine Aussage zur Wirksamkeit von Pycnogenol; zudem
+    untersuchte sie Post-COVID-Zustand statt kriterienbasiertem ME/CFS ohne Angaben zum PEM-Anteil oder zur Übertragbarkeit auf Hausgebundene und Bettlägerige.

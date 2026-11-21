@@ -1,0 +1,26 @@
+id: 2026-10-01_leopoldina-statement-on-post-infectious-diseases-sets-german
+date: '2026-10-01'
+date_display: '2026-10-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'Leopoldina 2026, Postinfektiöse Erkrankungen: Versorgung, Dateninfrastruktur, Forschung und Prävention'
+  url: https://doi.org/10.26164/leopoldina_03_01433
+  kind: paper
+- label: Leopoldina press release via idw, 2026-10-01
+  url: https://nachrichten.idw-online.de/2026/10/01/long-covid-besser-verstehen-und-versorgungsluecken-schliessen-leopoldina-stellungnahme-zu-postinfektioesen-erkrankungen
+  kind: announcement
+- label: Deutsches Ärzteblatt reporting, 2026-10-01
+  url: https://www.aerzteblatt.de/news/leopoldina-mehr-aufmerksamkeit-fur-long-covid-soll-versorgung-verbessern-1e77226c-9404-47bc-9110-ca0e549a0cfb
+  kind: other
+en:
+  title: Leopoldina statement on post-infectious diseases sets German care, data and research priorities
+  plain_summary: Germany's national science academy Leopoldina estimated 1.5 million people affected by Long COVID or ME/CFS and called for specialized clinics, a national registry, and warnings against activating rehab in PEM. These are non-binding policy recommendations summarized from press coverage rather than new patient data.
+  detail: Germany's National Academy of Sciences Leopoldina, in a statement co-chaired by Regina Riphahn and Norbert Suttorp, estimates that about 1.5 million people in Germany live with Long COVID or ME/CFS and puts long-term economic costs at 0.1–0.2% of GDP. As quoted in Deutsches Ärzteblatt, Carmen Scheibenbogen said the 2023 G-BA care directive has hardly been implemented. The statement calls for coordinated pathways from primary to specialist care, specialised outpatient centres, use of available symptomatic treatment now (such as the BfArM therapy compass), a national registry linking cohorts, electronic records, and billing data, pathomechanism research beyond drug repurposing, and prevention. According to a Fatigatio e.V. summary of the statement, it warns that classic activating rehabilitation can cause marked and sometimes lasting deterioration in people with PEM and that declining or stopping such measures should carry no social-law penalty (see [Post-Exertional Malaise & Exercise
+    Physiology](thread:pem-exercise-physiology) and [Severe ME/CFS Care](thread:severe-mecfs-care)). These are non-binding policy recommendations with no new patient data, and the details here come from the press release and reporting rather than the full statement text.
+de:
+  title: Leopoldina-Stellungnahme zu postinfektiösen Erkrankungen setzt deutsche Prioritäten für Versorgung, Daten und Forschung
+  plain_summary: Die Nationale Akademie der Wissenschaften Leopoldina schätzt rund 1,5 Millionen Betroffene von Long COVID oder ME/CFS in Deutschland und fordert Spezialambulanzen, ein nationales Register sowie Warnungen vor aktivierender Reha bei PEM. Es handelt sich um unverbindliche Empfehlungen ohne eigene neue Patientendaten.
+  detail: Die Nationale Akademie der Wissenschaften Leopoldina schätzt in einer von Regina Riphahn und Norbert Suttorp mitgeleiteten Stellungnahme, dass rund 1,5 Millionen Menschen in Deutschland mit Long COVID oder ME/CFS leben, und beziffert die langfristigen volkswirtschaftlichen Kosten auf 0,1–0,2 % des BIP. Wie im Deutschen Ärzteblatt zitiert, erklärte Carmen Scheibenbogen, die G-BA-Versorgungsrichtlinie von 2023 sei bislang kaum umgesetzt. Die Stellungnahme fordert koordinierte Versorgungspfade von der Hausarztpraxis zu Spezialambulanzen, spezialisierte Zentren, die Nutzung verfügbarer symptomatischer Therapien schon jetzt (etwa über den BfArM-Therapiekompass), ein nationales Register zur Verknüpfung von Kohorten, Patientenakten und Abrechnungsdaten, Pathomechanismus-Forschung über reines Drug Repurposing hinaus sowie Prävention. Laut einer Zusammenfassung von Fatigatio e.V. warnt die Stellungnahme davor, dass klassische aktivierende Rehabilitation bei PEM zu deutlicher und teils anhaltender
+    Verschlechterung führen kann, und betont, dass das Ablehnen oder Abbrechen solcher Maßnahmen keine sozialrechtlichen Nachteile nach sich ziehen dürfe (siehe [Post-Exertional Malaise & Belastungsphysiologie](thread:pem-exercise-physiology) und [Versorgung bei schwerem ME/CFS](thread:severe-mecfs-care)). Es handelt sich um unverbindliche politische Empfehlungen ohne neue Patientendaten, deren Details hier auf Pressemitteilung und Berichterstattung statt dem Volltext beruhen.

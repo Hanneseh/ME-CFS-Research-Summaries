@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -20,8 +21,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -29,27 +28,16 @@ jobs:
           node-version: 22
           cache: npm
 
-      - name: Cache Quartz plugins
-        uses: actions/cache@v4
-        with:
-          path: .quartz/plugins
-          key: ${{ runner.os }}-quartz-plugins-${{ hashFiles('quartz.lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-quartz-plugins-
-
-      - name: Install Dependencies
+      - name: Install dependencies
         run: npm ci
 
-      - name: Install Quartz plugins
-        run: npx quartz plugin install --from-config
-
-      - name: Build Quartz
-        run: npx quartz build
+      - name: Build site
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: ./dist
 
   deploy:
     needs: build

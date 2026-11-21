@@ -1,0 +1,20 @@
+id: 2025-12-08_germany-announces-500-million-national-decade-against-post
+date: '2025-12-08'
+date_display: '2025-12-08'
+date_precision: exact
+source_type: announcement
+study_design: null
+sources:
+- label: Marshall 2025, Nature
+  url: https://doi.org/10.1038/d41586-025-03904-w
+  kind: paper
+en:
+  title: Germany announces €500 million National Decade Against Post-Infectious Diseases
+  plain_summary: Germany pledged €500 million over ten years starting in 2026 to study Long COVID, ME/CFS, and related post-infectious illnesses. This is a major funding commitment rather than research results, and scientists and patients are watching how much goes to biomedical trials.
+  detail: 'Germany committed €500 million over the period 2026–2036 to a dedicated national research program targeting Long COVID, ME/CFS, and related post-viral conditions under the framing of a "National Decade Against Post-Infectious Diseases." The announcement, reported in Nature, describes plans for the National Clinical Study Group (NKSG) to accelerate clinical trials for prioritized off-label candidates and to build longitudinal research infrastructure that standard short-term funding cycles have not supported. The scale is notable: at roughly $582 million, it is larger than any single national government commitment to this disease cluster to date. Long COVID is estimated to cost the global economy approximately $1 trillion annually, providing the economic framing for the investment. A key open question—raised by both patient advocates and researchers interviewed for the Nature piece—is whether the funds will prioritize mechanistic biomedical inquiry or flow toward psychosocial treatment
+    models that patient groups consider harmful or insufficiently grounded.'
+de:
+  title: Deutschland kündigt „Nationale Dekade gegen postinfektiöse Erkrankungen“ mit 500 Millionen Euro an
+  plain_summary: Deutschland hat ab 2026 über zehn Jahre hinweg 500 Millionen Euro für die Erforschung von Long COVID, ME/CFS und verwandten postinfektiösen Erkrankungen zugesagt. Das ist eine große Förderzusage ohne eigene Studienergebnisse; Fachleute und Betroffene beobachten nun genau, wie stark die Mittel in biomedizinische Studien fließen.
+  detail: 'Deutschland hat für den Zeitraum 2026–2036 insgesamt 500 Millionen Euro für ein nationales Forschungsprogramm zu Long COVID, ME/CFS und verwandten postviralen Erkrankungen unter dem Titel „Nationale Dekade gegen postinfektiöse Erkrankungen“ zugesagt. Wie in Nature berichtet, sieht die Ankündigung vor, dass die Nationale Klinische Studiengruppe (NKSG) klinische Studien zu priorisierten Off-Label-Kandidaten beschleunigt und eine langfristige Forschungsinfrastruktur aufbaut, die übliche kurzfristige Förderzyklen bislang nicht ermöglicht haben. Der Umfang ist bemerkenswert: Mit umgerechnet rund 582 Millionen US-Dollar handelt es sich um die bislang größte nationale Einzelzusage für dieses Erkrankungsspektrum. Als wirtschaftlicher Hintergrund wird angeführt, dass Long COVID die Weltwirtschaft schätzungsweise rund eine Billion US-Dollar pro Jahr kostet. Eine zentrale offene Frage – sowohl von Patientenvertretungen als auch von Forschenden in dem Nature-Beitrag aufgeworfen – lautet,
+    ob die Gelder vorrangig in mechanistische biomedizinische Forschung fließen oder in psychosoziale Behandlungsansätze, die Betroffenengruppen als schädlich oder unzureichend belegt ablehnen.'

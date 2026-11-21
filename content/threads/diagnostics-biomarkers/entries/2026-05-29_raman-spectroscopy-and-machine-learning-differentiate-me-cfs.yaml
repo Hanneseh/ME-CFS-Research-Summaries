@@ -1,0 +1,19 @@
+id: 2026-05-29_raman-spectroscopy-and-machine-learning-differentiate-me-cfs
+date: '2026-05-29'
+date_display: '2026-05-29'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Heidarifard et al. 2026, International Journal of Molecular Sciences
+  url: https://pubmed.ncbi.nlm.nih.gov/42278463/
+  kind: paper
+en:
+  title: Raman spectroscopy and machine learning differentiate ME/CFS from controls at rest and after standardized stress
+  plain_summary: Using laser light (Raman spectroscopy) on blood plasma from 115 ME/CFS patients and 45 controls, researchers distinguished patients with 79% accuracy at rest and 84% after mild arm-cuff stress. While promising because it cut false positives in half after stress, the small, imbalanced control group means independent validation is needed.
+  detail: In a study published in the *International Journal of Molecular Sciences*, Heidarifard et al. developed a label-free blood plasma screening method combining Raman spectroscopy (RS) and machine learning (ML) classification. Testing 115 ME/CFS patients (meeting CCC criteria) and 45 sedentary healthy controls at rest and 90 minutes after a non-invasive mechanical stress challenge (pulsatile arm cuff compression designed to trigger post-exertional responses), the RS-ML models differentiated patients with 79% accuracy (0.85 AUC) at rest, and 84% accuracy (0.83 AUC) post-stress. The post-stress challenge model halved the number of false positives, increasing specificity from 82% to 90%. Discriminant spectral features included altered lipid, protein, and amino acid profiles, suggesting exertion-sensitive metabolic responses. Limitations include a modest control cohort size, sex imbalance between groups, and single-point post-exertional sampling.
+de:
+  title: Raman-Spektroskopie und maschinelles Lernen unterscheiden ME/CFS von Kontrollen in Ruhe und nach standardisierter Belastung
+  plain_summary: Mithilfe von Laserlicht-Analysen (Raman-Spektroskopie) an Blutplasma von 115 ME/CFS-Betroffenen und 45 Kontrollen erreichten Forschende in Ruhe 79 % und nach einer leichten Manschetten-Reizung 84 % Treffsicherheit. Dass der Belastungstest die falsch-positiven Befunde halbierte, ist ermutigend, doch muss das Verfahren wegen der kleinen und unausgewogenen Kontrollgruppe noch unabhängig bestätigt werden.
+  detail: In einer im *International Journal of Molecular Sciences* veröffentlichten Studie entwickelten Heidarifard et al. eine markierungsfreie Screening-Methode für Blutplasma, die Raman-Spektroskopie (RS) mit Machine-Learning-(ML)-Klassifikation kombiniert. Bei der Untersuchung von 115 ME/CFS-Patientinnen und -Patienten (nach CCC-Kriterien) und 45 wenig aktiven gesunden Kontrollen in Ruhe sowie 90 Minuten nach einer nicht-invasiven mechanischen Stressprovokation (pulsierende Armmanschetten-Kompression zur Auslösung post-exertioneller Reaktionen) unterschieden die RS-ML-Modelle die Gruppen in Ruhe mit 79 % Genauigkeit (AUC 0,85) und nach Belastung mit 84 % Genauigkeit (AUC 0,83). Das Modell nach Stressprovokation halbierte die Zahl falsch-positiver Ergebnisse und erhöhte die Spezifität von 82 % auf 90 %. Zu den trennscharfen Spektralmerkmalen gehörten veränderte Lipid-, Protein- und Aminosäureprofile, was auf belastungssensitive Stoffwechselreaktionen hindeutet. Einschränkungen sind die
+    moderate Größe der Kontrollgruppe, eine Geschlechterunausgewogenheit zwischen den Gruppen sowie die Messung zu nur einem einzigen Zeitpunkt nach Belastung.

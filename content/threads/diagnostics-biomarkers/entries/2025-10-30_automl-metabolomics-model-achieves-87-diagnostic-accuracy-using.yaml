@@ -1,0 +1,19 @@
+id: 2025-10-30_automl-metabolomics-model-achieves-87-diagnostic-accuracy-using
+date: '2025-10-30'
+date_display: '2025-10-30'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Yagin et al. 2025, Diagnostics
+  url: https://doi.org/10.3390/diagnostics15212755
+  kind: paper
+en:
+  title: AutoML metabolomics model achieves 87% diagnostic accuracy using explainable AI
+  plain_summary: Using machine learning on blood metabolites from 106 ME/CFS patients and 91 controls, researchers reached 87% accuracy and spotted bottlenecks in cellular energy processing. Because the analysis reused an existing public dataset at one point in time, it still needs confirmation in newly recruited patients.
+  detail: This study from Inonu University and partner institutions benchmarked three Automated Machine Learning frameworks—TPOT, Auto-Sklearn, and H2O AutoML—against a metabolomic and lipidomic dataset of 888 features from 106 ME/CFS patients and 91 matched controls. TPOT outperformed the others with 87.3 percent accuracy and a 0.853 AUC. SHAP attribution analysis identified elevated succinic acid and pyruvic acid as the strongest disease signals, implicating a bottleneck at the glycolysis-to-TCA-cycle transition, alongside decreased leucine and prostaglandin D₂. The paper's use of explainable AI translates model predictions into biochemical pathways accessible to clinicians rather than leaving them as opaque scores. Sample size is modest, data are cross-sectional, and the dataset was publicly available rather than a prospective clinical collection.
+de:
+  title: AutoML-Metabolomik-Modell erreicht 87 % diagnostische Genauigkeit mit erklärbarer KI
+  plain_summary: Mithilfe von maschinellem Lernen auf Blut-Stoffwechseldaten von 106 ME/CFS-Betroffenen und 91 Kontrollen erreichten Forschende 87 % Treffsicherheit und fanden Hinweise auf Engpässe im zellulären Energiestoffwechsel. Da die Analyse auf einem bereits vorhandenen öffentlichen Querschnittsdatensatz beruht, steht eine Prüfung an neu erhobenen klinischen Gruppen noch aus.
+  detail: Diese Studie der Inonu University und von Partnerinstitutionen verglich drei Automated-Machine-Learning-Frameworks – TPOT, Auto-Sklearn und H2O AutoML – an einem Metabolomik- und Lipidomik-Datensatz mit 888 Merkmalen von 106 ME/CFS-Patientinnen und -Patienten sowie 91 gematchten Kontrollpersonen. TPOT schnitt mit 87,3 Prozent Genauigkeit und einer AUC von 0,853 am besten ab. Eine SHAP-Attributionsanalyse identifizierte erhöhte Werte von Bernsteinsäure (Succinat) und Brenztraubensäure (Pyruvat) als stärkste Krankheitssignale – ein Hinweis auf einen Engpass am Übergang von der Glykolyse in den Citratzyklus – neben verringertem Leucin und Prostaglandin D₂. Der Einsatz erklärbarer KI übersetzt die Modellvorhersagen in biochemische Signalwege, die für Ärztinnen und Ärzte nachvollziehbar bleiben, statt undurchsichtige Scores zu liefern. Die Stichprobengröße ist moderat, die Daten stammen aus einem Querschnitt, und der Datensatz war öffentlich verfügbar und keine prospektive klinische
+    Erhebung.

@@ -1,0 +1,19 @@
+id: 2024-09-06_review-proposes-multi-systemic-model-linking-microvascular-dysfu
+date: '2024-09-06'
+date_display: '2024-09-06'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Haunhorst et al. 2024, Infection
+  url: https://doi.org/10.1007/s15010-024-02386-8
+  kind: paper
+en:
+  title: Review proposes multi-systemic model linking microvascular dysfunction to post-exertional malaise
+  plain_summary: A review article connects poor small-vessel blood flow and tiny blood clots to cell energy failure during post-exertional crashes. It offers a useful model to test, but does not present new patient experiments.
+  detail: A comprehensive narrative review synthesized existing evidence to construct a biological model for post-exertional malaise (PEM), linking microvascular dysfunction to cellular energy failure. The model posits that impaired microcirculation (including endothelial damage and fibrinolysis-resistant microclots) restricts muscle perfusion, forcing a premature switch to anaerobic metabolism during minimal physical activity. This metabolic shift leads to an accumulation of lactate and reactive oxygen species, triggering immune activation and secondary tissue damage in a self-propagating feedback loop. This model establishes a multi-systemic framework that moves clinical focus toward investigating endothelial function and perfusion-targeted interventions like L-arginine. However, the review does not generate new clinical or experimental data, and it does not prove that all described pathophysiological features coexist in every patient.
+de:
+  title: Übersichtsarbeit schlägt Mehrsystem-Modell von Mikrozirkulationsstörung und PEM vor
+  plain_summary: Eine Übersichtsarbeit verknüpft gestörte Durchblutung in kleinsten Gefäßen und Mikrogerinnsel mit Energiemangel in den Zellen bei PEM. Sie liefert ein plausibles Modell für künftige Studien, bringt aber noch keine neuen Patientendaten.
+  detail: Eine umfassende narrative Übersichtsarbeit fasste bestehende Erkenntnisse zu einem biologischen Modell für Post-Exertional Malaise (PEM) zusammen und verknüpfte mikrovaskuläre Funktionsstörungen mit zellulärem Energieversagen. Das Modell geht davon aus, dass eine gestörte Mikrozirkulation (einschließlich Endothelschäden und schwer abbaubarer Mikrogerinnsel) die Muskeldurchblutung einschränkt und schon bei geringer körperlicher Aktivität einen vorzeitigen Wechsel in die anaerobe Energiegewinnung erzwingt. Diese Stoffwechselverschiebung führt zu einer Anhäufung von Laktat und reaktiven Sauerstoffspezies, was Immunaktivierung und sekundäre Gewebeschäden in einer sich selbst verstärkenden Rückkopplungsschleife anstößt. Damit entsteht ein mehrsystemiger Rahmen, der das klinische Augenmerk auf Endothelfunktion und durchblutungsfördernde Ansätze wie L-Arginin lenkt. Die Übersichtsarbeit liefert jedoch keine neuen klinischen oder experimentellen Daten und beweist nicht, dass alle beschriebenen
+    Krankheitsmerkmale bei jeder betroffenen Person gleichzeitig vorliegen.

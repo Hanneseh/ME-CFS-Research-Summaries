@@ -1,0 +1,19 @@
+id: 2026-07-10_actigraphy-study-links-irregular-light-exposure-patterns-with
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: Cross-sectional study
+sources:
+- label: 'Actigraphy light exposure study: Ortiz-Gomez et al. 2026, Chronobiology International'
+  url: https://pubmed.ncbi.nlm.nih.gov/42399727/
+  kind: paper
+en:
+  title: Actigraphy study links irregular light exposure patterns with worse fatigue, sleep, and metabolic markers in ME/CFS
+  plain_summary: A week of wrist-sensor tracking in 100 ME/CFS patients found that irregular or nighttime light exposure went along with worse fatigue, sleep, and blood markers. Because it is a one-week snapshot, it cannot tell whether light patterns worsen symptoms or whether housebound and light-sensitive patients simply get less daylight.
+  detail: An observational cross-sectional study using wrist-worn actigraphy monitored light exposure, activity, and wrist temperature in 100 ME/CFS patients and 56 healthy controls at home for one week. Principal component analysis revealed that a "healthy" light pattern (stable daytime light, low nocturnal light) was associated with significantly reduced fatigue, fewer sleep complaints, and milder autonomic dysfunction. In contrast, irregular or nocturnal light exposure correlated with worse clinical symptoms, lower serotonin concentrations, and elevated levels of triglycerides and vascular cell adhesion molecule-1 (VCAM-1). This identifies light exposure patterns as a potentially modifiable, non-invasive lifestyle target for stabilizing circadian rhythms and managing multi-system symptoms. However, due to the observational, cross-sectional design, causality cannot be established. Severely ill or photophobic patients may simply be unable to get daytime light exposure due to being housebound
+    or sensitive to sensory overload.
+de:
+  title: Aktigrafie-Studie verknüpft unregelmäßige Lichtexposition bei ME/CFS mit stärkerer Fatigue, Schlaf- und Stoffwechselmarkern
+  plain_summary: Eine einwöchige Messung mit Handgelenksensoren bei 100 ME/CFS-Betroffenen zeigte, dass unregelmäßige oder nächtliche Lichtexposition mit stärkerer Fatigue, Schlafproblemen und ungünstigeren Blutwerten einherging. Als Querschnitts-Momentaufnahme klärt sie jedoch nicht, ob Lichtmuster Symptome beeinflussen oder ob Hausgebundene und Lichtempfindliche schlicht weniger Tageslicht abbekommen.
+  detail: 'Eine beobachtende Querschnittsstudie erfasste mittels Aktigrafie am Handgelenk eine Woche lang Lichtexposition, Aktivität und Hauttemperatur zu Hause bei 100 ME/CFS-Patientinnen und -Patienten sowie 56 gesunden Kontrollpersonen. Eine Hauptkomponentenanalyse zeigte, dass ein „gesundes“ Lichtmuster (stabiles Tageslicht, wenig nächtliches Licht) mit deutlich geringerer Fatigue, weniger Schlafbeschwerden und milderer autonomer Dysfunktion verbunden war. Unregelmäßige oder nächtliche Lichtexposition korrelierte dagegen mit stärkeren Beschwerden, niedrigeren Serotoninkonzentrationen sowie erhöhten Triglyceriden und VCAM-1-Werten. Dies lenkt den Blick auf Lichtexposition als potenziell veränderbaren Ansatz zur Stabilisierung zirkadianer Rhythmen. Wegen des beobachtenden Querschnittsdesigns lässt sich jedoch keine Kausalität ableiten: Schwer kranke oder lichtempfindliche Betroffene können schlicht aufgrund von Bettlägerigkeit oder Reizüberempfindlichkeit weniger Tageslicht erhalten.'

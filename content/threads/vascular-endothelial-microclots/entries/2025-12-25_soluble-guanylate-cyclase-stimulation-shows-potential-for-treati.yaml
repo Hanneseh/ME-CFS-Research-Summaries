@@ -1,0 +1,19 @@
+id: 2025-12-25_soluble-guanylate-cyclase-stimulation-shows-potential-for-treati
+date: '2025-12-25'
+date_display: '2025-12-25'
+date_precision: exact
+source_type: report
+study_design: null
+sources:
+- label: Scheibenbogen et al. 2025, USPTO Patent
+  url: https://patents.google.com/patent/US20250387391A1/en
+  kind: other
+en:
+  title: Soluble guanylate cyclase stimulation shows potential for treating chronic vascular dysfunction
+  plain_summary: An early Phase 2a trial of 104 people tested the blood-vessel drug vericiguat and reported better blood flow and physical function scores with good tolerability. Larger Phase 3 trials are still needed to confirm real clinical benefit and broader safety.
+  detail: A patent and associated Phase 2a clinical trial (VERI-LONG/VERI-ME) involving 104 participants evaluated the soluble guanylate cyclase (sGC) activator vericiguat to treat chronic vascular impairment. The therapeutic approach is based on the hypothesis that stimulating the sGC/cGMP pathway restores blood vessel dilation, breaking the cycle of low perfusion, tissue hypoxia, and mitochondrial damage. Titrated administration of the sGC stimulator improved microvascular perfusion and physical function (measured by SF-36) and was generally well-tolerated. This represents a significant shift from observational biomarkers to targeted pharmacological intervention designed to improve nitric oxide bioavailability. However, these Phase 2a results represent preliminary efficacy in a cohort restricted to ages 18 to 50, and larger phase 3 trials are necessary to confirm clinical benefit and establish safety profiles.
+de:
+  title: Stimulation der löslichen Guanylatzyklase zeigt Potenzial zur Behandlung chronischer Gefäßdysfunktion
+  plain_summary: Eine frühe Phase-2a-Studie mit 104 Teilnehmenden prüfte den Gefäßwirkstoff Vericiguat und berichtete verbesserte Durchblutungs- und Funktionswerte bei guter Verträglichkeit. Größere Phase-3-Studien sind nötig, um den klinischen Nutzen zu bestätigen.
+  detail: Ein Patent und eine zugehörige klinische Phase-2a-Studie (VERI-LONG/VERI-ME) mit 104 Teilnehmenden untersuchten den Stimulator der löslichen Guanylatzyklase (sGC) Vericiguat zur Behandlung chronischer Gefäßfunktionsstörungen. Der Therapieansatz beruht auf der Hypothese, dass eine Aktivierung des sGC/cGMP-Signalwegs die Gefäßerweiterung wiederherstellt und so den Kreislauf aus Minderdurchblutung, Gewebe-Hypoxie und Mitochondrienschäden durchbricht. Die eingeschlichene Gabe des sGC-Stimulators verbesserte die mikrovaskuläre Durchblutung sowie die körperliche Funktion (gemessen per SF-36) und wurde insgesamt gut vertragen. Dies markiert einen wichtigen Schritt von reinen Beobachtungs-Biomarkern hin zu einer gezielten medikamentösen Intervention zur Verbesserung der Stickstoffmonoxid-Verfügbarkeit. Die Phase-2a-Daten liefern jedoch erst vorläufige Wirksamkeitshinweise in einer auf 18 bis 50 Jahre begrenzten Kohorte; größere Phase-3-Studien sind erforderlich, um den Nutzen und das Sicherheitsprofil
+    zu sichern.

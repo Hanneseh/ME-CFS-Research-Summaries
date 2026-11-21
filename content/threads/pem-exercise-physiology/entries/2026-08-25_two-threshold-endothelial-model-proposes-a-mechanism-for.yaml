@@ -1,0 +1,18 @@
+id: 2026-08-25_two-threshold-endothelial-model-proposes-a-mechanism-for
+date: '2026-08-25'
+date_display: '2026-08-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Karipidis & Karipidis 2026, Microcirculation
+  url: https://doi.org/10.1111/micc.70082
+  kind: paper
+en:
+  title: Two-threshold endothelial model proposes a mechanism for delayed PEM
+  plain_summary: A hypothesis paper proposes that depleted BH4 and disrupted blood-vessel nitric oxide signaling under shear stress could trigger a delayed oxidative cascade driving PEM. With no new patient data, safe test protocol, or clinical trial evidence, it remains a mechanistic hypothesis only.
+  detail: Karipidis and Karipidis propose that post-infectious endothelial stress may deplete BH4, allowing eNOS to uncouple under later shear stress and generate a nitro-oxidative cascade that disrupts microvascular perfusion. This is a mechanistic hypothesis with no new participants, no measured PEM threshold, and no validation in severe or bedbound patients. The paper itself imposes no burden, but its suggested pre/post-exertion biomarker framework could provoke PEM and does not establish a safe testing protocol; speculative cofactor or antioxidant targets are not treatment evidence. It is relevant to [Vascular Endothelial Dysfunction & Microclots](thread:vascular-endothelial-microclots) and [Autonomic Dysfunction & POTS](thread:autonomic-dysfunction-pots), while remaining hypothesis-level evidence that cannot support exercise or treatment recommendations.
+de:
+  title: Zwei-Schwellen-Endothelmodell schlägt einen Mechanismus für verzögertes PEM vor
+  plain_summary: Eine Hypothesenarbeit schlägt vor, dass ein Mangel an BH4 und eine Entkopplung von Stickstoffmonoxid in der Gefäßwand unter Scherstress eine verzögerte Kaskade aus oxidativem Stress auslösen und so PEM antreiben könnten. Ohne neue Patientendaten, sicheres Testprotokoll oder Therapienachweise bleibt dies eine rein mechanistische Hypothese.
+  detail: Karipidis und Karipidis schlagen vor, dass postinfektiöser endothelialer Stress den Kofaktor BH4 erschöpfen könnte, sodass das Enzym eNOS bei späterem Scherstress entkoppelt und eine nitro-oxidative Kaskade erzeugt, die die mikrovaskuläre Durchblutung stört. Es handelt sich um eine mechanistische Hypothese ohne neue Teilnehmende, ohne gemessene PEM-Schwelle und ohne Validierung bei schwer oder bettlägerig Erkrankten. Die Arbeit selbst verursacht keine Belastung, doch könnte ihr vorgeschlagenes Vorher-Nachher-Biomarker-Konzept PEM auslösen und begründet kein sicheres Testprotokoll; spekulative Kofaktor- oder Antioxidanz-Ziele stellen keine Therapieevidenz dar. Sie berührt [Vaskuläre, endotheliale Dysfunktion & Mikrogerinnsel](thread:vascular-endothelial-microclots) und [Autonome Dysfunktion & POTS](thread:autonomic-dysfunction-pots), bleibt aber reine Hypothesen-Evidenz ohne Aussagekraft für Training oder Behandlung.

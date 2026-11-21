@@ -1,0 +1,18 @@
+id: 2024-11-06_wirth-and-scheibenbogen-consolidate-acquired-ischemic-mitochondr
+date: '2024-11-06'
+date_display: '2024-11-06'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Scheibenbogen and Wirth 2025, Journal of Cachexia, Sarcopenia and Muscle
+  url: https://doi.org/10.1002/jcsm.13669
+  kind: paper
+en:
+  title: Wirth and Scheibenbogen consolidate acquired ischemic mitochondrial myopathy model
+  plain_summary: Researchers proposed that poor muscle blood flow and low cellular energy in ME/CFS can trigger sodium and calcium buildup inside muscle cells, damaging mitochondria and worsening muscle failure on exertion. This is a conceptual disease model rather than a clinical trial, so it does not yet prove the mechanism or test a treatment.
+  detail: Scheibenbogen and Wirth proposed a model in which impaired skeletal muscle blood flow and energy production create an acquired ischemic mitochondrial myopathy. In this framing, low perfusion and ATP shortage can produce sodium-calcium overload, mitochondrial damage, and persistent exertional muscle failure. This does not prove Na-K-ATPase dysfunction as the initiating lesion, but it gives the pump hypothesis a broader vascular-metabolic context.
+de:
+  title: Wirth und Scheibenbogen bündeln Modell einer erworbenen ischämischen mitochondrialen Myopathie
+  plain_summary: Forschende schlagen ein Modell vor, bei dem gestörte Muskeldurchblutung und Energiemangel bei ME/CFS eine Natrium- und Kalziumüberladung in Muskelzellen auslösen, was Mitochondrien schädigt und Belastungsversagen verstärkt. Dies ist ein konzeptionelles Krankheitsmodell und keine klinische Studie; weder der Mechanismus noch eine Therapie sind damit bewiesen.
+  detail: Scheibenbogen und Wirth schlugen ein Modell vor, bei dem eine gestörte Durchblutung und Energieproduktion im Skelettmuskel eine erworbene ischämische mitochondriale Myopathie hervorrufen. In diesem Rahmen können Minderperfusion und ATP-Mangel zu Natrium-Kalzium-Überladung, Mitochondrienschäden und anhaltendem Muskelversagen bei Belastung führen. Dies beweist zwar keine Na-K-ATPase-Fehlfunktion als auslösende Primärursache, ordnet die Pumpen-Hypothese aber in einen breiteren vaskulär-metabolischen Zusammenhang ein.

@@ -1,0 +1,20 @@
+id: 2026-09-08_severe-long-term-long-covid-cohort-shows-no
+date: '2026-09-08'
+date_display: '2026-09-08'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Humer et al. 2026, Frontiers in Cellular and Infection Microbiology
+  url: https://doi.org/10.3389/fcimb.2026.1920533
+  kind: paper
+en:
+  title: Severe long-term Long COVID cohort shows no rise in circulating NETosis markers
+  plain_summary: A study of 51 people with severe, long-lasting Long COVID found no elevation in three blood markers of neutrophil DNA webs compared with recovered controls. It shows these free-floating blood markers are not consistently raised years into illness, though it did not test clots themselves.
+  detail: In a single-centre, cross-sectional brief report from Erasmus MC, Humer et al. measured three plasma NETosis markers (MPO-DNA, histone-DNA, and citrullinated H3) in 51 people with severe Long COVID and 52 age- and sex-matched controls who had recovered from COVID-19. Inclusion required self-reported PEM and functioning at or below 70% of pre-COVID health; median functioning was 20% after about 3 years of illness. No marker differed significantly between groups (MPO-DNA was borderline, p=0.08), clustering found no subgroups, and levels did not track symptom burden, PEM, or disease duration. This is a counterweight to the Thierry 2025 and Steifman 2026 NET findings, but it measured circulating markers at a single timepoint, not NETs embedded in microclots, and cannot exclude earlier or intermittent NETosis. The cohort was not classified by ME/CFS criteria, groups differed in variant era and supplement use, and bedbound or housebound status was not reported; participation required
+    a blood draw and questionnaires.
+de:
+  title: Schwere langjährige Long-COVID-Kohorte zeigt keinen Anstieg zirkulierender NETose-Marker
+  plain_summary: Eine Studie mit 51 schwer und langjährig von Long COVID Betroffenen fand keine Erhöhung dreier Blutmarker für Immunzell-DNA-Netze gegenüber Genesenen. Frei im Blut messbare NETose-Werte sind damit nicht durchgängig erhöht; Gerinnsel selbst wurden jedoch nicht direkt untersucht.
+  detail: In einem monozentrischen Querschnitts-Kurzbericht des Erasmus MC maßen Humer et al. drei Plasma-NETose-Marker (MPO-DNA, Histon-DNA und citrulliniertes H3) bei 51 Menschen mit schwerem Long COVID und 52 alters- und geschlechtsgleichen, von COVID-19 genesenen Kontrollpersonen. Einschlussvoraussetzungen waren selbstberichtete PEM und ein Funktionsniveau von höchstens 70 % des Vor-COVID-Zustands; der Median lag nach rund drei Jahren Krankheitsdauer bei 20 %. Keiner der Marker unterschied sich signifikant zwischen den Gruppen (MPO-DNA war grenzwertig, p = 0,08), Clusteranalysen fanden keine Untergruppen, und die Werte hingen nicht mit Symptomlast, PEM oder Krankheitsdauer zusammen. Dies bildet ein Gegengewicht zu den NET-Befunden von Thierry 2025 und Steifman 2026, maß allerdings zirkulierende Marker zu einem einzigen Zeitpunkt statt direkt in Mikrogerinnsel eingebetteter NETs und schließt frühere oder phasenweise NETose nicht aus. Die Kohorte war nicht nach ME/CFS-Kriterien klassifiziert,
+    die Gruppen unterschieden sich bei Virusvarianten und Nahrungsergänzungsmitteln, und der Anteil bettlägeriger oder hausgebundener Personen wurde nicht berichtet; die Teilnahme erforderte Blutabnahme und Fragebögen.

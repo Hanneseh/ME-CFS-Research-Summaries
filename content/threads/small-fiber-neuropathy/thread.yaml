@@ -1,0 +1,92 @@
+slug: small-fiber-neuropathy
+group: diagnostics-symptoms-care
+status: active
+evidence_tier: mechanistic
+topics:
+- Small Fiber Neuropathy
+- Dysautonomia
+- POTS
+- Sudoscan
+- Skin Biopsy
+- Corneal Confocal Microscopy
+- Mast Cell Activation
+- Peripheral Neuropathy
+aliases: []
+related_threads:
+- autonomic-dysfunction-pots
+- immune-dysregulation-inflammation
+- diagnostics-biomarkers
+- autoimmunity-autoantibodies
+legacy_path: diagnostics-symptoms-care/small-fiber-neuropathy
+en:
+  title: Small Fiber Neuropathy & Dysautonomia Overlap
+  subtitle: A living thread on peripheral small-fiber neuropathy in ME/CFS and post-COVID, covering skin biopsy and Sudoscan diagnostics, corneal confocal microscopy, the dysautonomia overlap including POTS, and mast-cell or neuroimmune mechanisms driving neuropathic and autonomic symptoms.
+  evidence_label: early — two primary sources, cross-sectional and narrative review
+  plain_summary: Studies show that many people with ME/CFS and Long COVID have measurable damage to tiny pain- and sweat-controlling nerve fibers, often alongside POTS (a sharp heart-rate jump when standing). Routine nerve tests miss these tiny fibers, so specialized tools are needed, and researchers are exploring whether overactive mast cells or immune responses drive the damage. Because only a small number of studies exist so far, it is not yet clear how widespread this pattern is or whether targeted treatments help.
+  takeaway: 'Both ME/CFS and post-COVID condition show objective signs of peripheral small-fiber neuropathy (SFN) and autonomic dysfunction that are measurable with standard neurological tools. A comparative study using tilt-table testing, Sudoscan, and heat-evoked nerve potentials found elevated resting heart rates, a high prevalence of POTS, and delayed C-fiber responses to heat stimuli in both patient groups compared with healthy controls. Notably, abnormal sweat-gland function appeared more frequently in the hands than the feet — a non-length-dependent pattern that differs from the distal-to-proximal neuropathy typical of diabetes or chemotherapy, and that may point toward an immune-mediated or dysautonomic mechanism rather than a metabolic one.
+
+
+    A parallel line of mechanistic evidence proposes mast cell activation as a plausible driver linking SARS-CoV-2 exposure to ongoing peripheral nerve damage. Spike-protein-activated mast cells, which sit in close anatomical proximity to peripheral nerves and blood vessels, release neurotoxic mediators including tryptase and interleukin-6 that can sensitise small-calibre sensory fibres and disrupt both local and central vascular barriers. The source coverage is small — one cross-sectional study and one narrative review — so these mechanistic links remain plausible but not established, and no clinical recommendations can be drawn from the current evidence.'
+  why_it_matters: 'Neuropathic symptoms — burning pain, altered temperature sensation, patchy skin sensations, and autonomic dysregulation — are among the most disabling and least acknowledged features of ME/CFS and post-COVID. For carers and patients, the central difficulty is that these symptoms are frequently dismissed because standard nerve conduction studies, which test large myelinated fibres, return normal results. Small unmyelinated C-fibres and thinly myelinated Aδ-fibres require different testing — Sudoscan, quantitative sensory testing, heat-evoked potentials, skin punch biopsy for intraepidermal nerve fibre density, or corneal confocal microscopy — and those tools are rarely available outside specialist neurology centres.
+
+
+    The research collected here establishes that objective SFN findings are present in a meaningful proportion of ME/CFS and post-COVID patients and that the neuropathy has distinctive features, particularly the non-length-dependent distribution, that may help distinguish it from other causes. A mechanistic framework centred on mast cell activation offers a biological explanation for why these symptoms persist long after acute infection resolves. Understanding the mechanism matters because it points toward a specific class of therapeutic targets — mast cell stabilisers, antihistamines, and anti-inflammatory interventions — even though clinical validation of those targets is still at an early stage.'
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - Standard large-fibre nerve conduction studies are insufficient to detect SFN; objective SFN assessment requires Sudoscan, heat- or cold-evoked potentials, skin punch biopsy, or corneal confocal microscopy. Elevated resting heart rate and a high prevalence of POTS (31% in ME/CFS, 14% in post-COVID in the Azcue et al. cohort) are demonstrable with standard tilt-table testing.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - A non-length-dependent SFN — abnormal sweat-gland function in the hands more than the feet — is present in a subset of ME/CFS and post-COVID patients and may reflect an immune-mediated mechanism rather than a metabolic or length-dependent axonal one. Mast cell activation triggered by spike-protein binding to ACE2 and TLR4 receptors is a biologically coherent mechanism for peripheral nerve sensitisation, autonomic disruption, and blood-brain-barrier compromise in Long COVID.
+  - status: not_established
+    label: Not established
+    items:
+    - Whether SFN prevalence and severity differ meaningfully between ME/CFS and post-COVID beyond the point estimates in a single heterogeneous cohort. Whether mast-cell-directed treatments alter objective SFN measures or autonomic parameters in controlled trials. Whether corneal confocal microscopy — recommended by the Azcue authors as a next step — provides additional diagnostic signal beyond Sudoscan and evoked potentials in these populations.
+  - status: limitations
+    label: Key limitations
+    items:
+    - The Azcue et al. study used unequal group sizes (87 post-COVID, 50 ME/CFS, 50 controls) and unequal sex distributions that could introduce bias; a relatively high rate of pathological autonomic findings in controls may have narrowed between-group differences. The Morcos & Theoharides review is a narrative synthesis of preclinical models and case reports without systematic search methods or meta-analysis; the mast cell hypothesis is mechanistically coherent but not confirmed in controlled clinical trials. There are no skin-punch biopsy data from either source. The total primary source count is two, making this an early, provisional thread.
+  open_questions:
+  - Whether skin punch biopsy — the gold-standard method for quantifying intraepidermal nerve fibre density — would confirm and extend the Sudoscan-based SFN findings in ME/CFS and post-COVID cohorts.
+  - Whether corneal confocal microscopy, which is non-invasive and measures corneal nerve fibre length and density as a proxy for systemic small-fiber status, provides independent diagnostic signal in these populations, as the Azcue authors recommended.
+  - Whether the non-length-dependent distribution of SFN abnormalities distinguishes an immune-mediated or dysautonomic subgroup from patients whose neuropathy follows a more conventional length-dependent pattern.
+  - Whether mast-cell-directed interventions — stabilisers, H1/H2 antihistamines, or anti-IL-6 approaches — produce measurable changes in objective SFN or autonomic parameters when tested in controlled trials with ME/CFS or Long COVID patients.
+  - Whether autoantibodies (e.g., against autonomic receptors) explain part of the neuropathic burden, as proposed by the Azcue group, and whether their presence correlates with SFN severity or POTS status.
+de:
+  title: Small-Fiber-Neuropathie & Überschneidung mit Dysautonomie
+  subtitle: Ein fortlaufender Themenstrang zu peripherer Small-Fiber-Neuropathie bei ME/CFS und Post-COVID – einschließlich Hautbiopsie- und Sudoscan-Diagnostik, konfokaler Hornhautmikroskopie, Überschneidungen mit Dysautonomie wie POTS sowie Mastzell- und neuroimmunologischen Mechanismen.
+  evidence_label: früh – zwei Primärquellen, Querschnittsstudie und narrative Übersichtsarbeit
+  plain_summary: Untersuchungen zeigen, dass bei vielen Menschen mit ME/CFS und Long COVID messbare Veränderungen an feinen Nervenfasern vorliegen, die Schmerz und Schweißbildung steuern – oft zusammen mit POTS (einem starken Pulsanstieg beim Aufstehen). Normale Nervenmessungen erfassen diese dünnen Fasern nicht, weshalb spezielle Tests nötig sind; als mögliche Auslöser werden unter anderem überaktive Mastzellen und Immunprozesse diskutiert. Da die Datenlage bislang auf wenigen Studien beruht, ist noch offen, wie häufig diese Befunde genau sind und ob gezielte Therapien die Nervenwerte verbessern.
+  takeaway: 'Sowohl ME/CFS als auch das Post-COVID-Syndrom zeigen objektive Hinweise auf eine periphere Small-Fiber-Neuropathie (SFN) und eine autonome Dysfunktion, die sich mit etablierten neurologischen Verfahren messen lassen. Eine Vergleichsstudie mit Kipptischuntersuchung, Sudoscan und hitzeevozierten Nervenpotenzialen fand in beiden Patientengruppen im Vergleich zu gesunden Kontrollpersonen erhöhte Ruheherzfrequenzen, eine hohe Prävalenz von POTS sowie verzögerte C-Faser-Reaktionen auf Hitzereize. Bemerkenswerterweise traten Auffälligkeiten der Schweißdrüsenfunktion häufiger an den Händen als an den Füßen auf – ein nicht-längenabhängiges Muster, das sich von der typischen, von den Füßen aufsteigenden Neuropathie bei Diabetes oder Chemotherapie unterscheidet und eher auf einen immunvermittelten oder dysautonomen Mechanismus hindeutet als auf eine rein metabolische Schädigung.
+
+
+    Eine parallele mechanistische Forschungsrichtung sieht die Aktivierung von Mastzellen als plausibles Bindeglied zwischen einer SARS-CoV-2-Exposition und anhaltender peripherer Nervenschädigung. Durch Spike-Proteine aktivierte Mastzellen, die anatomisch eng neben peripheren Nerven und Blutgefäßen liegen, setzen neurotoxische Botenstoffe wie Tryptase und Interleukin-6 frei, die dünne sensible Nervenfasern sensibilisieren und sowohl lokale als auch zentrale Gefäßbarrieren stören können. Da die Quellenlage bislang klein ist – eine Querschnittsstudie und eine narrative Übersichtsarbeit –, bleiben diese mechanistischen Zusammenhänge plausibel, aber nicht belegt, und aus der aktuellen Evidenz lassen sich keine klinischen Behandlungsempfehlungen ableiten.'
+  why_it_matters: 'Neuropathische Beschwerden – brennende Schmerzen, verändertes Temperaturempfinden, fleckige Missempfindungen der Haut und autonome Fehlregulationen – gehören zu den am stärksten einschränkenden und zugleich am wenigsten anerkannten Merkmalen von ME/CFS und Post-COVID. Für Betroffene und Angehörige liegt die zentrale Hürde darin, dass diese Symptome oft abgetan werden, weil Standard-Nervenleitgeschwindigkeitsmessungen, die nur dicke myelinisierte Fasern prüfen, unauffällig ausfallen. Dünne, unmyelinisierte C-Fasern und schwach myelinisierte Aδ-Fasern erfordern andere Verfahren – etwa Sudoscan, quantitative sensorische Testung, hitzeevozierte Potenziale, eine Hautstanzbiopsie zur Bestimmung der intraepidermalen Nervenfaserdichte oder die konfokale Hornhautmikroskopie –, die außerhalb spezialisierter neurologischer Zentren selten verfügbar sind.
+
+
+    Die hier gesammelten Arbeiten zeigen, dass objektive SFN-Befunde bei einem relevanten Teil der Menschen mit ME/CFS und Post-COVID vorliegen und dass die Neuropathie besondere Merkmale aufweist – insbesondere das nicht-längenabhängige Verteilungsmuster –, die bei der Abgrenzung von anderen Ursachen helfen können. Ein mechanistisches Modell rund um Mastzellaktivierung liefert eine biologische Erklärung dafür, warum diese Beschwerden lange nach Abklingen der akuten Infektion fortbestehen. Das Verständnis dieses Mechanismus ist wichtig, weil es auf bestimmte therapeutische Ansatzpunkte verweist – etwa Mastzellstabilisatoren, Antihistaminika und entzündungshemmende Strategien –, auch wenn deren klinische Prüfung noch ganz am Anfang steht.'
+  state_of_evidence:
+  - status: established
+    label: Etabliert
+    items:
+    - Standardmessungen der Nervenleitgeschwindigkeit dicker Fasern reichen nicht aus, um eine SFN zu erkennen; eine objektive SFN-Diagnostik erfordert Sudoscan, hitze- oder kältevozierte Potenziale, eine Hautstanzbiopsie oder eine konfokale Hornhautmikroskopie. Erhöhte Ruheherzfrequenzen und eine hohe Prävalenz von POTS (31 % bei ME/CFS, 14 % bei Post-COVID in der Kohorte von Azcue et al.) lassen sich mittels standardisierter Kipptischuntersuchung nachweisen.
+  - status: plausible
+    label: Plausibel, aber noch früh
+    items:
+    - Eine nicht-längenabhängige SFN – mit häufigerer Störung der Schweißdrüsenfunktion an den Händen als an den Füßen – liegt bei einem Teil der Patientinnen und Patienten mit ME/CFS und Post-COVID vor und könnte auf einen immunvermittelten Mechanismus statt auf eine metabolische oder längenabhängige axonale Schädigung hinweisen. Eine durch Bindung des Spike-Proteins an ACE2- und TLR4-Rezeptoren ausgelöste Mastzellaktivierung ist ein biologisch schlüssiger Mechanismus für periphere Nervensensibilisierung, autonome Störungen und eine Beeinträchtigung der Blut-Hirn-Schranke bei Long COVID.
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Ob sich Häufigkeit und Schweregrad der SFN zwischen ME/CFS und Post-COVID über die Punktwerte einer einzelnen heterogenen Kohorte hinaus bedeutsam unterscheiden. Ob mastzellgerichtete Therapien objektive SFN-Messwerte oder autonome Parameter in kontrollierten Studien verändern. Ob die konfokale Hornhautmikroskopie – von den Autoren der Azcue-Studie als nächster Schritt empfohlen – in diesen Populationen zusätzliche diagnostische Aussagekraft über Sudoscan und evozierte Potenziale hinaus bietet.
+  - status: limitations
+    label: Wichtige Einschränkungen
+    items:
+    - Die Studie von Azcue et al. arbeitete mit ungleichen Gruppengrößen (87 Post-COVID, 50 ME/CFS, 50 Kontrollen) und ungleicher Geschlechterverteilung, was Verzerrungen begünstigen kann; zudem könnte eine relativ hohe Rate auffälliger autonomer Befunde in der Kontrollgruppe die Gruppenunterschiede abgeschwächt haben. Die Übersichtsarbeit von Morcos & Theoharides ist eine narrative Synthese präklinischer Modelle und einzelner Fallberichte ohne systematische Suchmethodik oder Metaanalyse; die Mastzellhypothese ist mechanistisch schlüssig, aber nicht in kontrollierten klinischen Studien bestätigt. Aus keiner der beiden Quellen liegen Daten aus Hautstanzbiopsien vor. Mit insgesamt zwei Primärquellen befindet sich dieser Themenstrang noch in einem frühen, vorläufigen Stadium.
+  open_questions:
+  - Würden Hautstanzbiopsien – der Goldstandard zur Messung der intraepidermalen Nervenfaserdichte – die Sudoscan-basierten SFN-Befunde in ME/CFS- und Post-COVID-Kohorten bestätigen und vertiefen?
+  - Liefert die konfokale Hornhautmikroskopie, die nicht-invasiv arbeitet und Nervenfaserlänge sowie -dichte der Hornhaut als Stellvertreter für den systemischen Zustand dünner Nervenfasern misst, in diesen Gruppen ein eigenständiges diagnostisches Signal, wie von Azcue et al. empfohlen?
+  - Grenzt das nicht-längenabhängige Verteilungsmuster der SFN-Auffälligkeiten eine immunvermittelte oder dysautonome Untergruppe von Patientinnen und Patienten mit klassisch längenabhängiger Neuropathie ab?
+  - Führen mastzellgerichtete Interventionen – wie Stabilisatoren, H1/H2-Antihistaminika oder Anti-IL-6-Ansätze – in kontrollierten Studien mit ME/CFS- oder Long-COVID-Patienten zu messbaren Veränderungen objektiver SFN- oder autonomer Parameter?
+  - Erklären Autoantikörper (z. B. gegen autonome Rezeptoren) einen Teil der neuropathischen Beschwerdelast, wie von der Azcue-Gruppe vermutet, und korreliert ihr Vorhandensein mit dem SFN-Schweregrad oder dem POTS-Status?

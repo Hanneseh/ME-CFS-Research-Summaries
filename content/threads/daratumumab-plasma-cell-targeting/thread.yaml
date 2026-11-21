@@ -1,0 +1,98 @@
+slug: daratumumab-plasma-cell-targeting
+group: treatments-interventions
+status: active
+evidence_tier: active_trials
+topics:
+- Treatment
+- Autoimmunity
+- Plasma cells
+- Biomarkers
+aliases:
+- ResetME
+- Daratumumab
+- Plasma-cell depletion
+related_threads:
+- autoimmunity-autoantibodies
+- immunoadsorption-apheresis
+- immune-dysregulation-inflammation
+legacy_path: treatments-interventions/daratumumab-plasma-cell-targeting
+en:
+  title: Daratumumab and plasma-cell targeting
+  subtitle: A living thread on anti-CD38 plasma-cell depletion as a possible ME/CFS treatment strategy.
+  evidence_label: early clinical and ongoing randomized trial
+  plain_summary: Researchers are testing whether daratumumab—a drug that clears out long-lived antibody-producing immune cells—can help a subgroup of people with ME/CFS. In a small open-label pilot of ten women, six improved noticeably, and a larger placebo-controlled trial (ResetME) is now underway. Because that trial is still blinded and these drugs carry serious infection and immune risks, it is not yet proven that daratumumab or similar antibodies are safe or effective for ME/CFS.
+  takeaway: 'Daratumumab is an anti-CD38 monoclonal antibody that depletes plasma cells, the immune cells responsible for long-lived antibody production. In ME/CFS, plasma-cell and B-cell targeting strategies are being investigated to determine if a patient subgroup has symptoms sustained by autoantibodies or other plasma-cell-mediated pathways. The research sequence progressed from an uncontrolled ten-patient open-label pilot to the registry of the randomized ResetME Phase II trial, followed by the peer-reviewed publication of the pilot findings.
+
+
+    An update from the ongoing ResetME trial reported that 38 of the target 66 patients have been enrolled, with 17 completing initial follow-up, while pilot follow-up data demonstrated a correlation between clinical improvement and reductions in autoantibody profiles. Additionally, clinical plans and case series have emerged for CD19-targeted Inebilizumab and CD38-targeted Isatuximab in selected patients. However, because the ResetME trial remains blinded and the CD19/CD38 studies are planned protocols with preliminary case series, clinical efficacy has not been proven for any of these treatments, including daratumumab. Furthermore, these high-potency monoclonal antibodies carry serious safety risks, including severe immunosuppression, infusion reactions, and infection risk, necessitating strict clinical supervision.'
+  why_it_matters: Testing a concrete immune-treatment hypothesis (rather than only describing associations) helps determine whether a biologically defined, treatment-responsive subgroup exists in ME/CFS. If the ResetME trial is positive, it would validate this pathway; if negative, it will narrow the field by testing one of the more specific plasma-cell-targeting theories under placebo control.
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - A small open-label pilot demonstrated the safety and feasibility of daratumumab in ten female ME/CFS patients, with six achieving marked clinical improvement.
+    - The follow-up ResetME randomized Phase II trial was registered and has enrolled 38 of its target 66 participants.
+    - Clinical responders in pilot follow-up evaluations show post-treatment reductions in autoantibody profiles (autoreactome).
+  - status: plausible
+    label: Plausible but early
+    items:
+    - The pilot's response pattern, NK-cell association, and post-treatment autoantibody reductions support the hypothesis of an antibody-mediated disease subgroup.
+    - CD19 and CD38 monoclonal antibodies (Inebilizumab and Isatuximab) are proposed for pilot studies in subsets of patients defined by immunoadsorption response or specific laboratory parameters.
+  - status: not_established
+    label: Not established
+    items:
+    - Efficacy and safety of daratumumab for ME/CFS are not established; the ResetME trial is still ongoing and remains blinded.
+    - The clinical efficacy and safety of planned Inebilizumab (anti-CD19) and Isatuximab (anti-CD38) therapies in ME/CFS cohorts are not established.
+  - status: limitations
+    label: Key limitations
+    items:
+    - The initial pilot was small (10 participants) and limited to female patients.
+    - The ResetME trial uses strict enrollment criteria, including a minimum baseline Natural Killer (NK) cell threshold (>125 x 10^6/L), limiting generalizability.
+    - A serious adverse event involving hospitalization due to symptom worsening has been reported, requiring careful supervision.
+    - Conference updates and recap videos provide incomplete data until the full trial dataset is analyzed and published.
+    - CD19 and CD38 depletion carry substantial safety risks (e.g., severe immunosuppression, infection risk, and infusion reactions) and lack randomized controlled trial evidence in ME/CFS.
+  open_questions:
+  - Will the randomized, placebo-controlled ResetME trial show true clinical efficacy of daratumumab beyond placebo effects once unblinded?
+  - Does the baseline NK-cell threshold (>125 × 10^6/L) hold up as a reliable predictive biomarker, or does it exclude potential responders unnecessarily?
+  - How frequent and manageable are serious adverse events—including infections, immunosuppression, and temporary symptom worsening—in a larger controlled cohort?
+  - Will planned pilot trials of inebilizumab and isatuximab confirm that subgroups defined by immunoadsorption response or lab markers respond to targeted depletion?
+de:
+  title: Daratumumab und gezielte Plasmazell-Therapien
+  subtitle: Ein fortlaufender Themenstrang zur Anti-CD38-Plasmazell-Depletion als möglichem Behandlungsansatz bei ME/CFS.
+  evidence_label: frühe klinische Daten und laufende randomisierte Studie
+  plain_summary: Forschende prüfen derzeit, ob Daratumumab – ein Medikament, das langlebige antikörperbildende Immunzellen abbaut – einer Untergruppe von Menschen mit ME/CFS helfen kann. In einer kleinen offenen Pilotstudie mit zehn Frauen besserten sich bei sechs Teilnehmerinnen die Beschwerden deutlich, und eine größere placebokontrollierte Studie (ResetME) läuft bereits. Da diese Studie noch verblindet ist und solche Antikörper schwere Nebenwirkungen wie Infektionen oder starke Immunschwäche auslösen können, ist ein Nutzen bei ME/CFS bislang nicht belegt.
+  takeaway: 'Daratumumab ist ein monoklonaler Anti-CD38-Antikörper, der Plasmazellen abbaut – also jene Immunzellen, die langlebige Antikörper produzieren. Bei ME/CFS wird untersucht, ob gezielte Therapien gegen Plasmazellen und B-Zellen einer Patientengruppe helfen können, deren Beschwerden möglicherweise durch Autoantikörper oder andere über Plasmazellen vermittelte Prozesse aufrechterhalten werden. Die Studienlage entwickelte sich von einer unkontrollierten offenen Pilotstudie mit zehn Patientinnen über die Registrierung der randomisierten Phase-II-Studie ResetME bis hin zur begutachteten Veröffentlichung der Pilotdaten.
+
+
+    Ein Zwischenbericht zur laufenden ResetME-Studie zeigte, dass bereits 38 der geplanten 66 Teilnehmenden eingeschlossen wurden und 17 die erste Nachbeobachtung abgeschlossen haben; Nachverfolgungsdaten aus der Pilotstudie deuteten zudem auf einen Zusammenhang zwischen klinischer Besserung und einem Rückgang von Autoantikörper-Profilen hin. Darüber hinaus wurden klinische Studienpläne und erste Fallserien zu Inebilizumab (gegen CD19) und Isatuximab (gegen CD38) bei ausgewählten Patientinnen und Patienten vorgestellt. Da die ResetME-Studie weiterhin verblindet läuft und es sich bei den CD19-/CD38-Ansätzen bislang nur um geplante Protokolle und vorläufige Fallserien handelt, ist eine klinische Wirksamkeit für keinen dieser Wirkstoffe – einschließlich Daratumumab – nachgewiesen. Zudem bergen diese hochwirksamen monoklonalen Antikörper erhebliche Sicherheitsrisiken, darunter schwere Immunsuppression, Infusionsreaktionen und Infektionsrisiken, sodass sie eine strenge ärztliche Überwachung erfordern.'
+  why_it_matters: Eine konkrete Immuntherapie-Hypothese klinisch zu testen – statt nur Zusammenhänge zu beschreiben – hilft zu klären, ob es bei ME/CFS eine biologisch abgrenzbare, auf Behandlung ansprechende Untergruppe gibt. Sollte die ResetME-Studie positiv ausfallen, würde dies diesen Signalweg bestätigen; fällt sie negativ aus, lässt sich eine der spezifischsten Theorien zur Plasmazell-Depletion unter Placebokontrolle gezielt ausschließen.
+  state_of_evidence:
+  - status: established
+    label: Etabliert
+    items:
+    - Eine kleine offene Pilotstudie zeigte die Machbarkeit und grundsätzliche Durchführbarkeit von Daratumumab bei zehn weiblichen ME/CFS-Patientinnen, wobei sechs eine deutliche klinische Besserung erreichten.
+    - Die nachfolgende randomisierte Phase-II-Studie ResetME wurde registriert und hat 38 von 66 geplanten Teilnehmenden eingeschlossen.
+    - Klinische Responder aus der Pilotstudie zeigten in Nachuntersuchungen einen Rückgang ihrer Autoantikörper-Profile (Autoreaktom) nach der Behandlung.
+  - status: plausible
+    label: Plausibel, aber noch früh
+    items:
+    - Das Ansprechmuster in der Pilotstudie, der Zusammenhang mit NK-Zellen und der Rückgang von Autoantikörpern nach der Behandlung stützen die Hypothese einer antikörpervermittelten Untergruppe.
+    - Monoklonale Antikörper gegen CD19 und CD38 (Inebilizumab und Isatuximab) sind für Pilotstudien in ausgewählten Untergruppen vorgesehen, die sich über ein Ansprechen auf Immunadsorption oder bestimmte Laborwerte definieren.
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Wirksamkeit und Sicherheit von Daratumumab bei ME/CFS sind nicht belegt; die ResetME-Studie läuft noch und ist weiterhin verblindet.
+    - Die klinische Wirksamkeit und Sicherheit der geplanten Therapien mit Inebilizumab (Anti-CD19) und Isatuximab (Anti-CD38) bei ME/CFS-Kohorten sind nicht belegt.
+  - status: limitations
+    label: Wichtige Einschränkungen
+    items:
+    - Die erste Pilotstudie war klein (10 Teilnehmende) und auf weibliche Patientinnen beschränkt.
+    - Die ResetME-Studie nutzt strenge Einschlusskriterien, darunter einen Mindestwert für Natürliche Killerzellen (NK-Zellen > 125 × 10^6/L) zu Studienbeginn, was die Übertragbarkeit einschränkt.
+    - Es wurde ein schwerwiegendes unerwünschtes Ereignis mit Krankenhausaufenthalt wegen Symptomverschlechterung gemeldet, was eine engmaschige Überwachung notwendig macht.
+    - Konferenzberichte und Zusammenfassungen liefern nur unvollständige Daten, solange der vollständige Studiendatensatz nicht ausgewertet und veröffentlicht ist.
+    - Eine CD19- und CD38-Depletion geht mit erheblichen Sicherheitsrisiken einher (z. B. schwere Immunsuppression, Infektionsrisiko und Infusionsreaktionen) und verfügt über keine Evidenz aus randomisierten kontrollierten Studien bei ME/CFS.
+  open_questions:
+  - Zeigt die randomisierte, placebokontrollierte ResetME-Studie nach Entblindung eine echte klinische Wirksamkeit von Daratumumab über Placeboeffekte hinaus?
+  - Lässt sich der Ausgangswert der NK-Zellen (> 125 × 10^6/L) als verlässlicher Biomarker bestätigen, oder schränkt er den Kreis potenzieller Responder unnötig ein?
+  - Wie ausgeprägt ist das Risiko schwerer Nebenwirkungen wie Infektionen, Immunsuppression oder vorübergehender Symptomverschlechterungen in einer größeren kontrollierten Kohorte?
+  - Bestätigen die geplanten Pilotstudien zu Inebilizumab und Isatuximab, dass sich über Immunadsorptions-Ansprechen oder Laborparameter abgrenzbare Subgruppen gezielt behandeln lassen?

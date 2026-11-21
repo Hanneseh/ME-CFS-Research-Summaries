@@ -1,0 +1,19 @@
+id: 2025-02-19_low-level-tragus-stimulation-trial-for-post-covid
+date: '2025-02-19'
+date_display: '2025-02-19'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Wang et al. 2025, Clinical Cardiology
+  url: https://doi.org/10.1002/clc.70110
+  kind: paper
+en:
+  title: Low-level tragus stimulation trial for post-COVID POTS published
+  plain_summary: In a sham-controlled trial of 57 people with post-COVID POTS, using an ear-clip nerve stimulator twice daily for a month lowered standing heart rate and stress-nerve markers for up to a year. While encouraging for heart-rate control, the study did not track whether broader symptoms like fatigue or brain fog improved.
+  detail: A randomized, sham-controlled trial (57 participants) evaluated low-level tragus stimulation (LL-TS) using an ear clip device for post-COVID Postural Orthostatic Tachycardia Syndrome (POTS). Patients received either active LL-TS or sham stimulation for one hour twice daily over one month, showing a significant and sustained reduction in standing heart rate at a one-year follow-up. This active treatment also normalized autonomic balance as measured by heart rate variability (HRV) and significantly lowered plasma levels of neuropeptide Y (NPY), a marker of sympathetic activity. While these physiological changes point to parasympathetic activation as a viable therapeutic mechanism, the study did not assess broader clinical POTS symptoms like cognitive impairment or fatigue. Furthermore, the lack of a healthy control group or non-POTS Long COVID control group makes it difficult to verify if these effects are specific to POTS.
+de:
+  title: Studie zur niedrigdosierten Tragus-Stimulation bei Post-COVID-POTS veröffentlicht
+  plain_summary: In einer schein-kontrollierten Studie mit 57 Personen mit Post-COVID-POTS senkte eine einmonatige Ohrclip-Stimulation zweimal täglich den Stehpuls und Stressnerven-Marker bis zu einem Jahr lang. Das ist ein ermutigendes physiologisches Signal für die Pulsregulation, doch untersuchte die Studie nicht, ob sich breitere Beschwerden wie Fatigue oder Brain Fog besserten.
+  detail: Eine randomisierte, schein-kontrollierte Studie (57 Teilnehmende) untersuchte die niedrigdosierte Tragus-Stimulation (LL-TS) mittels eines Ohrclip-Geräts beim Posturalen Tachykardiesyndrom (POTS) nach COVID-19. Die Teilnehmenden erhielten einen Monat lang zweimal täglich jeweils eine Stunde aktive LL-TS oder eine Scheinstimulation und zeigten nach einem Jahr eine signifikante, anhaltende Verringerung der Herzfrequenz im Stehen. Die aktive Behandlung normalisierte zudem die autonome Balance gemessen an der Herzfrequenzvariabilität (HRV) und senkte die Plasmaspiegel von Neuropeptid Y (NPY), einem Marker sympathischer Aktivität. Während diese physiologischen Veränderungen auf eine Aktivierung des Parasympathikus als plausiblen Mechanismus hindeuten, erfasste die Studie keine breiteren klinischen POTS-Symptome wie kognitive Beeinträchtigungen oder Fatigue. Zudem erschwert das Fehlen einer gesunden Kontrollgruppe oder einer Long-COVID-Kontrollgruppe ohne POTS die Beurteilung, ob die
+    Effekte spezifisch für POTS sind.

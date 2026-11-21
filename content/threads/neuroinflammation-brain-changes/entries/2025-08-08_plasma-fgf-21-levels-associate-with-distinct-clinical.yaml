@@ -1,0 +1,19 @@
+id: 2025-08-08_plasma-fgf-21-levels-associate-with-distinct-clinical
+date: '2025-08-08'
+date_display: '2025-08-08'
+date_precision: exact
+source_type: paper
+study_design: Cross-sectional study
+sources:
+- label: Azimi et al. 2025, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms26167670
+  kind: paper
+en:
+  title: Plasma FGF-21 levels associate with distinct clinical and cognitive subgroups
+  plain_summary: In 304 people, blood levels of the stress hormone FGF-21 were higher in ME/CFS and Long COVID than in healthy controls or fibromyalgia alone, and tracked different symptom patterns. Because it was measured at a single timepoint, more work is needed before FGF-21 can guide diagnosis or treatment.
+  detail: 'A cross-sectional study of 250 patients and 54 healthy controls demonstrated that circulating levels of Fibroblast Growth Factor 21 (FGF-21), a hormone linked to mitochondrial stress, are elevated in ME/CFS and Long COVID but not in fibromyalgia alone. Patient stratification by hormone level revealed distinct profiles: low FGF-21 levels correlated with more severe post-exertional malaise and autonomic symptoms, whereas high FGF-21 levels correlated with better cognitive performance in the ME-only group but worse physical fatigue in the comorbid ME and fibromyalgia group. This highlights the utility of metabolic hormones for biological patient stratification, suggesting distinct therapeutic strategies for low-FGF-21 states (e.g., metformin or FGF-21 analogues) and high-FGF-21 hormone-resistant states. However, the cross-sectional design cannot establish causality, and longitudinal studies are required to track hormone stability over time.'
+de:
+  title: Plasma-FGF-21-Spiegel hängen mit unterschiedlichen klinischen und kognitiven Untergruppen zusammen
+  plain_summary: Bei 304 Personen waren die Blutspiegel des Stresshormons FGF-21 bei ME/CFS und Long COVID höher als bei Gesunden oder reiner Fibromyalgie und gingen mit verschiedenen Beschwerdemustern einher. Da nur ein Zeitpunkt gemessen wurde, ist weitere Forschung nötig, bevor sich daraus Tests oder Therapien ableiten lassen.
+  detail: 'Eine Querschnittsstudie mit 250 Patientinnen und Patienten sowie 54 gesunden Kontrollen zeigte, dass zirkulierende Spiegel des Fibroblasten-Wachstumsfaktors 21 (FGF-21), eines mit mitochondrialem Stress verknüpften Hormons, bei ME/CFS und Long COVID erhöht sind, nicht jedoch bei Fibromyalgie allein. Eine Stratifizierung der Betroffenen nach Hormonspiegel ergab unterschiedliche Profile: Niedrige FGF-21-Spiegel korrelierten mit schwererer Post-Exertional Malaise und autonomen Symptomen, während hohe FGF-21-Spiegel in der reinen ME-Gruppe mit besserer kognitiver Leistung, in der komorbiden ME-und-Fibromyalgie-Gruppe jedoch mit stärkerer körperlicher Fatigue korrelierten. Dies unterstreicht den Nutzen metabolischer Hormone für eine biologische Patientenstratifizierung und legt unterschiedliche Therapieansätze für Zustände mit niedrigem FGF-21 (z. B. Metformin oder FGF-21-Analoga) sowie für hormonresistente Zustände mit hohem FGF-21 nahe. Das Querschnittsdesign kann jedoch keine Kausalität
+    belegen, und Längsschnittstudien sind nötig, um die zeitliche Stabilität des Hormons zu verfolgen.'

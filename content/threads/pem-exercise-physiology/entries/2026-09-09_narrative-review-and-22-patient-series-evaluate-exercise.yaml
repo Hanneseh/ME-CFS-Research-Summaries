@@ -1,0 +1,20 @@
+id: 2026-09-09_narrative-review-and-22-patient-series-evaluate-exercise
+date: '2026-09-09'
+date_display: '2026-09-09'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Sakellaropoulos et al. 2026, Current Problems in Cardiology
+  url: https://doi.org/10.1016/j.cpcardiol.2026.103453
+  kind: paper
+en:
+  title: Narrative review and 22-patient series evaluate exercise lactate as a phenotyping tool rather than a standalone biomarker
+  plain_summary: A review and small 22-patient outpatient series warn that peak blood lactate during exercise depends heavily on workload and test setup, so a single lactate number cannot diagnose Long COVID or ME/CFS. Maximal exercise tests also risk triggering PEM and exclude severe or bedbound patients.
+  detail: Sakellaropoulos and colleagues synthesize exercise bioenergetics and cardiopulmonary exercise testing (CPET) metrics in Post-COVID-19 Condition alongside an uncontrolled descriptive clinical series of 22 adult cardiology outpatients undergoing CPET with arterial lactate sampling. In the clinic cohort, mean arterial lactate rose from 1.23 ± 0.40 mmol/L at rest to 7.11 ± 2.98 mmol/L at peak exercise, illustrating exertional glycolytic engagement. The authors emphasize that peak lactate is highly dependent on testing protocol, work rate achieved, test duration, and metabolic state, meaning it lacks the sensitivity, specificity, and validated reference cut-offs required for a standalone diagnostic biomarker. Instead, exercise lactate is positioned as an exertional phenotyping parameter that must be interpreted alongside ventilatory thresholds (such as VT1), work rate, respiratory exchange ratio, and recovery kinetics. Crucially, maximal CPET protocols carry significant post-exertional
+    malaise (PEM) risk and present major access barriers for severe or bedbound patients; inclusion of severe patients was not reported, leaving applicability to those individuals unknown. The clinical series is limited by its small sample size (n=22), lack of a non-fatigued or healthy control group, evaluation of Post-COVID Condition rather than criteria-adjudicated ME/CFS, and omission of multi-point post-exercise clearance kinetics or delayed PEM tracking.
+de:
+  title: Narrative Übersicht und 22-Patienten-Fallserie bewerten Belastungslaktat als Phänotypisierungsinstrument statt als eigenständigen Biomarker
+  plain_summary: Eine Übersicht und eine kleine ambulante Serie mit 22 Patientinnen und Patienten betonen, dass der Laktatspitzenwert stark von Leistung und Testprotokoll abhängt und allein keine Diagnose erlaubt. Zudem bergen maximale Belastungstests erhebliche PEM-Risiken und schließen schwer oder bettlägerig Betroffene aus.
+  detail: Sakellaropoulos und Kolleginnen fassen Belastungsbioenergetik und CPET-Kennzahlen beim Post-COVID-19-Syndrom zusammen, ergänzt durch eine unkontrollierte deskriptive Serie von 22 erwachsenen Kardiologie-Ambulanzpatienten mit CPET und arterieller Laktatmessung. In der Klinikkohorte stieg das mittlere arterielle Laktat von 1,23 ± 0,40 mmol/L in Ruhe auf 7,11 ± 2,98 mmol/L bei maximaler Belastung, was die glykolytische Beanspruchung abbildet. Die Autoren heben hervor, dass Spitzenlaktat stark von Testprotokoll, erreichter Leistung, Testdauer und Stoffwechsellage abhängt und ihm daher Sensitivität, Spezifität sowie validierte Grenzwerte für einen eigenständigen diagnostischen Biomarker fehlen. Stattdessen ordnen sie Belastungslaktat als Parameter der Belastungsphänotypisierung im Verbund mit ventilatorischen Schwellen (wie VT1), Leistung, respiratorischem Quotienten und Erholungskinetik ein. Maximalprotokolle tragen erhebliche PEM-Risiken und Zugangsbarrieren für schwer oder bettlägerig
+    Erkrankte; die kleine Serie (n = 22) hat zudem keine gesunde Kontrollgruppe, keine kriterienbasierte ME/CFS-Prüfung und keine mehrzeitige Laktat-Clearance- oder PEM-Nachverfolgung.

@@ -1,0 +1,19 @@
+id: 2026-02-28_extracellular-vesicle-mirna-and-protein-signatures-distinguish-p
+date: '2026-02-28'
+date_display: '2026-02-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Seifert et al. 2026, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms27052314
+  kind: paper
+en:
+  title: Extracellular vesicle miRNA and protein signatures distinguish post-COVID ME/CFS
+  plain_summary: A Charité Berlin study found that tiny particles in blood (extracellular vesicles) carry altered proteins and lower levels of a specific microRNA in female patients with post-COVID ME/CFS, tracking with symptom severity. Because the sample was small and female-only, it remains an early discovery that needs replication in broader groups.
+  detail: A Charité Berlin case-control study isolated small extracellular vesicles from the plasma of female ME/CFS patients and healthy controls using size-exclusion chromatography, then characterized cargo by proteomic mass spectrometry and small RNA sequencing. Two proteins—hemoglobin subunit alpha and insulin-like growth factor-binding protein acid labile subunit—were altered in ME/CFS, and the miRNA hsa-let-7b-5p was significantly downregulated specifically in patients with post-COVID-19 ME/CFS, with lower levels correlating with more severe fatigue, pain, and immune activation. Surface markers on the vesicles themselves were unchanged, meaning the disease signal is carried inside the vesicle rather than on its exterior, which affects assay design choices. The study was restricted to female participants and used a small sample, limiting replication and generalizability to male patients.
+de:
+  title: miRNA- und Proteinsignaturen extrazellulärer Vesikel unterscheiden Post-COVID-ME/CFS
+  plain_summary: Eine Studie der Charité Berlin fand in winzigen Blutpartikeln (extrazellulären Vesikeln) von Patientinnen mit Post-COVID-ME/CFS veränderte Proteine und verringerte Spiegel einer bestimmten microRNA, die mit dem Schweregrad zusammenhingen. Da die Stichprobe klein und rein weiblich war, bleibt dies ein früher Befund, der in breiteren Gruppen überprüft werden muss.
+  detail: Eine Fall-Kontroll-Studie der Charité Berlin isolierte kleine extrazelluläre Vesikel aus dem Blutplasma weiblicher ME/CFS-Patientinnen und gesunder Kontrollen mittels Größenausschlusschromatographie und analysierte deren Fracht per Proteom-Massenspektrometrie sowie Small-RNA-Sequenzierung. Zwei Proteine – die Alpha-Untereinheit des Hämoglobins sowie die säurelabile Untereinheit des Insulin-like-Growth-Factor-Bindungsproteins – waren bei ME/CFS verändert, und die microRNA hsa-let-7b-5p war speziell bei Patientinnen mit Post-COVID-19-ME/CFS signifikant herunterreguliert, wobei niedrigere Werte mit stärkerer Fatigue, Schmerzen und Immunaktivierung korrelierten. Oberflächenmarker auf den Vesikeln selbst blieben unverändert, was bedeutet, dass das Krankheitssignal im Inneren der Vesikel transportiert wird und nicht außen sitzt – ein wichtiger Hinweis für die Testentwicklung. Die Studie war auf weibliche Teilnehmende beschränkt und arbeitete mit einer kleinen Stichprobe, was Replikation
+    und Übertragbarkeit auf männliche Patienten begrenzt.

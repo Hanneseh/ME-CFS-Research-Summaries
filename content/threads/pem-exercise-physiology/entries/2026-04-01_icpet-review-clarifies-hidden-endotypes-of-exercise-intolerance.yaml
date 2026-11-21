@@ -1,0 +1,18 @@
+id: 2026-04-01_icpet-review-clarifies-hidden-endotypes-of-exercise-intolerance
+date: '2026-04-01'
+date_display: '2026-04-01'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Harris & Waxman 2026, Respiratory Physiology & Neurobiology
+  url: https://www.sciencedirect.com/science/article/pii/S1569904826000091
+  kind: paper
+en:
+  title: iCPET review clarifies hidden endotypes of exercise intolerance
+  plain_summary: A review explains how invasive exercise testing (iCPET) can uncover hidden circulatory or oxygen-use defects—like inadequate blood return to the heart—even when resting heart and lung tests look normal. Because it is a review and invasive testing is only available at rare specialist centers, it adds context rather than new ME/CFS data.
+  detail: 'This review laid out how invasive CPET can separate preload failure, impaired peripheral extraction, and other hidden causes of exertional limitation. The change is diagnostic: it shows why standard resting heart and lung tests can look normal even when exercise physiology is abnormal. That helps place PEM in a broader circulatory and metabolic context. The review does not establish new ME/CFS data on its own, and invasive testing remains limited to specialized centers.'
+de:
+  title: iCPET-Übersicht klärt verborgene Endotypen der Belastungsintoleranz
+  plain_summary: Eine Übersichtsarbeit erläutert, wie eine invasive Spiroergometrie (iCPET) verborgene Störungen wie unzureichenden Blutrückfluss zum Herzen oder gestörte Sauerstoffaufnahme aufdecken kann, selbst wenn Ruhetests normal wirken. Als reine Übersichtsarbeit zu einem auf wenige Zentren beschränkten Verfahren liefert sie Einordnung statt neuer ME/CFS-Daten.
+  detail: 'Diese Übersichtsarbeit legte dar, wie eine invasive Spiroergometrie (iCPET) Preload-Versagen, eine gestörte periphere Sauerstoffextraktion und weitere verborgene Ursachen von Belastungseinschränkungen voneinander abgrenzen kann. Der Fortschritt ist diagnostischer Art: Es wird deutlich, warum Standardtests von Herz und Lunge in Ruhe normal ausfallen können, obwohl die Belastungsphysiologie gestört ist. Damit lässt sich PEM in einen breiteren kreislauf- und stoffwechselbezogenen Zusammenhang einordnen. Für sich genommen liefert die Übersicht jedoch keine neuen ME/CFS-Daten, und invasive Testungen bleiben auf wenige spezialisierte Zentren beschränkt.'

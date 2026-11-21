@@ -1,0 +1,20 @@
+id: 2026-05-10_full-berlin-2026-conference-overview-reports-null-trial
+date: '2026-05-10'
+date_display: '2026-05-10'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: ME/CFS Science 2026, conference overview
+  url: https://mecfsscience.org/the-berlin-conference-2026/
+  kind: conference
+en:
+  title: Full Berlin 2026 conference overview reports null trial results alongside new genetic and imaging findings
+  plain_summary: At the 2026 Berlin conference, trials of low-dose naltrexone, immunoadsorption, and methylprednisolone missed their main goals, while new genetic data linked ME/CFS risk to specific brain neurons. The mixed results suggest future trials may need to select clearer patient subgroups.
+  detail: 'A more complete summary of both days of the 4th International ME/CFS Conference in Berlin, published by ME/CFS Science, reported on findings from more than 50 international experts. The genetic analysis from DecodeME found that ME/CFS heritability is exclusively enriched in brain tissues—specifically a rare striatal cell type called eccentric medium spiny neurons. On the clinical trial side, a 160-patient randomised controlled trial of low-dose naltrexone, a sham-controlled immunoadsorption trial from Charité, and a methylprednisolone trial all failed to meet their primary efficacy endpoints, while a 10-patient daratumumab pilot reported clinical response in 6 patients alongside autoantibody profile changes. Whole-body PET scans showed elevated muscle and bone marrow metabolic activity in patients. For clinical characterization, the null trial results are as informative as the positive signals: they indicate that broad, unstratified treatment in heterogeneous cohorts is unlikely
+    to produce detectable effects, reinforcing the field''s shift toward requiring patient subtyping before running larger trials.'
+de:
+  title: Gesamtüberblick der Berliner Konferenz 2026 berichtet negative Studienergebnisse neben neuen Gen- und Bildgebungsbefunden
+  plain_summary: Auf der Berliner Konferenz 2026 verfehlten Studien zu LDN, Immunadsorption und Methylprednisolon ihre Hauptziele, während neue genetische Analysen Zusammenhänge mit bestimmten Hirnnervenzellen zeigten. Die gemischten Ergebnisse unterstreichen, dass künftige Studien wohl gezielter nach Untergruppen auswählen müssen.
+  detail: 'Eine ausführlichere Zusammenfassung beider Tage der 4. Internationalen ME/CFS-Konferenz in Berlin durch ME/CFS Science berichtete über Beiträge von mehr als 50 internationalen Fachleuten. Die genetische Auswertung von DecodeME ergab, dass die Erblichkeit von ME/CFS ausschließlich in Hirngewebe angereichert ist – konkret in einem seltenen Striatum-Zelltyp, sogenannten exzentrischen mittelgroßen Dornfortsatzneuronen. Auf Seiten der klinischen Studien verfehlten eine randomisierte kontrollierte Studie zu niedrig dosiertem Naltrexon mit 160 Teilnehmenden, eine scheinbehandlungs-kontrollierte Immunadsorptions-Studie der Charité sowie eine Methylprednisolon-Studie jeweils ihre primären Wirksamkeitsendpunkte, während eine Daratumumab-Pilotstudie mit zehn Personen bei sechs Betroffenen ein klinisches Ansprechen neben Veränderungen der Autoantikörperprofile berichtete. Ganzkörper-PET-Scans zeigten zudem eine erhöhte Stoffwechselaktivität in Muskulatur und Knochenmark. Für die klinische
+    Charakterisierung sind die negativen Studienergebnisse ebenso aufschlussreich wie positive Signale: Sie deuten darauf hin, dass breite, unstratifizierte Behandlungen in gemischten Kohorten kaum nachweisbare Effekte erzielen, und bestärken den Trend zu einer vorherigen Subtypisierung.'

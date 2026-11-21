@@ -1,0 +1,18 @@
+id: 2026-04-24_ultra-high-field-7t-mrs-detects-visual-task
+date: '2026-04-24'
+date_display: '2026-04-24'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Godlewska et al. 2026, Biological Psychiatry
+  url: https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00930-3/abstract
+  kind: paper
+en:
+  title: Ultra-high-field 7T MRS detects visual task-induced cerebral lactate accumulation
+  plain_summary: During flashing visual stimulation inside a 7-Tesla scanner, ME/CFS patients showed roughly double the lactate buildup in the visual brain area compared with healthy controls. This suggests the brain shifts toward less efficient energy production under visual load, though links to PEM flares remain to be tested.
+  detail: A metabolic imaging study using 7 Tesla functional magnetic resonance spectroscopy (fMRS) compared 20 ME/CFS patients and 20 controls during visual stimulation with a flashing checkerboard. While baseline lactate levels did not differ between the groups, visual stimulation triggered a 22.2% increase in lactate in the visual cortex of patients, compared to only a 10.6% increase in healthy controls, with other metabolites remaining stable. This provides in vivo evidence that visual processing forces the brain into inefficient anaerobic metabolism under load, representing a metabolic bottleneck in energy production. However, further studies are needed to determine if these visual cortex lactate levels correlate with post-exertional symptom flares.
+de:
+  title: Ultrahochfeld-7T-MRS erkennt durch visuelle Aufgaben ausgelöste zerebrale Laktatanreicherung
+  plain_summary: Bei flackernder visueller Reizung im 7-Tesla-Scanner zeigten ME/CFS-Betroffene im Sehzentrum einen etwa doppelt so starken Laktatanstieg wie gesunde Kontrollen. Das deutet auf einen Engpass der Hirnenergie unter Sinnesbelastung hin; ein direkter Zusammenhang mit PEM-Schüben muss noch geprüft werden.
+  detail: Eine Stoffwechsel-Bildgebungsstudie mittels 7-Tesla-funktioneller Magnetresonanzspektroskopie (fMRS) verglich 20 ME/CFS-Patientinnen und -Patienten sowie 20 Kontrollen während visueller Stimulation mit einem blinkenden Schachbrettmuster. Während sich die Ausgangs-Laktatspiegel zwischen den Gruppen nicht unterschieden, löste die visuelle Stimulation im visuellen Kortex der Betroffenen einen Laktatanstieg um 22,2 % aus, verglichen mit lediglich 10,6 % bei gesunden Kontrollen, während andere Metabolite stabil blieben. Dies liefert In-vivo-Evidenz dafür, dass visuelle Verarbeitung das Gehirn unter Belastung in einen ineffizienten anaeroben Stoffwechsel zwingt und einen metabolischen Engpass der Energieproduktion darstellt. Weitere Studien sind jedoch erforderlich, um zu klären, ob diese Laktatwerte im visuellen Kortex mit postexertionalen Symptomschüben korrelieren.

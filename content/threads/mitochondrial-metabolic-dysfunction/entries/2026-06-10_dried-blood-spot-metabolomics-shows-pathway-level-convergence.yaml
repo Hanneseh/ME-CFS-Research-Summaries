@@ -1,0 +1,19 @@
+id: 2026-06-10_dried-blood-spot-metabolomics-shows-pathway-level-convergence
+date: '2026-06-10'
+date_display: '2026-06-10'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Hauguel et al. 2026, medRxiv
+  url: https://www.medrxiv.org/content/10.64898/2026.06.08.26355197.full.pdf
+  kind: preprint
+en:
+  title: Dried blood spot metabolomics shows pathway-level convergence with ME/CFS biology in a large community cohort
+  plain_summary: A preprint testing finger-prick dried blood spots from 1,784 adults found that a 22-metabolite panel flagged self-reported PEM-like fatigue and tracked symptom severity. Because symptoms were self-reported rather than clinically diagnosed, it is not a validated diagnostic test.
+  detail: 'Hauguel and colleagues profiled dried blood spot samples from 1,784 adults and tested whether a literature-guided metabolite panel could identify a self-reported PEM-like fatigue phenotype. A 22-metabolite panel reached an out-of-fold AUC of 0.81 and mapped back to pathways already familiar in ME/CFS work, including the carnitine shuttle, TCA cycle, redox-thiol balance, urea cycle, glycerophospholipids, and tryptophan-kynurenine metabolism. The main value here is not that it proves a diagnostic test, but that it shows a decentralized sampling method can still recover pathway-level signals similar to venous blood studies. The metabolomic score also rose with symptom severity, which supports biological gradient rather than a random assay artifact. The limitations are substantial: the phenotype was self-reported rather than clinically adjudicated, subgroup analyses were small, and untargeted screening in the same dataset mostly surfaced technical and environmental noise.'
+de:
+  title: Trockenblut-Metabolomik zeigt Übereinstimmung auf Stoffwechselweg-Ebene mit ME/CFS-Biologie in großer Bevölkerungskohorte
+  plain_summary: Ein Preprint analysierte Trockenblutproben von 1.784 Erwachsenen und fand mit einem 22-Metaboliten-Panel bekannte ME/CFS-Stoffwechselwege bei selbstberichteter PEM-ähnlicher Fatigue wieder. Da keine ärztlichen Diagnosen vorlagen, ist dies noch kein validierter Test.
+  detail: 'Hauguel und Kolleginnen profilierten Trockenblut-Kärtchen von 1.784 Erwachsenen und prüften, ob ein literaturbasiertes Metaboliten-Panel einen selbstberichteten PEM-ähnlichen Fatigue-Phänotyp erkennen kann. Ein 22-Metaboliten-Panel erreichte eine Out-of-fold-AUC von 0,81 und bildete aus der ME/CFS-Forschung bekannte Stoffwechselwege ab, darunter den Carnitin-Shuttle, den Citratzyklus, das Redox-Thiol-Gleichgewicht, den Harnstoffzyklus, Glycerophospholipide und den Tryptophan-Kynurenin-Stoffwechsel. Der Hauptwert liegt nicht im Nachweis eines fertigen Tests, sondern darin, dass auch dezentrale Probenahmen ähnliche Signalmuster erfassen wie venöse Blutstudien. Der Metabolom-Score stieg zudem mit der Symptomschwere an, was für einen biologischen Gradienten statt eines bloßen Laborartefakts spricht. Die Einschränkungen sind jedoch erheblich: Der Phänotyp war selbstberichtet statt klinisch geprüft, Subgruppen waren klein, und eine ungezielte Auswertung im selben Datensatz förderte
+    vor allem technisches und umweltbedingtes Rauschen zutage.'

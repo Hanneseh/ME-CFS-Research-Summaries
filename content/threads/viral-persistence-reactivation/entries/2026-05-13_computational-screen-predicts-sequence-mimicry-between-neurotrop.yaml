@@ -1,0 +1,18 @@
+id: 2026-05-13_computational-screen-predicts-sequence-mimicry-between-neurotrop
+date: '2026-05-13'
+date_display: '2026-05-13'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Almulla et al. 2026, Immun Inflamm Dis
+  url: https://doi.org/10.1002/iid3.70445
+  kind: paper
+en:
+  title: Computational screen predicts sequence mimicry between neurotropic herpesviruses and brain proteins
+  plain_summary: A computer sequence comparison found 91 short protein matches between herpesviruses (like EBV and HHV-6) and human brain proteins such as Synapsin 1 and myelin. Because this was purely a database search, it has not yet checked whether actual patients carry cross-reactive antibodies against these targets.
+  detail: A computational in silico study identified extensive molecular mimicry between neurotropic herpesvirus antigens and human central nervous system proteins. The analysis revealed 91 shared pentapeptides, showing that Synapsin 1 (SYN1) shares multiple immunogenic motifs with EBV and HHV-6 antigens, alongside myelin proteins like MBP, MAG, and MOG. This structural mapping provides a plausible biochemical pathway explaining how immune responses to viral reactivation can cross-react to attack brain and nerve tissues. It offers specific molecular targets to guide the development of diagnostic autoantibody tests and highly targeted neuro-immunotherapies. However, as a strictly computational analysis, the study does not validate this cross-reactivity in patient blood samples or live models. It does not prove that these predicted antibodies are actually present in patients or that they cause pathological damage in vivo.
+de:
+  title: Computergestütztes Screening sagt Sequenzähnlichkeit zwischen neurotropen Herpesviren und Hirnproteinen voraus
+  plain_summary: Ein reiner Datenbank-Vergleich fand 91 kurze Eiweiß-Übereinstimmungen zwischen Herpesviren wie EBV und HHV-6 sowie menschlichen Hirnproteinen wie Synapsin 1 und Myelin. Da nur am Computer gerechnet wurde, ist noch nicht geprüft, ob echte Patientinnen und Patienten tatsächlich entsprechende Antikörper im Blut haben.
+  detail: Eine rein computergestützte („in silico“) Studie identifizierte ausgeprägte molekulare Mimikry zwischen Antigenen neurotroper Herpesviren und Proteinen des menschlichen zentralen Nervensystems. Die Analyse ergab 91 gemeinsame Pentapeptide und zeigte, dass Synapsin 1 (SYN1) sowie Myelinproteine wie MBP, MAG und MOG mehrere immunogene Motive mit EBV- und HHV-6-Antigenen teilen. Diese Strukturkarte liefert einen biochemisch plausiblen Pfad dafür, wie Immunreaktionen gegen reaktivierte Viren fehlgeleitet Gehirn- und Nervengewebe angreifen könnten, und nennt konkrete Ziele für künftige Autoantikörper-Tests. Als ausschließlich rechnerische Vorhersage prüft die Studie diese Kreuzreaktivität jedoch weder in Patientenblut noch in lebenden Modellen und beweist daher nicht, dass entsprechende Antikörper im Körper Schaden anrichten.

@@ -1,0 +1,18 @@
+id: 2026-03-01_uk-biobank-pipeline-model-reaches-93-9-accuracy
+date: '2026-03-01'
+date_display: '2026-03-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Li et al. 2026, Computational Biology and Chemistry
+  url: https://doi.org/10.1016/j.compbiolchem.2026.108995
+  kind: paper
+en:
+  title: UK Biobank pipeline model reaches 93.9% accuracy using ten routine blood biomarkers
+  plain_summary: Using UK Biobank data from 1,137 ME/CFS cases and 66,838 controls, a machine-learning model reached nearly 94% accuracy using ten standard blood measurements like glucose, bilirubin, and vitamin D. While promising because routine labs are widely available, the model has not yet been tested prospectively in a new clinical cohort.
+  detail: A Fudan University team analyzed data from 1,137 ME/CFS cases and 66,838 controls in the UK Biobank, testing 11 machine-learning algorithms with various imputation and feature-selection strategies before identifying a pipeline that achieved 93.9 percent accuracy and an AUC of 0.979. The ten selected biomarkers—anchored by urea, total protein, glucose, total bilirubin, leucine, and vitamin D—are available from routine clinical blood panels, which sharply lowers the bar for clinical translation. Mendelian randomization analysis suggested causal relationships for several of the markers with ME/CFS outcomes, and elevated glucose and leucine were associated with greater symptom severity. Controls with overlapping conditions were included, improving clinical specificity. Prospective validation in an independent clinical population has not yet been reported.
+de:
+  title: UK-Biobank-Pipeline erreicht 93,9 % Genauigkeit mit zehn Standard-Blutbiomarkern
+  plain_summary: Ein Machine-Learning-Modell erreichte mit Daten von 1.137 ME/CFS-Fällen und 66.838 Kontrollen aus der UK Biobank knapp 94 % Treffsicherheit allein anhand von zehn gängigen Blutwerten wie Glukose, Bilirubin und Vitamin D. Obwohl dies wegen der breiten Verfügbarkeit von Routinelabors vielversprechend ist, steht eine prospektive Prüfung in einer unabhängigen klinischen Gruppe noch aus.
+  detail: Ein Team der Fudan-Universität analysierte Daten von 1.137 ME/CFS-Fällen und 66.838 Kontrollpersonen aus der UK Biobank und testete elf Machine-Learning-Algorithmen mit verschiedenen Imputations- und Merkmalsauswahl-Strategien, bevor es eine Pipeline identifizierte, die 93,9 Prozent Genauigkeit und eine AUC von 0,979 erreichte. Die zehn ausgewählten Biomarker – darunter Harnstoff, Gesamtprotein, Glukose, Gesamtbilirubin, Leucin und Vitamin D – stammen aus klinischen Routine-Blutuntersuchungen, was die Hürde für eine klinische Übertragung deutlich senkt. Analysen mittels Mendel'scher Randomisierung deuteten für mehrere Marker auf kausale Zusammenhänge mit ME/CFS-Endpunkten hin, und erhöhte Glukose- sowie Leucinwerte gingen mit stärkerer Symptomschwere einher. Auch Kontrollen mit überlappenden Erkrankungen wurden einbezogen, was die klinische Spezifität verbessert. Eine prospektive Validierung in einer unabhängigen klinischen Population wurde jedoch bislang nicht berichtet.

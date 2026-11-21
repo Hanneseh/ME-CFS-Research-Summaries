@@ -1,0 +1,18 @@
+id: 2026-07-10_system-dynamics-framework-models-state-dependent-instability-in
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Tellier 2026, Frontiers in Immunology
+  url: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1865449/full
+  kind: paper
+en:
+  title: System-dynamics framework models state-dependent instability in Mast Cell Activation Syndrome
+  plain_summary: A conceptual paper proposed modeling mast cell activation syndrome (MCAS) as unstable system states—explaining why patients crash unpredictably even when resting lab markers look normal. It is purely a theoretical framework with no new patient data and does not prove MCAS is a core cause of ME/CFS.
+  detail: 'A theoretical perspective paper proposed a system-dynamics framework to model clinical volatility and crash susceptibility in Mast Cell Activation Syndrome (MCAS). The model reframes MCAS as a disorder of state-dependent systemic instability rather than focusing solely on mediator burden, suggesting why resting mediator levels often correlate poorly with functional capacity. The framework classifies patient operating regimes into four states (recovery-capable, plateau, slow drift, and crash-prone) governed by three axes: energetic reserve, dominant pressure domain, and multisystem synchronization. As a purely conceptual model rather than clinical evidence, it does not present new patient data, clinical trial outcomes, or validated biomarkers. While it offers a potential mechanism to explain clinical fluctuations and post-perturbation crashes, the model requires longitudinal clinical validation and does not establish MCAS as a primary driver or mechanism of ME/CFS.'
+de:
+  title: Systemdynamik-Modell beschreibt zustandsabhängige Instabilität beim Mastzellaktivierungssyndrom
+  plain_summary: Eine theoretische Arbeit beschreibt das Mastzellaktivierungssyndrom (MCAS) als zustandsabhängige Instabilität – um zu erklären, warum Betroffene trotz unauffälliger Ruhewerte rasch in einen Crash kippen können. Da es sich um ein reines Gedankenmodell ohne neue Patientendaten handelt, belegt es MCAS nicht als Hauptursache von ME/CFS.
+  detail: Ein theoretisches Perspektivpapier schlug einen Systemdynamik-Rahmen vor, um klinische Schwankungen und Crash-Anfälligkeit beim Mastzellaktivierungssyndrom (MCAS) zu modellieren. Das Modell fasst MCAS als Störung zustandsabhängiger systemischer Instabilität statt allein als Menge freigesetzter Mediatoren auf – was erklären soll, warum Ruhe-Laborwerte oft schlecht mit der Alltagsbelastbarkeit korrelieren – und ordnet Betriebszustände entlang von Energiereserve, dominantem Belastungsbereich und Multisystem-Kopplung in vier Regime ein (erholungsfähig, Plateau, langsames Abdriften, crash-anfällig). Als rein konzeptioneller Entwurf liefert der Beitrag weder neue Patientendaten noch klinische Studien oder validierte Biomarker und belegt MCAS nicht als primären Mechanismus von ME/CFS.

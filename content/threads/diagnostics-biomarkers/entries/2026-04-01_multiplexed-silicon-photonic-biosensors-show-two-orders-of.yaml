@@ -1,0 +1,18 @@
+id: 2026-04-01_multiplexed-silicon-photonic-biosensors-show-two-orders-of
+date: '2026-04-01'
+date_display: '2026-04-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Vajrala et al. 2026, TrAC Trends in Analytical Chemistry
+  url: https://doi.org/10.1016/j.trac.2026.118123
+  kind: paper
+en:
+  title: Multiplexed silicon-photonic biosensors show two-orders-of-magnitude sensitivity gain over current standards
+  plain_summary: An engineering review reports that new optical biosensor chips can measure multiple immune and metabolic proteins from tiny blood drops in 15 minutes, with much higher sensitivity than older lab tools. These chips still need real-world clinical validation and regulatory approval before doctors can use them for ME/CFS or Long COVID.
+  detail: A University of Michigan review assessed the state of multiplexed protein biosensing platforms for complex infection-associated conditions including ME/CFS and Long COVID, comparing silicon photonic microring resonators and Liquid-phase Interference Tomography against the current gold standard of Luminex multiplexing. Newer designs reduced incubation times from several hours to 15 minutes, required substantially smaller sample volumes, and achieved two-orders-of-magnitude sensitivity improvements. The review emphasizes that ME/CFS and Long COVID require simultaneous detection of multiple immune and metabolic markers rather than single biomarkers, and that scalable automated systems are now reaching a maturity level where clinical deployment is realistic. The primary remaining barriers are analytical robustness across diverse patient populations and regulatory approval for multi-target diagnostic panels.
+de:
+  title: Multiplex-Siliziumphotonik-Biosensoren zeigen um zwei Größenordnungen höhere Empfindlichkeit als aktuelle Standards
+  plain_summary: Eine technische Übersichtsarbeit zeigt, dass neuartige optische Biosensor-Chips mehrere Immun- und Stoffwechselproteine aus winzigen Blutproben in 15 Minuten und mit weit höherer Empfindlichkeit als bisherige Laborgeräte messen können. Vor einem Einsatz bei ME/CFS oder Long COVID müssen solche Systeme jedoch erst an vielfältigen Patientengruppen geprüft und zugelassen werden.
+  detail: Eine Übersichtsarbeit der University of Michigan bewertete den Entwicklungsstand von Multiplex-Protein-Biosensorplattformen für komplexe infektionsassoziierte Erkrankungen einschließlich ME/CFS und Long COVID und verglich Siliziumphotonik-Mikroringresonatoren sowie Flüssigphasen-Interferenztomographie mit dem bisherigen Standard des Luminex-Multiplexings. Neuere Designs verkürzten die Inkubationszeiten von mehreren Stunden auf 15 Minuten, benötigten deutlich geringere Probenvolumina und erreichten eine um zwei Größenordnungen höhere Empfindlichkeit. Die Arbeit betont, dass ME/CFS und Long COVID den gleichzeitigen Nachweis mehrerer Immun- und Stoffwechselmarker statt einzelner Biomarker erfordern und dass skalierbare automatisierte Systeme inzwischen einen Reifegrad erreichen, der einen klinischen Einsatz realistisch erscheinen lässt. Die größten verbleibenden Hürden sind die analytische Robustheit über vielfältige Patientengruppen hinweg sowie die behördliche Zulassung für Multi-Target-Diagnosepanels.

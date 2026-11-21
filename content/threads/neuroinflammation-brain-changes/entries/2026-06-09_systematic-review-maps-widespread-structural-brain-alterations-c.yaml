@@ -1,0 +1,18 @@
+id: 2026-06-09_systematic-review-maps-widespread-structural-brain-alterations-c
+date: '2026-06-09'
+date_display: '2026-06-09'
+date_precision: exact
+source_type: review
+study_design: Systematic review
+sources:
+- label: Correlating Neuroimaging Changes to Fatigue and Cognitive Dysfunction in ME/CFS (P10-1.006), Neurology
+  url: https://www.neurology.org/doi/abs/10.1212/WNL.0000000000217681
+  kind: paper
+en:
+  title: Systematic review maps widespread structural brain alterations correlating with cognitive dysfunction
+  plain_summary: Combining 12 brain-scan studies totaling 652 people, a systematic review found frequent white-matter and grey-matter differences in regions tied to movement and executive thinking in ME/CFS. Because the underlying studies were small and used varied older methods, these changes are not yet standardized diagnostic markers.
+  detail: A systematic review and meta-synthesis of 12 neuroimaging studies including 652 participants (428 ME/CFS patients and 224 controls) confirmed objective alterations in brain structure and connectivity. The analysis showed that 42% of the studies reported white matter alterations (such as decreased connectivity), 16% reported grey matter volume reductions, and 42% reported changes in both. The most frequently affected regions were the precentral gyrus (66%), prefrontal cortex (58%), and subcortical basal ganglia and thalamus (42% each), areas critical for motor control and executive function. Although these widespread alterations correlate with clinical fatigue and brain fog, the review is limited by the methodological heterogeneity and small sample sizes of the primary studies, which often relied on the older Fukuda diagnostic criteria.
+de:
+  title: Systematische Übersichtsarbeit kartiert weitreichende strukturelle Hirnveränderungen im Zusammenhang mit kognitiver Dysfunktion
+  plain_summary: Eine systematische Auswertung von 12 Bildgebungsstudien mit 652 Teilnehmenden fand bei ME/CFS häufige Veränderungen in weißer und grauer Substanz von Bewegungs- und Steuerungsregionen des Gehirns. Da die Einzelstudien klein waren und ältere Kriterien sowie verschiedene Methoden nutzten, ergeben sich daraus noch keine einheitlichen Diagnosemarker.
+  detail: Eine systematische Übersichtsarbeit und Meta-Synthese von 12 Neuroimaging-Studien mit insgesamt 652 Teilnehmenden (428 ME/CFS-Patientinnen und -Patienten sowie 224 Kontrollen) bestätigte objektive Veränderungen der Hirnstruktur und -konnektivität. Die Analyse zeigte, dass 42 % der Studien Veränderungen der weißen Substanz (wie verringerte Konnektivität), 16 % Volumenminderungen der grauen Substanz und 42 % Veränderungen in beiden Bereichen berichteten. Die am häufigsten betroffenen Regionen waren der Gyrus praecentralis (66 %), der präfrontale Kortex (58 %) sowie die subkortikalen Basalganglien und der Thalamus (jeweils 42 %) – Bereiche, die für Bewegungssteuerung und Exekutivfunktionen zentral sind. Obwohl diese weitreichenden Veränderungen mit klinischer Fatigue und Brain Fog korrelieren, ist die Übersichtsarbeit durch die methodische Heterogenität und kleine Stichprobengrößen der Primärstudien eingeschränkt, die sich häufig noch auf die älteren Fukuda-Diagnosekriterien stützten.

@@ -1,0 +1,20 @@
+id: 2026-10-07_ipsc-derived-myotubes-from-6-me-cfs-and
+date: '2026-10-07'
+date_display: '2026-10-07'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Nguyen et al. 2026, bioRxiv
+  url: https://www.biorxiv.org/content/10.1101/2026.10.01.755863v1
+  kind: preprint
+en:
+  title: iPSC-derived myotubes from 6 ME/CFS and 7 control donors show three gene-level differences and isoform signals
+  plain_summary: A very small preprint grew mature muscle fibers from stem cells of 6 ME/CFS donors and found 3 gene-level differences plus 16 RNA-splicing shifts tied to cell energy and protein maintenance. The 14 computer-ranked drug candidates were not tested in cells or patients.
+  detail: A bioRxiv preprint by Nguyen and colleagues at Deakin University examined skeletal-muscle myotubes differentiated from induced pluripotent stem cells (iPSCs) of 6 ME/CFS donors and 7 healthy controls, with myogenic differentiation confirmed by titin and myosin heavy chain expression. Transcriptomic profiling identified sparse gene-level differences—with only three differentially expressed genes (*ERVH48-1*, *CDX4*, and *SLC2A14*)—alongside 16 genes with significant differential isoform usage involved in RNA processing, protein synthesis, proteostasis, and mitochondrial quality control. In silico LINCS2 connectivity analysis prioritized 14 candidate compounds for future functional validation, though the abstract reports no experimental testing in cells or patients. The study extends myogenic-progenitor work from the same research group and likely shares the same donor cohort given identical sample numbers, but evaluates a later differentiation stage and does not replace the earlier
+    June preprint. Limitations include the unreviewed preprint status, a very small sample size, potential erasure of disease features during epigenetic reprogramming, and the absence of whole-body physiological or post-exertional malaise context; additionally, because full-text access was unavailable, donor sex, diagnostic criteria, and illness severity could not be verified.
+de:
+  title: iPSC-abgeleitete Myotuben von 6 ME/CFS- und 7 Kontrolldonoren zeigen drei Genunterschiede und Isoform-Signale
+  plain_summary: Ein sehr kleiner Preprint züchtete Muskelfasern aus Stammzellen von 6 ME/CFS-Spenderinnen bzw. -Spendern und fand 3 veränderte Gene sowie 16 abweichende Gen-Isoformen für Proteinerhalt und Mitochondrienqualität. Die 14 per Software vorgeschlagenen Wirkstoffe wurden nicht experimentell getestet.
+  detail: Ein bioRxiv-Preprint von Nguyen und Kolleginnen an der Deakin University untersuchte Skelettmuskel-Myotuben, die aus induzierten pluripotenten Stammzellen (iPSCs) von 6 ME/CFS-Spenderinnen bzw. -Spendern und 7 gesunden Kontrollpersonen differenziert wurden, wobei die Muskelreifung über Titin- und Myosin-Schwerketten-Expression bestätigt wurde. Die Transkriptom-Analyse fand nur wenige Unterschiede auf Gesamtgenebene – lediglich drei unterschiedlich exprimierte Gene (*ERVH48-1*, *CDX4* und *SLC2A14*) – neben 16 Genen mit signifikant veränderter Isoform-Nutzung in den Bereichen RNA-Verarbeitung, Proteinsynthese, Proteostase und mitochondriale Qualitätskontrolle. Eine In-silico-LINCS2-Konnektivitätsanalyse priorisierte 14 Wirkstoffkandidaten für künftige Funktionsprüfungen, wobei der Abstract keinerlei experimentelle Tests in Zellen oder Patientinnen berichtet. Die Arbeit führt frühere Untersuchungen derselben Gruppe an Muskelvorläuferzellen fort und nutzt angesichts identischer Fallzahlen
+    vermutlich dieselbe Spenderkohorte, betrachtet aber ein späteres Reifestadium und ersetzt den Preprint vom Juni nicht. Zu den Einschränkungen zählen der unbegutachtete Preprint-Status, die sehr kleine Fallzahl, ein möglicher Verlust von Krankheitsmerkmalen während der epigenetischen Reprogrammierung sowie das Fehlen des ganzkörperlichen und PEM-Kontexts; zudem ließen sich mangels Volltextzugang Geschlecht, Diagnosekriterien und Krankheitsschwere nicht verifizieren.

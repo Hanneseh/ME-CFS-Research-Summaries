@@ -1,0 +1,18 @@
+id: 2026-01-22_two-day-cpet-finds-similar-recovery-failure-in
+date: '2026-01-22'
+date_display: '2026-01-22'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Davenport et al. 2026, Research Square
+  url: https://doi.org/10.21203/rs.3.rs-8606329/v1
+  kind: preprint
+en:
+  title: Two-day CPET finds similar recovery failure in ME/CFS and Long COVID
+  plain_summary: A retrospective study comparing two-day exercise tests found nearly identical day-two drops in workload and oxygen use at the anaerobic threshold in both ME/CFS and Long COVID. This points to a shared recovery-failure pattern, though not every patient shows a day-two drop and longer symptom crashes were not tracked.
+  detail: This retrospective CPET study reported nearly identical bioenergetic impairment in ME/CFS and Long COVID across a 24-hour recovery interval. The key change was reduced oxygen consumption and workload at the anaerobic threshold on day 2, while standard hemodynamic and ventilatory measures stayed largely normal. That supports a shared recovery-failure phenotype and reinforces two-day CPET as a physiologic stress test for PEM. It does not prove that every patient shows a day-2 drop, and it does not capture the full delayed symptom course outside the test window.
+de:
+  title: Zweitägiger CPET zeigt ähnliches Erholungsversagen bei ME/CFS und Long COVID
+  plain_summary: Eine rückblickende Auswertung zweitägiger Belastungstests fand bei ME/CFS und Long COVID am zweiten Tag nahezu identische Einbrüche von Leistung und Sauerstoffaufnahme an der anaeroben Schwelle. Das spricht für ein gemeinsames Erholungsversagen, doch zeigt nicht jede erkrankte Person diesen Abfall am zweiten Tag.
+  detail: Diese retrospektive CPET-Studie berichtete über eine nahezu identische bioenergetische Beeinträchtigung bei ME/CFS und Long COVID über ein 24-stündiges Erholungsintervall hinweg. Die zentrale Veränderung war eine verringerte Sauerstoffaufnahme und Leistung an der anaeroben Schwelle an Tag 2, während Standardwerte von Kreislauf und Atmung weitgehend unauffällig blieben. Das stützt einen gemeinsamen Phänotyp des Erholungsversagens und bestätigt den zweitägigen CPET als physiologischen Stresstest für PEM. Er beweist jedoch nicht, dass jede betroffene Person am zweiten Tag einen Leistungsabfall zeigt, und erfasst nicht den gesamten verzögerten Symptomverlauf außerhalb des Testfensters.

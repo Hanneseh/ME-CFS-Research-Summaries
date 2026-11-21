@@ -1,0 +1,20 @@
+id: 2026-03-25_charite-3rd-international-conference-expert-perspectives-paper-m
+date: '2026-03-25'
+date_display: '2026-03-25'
+date_precision: exact
+source_type: guideline
+study_design: null
+sources:
+- label: Fehrer et al. 2026, Autoimmunity Reviews
+  url: https://doi.org/10.1016/j.autrev.2026.104043
+  kind: paper
+en:
+  title: Charité 3rd International Conference expert perspectives paper maps consensus across mechanisms, care, and trials
+  plain_summary: An expert report from the 2025 Charité conference summarized growing agreement on muscle ion-pump and small-vessel abnormalities, while noting that validated diagnostic tests and standard care guidelines are still missing. Early pilot treatment data discussed there remain preliminary.
+  detail: 'A multi-author report synthesizing the 3rd International Conference of the Charité Fatigue Center, held in May 2025, was published in Autoimmunity Reviews in March 2026. The paper brought together dozens of leading international ME/CFS and post-COVID researchers to consolidate current consensus across pathophysiology, diagnostic biomarkers, clinical care models, and therapeutic trial directions. Key mechanistic consensus points included a model of sarcolemmal depolarization and Na+/K+-ATPase dysfunction in skeletal muscle and significant microvascular impairment in retinal venular function. From a clinical characterization standpoint, the paper is significant for what it names as missing: universally validated diagnostic biomarkers and standardized clinical care guidelines are identified as critical gaps requiring urgent international collaboration. Preliminary trial data from hyperbaric oxygen, immunoadsorption, and daratumumab were presented but not yet conclusive, underlining
+    that research infrastructure consensus has moved faster than treatment evidence.'
+de:
+  title: Expertenpapier der 3. Internationalen Charité-Konferenz kartiert Konsens zu Mechanismen, Versorgung und Studien
+  plain_summary: Ein Expertenbericht zur Charité-Konferenz 2025 fasst zunehmende Übereinstimmung bei Muskel-Ionenpumpen und Gefäßstörungen zusammen, betont aber, dass validierte Diagnosetests und einheitliche Behandlungsleitlinien weiter fehlen. Dort vorgestellte frühe Therapiedaten sind noch vorläufig.
+  detail: 'Ein gemeinsamer Bericht mehrerer Autorinnen und Autoren zur 3. Internationalen Konferenz des Charité Fatigue Centrums (Mai 2025) wurde im März 2026 in Autoimmunity Reviews veröffentlicht. Das Papier brachte Dutzende führende internationale ME/CFS- und Post-COVID-Forschende zusammen, um den aktuellen Konsens zu Pathophysiologie, diagnostischen Biomarkern, Versorgungsmodellen und Therapiestudien zu bündeln. Zu den zentralen mechanistischen Konsenspunkten zählten ein Modell der Sarkolemm-Depolarisation und Na+/K+-ATPase-Dysfunktion in der Skelettmuskulatur sowie deutliche mikrovaskuläre Beeinträchtigungen der retinalen Venolenfunktion. Für die klinische Charakterisierung ist das Papier vor allem durch das Benennen der Lücken bedeutsam: Allgemein validierte diagnostische Biomarker und standardisierte klinische Leitlinien werden als drängende Defizite hervorgehoben, die enge internationale Zusammenarbeit erfordern. Vorläufige Studiendaten zu hyperbarer Sauerstofftherapie, Immunadsorption
+    und Daratumumab wurden präsentiert, sind aber noch nicht abschließend – ein Zeichen dafür, dass der Forschungskonsens schneller gewachsen ist als belastbare Therapiebelege.'

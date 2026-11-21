@@ -1,0 +1,18 @@
+id: 2026-07-13_longitudinal-single-cell-profiling-reveals-a-monocyte-plasma
+date: '2026-07-13'
+date_display: '2026-07-13'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Research Square Preprint on Monocyte-Plasma Cell Axis
+  url: https://assets-eu.researchsquare.com/files/rs-9917774/v1/e6bcb7a4-015a-4c8a-9b4d-760e69b61648.pdf
+  kind: preprint
+en:
+  title: Longitudinal single-cell profiling reveals a monocyte-plasma cell axis in Long COVID
+  plain_summary: A very small preprint following roughly 7 Long COVID patients and 5 controls over time pointed to signaling between monocytes and antibody-producing plasma cells. Because the sample is tiny and not peer-reviewed, these early findings need confirmation in much larger studies.
+  detail: This longitudinal single-cell profiling study identified a monocyte-plasma cell axis in patients with Long COVID, providing early high-resolution cellular evidence of immune dysregulation. However, this work is currently an un-peer-reviewed preprint and is based on a very small cohort of approximately 7 Long COVID patients and 5 controls. Due to these limitations and the preliminary nature of the evidence, these findings require formal peer review and replication in larger patient cohorts.
+de:
+  title: Longitudinale Einzelzellprofilierung zeigt eine Monozyten-Plasmazell-Achse bei Long COVID
+  plain_summary: Ein sehr kleiner Preprint mit rund 7 Long-COVID-Betroffenen und 5 Kontrollen deutet auf eine Wechselwirkung zwischen Monozyten und antikörperbildenden Plasmazellen hin. Wegen der winzigen Teilnehmerzahl und des fehlenden Peer-Reviews ist das erst ein vorläufiger Hinweis.
+  detail: Eine longitudinale Einzelzell-Profilierungsstudie identifizierte bei Long-COVID-Patientinnen und -Patienten eine Monozyten-Plasmazell-Achse und lieferte damit erste hochauflösende zelluläre Hinweise auf Immundysregulation. Die Arbeit liegt jedoch bislang nur als nicht begutachteter Preprint vor und stützt sich auf eine sehr kleine Kohorte von rund 7 Long-COVID-Betroffenen und 5 Kontrollen. Aufgrund dieser starken Einschränkungen und des vorläufigen Charakters müssen die Ergebnisse erst ein formelles Peer-Review durchlaufen und in deutlich größeren Kohorten repliziert werden.

@@ -1,0 +1,20 @@
+id: 2026-07-07_survey-and-emr-analysis-reveals-gaps-in-long
+date: '2026-07-07'
+date_display: '2026-07-07'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Diagnostic coding study 2026, BMC Infectious Diseases
+  url: https://link.springer.com/article/10.1186/s12879-026-13943-x
+  kind: paper
+en:
+  title: Survey and EMR analysis reveals gaps in Long COVID diagnostic coding
+  plain_summary: Among Long COVID patients reporting major daily impairment, only 64% had a matching Long COVID code in their medical records. The small cross-sectional survey shows how easily health-record data can miss heavily affected patients.
+  detail: A cross-sectional survey (n = 205) and electronic medical record (EMR) sub-analysis (n = 100) investigated the relationship between patient-reported Long COVID symptom interference and official clinical diagnostic coding. In the survey cohort, 41% of participants reported high symptom interference with daily life activities, which significantly correlated with older age, female sex, obesity, poorer general, physical, and mental health metrics, and the presence of a U09.9 diagnosis code. However, among those reporting high symptom interference, only 64% (25 of 39) in the EMR sub-analysis actually had a corresponding Long COVID diagnostic code documented. While the study found no evidence of demographic biases in receiving a diagnosis among patients experiencing high symptom interference, it highlights a notable gap between patient-reported severity and clinical coding. Limitations include the cross-sectional design, reliance on self-reported survey data susceptible to recall bias,
+    and a small EMR sub-analysis sample.
+de:
+  title: Umfrage- und Aktenanalyse zeigt Lücken bei der Diagnosecodierung von Long COVID
+  plain_summary: Unter Long-COVID-Betroffenen mit starker Alltagsbeeinträchtigung hatten nur 64 % einen entsprechenden Long-COVID-Code in ihrer Patientenakte. Die kleine Querschnittsauswertung zeigt, wie leicht Routine-Gesundheitsdaten stark beeinträchtigte Betroffene übersehen.
+  detail: Eine Querschnittsbefragung (n = 205) mit Teilauswertung elektronischer Patientenakten (EMR, n = 100) untersuchte den Zusammenhang zwischen selbstberichteter Alltagsbeeinträchtigung durch Long COVID und offizieller Diagnosecodierung. In der Umfrage berichteten 41 % der Teilnehmenden über starke Beeinträchtigungen im Alltag, was signifikant mit höherem Alter, weiblichem Geschlecht, Adipositas, schlechteren allgemeinen, körperlichen und psychischen Gesundheitswerten sowie dem Vorliegen eines U09.9-Diagnosecodes korrelierte. Unter den Personen mit starker Beeinträchtigung fand sich in der EMR-Teilauswertung jedoch nur bei 64 % (25 von 39) tatsächlich ein dokumentierter Long-COVID-Code. Zwar ergaben sich keine Hinweise auf demografische Benachteiligung bei der Codierung unter stark Beeinträchtigten, doch wird eine deutliche Lücke zwischen erlebter Schwere und ärztlicher Dokumentation sichtbar. Einschränkungen sind das Querschnittsdesign, selbstberichtete Angaben mit Erinnerungsverzerrung
+    und die kleine Aktenstichprobe.

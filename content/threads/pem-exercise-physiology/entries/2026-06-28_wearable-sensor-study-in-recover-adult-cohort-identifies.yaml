@@ -1,0 +1,19 @@
+id: 2026-06-28_wearable-sensor-study-in-recover-adult-cohort-identifies
+date: '2026-06-28'
+date_display: '2026-06-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'Vogel et al. 2026, JACC: Advances'
+  url: https://doi.org/10.1016/j.jacadv.2026.102923
+  kind: paper
+en:
+  title: Wearable sensor study in RECOVER-adult cohort identifies sustained cardiopulmonary fitness deficits in Long COVID
+  plain_summary: Wearable data from 1,475 adults in the US RECOVER study (median 21 months post-COVID) showed that those with high symptom burden had lower heart-rate variability, higher resting heart rates, and about 1,600 fewer daily steps over 6 months. This large real-world dataset documents persistent autonomic and physical limits long after infection.
+  detail: A digital health substudy of the nationwide NIH RECOVER-adult cohort analyzed continuous wearable sensor data from 1,475 participants at a median of 21 months post-infection. The study found that the 34% of participants classified with a high symptom burden (using the RECOVER Long COVID Research Index) demonstrated sustained, objective deficits in cardiopulmonary fitness over a 6-month monitoring window. Compared to the low-symptom cohort, the high-symptom group had significantly lower heart rate variability (HRV; mean difference of -4.4 ms), an elevated resting heart rate (+1.5 bpm), and a substantial drop in physical activity metrics, including 1,624 fewer steps per day. Hierarchical clustering identified two distinct cardiovascular subphenotypes that correlated significantly with poorer health-related quality of life scores. These findings provide large-scale, real-world evidence of long-term autonomic and physical limitations in Long COVID, suggesting the condition may serve
+    as a risk factor for future cardiovascular disease.
+de:
+  title: Wearable-Sensorstudie in der RECOVER-Erwachsenenkohorte belegt anhaltende kardiopulmonale Defizite bei Long COVID
+  plain_summary: Wearable-Daten von 1.475 Erwachsenen der US-amerikanischen RECOVER-Studie zeigten im Schnitt 21 Monate nach COVID-19 bei stark Betroffenen eine geringere Herzfrequenzvariabilität, höheren Ruhepuls und rund 1.600 Schritte weniger pro Tag. Dieser große Alltagsdatensatz dokumentiert lang anhaltende autonome und körperliche Einschränkungen.
+  detail: Eine digitale Teilstudie der landesweiten US-Kohorte NIH RECOVER-adult wertete kontinuierliche Wearable-Sensordaten von 1.475 Teilnehmenden im Median 21 Monate nach Infektion aus. Die 34 % der Teilnehmenden mit hoher Symptomlast (gemäß RECOVER Long COVID Research Index) zeigten über ein sechsmonatiges Beobachtungsfenster hinweg anhaltende objektive Defizite der kardiopulmonalen Fitness. Im Vergleich zur Gruppe mit geringer Symptomlast wies die hochbelastete Gruppe eine signifikant niedrigere Herzfrequenzvariabilität (HRV; mittlere Differenz −4,4 ms), einen erhöhten Ruhepuls (+1,5 Schläge/Min.) sowie deutlich geringere tägliche Aktivität (−1.624 Schritte/Tag) auf. Hierarchisches Clustering identifizierte zwei kardiovaskuläre Subphänotypen, die signifikant mit schlechterer gesundheitsbezogener Lebensqualität korrelierten – ein groß angelegter Alltagsbeleg für anhaltende autonome und körperliche Einschränkungen.

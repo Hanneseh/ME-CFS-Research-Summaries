@@ -1,0 +1,20 @@
+id: 2026-04-15_prospective-cohort-compares-post-mononucleosis-me-cfs-with
+date: '2026-04-15'
+date_display: '2026-04-15'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Jason et al. 2026, Chronic Illness
+  url: https://doi.org/10.1177/17423953251347108
+  kind: paper
+en:
+  title: Prospective cohort compares post-mononucleosis ME/CFS with Long COVID
+  plain_summary: Comparing 55 young adults with ME/CFS after mononucleosis and 55 matched people with Long COVID showed overlapping symptom burden, with Long COVID falling between moderate and severe college-cohort ME/CFS. Because participants were mostly ambulatory students and sample sizes were small, the findings do not reflect bedbound patients or prove identical biology.
+  detail: Jason, Furst, and Katz compared 55 young adults who developed ME/CFS following Epstein-Barr virus infectious mononucleosis with 55 matched people who developed Long COVID after SARS-CoV-2 infection, alongside a recovered SARS-CoV-2 comparison group. The mononucleosis arm was enrolled before infection, providing prospective baseline information within that cohort; the matched SARS-CoV-2 comparison sample was recruited after infection, so the between-cohort comparison does not carry the same baseline control. Across standardized measures, the overall symptom and functional burden of individuals with Long COVID fell intermediate between the moderate and severe post-mononucleosis ME/CFS subgroups, supporting marked phenotypic overlap. Crucially, the "severe" ME/CFS subgroup was defined by research criteria applied within an ambulatory college cohort, not by the functional severity categories used for bedbound or non-ambulatory community patients. While the symptom profiles align, distinct
+    viral triggers mean shared clinical phenotypes cannot be assumed to reflect identical cellular or molecular mechanisms. The analysis also relied primarily on self-reported questionnaires in young adults, and its subgroup sizes were modest.
+de:
+  title: Prospektive Kohorte vergleicht ME/CFS nach Mononukleose mit Long COVID
+  plain_summary: Ein Vergleich von 55 jungen Erwachsenen mit ME/CFS nach Pfeifferschem Drüsenfieber und 55 gematchten Long-COVID-Betroffenen zeigte deutliche Überschneidungen, wobei die Belastung bei Long COVID zwischen moderatem und schwerem ME/CFS einer Studierendenkohorte lag. Da meist gehfähige junge Erwachsene untersucht wurden und die Gruppen klein waren, lassen sich Bettlägerige oder identische Zellmechanismen daraus nicht ableiten.
+  detail: Jason, Furst und Katz verglichen 55 junge Erwachsene, die nach einer Epstein-Barr-Virus-Mononukleose ein ME/CFS entwickelten, mit 55 gematchten Personen mit Long COVID nach SARS-CoV-2-Infektion sowie einer genesenen SARS-CoV-2-Vergleichsgruppe. Der Mononukleose-Arm wurde bereits vor der Infektion eingeschlossen und liefert dort eine prospektive Ausgangsbasis; die gematchte SARS-CoV-2-Vergleichsgruppe wurde dagegen erst nach der Infektion rekrutiert, sodass der Vergleich zwischen den Kohorten nicht über dieselbe Baseline-Kontrolle verfügt. Auf standardisierten Skalen lag die gesamte Symptom- und Funktionslast der Personen mit Long COVID zwischen den Untergruppen mit moderatem und schwerem Post-Mononukleose-ME/CFS, was eine deutliche phänotypische Überschneidung stützt. Entscheidend ist jedoch, dass die „schwere“ ME/CFS-Untergruppe anhand von Forschungskriterien innerhalb einer gehfähigen College-Kohorte definiert wurde und nicht den funktionellen Schweregraden bettlägeriger oder
+    hausgebundener Patientinnen und Patienten entspricht. Auch bei ähnlichen Beschwerdeprofilen lassen unterschiedliche Virusauslöser nicht den Schluss auf identische zelluläre oder molekulare Mechanismen zu. Zudem beruhte die Analyse überwiegend auf Selbstberichts-Fragebögen junger Erwachsener bei moderaten Gruppengrößen.

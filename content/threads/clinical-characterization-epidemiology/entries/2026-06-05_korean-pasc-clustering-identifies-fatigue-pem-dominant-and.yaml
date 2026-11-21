@@ -1,0 +1,18 @@
+id: 2026-06-05_korean-pasc-clustering-identifies-fatigue-pem-dominant-and
+date: '2026-06-05'
+date_display: '2026-06-05'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Kim & Kim 2026, PLOS ONE
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351506
+  kind: paper
+en:
+  title: Korean PASC clustering identifies fatigue/PEM-dominant and high-multisystem profiles
+  plain_summary: In 629 Korean adults with Long COVID, statistical clustering found a clear subgroup dominated by fatigue and PEM alongside a high-burden multisystem group. Because it was a one-time online survey, it cannot establish long-term prognosis or mechanisms.
+  detail: 'A PLOS ONE latent-profile analysis of 629 Korean adults with PASC identified four symptom profiles: low-symptom, moderate multisystem, fatigue/PEM-dominant, and high multisystem burden. Fatigue and post-exertional malaise were the most prevalent and severe symptoms across the sample, and quality of life declined stepwise with symptom burden. The fatigue/PEM-dominant class is clinically important because it resembles the ME/CFS-centered phenotype seen in other post-infectious cohorts. The study also shows that regional cohorts can differ from Western reports, since a respiratory-dominant class was not prominent here. Interpretation is limited by cross-sectional design and online recruitment through Long COVID communities.'
+de:
+  title: Koreanische PASC-Clusteranalyse identifiziert Fatigue-/PEM-dominante und hochbelastete Multisystemprofile
+  plain_summary: Eine statistische Auswertung von 629 koreanischen Erwachsenen mit Long COVID fand ein klares Unterprofil mit dominanter Fatigue und PEM sowie eine stark belastete Multisystemgruppe. Da es sich um eine einmalige Online-Befragung handelte, lässt sie keine Schlüsse auf Langzeitverlauf oder Mechanismen zu.
+  detail: 'Eine in PLOS ONE veröffentlichte Latent-Profile-Analyse von 629 koreanischen Erwachsenen mit PASC identifizierte vier Symptomprofile: geringe Symptomlast, moderate Multisystemlast, Fatigue-/PEM-dominant und hohe Multisystemlast. Fatigue und Post-Exertional Malaise waren in der Stichprobe die häufigsten und schwersten Beschwerden, und die Lebensqualität sank schrittweise mit steigender Symptomlast. Die Fatigue-/PEM-dominante Gruppe ist klinisch bedeutsam, weil sie dem ME/CFS-nahen Phänotyp anderer postinfektiöser Kohorten ähnelt. Zugleich zeigt die Studie, dass regionale Kohorten von westlichen Berichten abweichen können, da ein atemwegsdominantes Profil hier kaum ins Gewicht fiel. Eingeschränkt wird die Aussagekraft durch das Querschnittsdesign und die Online-Rekrutierung über Long-COVID-Communities.'

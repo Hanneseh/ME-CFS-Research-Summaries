@@ -1,0 +1,18 @@
+id: 2026-06-12_longitudinal-handgrip-study-shows-persistent-objective-muscle-dy
+date: '2026-06-12'
+date_display: '2026-06-12'
+date_precision: exact
+source_type: preprint
+study_design: Cohort study
+sources:
+- label: Wunderle et al. 2026, Research Square
+  url: https://www.researchsquare.com/article/rs-9842663/latest.pdf
+  kind: preprint
+en:
+  title: Longitudinal handgrip study shows persistent objective muscle dysfunction in post-COVID illness
+  plain_summary: A preprint tracking 102 post-COVID patients over 6 months found persistently lower grip strength, faster muscle fatigue, and poorer recovery, especially in those meeting ME/CFS criteria. It shows measurable ongoing muscle weakness, though it cannot pinpoint whether mitochondria or blood flow drive it.
+  detail: A prospective cohort study followed 102 people with Post-COVID Syndrome and 102 recovered controls, with 61.4% of the patient group meeting ME/CFS criteria. Patients had lower mean grip force, greater fatigability, and worse recovery capacity than controls at baseline and again 6 months later, with only modest improvement in recovery metrics over time. Lower baseline force and higher fatigability also predicted worse later symptom burden, which makes the result more clinically relevant than a one-time cross-sectional performance measure. This supports the idea that peripheral energy failure and muscle dysfunction remain objectively measurable over time in a large subset of post-viral patients. It still cannot show whether the muscle impairment is driven primarily by mitochondrial dysfunction, vascular perfusion problems, altered activity patterns, or some combination of these.
+de:
+  title: Longitudinale Handkraft-Studie zeigt anhaltende objektive Muskelfunktionsstörung bei Post-COVID-Erkrankung
+  plain_summary: Ein Preprint begleitete 102 Post-COVID-Betroffene über sechs Monate und fand dauerhaft geringere Handgriffkraft, schnellere Ermüdbarkeit und schlechtere Erholung – besonders bei erfüllten ME/CFS-Kriterien. Ob dies primär an Mitochondrien oder Durchblutung liegt, bleibt offen.
+  detail: Eine prospektive Kohortenstudie begleitete 102 Menschen mit Post-COVID-Syndrom und 102 genesene Kontrollpersonen, wobei 61,4 % der Patientengruppe die ME/CFS-Kriterien erfüllten. Betroffene hatten sowohl zu Beginn als auch sechs Monate später eine geringere mittlere Griffkraft, höhere Ermüdbarkeit und schlechtere Erholungskapazität als Kontrollpersonen, mit nur geringer Besserung der Erholungswerte über die Zeit. Eine niedrigere Ausgangskraft und höhere Ermüdbarkeit sagten zudem eine spätere stärkere Symptomlast voraus, was klinisch aussagekräftiger ist als eine reine Einzelmessung. Dies stützt die Annahme, dass periphere Energie- und Muskelfunktionsstörungen bei einer großen Teilgruppe postviral Betroffener über längere Zeit objektiv messbar bleiben. Die Studie kann jedoch nicht klären, ob die Muskelschwäche primär durch mitochondriale Dysfunktion, Gefäßdurchblutungsstörungen, veränderte Aktivitätsmuster oder eine Kombination entsteht.

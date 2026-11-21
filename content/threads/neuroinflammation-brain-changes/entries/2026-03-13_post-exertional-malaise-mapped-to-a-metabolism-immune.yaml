@@ -1,0 +1,18 @@
+id: 2026-03-13_post-exertional-malaise-mapped-to-a-metabolism-immune
+date: '2026-03-13'
+date_display: '2026-03-13'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Jin et al. 2026, Frontiers in Immunology
+  url: https://doi.org/10.3389/fimmu.2026.1774310
+  kind: paper
+en:
+  title: Post-exertional malaise mapped to a metabolism-immune-neuro interaction loop
+  plain_summary: 'This review proposes a feedback loop for PEM: muscle energy strain after exertion triggers inflammatory signals that reach the brain and amplify fatigue and pain. It connects muscle, immune, and brain findings conceptually, but combined therapies testing this loop have not yet been tried in patients.'
+  detail: An integrative review proposed a multi-system model for post-exertional malaise, describing an "energy exhaustion-inflammation amplification" loop. The model suggests that physical or cognitive exertion in patients triggers mitochondrial energy depletion and reactive oxygen species accumulation in skeletal muscle. These metabolic stressors activate the NLRP3 inflammasome, triggering a peripheral cytokine cascade that crosses the blood-brain barrier. The resulting neuroinflammation is hypothesized to alter neural processing in the insular cortex, amplifying the central perception of fatigue and pain and explaining delayed recovery. While providing a cohesive framework, clinical trials targeting both metabolic and neuroinflammatory pathways simultaneously are required to test the model's therapeutic utility.
+de:
+  title: Post-Exertional Malaise in eine Stoffwechsel-Immun-Neuro-Wechselwirkungsschleife eingeordnet
+  plain_summary: 'Diese Übersichtsarbeit schlägt eine Rückkopplungsschleife für PEM vor: Energiemangel im Muskel nach Belastung löst Entzündungssignale aus, die im Gehirn Fatigue und Schmerzen verstärken. Das verbindet Muskel-, Immun- und Hirnbefunde konzeptionell, doch wurden kombinierte Therapien dazu noch nicht am Menschen getestet.'
+  detail: Eine integrative Übersichtsarbeit schlug ein multisystemisches Modell für Post-Exertional Malaise vor und beschrieb eine Schleife aus „Energieerschöpfung und Entzündungsverstärkung“. Dem Modell zufolge lösen körperliche oder kognitive Anstrengungen bei Betroffenen in der Skelettmuskulatur eine mitochondriale Energieerschöpfung und die Ansammlung reaktiver Sauerstoffspezies aus. Diese metabolischen Stressoren aktivieren das NLRP3-Inflammasom und lösen eine periphere Zytokinkaskade aus, die die Blut-Hirn-Schranke überwindet. Hypothetisch verändert die resultierende Neuroinflammation die neuronale Verarbeitung im insulären Kortex, verstärkt die zentrale Wahrnehmung von Fatigue und Schmerz und erklärt die verzögerte Erholung. Obwohl das Modell einen schlüssigen Rahmen bietet, sind klinische Studien erforderlich, die gleichzeitig Stoffwechsel- und Neuroinflammationswege adressieren, um seinen therapeutischen Nutzen zu prüfen.

@@ -1,0 +1,18 @@
+id: 2026-07-25_european-respiratory-journal-publishes-international-clinical-pr
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: guideline
+study_design: null
+sources:
+- label: European Respiratory Society guidelines 2026, The European Respiratory Journal
+  url: https://pubmed.ncbi.nlm.nih.gov/41856572/
+  kind: paper
+en:
+  title: European Respiratory Journal publishes international clinical practice guidelines for Long COVID
+  plain_summary: The European Respiratory Journal issued international Long COVID guidelines recommending symptom-led pacing and structured evaluations across primary and specialist care. However, the authors note that most suggested medications still rest on weak or moderate evidence.
+  detail: An international clinical practice guideline published in The European Respiratory Journal provided evidence-graded recommendations for clinicians evaluating and treating adults with Long COVID. The guidelines outline standardized diagnostic algorithms for primary care physicians, pulmonologists, and rehabilitation specialists, covering symptom screening, exclusion workups, and multidisciplinary management strategies. The panel emphasized activity pacing and symptom-contingent management while evaluating candidate pharmacological interventions. Clinically, the guideline establishes an authoritative benchmark for routine medical practice, helping standardize post-COVID care across international healthcare settings. A critical caveat noted by the authors is that many recommended pharmacological therapies rest on low-to-moderate certainty evidence, highlighting the ongoing need for rigorous randomized controlled trials.
+de:
+  title: European Respiratory Journal veröffentlicht internationale klinische Leitlinie zu Long COVID
+  plain_summary: Das European Respiratory Journal hat internationale Praxisleitlinien für Long COVID herausgegeben, die Pacing und strukturierte Diagnostik empfehlen. Die Autorinnen und Autoren weisen jedoch darauf hin, dass viele medikamentöse Ansätze bislang nur auf geringer bis mäßiger Evidenz beruhen.
+  detail: 'Eine im European Respiratory Journal veröffentlichte internationale klinische Praxisleitlinie gab evidenzbasierte Empfehlungen für Ärztinnen und Ärzte zur Abklärung und Behandlung Erwachsener mit Long COVID heraus. Die Leitlinie beschreibt standardisierte Diagnosealgorithmen für Hausarztpraxen, Pneumologie und Rehabilitation, einschließlich Symptomscreening, Ausschlussdiagnostik und multidisziplinärer Versorgung. Das Gremium betonte Pacing und symptomangepasstes Vorgehen und bewertete mögliche medikamentöse Interventionen. Klinisch setzt die Leitlinie einen wichtigen Maßstab zur Vereinheitlichung der Post-COVID-Versorgung über Ländergrenzen hinweg. Eine wesentliche Einschränkung heben die Autorinnen und Autoren selbst hervor: Viele empfohlene Pharmakotherapien stützen sich auf Evidenz niedriger bis moderater Sicherheit, was den Bedarf an strengen randomisierten kontrollierten Studien unterstreicht.'

@@ -1,0 +1,18 @@
+id: 2025-08-19_anktiva-phase-2-trial-initiated-to-target-viral
+date: '2025-08-19'
+date_display: '2025-08-19'
+date_precision: exact
+source_type: trial_registry
+study_design: Trial registry
+sources:
+- label: 'ClinicalTrials.gov Registry: NCT07123727'
+  url: https://clinicaltrials.gov/study/NCT07123727
+  kind: registry
+en:
+  title: ANKTIVA Phase 2 trial initiated to target viral reservoirs in Long COVID
+  plain_summary: A single-arm Phase 2 trial began recruiting up to 40 Long COVID patients to test the immune-boosting drug ANKTIVA, aiming to help killer immune cells clear lingering viral material. Because no results are published and the trial has no placebo group, whether ANKTIVA is safe or helpful in Long COVID remains completely unknown.
+  detail: A Phase 2, exploratory, single-arm clinical trial (NCT07123727) was initiated to evaluate the safety and immunological effects of the IL-15 superagonist ANKTIVA (nogapendekin alfa inbakicept-pmln) in up to 40 adults with Long COVID. The trial targets persistent viral reservoirs and immune dysregulation by using immunotherapy to boost the count and activity of Natural Killer (NK) cells and CD8+ T cells, which are often depleted or dysfunctional in chronic post-viral states. If successful, this immune-enhancing approach could help clear lingering viral proteins and restore healthy immune surveillance. However, the trial is currently recruiting, and no clinical efficacy or safety data have been published yet. The single-arm, open-label design of the trial also means that future results will lack a placebo control group, making it difficult to separate the drug's therapeutic effects from spontaneous recovery.
+de:
+  title: Phase-2-Studie zu ANKTIVA gestartet, um Virusreservoire bei Long COVID zu bekämpfen
+  plain_summary: Eine einarmige Phase-2-Studie rekrutiert bis zu 40 Long-COVID-Betroffene für den Immunwirkstoff ANKTIVA, der Killerzellen des Immunsystems zur Beseitigung möglicher Virusreste aktivieren soll. Da noch keine Ergebnisse vorliegen und die Studie keine Placebogruppe hat, sind Sicherheit und Nutzen bislang völlig offen.
+  detail: Eine explorative, einarmige klinische Phase-2-Studie (NCT07123727) wurde gestartet, um Sicherheit und immunologische Effekte des IL-15-Superagonisten ANKTIVA (Nogapendekin alfa inbakicept-pmln) bei bis zu 40 Erwachsenen mit Long COVID zu untersuchen. Die Studie zielt auf anhaltende Virusreservoire und Immunfehlregulation, indem sie mittels Immuntherapie Anzahl und Aktivität von natürlichen Killerzellen (NK-Zellen) und CD8+-T-Zellen steigert, die bei chronischen postviralen Zuständen häufig verringert oder erschöpft sind. Im Erfolgsfall könnte dieser immunstärkende Ansatz verbleibende Virusproteine beseitigen und die Immunüberwachung wiederherstellen. Die Studie befindet sich jedoch noch in der Rekrutierungsphase ohne veröffentlichte Wirksamkeits- oder Sicherheitsdaten; zudem wird das einarmige, offene Design künftige Ergebnisse ohne Placebokontrollgruppe lassen, was eine Abgrenzung von spontaner Erholung erschwert.

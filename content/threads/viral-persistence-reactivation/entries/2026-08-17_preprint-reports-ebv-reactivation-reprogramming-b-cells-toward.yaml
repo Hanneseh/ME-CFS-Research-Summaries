@@ -1,0 +1,20 @@
+id: 2026-08-17_preprint-reports-ebv-reactivation-reprogramming-b-cells-toward
+date: '2026-08-17'
+date_display: '2026-08-17'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Chen et al. 2026, bioRxiv
+  url: https://doi.org/10.64898/2026.08.17.745245
+  kind: preprint
+en:
+  title: Preprint reports EBV reactivation reprogramming B cells toward an autoimmune-like phenotype after COVID-19
+  plain_summary: A preprint suggests that when Epstein-Barr virus reactivates during acute COVID-19, it can reprogram B cells into an overactive, autoimmune-like state linked to later autoantibodies and Long COVID symptoms. This study is not yet peer-reviewed, did not test non-COVID ME/CFS, and cannot prove that these B-cell shifts directly cause long-term illness.
+  detail: A bioRxiv preprint utilizing single-cell multi-omic profiling demonstrated that Epstein-Barr virus (EBV) reactivation during acute SARS-CoV-2 infection metabolically and transcriptionally reprograms host B cells into a pathogenic, autoimmune-like state. The authors found that EBV-infected B cells upregulate antigen presentation machinery and costimulatory molecules, providing persistent stimulatory signals to adjacent bystander B cells and CD4+ T cells. Participants with higher fractions of EBV-reactivated B cells during acute illness presented at convalescence with dysregulated lipidomic profiles, elevated autoantibody titers, and chronic Long COVID symptoms. Furthermore, the transcriptional profile of these reprogrammed EBV+ B cells exhibited substantial molecular overlap with pathogenic B-cell signatures documented in systemic lupus erythematosus and multiple sclerosis. However, this study remains an unreviewed preprint that evaluated post-COVID cohorts rather than classic post-infectious
+    ME/CFS cohorts, and severe or bedbound patient inclusion was not reported. The mechanistic and observational associations between acute EBV+ B-cell activation and convalescent autoantibodies also do not prove whether this cellular reprogramming is a direct cause of chronic illness or a downstream marker of wider immune dysfunction.
+de:
+  title: Preprint berichtet über Umprogrammierung von B-Zellen durch EBV-Reaktivierung hin zu einem autoimmunähnlichen Phänotyp nach COVID-19
+  plain_summary: Ein Preprint deutet darauf hin, dass eine EBV-Reaktivierung während akuten COVID-19 B-Zellen in einen überaktiven, autoimmunähnlichen Zustand umprogrammiert, der später mit Autoantikörpern und Long-COVID-Symptomen zusammenhing. Die Studie ist noch nicht begutachtet, untersuchte kein klassisches ME/CFS und beweist nicht, dass diese Zellveränderung direkt krank macht.
+  detail: Ein bioRxiv-Preprint mit Einzelzell-Multi-Omics-Analysen zeigte, dass eine Reaktivierung des Epstein-Barr-Virus (EBV) während akuter SARS-CoV-2-Infektion B-Zellen des Wirts stoffwechselmäßig und transkriptionell in einen pathogenen, autoimmunähnlichen Zustand umprogrammiert. Laut den Autorinnen und Autoren fahren EBV-infizierte B-Zellen ihre Antigenpräsentation und kostimulatorischen Moleküle hoch und geben anhaltende Reizsignale an benachbarte B-Zellen und CD4+-T-Zellen weiter; Teilnehmende mit höherem Anteil EBV-reaktivierter B-Zellen wiesen in der Erholungsphase veränderte Lipidprofile, erhöhte Autoantikörper-Titer und chronische Long-COVID-Symptome auf. Zudem überschnitt sich das Transkriptionsprofil dieser umprogrammierten EBV+-B-Zellen deutlich mit krankhaften B-Zell-Signaturen bei systemischem Lupus erythematodes und Multipler Sklerose. Allerdings handelt es sich um einen unbegutachteten Preprint an Post-COVID-Kohorten ohne Einbezug klassischer ME/CFS-Gruppen oder Angaben
+    zu schwer bettlägerigen Betroffenen, und die beobachteten Zusammenhänge belegen noch nicht, ob diese Umprogrammierung Ursache oder Begleiterscheinung breiterer Immundysregulation ist.

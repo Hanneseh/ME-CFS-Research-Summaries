@@ -1,0 +1,18 @@
+id: 2026-06-02_clinical-review-summarizes-mechanisms-and-preliminary-evidence-f
+date: '2026-06-02'
+date_display: '2026-06-02'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Pucci et al. 2026, Mental Health Clinician
+  url: https://pubmed.ncbi.nlm.nih.gov/42239825/
+  kind: paper
+en:
+  title: Clinical review summarizes mechanisms and preliminary evidence for low-dose naltrexone in Long COVID
+  plain_summary: A clinical review summarized five earlier small studies and surveys suggesting LDN (3–5 mg/day) may help with fatigue, pain, and sleep in Long COVID and related conditions. Because it only compiles existing uncontrolled reports and presents no new trial data, it cannot confirm that LDN works better than placebo.
+  detail: A narrative review published in the *Mental Health Clinician* by Pucci et al. summarizes the clinical utility and proposed mechanisms of low-dose naltrexone (LDN, 3–5 mg/day) in chronic pain, fibromyalgia, and post-COVID chronic fatigue syndrome (Long COVID). The authors outline LDN's action as a glial modulator via Toll-like receptor 4 to suppress proinflammatory cytokines and its role in upregulating endogenous opioids. The review synthesizes findings from five preliminary cohort, survey, and pre-post studies showing improvements in fatigue, PEM, sleep, and functional status. As a narrative review compiling existing small cohort studies and surveys, it does not present new primary clinical trial data, and the evidence summarized remains subject to the limitations and placebo susceptibility of the original uncontrolled designs.
+de:
+  title: Klinische Übersichtsarbeit fasst Mechanismen und vorläufige Evidenz für niedrigdosiertes Naltrexon bei Long COVID zusammen
+  plain_summary: Eine Übersichtsarbeit fasst fünf frühere kleine Studien und Umfragen zusammen, nach denen LDN (3–5 mg/Tag) Fatigue, Schmerzen und Schlaf bei Long COVID bessern könnte. Da sie nur vorliegende unkontrollierte Berichte zusammenstellt und keine neuen Studiendaten liefert, belegt sie keine Überlegenheit gegenüber Placebo.
+  detail: Eine narrative Übersichtsarbeit im *Mental Health Clinician* von Pucci et al. fasst den klinischen Einsatz und die vorgeschlagenen Wirkmechanismen von niedrigdosiertem Naltrexon (LDN, 3–5 mg/Tag) bei chronischen Schmerzen, Fibromyalgie und post-COVID-bedingtem chronischem Fatigue-Syndrom (Long COVID) zusammen. Die Autorinnen und Autoren erläutern die Wirkung von LDN als Glia-Modulator über den Toll-like-Rezeptor 4 zur Unterdrückung entzündungsfördernder Zytokine sowie die Hochregulation körpereigener Opioide. Die Übersicht bündelt Ergebnisse aus fünf vorläufigen Kohorten-, Umfrage- und Vorher-Nachher-Studien, die Verbesserungen bei Fatigue, PEM, Schlaf und Funktionsstatus zeigten. Als narrative Übersicht bestehender kleiner Studien und Umfragen präsentiert sie keine neuen primären Studiendaten, und die zusammengefasste Evidenz unterliegt weiterhin den Einschränkungen und der Placeboanfälligkeit der zugrunde liegenden unkontrollierten Designs.

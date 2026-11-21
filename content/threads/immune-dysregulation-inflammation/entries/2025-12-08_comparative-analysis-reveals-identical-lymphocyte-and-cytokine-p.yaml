@@ -1,0 +1,18 @@
+id: 2025-12-08_comparative-analysis-reveals-identical-lymphocyte-and-cytokine-p
+date: '2025-12-08'
+date_display: '2025-12-08'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Petrov et al. 2025, Biomedicines
+  url: https://doi.org/10.3390/biomedicines13123001
+  kind: paper
+en:
+  title: Comparative analysis reveals identical lymphocyte and cytokine profiles in ME/CFS and Long COVID
+  plain_summary: Comparing 65 ME/CFS patients, 54 Long COVID patients, and 70 controls, this study found very similar drops in NK and CD8 T cells and elevated inflammatory messengers in both patient groups. This supports overlapping immune biology between ME/CFS and Long COVID, though blood counts alone cannot explain tissue-level differences.
+  detail: 'A cross-sectional comparative study (190 participants: 65 ME/CFS, 54 Long COVID, 70 controls) demonstrated that both patient cohorts exhibit nearly identical general immune profiles. Both groups showed significantly depleted total lymphocytes, CD8+ T cells, and NK cells, alongside elevated pro-inflammatory (IL-6, TNF) and regulatory (IL-4, IL-10) cytokines. This supports the hypothesis of a shared immunopathological basis for both conditions, indicating that clinical and research progress in one field will likely translate to the other. However, while general lymphocyte and cytokine changes overlap, this cross-sectional study did not examine cell-specific functional regulation or tissue-resident immune cells.'
+de:
+  title: Vergleichsstudie zeigt weitgehend übereinstimmende Lymphozyten- und Zytokinprofile bei ME/CFS und Long COVID
+  plain_summary: Ein Vergleich von 65 ME/CFS-Betroffenen, 54 Long-COVID-Betroffenen und 70 Kontrollen fand in beiden Patientengruppen sehr ähnliche Absenkungen von NK- und CD8-T-Zellen sowie erhöhte Entzündungsbotenstoffe. Das stützt gemeinsame immunologische Grundlagen beider Erkrankungen, untersuchte jedoch weder Zellfunktionen im Detail noch Gewebereaktionen.
+  detail: Eine Querschnitts-Vergleichsstudie mit 190 Teilnehmenden (65 ME/CFS, 54 Long COVID, 70 Kontrollen) ergab, dass beide Patientengruppen nahezu identische allgemeine Immunprofile aufweisen. In beiden Kohorten waren die Gesamtlymphozyten, CD8+-T-Zellen und NK-Zellen signifikant vermindert, während sowohl entzündungsfördernde (IL-6, TNF) als auch regulatorische Zytokine (IL-4, IL-10) erhöht lagen. Dies stützt die Hypothese einer gemeinsamen immunpathologischen Grundlage beider Erkrankungen und spricht dafür, dass Fortschritte in einem Feld dem anderen zugutekommen können. Allerdings untersuchte diese Querschnittsstudie trotz der Überlappung allgemeiner Blutwerte weder die zellspezifische Funktionsregulation noch gewebsständige Immunzellen.

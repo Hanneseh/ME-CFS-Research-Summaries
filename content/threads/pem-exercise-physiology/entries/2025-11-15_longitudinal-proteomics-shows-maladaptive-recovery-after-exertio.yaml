@@ -1,0 +1,18 @@
+id: 2025-11-15_longitudinal-proteomics-shows-maladaptive-recovery-after-exertio
+date: '2025-11-15'
+date_display: '2025-11-15'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Germain et al. 2025, Molecular & Cellular Proteomics
+  url: https://doi.org/10.1016/j.mcpro.2025.101467
+  kind: paper
+en:
+  title: Longitudinal proteomics shows maladaptive recovery after exertion
+  plain_summary: Tracking thousands of blood proteins across repeat exercise tests showed the biggest differences in ME/CFS appeared during recovery, with signs of immune disruption and cell stress failing to settle back down. While this reinforces that PEM is a recovery failure, it cannot yet prove which protein changes drive symptoms.
+  detail: A large plasma proteomics study tracked thousands of proteins across repeated CPET and found that the most pronounced changes occurred during the recovery window after exertion. ME/CFS participants showed persistent immune and metabolic dysregulation, including signals consistent with mitochondrial stress and impaired return to baseline. That strengthens the view that PEM is a recovery failure rather than only a low-peak-performance problem. The study still cannot prove causality or show which protein changes are upstream drivers versus downstream consequences.
+de:
+  title: Längsschnitt-Proteomik zeigt fehlgeleitete Erholung nach Belastung
+  plain_summary: Die Messung Tausender Blutproteine rund um wiederholte Belastungstests zeigte die deutlichsten Abweichungen bei ME/CFS in der Erholungsphase, in der Immun- und Zellstresssignale nicht zur Ruhe kamen. Das untermauert die Sicht auf PEM als Erholungsstörung, beweist aber noch nicht, welche Proteinveränderungen Ursache oder Folge sind.
+  detail: Eine große Plasmaproteomik-Studie verfolgte Tausende Proteine über wiederholte CPET-Tests hinweg und stellte fest, dass die ausgeprägtesten Veränderungen während des Erholungsfensters nach Belastung auftraten. ME/CFS-Teilnehmende zeigten eine anhaltende Immun- und Stoffwechseldysregulation, darunter Signale im Einklang mit mitochondrialem Stress und einer gestörten Rückkehr zum Ausgangszustand. Dies stärkt die Sichtweise, dass PEM eher ein Erholungsversagen ist als bloß eine niedrige Maximalleistung. Kausalität oder eine Unterscheidung zwischen auslösenden Treibern und nachgelagerten Folgen kann die Studie dennoch nicht belegen.

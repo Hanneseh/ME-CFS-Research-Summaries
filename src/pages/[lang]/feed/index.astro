@@ -1,0 +1,277 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../../layouts/Base.astro";
+import EntryCard from "../../../components/EntryCard.astro";
+import { getSite } from "../../../lib/content";
+import { sourceTypeLabel, t } from "../../../lib/i18n";
+import { LANGS, type Lang } from "../../../lib/types";
+
+export const getStaticPaths = (() => LANGS.map((lang) => ({ params: { lang } }))) satisfies GetStaticPaths;
+
+const lang = Astro.params.lang as Lang;
+const s = t(lang);
+const site = getSite(lang);
+const PAGE = 20;
+const years = [...new Set(site.entries.map((e) => e.year))].sort().reverse();
+const threadsByGroup = site.groups.map((g) => ({
+  group: g,
+  threads: site.threads.filter((th) => th.group === g.slug),
+}));
+const config = JSON.stringify({ lang, page: PAGE, card: s.card, tpl: s.tpl });
+---
+
+<Base lang={lang} title={s.feedTitle} description={s.feedLead} subpath="feed/" active="feed">
+  <section class="page-head">
+    <div class="wrap">
+      <h1 class="display">{s.feedTitle}</h1>
+      <p class="lead">{s.feedLead}</p>
+    </div>
+  </section>
+
+  <section class="section section-tight">
+    <div class="wrap">
+      <form class="feed-controls" data-feed-controls onsubmit="return false" role="search">
+        <label class="search-field">
+          <svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"
+            ><circle cx="8.75" cy="8.75" r="5.75" fill="none" stroke="currentColor" stroke-width="1.7"></circle><path
+              d="m13.25 13.25 4 4"
+              stroke="currentColor"
+              stroke-width="1.7"
+              stroke-linecap="round"></path></svg
+          >
+          <span class="sr-only">{s.feedSearch}</span>
+          <input type="search" name="q" placeholder={s.feedSearch} autocomplete="off" />
+        </label>
+
+        <div class="pills" role="group" aria-label={s.filterAll}>
+          <button type="button" class="pill" data-group-filter="" aria-pressed="true">{s.filterAll}</button>
+          {
+            site.groups.map((g) => (
+              <button type="button" class="pill" data-group-filter={g.slug} data-group={g.slug} aria-pressed="false">
+                <span class="dot" aria-hidden="true" />
+                {g.shortTitle}
+              </button>
+            ))
+          }
+        </div>
+
+        <div class="select-row">
+          <label class="select">
+            <span>{s.feedThread}</span>
+            <select name="thread">
+              <option value="">{s.feedAllThreads}</option>
+              {
+                threadsByGroup.map(({ group, threads }) => (
+                  <optgroup label={group.shortTitle}>
+                    {threads.map((th) => (
+                      <option value={th.slug} data-group={th.group}>
+                        {th.titleText} ({th.entryCount})
+                      </option>
+                    ))}
+                  </optgroup>
+                ))
+              }
+            </select>
+          </label>
+          <label class="select">
+            <span>{s.feedType}</span>
+            <select name="type">
+              <option value="">{s.feedAllTypes}</option>
+              {site.sourceTypes.map((ty) => <option value={ty}>{sourceTypeLabel(ty, lang)}</option>)}
+            </select>
+          </label>
+          <label class="select">
+            <span>{s.feedYear}</span>
+            <select name="year">
+              <option value="">{s.feedAllYears}</option>
+              {years.map((y) => <option value={y}>{y}</option>)}
+            </select>
+          </label>
+          <label class="select">
+            <span>{s.feedSort}</span>
+            <select name="sort">
+              <option value="desc">{s.newest}</option>
+              <option value="asc">{s.oldest}</option>
+            </select>
+          </label>
+        </div>
+      </form>
+
+      <div class="feed-status">
+        <p class="list-count" data-feed-count aria-live="polite">{s.showing(Math.min(PAGE, site.entries.length), site.entries.length)}</p>
+        <button type="button" class="text-btn" data-feed-reset hidden>{s.resetFilters}</button>
+      </div>
+
+      <div class="entry-list" id="feed-list" data-config={config}>
+        {site.entries.slice(0, PAGE).map((e) => <EntryCard lang={lang} entry={e} context="feed" />)}
+      </div>
+      <p class="empty-state" data-feed-empty hidden>{s.noMatches}</p>
+
+      <div class="list-actions">
+        <button type="button" class="btn" data-feed-more>{s.loadMore(PAGE)}</button>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<script>
+  import { normalize, renderEntryCard } from "../../../lib/render";
+  import type { CardStrings, FeedEntry, FeedPayload } from "../../../lib/types";
+
+  const BASE = (import.meta.env.BASE_URL || "/").replace(/\/+$/, "");
+  const list = document.getElementById("feed-list");
+  const form = document.querySelector<HTMLFormElement>("[data-feed-controls]");
+  if (list && form) {
+    const cfg = JSON.parse(list.dataset.config || "{}") as {
+      lang: string;
+      page: number;
+      card: CardStrings;
+      tpl: Record<string, string>;
+    };
+    const countEl = document.querySelector<HTMLElement>("[data-feed-count]");
+    const emptyEl = document.querySelector<HTMLElement>("[data-feed-empty]");
+    const moreBtn = document.querySelector<HTMLButtonElement>("[data-feed-more]");
+    const resetBtn = document.querySelector<HTMLButtonElement>("[data-feed-reset]");
+    const el = <T extends Element>(name: string) => form.elements.namedItem(name) as unknown as T;
+    const q = el<HTMLInputElement>("q");
+    const threadSel = el<HTMLSelectElement>("thread");
+    const typeSel = el<HTMLSelectElement>("type");
+    const yearSel = el<HTMLSelectElement>("year");
+    const sortSel = el<HTMLSelectElement>("sort");
+    const pills = Array.from(form.querySelectorAll<HTMLButtonElement>("[data-group-filter]"));
+    const threadGroup = new Map(Array.from(threadSel.options).map((o) => [o.value, o.dataset.group || ""]));
+
+    const state = { q: "", group: "", thread: "", type: "", year: "", sort: "desc", shown: cfg.page };
+    let entries: FeedEntry[] = [];
+    let haystack: string[] = [];
+    let current: FeedEntry[] = [];
+    const fmt = (tpl: string, v: Record<string, number>) => tpl.replace(/\{(\w+)\}/g, (_, k) => String(v[k] ?? ""));
+    const card = (e: FeedEntry) => renderEntryCard(e, cfg.card, { context: "feed" });
+
+    // Restore state from the URL (?q=&group=&thread=&type=&year=&sort=).
+    const params = new URLSearchParams(location.search);
+    for (const k of ["q", "group", "thread", "type", "year", "sort"] as const) {
+      const v = params.get(k);
+      if (v) state[k] = v;
+    }
+
+    const syncControls = () => {
+      q.value = state.q;
+      threadSel.value = state.thread;
+      typeSel.value = state.type;
+      yearSel.value = state.year;
+      sortSel.value = state.sort;
+      pills.forEach((p) => p.setAttribute("aria-pressed", String((p.dataset.groupFilter || "") === state.group)));
+    };
+
+    const writeUrl = () => {
+      const p = new URLSearchParams();
+      if (state.q.trim()) p.set("q", state.q.trim());
+      for (const k of ["group", "thread", "type", "year"] as const) if (state[k]) p.set(k, state[k]);
+      if (state.sort !== "desc") p.set("sort", state.sort);
+      const qs = p.toString();
+      history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
+    };
+
+    const compute = () => {
+      const terms = normalize(state.q).split(" ").filter(Boolean);
+      const out: FeedEntry[] = [];
+      entries.forEach((e, i) => {
+        if (state.group && e.group !== state.group) return;
+        if (state.thread && e.thread !== state.thread) return;
+        if (state.type && e.type !== state.type) return;
+        if (state.year && e.year !== state.year) return;
+        if (terms.length && !terms.every((t) => haystack[i].includes(t))) return;
+        out.push(e);
+      });
+      if (state.sort === "asc") out.reverse();
+      return out;
+    };
+
+    const updateMeta = () => {
+      const shown = Math.min(state.shown, current.length);
+      if (countEl) countEl.textContent = fmt(current.length === 1 ? cfg.tpl.showingOne : cfg.tpl.showing, { a: shown, b: current.length });
+      if (emptyEl) emptyEl.hidden = current.length > 0;
+      const remaining = current.length - shown;
+      if (moreBtn) {
+        moreBtn.hidden = remaining <= 0;
+        moreBtn.textContent = fmt(cfg.tpl.loadMore, { n: Math.min(cfg.page, remaining) });
+      }
+      if (resetBtn) resetBtn.hidden = !(state.q || state.group || state.thread || state.type || state.year || state.sort !== "desc");
+    };
+
+    const render = () => {
+      current = compute();
+      state.shown = cfg.page;
+      list.innerHTML = current.slice(0, state.shown).map(card).join("");
+      updateMeta();
+      writeUrl();
+    };
+
+    moreBtn?.addEventListener("click", () => {
+      const from = state.shown;
+      state.shown += cfg.page;
+      list.insertAdjacentHTML("beforeend", current.slice(from, state.shown).map(card).join(""));
+      updateMeta();
+      (list.children[from] as HTMLElement | undefined)?.querySelector<HTMLAnchorElement>(".entry-anchor")?.focus({ preventScroll: true });
+    });
+
+    let debounce = 0;
+    q.addEventListener("input", () => {
+      window.clearTimeout(debounce);
+      debounce = window.setTimeout(() => {
+        state.q = q.value;
+        render();
+      }, 90);
+    });
+    pills.forEach((p) =>
+      p.addEventListener("click", () => {
+        state.group = p.dataset.groupFilter || "";
+        if (state.thread && threadGroup.get(state.thread) !== state.group && state.group) state.thread = "";
+        syncControls();
+        render();
+      }),
+    );
+    threadSel.addEventListener("change", () => {
+      state.thread = threadSel.value;
+      if (state.thread) state.group = threadGroup.get(state.thread) || "";
+      syncControls();
+      render();
+    });
+    typeSel.addEventListener("change", () => {
+      state.type = typeSel.value;
+      render();
+    });
+    yearSel.addEventListener("change", () => {
+      state.year = yearSel.value;
+      render();
+    });
+    sortSel.addEventListener("change", () => {
+      state.sort = sortSel.value;
+      render();
+    });
+    resetBtn?.addEventListener("click", () => {
+      Object.assign(state, { q: "", group: "", thread: "", type: "", year: "", sort: "desc" });
+      syncControls();
+      render();
+    });
+
+    syncControls();
+    list.setAttribute("aria-busy", "true");
+    fetch(`${BASE}/data/feed-${cfg.lang}.json`)
+      .then((r) => r.json() as Promise<FeedPayload>)
+      .then((d) => {
+        entries = d.entries;
+        haystack = entries.map((e) =>
+          normalize([e.title, e.summary, e.detail, e.threadTitle, e.typeLabel, e.design ?? "", e.sources.map((s) => s.label).join(" ")].join(" ").replace(/<[^>]+>/g, " ")),
+        );
+        const filtered = state.q || state.group || state.thread || state.type || state.year || state.sort !== "desc";
+        if (filtered) render();
+        else {
+          current = compute();
+          updateMeta();
+        }
+      })
+      .finally(() => list.removeAttribute("aria-busy"));
+  }
+</script>

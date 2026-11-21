@@ -1,0 +1,19 @@
+id: 2026-08-24_post-exercise-tms-study-finds-altered-immediate-corticomotor
+date: '2026-08-24'
+date_display: '2026-08-24'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Sebastianelli et al. 2026, Clinical Neurophysiology
+  url: https://doi.org/10.1016/j.clinph.2026.08.012
+  kind: paper
+en:
+  title: Post-exercise TMS study finds altered immediate corticomotor responses in fatigued Long COVID
+  plain_summary: In 58 fatigued post-COVID patients and 22 controls, brain-stimulation measures immediately after a 1-minute maximal pinch task showed altered motor-cortex recovery linked to fatigue. Because delayed 24–48 hour PEM was not tracked and severe patients were excluded, this measures immediate fatigue signals rather than delayed PEM or treatment.
+  detail: Sebastianelli and colleagues compared 58 fatigued people with post-COVID-19 condition with 22 matched controls using a one-minute maximal pinch task and pre/post transcranial magnetic stimulation. Controls showed expected post-exercise motor-evoked-potential depression and cortical-silent-period prolongation, whereas the Long COVID group showed altered responses associated with fatigue and perceived exertion, suggesting a candidate marker of immediate central fatigability. The laboratory protocol required travel, TMS, repeated measurements, and maximal effort; bedbound or very severe patients were not included, and delayed 24–48-hour PEM was not measured. The finding is therefore not equivalent to delayed PEM, carries exertional tolerability concerns, and supports research only—not exercise guidance or treatment. It connects to [Neuroinflammation & Brain Changes](thread:neuroinflammation-brain-changes) and [Diagnostics & Biomarkers](thread:diagnostics-biomarkers).
+de:
+  title: TMS-Studie nach Belastung findet veränderte unmittelbare kortikomotorische Reaktionen bei Long-COVID-Fatigue
+  plain_summary: Bei 58 erschöpften Post-COVID-Betroffenen und 22 Kontrollen zeigten Hirnstimulations-Messungen direkt nach einer einminütigen Maximalkraft-Aufgabe eine veränderte Erholungsreaktion des motorischen Kortex. Da verzögertes PEM über 24–48 Stunden nicht gemessen wurde und schwer Erkrankte fehlten, bildet dies unmittelbare Ermüdbarkeit ab, nicht aber verzögertes PEM oder eine Therapie.
+  detail: Sebastianelli und Kolleginnen verglichen 58 erschöpfte Menschen mit Post-COVID-19-Syndrom und 22 gematchte Kontrollpersonen mithilfe einer einminütigen maximalen Daumen-Zeigefinger-Kneifaufgabe sowie transkranieller Magnetstimulation (TMS) davor und danach. Kontrollen zeigten die erwartete Abnahme motorisch evozierter Potenziale und Verlängerung der kortikalen Ruheperiode nach Belastung, während die Long-COVID-Gruppe veränderte Reaktionen im Zusammenhang mit Fatigue und empfundener Anstrengung aufwies – ein möglicher Marker unmittelbarer zentraler Ermüdbarkeit. Das Laborprotokoll erforderte Anfahrt, TMS, wiederholte Messungen und maximalen Krafteinsatz; bettlägerige oder sehr schwer Erkrankte waren nicht eingeschlossen, und verzögertes PEM nach 24–48 Stunden wurde nicht erfasst. Der Befund ist daher nicht mit verzögertem PEM gleichzusetzen, wirft Fragen zur Belastungsverträglichkeit auf und dient nur der Forschung, nicht als Trainings- oder Therapierichtlinie; er knüpft an [Neuroinflammation
+    & Hirnveränderungen](thread:neuroinflammation-brain-changes) und [Diagnostik & Biomarker](thread:diagnostics-biomarkers) an.

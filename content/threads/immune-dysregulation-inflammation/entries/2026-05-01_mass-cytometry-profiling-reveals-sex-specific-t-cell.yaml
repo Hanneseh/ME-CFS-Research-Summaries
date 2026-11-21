@@ -1,0 +1,18 @@
+id: 2026-05-01_mass-cytometry-profiling-reveals-sex-specific-t-cell
+date: '2026-05-01'
+date_display: '2026-05-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: McNally et al. 2026, The Journal of Immunology Supplement
+  url: https://academic.oup.com/jimmunol/article/215/Supplement_1/vkag141.1488/8744898?login=false
+  kind: paper
+en:
+  title: Mass cytometry profiling reveals sex-specific T-cell dysregulation in ME/CFS
+  plain_summary: A conference abstract studying 53 ME/CFS patients and 36 controls found different T-cell imbalances in men versus women, showing why pooling both sexes can hide real biological signals. Because only a short conference abstract is available so far, full peer-reviewed data and replication are still needed.
+  detail: High-dimensional mass cytometry (CyTOF) profiling of peripheral blood mononuclear cells from 53 ME/CFS patients and 36 healthy controls revealed distinct sex-stratified T-cell dysregulation. Male ME/CFS patients exhibited elevated IFNγ-producing CD27+ γδ T cells alongside memory T-cell activation, suggesting pathogen-driven immune activation pathways. In contrast, female ME/CFS patients demonstrated chronic stimulation phenotypes across CD8+ T-cell memory subsets. These findings demonstrate that pooling male and female immune data masks key biological signatures, emphasizing the necessity of sex-stratified diagnostic and therapeutic research in ME/CFS. However, because the study was presented as an AAI IMMUNOLOGY2026 conference abstract in *The Journal of Immunology Supplement*, full peer-reviewed manuscript details and prospective multi-center replication remain required.
+de:
+  title: Massenzytometrie-Profilierung deckt geschlechtsspezifische T-Zell-Fehlregulation bei ME/CFS auf
+  plain_summary: Ein Konferenzabstract zu 53 ME/CFS-Betroffenen und 36 Kontrollen fand bei Männern und Frauen unterschiedliche T-Zell-Verschiebungen – ein Hinweis darauf, dass gemischte Auswertungen echte Signale verdecken können. Da bislang nur ein kurzes Konferenzabstract vorliegt, fehlen noch das vollständige begutachtete Manuskript und unabhängige Replikationen.
+  detail: Hochdimensionale Massenzytometrie (CyTOF) an mononukleären Blutzellen von 53 ME/CFS-Betroffenen und 36 gesunden Kontrollpersonen zeigte deutliche geschlechtsspezifische T-Zell-Fehlregulationen. Männliche ME/CFS-Patienten wiesen erhöhte IFNγ-produzierende CD27+-γδ-T-Zellen neben aktivierten Gedächtnis-T-Zellen auf, was auf erregergetriebene Immunaktivierung hindeutet, während weibliche Betroffene Muster chronischer Stimulation über CD8+-Gedächtnis-T-Zell-Untergruppen hinweg zeigten. Dies macht deutlich, dass das Zusammenwerfen männlicher und weiblicher Immundaten zentrale biologische Signaturen verwischen kann und geschlechtsgetrennte Forschung nötig ist. Da die Arbeit bislang nur als Konferenzabstract der AAI IMMUNOLOGY2026 in *The Journal of Immunology Supplement* erschien, stehen ein vollständiges begutachtetes Manuskript und prospektive multizentrische Replikationen noch aus.

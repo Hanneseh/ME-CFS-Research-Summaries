@@ -1,0 +1,52 @@
+---
+// Language-aware redirect page. The target is the path below the language segment
+// (e.g. "threads/foo/" or "#group"); an empty target goes to the language home.
+import "../styles/redirect.css";
+import { BASE, url } from "../lib/paths";
+
+interface Props {
+  target?: string;
+  title?: string;
+}
+const { target = "", title = "ME/CFS Research · ME/CFS Forschung" } = Astro.props;
+const isHash = target.startsWith("#");
+const href = (lang: string) => (isHash ? url(lang + "/") + target : url(lang + "/" + target));
+const site = Astro.site?.toString().replace(/\/+$/, "") ?? "";
+const cfg = JSON.stringify({ base: BASE, target });
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <script is:inline define:vars={{ cfg }}>
+      (function () {
+        var c = JSON.parse(cfg), lang = null;
+        try { lang = localStorage.getItem("lang"); } catch (e) {}
+        if (lang !== "de" && lang !== "en") {
+          var nav = (navigator.languages && navigator.languages[0]) || navigator.language || "en";
+          lang = nav.toLowerCase().startsWith("de") ? "de" : "en";
+        }
+        var t = c.target, hash = location.hash;
+        var dest = c.base + "/" + lang + "/" + (t.charAt(0) === "#" ? "" : t) + (t.charAt(0) === "#" ? t : hash);
+        location.replace(dest);
+      })();
+    </script>
+    <noscript><meta http-equiv="refresh" content={`0; url=${href("en")}`} /></noscript>
+    <link rel="canonical" href={`${site}${href("en")}`} />
+    <link rel="icon" type="image/svg+xml" href={url("favicon.svg")} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <main class="redirect">
+      <p class="redirect-brand">ME/CFS Research · ME/CFS Forschung</p>
+      <p>Choose your language · Sprache wählen</p>
+      <p class="redirect-links">
+        <a href={href("de")} hreflang="de" lang="de">Deutsch</a>
+        <a href={href("en")} hreflang="en" lang="en">English</a>
+      </p>
+    </main>
+  </body>
+</html>

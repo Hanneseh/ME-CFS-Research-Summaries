@@ -1,0 +1,18 @@
+id: 2026-08-27_gem-meta-gwas-expands-common-variant-me-cfs
+date: '2026-08-27'
+date_display: '2026-08-27'
+date_precision: exact
+source_type: report
+study_design: GWAS
+sources:
+- label: 'ISLC-PAIS 2026 Thursday program, Abstract #185 (the most specific official URL currently available)'
+  url: https://islc-pais.org/conference-program-thursday/
+  kind: other
+en:
+  title: GEM meta-GWAS expands common-variant ME/CFS risk signals, with phenotype caveats
+  plain_summary: A conference presentation pooled DNA data from 20 biobanks—covering over 46,000 ME/CFS cases—and reported 10 genetic risk regions near immune and brain genes. Because it combined broad medical-record labels without uniform PEM checks and is only a conference abstract, the findings remain preliminary.
+  detail: 'Martin Broberg presented Abstract #185 for the Genetic Epidemiology of ME/CFS (GEM) consortium in the Biomedical Track at the inaugural ISLC-PAIS conference in Amsterdam on 27 August 2026. The multi-cohort meta-GWAS combined 46,450 cases and 2,461,268 controls across 20 biobanks and reported 10 genome-wide significant loci, including six novel signals, more than 30 suggestive associations, and a lead signal on chromosome 20; several mapped near immune- and brain-related genes. This is preliminary conference evidence: broad ICD/self-report definitions were combined with clinical criteria, so PEM was not uniformly verified and the title''s 12-locus count differs from the reported 10 robust loci. Severe and bedbound representation was not reported and biobank participation generally requires in-person sampling. Genetic associations are not diagnostic tests or treatment targets.'
+de:
+  title: GEM-Meta-GWAS erweitert häufige Risikosignale für ME/CFS – mit Vorbehalten bei den Diagnosekriterien
+  plain_summary: Ein Konferenzbeitrag führte DNA-Daten aus 20 Biobanken mit über 46.000 ME/CFS-Fällen zusammen und berichtete 10 genetische Risikoregionen nahe Immun- und Hirngenen. Da breite Register- und Selbstangaben ohne einheitliche PEM-Prüfung gemischt wurden und erst ein Konferenzabstract vorliegt, sind die Ergebnisse vorläufig.
+  detail: 'Martin Broberg präsentierte Abstract #185 für das Konsortium Genetic Epidemiology of ME/CFS (GEM) im Biomedical Track der ersten ISLC-PAIS-Konferenz am 27. August 2026 in Amsterdam. Die kohortenübergreifende Meta-GWAS kombinierte 46.450 Fälle und 2.461.268 Kontrollpersonen aus 20 Biobanken und berichtete 10 genomweit signifikante Genorte – darunter sechs neue Signale –, mehr als 30 suggestive Assoziationen sowie ein Hauptsignal auf Chromosom 20; mehrere lagen nahe von Immun- und Hirngenen. Es handelt sich um vorläufige Konferenzdaten: Breite ICD- und Selbstauskunfts-Definitionen wurden mit klinischen Kriterien gemischt, sodass PEM nicht einheitlich geprüft war, und die im Titel genannten 12 Loci weichen von den im Text berichteten 10 robusten Loci ab. Der Anteil schwer oder bettlägerig Betroffener wurde nicht angegeben, Biobank-Teilnahmen erfordern meist Vor-Ort-Proben, und genetische Assoziationen sind weder Diagnosetests noch fertige Therapieziele.'

@@ -1,0 +1,19 @@
+id: 2026-10-19_explain-substudy-finds-no-persistent-prothrombotic-signal-in
+date: '2026-10-19'
+date_display: '2026-10-19'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Fraser, Ng et al. 2026, HemaSphere
+  url: https://doi.org/10.1002/hem3.70501
+  kind: paper
+en:
+  title: EXPLAIN substudy finds no persistent prothrombotic signal in never-hospitalized Long COVID
+  plain_summary: A study of 117 never-hospitalized Long COVID patients found normal clotting profiles and no excess fibrin-cell microaggregates compared with recovered controls. It challenges a universal clotting explanation for milder post-COVID illness, though its test method differs from amyloid-microclot assays.
+  detail: A peer-reviewed HemaSphere letter compared 117 people with specialist-confirmed Long COVID after non-hospitalized acute infection with 34 recovered controls. Coagulation, endothelial and platelet markers, clot-lysis time and fibrin architecture showed no persistent prothrombotic pattern; blinded analysis of 55 samples also found no excess fibrin(ogen)-cell membrane microaggregates. These aggregates differ from the thioflavin-stained amyloid aggregates used in earlier reports, so the methods are not interchangeable. The finding challenges a universal circulating-clot explanation in this population while leaving other vascular mechanisms open. Sampling occurred long after infection at a single time point, without PEM-defined recruitment or reported bedbound inclusion; blood collection and pulmonary imaging also limit extrapolation to very severe ME/CFS. It is an observational result, not a treatment trial.
+de:
+  title: EXPLAIN-Substudie findet kein anhaltendes prothrombotisches Signal bei nie hospitalisiertem Long COVID
+  plain_summary: Eine Studie mit 117 nie im Krankenhaus behandelten Long-COVID-Betroffenen fand normale Gerinnungswerte und keine vermehrten Fibrin-Zell-Mikroaggregate im Vergleich zu Genesenen. Sie stellt eine pauschale Gerinnungserklärung infrage, nutzt aber eine andere Testmethode als frühere Amyloid-Mikrogerinnsel-Studien.
+  detail: Ein begutachteter Kurzbeitrag in *HemaSphere* verglich 117 Menschen mit fachärztlich bestätigtem Long COVID nach nicht-hospitalisierter Akutinfektion mit 34 genesenen Kontrollpersonen. Gerinnungs-, Endothel- und Thrombozytenmarker, Gerinnselauflösungszeit und Fibrinarchitektur zeigten kein anhaltendes prothrombotisches Muster; eine verblindete Analyse von 55 Proben fand zudem keine vermehrten Fibrin(ogen)-Zellmembran-Mikroaggregate. Diese Aggregate unterscheiden sich methodisch von den in früheren Berichten verwendeten Thioflavin-gefärbten Amyloid-Aggregaten, sodass die Verfahren nicht direkt austauschbar sind. Der Befund stellt eine universelle Erklärung durch zirkulierende Gerinnsel in dieser Patientengruppe infrage, lässt aber andere Gefäßmechanismen offen. Die Probenahme erfolgte lange nach der Infektion zu einem einzigen Zeitpunkt, ohne PEM-basierte Rekrutierung oder Angaben zum Einschluss bettlägeriger Personen; Blutentnahme und Lungenbildgebung schränken zudem die Übertragbarkeit
+    auf sehr schweres ME/CFS ein. Es handelt sich um ein Beobachtungsergebnis und keine Therapiestudie.

@@ -1,0 +1,23 @@
+id: 2026-09-21_peer-reviewed-yale-study-extends-coronary-vasomotor-anoca
+date: '2026-09-21'
+date_display: '2026-09-21'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Mackay et al. 2026, American Journal of Physiology – Heart and Circulatory Physiology
+  url: https://doi.org/10.1152/ajpheart.90080.2026
+  kind: paper
+- label: Mackay et al. 2026, American Journal of Respiratory and Critical Care Medicine (conference abstract)
+  url: https://academic.oup.com/ajrccm/article/212/Supplement_1/aamag162.1316/8680789
+  kind: conference
+en:
+  title: Peer-reviewed Yale study extends coronary vasomotor (ANOCA) findings beyond the chest-pain abstract
+  plain_summary: A peer-reviewed Yale study found high overlap between ME/CFS and coronary small-vessel spasm (ANOCA) in chest-pain patients undergoing invasive heart and exercise testing, alongside poor muscle oxygen extraction on iCPET. Because these were specialized chest-pain referrals and invasive exertion tests carry PEM risks, it does not justify routine screening.
+  detail: 'A May 2026 conference abstract from this Yale group (Mackay et al.) reported coronary vasomotor disorders in 86% of 25 ME/CFS patients selected for chest pain and peripheral limitation on invasive CPET (iCPET). The full peer-reviewed paper, now ahead of print, adds a reverse-direction record review: among 261 patients with angina with no obstructive coronary arteries (ANOCA) confirmed by coronary function testing, 47 (18%) had ME/CFS, and only connective tissue disease differed significantly from those without ME/CFS. In a 27-patient ME/CFS iCPET cohort, 24 (89%) had ANOCA, the diagnosis changed management in 81%, and iCPET showed impaired peak oxygen extraction with normal oxygen delivery. This cohort probably includes or expands the abstract''s 25 (not confirmed), so it is one study account, not replication. Limits include a retrospective, single-center, referral-selected design, an exploratory iCPET analysis, no outcome data for the management changes, and no reported ME/CFS
+    criteria, severity or post-test PEM. Both tests are invasive, and iCPET requires exertion that can provoke PEM. Applicability to bedbound patients is unreported; these results do not establish a case for routine screening.'
+de:
+  title: Begutachtete Yale-Studie erweitert Befunde zu koronarer Vasomotorik (ANOCA) über das Brustschmerz-Abstract hinaus
+  plain_summary: Eine begutachtete Yale-Studie fand bei Brustschmerz-Patientinnen und -Patienten eine auffällige Überschneidung zwischen ME/CFS und Störungen der kleinen Herzkranzgefäße (ANOCA) sowie eine gestörte Sauerstoffausschöpfung im invasiven Belastungstest. Da es sich um eine hochselektierte Spezialambulanz handelt und beide Verfahren invasiv sind bzw. PEM auslösen können, rechtfertigt dies kein Routine-Screening.
+  detail: 'Ein Konferenz-Abstract derselben Yale-Gruppe (Mackay et al.) vom Mai 2026 hatte koronare vasomotorische Störungen bei 86 % von 25 ME/CFS-Patientinnen und -Patienten berichtet, die wegen Brustschmerzen und peripherer Limitation per invasivem CPET (iCPET) untersucht wurden. Die nun vorab online erschienene vollständige begutachtete Arbeit ergänzt eine Auswertung in umgekehrter Richtung: Unter 261 Patientinnen und Patienten mit per Koronarfunktionstest gesicherter Angina ohne obstruktive Koronarstenosen (ANOCA) hatten 47 (18 %) ME/CFS, wobei sich lediglich Bindegewebserkrankungen signifikant von Betroffenen ohne ME/CFS unterschieden. In einer 27-köpfigen ME/CFS-iCPET-Kohorte wiesen 24 (89 %) eine ANOCA auf; die Diagnose änderte in 81 % das Management, und der iCPET zeigte eine beeinträchtigte maximale Sauerstoffextraktion bei normalem Sauerstoffangebot. Da diese Kohorte vermutlich die 25 Personen des Abstracts einschließt oder erweitert, liegt eine einzelne Studienserie und keine
+    Replikation vor; Einschränkungen sind das retrospektive, monozentrische Zuweisungsdesign, fehlende Verlaufsdaten zu den Therapieänderungen, fehlende Angaben zu ME/CFS-Kriterien, Schweregrad oder Post-Test-PEM sowie die Invasivität und PEM-Gefahr der Tests.'

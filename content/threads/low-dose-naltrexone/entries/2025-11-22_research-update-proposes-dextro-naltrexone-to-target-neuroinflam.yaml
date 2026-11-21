@@ -1,0 +1,28 @@
+id: 2025-11-22_research-update-proposes-dextro-naltrexone-to-target-neuroinflam
+date: '2025-11-22'
+date_display: '2025-11-22'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: Dr. Jarred Younger, "When glia are the bad guys" (YouTube Research Update, Video 014)
+  url: https://youtu.be/XggO__DlALw?si=Bk-fXqfjJaWltKbC
+  kind: video
+- label: Dr. Jarred Younger, "Dextronaltrexone for Chronic Pain and Fatigue" (YouTube Research Update, Video 013)
+  url: https://youtu.be/K2SYjG6jM5k?si=lq55S2qDm9T-qR0H
+  kind: video
+- label: 'Dr. Jarred Younger, "Seeing what I see: brain inflammation" (YouTube Research Update, Video 077)'
+  url: https://youtu.be/Hb_tzJQfjeM?si=8NQ-0-Z4Sou8Tls8
+  kind: video
+- label: Dr. Jarred Younger, "How I am going to fight brain inflammation" (YouTube Research Update, Video 78)
+  url: https://youtu.be/KpsK6RmqLNI?si=DJtbIJkabImkTrcl
+  kind: video
+en:
+  title: Research update proposes Dextro-Naltrexone to target neuroinflammation
+  plain_summary: A research group announced plans to manufacture and test pure dextro-naltrexone, the form of naltrexone thought to calm brain inflammation without blocking endorphins. This project is still at the fundraising and preparation stage before human trials, so safety and effectiveness in people are completely untested.
+  detail: Dr. Jarred Younger announced a research project to manufacture and clinically test pure Dextro-Naltrexone (D-Naltrexone) as a targeted therapy for brain neuroinflammation. Standard naltrexone consists of Levo-naltrexone (which blocks endorphins and limits dosing) and Dextro-naltrexone (which acts as a Toll-Like Receptor 4 antagonist to calm overactive microglia). By isolating the Dextro isomer, researchers aim to bypass the 'therapeutic ceiling' of standard LDN, theoretically enabling doses 10 to 20 times higher to aggressively target neuroinflammation without opioid-blocking side effects. This project proposes a novel pharmacological refinement specifically tailored to address the glial hyperactivity hypothesized in ME/CFS. However, this translational effort is early and does not yet prove clinical safety or efficacy in humans, as the lab is currently raising funds to synthesize clinical-grade drug and file an FDA Investigational New Drug application.
+de:
+  title: Forschungsupdate schlägt Dextro-Naltrexon zur gezielten Behandlung von Neuroinflammation vor
+  plain_summary: Eine Arbeitsgruppe kündigte an, reines Dextro-Naltrexon herzustellen und zu testen – jene spiegelbildliche Form von Naltrexon, die Hirnentzündungen dämpfen soll, ohne Endorphine zu blockieren. Das Vorhaben befindet sich noch in der Vorbereitungs- und Finanzierungsphase vor ersten Studien am Menschen; Sicherheit und Wirksamkeit sind völlig ungeprüft.
+  detail: Dr. Jarred Younger kündigte ein Forschungsprojekt zur Herstellung und klinischen Prüfung von reinem Dextro-Naltrexon (D-Naltrexon) als gezielte Therapie gegen Neuroinflammation im Gehirn an. Herkömmliches Naltrexon besteht aus Levo-Naltrexon (das Endorphine blockiert und die Dosierung begrenzt) und Dextro-Naltrexon (das als Antagonist am Toll-like-Rezeptor 4 überaktive Mikroglia beruhigt). Durch Isolierung des Dextro-Isomers wollen Forschende die „therapeutische Obergrenze“ von Standard-LDN umgehen und theoretisch 10- bis 20-fach höhere Dosen einsetzen, um Neuroinflammation ohne opioidblockierende Nebenwirkungen zu bekämpfen. Das Projekt verfolgt eine pharmakologische Weiterentwicklung speziell für die bei ME/CFS vermutete Glia-Überaktivität. Allerdings befindet sich diese translationale Initiative noch ganz am Anfang und belegt weder Sicherheit noch Wirksamkeit am Menschen, da das Labor derzeit Fördermittel einwirbt, um klinisch nutzbaren Wirkstoff zu synthetisieren und einen
+    IND-Antrag bei der FDA einzureichen.

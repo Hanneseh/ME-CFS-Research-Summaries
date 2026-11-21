@@ -1,0 +1,20 @@
+id: 2026-09-23_prospective-dubbo-cohort-depression-and-cfs-polygenic-scores
+date: '2026-09-23'
+date_display: '2026-09-23'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ruseva et al. 2026, Twin Research and Human Genetics
+  url: https://doi.org/10.1017/thg.2026.10098
+  kind: paper
+en:
+  title: 'Prospective Dubbo cohort: depression and CFS polygenic scores do not predict post-infective fatigue syndrome'
+  plain_summary: Tracking 464 Australians after acute infections, this study found that genetic risk scores for depression did not predict who developed persistent post-infective fatigue six months later. This fits with DecodeME's finding of no genetic overlap with depression, though the cohort was small and did not verify PEM or long-term ME/CFS.
+  detail: 'Ruseva et al. analysed the prospective Dubbo Infection Outcomes Study, in which people with serologically confirmed acute infections were followed and assessed by a physician and a psychiatrist for post-infective fatigue syndrome (PIFS) at 6 months. Among 464 participants (89 cases, 375 controls), neither a major depressive disorder polygenic score (adjusted OR 0.99, 95% CI 0.78–1.26) nor a CFS polygenic score (adjusted OR 0.97, 95% CI 0.77–1.23) predicted PIFS. An exploratory depression-score-by-sex interaction was borderline and unreplicated. The result is consistent with DecodeME''s finding of no genetic overlap with depression but cannot establish or exclude psychiatric contributions: the study is small and underpowered for modest polygenic effects, the abstract does not name the case criteria or state whether PEM was required, and 6-month outcomes may not reflect long-standing ME/CFS. The CFS-score null is not a test of the DecodeME loci. Severity was not reported, so applicability
+    to severe or bedbound patients is unknown.'
+de:
+  title: 'Prospektive Dubbo-Kohorte: Polygenetische Risikoscores für Depression und CFS sagen postinfektiöses Erschöpfungssyndrom nicht voraus'
+  plain_summary: Eine Verlaufsstudie mit 464 Menschen nach akuten Infektionen fand, dass genetische Risikoscores für Depressionen eine anhaltende Erschöpfung nach sechs Monaten nicht vorhersagten. Das passt zu DecodeME, wonach kein gemeinsames genetisches Risiko mit Depression besteht; allerdings war die Gruppe klein und prüfte weder PEM noch langjähriges ME/CFS.
+  detail: 'Ruseva et al. analysierten die prospektive Dubbo Infection Outcomes Study, in der Personen mit serologisch bestätigten akuten Infektionen nachverfolgt und nach sechs Monaten ärztlich sowie psychiatrisch auf ein postinfektiöses Erschöpfungssyndrom (PIFS) untersucht wurden. Unter 464 Teilnehmenden (89 Fälle, 375 Kontrollen) sagten weder ein polygenetischer Risikoscore für schwere Depression (adjustiertes OR 0,99; 95-%-KI 0,78–1,26) noch ein CFS-Risikoscore (adjustiertes OR 0,97; 95-%-KI 0,77–1,23) ein PIFS voraus; eine explorative Interaktion zwischen Depressionsscore und Geschlecht war grenzwertig und unrepliziert. Das Ergebnis stimmt mit dem Befund aus DecodeME überein, dass keine genetische Überschneidung mit Depression vorliegt, kann psychiatrische Beiträge aber weder belegen noch sicher ausschließen: Die Studie ist für schwache polygene Effekte zu klein, das Abstract nennt keine Fallkriterien oder PEM-Pflicht, und 6-Monats-Ergebnisse spiegeln nicht zwingend langjähriges ME/CFS
+    wider. Das Nullergebnis des älteren CFS-Scores stellt zudem keinen Test der DecodeME-Loci dar, und Angaben zum Schweregrad oder zu bettlägerigen Betroffenen fehlten.'

@@ -1,0 +1,20 @@
+id: 2026-02-01_comprehensive-review-integrates-gut-brain-axis-evidence-and
+date: '2026-02-01'
+date_display: '2026-02-01'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Xu et al. 2026, Journal of Psychiatric Research
+  url: https://doi.org/10.1016/j.jpsychires.2026.01.010
+  kind: paper
+en:
+  title: Comprehensive review integrates gut-brain axis evidence and identifies FABP2 as a barrier biomarker
+  plain_summary: This broad review connects gut barrier leakage markers and gut-linked immune cells to brain inflammation in ME/CFS and Long COVID. It points to probiotics as a reasonable idea to explore, while noting that large clinical trials proving they help are still missing.
+  detail: A broad clinical and mechanistic review by Xu et al. synthesised evidence through mid-2025 on ME/CFS aetiology, pathophysiology, diagnostics, and treatment, with dedicated sections on the gut-brain axis and its overlap with Long COVID. The review identifies FABP2 (intestinal fatty acid-binding protein 2) as a circulating biomarker of enterocyte damage that may index intestinal permeability in patients, and highlights MAIT cell activation by microbial antigens as a candidate immune bridge between gut dysbiosis and systemic neuroinflammation. It positions probiotics and other microbial preparations as biologically plausible interventions for restoring gut-immune-brain homeostasis, while acknowledging that large-scale clinical trial evidence for any microbiome-directed therapy in ME/CFS remains absent. The review's broad scope means individual mechanistic claims are not independently replicated within the paper itself, and it does not establish causal ordering between gut, immune,
+    and neurological abnormalities.
+de:
+  title: Umfassende Übersichtsarbeit integriert Evidenz zur Darm-Hirn-Achse und benennt FABP2 als Barriere-Biomarker
+  plain_summary: Diese breite Übersichtsarbeit verbindet Hinweise auf eine durchlässige Darmbarriere und darmnahe Immunzellen mit Entzündungsprozessen im Gehirn bei ME/CFS und Long COVID. Probiotika werden als biologisch naheliegender Ansatz diskutiert, allerdings fehlen weiterhin große klinische Studien zum Nachweis eines Nutzens.
+  detail: Eine breite klinische und mechanistische Übersichtsarbeit von Xu et al. fasste die Evidenz bis Mitte 2025 zu Ätiologie, Pathophysiologie, Diagnostik und Therapie von ME/CFS zusammen und widmete der Darm-Hirn-Achse sowie deren Überschneidung mit Long COVID eigene Abschnitte. Die Übersichtsarbeit benennt FABP2 (intestinales Fettsäure-bindendes Protein 2) als zirkulierenden Biomarker für Enterozyten-Schäden, der eine erhöhte Darmdurchlässigkeit bei Betroffenen anzeigen könnte, und hebt die Aktivierung von MAIT-Zellen durch mikrobielle Antigene als mögliche immunologische Brücke zwischen Darmdysbiose und systemischer Neuroinflammation hervor. Sie ordnet Probiotika und andere mikrobielle Präparate als biologisch plausible Interventionen zur Wiederherstellung der Darm-Immun-Hirn-Homöostase ein, räumt aber zugleich ein, dass groß angelegte klinische Studiendaten für jede auf das Mikrobiom gerichtete Therapie bei ME/CFS weiterhin fehlen. Aufgrund der breiten Ausrichtung werden einzelne
+    mechanistische Aussagen in der Arbeit selbst nicht unabhängig repliziert, und eine kausale Reihenfolge zwischen Darm-, Immun- und neurologischen Auffälligkeiten wird nicht belegt.

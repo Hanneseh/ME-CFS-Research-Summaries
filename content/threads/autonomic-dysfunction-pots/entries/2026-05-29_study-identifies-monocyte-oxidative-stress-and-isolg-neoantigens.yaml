@@ -1,0 +1,20 @@
+id: 2026-05-29_study-identifies-monocyte-oxidative-stress-and-isolg-neoantigens
+date: '2026-05-29'
+date_display: '2026-05-29'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Abd-Eldayem et al. 2026, medRxiv
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13232403/
+  kind: preprint
+en:
+  title: Study identifies monocyte oxidative stress and IsoLG neoantigens as drivers of Long COVID POTS
+  plain_summary: A small preprint found higher oxidative stress and modified self-proteins in immune cells from 25 Long COVID POTS patients compared with 15 recovered controls. It is not yet peer-reviewed and cannot prove these cell changes cause POTS.
+  detail: A case-control study by Abd-Eldayem et al. released as a preprint linked monocyte oxidative stress to persistent immune activation in Long COVID Postural Orthostatic Tachycardia Syndrome (LCPOTS). Comparing 25 LCPOTS patients with 15 controls who recovered from COVID-19 without POTS, researchers found that LCPOTS monocytes exhibit increased mitochondrial content, elevated superoxide production, and downregulated NRF2-dependent antioxidant enzymes. This oxidative state leads to increased formation of isolevuglandin (IsoLG) neoantigens, which modify self-proteins to activate T cells. Consequently, LCPOTS patients showed a 3-fold increase in circulating T cell-monocyte doublets forming immunological synapses, which correlated with autonomic symptom severity. As a preprint, this work has not yet undergone peer review. Furthermore, the cohort size is small and the design is observational, meaning it cannot prove a causal relationship between monocyte oxidative stress and cardiovagal
+    dysfunction.
+de:
+  title: Studie identifiziert oxidativen Stress in Monozyten und IsoLG-Neoantigene als mögliche Treiber von Long-COVID-POTS
+  plain_summary: Ein kleiner Preprint fand bei 25 Menschen mit Long-COVID-POTS vermehrten oxidativen Stress in Monozyten und veränderte Selbstproteine im Vergleich zu 15 Genesenen. Die Arbeit ist noch nicht begutachtet und beweist noch keinen ursächlichen Zusammenhang.
+  detail: Eine als Preprint veröffentlichte Fall-Kontroll-Studie von Abd-Eldayem et al. verknüpfte oxidativen Stress in Monozyten mit anhaltender Immunaktivierung beim Long-COVID-assoziierten POTS (LCPOTS). Im Vergleich zwischen 25 LCPOTS-Betroffenen und 15 nach COVID-19 ohne POTS genesenen Kontrollpersonen zeigten LCPOTS-Monozyten einen erhöhten Mitochondriengehalt, eine verstärkte Superoxid-Produktion und herunterregulierte NRF2-abhängige antioxidative Enzyme. Dieser oxidative Zustand fördert die Bildung von Isolevuglandin-(IsoLG-)Neoantigenen, die körpereigene Proteine verändern und T-Zellen aktivieren. Entsprechend wiesen LCPOTS-Patientinnen und -Patienten dreifach mehr zirkulierende T-Zell-Monozyten-Dubletten mit immunologischen Synapsen auf, was mit der Schwere autonomer Symptome korrelierte. Als Preprint hat die Arbeit noch kein Peer-Review durchlaufen; zudem ist die Stichprobe klein und das Design beobachtend, sodass keine Kausalität zwischen oxidativem Stress und Störung der Herz-Vagus-Steuerung
+    bewiesen ist.

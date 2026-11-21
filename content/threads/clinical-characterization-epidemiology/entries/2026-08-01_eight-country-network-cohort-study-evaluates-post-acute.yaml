@@ -1,0 +1,19 @@
+id: 2026-08-01_eight-country-network-cohort-study-evaluates-post-acute
+date: '2026-08-01'
+date_display: '2026-08-01'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: Burkard et al. 2026, BMJ Public Health
+  url: https://pubmed.ncbi.nlm.nih.gov/42516718/
+  kind: paper
+en:
+  title: Eight-country network cohort study evaluates post-acute COVID-19 autoimmune risk and EMR coding limits
+  plain_summary: An eight-country health-record study tracked autoimmune diagnoses after COVID-19 and found that ME/CFS and dysautonomia are heavily undercoded in routine billing systems. Because missing billing codes reflect underdiagnosis rather than absence of illness, health-record databases cannot rule out real cases.
+  detail: A multi-country network cohort study published in BMJ Public Health analyzed electronic health record (EHR) data across eight countries (covering Europe, the US, and Korea) to quantify post-acute autoimmune and inflammatory diagnoses following COVID-19. The study evaluated relative risks for conditions including rheumatoid arthritis, inflammatory bowel disease, systemic lupus erythematosus, and ME/CFS/POTS over a 9-month follow-up window. While providing large-scale multi-population tracking, the authors highlighted critical diagnostic coding limitations in administrative EHR databases, where ME/CFS and dysautonomia are frequently undercoded due to diagnostic delays and absent billing codes. Clinically, the study demonstrates that the lack of electronic health record code elevation in administrative databases does not rule out individual post-viral illness, underscoring the gap between clinical reality and health system coding. The study's observational database design remains
+    subject to misclassification and detection bias.
+de:
+  title: Acht-Länder-Netzwerkkohorte untersucht postakutes Autoimmunrisiko nach COVID-19 und Grenzen von Akten-Codierungen
+  plain_summary: Eine Gesundheitsdaten-Studie aus acht Ländern untersuchte Autoimmundiagnosen nach COVID-19 und zeigte, dass ME/CFS und Dysautonomien in Abrechnungsdaten stark untererfasst sind. Fehlende Abrechnungscodes spiegeln Diagnoseverzögerungen wider und schließen keine tatsächliche Erkrankung aus.
+  detail: Eine in BMJ Public Health veröffentlichte Netzwerkkohortenstudie wertete elektronische Gesundheitsakten (EHR) aus acht Ländern (Europa, USA und Korea) aus, um das Risiko postakuter autoimmuner und entzündlicher Diagnosen nach COVID-19 über ein 9-Monats-Fenster zu beziffern, darunter rheumatoide Arthritis, chronisch-entzündliche Darmerkrankungen, systemischer Lupus erythematodes sowie ME/CFS/POTS. Neben der großskaligen Erfassung über mehrere Gesundheitssysteme hinweg hoben die Autorinnen und Autoren gravierende Codierungsgrenzen in administrativen EHR-Datenbanken hervor, in denen ME/CFS und Dysautonomien wegen langer Diagnosewege und fehlender Abrechnungscodes häufig nicht erfasst werden. Klinisch zeigt dies, dass ein fehlender Code-Anstieg in Verwaltungsdaten eine postvirale Erkrankung im Einzelfall nicht widerlegt; zudem bleibt das Datenbankdesign anfällig für Fehlklassifikation und Erfassungsverzerrung.

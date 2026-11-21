@@ -1,0 +1,20 @@
+id: 2026-08-12_review-proposes-fragile-mitophagy-as-a-recovery-failure
+date: '2026-08-12'
+date_display: '2026-08-12'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Groysman 2026, Frontiers in Medicine
+  url: https://doi.org/10.3389/fmed.2026.1905758
+  kind: paper
+en:
+  title: Review proposes fragile mitophagy as a recovery-failure model for post-exertional malaise
+  plain_summary: A review proposes that delayed PEM crashes might happen if cells start clearing damaged mitochondria after exertion but get stuck partway through, leaving inflammatory debris behind. It is an untested hypothesis with no patient data, and mentioned drugs must not be self-administered.
+  detail: A peer-reviewed narrative review in *Frontiers in Medicine* proposed a theoretical "fragile mitophagy" framework to model post-exertional malaise (PEM) in Long COVID and post-viral illness. The author hypothesized a kinetic recovery bottleneck where physical or cognitive exertion successfully triggers the tagging and engulfment of damaged mitochondria, but downstream lysosomal fusion, acidification, or enzymatic clearance fails to complete. According to the model, this clearance failure leads to an intracellular accumulation of partially degraded mitochondrial fragments and oxidized mitochondrial DNA, generating sustained damage-associated molecular pattern (DAMP) signaling that could explain the characteristic 24- to 72-hour delay and prolonged duration of PEM crashes. However, the framework remains an untested hypothesis without empirical patient cohort data, tissue biopsies, or validated mitophagy flux measurements in either ME/CFS or Long COVID. The review discusses potential
+    autophagy-modulating compounds (such as mTOR modulators or lysosomal stabilizers) that carry safety risks and must not be self-administered without clinical trial validation, and severe-patient applicability remains entirely theoretical.
+de:
+  title: Übersichtsarbeit schlägt „fragile Mitophagie“ als Modell für Erholungsversagen bei Post-Exertional Malaise vor
+  plain_summary: Eine Übersichtsarbeit vermutet, dass verzögerte PEM-Einbrüche entstehen könnten, wenn Zellen nach Belastung beschädigte Mitochondrien abbauen wollen, aber auf halbem Weg stecken bleiben. Das Modell ist bislang ungetestet ohne Patientendaten, und erwähnte Wirkstoffe eignen sich nicht zur Selbstmedikation.
+  detail: Eine begutachtete narrative Übersichtsarbeit in *Frontiers in Medicine* schlug ein theoretisches Modell der „fragilen Mitophagie“ für Post-Exertional Malaise (PEM) bei Long COVID und postviralen Erkrankungen vor. Der Autor stellte die Hypothese eines kinetischen Erholungsengpasses auf, bei dem körperliche oder geistige Belastung zwar das Markieren und Umschließen geschädigter Mitochondrien auslöst, die anschließende Fusion mit Lysosomen, Ansäuerung oder der enzymatische Abbau aber nicht vollständig gelingt. Dem Modell zufolge führt dieser unvollständige Abbau zu einer intrazellulären Ansammlung halb abgebauter Mitochondrienbruchstücke und oxidierter mitochondrialer DNA, was anhaltende DAMP-Entzündungssignale auslöst und die typische Verzögerung von 24 bis 72 Stunden sowie die lange Dauer von PEM-Crashes erklären könnte. Das Konzept bleibt jedoch eine ungetestete Hypothese ohne empirische Patientenkohortendaten, Gewebebiopsien oder validierte Mitophagie-Flussmessungen bei ME/CFS
+    oder Long COVID. Die Arbeit diskutiert mögliche autophagiemodulierende Substanzen (wie mTOR-Modulatoren oder Lysosomen-Stabilisatoren), die Sicherheitsrisiken bergen und keinesfalls ohne klinische Studienprüfung selbst eingenommen werden dürfen; die Übertragbarkeit auf schwer Erkrankte bleibt rein theoretisch.

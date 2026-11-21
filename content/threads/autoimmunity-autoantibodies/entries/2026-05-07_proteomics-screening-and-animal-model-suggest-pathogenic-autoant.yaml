@@ -1,0 +1,20 @@
+id: 2026-05-07_proteomics-screening-and-animal-model-suggest-pathogenic-autoant
+date: '2026-05-07'
+date_display: '2026-05-07'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: Sá 2026, Internationale ME/CFS-Konferenz Presentation Video
+  url: https://youtu.be/NXMl_u78338
+  kind: video
+en:
+  title: Proteomics screening and animal model suggest pathogenic autoantibody activity
+  plain_summary: In a 2026 conference talk, researchers reported screening thousands of antibodies in Long COVID and ME/CFS and reproducing pain sensitivity by transferring patient antibodies into mice. These findings are still preliminary, un-peer-reviewed conference results and need independent validation.
+  detail: At the International ME/CFS Conference 2026 in Berlin, Germany, Dr. Keyla Sá (Yale University) presented a large-scale proteomics study titled "Analyse von Autoantikörpern bei Long COVID und ME/CFS" using Rapid Extracellular Antigen Profiling (REAP) to identify autoantibody targets. The study identified over 7,000 unique autoantibody targets in Long COVID patients that are absent in healthy controls, with significant overlap in ME/CFS, primarily targeting brain structures and blood vessels. Additionally, passive transfer of purified IgG autoantibodies from these patients into mice replicated patient-like symptoms, including increased pain sensitivity and a reduction in small nerve fibers. However, these findings represent preliminary conference data that have not undergone formal peer review. While animal models provide mechanistic insights, they may not fully capture the complex, systemic human pathophysiology of ME/CFS and Long COVID, and the clinical significance of these targets
+    requires validation in larger cohorts.
+de:
+  title: Proteomik-Screening und Tiermodell deuten auf pathogene Autoantikörper-Aktivität hin
+  plain_summary: In einem Konferenzvortrag 2026 berichteten Forschende über ein breites Antikörper-Screening bei Long COVID und ME/CFS sowie über Schmerzempfindlichkeit bei Mäusen nach Übertragung von Patienten-Antikörpern. Es handelt sich um vorläufige, noch nicht begutachtete Konferenzdaten, die unabhängig überprüft werden müssen.
+  detail: Auf der International ME/CFS Conference 2026 in Berlin stellte Dr. Keyla Sá (Yale University) eine groß angelegte Proteomik-Studie mit dem Titel „Analyse von Autoantikörpern bei Long COVID und ME/CFS“ vor, die mittels Rapid Extracellular Antigen Profiling (REAP) Autoantikörperziele identifiziert. Die Studie fand über 7.000 einzigartige Autoantikörperziele bei Long-COVID-Patientinnen und -Patienten, die bei gesunden Kontrollen fehlen – mit deutlicher Überschneidung zu ME/CFS – und die vorwiegend Hirnstrukturen und Blutgefäße betreffen. Zudem bildete der passive Transfer gereinigter IgG-Autoantikörper dieser Betroffenen in Mäusen patientenähnliche Symptome nach, darunter erhöhte Schmerzempfindlichkeit und eine Verringerung kleiner Nervenfasern. Diese Befunde stellen jedoch vorläufige Konferenzdaten dar, die noch kein Peer-Review durchlaufen haben. Während Tiermodelle mechanistische Einblicke liefern, erfassen sie möglicherweise nicht vollständig die komplexe, systemische menschliche
+    Pathophysiologie von ME/CFS und Long COVID, und die klinische Bedeutung dieser Zielstrukturen muss in größeren Kohorten validiert werden.

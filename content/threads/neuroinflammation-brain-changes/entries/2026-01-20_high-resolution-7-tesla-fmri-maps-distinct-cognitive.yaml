@@ -1,0 +1,19 @@
+id: 2026-01-20_high-resolution-7-tesla-fmri-maps-distinct-cognitive
+date: '2026-01-20'
+date_display: '2026-01-20'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Inderyas et al. 2026, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-026-07708-y
+  kind: paper
+en:
+  title: High-resolution 7 Tesla fMRI maps distinct cognitive fatigue connectivity patterns
+  plain_summary: During a demanding mental task inside a 7-Tesla scanner, ME/CFS and Long COVID patients showed different patterns of brain-network coordination than healthy controls and from each other. These distinct patterns suggest biological pathways may differ even when symptoms look similar, though they are not yet a clinical test.
+  detail: A task-fMRI study utilizing 7 Tesla imaging compared 78 participants (32 ME/CFS, 19 Long COVID, 27 controls) during a Stroop task to observe changes in brain network coordination during cognitive fatigue. While healthy controls showed increased communication between brain regions during fatigue, patients displayed reduced or dysregulated coordination. Long COVID patients exhibited significantly reduced functional connectivity within dopaminergic motivation and cognitive pathways (between the nucleus accumbens and vermis), whereas ME/CFS patients showed increased connectivity within subcortical brainstem regions (between the cuneiform nucleus and medulla). These distinct signatures suggest that despite overlapping clinical symptoms, the underlying neurobiological pathways driving cognitive fatigue may differ. However, the clinical utility of these patterns for individual diagnosis and tracking remains to be validated.
+de:
+  title: Hochauflösende 7-Tesla-fMRT kartiert unterschiedliche Konnektivitätsmuster kognitiver Fatigue
+  plain_summary: Während einer anspruchsvollen Denkaufgabe im 7-Tesla-Scanner zeigten ME/CFS- und Long-COVID-Betroffene veränderte Hirnnetzwerk-Koordinationen im Vergleich zu Gesunden und teils auch untereinander. Das deutet auf teils unterschiedliche biologische Pfade bei ähnlichen Symptomen hin, liefert aber noch keinen klinischen Test.
+  detail: Eine Aufgaben-fMRT-Studie mit 7-Tesla-Bildgebung verglich 78 Teilnehmende (32 ME/CFS, 19 Long COVID, 27 Kontrollen) während eines Stroop-Tests, um Veränderungen der Hirnnetzwerk-Koordination bei kognitiver Fatigue zu beobachten. Während gesunde Kontrollen bei Ermüdung eine verstärkte Kommunikation zwischen Hirnregionen zeigten, wiesen Betroffene eine verringerte oder fehlregulierte Koordination auf. Long-COVID-Patientinnen und -Patienten zeigten eine signifikant verringerte funktionelle Konnektivität innerhalb dopaminerger Motivations- und Kognitionspfade (zwischen Nucleus accumbens und Kleinhirnwurm), während ME/CFS-Betroffene eine erhöhte Konnektivität innerhalb subkortikaler Hirnstammregionen (zwischen Nucleus cuneiformis und Medulla) aufwiesen. Diese unterschiedlichen Signaturen legen nahe, dass trotz überlappender klinischer Symptome die zugrunde liegenden neurobiologischen Pfade der kognitiven Fatigue abweichen können. Der klinische Nutzen dieser Muster für individuelle Diagnostik
+    und Verlaufskontrolle muss jedoch erst noch validiert werden.

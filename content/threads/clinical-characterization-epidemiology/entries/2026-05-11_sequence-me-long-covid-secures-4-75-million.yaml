@@ -1,0 +1,20 @@
+id: 2026-05-11_sequence-me-long-covid-secures-4-75-million
+date: '2026-05-11'
+date_display: '2026-05-11'
+date_precision: exact
+source_type: announcement
+study_design: null
+sources:
+- label: Action for ME 2026, Sequence ME & Long Covid announcement
+  url: https://www.actionforme.org.uk/major-funding-secured-for-sequence-me-long-covid-a-decodeme-project/
+  kind: announcement
+en:
+  title: Sequence ME & Long Covid secures £4.75 million for long-read whole-genome sequencing of 18,000 patients
+  plain_summary: A UK project received £4.75 million to read full, long-stretch DNA sequences from up to 18,000 people with ME/CFS and Long COVID. It is an early funding announcement with no genetic findings yet, and full funding for all 18,000 people is still being raised.
+  detail: Action for ME announced £4.75 million in UK government funding, primarily from the Office for Life Sciences, for Sequence ME & Long Covid, a project built on the DecodeME cohort infrastructure. The project plans to sequence the entire genomes of 9,000 people with ME/CFS and 9,000 people with Long Covid using Oxford Nanopore Technologies' long-read sequencing, which can detect large-scale structural genomic variations and complex gene combinations that standard short-read methods miss. The initial phase will use the 6,000 existing DNA samples from DecodeME participants, with Long Covid recruitment to follow. Full funding for all 18,000 participants is still being sought. No genomic findings are available from this announcement stage. The project is significant for clinical characterization because structural genomic variants can explain conditions that GWAS-level single-nucleotide variation analysis misses, and the scale is large enough to support rare variant discovery in a patient
+    population historically too small for genome-wide association work.
+de:
+  title: „Sequence ME & Long Covid“ erhält 4,75 Millionen Pfund für Long-Read-Gesamtgenomsequenzierung von 18.000 Betroffenen
+  plain_summary: Ein britisches Projekt hat 4,75 Millionen Pfund erhalten, um vollständige Long-Read-Genome von bis zu 18.000 Menschen mit ME/CFS und Long COVID zu entschlüsseln. Es handelt sich um eine frühe Förderankündigung ohne genetische Ergebnisse; für alle 18.000 Personen werden noch weitere Mittel gesucht.
+  detail: Action for ME gab eine britische Regierungsförderung von 4,75 Millionen Pfund – überwiegend vom Office for Life Sciences – für das Projekt „Sequence ME & Long Covid“ bekannt, das auf der Infrastruktur der DecodeME-Kohorte aufbaut. Geplant ist die vollständige Genomsequenzierung von 9.000 Menschen mit ME/CFS und 9.000 Menschen mit Long COVID mithilfe der Long-Read-Sequenzierung von Oxford Nanopore Technologies, die große strukturelle Genomvarianten und komplexe Genkombinationen erfassen kann, die herkömmliche Short-Read-Verfahren übersehen. In der ersten Phase sollen die 6.000 vorhandenen DNA-Proben von DecodeME-Teilnehmenden genutzt werden, bevor die Long-COVID-Rekrutierung folgt; die Vollfinanzierung für alle 18.000 Personen wird noch eingeworben. Genetische Ergebnisse liegen in diesem Ankündigungsstadium noch nicht vor. Das Projekt ist für die klinische Charakterisierung bedeutsam, weil strukturelle Genomvarianten Zusammenhänge erklären können, die Standard-GWAS-Analysen einzelner
+    Basenpaare entgehen, und der Umfang groß genug für die Suche nach seltenen Varianten ist.

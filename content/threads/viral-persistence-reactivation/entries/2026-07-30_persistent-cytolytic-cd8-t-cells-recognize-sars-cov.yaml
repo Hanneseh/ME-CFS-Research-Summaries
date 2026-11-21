@@ -1,0 +1,20 @@
+id: 2026-07-30_persistent-cytolytic-cd8-t-cells-recognize-sars-cov
+date: '2026-07-30'
+date_display: '2026-07-30'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'Cell Reports Medicine 2026 (PII: S2666-3791(26)00363-0)'
+  url: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00363-0
+  kind: paper
+en:
+  title: Persistent cytolytic CD8+ T cells recognize SARS-CoV-2 and herpesvirus epitopes in Long COVID
+  plain_summary: A peer-reviewed study found long-lasting killer CD8 T cells targeting both SARS-CoV-2 and dormant herpesviruses (EBV, CMV) in the blood of Long COVID patients. It points to ongoing immune stimulation, though it is not yet clear whether these cells cause harm or help contain hidden virus, or whether the same occurs in classic ME/CFS.
+  detail: A peer-reviewed study in _Cell Reports Medicine_ demonstrated that individuals with Long COVID harbor persistently expanded cytolytic CD8+ T cells recognizing both SARS-CoV-2 and latent herpesvirus (EBV, CMV) epitopes. Unlike passive immune memory, this sustained cytolytic T-cell expansion indicates ongoing antigen-driven cellular immune activation, establishing a direct mechanistic link between viral persistence, herpesvirus reactivation, and chronic immune activation in Long COVID. The dual viral targeting supports models in which acute SARS-CoV-2 infection disrupts immune surveillance, enabling herpesvirus reactivation that perpetuates inflammation. These findings strengthen the rationale for clinical trials of combined antiviral and immunomodulatory approaches. However, peripheral blood T-cell profiling may not reflect tissue-specific immune responses inside organ reservoirs, and the study does not determine whether these cytolytic responses cause tissue damage or represent
+    beneficial viral containment. The cohort was Long COVID-specific; whether equivalent CD8+ T-cell signatures characterize classic post-infectious ME/CFS remains untested.
+de:
+  title: Anhaltend aktive zytolytische CD8+-T-Zellen erkennen SARS-CoV-2- und Herpesvirus-Epitope bei Long COVID
+  plain_summary: Eine begutachtete Studie fand im Blut von Long-COVID-Betroffenen dauerhaft vermehrte Killer-T-Zellen (CD8+), die sowohl SARS-CoV-2 als auch ruhende Herpesviren wie EBV und CMV erkennen. Das deutet auf einen anhaltenden Antigenreiz hin; offen bleibt aber, ob diese Zellen Gewebe schädigen oder Viren in Schach halten – und ob sich das bei klassischem ME/CFS genauso zeigt.
+  detail: Eine begutachtete Studie in *Cell Reports Medicine* zeigte, dass Menschen mit Long COVID dauerhaft vermehrte zytolytische CD8+-T-Zellen aufweisen, die sowohl SARS-CoV-2- als auch latente Herpesvirus-(EBV-, CMV-)Epitope erkennen. Anders als eine ruhende Immunitätserinnerung deutet diese anhaltende Ausbreitung zytolytischer T-Zellen auf eine fortlaufende, durch Antigene getriebene Immunaktivierung hin und verknüpft Viruspersistenz, Herpesvirus-Reaktivierung und chronische Entzündung bei Long COVID. Die gleichzeitige Erkennung beider Virusgruppen stützt Modelle, wonach akutes SARS-CoV-2 die Immunüberwachung stört und damit Herpesvirus-Reaktivierungen begünstigt, was kombinierte antivirale und immunmodulierende Studienansätze motiviert. Allerdings bildet das periphere Blut möglicherweise keine gewebsständigen Immunantworten in Organreservoirs ab, die Studie klärt nicht zwischen schädlicher Gewebsreaktion und nützlicher Viruskontrolle, und die Befunde stammen ausschließlich aus Long-COVID-Kohorten
+    ohne Testung bei klassischem ME/CFS.

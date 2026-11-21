@@ -1,0 +1,18 @@
+id: 2025-12-17_metabolomics-ml-model-differentiates-long-covid-from-me
+date: '2025-12-17'
+date_display: '2025-12-17'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Cai et al. 2025, Metabolites
+  url: https://doi.org/10.3390/metabo15120801
+  kind: paper
+en:
+  title: Metabolomics ML model differentiates Long COVID from ME/CFS and four other conditions
+  plain_summary: A machine-learning model built from blood metabolite patterns separated Long COVID from healthy people and from ME/CFS, Lyme, POTS, and IBS, though it could not tell Long COVID apart from fibromyalgia. Because sample sizes were not included in the available summary, how well it holds up in routine clinics remains unclear.
+  detail: 'Researchers at UC San Diego trained a multi-layer perceptron on molecular descriptors of dysregulated plasma metabolites from PASC patients and used it to separate PASC from healthy controls and five phenotypically similar conditions: ME/CFS, Lyme disease, POTS, IBS, and fibromyalgia. The model achieved high predictive accuracy for PASC versus healthy controls and successfully discriminated PASC from ME/CFS, Lyme, POTS, and IBS, but found the metabolic profiles of PASC and fibromyalgia indistinguishable, suggesting shared molecular pathology. The use of molecular descriptors rather than fixed metabolite lists provides flexibility for adapting the framework to new biomarker discoveries. The study did not report sample sizes in the available summary, and the indistinguishability from fibromyalgia is a practical diagnostic limitation.'
+de:
+  title: Metabolomik-ML-Modell unterscheidet Long COVID von ME/CFS und vier weiteren Erkrankungen
+  plain_summary: Ein auf Blut-Stoffwechselmustern trainiertes KI-Modell trennte Long COVID von Gesunden sowie von ME/CFS, Borreliose, POTS und Reizdarmsyndrom, konnte Long COVID jedoch nicht von Fibromyalgie unterscheiden. Da in der verfügbaren Zusammenfassung keine Fallzahlen genannt wurden, bleibt die Übertragbarkeit auf den Klinikalltag offen.
+  detail: 'Forschende der UC San Diego trainierten ein mehrschichtiges Perzeptron auf molekularen Deskriptoren fehlregulierter Plasmametaboliten von PASC-Patientinnen und -Patienten und nutzten es, um PASC von gesunden Kontrollen sowie fünf phänotypisch ähnlichen Erkrankungen abzugrenzen: ME/CFS, Lyme-Borreliose, POTS, Reizdarmsyndrom (IBS) und Fibromyalgie. Das Modell erzielte eine hohe Vorhersagegenauigkeit für PASC gegenüber gesunden Kontrollen und trennte PASC erfolgreich von ME/CFS, Borreliose, POTS und IBS, fand jedoch die Stoffwechselprofile von PASC und Fibromyalgie ununterscheidbar – ein Hinweis auf eine geteilte molekulare Pathologie. Die Verwendung molekularer Deskriptoren anstelle starrer Metabolitenlisten macht das Verfahren flexibel für neue Biomarker-Entdeckungen. In der verfügbaren Zusammenfassung wurden jedoch keine Stichprobengrößen angegeben, und die fehlende Abgrenzbarkeit gegenüber Fibromyalgie stellt eine praktische diagnostische Einschränkung dar.'

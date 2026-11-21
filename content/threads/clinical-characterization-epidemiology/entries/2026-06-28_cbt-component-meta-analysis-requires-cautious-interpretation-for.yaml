@@ -1,0 +1,19 @@
+id: 2026-06-28_cbt-component-meta-analysis-requires-cautious-interpretation-for
+date: '2026-06-28'
+date_display: '2026-06-28'
+date_precision: exact
+source_type: review
+study_design: Meta-analysis
+sources:
+- label: Li et al. 2026, Journal of Psychosomatic Research
+  url: https://pubmed.ncbi.nlm.nih.gov/42219745/
+  kind: paper
+en:
+  title: CBT component meta-analysis requires cautious interpretation for PEM-defined ME/CFS
+  plain_summary: A review comparing forms of cognitive behavioral therapy for chronic fatigue cannot be read as proof that CBT cures ME/CFS, because older studies often used broad fatigue definitions and skipped PEM harm tracking. It highlights why study criteria and safety tracking matter.
+  detail: 'A component network meta-analysis reviewed cognitive behavioral therapy components and delivery formats for chronic fatigue syndrome/ME/CFS. Because much of the CBT literature uses older or broader fatigue criteria, subjective outcomes, and trial designs that predate current PEM-centered safety standards, the findings should not be generalized as evidence that CBT is curative or disease-modifying for PEM-defined ME/CFS. Its main relevance here is methodological: it shows how strongly conclusions can depend on case definition, outcome selection, and whether harms or delayed post-exertional worsening are captured. Any psychological or behavioral support studied in ME/CFS needs to be distinguished from claims that symptoms are maintained by beliefs or that fixed activity increases are safe. This source should therefore inform trial-design caution rather than patient-facing treatment promises.'
+de:
+  title: Komponenten-Metaanalyse zu KVT erfordert bei PEM-definiertem ME/CFS eine vorsichtige Einordnung
+  plain_summary: Eine Übersichtsarbeit zu verschiedenen Formen kognitiver Verhaltenstherapie bei chronischer Fatigue lässt sich nicht als Beleg für eine Heilung von ME/CFS lesen, weil ältere Studien oft breite Erschöpfungskriterien nutzten und PEM-Schäden kaum erfassten. Die Arbeit zeigt vor allem, wie stark Falldefinitionen Studienergebnisse prägen.
+  detail: 'Eine Komponenten-Netzwerk-Metaanalyse untersuchte Bestandteile und Durchführungsformen kognitiver Verhaltenstherapie (KVT) bei Chronic Fatigue Syndrome/ME/CFS. Da ein Großteil der älteren KVT-Literatur breitere oder veraltete Fatigue-Kriterien, subjektive Endpunkte und Studiendesigns aus der Zeit vor heutigen PEM-Sicherheitsstandards verwendet, sollten die Befunde nicht dahingehend verallgemeinert werden, KVT sei bei PEM-definiertem ME/CFS heilend oder krankheitsmodifizierend. Ihre Hauptrelevanz liegt hier in der Methodik: Sie verdeutlicht, wie stark Schlussfolgerungen von Falldefinition, Endpunktauswahl und der Frage abhängen, ob Schäden oder verzögerte Verschlechterungen nach Belastung erfasst wurden. Jede psychologische oder verhaltensbezogene Unterstützung bei ME/CFS muss klar von Behauptungen abgegrenzt werden, Symptome würden durch Überzeugungen aufrechterhalten oder feste Aktivitätssteigerungen seien sicher. Die Quelle sollte daher zur Vorsicht beim Studiendesign mahnen
+    und keine Therapieversprechen begründen.'

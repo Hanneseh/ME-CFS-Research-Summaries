@@ -1,0 +1,20 @@
+id: 2024-01-25_amifampridine-case-series-indicates-reduction-in-neuromuscular-f
+date: '2024-01-25'
+date_display: '2024-01-25'
+date_precision: exact
+source_type: paper
+study_design: Case series
+sources:
+- label: Boehmeke 2024, Cureus
+  url: https://doi.org/10.7759/cureus.52935
+  kind: paper
+en:
+  title: Amifampridine case series indicates reduction in neuromuscular fatigue and hypersomnia
+  plain_summary: In a five-person case series of Post-COVID patients, the nerve-muscle drug amifampridine sharply improved daily function scores and reduced excessive sleep, with symptoms returning during blinded placebo pauses in two patients. With only five patients, this early observation cannot establish safety, dosing, or general effectiveness.
+  detail: A case series of five patients with Post-COVID Syndrome, including double-blind discontinuation trials in two participants, showed that the potassium channel blocker amifampridine led to a normalization of daily sleep duration and a significant increase in functional Bell scores (mean rising from 28 to 82). This observation suggests that amifampridine, which increases acetylcholine release at the neuromuscular junction, may target a shared neuromuscular pathway driving profound fatigue and excessive sleep requirements in post-viral syndromes. The recurrence of severe fatigue when active drug was replaced with a placebo during the discontinuation phase strengthens the likelihood of a direct pharmacological effect. However, the study’s extremely small sample size and descriptive nature limit the generalizability of the findings. It does not prove amifampridine’s efficacy or safety in a large, representative clinical trial, nor does it establish optimal dosing guidelines for the broader
+    Long COVID or ME/CFS populations.
+de:
+  title: Amifampridin-Fallserie deutet auf Rückgang von neuromuskulärer Fatigue und Hypersomnie hin
+  plain_summary: In einer Fallserie mit fünf Post-COVID-Betroffenen besserte das Nerven-Muskel-Medikament Amifampridin Alltagsfunktion und übermäßiges Schlafbedürfnis deutlich, wobei Beschwerden bei zwei Personen in verblindeten Absetzpausen zurückkehrten. Bei nur fünf Fällen reicht dies jedoch nicht aus, um Wirksamkeit, Sicherheit oder Dosierung allgemein zu belegen.
+  detail: Eine Fallserie von fünf Patientinnen und Patienten mit Post-COVID-Syndrom, einschließlich doppelt verblindeter Absetzversuche bei zwei Teilnehmenden, zeigte unter dem Kaliumkanalblocker Amifampridin eine Normalisierung der täglichen Schlafdauer sowie einen deutlichen Anstieg der funktionellen Bell-Scores (im Mittel von 28 auf 82). Diese Beobachtung legt nahe, dass Amifampridin – das die Acetylcholin-Freisetzung an der neuromuskulären Endplatte steigert – an einem gemeinsamen neuromuskulären Signalweg ansetzen könnte, der schwerer Fatigue und übermäßigem Schlafbedürfnis bei postviralen Syndromen zugrunde liegt. Die Rückkehr starker Fatigue beim verblindeten Wechsel auf Placebo in der Absetzphase stützt die Annahme eines direkten pharmakologischen Effekts. Aufgrund der extrem kleinen Fallzahl und des deskriptiven Charakters ist die Aussagekraft jedoch stark eingeschränkt; größere kontrollierte Studien sind nötig, um Wirksamkeit, Sicherheit und optimale Dosierung bei Long COVID oder
+    ME/CFS zu belegen.

@@ -1,0 +1,19 @@
+id: 2026-07-22_swiss-observational-study-details-care-access-disparities-and
+date: '2026-07-22'
+date_display: '2026-07-22'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Diem et al. 2026, Healthcare (Basel)
+  url: https://pubmed.ncbi.nlm.nih.gov/42512736/
+  kind: paper
+en:
+  title: Swiss observational study details care access disparities and insurance hurdles in Post-COVID Condition
+  plain_summary: A Swiss study documented long waits for Long COVID clinics, unequal insurance coverage for tests and off-label treatments, and heavy work loss. Because participants were mostly people already seeking specialist care or active in patient groups, it illustrates access barriers rather than whole-country rates.
+  detail: An observational healthcare study published in Healthcare (Basel) evaluated Post-COVID-19 Condition (PCC) pathways within the Swiss medical system, focusing on care delivery bottlenecks, diagnostic delays, and patient burden. The study documented substantial waiting times for specialized post-COVID consultations alongside pronounced disparities in insurance reimbursement approvals for diagnostic workups and off-label symptom management. Affected individuals reported high persistent symptom severity, marked functional impairment, and widespread reduction in working capacity or job loss. Clinically, the study quantifies how structural healthcare fragmentation and administrative barriers exacerbate disease burden, demonstrating that access to multidisciplinary care remains highly unequal even in high-resource healthcare systems. A major limitation is that the survey design was subject to selection bias toward patients actively seeking specialist care or engaged with patient advocacy
+    registries.
+de:
+  title: Schweizer Beobachtungsstudie dokumentiert Zugangsdisparitäten und Versicherungshürden bei Post-COVID-Syndrom
+  plain_summary: Eine Schweizer Studie dokumentierte lange Wartezeiten auf Post-COVID-Sprechstunden, ungleiche Kostenerstattung durch Versicherungen und häufige Erwerbseinbußen. Da vor allem Betroffene mit Facharztkontakt oder aus Patientennetzwerken teilnahmen, beschreibt sie Versorgungsengpässe, keine landesweiten Häufigkeiten.
+  detail: Eine in Healthcare (Basel) veröffentlichte Beobachtungsstudie untersuchte Versorgungspfade beim Post-COVID-19-Syndrom (PCC) im Schweizer Gesundheitssystem mit Fokus auf Engpässen, Diagnoseverzögerungen und Krankheitslast. Dokumentiert wurden erhebliche Wartezeiten auf spezialisierte Post-COVID-Sprechstunden sowie deutliche Unterschiede bei Kostenzusagen der Versicherer für Abklärungen und Off-Label-Symptombehandlungen. Betroffene berichteten über hohe anhaltende Symptomschwere, deutliche Funktionseinschränkungen und verbreitete Arbeitszeitreduktionen oder Arbeitsplatzverluste. Klinisch beziffert die Studie, wie strukturelle Fragmentierung und administrative Hürden die Krankheitslast selbst in ressourcenstarken Gesundheitssystemen verschärfen. Eine wesentliche Einschränkung ist die Selektionsverzerrung der Umfrage hin zu Personen, die aktiv Spezialversorgung suchen oder in Patientenregistern vernetzt sind.

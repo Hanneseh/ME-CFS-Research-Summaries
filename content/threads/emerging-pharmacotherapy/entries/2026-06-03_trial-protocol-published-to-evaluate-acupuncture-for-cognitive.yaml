@@ -1,0 +1,18 @@
+id: 2026-06-03_trial-protocol-published-to-evaluate-acupuncture-for-cognitive
+date: '2026-06-03'
+date_display: '2026-06-03'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Luo et al. 2026, Frontiers in Neurology
+  url: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1793397/pdf
+  kind: paper
+en:
+  title: Trial protocol published to evaluate acupuncture for cognitive function in post-COVID ME/CFS
+  plain_summary: Researchers published the plan for a randomized trial testing real versus sham acupuncture and waitlist care for brain fog and processing speed in 129 post-COVID ME/CFS patients. This paper describes only the study design and reports no patient outcomes yet.
+  detail: A randomized controlled trial protocol published in *Frontiers in Neurology* by Luo et al. outlines the design of a prospective, three-armed trial (NCT07357688) evaluating the efficacy and neural mechanisms of acupuncture in 129 patients with post-COVID ME/CFS and 30 healthy controls. Participants are randomized to verum acupuncture, sham acupuncture (non-penetrating), or waitlist control for 8 weeks (3 sessions/week). The primary outcome is change in information processing speed (Symbol Digit Modalities Test [SDMT]), with secondary outcomes including cognitive batteries and brain metabolites/connectivity measured via fMRI. As a trial protocol, this publication outlines study methodology only and does not report clinical efficacy or safety data.
+de:
+  title: Studienprotokoll zur Prüfung von Akupunktur für kognitive Funktionen bei Post-COVID-ME/CFS veröffentlicht
+  plain_summary: Forschende veröffentlichten den Plan für eine randomisierte Studie, die echte gegen Schein-Akupunktur und Warteliste bei 129 Post-COVID-ME/CFS-Betroffenen hinsichtlich Verarbeitungsgeschwindigkeit und Hirnfunktion prüft. Die Arbeit beschreibt ausschließlich die geplante Methodik und berichtet noch keine Studienergebnisse.
+  detail: Ein in *Frontiers in Neurology* von Luo et al. veröffentlichtes Studienprotokoll beschreibt das Design einer prospektiven, dreiarmigen randomisierten kontrollierten Studie (NCT07357688) zur Untersuchung von Wirksamkeit und neuronalen Mechanismen der Akupunktur bei 129 Patientinnen und Patienten mit Post-COVID-ME/CFS sowie 30 gesunden Kontrollen. Die Teilnehmenden werden über 8 Wochen (3 Sitzungen pro Woche) randomisiert echter Akupunktur, Schein-Akupunktur (ohne Einstich) oder einer Wartelisten-Kontrolle zugeteilt. Primärer Endpunkt ist die Veränderung der Informationsverarbeitungsgeschwindigkeit (Symbol Digit Modalities Test [SDMT]); sekundäre Endpunkte umfassen kognitive Testbatterien sowie mittels fMRT gemessene Hirnmetaboliten und -konnektivität. Als Studienprotokoll stellt diese Publikation ausschließlich die Methodik vor und berichtet noch keine Daten zu Wirksamkeit oder Sicherheit.

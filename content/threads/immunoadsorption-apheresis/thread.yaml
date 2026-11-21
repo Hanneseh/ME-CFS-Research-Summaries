@@ -1,0 +1,91 @@
+slug: immunoadsorption-apheresis
+group: treatments-interventions
+status: active
+evidence_tier: early_clinical
+topics:
+- Treatments & Interventions
+- Immunoadsorption
+- Apheresis
+- H.E.L.P. apheresis
+- Autoantibodies
+- Microclots
+aliases:
+- Immunoadsorption
+- Apheresis
+- H.E.L.P. apheresis
+- RIA
+- Repeat Immunoadsorption
+related_threads:
+- autoimmunity-autoantibodies
+- immune-dysregulation-inflammation
+- daratumumab-plasma-cell-targeting
+legacy_path: treatments-interventions/immunoadsorption-apheresis
+en:
+  title: Immunoadsorption & Apheresis
+  subtitle: A living thread tracking immunoadsorption, H.E.L.P. apheresis, and other extracorporeal blood-filtration therapies for ME/CFS and Long COVID.
+  evidence_label: early clinical observation
+  plain_summary: This thread examines blood-filtration procedures—such as immunoadsorption and H.E.L.P. apheresis—that aim to remove autoantibodies or tiny blood clots from the bloodstream in ME/CFS and Long COVID. Although small uncontrolled reports initially raised hopes, multiple 2026 studies—including the randomized sham-controlled IAMPOCO trial and a Suriname plasmapheresis pilot—found no benefit over sham treatment, while a prospective Rostock study showed autoantibody removal did not improve physical function. Because these procedures are invasive, carry risks such as central-line thrombosis, and lack proven benefit in unselected patients, researchers are now testing whether specific immune subgroups can be identified.
+  takeaway: |-
+    Immunoadsorption and extracorporeal apheresis are blood-filtration therapies investigated for their potential to treat severe Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID. These interventions physically filter pathogenic substances from a patient's circulation—specifically autoantibodies in the case of immunoadsorption, and microclots, fibrinogen, or inflammatory mediators in the case of Heparin-mediated Extracorporeal Low-density lipoprotein Precipitation (H.E.L.P.) apheresis. The primary objective is to restore microvascular blood flow, reduce systemic inflammation, and clear autoantibodies targeting critical cardiovascular and autonomic receptors.
+
+    Clinical interest has been driven by preliminary open-label observational studies showing significant physical and functional improvements in small patient cohorts. Specifically, pilot data suggest that H.E.L.P. apheresis may improve capillary perfusion and resolve symptoms like fatigue and cognitive dysfunction in Long COVID, while open-label immunoadsorption has demonstrated temporary physical and functional improvement in a subset of patients with post-infectious ME/CFS who exhibit elevated autoantibodies targeting G-protein-coupled receptors (GPCRs).
+
+    However, the therapeutic value of these procedures is highly uncertain. Multiple 2026 investigations—including the randomized sham-controlled IAMPOCO trial of immunoadsorption, a sham-controlled pilot of gravity-driven plasmapheresis, and prospective studies tracking objective functional endpoints—found no benefit over sham on their measured outcomes or no measurable functional improvement from baseline. These results show that biomarker clearance does not necessarily translate into recovery; improvements in earlier uncontrolled studies cannot be attributed to the procedure and are consistent with placebo, contextual effects, or natural fluctuation. Small trials have therefore not demonstrated clinical benefit in unselected post-COVID cohorts, but they do not prove that no biomarker-defined subgroup could respond. Candidate immune endotypes—such as subsets distinguished by germinal center versus extrafollicular B-cell activation—have been proposed as an exploratory translational framework for heterogeneous clinical responses, but whether biological patient stratification or selective "precision apheresis" column technologies can identify a responsive subgroup remains an unproven hypothesis requiring prospective, controlled validation.
+  why_it_matters: These extracorporeal therapies target hypothesized vascular and autoimmune pathomechanisms in ME/CFS and Long COVID. By physically removing circulating microclots, fibrinogen, and autoantibodies from the plasma, these procedures address hypothesized drivers of capillary blockages, hypoxia, and autonomic dysfunction. Specifically, targeting GPCR autoantibodies, such as those against the ß2-adrenergic receptor, addresses the autoimmune model of vascular dysregulation in ME/CFS, while removing fibrinogen-rich microclots targets the microthrombosis and endothelial dysfunction model. Investigating these high-complexity interventions helps clarify whether persistent circulating factors are actively maintaining the disease state and provides therapeutic directions that can be refined through subsequent B-cell depletion or targeted anti-coagulant approaches.
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - Extracorporeal apheresis and immunoadsorption techniques can successfully deplete targeted substances—such as fibrinogen, inflammatory cytokines, LDL, and IgG autoantibodies—from circulation during the procedure, though autoantibody titers typically rebound to baseline within 3–6 months.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - Heparin-mediated extracorporeal LDL precipitation (H.E.L.P.) apheresis may resolve severe fatigue, cognitive dysfunction, and perfusion deficits by clearing microclots and improving microcirculation; repeat immunoadsorption (RIA) may temporarily improve physical and functional capacity in a subset of post-COVID ME/CFS patients who have elevated autoantibodies against the ß2-adrenergic receptor; multi-layered immune profiling (e.g., distinguishing germinal center from extrafollicular B-cell signatures) may provide candidate stratification endotypes to explore differential clinical responses.
+  - status: not_established
+    label: Not established
+    items:
+    - True clinical efficacy of immunoadsorption or therapeutic plasma exchange (differentiating active treatment from sham/placebo effects) in post-COVID or ME/CFS cohorts, as multiple 2026 studies—including randomized sham-controlled trials and prospective studies tracking objective functional endpoints (such as 6-minute walk distance, grip strength, spirometry, and wearable step counts)—demonstrate no therapeutic superiority over sham treatment or measurable functional improvement; clinical utility or prospective validity of candidate immune endotypes for predicting apheresis response.
+  - status: limitations
+    label: Key limitations
+    items:
+    - Randomized sham-controlled trials in Long COVID demonstrate substantial within-group symptom improvements in placebo arms, so improvements in open-label apheresis case series cannot by themselves establish treatment efficacy; procedures are highly invasive and resource-intensive, frequently requiring central venous catheterization (in up to 94% of participants) with attendant risks of jugular vein thrombosis and transient profound hypogammaglobulinemia (IgG <3 g/L); severe and bedbound patients have been systematically excluded from recent trials; proposed endotype stratification models derive from preliminary conference abstracts without peer review or reported sample sizes, and their prospective validity remains unverified; clinical trials have historically evaluated unselected patient populations without biomarker-guided stratification, which may mask efficacy within specific immunological subgroups; protocols and patient selection criteria for newer 'precision apheresis' column
+      technologies remain under active investigation.
+  open_questions:
+  - Can multi-layered immune profiling (such as germinal center versus extrafollicular B-cell activation signatures) be prospectively validated in randomized, sham-controlled trials to predict clinical response to immunoadsorption?
+  - Do specific adsorber column chemistries (such as tryptophan versus peptide columns) show differential efficacy or safety across distinct immunological endotypes?
+  - Can less invasive predictive biomarkers identify candidates for extracorporeal therapies without requiring patients to undergo high-burden invasive screening?
+  - Why do autoantibody titers decouple from objective functional performance in unstratified cohorts, and what alternative biological mechanisms govern patient outcomes?
+de:
+  title: Immunadsorption & Apherese
+  subtitle: Ein fortlaufender Überblick über Immunadsorption, H.E.L.P.-Apherese und weitere extrakorporale Blutwäsche-Verfahren bei ME/CFS und Long COVID.
+  evidence_label: frühe klinische Beobachtungen
+  plain_summary: Dieser Bereich untersucht Blutwäsche-Verfahren wie Immunadsorption und H.E.L.P.-Apherese, mit denen Autoantikörper oder Mikrogerinnsel aus dem Blut gefiltert werden sollen. Nachdem kleine unkontrollierte Fallserien anfangs Hoffnungen geweckt hatten, zeigten mehrere Studien aus dem Jahr 2026 – darunter die randomisierte schein-kontrollierte IAMPOCO-Studie und eine Plasmapherese-Pilotstudie – keinen Vorteil gegenüber Scheinbehandlungen, und in Rostock verbesserte sich trotz Antikörper-Entfernung keine objektive Körperfunktion. Da die Verfahren invasiv sind, etwa über zentrale Venenkatheter Thrombosen auslösen können und ein Nutzen bei unausgewählten Patientengruppen nicht belegt ist, bleibt offen, ob künftig definierte Immun-Untergruppen profitieren könnten.
+  takeaway: |-
+    Immunadsorption und extrakorporale Apherese sind Blutreinigungsverfahren, die auf ihr Potenzial bei schwerem ME/CFS und Long COVID untersucht werden. Sie filtern gezielt vermutete krankmachende Bestandteile aus dem Blutkreislauf – bei der Immunadsorption vor allem Autoantikörper, bei der Heparin-induzierten extrakorporalen LDL-Präzipitation (H.E.L.P.-Apherese) unter anderem Mikrogerinnsel, Fibrinogen und Entzündungsmediatoren. Ziel ist es, die Durchblutung kleinster Gefäße wiederherzustellen, systemische Entzündungen zu senken und Autoantikörper gegen zentrale Herz-Kreislauf- und autonome Rezeptoren zu entfernen.
+
+    Klinisches Interesse entstand zunächst durch kleine, offene Beobachtungsstudien mit deutlichen körperlichen und funktionellen Besserungen. So deuteten Pilotdaten darauf hin, dass H.E.L.P.-Apherese die Kapillardurchblutung verbessern und Fatigue sowie kognitive Beschwerden bei Long COVID lindern könnte, während offene Immunadsorptions-Studien bei einem Teil der Betroffenen mit Post-COVID-ME/CFS und erhöhten GPCR-Autoantikörpern eine vorübergehende Funktionsbesserung zeigten.
+
+    Der tatsächliche therapeutische Nutzen dieser Verfahren ist jedoch hochgradig unsicher. Mehrere Untersuchungen aus dem Jahr 2026 – darunter die randomisierte, schein-kontrollierte IAMPOCO-Studie zur Immunadsorption, eine schein-kontrollierte Pilotstudie zur Schwerkraft-Plasmapherese sowie prospektive Studien mit objektiven Funktionsendpunkten – fanden keinen Vorteil gegenüber einer Scheinbehandlung oder keine messbare Funktionsverbesserung gegenüber dem Ausgangswert. Diese Ergebnisse zeigen, dass das Auswaschen von Biomarkern nicht zwangsläufig zu Erholung führt; Besserungen in früheren unkontrollierten Studien lassen sich nicht dem Verfahren zuschreiben und sind mit Placebo-, Kontexteffekten oder natürlichen Schwankungen vereinbar. Kleine Studien belegen daher keinen klinischen Nutzen in unausgewählten Post-COVID-Kohorten, schließen aber umgekehrt auch nicht aus, dass eine über Biomarker definierte Untergruppe ansprechen könnte. Vorgeschlagene Immun-Endotypen – etwa unterschieden nach Keimzentrums- versus extrafollikulärer B-Zell-Aktivierung – dienen als explorativer Rahmen zur Erklärung unterschiedlicher Verläufe; ob biologische Stratifizierung oder selektive „Präzisions-Apherese“-Säulen eine ansprechende Untergruppe identifizieren können, ist jedoch eine unbewiesene Hypothese, die prospektiv und kontrolliert geprüft werden muss.
+  why_it_matters: Diese extrakorporalen Verfahren setzen an vermuteten vaskulären und autoimmunen Krankheitsmechanismen von ME/CFS und Long COVID an. Indem zirkulierende Mikrogerinnsel, Fibrinogen und Autoantikörper physikalisch aus dem Plasma entfernt werden, prüfen sie potenzielle Treiber von Kapillarblockaden, Sauerstoffmangel und autonomer Dysfunktion. Insbesondere das Herausfiltern von GPCR-Autoantikörpern – etwa gegen den β2-adrenergen Rezeptor – testet das Autoimmunmodell der Gefäßfehlregulation bei ME/CFS, während die Entfernung fibrinogener Mikrogerinnsel auf das Modell der Mikrothrombose und Endothelschädigung zielt. Die Erforschung dieser aufwendigen Eingriffe hilft zu klären, ob zirkulierende Faktoren die Erkrankung aktiv aufrechterhalten, und liefert Hinweise für nachgelagerte Ansätze wie B-Zell-Depletion oder gezielte Gerinnungstherapien.
+  state_of_evidence:
+  - status: established
+    label: Gesichert
+    items:
+    - Extrakorporale Apherese- und Immunadsorptionsverfahren können Zielsubstanzen wie Fibrinogen, entzündliche Zytokine, LDL und IgG-Autoantikörper während der Behandlung wirksam aus dem Blutkreislauf entfernen, wobei die Autoantikörper-Titer meist binnen 3–6 Monaten wieder auf das Ausgangsniveau ansteigen.
+  - status: plausible
+    label: Plausibel, aber früh
+    items:
+    - Heparin-induzierte extrakorporale LDL-Präzipitation (H.E.L.P.-Apherese) könnte schwere Fatigue, kognitive Störungen und Durchblutungsdefizite durch Entfernung von Mikrogerinnseln lindern; wiederholte Immunadsorption (RIA) könnte bei einem Teil der Post-COVID-ME/CFS-Betroffenen mit erhöhten Autoantikörpern gegen den β2-adrenergen Rezeptor vorübergehend die körperliche Funktion verbessern; mehrschichtige Immunprofile (etwa Unterscheidung von Keimzentrums- und extrafollikulären B-Zell-Signaturen) könnten als Kandidaten-Endotypen für unterschiedliches Ansprechen dienen.
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Tatsächliche klinische Wirksamkeit von Immunadsorption oder therapeutischem Plasmaaustausch (Abgrenzung von aktiver Behandlung gegenüber Schein-/Placeboeffekten) bei Post-COVID oder ME/CFS, da mehrere Studien aus 2026 – darunter randomisierte schein-kontrollierte Studien und prospektive Untersuchungen mit objektiven Endpunkten (6-Minuten-Gehtest, Handgreifkraft, Spirometrie und Wearable-Schrittzahlen) – keine Überlegenheit gegenüber Scheinbehandlung oder keine messbare Funktionsbesserung zeigten; klinischer Nutzen oder prospektive Gültigkeit vorgeschlagener Immun-Endotypen zur Vorhersage eines Apherese-Ansprechens.
+  - status: limitations
+    label: Wesentliche Einschränkungen
+    items:
+    - Randomisierte schein-kontrollierte Studien bei Long COVID zeigen erhebliche Symptomverbesserungen auch in den Placebo-Armen, sodass Besserungen in offenen Apherese-Fallserien für sich genommen keine Wirksamkeit belegen können; die Verfahren sind stark invasiv und ressourcenintensiv und erfordern häufig zentrale Venenkatheter (bei bis zu 94 % der Teilnehmenden), verbunden mit Risiken wie Jugularvenenthrombosen und vorübergehend ausgeprägter Hypogammaglobulinämie (IgG <3 g/L); schwer kranke und bettlägerige Patientinnen und Patienten wurden aus neueren Studien systematisch ausgeschlossen; vorgeschlagene Endotyp-Modelle stammen aus vorläufigen Konferenz-Abstracts ohne Peer-Review oder Angabe der Stichprobengröße; frühere Studien untersuchten überwiegend unstratifizierte Kohorten ohne Biomarker-Auswahl, was Effekte in immunologischen Untergruppen verdecken könnte; Protokolle und Auswahlkriterien für neuere „Präzisions-Apherese“-Säulentechnologien befinden sich noch in der Entwicklung.
+  open_questions:
+  - Lassen sich mehrschichtige Immunprofile (wie Keimzentrums- versus extrafollikuläre B-Zell-Aktivierungssignaturen) in randomisierten, schein-kontrollierten Studien prospektiv validieren, um das Ansprechen auf Immunadsorption vorherzusagen?
+  - Zeigen bestimmte Adsorber-Säulenchemien (etwa Tryptophan- versus Peptidsäulen) eine unterschiedliche Wirksamkeit oder Sicherheit bei verschiedenen immunologischen Endotypen?
+  - Können weniger invasive prädiktive Biomarker geeignete Kandidatinnen und Kandidaten für extrakorporale Therapien identifizieren, ohne dass belastende invasive Voruntersuchungen nötig sind?
+  - Warum entkoppeln sich Autoantikörper-Titer in unstratifizierten Kohorten von der objektiven körperlichen Leistungsfähigkeit, und welche alternativen biologischen Mechanismen bestimmen die klinischen Verläufe?

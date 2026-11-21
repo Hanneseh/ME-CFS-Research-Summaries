@@ -1,0 +1,18 @@
+id: 2026-07-12_pet-imaging-reveals-striatal-dopamine-system-injury-in
+date: '2026-07-12'
+date_display: '2026-07-12'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Liu et al. 2026, eBioMedicine
+  url: https://doi.org/10.1016/j.ebiom.2026.106339
+  kind: paper
+en:
+  title: PET imaging reveals striatal dopamine system injury in Long COVID
+  plain_summary: A PET scan study reported lower dopamine-terminal signals in deep brain reward and movement centers in Long COVID patients, tracking with reduced motivation, slower movement, and memory issues. Key study details such as sample size were missing from the available summary, so further validation is needed before targeting dopamine.
+  detail: A PET imaging study evaluated vesicular monoamine transporter 2 (VMAT2) binding—an index of dopamine terminal density—in patients with Long COVID compared to healthy controls. The researchers identified significantly lower VMAT2 levels in the striatum of the Long COVID cohort. Localized VMAT2 reductions in the ventral striatum correlated with decreased motivation, while reductions in the dorsal putamen and caudate/putamen linked to slowed motor performance and memory deficits, respectively. However, cohort sizes and statistical metrics are not detailed in the available summary, and further validation is needed to determine the clinical utility of targeting the dopamine system.
+de:
+  title: PET-Bildgebung zeigt Schädigung des striatalen Dopamin-Systems bei Long COVID
+  plain_summary: Eine PET-Studie berichtete über verringerte Dopamin-Nervenend-Signale in tiefen Hirnzentren für Motivation und Bewegung bei Long COVID, verknüpft mit Antriebsverlust, Verlangsamung und Gedächtnisproblemen. Da zentrale Angaben wie Fallzahlen in der vorliegenden Zusammenfassung fehlten, ist eine weitere Validierung erforderlich.
+  detail: Eine PET-Bildgebungsstudie untersuchte die Bindung des vesikulären Monoamintransporters 2 (VMAT2) – ein Maß für die Dichte dopaminerger Nervenendigungen – bei Patientinnen und Patienten mit Long COVID im Vergleich zu gesunden Kontrollen. Die Forschenden fanden signifikant niedrigere VMAT2-Spiegel im Striatum der Long-COVID-Kohorte. Lokalisierte VMAT2-Verringerungen im ventralen Striatum korrelierten mit verminderter Motivation, während Verringerungen im dorsalen Putamen beziehungsweise in Caudatum/Putamen mit verlangsamter Motorik beziehungsweise Gedächtnisdefiziten zusammenhingen. Allerdings waren Kohortengrößen und statistische Kennzahlen in der verfügbaren Zusammenfassung nicht näher aufgeführt, und eine weitere Validierung ist erforderlich, um den klinischen Nutzen einer gezielten Beeinflussung des Dopamin-Systems zu bestimmen.

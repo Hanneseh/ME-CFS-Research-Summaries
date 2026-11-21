@@ -1,0 +1,26 @@
+id: 2025-12-16_coordinated-multi-system-map-links-immune-cell-energy
+date: '2025-12-16'
+date_display: '2025-12-16'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Heng et al. 2025, Cell Reports Medicine
+  url: https://doi.org/10.1016/j.xcrm.2025.102514
+  kind: paper
+en:
+  title: Coordinated multi-system map links immune cell energy stress to vascular dysfunction
+  plain_summary: A multi-omics study of 61 patients and 61 controls found low energy ratios in immune cells alongside immature immune profiles and blood-vessel stress, flagging a 7-marker signature. The marker panel needs external validation and cannot tell which failure comes first.
+  detail: '- **What changed:** A multi-omics study of 61 patients and 61 controls identified severe cellular energy stress (low ATP/ADP ratio, elevated AMP/ADP) in immune cells, coexisting with immature immune cell profiles and vascular endothelial dysfunction.
+
+    - **Why it matters:** This provides a unified biological map showing that metabolic, immune, and vascular systems fail in tandem, and identifies a 7-marker diagnostic signature that predicts ME/CFS with high accuracy.
+
+    - **What it does not prove yet:** The 7-variable model requires validation in independent, external patient cohorts, and the study cannot determine which system''s dysfunction initiates the multi-system collapse.'
+de:
+  title: Koordinierte Mehrsystem-Karte verknüpft Immunzell-Energiestress mit Gefäßdysfunktion
+  plain_summary: Eine Multi-Omics-Studie mit je 61 Betroffenen und Kontrollpersonen fand Energiemangel in Immunzellen zusammen mit Gefäßstress und entwarf ein 7-Marker-Profil. Dieses muss sich erst in unabhängigen Kohorten bewähren und zeigt nicht, was zuerst ausfällt.
+  detail: '- **Was sich gezeigt hat:** Eine Multi-Omics-Studie mit 61 Patientinnen und Patienten sowie 61 Kontrollpersonen identifizierte ausgeprägten zellulären Energiestress (niedriges ATP/ADP-Verhältnis, erhöhtes AMP/ADP) in Immunzellen, einhergehend mit unreifen Immunzellprofilen und vaskulärer Endotheldysfunktion.
+
+    - **Warum das wichtig ist:** Dies liefert eine integrierte biologische Karte, die zeigt, dass Stoffwechsel-, Immun- und Gefäßsystem gemeinsam versagen, und benennt eine 7-Marker-Signatur zur treffsicheren Vorhersage von ME/CFS.
+
+    - **Was damit noch nicht belegt ist:** Das 7-Variablen-Modell muss in unabhängigen externen Patientenkohorten validiert werden, und die Studie kann nicht klären, welches System den Mehrsystem-Kollaps auslöst.'

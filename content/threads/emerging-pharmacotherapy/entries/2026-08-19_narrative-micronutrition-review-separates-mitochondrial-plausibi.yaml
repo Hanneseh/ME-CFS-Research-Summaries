@@ -1,0 +1,18 @@
+id: 2026-08-19_narrative-micronutrition-review-separates-mitochondrial-plausibi
+date: '2026-08-19'
+date_display: '2026-08-19'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Abanades et al. 2026, Nutrients
+  url: https://pubmed.ncbi.nlm.nih.gov/42654282/
+  kind: paper
+en:
+  title: Narrative micronutrition review separates mitochondrial plausibility from clinical efficacy
+  plain_summary: A review examined supplements such as CoQ10, magnesium, NAD+ precursors, and creatine for cellular energy support in ME/CFS and fibromyalgia, finding no completed trial proof in ME/CFS. The authors emphasize that biological plausibility does not justify self-directed mega-dosing, especially given cost, stomach side effects, and pill burden.
+  detail: Abanades et al. review NAD+ precursors, B vitamins, magnesium, CoQ10, alpha-lipoic acid, GlyNAC, L-carnitine, PQQ, taurine, and creatine as possible approaches to mitochondrial and redox dysfunction in ME/CFS and fibromyalgia. This is a non-systematic narrative review with no new patient cohort; the proposed future RCT is in fatigued fibromyalgia, not completed ME/CFS evidence. Oral dosing may avoid exertion, but pill burden, gastrointestinal effects, interactions, cost, and monitoring remain relevant, and severe/bedbound trial representation was not established. Mechanistic plausibility does not support self-directed supplementation or mega-dosing.
+de:
+  title: Narrativer Mikronährstoff-Überblick trennt mitochondriale Plausibilität von klinischer Wirksamkeit
+  plain_summary: Eine Übersichtsarbeit prüfte Nahrungsergänzungsmittel wie CoQ10, Magnesium, NAD+-Vorstufen und Kreatin für den Zellstoffwechsel bei ME/CFS und Fibromyalgie und fand keine abgeschlossenen Wirksamkeitsnachweise für ME/CFS. Biologische Plausibilität rechtfertigt keine unkontrollierte Hochdosis-Einnahme, zumal Kosten, Magen-Darm-Beschwerden und Wechselwirkungen zu beachten sind.
+  detail: Abanades et al. geben einen Überblick über NAD+-Vorstufen, B-Vitamine, Magnesium, CoQ10, Alpha-Liponsäure, GlyNAC, L-Carnitin, PQQ, Taurin und Kreatin als mögliche Ansätze bei mitochondrialer und Redox-Dysfunktion im Rahmen von ME/CFS und Fibromyalgie. Es handelt sich um eine nicht-systematische narrative Übersichtsarbeit ohne neue Patientenkohorte; die vorgeschlagene künftige RCT bezieht sich auf erschöpfte Fibromyalgie-Betroffene und stellt keine abgeschlossene ME/CFS-Evidenz dar. Eine orale Einnahme vermeidet zwar körperliche Belastung, doch bleiben Tablettenlast, gastrointestinale Nebenwirkungen, Wechselwirkungen, Kosten und Überwachungsbedarf relevant, und eine Einbeziehung schwer Betroffener oder Bettlägeriger ist nicht belegt. Mechanistische Plausibilität stützt weder Selbstmedikation noch Megadosierungen.

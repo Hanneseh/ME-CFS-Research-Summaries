@@ -1,0 +1,18 @@
+id: 2026-01-25_retinal-vessel-analysis-documents-systemic-microvascular-remodel
+date: '2026-01-25'
+date_display: '2026-01-25'
+date_precision: exact
+source_type: preprint
+study_design: Cohort study
+sources:
+- label: Wallraven et al. 2026, medRxiv
+  url: https://doi.org/10.1101/2026.01.22.26344661
+  kind: preprint
+en:
+  title: Retinal vessel analysis documents systemic microvascular remodeling and endothelial dysfunction
+  plain_summary: A preprint eye-imaging study found narrower blood vessels and weaker light-triggered vessel dilation in the retinas of people with ME/CFS and Long COVID, tracking with brain-fog severity. The findings are not yet peer-reviewed and cannot show whether similar changes happen across other organs.
+  detail: A prospective, multi-cohort study utilizing Retinal Vessel Analysis (RVA) demonstrated significant structural and functional impairment in the microcirculation of patients with ME/CFS and Post-COVID Syndrome (PCS). Patients showed narrower retinal arterioles and a severely reduced ability of these vessels to dilate in response to flicker-light stimulation, with ME/CFS patients exhibiting the most profound dysfunction. These vascular alterations correlated directly with neurocognitive symptom severity and matched markers of systemic inflammation (IL-6) and iron dysregulation. This establishes RVA as a non-invasive, objective in vivo marker of systemic endothelial dysfunction and thrombo-inflammatory vascular pathology. The study does not prove that retinal microvascular changes reflect identical pathology in other key organ systems, and the findings remain in preprint form awaiting peer review.
+de:
+  title: Retinale Gefäßanalyse dokumentiert systemischen Umbau der Mikrogefäße und Endotheldysfunktion
+  plain_summary: Eine noch nicht begutachtete Preprint-Studie mittels Augenhintergrund-Messung fand verengte Netzhautgefäße und eine abgeschwächte Gefäßerweiterung auf Lichtreize bei ME/CFS und Long COVID. Ob das gleiche Muster auch andere Organe betrifft, bleibt noch offen.
+  detail: Eine prospektive Multikohorten-Studie mittels Retinaler Gefäßanalyse (RVA) dokumentierte deutliche strukturelle und funktionelle Störungen der Mikrozirkulation bei Patientinnen und Patienten mit ME/CFS und Post-COVID-Syndrom (PCS). Betroffene zeigten engere Netzhaut-Arteriolen und eine stark verminderte Gefäßerweiterung auf Flimmerlicht-Stimulation, wobei die ME/CFS-Gruppe die stärkste Einschränkung aufwies. Diese Gefäßveränderungen korrelierten direkt mit der Schwere neurokognitiver Beschwerden sowie mit Markern systemischer Entzündung (IL-6) und gestörten Eisenstoffwechsels. Damit etabliert sich die RVA als nicht-invasiver, objektiver In-vivo-Marker für systemische Endotheldysfunktion und thrombo-inflammatorische Gefäßpathologie. Die Studie beweist jedoch nicht, dass Veränderungen der Netzhautgefäße identische Vorgänge in anderen zentralen Organen widerspiegeln, und liegt bislang als Preprint vor dem Peer-Review vor.

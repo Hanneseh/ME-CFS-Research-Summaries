@@ -1,0 +1,139 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../../layouts/Base.astro";
+import { getSite } from "../../../lib/content";
+import { categoryLabel, t, TERM_CATEGORIES } from "../../../lib/i18n";
+import { normalize } from "../../../lib/render";
+import { LANGS, type Lang } from "../../../lib/types";
+
+export const getStaticPaths = (() => LANGS.map((lang) => ({ params: { lang } }))) satisfies GetStaticPaths;
+
+const lang = Astro.params.lang as Lang;
+const s = t(lang);
+const site = getSite(lang);
+const present = new Set(site.terms.map((x) => x.category));
+const categories = [...Object.keys(TERM_CATEGORIES).filter((c) => present.has(c)), ...[...present].filter((c) => !(c in TERM_CATEGORIES))];
+const tierCounts = new Map<string, number>();
+for (const th of site.threads) tierCounts.set(th.evidenceTier, (tierCounts.get(th.evidenceTier) ?? 0) + 1);
+---
+
+<Base lang={lang} title={s.glossaryTitle} description={s.glossaryLead} subpath="glossary/" active="glossary">
+  <section class="page-head">
+    <div class="wrap narrow">
+      <h1 class="display">{s.glossaryTitle}</h1>
+      <p class="lead">{s.glossaryLead}</p>
+    </div>
+  </section>
+
+  <section class="section section-tight" id="tiers" aria-labelledby="tiers-title">
+    <div class="wrap narrow">
+      <h2 id="tiers-title" class="section-title">{s.tiersTitle}</h2>
+      <p class="section-lead">{s.tiersLead}</p>
+      <ol class="tier-legend">
+        {
+          site.tiers.map((tier, i) => (
+            <li class="tier-row" data-tier={tier.id}>
+              <span class="tier-strength" aria-hidden="true">
+                {site.tiers.map((_, j) => (
+                  <span class:list={["bar", { on: j < site.tiers.length - i }]} />
+                ))}
+              </span>
+              <div>
+                <p class="tier-row-head">
+                  <span class="tier-pill" data-tier={tier.id}>
+                    <span class="dot" aria-hidden="true" />
+                    {tier.short}
+                  </span>
+                  <span class="tier-row-label">{tier.label}</span>
+                  {tierCounts.get(tier.id) ? <span class="muted small num">· {tierCounts.get(tier.id)} {s.statThreads}</span> : null}
+                </p>
+                <p class="tier-row-desc">{tier.description}</p>
+              </div>
+            </li>
+          ))
+        }
+      </ol>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="terms-title">
+    <div class="wrap narrow">
+      <h2 id="terms-title" class="section-title">{s.termsTitle}</h2>
+      <div class="glossary-controls">
+        <label class="search-field">
+          <svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"
+            ><circle cx="8.75" cy="8.75" r="5.75" fill="none" stroke="currentColor" stroke-width="1.7"></circle><path
+              d="m13.25 13.25 4 4"
+              stroke="currentColor"
+              stroke-width="1.7"
+              stroke-linecap="round"></path></svg
+          >
+          <span class="sr-only">{s.termsSearch}</span>
+          <input type="search" data-term-query placeholder={s.termsSearch} autocomplete="off" />
+        </label>
+        <div class="pills" role="group" aria-label={s.termsTitle}>
+          <button type="button" class="pill" data-term-cat="" aria-pressed="true">{s.filterAll}</button>
+          {
+            categories.map((c) => (
+              <button type="button" class="pill" data-term-cat={c} aria-pressed="false">
+                {categoryLabel(c, lang)}
+              </button>
+            ))
+          }
+        </div>
+      </div>
+      <dl class="term-list">
+        {
+          site.terms.map((term) => (
+            <div
+              class="term"
+              id={term.id}
+              data-cat={term.category}
+              data-search={normalize(`${term.term} ${term.fullName} ${term.definitionText}`)}
+            >
+              <dt>
+                <span class="term-name">{term.term}</span>
+                {term.fullName && term.fullName !== term.term && (
+                  <span class="term-full" lang={term.contentLang}>
+                    {term.fullName}
+                  </span>
+                )}
+                <span class="badge">{categoryLabel(term.category, lang)}</span>
+              </dt>
+              <dd lang={term.contentLang} set:html={term.definition} />
+            </div>
+          ))
+        }
+      </dl>
+      <p class="empty-state" data-term-empty hidden>{s.termsEmpty}</p>
+    </div>
+  </section>
+</Base>
+
+<script>
+  import { normalize } from "../../../lib/render";
+
+  const terms = Array.from(document.querySelectorAll<HTMLElement>(".term"));
+  const input = document.querySelector<HTMLInputElement>("[data-term-query]");
+  const empty = document.querySelector<HTMLElement>("[data-term-empty]");
+  const pills = Array.from(document.querySelectorAll<HTMLButtonElement>("[data-term-cat]"));
+  let cat = "";
+  const apply = () => {
+    const words = normalize(input?.value || "").split(" ").filter(Boolean);
+    let n = 0;
+    for (const el of terms) {
+      const ok = (!cat || el.dataset.cat === cat) && words.every((w) => (el.dataset.search || "").includes(w));
+      el.hidden = !ok;
+      if (ok) n++;
+    }
+    if (empty) empty.hidden = n > 0;
+  };
+  input?.addEventListener("input", apply);
+  pills.forEach((p) =>
+    p.addEventListener("click", () => {
+      cat = p.dataset.termCat || "";
+      pills.forEach((x) => x.setAttribute("aria-pressed", String(x === p)));
+      apply();
+    }),
+  );
+</script>

@@ -1,0 +1,18 @@
+id: 2026-08-01_exome-wide-machine-learning-study-identifies-host-genetic
+date: '2026-08-01'
+date_display: '2026-08-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Frontiers in Medicine 2026
+  url: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1837186/full
+  kind: paper
+en:
+  title: Exome-wide machine learning study identifies host genetic risk signatures for Long COVID in an admixed Brazilian cohort
+  plain_summary: An exploratory study used machine learning on protein-coding DNA from a diverse Brazilian group to look for genetic risk patterns in Long COVID. While it helps broaden genetic research beyond European populations, the models need independent replication and have not been tested in confirmed ME/CFS.
+  detail: An exploratory exome-wide machine learning study published in Frontiers in Medicine analyzed host genomic variants in a large, diverse admixed Brazilian cohort to identify genetic susceptibility signatures associated with Long COVID. By applying machine learning classification across exome sequencing data, researchers identified candidate host gene panels associated with post-viral sequelae, extending genetic association research beyond European-ancestry populations. The inclusion of highly admixed cohorts addresses a major geographic and demographic bias in post-infectious genomic literature. However, the study relies on exploratory machine learning algorithms that require independent replication in separate multi-ethnic cohorts. Furthermore, the dataset was derived from Long COVID patients rather than strictly phenotyped ME/CFS cohorts with confirmed post-exertional malaise, so the degree to which these host genetic signatures overlap with classic ME/CFS remains unproven.
+de:
+  title: Exomweite Machine-Learning-Studie identifiziert genetische Wirts-Risikosignaturen für Long COVID in einer gemischten brasilianischen Kohorte
+  plain_summary: Eine explorative Studie nutzte Machine Learning auf Exom-DNA-Daten einer genetisch vielfältigen brasilianischen Gruppe, um Risikomuster für Long COVID zu suchen. Das erweitert die Genforschung über rein europäische Stichproben hinaus, doch müssen die Modelle noch unabhängig bestätigt und an gesichertem ME/CFS geprüft werden.
+  detail: Eine explorative exomweite Machine-Learning-Studie in *Frontiers in Medicine* analysierte genetische Wirtsvarianten in einer großen, vielfältigen gemischten brasilianischen Kohorte, um mit Long COVID assoziierte Empfänglichkeitssignaturen zu ermitteln. Mithilfe von Machine-Learning-Klassifikation über Exom-Sequenzierungsdaten hinweg identifizierten die Forschenden potenzielle Wirtsgen-Panels für postvirale Spätfolgen und dehnten damit die genetische Assoziationsforschung über Populationen europäischer Abstammung hinaus aus. Die Einbeziehung stark gemischter Kohorten adressiert eine wesentliche geografische und demografische Lücke in der postinfektiösen Genomliteratur. Allerdings beruht die Arbeit auf explorativen Machine-Learning-Verfahren, die in unabhängigen multiethnischen Kohorten repliziert werden müssen; zudem stammte der Datensatz von Long-COVID-Betroffenen statt aus streng phänotypisierten ME/CFS-Gruppen mit bestätigter PEM.

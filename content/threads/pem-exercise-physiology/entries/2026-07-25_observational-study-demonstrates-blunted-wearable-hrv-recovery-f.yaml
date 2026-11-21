@@ -1,0 +1,19 @@
+id: 2026-07-25_observational-study-demonstrates-blunted-wearable-hrv-recovery-f
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ruijgt et al. 2026, Sports Medicine
+  url: https://link.springer.com/article/10.1007/s40279-026-02487-4
+  kind: paper
+en:
+  title: Observational study demonstrates blunted wearable HRV recovery following exertion at first ventilatory threshold in Long COVID
+  plain_summary: Wearable monitoring around exercise tests in 121 Long COVID patients and 21 controls showed lower overall heart-rate variability and blunted recovery lasting over 24 hours whenever patients pushed to or above their ventilatory threshold (VT1). This gives objective support for pacing below VT1, though the control group was small and ME/CFS criteria were not separately checked.
+  detail: An observational study published in *Sports Medicine* evaluated continuous multi-day wearable heart rate variability (HRV) in 121 Long COVID patients and 21 healthy controls following cardiopulmonary exercise testing (CPET). Long COVID participants exhibited significantly lower overall HRV during daily activities and sleep compared to controls (p = 0.027). When exercising at or above their individual first ventilatory threshold (VT1), Long COVID patients demonstrated blunted sympathovagal recovery, with HRV suppression persisting for over 24 hours post-exertion (p = 0.010) and significant nighttime HRV reductions (p = 0.018). The study had key limitations, including a relatively small control group and a heterogeneous Long COVID cohort without explicit ME/CFS diagnostic subtyping. Clinically, these findings establish wearable HRV monitoring as an objective method to capture post-exertional autonomic strain and demonstrate that exertion at or above VT1 induces prolonged physiological
+    stress, reinforcing the rationale for pacing below VT1.
+de:
+  title: Beobachtungsstudie belegt gedämpfte Wearable-HRV-Erholung nach Belastung an der ersten ventilatorischen Schwelle bei Long COVID
+  plain_summary: Wearable-Messungen rund um Belastungstests bei 121 Long-COVID-Betroffenen und 21 Kontrollen zeigten eine niedrigere Herzfrequenzvariabilität und eine über mehr als 24 Stunden gestörte Erholung nach Erreichen der ersten ventilatorischen Schwelle (VT1). Dies stützt objektiv das Pacing unterhalb von VT1, auch wenn die Kontrollgruppe klein war und keine getrennte ME/CFS-Prüfung erfolgte.
+  detail: Eine Beobachtungsstudie in *Sports Medicine* untersuchte über mehrere Tage kontinuierliche Wearable-Werte der Herzfrequenzvariabilität (HRV) bei 121 Long-COVID-Patientinnen und -Patienten sowie 21 gesunden Kontrollen nach einer Spiroergometrie (CPET). Long-COVID-Teilnehmende wiesen im Vergleich zu Kontrollen sowohl im Alltag als auch im Schlaf eine signifikant niedrigere Gesamt-HRV auf (*p* = 0,027). Bei Belastung an oder oberhalb ihrer individuellen ersten ventilatorischen Schwelle (VT1) zeigten Long-COVID-Betroffene eine abgeflachte sympathovagale Erholung mit anhaltender HRV-Unterdrückung über mehr als 24 Stunden (*p* = 0,010) und deutlichen nächtlichen HRV-Absenkungen (*p* = 0,018). Wichtige Einschränkungen sind die kleine Kontrollgruppe und eine heterogene Long-COVID-Kohorte ohne ausdrückliche ME/CFS-Subtypisierung; klinisch unterstreichen die Daten jedoch den Nutzen von HRV-Monitoring und das Prinzip des Pacings unterhalb von VT1.

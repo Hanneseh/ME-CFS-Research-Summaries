@@ -1,0 +1,20 @@
+id: 2023-10-09_observational-study-of-repeat-immunoadsorption-shows-physical-im
+date: '2023-10-09'
+date_display: '2023-10-09'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Stein et al. 2023, Journal of Clinical Medicine
+  url: https://doi.org/10.3390/jcm12196428
+  kind: paper
+en:
+  title: Observational study of repeat immunoadsorption shows physical improvement in post-COVID ME/CFS
+  plain_summary: In a small observational study without a placebo group, 7 of 10 post-COVID ME/CFS patients with elevated autoantibodies improved physically after five immunoadsorption blood-washing sessions. However, subjective fatigue scores did not change significantly, antibody drops did not match who improved, and later sham-controlled trials found no advantage over sham treatment.
+  detail: An interim report of a prospective observational study in 10 post-COVID ME/CFS patients with elevated ß2-adrenergic receptor autoantibodies showed that 7 patients achieved clinically significant improvements in physical function (as measured by SF-36 scores) four weeks after receiving five immunoadsorption sessions over 10 days. The treatment successfully depleted the targeted autoantibodies in all patients, though these levels began to rise again within four weeks. This study provides early clinical evidence supporting the role of autoantibodies—specifically those targeting GPCRs like the ß2-adrenergic receptor—in the pathogenesis of post-infectious ME/CFS. The physical and functional improvement in responders suggests that clearing these antibodies from circulation may help restore normal vascular and autonomic function. However, the study does not establish definitive therapeutic efficacy or confirm that autoantibody removal is the primary driver of recovery. There was no correlation
+    between the extent of autoantibody reduction and the degree of clinical improvement, suggesting other mechanism-of-action pathways (such as B-cell modulation) may be responsible. Furthermore, the study lacked a control or sham-apheresis group, was limited to a very small cohort, and showed no significant change in patients' subjective fatigue scores.
+de:
+  title: Beobachtungsstudie zu wiederholter Immunadsorption zeigt körperliche Besserung bei Post-COVID-ME/CFS
+  plain_summary: In einer kleinen Beobachtungsstudie ohne Placebogruppe besserten sich 7 von 10 Post-COVID-ME/CFS-Betroffenen mit erhöhten Autoantikörpern nach fünf Immunadsorptions-Sitzungen körperlich. Allerdings veränderten sich die subjektiven Fatigue-Werte nicht signifikant, das Ausmaß der Antikörperabsenkung korrelierte nicht mit der Besserung, und spätere schein-kontrollierte Studien zeigten keinen Vorteil.
+  detail: 'Ein Zwischenbericht einer prospektiven Beobachtungsstudie an 10 Post-COVID-ME/CFS-Betroffenen mit erhöhten Autoantikörpern gegen den β2-adrenergen Rezeptor zeigte, dass 7 Personen vier Wochen nach fünf Immunadsorptions-Sitzungen innerhalb von 10 Tagen klinisch relevante Verbesserungen der körperlichen Funktion (im SF-36) erreichten. Die Behandlung senkte die Ziel-Autoantikörper bei allen Behandelten deutlich, wenngleich die Werte innerhalb von vier Wochen wieder anzusteigen begannen. Die Studie lieferte frühe Hinweise auf eine mögliche Rolle von Autoantikörpern – insbesondere gegen GPCR-Rezeptoren wie den β2-adrenergen Rezeptor – bei postinfektiösem ME/CFS. Dennoch belegt die Untersuchung keine gesicherte Wirksamkeit und bestätigt nicht, dass die Antikörperentfernung selbst die Erholung antreibt: Das Ausmaß der Antikörpersenkung korrelierte nicht mit dem Grad der klinischen Besserung, was auf andere Mechanismen (etwa B-Zell-Modulation) hindeutet. Zudem fehlte eine Kontroll- oder
+    Scheingruppe, die Kohorte war sehr klein, und die subjektiven Fatigue-Scores veränderten sich nicht signifikant.'

@@ -1,0 +1,20 @@
+id: 2026-03-02_preprint-demonstrates-microbiota-derived-extracellular-vesicles
+date: '2026-03-02'
+date_display: '2026-03-02'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Aranguren et al. 2026, bioRxiv (preprint)
+  url: https://doi.org/10.64898/2026.02.28.708602
+  kind: preprint
+en:
+  title: Preprint demonstrates microbiota-derived extracellular vesicles activate microglia and impair gut barrier
+  plain_summary: In a non-peer-reviewed preprint, tiny packets released by gut microbes from Long COVID patients damaged gut-lining models and triggered inflammation in mouse and lab-grown brain immune cells. This suggests a way gut changes might signal to the brain, but mouse dosing may not mirror human illness and ME/CFS patients were not directly compared.
+  detail: Aranguren et al. conducted a multi-model mechanistic study, transplanting Long COVID microbiota into germ-free mice and isolating the gut microbiota-derived extracellular vesicles (GMEVs) from Long COVID patients for direct testing on human iPSC-derived microglia and macrophages. GMEVs alone were sufficient to impair intestinal barrier integrity, trigger pro-inflammatory responses in immune cells, and induce neuroimmune activation and systemic inflammation in mice following oral administration—establishing them as functional mediators of the gut-brain signalling axis rather than passive byproducts of dysbiosis. This positions GMEV composition and abundance as potential therapeutic targets and opens a rationale for interventions that reduce dysbiosis-driven vesicle production. The study is a preprint and has not completed peer review; the mouse oral-administration model may not replicate the route or dose of GMEV exposure occurring in human patients, and whether GMEV profiles differ
+    between ME/CFS and Long COVID with ME/CFS phenotype has not been directly compared.
+de:
+  title: 'Preprint zeigt: Von der Mikrobiota stammende extrazelluläre Vesikel aktivieren Mikroglia und schädigen die Darmbarriere'
+  plain_summary: In einem noch nicht begutachteten Preprint schädigten winzige Bläschen aus Darmmikroben von Long-COVID-Betroffenen Darmbarriere-Modelle und lösten bei Mäusen sowie im Labor gezüchteten Hirn-Immunzellen Entzündungen aus. Das zeigt einen möglichen Signalweg vom Darm ins Gehirn, doch entspricht die Maus-Dosierung nicht zwingend der Situation beim Menschen, und ME/CFS-Betroffene wurden nicht direkt verglichen.
+  detail: Aranguren et al. führten eine mechanistische Multi-Modell-Studie durch, in der Long-COVID-Mikrobiota in keimfreie Mäuse transplantiert und von der Darmmikrobiota stammende extrazelluläre Vesikel (GMEVs) von Long-COVID-Betroffenen für direkte Tests an humanen iPSC-abgeleiteten Mikroglia und Makrophagen isoliert wurden. GMEVs allein reichten aus, um die Integrität der Darmbarriere zu beeinträchtigen, entzündungsfördernde Reaktionen in Immunzellen auszulösen und nach oraler Gabe bei Mäusen eine neuroimmune Aktivierung sowie systemische Entzündung hervorzurufen – was sie als funktionelle Vermittler der Darm-Hirn-Signalachse statt als bloße Nebenprodukte der Dysbiose ausweist. Damit rücken Zusammensetzung und Menge von GMEVs als potenzielle Therapieziele in den Blick und begründen Ansätze zur Verringerung dysbiosegetriebener Vesikelbildung. Die Studie ist ein Preprint und hat das Peer-Review noch nicht abgeschlossen; das Modell der oralen Gabe bei Mäusen bildet möglicherweise weder
+    den Weg noch die Dosis der GMEV-Exposition beim Menschen ab, und ein direkter Vergleich der GMEV-Profile zwischen ME/CFS und Long COVID mit ME/CFS-Phänotyp erfolgte nicht.

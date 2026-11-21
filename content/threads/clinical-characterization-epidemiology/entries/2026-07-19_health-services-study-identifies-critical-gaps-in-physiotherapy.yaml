@@ -1,0 +1,19 @@
+id: 2026-07-19_health-services-study-identifies-critical-gaps-in-physiotherapy
+date: '2026-07-19'
+date_display: '2026-07-19'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Physiotherapy capacity study 2026, Respiratory Medicine
+  url: https://www.sciencedirect.com/science/article/pii/S0954611126004099
+  kind: paper
+en:
+  title: Health services study identifies critical gaps in physiotherapy workforce capacity for Long COVID
+  plain_summary: A survey of physiotherapy services found widespread gaps in training to spot PEM, orthostatic intolerance, and safe pacing limits in Long COVID care. It highlights a training gap that risks harmful exercise prescriptions rather than testing patient outcomes.
+  detail: 'A health services research study published in Respiratory Medicine evaluated physiotherapy workforce knowledge, institutional readiness, and service capacity for delivering post-COVID rehabilitation care. The assessment identified widespread gaps in physiotherapist training regarding post-exertional malaise (PEM) recognition, orthostatic intolerance screening, and physiological pacing limits. Clinically, these findings highlight a critical risk in current care delivery: without guideline-aligned education, routine exercise-based rehabilitation (such as graded exercise therapy) may be inappropriately prescribed, triggering severe post-exertional relapses in Long COVID and ME/CFS patients. The study underscores the urgent necessity of integrating post-viral exertional physiology into professional physical therapy curricula and clinical service planning. The investigation relied on workforce surveys and health service capacity metrics, and did not prospectively track clinical patient
+    outcomes under modified pacing protocols.'
+de:
+  title: Versorgungsstudie identifiziert gravierende Lücken in der physiotherapeutischen Kompetenz bei Long COVID
+  plain_summary: Eine Erhebung zur physiotherapeutischen Versorgung zeigte verbreitete Ausbildungslücken beim Erkennen von PEM, orthostatischer Intoleranz und sicheren Pacing-Grenzen bei Long COVID. Die Arbeit weist auf das Risiko falscher Bewegungsempfehlungen hin, untersucht aber keine Therapieverläufe bei Betroffenen.
+  detail: 'Eine in Respiratory Medicine veröffentlichte Studie der Versorgungsforschung untersuchte Fachwissen, institutionelle Vorbereitung und Versorgungskapazitäten in der Physiotherapie für Post-COVID-Rehabilitation. Die Auswertung zeigte verbreitete Lücken in der Fortbildung zu Erkennung von Post-Exertional Malaise (PEM), Screening auf orthostatische Intoleranz und physiologischen Pacing-Grenzen. Klinisch weist dies auf ein zentrales Risiko in der Regelversorgung hin: Ohne leitliniengerechte Schulung können routinemäßige Trainingstherapien (wie abgestufte Aktivierung) verordnet werden und schwere Verschlechterungen nach Belastung bei Long COVID und ME/CFS auslösen. Die Studie unterstreicht die Dringlichkeit, postvirale Belastungsphysiologie in Ausbildungscurricula und Versorgungsplanung aufzunehmen; sie stützte sich auf Befragungen von Fachkräften und Kapazitätsdaten und begleitete keine Patientenverläufe unter angepasstem Pacing.'

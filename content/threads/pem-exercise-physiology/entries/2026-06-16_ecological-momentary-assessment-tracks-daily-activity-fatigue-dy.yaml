@@ -1,0 +1,20 @@
+id: 2026-06-16_ecological-momentary-assessment-tracks-daily-activity-fatigue-dy
+date: '2026-06-16'
+date_display: '2026-06-16'
+date_precision: exact
+source_type: report
+study_design: null
+sources:
+- label: Bogaerts et al. 2026, UHasselt Document Server
+  url: https://documentserver.uhasselt.be/handle/1942/49628
+  kind: other
+en:
+  title: Ecological momentary assessment tracks daily activity-fatigue dynamics in ME/CFS
+  plain_summary: A 7-day smartphone-prompt study in 109 ME/CFS patients found far higher daily fatigue at rest and after activities than in controls, and daily fatigue patterns did not match short 4-hour lab bike tests. While enjoyable activities briefly softened same-moment tiredness, enjoyment does not replace pacing or stop delayed PEM.
+  detail: An ecological momentary assessment (EMA) study presented at EAPM 2026 tracked 109 ME/CFS patients and 55 healthy controls using a 7-day experience sampling protocol with 8 random prompts per day. ME/CFS participants demonstrated significantly higher momentary physical fatigue both at rest and after activity compared to healthy controls (p < 0.001). While activity-triggered fatigue increases were similar across both groups, higher activity enjoyment uniquely buffered concurrent physical fatigue in ME/CFS. Notably, individual daily-life EMA activity-fatigue slopes did not correlate with laboratory-based 4-hour post-cycling PEM recovery trajectories. Methodologically, the study relied on a conference proceedings abstract and measured binary activity preceding each prompt rather than duration or intensity, introducing potential zero-inflation. Patient-wise, these findings suggest that while positive engagement may temporarily buffer momentary exertion-related fatigue, subjective activity
+    enjoyment does not substitute for physiological pacing or prevent delayed post-exertional malaise.
+de:
+  title: Ecological Momentary Assessment verfolgt tägliche Aktivitäts-Fatigue-Dynamiken bei ME/CFS
+  plain_summary: Eine 7-tägige Alltagsbefragung per Smartphone bei 109 ME/CFS-Betroffenen zeigte deutlich stärkere Fatigue in Ruhe und nach Aktivität als bei Kontrollen und stimmte nicht mit kurzen 4-Stunden-Labortests überein. Angenehme Aktivitäten milderten zwar kurzzeitig das momentane Erschöpfungsgefühl, ersetzen aber kein Pacing und verhindern kein verzögertes PEM.
+  detail: Eine auf der EAPM 2026 vorgestellte Ecological-Momentary-Assessment-(EMA)-Studie begleitete 109 ME/CFS-Patientinnen und -Patienten sowie 55 gesunde Kontrollen mit einem siebentägigen Protokoll und acht zufälligen Abfragen pro Tag. ME/CFS-Teilnehmende zeigten sowohl in Ruhe als auch nach Aktivität eine signifikant höhere momentane körperliche Fatigue als gesunde Kontrollen (*p* < 0,001). Während aktivitätsbedingte Fatigue-Anstiege in beiden Gruppen ähnlich ausfielen, pufferte höhere Freude an einer Aktivität die gleichzeitige körperliche Fatigue bei ME/CFS leicht ab. Bemerkenswerterweise korrelierten die alltäglichen EMA-Verläufe zwischen Aktivität und Fatigue nicht mit den 4-Stunden-Erholungskurven nach einem Fahrradtest im Labor. Da die Arbeit auf einem Konferenz-Abstract beruht und vorausgehende Aktivität nur binär ohne Dauer oder Intensität erfasste, bleiben methodische Grenzen bestehen; für Betroffene gilt, dass Freude an einer Tätigkeit physiologisches Pacing nicht ersetzt
+    und verzögertes PEM nicht abwendet.

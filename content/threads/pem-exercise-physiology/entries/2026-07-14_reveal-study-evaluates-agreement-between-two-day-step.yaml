@@ -1,0 +1,18 @@
+id: 2026-07-14_reveal-study-evaluates-agreement-between-two-day-step
+date: '2026-07-14'
+date_display: '2026-07-14'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Bomans et al. 2026, PLOS ONE
+  url: https://pubmed.ncbi.nlm.nih.gov/42447127
+  kind: paper
+en:
+  title: REVEAL-study evaluates agreement between two-day step test and two-day CPET
+  plain_summary: In 25 post-COVID patients, a lighter two-day 6-minute step test matched subjective fatigue changes reasonably well, but agreed poorly with gold-standard two-day CPET on oxygen uptake and muscle measurements. As a small pilot study, it shows step tests cannot yet replace formal CPET.
+  detail: A crossover study (n = 25) evaluated the level of agreement and reliability between a two-day 6-minute incremental step test (6MIST) using wireless wearable sensors and a two-day cardiopulmonary exercise test (CPET) for assessing post-exertional malaise (PEM) in patients with post-COVID-19 condition. The two-day 6MIST demonstrated limited overall agreement with the gold-standard CPET, showing low reliability and agreement for objective VO2peak and neuromuscular complaints, which suggests the 6MIST cannot yet replace CPET. However, the study observed moderate reliability between the two tests for rated perceived exertion at all times and for changes in subjective fatigue after 24 hours. These findings highlight the difficulty of finding less burdensome alternatives to the two-day CPET, with the study constrained by its small cohort size and requiring further protocol refinement to optimize PEM assessment.
+de:
+  title: REVEAL-Studie prüft Übereinstimmung zwischen zweitägigem Stufentest und zweitägigem CPET
+  plain_summary: Bei 25 Post-COVID-Betroffenen bildete ein zweitägiger 6-Minuten-Stufentest zwar das Belastungs- und Fatigue-Empfinden nach 24 Stunden mäßig gut ab, stimmte bei Sauerstoffaufnahme und Muskelwerten aber schlecht mit dem zweitägigen CPET überein. Ein Stufentest kann den Standard-CPET derzeit also noch nicht ersetzen.
+  detail: Eine Crossover-Studie (*n* = 25) untersuchte Übereinstimmung und Verlässlichkeit zwischen einem zweitägigen 6-Minuten-Stufentest (6MIST) mit drahtlosen Wearable-Sensoren und einer zweitägigen Spiroergometrie (CPET) zur Beurteilung von PEM bei Post-COVID-Syndrom. Der zweitägige 6MIST zeigte insgesamt nur eine begrenzte Übereinstimmung mit dem Goldstandard CPET, mit geringer Verlässlichkeit für objektive VO2peak-Werte und neuromuskuläre Beschwerden – er kann den CPET daher noch nicht ersetzen. Moderate Übereinstimmung fand sich jedoch beim empfundenen Anstrengungsgrad (RPE) sowie bei Veränderungen der subjektiven Fatigue nach 24 Stunden. Die Befunde verdeutlichen die Schwierigkeit, weniger belastende Alternativen zum zweitägigen CPET zu entwickeln, wobei die kleine Stichprobe weitere Protokollanpassungen nötig macht.

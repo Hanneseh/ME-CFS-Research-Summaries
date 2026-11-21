@@ -1,0 +1,20 @@
+id: 2026-08-05_impacc-cohort-of-1-154-patients-maps-multi
+date: '2026-08-05'
+date_display: '2026-08-05'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: Maguire et al. 2026, Nature
+  url: https://doi.org/10.1038/s41586-026-10740-z
+  kind: paper
+en:
+  title: IMPACC cohort of 1,154 patients maps multi-viral reactivation in acute and long COVID
+  plain_summary: A major Nature study of 1,154 hospitalized COVID-19 patients found that nearly half experienced reactivation of dormant DNA viruses during acute illness, and lingering anelloviruses tracked with long-term fatigue. Because all participants were sick enough to be hospitalized, it is uncertain how well this applies to mild infections or non-COVID ME/CFS.
+  detail: A multi-center longitudinal cohort study published in _Nature_ by the IMPACC Network analyzed multi-omic profiles across 1,154 hospitalized COVID-19 patients followed for up to 12 months. The researchers identified widespread acute reactivation of latent DNA viruses—predominantly Herpesviridae (EBV, CMV, HSV-1, HHV-6) and Anelloviridae—in nearly half of the cohort during acute infection, demonstrating that viral awakening occurs frequently even in immunocompetent individuals with acute systemic inflammation. This acute multi-viral reactivation correlated with hyper-inflammatory cytokine production (IL-6, CXCL10, TNF), elevated CD4+ and CD8+ T-cell activation, and clinical severity independent of initial SARS-CoV-2 viral load. Furthermore, during long-term convalescence at three or more months post-infection, persistent anellovirus detection remained significantly associated with ongoing Long COVID physical impairment and chronic fatigue. However, because the study investigated
+    a hospitalized acute cohort that included severely ill inpatients, these findings may not fully generalize to non-hospitalized mild-onset Long COVID or non-COVID ME/CFS. Additionally, the study was observational and did not administer formal ME/CFS diagnostic criteria or CPET verification, establishing strong statistical and immunophenotypic correlations rather than direct singular causation.
+de:
+  title: IMPACC-Kohorte mit 1.154 Patientinnen und Patienten kartiert Multi-Virus-Reaktivierung bei akutem und Long COVID
+  plain_summary: Eine große *Nature*-Studie an 1.154 hospitalisierten COVID-19-Patienten fand bei fast der Hälfte während der Akutphase eine Reaktivierung ruhender DNA-Viren; anhaltende Anelloviren hingen später mit längerer Erschöpfung zusammen. Da alle Teilnehmenden im Krankenhaus lagen, ist ungewiss, wie stark dies auf milde Verläufe oder klassisches ME/CFS übertragbar ist.
+  detail: Eine multizentrische Längsschnittstudie des IMPACC-Netzwerks in *Nature* analysierte Multi-Omics-Profile von 1.154 wegen COVID-19 hospitalisierten Patientinnen und Patienten über bis zu 12 Monate. Die Forschenden fanden während der Akutinfektion bei fast der Hälfte der Kohorte eine breite Reaktivierung latenter DNA-Viren – vor allem Herpesviridae (EBV, CMV, HSV-1, HHV-6) und Anelloviridae –, was zeigt, dass ein solches Wiedererwachen selbst bei immunkompetenten Personen unter akuter Entzündung häufig auftritt. Diese akute Multi-Virus-Reaktivierung korrelierte unabhängig von der anfänglichen SARS-CoV-2-Viruslast mit starker Zytokinbildung (IL-6, CXCL10, TNF), CD4+- und CD8+-T-Zell-Aktivierung sowie der Krankheitsschwere; drei oder mehr Monate später blieb ein anhaltender Anellovirus-Nachweis signifikant mit Long-COVID-Einschränkungen und chronischer Erschöpfung verknüpft. Da jedoch nur stationär behandelte Akutpatienten untersucht und weder formale ME/CFS-Kriterien noch CPET eingesetzt
+    wurden, lassen sich die korrelativen Befunde nicht ohne Weiteres auf milde Verläufe oder Nicht-COVID-ME/CFS übertragen.

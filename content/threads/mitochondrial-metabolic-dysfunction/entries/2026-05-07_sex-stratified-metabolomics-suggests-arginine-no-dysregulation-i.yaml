@@ -1,0 +1,19 @@
+id: 2026-05-07_sex-stratified-metabolomics-suggests-arginine-no-dysregulation-i
+date: '2026-05-07'
+date_display: '2026-05-07'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: Pipper-Krampl 2026, International ME/CFS Conference video
+  url: https://youtu.be/z08MPA2CABw
+  kind: video
+en:
+  title: Sex-stratified metabolomics suggests arginine-NO dysregulation in male ME/CFS patients
+  plain_summary: Conference metabolomics data from the UK ME/CFS Biobank found altered arginine and polyamine pathways in male patients, but not in females. It highlights biological subgroups within ME/CFS, though it is not yet clear whether this is a true sex difference or sample-size effect.
+  detail: At the International ME/CFS Conference 2026 in Berlin, Cornelia Pipper-Krampl presented a sex-stratified metabolomic analysis from the UK ME/CFS Biobank focused on arginine- and polyamine-related metabolites. The male ME/CFS subgroup showed increased arginine, homoarginine, and spermidine with reduced citrulline, while the female subgroup did not show significant differences in this targeted analysis. This pattern is consistent with altered arginine handling away from nitric oxide production and toward polyamine metabolism, which could matter for both vascular regulation and cellular energy stress. The finding is useful because it points to biological heterogeneity inside the ME/CFS label rather than assuming a single uniform metabolic signature. It does not yet show whether the apparent male-specific signal reflects a true sex difference, a power issue in the female subgroup, or a broader subgroup effect that needs replication.
+de:
+  title: Geschlechtsstratifizierte Metabolomik deutet auf Arginin-NO-Fehlregulation bei männlichen ME/CFS-Patienten hin
+  plain_summary: Konferenzdaten aus der britischen ME/CFS-Biobank fanden bei männlichen Patienten verschobene Arginin- und Polyamin-Stoffwechselwege, nicht jedoch bei weiblichen. Ob ein echter Geschlechtsunterschied oder ein Stichprobeneffekt vorliegt, muss noch repliziert werden.
+  detail: Auf der International ME/CFS Conference 2026 in Berlin präsentierte Cornelia Pipper-Krampl eine geschlechtsstratifizierte Metabolom-Analyse aus der UK ME/CFS Biobank mit Fokus auf Arginin- und Polyamin-bezogene Metaboliten. Die männliche ME/CFS-Untergruppe zeigte erhöhte Werte für Arginin, Homoarginin und Spermidin bei verringertem Citrullin, während die weibliche Untergruppe in dieser gezielten Analyse keine signifikanten Unterschiede aufwies. Dieses Muster passt zu einer Verlagerung des Argininstoffwechsels weg von der Stickstoffmonoxid-Bildung hin zum Polyamin-Stoffwechsel, was sowohl für Gefäßregulation als auch zellulären Energiestress relevant sein könnte. Der Befund ist wertvoll, weil er auf biologische Vielfalt innerhalb der Diagnose ME/CFS hinweist statt von einer einzigen einheitlichen Stoffwechselsignatur auszugehen. Er klärt jedoch noch nicht, ob das scheinbar männerspezifische Signal einen echten Geschlechtsunterschied, ein statistisches Power-Problem bei Frauen oder
+    einen replikationsbedürftigen Subgruppeneffekt darstellt.

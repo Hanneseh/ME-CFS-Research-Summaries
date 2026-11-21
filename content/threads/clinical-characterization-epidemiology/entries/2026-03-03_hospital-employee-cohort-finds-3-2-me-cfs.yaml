@@ -1,0 +1,19 @@
+id: 2026-03-03_hospital-employee-cohort-finds-3-2-me-cfs
+date: '2026-03-03'
+date_display: '2026-03-03'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Tack et al. 2026, Medicina (MDPI)
+  url: https://doi.org/10.3390/medicina62030480
+  kind: paper
+en:
+  title: Hospital employee cohort finds 3.2% ME/CFS incidence after COVID-19, with EBV reactivation and autoantibodies
+  plain_summary: Among 221 hospital staff tracked after COVID-19, 3.2% met strict ME/CFS criteria, often alongside signs of reactivated Epstein-Barr virus and autoantibodies. Because it studied a small, single-hospital staff group, the rate may not match the general public.
+  detail: A prospective cohort of 221 hospital employees who tested positive for SARS-CoV-2 between 2020 and 2021 was followed to assess the rate of ME/CFS development. Among those with persistent fatigue, 11.8 percent of the total cohort qualified, and formal ME/CFS criteria (Canadian Consensus Criteria) were met by 3.2 percent. Laboratory findings showed possible Epstein-Barr virus reactivation in over 86 percent of fatigue cases and elevated anti-GPCR autoantibodies in 66.6 percent of participants assessed. The study's occupational health design gives it a defined source cohort, which avoids the referral bias typical of clinic-based incidence estimates, but the final assessed group was small and drawn from a single hospital system. The 3.2 percent ME/CFS incidence figure is best understood as a lower-bound estimate in a healthcare worker population with access to diagnostic evaluation; true population-level rates may differ.
+de:
+  title: Klinikpersonal-Kohorte findet 3,2 % ME/CFS-Inzidenz nach COVID-19 mit EBV-Reaktivierung und Autoantikörpern
+  plain_summary: Unter 221 nach COVID-19 beobachteten Klinikbeschäftigten erfüllten 3,2 % strenge ME/CFS-Kriterien, häufig begleitet von Hinweisen auf eine EBV-Reaktivierung und Autoantikörper. Da die untersuchte Gruppe klein war und aus nur einem Kliniksystem stammte, lässt sich die Rate nicht direkt auf die Allgemeinbevölkerung übertragen.
+  detail: Eine prospektive Kohorte von 221 Klinikbeschäftigten, die zwischen 2020 und 2021 positiv auf SARS-CoV-2 getestet wurden, wurde nachbeobachtet, um die Häufigkeit einer ME/CFS-Entwicklung zu bestimmen. Von den Personen mit anhaltender Fatigue – insgesamt 11,8 Prozent der Gesamtkohorte – erfüllten 3,2 Prozent formale ME/CFS-Kriterien nach den Kanadischen Konsenskriterien. Laboruntersuchungen zeigten Hinweise auf eine mögliche Epstein-Barr-Virus-Reaktivierung bei über 86 Prozent der Fatigue-Fälle sowie erhöhte Anti-GPCR-Autoantikörper bei 66,6 Prozent der untersuchten Teilnehmenden. Das betriebsärztliche Design bietet eine klar definierte Ausgangskohorte und vermeidet die Überweisungsverzerrung typischer Spezialambulanzen; allerdings war die letztlich untersuchte Gruppe klein und stammte aus einem einzigen Klinikverbund. Die Inzidenz von 3,2 Prozent ist am ehesten als untere Schätzung in einer Belegschaft des Gesundheitswesens mit Zugang zu Diagnostik zu verstehen; die tatsächlichen
+    Raten in der Allgemeinbevölkerung können abweichen.

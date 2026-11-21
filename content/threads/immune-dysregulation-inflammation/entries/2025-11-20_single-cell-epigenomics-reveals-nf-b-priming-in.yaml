@@ -1,0 +1,18 @@
+id: 2025-11-20_single-cell-epigenomics-reveals-nf-b-priming-in
+date: '2025-11-20'
+date_display: '2025-11-20'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Iu et al. 2025, The Journal of Immunology
+  url: https://doi.org/10.1093/jimmun/vkaf283.2434
+  kind: paper
+en:
+  title: Single-cell epigenomics reveals NF-κB priming in a distinct monocyte subset driving post-exertional inflammation
+  plain_summary: Single-cell testing before and during post-exertional malaise (PEM) found a subset of immune cells (monocytes) epigenetically primed to switch on inflammation via the NF-κB pathway. This points to a cellular mechanism behind crash reactions to exertion, though we do not yet know how to reverse that priming.
+  detail: Single-cell chromatin accessibility (scATAC-seq) and transcriptomic profiling at baseline and during post-exertional malaise (PEM) identified a unique subpopulation of classical monocytes characterized by reduced CD14 expression and epigenetic priming near pro-inflammatory genes, driven by NF-κB transcription factor activation. This demonstrates that PEM is driven by a persistent state of monocyte activation etched into the cells' epigenome, explaining the acute inflammatory reaction to physical exertion. However, it remains unclear if these epigenetic alterations are reversible or what initial signaling events establish this persistent chromatin remodeling.
+de:
+  title: Einzelzell-Epigenomik deckt NF-κB-Vorprägung in einer spezifischen Monozyten-Subpopulation bei Belastungsentzündung auf
+  plain_summary: Einzelzellmessungen vor und während einer Post-Exertional Malaise (PEM) zeigten eine Untergruppe von Abwehrzellen (Monozyten), deren Erbgut-Verpackung auf eine rasche Entzündungsreaktion über NF-κB vorprogrammiert ist. Das liefert einen möglichen zellulären Mechanismus für Crash-Reaktionen auf Belastung; unklar bleibt aber, wie diese Prägung entsteht und ob sie umkehrbar ist.
+  detail: Einzelzell-Chromatinzugänglichkeits- (scATAC-seq) und Transkriptomanalysen in Ruhe sowie während einer Post-Exertional Malaise (PEM) identifizierten eine besondere Subpopulation klassischer Monozyten, die durch verringerte CD14-Expression und eine epigenetische Vorprägung nahe entzündungsfördernder Gene – angetrieben durch Aktivierung des Transkriptionsfaktors NF-κB – gekennzeichnet war. Dies legt nahe, dass PEM mit einem anhaltenden, im Epigenom der Monozyten verankerten Aktivierungszustand zusammenhängt, der die akute Entzündungsreaktion auf körperliche Belastung erklären kann. Unklar bleibt jedoch, ob diese epigenetischen Veränderungen umkehrbar sind und welche ursprünglichen Signale diese dauerhafte Chromatin-Umstrukturierung auslösen.

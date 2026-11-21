@@ -1,0 +1,24 @@
+---
+import Base from "../layouts/Base.astro";
+import { t } from "../lib/i18n";
+import { feedUrl, langHome } from "../lib/paths";
+
+const de = t("de");
+const en = t("en");
+---
+
+<Base lang="en" title={en.notFoundTitle}>
+  <section class="page-head">
+    <div class="wrap narrow">
+      <h1 class="display">{en.notFoundTitle}</h1>
+      <p class="lead">{en.notFoundText}</p>
+      <p class="lead" lang="de">{de.notFoundText}</p>
+      <div class="list-actions list-actions-start">
+        <a class="btn" href={langHome("en")}>{en.nav.overview}</a>
+        <a class="btn" href={langHome("de")} lang="de">{de.nav.overview}</a>
+        <a class="text-btn" href={feedUrl("en")}>{en.nav.feed}</a>
+        <button type="button" class="text-btn" data-search-open>{en.search}</button>
+      </div>
+    </div>
+  </section>
+</Base>

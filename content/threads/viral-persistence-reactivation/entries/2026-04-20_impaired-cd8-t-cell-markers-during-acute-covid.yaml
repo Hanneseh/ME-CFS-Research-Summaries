@@ -1,0 +1,18 @@
+id: 2026-04-20_impaired-cd8-t-cell-markers-during-acute-covid
+date: '2026-04-20'
+date_display: '2026-04-20'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: Stervbo et al. 2026, Medical Microbiology and Immunology
+  url: https://doi.org/10.1007/s00430-026-00873-3
+  kind: paper
+en:
+  title: Impaired CD8 T-cell markers during acute COVID-19 associated with Epstein-Barr virus reactivation
+  plain_summary: In hospitalized first-wave COVID-19 patients, 70% showed signs of Epstein-Barr virus reactivation alongside aged, worn-down CD8 immune cells. While this illustrates how severe acute infection can weaken viral control, it did not track long-term recovery or mild cases to prove it causes ME/CFS.
+  detail: A cohort study of hospitalized COVID-19 patients demonstrated that acute SARS-CoV-2 infection impairs CD8 T-cell surveillance, facilitating Epstein-Barr virus (EBV) reactivation. Researchers detected EBV reactivation in 70% of patients, which associated with a senescent CD8 T-cell phenotype characterized by reduced CD28 and CD11a expression. This provides a clear immunobiological mechanism explaining how acute COVID-19 acts as a trigger for herpesvirus reactivation, a major risk factor for developing Long COVID. It highlights the potential value of monitoring EBV status during acute viral infections to identify patients at risk for chronic complications. However, because the study focused on hospitalized patients during the first pandemic wave, the findings may not generalize to mild infections or newer variants. The study also does not follow patients long-term to prove that this acute reactivation directly leads to chronic fatigue syndrome.
+de:
+  title: Beeinträchtigte CD8-T-Zell-Marker während akuten COVID-19 mit Reaktivierung des Epstein-Barr-Virus verknüpft
+  plain_summary: Bei schwer erkrankten COVID-19-Krankenhauspatienten der ersten Welle zeigte sich bei 70 % ein Wiedererwachen des Epstein-Barr-Virus zusammen mit erschöpften, vorgealterten CD8-Abwehrzellen. Das veranschaulicht, wie eine schwere Akutinfektion die Viruskontrolle schwächen kann, verfolgte aber weder milde Verläufe noch langfristige ME/CFS-Entwicklungen.
+  detail: Eine Kohortenstudie an hospitalisierten COVID-19-Patientinnen und -Patienten zeigte, dass eine akute SARS-CoV-2-Infektion die CD8-T-Zell-Überwachung beeinträchtigt und eine Reaktivierung des Epstein-Barr-Virus (EBV) begünstigt. Die Forschenden wiesen bei 70 % der Erkrankten eine EBV-Reaktivierung nach, die mit einem seneszenten CD8-T-Zell-Phänotyp (verminderte CD28- und CD11a-Expression) einherging. Dies liefert einen plausiblen immunbiologischen Mechanismus dafür, wie akutes COVID-19 als Auslöser einer Herpesvirus-Reaktivierung wirkt, und weist auf den möglichen Nutzen einer EBV-Überwachung in der Akutphase hin. Da die Studie jedoch Krankenhauspatienten der ersten Pandemiewelle untersuchte, lassen sich die Befunde nicht ohne Weiteres auf milde Infektionen oder neuere Varianten übertragen, und eine Langzeitnachbeobachtung zum Beleg eines direkten Übergangs in ME/CFS fehlt.

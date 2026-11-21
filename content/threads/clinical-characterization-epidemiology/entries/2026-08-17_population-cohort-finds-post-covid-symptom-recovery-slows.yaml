@@ -1,0 +1,18 @@
+id: 2026-08-17_population-cohort-finds-post-covid-symptom-recovery-slows
+date: '2026-08-17'
+date_display: '2026-08-17'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Recovery trajectories in post-COVID-19 condition 2026, The Lancet Regional Health – Europe
+  url: https://doi.org/10.1016/j.lanepe.2026.101802
+  kind: paper
+en:
+  title: Population cohort finds post-COVID symptom recovery slows into a prolonged plateau
+  plain_summary: A Dutch study tracking 809 people with Long COVID for about a year found that early symptom drops tended to level off into a stubborn plateau, especially when people started with more symptoms. It covers broad Long COVID rather than diagnosed ME/CFS and relied on self-rated recovery.
+  detail: A prospective Dutch population cohort followed 809 adults with post-COVID condition for a mean of 368 days against their pre-infection symptom baselines. Symptoms declined most quickly early on, with a median decline time of 226 days, then improved more slowly; each additional baseline symptom predicted a lower likelihood of recovery (HR 0.69). Community sampling avoided exercise provocation and may have reached a broader functional range, but dedicated severe or bedbound numbers were not reported, and the cohort did not isolate ME/CFS or objectively measure PEM. Because recovery was self-reported return toward pre-infection symptoms, adaptation and reduced activity may make recovery appear better than functional recovery.
+de:
+  title: Bevölkerungskohorte zeigt Abflachen der Erholung bei Post-COVID-Symptomen auf ein anhaltendes Plateau
+  plain_summary: Eine niederländische Bevölkerungsstudie begleitete 809 Menschen mit Long COVID rund ein Jahr lang und fand, dass anfängliche Besserungen oft in ein hartnäckiges Plateau übergehen – besonders bei vielen Ausgangssymptomen. Sie betrachtet allgemeines Long COVID ohne ME/CFS-Abgrenzung anhand von Selbstberichten.
+  detail: Eine prospektive niederländische Bevölkerungskohorte begleitete 809 Erwachsene mit Post-COVID-Zustand im Mittel über 368 Tage im Vergleich zu ihren Symptomwerten vor Infektion. Die Beschwerden gingen anfangs am stärksten zurück (mediane Rückgangszeit 226 Tage) und besserten sich danach deutlich langsamer; jedes zusätzliche Ausgangssymptom sagte eine geringere Erholungswahrscheinlichkeit voraus (HR 0,69). Die Bevölkerungsstichprobe vermied Belastungstests und erreichte ein breiteres Funktionsspektrum, berichtete jedoch keine gesonderten Zahlen zu schwer Betroffenen oder Bettlägerigen und grenzte weder ME/CFS ab noch maß sie PEM objektiv. Da Genesung als selbstberichtete Rückkehr zum Ausgangszustand vor Infektion definiert war, können Anpassung und reduzierte Aktivität eine Besserung größer erscheinen lassen als eine echte funktionelle Erholung.

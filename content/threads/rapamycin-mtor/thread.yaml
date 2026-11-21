@@ -1,0 +1,86 @@
+slug: rapamycin-mtor
+group: treatments-interventions
+status: active
+evidence_tier: active_trials
+topics:
+- Treatment
+- Rapamycin
+- Sirolimus
+- mTOR Inhibition
+- Autophagy
+aliases:
+- Sirolimus
+- mTOR inhibitor
+related_threads:
+- low-dose-naltrexone
+legacy_path: treatments-interventions/rapamycin-mtor
+en:
+  title: Rapamycin & mTOR Inhibition
+  subtitle: A living thread on rapamycin (sirolimus) and other mTOR inhibitors, tracking clinical trials, observational studies, and mechanisms of autophagy restoration in ME/CFS and Long COVID.
+  evidence_label: early clinical and biomarker validation
+  plain_summary: This thread follows research on low-dose rapamycin (sirolimus), an FDA-approved immune-modulating drug tested for its potential to restore cellular cleanup (autophagy) in ME/CFS and Long COVID. Uncontrolled pilot studies and early conference results report symptom improvements in roughly a third of participants alongside changes in autophagy and energy biomarkers, and a placebo-controlled Long COVID trial has started recruiting. However, because no randomized placebo-controlled results are published yet and rapamycin carries immune-suppressing side effects, its safety and effectiveness for ME/CFS or Long COVID remain unproven.
+  takeaway: |-
+    Rapamycin (also known as sirolimus) and other mTOR inhibitors are emerging as key therapeutic candidates for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID. The scientific rationale for these interventions centers on the hypothesis that chronic inflammation and cellular dysfunction in these post-viral and chronic illnesses are driven by the overactivation of the mammalian target of rapamycin (mTOR) pathway. This overactivation stalls autophagy, a vital cellular cleaning and recycling process that removes damaged organelles and proteins, potentially leading to the severe energy deficits, fatigue, and post-exertional malaise (PEM) characteristic of these conditions.
+
+    Clinical translation of mTOR-inhibiting drugs focuses on restoring autophagy and alleviating core symptoms. Recent work has demonstrated that a low-dose rapamycin regimen can restore cellular autophagy and lead to significant improvements in fatigue, PEM, sleep quality, and orthostatic symptoms. Early clinical trial data also indicates that low-dose rapamycin may improve symptoms in a subset of patients exhibiting mTOR pathway dysregulation, correlating clinical response with increased cellular oxidative reserve. Additionally, a placebo-controlled trial has been initiated to evaluate whether targeting the mTOR pathway with low-dose sirolimus can resolve underlying biological drivers and symptoms in Long COVID.
+
+    Despite these promising signals, the evidence supporting rapamycin for ME/CFS and Long COVID is in its infancy and remains highly uncertain. The clinical findings are limited to a small, uncontrolled observational pilot study and preliminary Phase 1/2 conference reports, both of which are susceptible to placebo effects, participant selection bias, and patient-reporting biases. A placebo-controlled trial is still actively recruiting and has not published results. Consequently, it is not yet established whether mTOR inhibitors are safe or effective for these conditions, and patients should not interpret these early research findings as clinical recommendations.
+  why_it_matters: Investigating rapamycin and sirolimus connects a widely discussed off-label drug to a specific, measurable cellular pathway—mTOR-mediated autophagy impairment—in post-viral and chronic fatigue syndromes. Rather than relying solely on subjective patient-reported outcomes, researchers have identified plasma biomarkers (BECLIN-1 and pSer258-ATG13) that correlate with cellular autophagy status and reflect clinical improvements, alongside findings linking clinical response to changes in cellular oxidative reserve capacity. By validating a concrete biological target, this research provides a mechanistic foundation for patient symptoms like PEM and fatigue, paving the way for biomarker-guided, personalized clinical trials and the potential repurposing of existing, FDA-approved medications.
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - Rapamycin (sirolimus) is an FDA-approved immunosuppressive drug that acts as an mTOR inhibitor, promoting cellular autophagy ex vivo and in animal models.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - Low-dose rapamycin treatment correlates with self-reported symptom improvement (fatigue, PEM, orthostatic intolerance, and cognition) in a subset of ME/CFS patients; clinical improvement correlates with biomarker changes (increased BECLIN-1, decreased pSer258-ATG13) and increased cellular oxidative reserve.
+  - status: not_established
+    label: Not established
+    items:
+    - Low-dose rapamycin/sirolimus has not been proven safe or effective for ME/CFS or Long COVID in randomized, double-blind, placebo-controlled trials; optimal dosing, treatment duration, and long-term tolerability in these patient populations remain undefined.
+  - status: limitations
+    label: Key limitations
+    items:
+    - Published and presented clinical evidence is limited to a single, decentralized, open-label pilot study and preliminary Phase 1/2 conference reports without placebo controls, making them vulnerable to placebo effects and bias; only a subset (~one-third) of patients respond to treatment, indicating a critical need for biomarker-based stratification; the Phase 3 trial for Long COVID excludes individuals with pre-2020 ME/CFS, limiting the immediate applicability of its future findings to the wider ME/CFS community.
+  open_questions:
+  - What is the optimal dosing regimen of rapamycin for ME/CFS and Long COVID to maximize autophagy restoration while minimizing side effects?
+  - Can serum biomarkers like Phospho-ATG13 and Beclin-1 reliably identify which patients are likely to respond to low-dose rapamycin before starting therapy?
+  - Will the clinical and biomarker improvements observed in the open-label pilot study be replicated in a rigorous, placebo-controlled randomized clinical trial?
+  - Does restoring autophagy translate into long-term disease modification, or does it require continuous/lifelong administration?
+  - Are there specific patient subgroups (e.g., defined by baseline BECLIN-1 or pSer258-ATG13 levels) who are more likely to respond to mTOR inhibition?
+de:
+  title: Rapamycin & mTOR-Hemmung
+  subtitle: Ein fortlaufender Überblick über Rapamycin (Sirolimus) und weitere mTOR-Hemmer mit Blick auf klinische Studien, Beobachtungsdaten und Mechanismen der Autophagie-Wiederherstellung bei ME/CFS und Long COVID.
+  evidence_label: frühe klinische Studien und Biomarker-Validierung
+  plain_summary: Dieser Bereich verfolgt die Forschung zu niedrigdosiertem Rapamycin (Sirolimus), einem zugelassenen Immunmedikament, das bei ME/CFS und Long COVID die zelluläre Müllabfuhr (Autophagie) wieder ankurbeln soll. Erste offene Pilotstudien und Konferenzberichte zeigen bei etwa einem Drittel der Teilnehmenden selbstberichtete Besserungen zusammen mit veränderten Zellmarkern, und eine placebokontrollierte Long-COVID-Studie rekrutiert derzeit. Da bislang jedoch keine Ergebnisse aus randomisierten placebokontrollierten Studien vorliegen und das Mittel Nebenwirkungen sowie Risiken birgt, sind Sicherheit und Wirksamkeit noch nicht belegt.
+  takeaway: |-
+    Rapamycin (auch bekannt als Sirolimus) und andere mTOR-Hemmer rücken als therapeutische Kandidaten bei Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom (ME/CFS) und Long COVID in den Fokus. Wissenschaftlich basiert der Ansatz auf der Hypothese, dass chronische Entzündungen und Zellfunktionsstörungen bei diesen Erkrankungen durch eine Überaktivierung des mTOR-Signalwegs (mammalian target of rapamycin) mitangetrieben werden. Diese Überaktivierung bremst die Autophagie – einen lebenswichtigen zellulären Reinigungs- und Recyclingprozess für geschädigte Organellen und Proteine –, was zu schweren Energiedefiziten, Fatigue und Post-Exertional Malaise (PEM) beitragen könnte.
+
+    Die klinische Erprobung von mTOR-Hemmern zielt darauf ab, die Autophagie wiederherzustellen und Kernsymptome zu lindern. Neuere Arbeiten zeigten unter niedrigdosiertem Rapamycin eine Normalisierung von Autophagie-Markern sowie deutliche Verbesserungen bei Fatigue, PEM, Schlafqualität und orthostatischen Beschwerden. Frühe klinische Studiendaten deuten ebenfalls darauf hin, dass niedrigdosiertes Rapamycin bei einer Untergruppe mit mTOR-Fehlregulation Symptome bessern kann, wobei das Ansprechen mit einer erhöhten zellulären oxidativen Reserve korrelierte. Zudem wurde eine placebokontrollierte Studie gestartet, um niedrigdosiertes Sirolimus bei Long COVID zu prüfen.
+
+    Trotz dieser Signale steckt die Evidenz für Rapamycin bei ME/CFS und Long COVID noch in den Anfängen und ist sehr unsicher. Die vorliegenden klinischen Befunde stammen ausschließlich aus kleinen, unkontrollierten offenen Pilotstudien sowie vorläufigen Phase-1/2-Konferenzberichten, die anfällig für Placeboeffekte, Selektions- und Berichtsverzerrungen sind. Die placebokontrollierte Studie rekrutiert noch und hat noch keine Ergebnisse veröffentlicht. Ob mTOR-Hemmer bei diesen Erkrankungen sicher oder wirksam sind, ist daher noch nicht geklärt, und frühe Studienergebnisse sind keine Behandlungsempfehlung.
+  why_it_matters: Die Untersuchung von Rapamycin/Sirolimus verknüpft ein viel diskutiertes Off-Label-Medikament mit einem spezifischen, messbaren Zellsignalweg – der mTOR-vermittelten Autophagie-Störung – bei postviralen und chronischen Erschöpfungssyndromen. Statt sich allein auf subjektive Fragebögen zu stützen, identifizierten Forschende Blut-Biomarker (BECLIN-1 und pSer258-ATG13), die den Autophagie-Status widerspiegeln und mit klinischen Verbesserungen sowie der zellulären oxidativen Reservekapazität korrelieren. Durch die Eingrenzung eines konkreten biologischen Ziels liefert diese Forschung eine mechanistische Grundlage für Symptome wie PEM und Fatigue und ebnet den Weg für biomarkergesteuerte Studien zur Umwidmung zugelassener Medikamente.
+  state_of_evidence:
+  - status: established
+    label: Gesichert
+    items:
+    - Rapamycin (Sirolimus) ist ein von der FDA zugelassenes Immunsuppressivum, das als mTOR-Hemmer wirkt und ex vivo sowie in Tiermodellen die zelluläre Autophagie fördert.
+  - status: plausible
+    label: Plausibel, aber früh
+    items:
+    - Eine Behandlung mit niedrigdosiertem Rapamycin korreliert bei einer Untergruppe von ME/CFS-Betroffenen mit selbstberichteten Verbesserungen (Fatigue, PEM, orthostatische Intoleranz und Kognition); klinische Besserung geht mit Biomarker-Veränderungen (Anstieg von BECLIN-1, Abfall von pSer258-ATG13) und erhöhter zellulärer oxidativer Reserve einher.
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Niedrigdosiertes Rapamycin/Sirolimus ist bei ME/CFS oder Long COVID nicht in randomisierten, doppelt verblindeten, placebokontrollierten Studien als sicher oder wirksam erwiesen; optimale Dosierung, Behandlungsdauer und Langzeitverträglichkeit sind in diesen Patientengruppen ungeklärt.
+  - status: limitations
+    label: Wesentliche Einschränkungen
+    items:
+    - Veröffentlichte und präsentierte klinische Daten beschränken sich auf eine einzige dezentrale, offene Pilotstudie und vorläufige Phase-1/2-Konferenzberichte ohne Placebokontrolle, was sie anfällig für Placeboeffekte und Verzerrungen macht; nur etwa ein Drittel der Behandelten spricht an, was den Bedarf an Biomarker-Auswahl unterstreicht; die Phase-3-Studie zu Long COVID schließt Personen mit ME/CFS vor 2020 aus, was die unmittelbare Übertragbarkeit künftiger Ergebnisse auf die breite ME/CFS-Gemeinschaft einschränkt.
+  open_questions:
+  - Welches Dosierungsschema von Rapamycin optimiert bei ME/CFS und Long COVID die Wiederherstellung der Autophagie bei minimalen Nebenwirkungen?
+  - Können Serum-Biomarker wie Phospho-ATG13 und Beclin-1 vor Therapiebeginn zuverlässig vorhersagen, wer auf niedrigdosiertes Rapamycin anspricht?
+  - Lassen sich die klinischen und Biomarker-Verbesserungen aus der offenen Pilotstudie in einer strengen, placebokontrollierten randomisierten Studie replizieren?
+  - Führt die Wiederherstellung der Autophagie zu einer langfristigen Krankheitsmodifikation, oder ist eine dauerhafte Einnahme erforderlich?
+  - Gibt es definierte Untergruppen (etwa anhand der Ausgangswerte von BECLIN-1 oder pSer258-ATG13), die mit höherer Wahrscheinlichkeit auf eine mTOR-Hemmung ansprechen?

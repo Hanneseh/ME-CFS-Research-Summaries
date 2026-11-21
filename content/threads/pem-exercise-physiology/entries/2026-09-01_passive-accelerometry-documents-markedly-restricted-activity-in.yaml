@@ -1,0 +1,18 @@
+id: 2026-09-01_passive-accelerometry-documents-markedly-restricted-activity-in
+date: '2026-09-01'
+date_display: '2026-09-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Kopp et al. 2026, PLOS ONE
+  url: https://doi.org/10.1371/journal.pone.0309485
+  kind: paper
+en:
+  title: Passive accelerometry documents markedly restricted activity in post-COVID condition
+  plain_summary: Eight days of wrist-sensor tracking in 141 adults with post-COVID condition confirmed very low daily activity and virtually zero vigorous movement, matching fatigue severity without needing a strenuous lab test. Because it is cross-sectional and missed delayed crashes, it documents real-world restriction rather than proving why activity is low or recommending more movement.
+  detail: Kopp and colleagues used eight days of wrist accelerometry in 141 adults with post-COVID-19 condition and found low median daily activity (ENMO 9.03) with almost no vigorous activity (median 0.16 minutes/day); lower activity tracked with fatigue, comorbidity, and reduced functional capacity. This cross-sectional study objectively documents functional restriction but cannot tell whether low activity is protective pacing, a consequence of PEM, deconditioning, or a mixture. Completely bedbound patients were not enrolled, while passive wearing and charging of the device impose far less exertional burden than CPET and did not deliberately provoke PEM; delayed crash responses were not measured. The result supports low-burden functional monitoring, not an instruction to increase activity, and is relevant to [Clinical Characterization & Epidemiology](thread:clinical-characterization-epidemiology).
+de:
+  title: Passive Akzelerometrie dokumentiert stark eingeschränkte Aktivität bei Post-COVID-Syndrom
+  plain_summary: Acht Tage Handgelenks-Sensorik bei 141 Erwachsenen mit Post-COVID zeigten objektiv sehr geringe Alltagsaktivität und nahezu keine intensive Bewegung, passend zur Fatigue-Schwere – ganz ohne anstrengenden Labortest. Als Querschnittsmessung ohne Erfassung verzögerter Einbrüche belegt dies reale Einschränkungen, ohne zu beweisen, was Ursache ist, oder zu mehr Bewegung zu raten.
+  detail: Kopp und Kolleginnen erfassten über acht Tage mittels Handgelenks-Akzelerometrie die Aktivität von 141 Erwachsenen mit Post-COVID-19-Syndrom und fanden eine niedrige mediane Tagesaktivität (ENMO 9,03) bei nahezu fehlender intensiver Aktivität (Median 0,16 Minuten/Tag); geringere Aktivität ging mit stärkerer Fatigue, Begleiterkrankungen und verminderter Funktionsfähigkeit einher. Diese Querschnittsstudie dokumentiert objektiv funktionelle Einschränkungen, kann aber nicht unterscheiden, ob geringe Aktivität schützendes Pacing, Folge von PEM, Dekonditionierung oder eine Mischung darstellt. Vollständig bettlägerige Personen wurden nicht eingeschlossen, während das passive Tragen und Laden des Geräts deutlich weniger Belastung erzeugt als ein CPET und kein PEM gezielt provozierte; verzögerte Crash-Reaktionen wurden nicht gemessen. Das Ergebnis stützt eine wenig belastende Funktionsmessung – keine Aufforderung zu mehr Aktivität – und ist relevant für [Klinische Charakterisierung & Epidemiologie](thread:clinical-characterization-epidemiology).

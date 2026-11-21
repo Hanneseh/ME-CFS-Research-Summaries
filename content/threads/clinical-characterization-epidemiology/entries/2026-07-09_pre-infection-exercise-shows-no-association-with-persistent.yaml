@@ -1,0 +1,20 @@
+id: 2026-07-09_pre-infection-exercise-shows-no-association-with-persistent
+date: '2026-07-09'
+date_display: '2026-07-09'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'CoCo-Fakt pre-infection exercise study: Schmidt et al. 2026, Sports'
+  url: https://doi.org/10.3390/sports14070293
+  kind: paper
+en:
+  title: Pre-infection exercise shows no association with persistent post-COVID symptoms in 5,413 adults
+  plain_summary: A German study of 5,413 adults found no link between how much people exercised before COVID-19 and whether they still had symptoms past 12 weeks. While self-reported broad Long COVID data cannot rule out every factor, it counters claims that post-viral illness happens because patients were unfit.
+  detail: A peer-reviewed epidemiological study published in *Sports* by Schmidt et al. analyzed 5,413 adults from the German CoCo-Fakt surveillance registry to investigate whether pre-infection physical activity influenced persistent post-COVID symptoms. Persistent symptoms lasting beyond 12 weeks were reported by 10.4% (n=561) of the broad post-COVID cohort. While initial multivariable models suggested a weak correlation between higher pre-infection exercise intensity and persistent symptoms, this association became non-significant after Bonferroni-Holm correction for multiple testing. The study found no evidence that pre-infection activity predicted persistent symptoms and argues against the assumption that affected people were simply unfit beforehand. However, a null result based on retrospective self-report is not proof that activity has no effect. Other limitations include a broad PASC scope lacking ME/CFS criteria or objective PEM characterization and online survey administration
+    that likely underrepresents severe and bedbound patients.
+de:
+  title: Körperliche Aktivität vor Infektion zeigt bei 5.413 Erwachsenen keinen Zusammenhang mit anhaltenden Post-COVID-Symptomen
+  plain_summary: Eine deutsche Studie mit 5.413 Erwachsenen fand keinen Zusammenhang zwischen sportlicher Aktivität vor einer COVID-19-Infektion und Beschwerden nach mehr als 12 Wochen. Auch wenn Selbstauskünfte zu allgemeinem Long COVID nicht alles ausschließen können, widerspricht das der Annahme, Betroffene seien zuvor bloß untrainiert gewesen.
+  detail: Eine in Sports veröffentlichte epidemiologische Studie von Schmidt et al. analysierte 5.413 Erwachsene aus dem deutschen CoCo-Fakt-Überwachungsregister, um zu prüfen, ob körperliche Aktivität vor der Infektion anhaltende Post-COVID-Symptome beeinflusst. Beschwerden über mehr als 12 Wochen gaben 10,4 % (n = 561) der breiten Post-COVID-Kohorte an. Zwar deuteten erste multivariable Modelle auf einen schwachen Zusammenhang zwischen höherer Trainingsintensität vor Infektion und anhaltenden Symptomen hin, doch nach Bonferroni-Holm-Korrektur für multiples Testen war dies nicht mehr signifikant. Die Studie fand keinen Beleg dafür, dass Aktivität vor Infektion anhaltende Symptome vorhersagt, und spricht gegen die Annahme, Betroffene seien zuvor schlicht untrainiert gewesen. Ein Nullbefund aus retrospektiven Selbstberichten beweist allerdings nicht das Fehlen jedes Einflusses; weitere Grenzen sind der breite PASC-Zuschnitt ohne ME/CFS-Kriterien oder PEM-Erfassung sowie Online-Befragungen,
+    die Schwerstbetroffene vermutlich untererfassen.

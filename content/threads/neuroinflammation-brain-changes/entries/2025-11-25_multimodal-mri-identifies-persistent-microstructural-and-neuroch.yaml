@@ -1,0 +1,19 @@
+id: 2025-11-25_multimodal-mri-identifies-persistent-microstructural-and-neuroch
+date: '2025-11-25'
+date_display: '2025-11-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Thapaliya et al. 2025, Brain, Behavior, & Immunity - Health
+  url: https://doi.org/10.1016/j.bbih.2025.101142
+  kind: paper
+en:
+  title: Multimodal MRI identifies persistent microstructural and neurochemical changes
+  plain_summary: Brain scans of 47 people found subtle white-matter and myelin differences in both Long COVID patients and recovered COVID controls compared with uninfected people, while chemical changes appeared only in Long COVID. Because the groups were small and scanned once, it is not clear whether these changes fade over time.
+  detail: A multimodal 3T MRI study evaluating 19 Long COVID patients, 12 recovered individuals, and 16 healthy controls found persistent myelin and microstructural changes in both the symptomatic and recovered groups compared to uninfected controls. Analysis of T1w/T2w mapping (indicating myelin integrity) and diffusion-weighted imaging (DWI) microstructural markers correlated significantly with clinical measures of physical and cognitive function. Furthermore, magnetic resonance spectroscopy (MRS) revealed unique neurochemical alterations restricted to the Long COVID cohort. This suggests that SARS-CoV-2 infection leaves a lasting microstructural imprint on the brain even in individuals who report full recovery. However, the small sample size limits the generalizability of these neurochemical findings, and longitudinal research is needed to determine if these changes are permanent.
+de:
+  title: Multimodale MRT identifiziert anhaltende mikrostrukturelle und neurochemische Veränderungen
+  plain_summary: Hirnscans bei 47 Personen zeigten feine Veränderungen von Myelin und Nervenbahnen sowohl bei Long-COVID-Betroffenen als auch bei Genesenen gegenüber Nicht-Infizierten, während Stoffwechselveränderungen nur bei Long COVID auftraten. Wegen der kleinen Gruppengröße und der einmaligen Messung ist unklar, ob diese Spuren dauerhaft bleiben.
+  detail: Eine multimodale 3T-MRT-Studie mit 19 Long-COVID-Patientinnen und -Patienten, 12 genesenen Personen und 16 gesunden Kontrollen fand anhaltende Myelin- und Mikrostrukturveränderungen sowohl in der symptomatischen als auch in der genesenen Gruppe im Vergleich zu nicht infizierten Kontrollen. Die Analyse von T1w/T2w-Kartierungen (als Hinweis auf die Myelin-Integrität) und mikrostrukturellen Markern der diffusionsgewichteten Bildgebung (DWI) korrelierte signifikant mit klinischen Maßen der körperlichen und kognitiven Funktion. Darüber hinaus deckte die Magnetresonanzspektroskopie (MRS) spezifische neurochemische Veränderungen auf, die auf die Long-COVID-Kohorte beschränkt waren. Dies deutet darauf hin, dass eine SARS-CoV-2-Infektion selbst bei Menschen mit berichteter vollständiger Genesung eine anhaltende mikrostrukturelle Spur im Gehirn hinterlässt. Die kleine Stichprobengröße schränkt jedoch die Generalisierbarkeit dieser neurochemischen Befunde ein, und Längsschnittforschung ist
+    nötig, um zu klären, ob diese Veränderungen dauerhaft sind.

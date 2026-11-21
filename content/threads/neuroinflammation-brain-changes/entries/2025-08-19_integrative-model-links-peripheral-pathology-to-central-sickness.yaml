@@ -1,0 +1,19 @@
+id: 2025-08-19_integrative-model-links-peripheral-pathology-to-central-sickness
+date: '2025-08-19'
+date_display: '2025-08-19'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Komaroff & Dantzer 2025, Cell Reports Medicine
+  url: https://doi.org/10.1016/j.xcrm.2025.102259
+  kind: paper
+en:
+  title: Integrative model links peripheral pathology to central sickness circuits
+  plain_summary: This review proposes that peripheral issues like immune activation, gut changes, and cell-energy strain signal the brainstem to trigger a protective low-energy 'sickness state.' It offers a big-picture hypothesis that still needs direct clinical testing.
+  detail: A review proposed an integrative neuroinflammatory model wherein diverse peripheral abnormalities—such as viral persistence, gut dysbiosis, mitochondrial dysfunction, and autoantibodies—converge on the central nervous system. This peripheral inflammation is hypothesized to stimulate neural circuits in the brainstem and hypothalamus, activating evolutionarily conserved "sickness behavior" and "torpor-like" hypometabolic pathways that manifest as profound fatigue and cognitive deficits. The persistence of the illness is explained by interlocking, self-sustaining loops of pathology that reinforce one another. This model suggests that therapeutics targeting the central drivers of neuroinflammation may be more effective than addressing individual peripheral symptoms. However, the model is a theoretical synthesis, and direct clinical trials targeting these specific brainstem and hypothalamic circuits are needed to validate the pathway.
+de:
+  title: Integratives Modell verknüpft periphere Pathologie mit zentralen Krankheitsschaltkreisen
+  plain_summary: Diese Übersichtsarbeit schlägt vor, dass Signale aus Immunsystem, Darm oder Zellstoffwechsel im Hirnstamm ein biologisches Energiespar- und Krankheitsprogramm anstoßen. Es handelt sich um ein übergreifendes Erklärungsmodell, das erst in klinischen Studien direkt überprüft werden muss.
+  detail: Eine Übersichtsarbeit schlug ein integratives neuroinflammatorisches Modell vor, in dem verschiedene periphere Auffälligkeiten – wie Viruspersistenz, Darmdysbiose, mitochondriale Dysfunktion und Autoantikörper – auf das zentrale Nervensystem konvergieren. Hypothetisch stimuliert diese periphere Entzündung neuronale Schaltkreise in Hirnstamm und Hypothalamus und aktiviert evolutionär konservierte „Sickness Behavior“- sowie „Torpor-ähnliche“ hypometabolische Programme, die sich als tiefgreifende Fatigue und kognitive Defizite äußern. Das Fortbestehen der Erkrankung wird durch ineinandergreifende, sich selbst verstärkende Pathologieschleifen erklärt. Dieses Modell legt nahe, dass Therapien, die auf zentrale Treiber der Neuroinflammation abzielen, wirksamer sein könnten als die Behandlung einzelner peripherer Symptome. Allerdings handelt es sich um eine theoretische Synthese, und direkte klinische Studien an diesen spezifischen Hirnstamm- und Hypothalamus-Schaltkreisen sind erforderlich,
+    um den Signalweg zu validieren.

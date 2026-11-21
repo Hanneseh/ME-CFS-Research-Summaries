@@ -1,0 +1,19 @@
+id: 2026-08-26_preprint-links-orthostatic-stress-to-skeletal-muscle-ion
+date: '2026-08-26'
+date_display: '2026-08-26'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Wirth 2026, Preprints.org
+  url: https://doi.org/10.20944/preprints202608.1772.v1
+  kind: preprint
+en:
+  title: Preprint links orthostatic stress to skeletal-muscle ion imbalance and PEM
+  plain_summary: A hypothesis preprint proposes that standing activates stress signals that overload muscle cells with sodium and calcium, potentially triggering PEM even without exercise. Because it includes no patient testing or measurements, it remains an unproven idea.
+  detail: Wirth's preprint proposes that sympathetic activation during orthostasis could increase skeletal-muscle sodium influx through NHE1 while impaired Na+/K+-ATPase function limits sodium extrusion, allowing reverse-mode NCX activity and calcium overload. The model offers a possible explanation for PEM after upright exposure without obvious exercise, but it reports no new participants or in-vivo ion measurements and remains hypothesis-level evidence. Severe and bedbound patients were not enrolled; upright stress itself may be highly burdensome, and no safe provocation protocol or treatment is established. The proposed links to [Mitochondrial & Metabolic Dysfunction](thread:mitochondrial-metabolic-dysfunction), [Post-Exertional Malaise & Exercise Physiology](thread:pem-exercise-physiology), and [Autoimmunity & Autoantibodies](thread:autoimmunity-autoantibodies) are research hypotheses, not clinical recommendations.
+de:
+  title: Preprint verknüpft orthostatischen Stress mit Ionenungleichgewicht der Skelettmuskulatur und PEM
+  plain_summary: Ein Hypothesen-Preprint schlägt vor, dass Stressreize beim Aufrechtstehen Muskelzellen mit Natrium und Kalzium überladen und so auch ohne Sport PEM auslösen könnten. Da neue Patientenmessungen fehlen, bleibt das Modell bislang unbewiesen.
+  detail: Wirths Preprint schlägt vor, dass eine Sympathikus-Aktivierung bei orthostatischer Belastung den Natriumeinstrom in die Skelettmuskulatur über NHE1 erhöht, während eine gestörte Na+/K+-ATPase-Funktion den Natriumausstrom begrenzt und so über eine Umkehr des NCX-Transporters zu Kalziumüberladung führt. Das Modell bietet eine mögliche Erklärung für PEM nach bloßem Aufrechtsein ohne offenkundige körperliche Anstrengung, berichtet jedoch keine neuen Teilnehmenden oder In-vivo-Ionenmessungen und bleibt Evidenz auf Hypothesenebene. Schwer erkrankte und bettlägerige Betroffene wurden nicht untersucht; orthostatische Belastung selbst kann hochgradig belastend sein, und ein sicheres Provokationsprotokoll oder eine Therapie ist nicht etabliert. Die vorgeschlagenen Bezüge zu [Mitochondriale & metabolische Dysfunktion](thread:mitochondrial-metabolic-dysfunction), [Post-Exertional Malaise & Belastungsphysiologie](thread:pem-exercise-physiology) und [Autoimmunität & Autoantikörper](thread:autoimmunity-autoantibodies)
+    sind Forschungshypothesen und keine klinischen Empfehlungen.

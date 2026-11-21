@@ -1,0 +1,19 @@
+id: 2026-05-19_patient-led-platforms-reframed-as-research-infrastructure-for
+date: '2026-05-19'
+date_display: '2026-05-19'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Cousins et al. 2026, Oxford Open Immunology
+  url: https://pubmed.ncbi.nlm.nih.gov/42261335/
+  kind: paper
+en:
+  title: Patient-led platforms reframed as research infrastructure for complex chronic illness
+  plain_summary: A commentary highlighted how symptom-tracking apps like Visible could let housebound patients take part in home-based research. Because it is an opinion piece written partly by platform staff, it does not prove that app data alone solves study bias.
+  detail: 'A commentary in Oxford Open Immunology used the Visible platform as a case study for patient-led research infrastructure in ME/CFS, Long COVID, and related complex chronic illnesses. The authors argue that tools patients already use for pacing, symptom tracking, heart rate, and heart-rate variability can lower the burden of participation and collect longitudinal home-based data from people who may be too ill for clinic-based studies. That matters for clinical characterization because standard cohorts often miss the most severely affected and those with limited access to specialist centers. The model also carries limits: the paper is a commentary rather than comparative empirical evidence, and the authors include employees or scientific advisers of the platform being discussed. Its strongest role is infrastructure design, not proof that any digital platform has solved cohort bias.'
+de:
+  title: Patientengeführte Plattformen als Forschungsinfrastruktur für komplexe chronische Erkrankungen neu eingeordnet
+  plain_summary: Ein Fachkommentar beschreibt am Beispiel der App Visible, wie Tracking-Plattformen auch hausgebundenen Betroffenen eine Studienteilnahme von zu Hause ermöglichen könnten. Da es sich um einen Meinungsbeitrag unter Beteiligung von Plattform-Mitarbeitenden handelt, belegt er noch nicht, dass App-Daten Verzerrungen lösen.
+  detail: 'Ein Kommentar in Oxford Open Immunology nutzte die Plattform Visible als Fallbeispiel für patientengeführte Forschungsinfrastruktur bei ME/CFS, Long COVID und verwandten komplexen chronischen Erkrankungen. Die Autorinnen und Autoren argumentieren, dass Werkzeuge, die Betroffene ohnehin für Pacing sowie zur Erfassung von Symptomen, Puls und Herzratenvariabilität nutzen, die Teilnahmehürden senken und Verlaufsdaten von Menschen liefern können, die für Klinikstudien zu schwer erkrankt sind. Das ist für die klinische Charakterisierung relevant, weil herkömmliche Kohorten oft Schwerstbetroffene und Personen ohne Zugang zu Spezialzentren übersehen. Zugleich hat das Modell Grenzen: Es handelt sich um einen Kommentar ohne vergleichende empirische Daten, und zu den Verfassenden zählen Beschäftigte oder wissenschaftliche Beiräte der diskutierten Plattform. Sein Hauptbeitrag liegt im Infrastrukturgedanken, nicht im Nachweis, dass digitale Plattformen Kohortenverzerrungen bereits beseitigt
+    hätten.'

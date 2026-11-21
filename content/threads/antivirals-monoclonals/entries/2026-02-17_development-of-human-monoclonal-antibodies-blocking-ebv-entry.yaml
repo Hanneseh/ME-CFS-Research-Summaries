@@ -1,0 +1,18 @@
+id: 2026-02-17_development-of-human-monoclonal-antibodies-blocking-ebv-entry
+date: '2026-02-17'
+date_display: '2026-02-17'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Chhan et al. 2026, Cell Reports Medicine
+  url: https://doi.org/10.1016/j.xcrm.2026.102618
+  kind: paper
+en:
+  title: Development of human monoclonal antibodies blocking EBV entry
+  plain_summary: Researchers created human monoclonal antibodies that blocked Epstein-Barr virus (EBV) from infecting immune cells in laboratory dishes and humanized mice. Since this work was done only in cells and mice, it does not establish whether these antibodies are safe or helpful in people with ME/CFS.
+  detail: Researchers developed fully human monoclonal antibodies derived from transgenic mice that target the EBV glycoproteins gp350 and gp42. In humanized mice, a gp42-specific antibody provided significant protection against EBV infection by blocking the virus from binding receptors on B cells, while a gp350-specific antibody provided partial protection. These candidates offer a potential therapeutic option for individuals at risk of EBV-related complications, such as post-viral syndromes where EBV reactivation is implicated as a driver. Structural analysis also mapped new sites of vulnerability on the virus, offering a template for refining next-generation preventative vaccines. However, because this study was conducted in vitro and in humanized mouse models, it does not prove clinical safety or efficacy in human patients.
+de:
+  title: Entwicklung humaner monoklonaler Antikörper zur Blockade des EBV-Zelleintritts
+  plain_summary: Forschende haben humane monoklonale Antikörper entwickelt, die das Epstein-Barr-Virus (EBV) im Labor und bei humanisierten Mäusen daran hinderten, Immunzellen zu infizieren. Da dies bislang nur in Zell- und Mausmodellen getestet wurde, ist noch offen, ob der Ansatz beim Menschen sicher oder gegen ME/CFS wirksam ist.
+  detail: Forschende entwickelten aus transgenen Mäusen vollständig humane monoklonale Antikörper gegen die EBV-Glykoproteine gp350 und gp42. In humanisierten Mäusen bot ein gegen gp42 gerichteter Antikörper einen deutlichen Schutz vor einer EBV-Infektion, indem er das Andocken des Virus an Rezeptoren von B-Zellen blockierte, während ein gp350-spezifischer Antikörper einen teilweisen Schutz vermittelte. Diese Kandidaten stellen eine potenzielle Therapieoption für Personen mit Risiko für EBV-bedingte Komplikationen dar, einschließlich postviraler Syndrome, bei denen eine EBV-Reaktivierung als Treiber diskutiert wird. Strukturanalysen kartierten zudem neue Schwachstellen des Virus und liefern damit eine Vorlage für die Weiterentwicklung vorbeugender Impfstoffe. Da die Untersuchungen jedoch in vitro und in humanisierten Mausmodellen stattfanden, belegen sie weder klinische Sicherheit noch Wirksamkeit bei Patientinnen und Patienten.

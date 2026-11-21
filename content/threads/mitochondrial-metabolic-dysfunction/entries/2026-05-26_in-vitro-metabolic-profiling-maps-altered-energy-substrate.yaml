@@ -1,0 +1,26 @@
+id: 2026-05-26_in-vitro-metabolic-profiling-maps-altered-energy-substrate
+date: '2026-05-26'
+date_display: '2026-05-26'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Srikanth et al. 2026, Infectious Disease Reports
+  url: https://doi.org/10.3390/idr18030050
+  kind: paper
+en:
+  title: In vitro metabolic profiling maps altered energy substrate utilization in Long COVID
+  plain_summary: Lab-immortalized immune cell lines from 10 Long COVID patients relied twice as heavily on sugar-based anaerobic energy and produced less NADH in more severe cases. Because it used small numbers of lab-altered cell lines, it does not prove an established ME/CFS mechanism.
+  detail: '- **What changed:** A study comparing Epstein-Barr virus (EBV)-immortalized lymphoblastoid cell lines (LCLs) from 10 Long COVID patients and 10 healthy controls using mammalian microarrays identified a two-fold enhanced utilization of glycolytic and anaerobic substrates. Additionally, cells from patients with more severe symptoms (>4 symptoms) showed significant metabolic deviations, including lower energy levels across 36 compounds and reduced NADH production, combined with a blunted response to metabolic effectors and growth factors.
+
+    - **Why it matters:** This supports the hypothesis of cellular-level bioenergetic reprogramming and metabolic dysfunction in post-viral syndromes, suggesting that affected cells adapt to chronic stress by unsustainably shifting toward anaerobic pathways.
+
+    - **What it does not prove yet:** The study is restricted to a small cohort, relies on in vitro culture-adapted LCLs rather than unmanipulated primary patient tissues, and cannot establish these Long COVID cell line findings as an established pathomechanism for ME/CFS.'
+de:
+  title: In-vitro-Stoffwechselprofilierung kartiert veränderte Energiesubstrat-Nutzung bei Long COVID
+  plain_summary: Im Labor immortalisierte Immunzelllinien von 10 Long-COVID-Betroffenen nutzten doppelt so stark anaerobe Zuckerwege und bildeten bei schwereren Fällen weniger NADH. Wegen der kleinen Zahl veränderter Zelllinien beweist dies keinen gesicherten ME/CFS-Mechanismus.
+  detail: '- **Was sich gezeigt hat:** Eine Studie, die Epstein-Barr-Virus-(EBV-)immortalisierte lymphoblastoide Zelllinien (LCLs) von 10 Long-COVID-Betroffenen und 10 gesunden Kontrollpersonen mittels Säugetier-Mikroarrays verglich, fand eine zweifach verstärkte Nutzung glykolytischer und anaerober Substrate. Zudem zeigten Zellen von Betroffenen mit stärkerer Symptomlast (>4 Symptome) deutliche Abweichungen bei 36 Energieverbindungen, eine geringere NADH-Produktion sowie eine abgeschwächte Reaktion auf Stoffwechsel- und Wachstumsfaktoren.
+
+    - **Warum das wichtig ist:** Dies stützt die Hypothese einer zellulären bioenergetischen Umprogrammierung bei postviralen Syndromen und legt nahe, dass sich Zellen unter chronischem Stress unhaltbar auf anaerobe Wege verlagern.
+
+    - **Was damit noch nicht belegt ist:** Die Studie ist auf eine kleine Kohorte beschränkt, nutzt kulturadaptierte LCLs statt unbehandelter Primärgewebe und kann diese Long-COVID-Zelllinienbefunde nicht als etablierten Pathomechanismus für ME/CFS belegen.'

@@ -1,0 +1,18 @@
+id: 2025-08-28_haptoglobin-phenotypes-modulate-post-exertional-malaise-and-cogn
+date: '2025-08-28'
+date_display: '2025-08-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Moezzi et al. 2025, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-025-07006-z
+  kind: paper
+en:
+  title: Haptoglobin phenotypes modulate post-exertional malaise and cognitive symptoms
+  plain_summary: In 184 people, levels of a blood protein called haptoglobin dropped after an exertion test in patients, and people with a less efficient genetic variant had worse PEM and thinking difficulties. The findings suggest a genetic factor in PEM severity, though one variant subgroup was small and replacement therapy is untested.
+  detail: A longitudinal study of 140 patients and 44 controls demonstrated that haptoglobin (Hp) levels significantly decrease in patients following a standardized stress test designed to induce post-exertional malaise, suggesting an exertion-triggered hemolysis and oxidative stress response. The study identified a genetic association where the less efficient Hp2-1 phenotype was linked to severe post-exertional malaise and cognitive deficits, whereas the Hp1-1 phenotype was associated with milder symptoms. This provides a molecular and genetic explanation for why post-exertional severity varies among patients, establishing haptoglobin structure as a candidate biomarker for patient stratification. However, the cohort included a small number of Hp1-1 patients, and phenotype-targeted interventions, such as administering protective Hp1-1, require clinical trial validation.
+de:
+  title: Haptoglobin-Phänotypen modulieren Post-Exertional Malaise und kognitive Symptome
+  plain_summary: Bei 184 Personen sank der Spiegel des Blutproteins Haptoglobin bei Betroffenen nach einem Belastungstest, und Träger einer weniger effizienten Genvariante hatten stärkere PEM und Denkprobleme. Dies deutet auf einen genetischen Einfluss auf die PEM-Schwere hin, wobei eine Untergruppe klein war und eine Therapie damit nicht getestet wurde.
+  detail: Eine Längsschnittstudie mit 140 Patientinnen und Patienten sowie 44 Kontrollen zeigte, dass die Haptoglobin-(Hp-)Spiegel bei Betroffenen nach einem standardisierten Stresstest zur Auslösung von Post-Exertional Malaise signifikant abfallen, was auf eine belastungsausgelöste Hämolyse und oxidativen Stress hindeutet. Die Studie identifizierte einen genetischen Zusammenhang, bei dem der weniger effiziente Hp2-1-Phänotyp mit schwerer Post-Exertional Malaise und kognitiven Defiziten verknüpft war, während der Hp1-1-Phänotyp mit milderen Symptomen einherging. Dies liefert eine molekulare und genetische Erklärung dafür, warum die Schwere nach Belastung zwischen Betroffenen variiert, und etabliert die Haptoglobin-Struktur als Kandidaten-Biomarker für eine Patientenstratifizierung. Allerdings umfasste die Kohorte nur wenige Hp1-1-Patientinnen und -Patienten, und phänotyp-gezielte Interventionen wie die Gabe von schützendem Hp1-1 müssen erst in klinischen Studien geprüft werden.

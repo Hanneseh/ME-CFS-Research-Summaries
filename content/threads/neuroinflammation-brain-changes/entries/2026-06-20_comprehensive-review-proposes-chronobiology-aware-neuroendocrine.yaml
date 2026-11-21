@@ -1,0 +1,19 @@
+id: 2026-06-20_comprehensive-review-proposes-chronobiology-aware-neuroendocrine
+date: '2026-06-20'
+date_display: '2026-06-20'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Thomas et al. 2026, Frontiers in Neuroendocrinology
+  url: https://www.sciencedirect.com/science/article/pii/S0091302226000385
+  kind: paper
+en:
+  title: Comprehensive review proposes chronobiology-aware neuroendocrine framework for ME/CFS and Long COVID research
+  plain_summary: This review argues that hormone studies in ME/CFS and Long COVID often miss real patterns because they ignore daily body-clock and menstrual cycles. It proposes better-timed hormone sampling for future research, without presenting new patient data.
+  detail: Thomas, Armstrong, and colleagues published a systems-level review in *Frontiers in Neuroendocrinology* proposing a chronobiology-aware framework for studying neuroendocrine disruption in ME/CFS and Long COVID. The authors argue that hormonal findings have often been studied in isolation without accounting for circadian and menstrual rhythms. The review examines evidence for hypothalamic-pituitary-adrenal/gonadal axis dysfunction across immune, autonomic, nervous, and metabolic systems, and identifies sex hormone signaling as a key area of vulnerability. They propose a chronobiology-aware research framework combining dense time-point sampling (mapping diurnal and menstrual phase), multi-omic integration, and multi-system study designs to detect meaningful endocrine differences and support personalized interventions. As a review, this paper synthesizes literature and does not generate new primary data.
+de:
+  title: Umfassende Übersichtsarbeit schlägt ein chronobiologie-sensibles neuroendokrines Rahmenmodell für die ME/CFS- und Long-COVID-Forschung vor
+  plain_summary: Diese Übersichtsarbeit argumentiert, dass Hormonstudien bei ME/CFS und Long COVID häufig Muster übersehen, weil Tageszeit- und Menstruationszyklen kaum berücksichtigt werden. Sie schlägt ein eng getaktetes Messdesign für künftige Studien vor, präsentiert aber keine neuen Patientendaten.
+  detail: Thomas, Armstrong und Kolleginnen und Kollegen veröffentlichten in *Frontiers in Neuroendocrinology* eine systemorientierte Übersichtsarbeit, die einen chronobiologie-sensiblen Rahmen für die Untersuchung neuroendokriner Störungen bei ME/CFS und Long COVID vorschlägt. Die Autorinnen und Autoren argumentieren, dass hormonelle Befunde oft isoliert untersucht wurden, ohne zirkadiane und menstruelle Rhythmen zu berücksichtigen. Die Übersicht prüft Evidenz für Dysfunktionen der Hypothalamus-Hypophysen-Nebennieren-/Gonaden-Achsen über Immun-, autonomes, Nerven- und Stoffwechselsystem hinweg und identifiziert die Sexualhormon-Signalgebung als einen zentralen Bereich der Verwundbarkeit. Sie schlagen ein chronobiologie-sensibles Forschungsdesign vor, das engmaschige Zeitreihen-Probenahmen (mit Abbildung von Tages- und Zyklusphase), Multi-Omics-Integration und Multi-System-Studien kombiniert, um aussagekräftige endokrine Unterschiede zu erkennen und personalisierte Interventionen zu unterstützen.
+    Als Übersichtsarbeit fasst dieses Papier bestehende Literatur zusammen und erhebt keine neuen Primärdaten.

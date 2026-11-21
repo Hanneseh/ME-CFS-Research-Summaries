@@ -1,0 +1,20 @@
+id: 2025-07-18_phase-3-trial-registered-to-evaluate-low-dose
+date: '2025-07-18'
+date_display: '2025-07-18'
+date_precision: exact
+source_type: trial_registry
+study_design: Trial registry
+sources:
+- label: ClinicalTrials.gov registry NCT06960928
+  url: https://clinicaltrials.gov/study/NCT06960928
+  kind: registry
+en:
+  title: Phase 3 trial registered to evaluate low-dose sirolimus for Long COVID
+  plain_summary: A placebo-controlled trial of around 80 Long COVID patients has been registered at Mount Sinai to test 12 weeks of low-dose sirolimus (rapamycin). Because the trial is still recruiting and excludes people who had ME/CFS before 2020, no results exist yet and relevance to pre-pandemic ME/CFS will remain indirect.
+  detail: A Phase 3 randomized, double-blind, placebo-controlled clinical trial was registered on ClinicalTrials.gov (NCT06960928) by Dr. David Putrino at the Icahn School of Medicine at Mount Sinai to study low-dose sirolimus (rapamycin) in approximately 80 adults with Long COVID. The trial will evaluate whether inhibiting the mTOR pathway with a 12-week multi-ascending dose escalation regimen can improve patient-reported symptoms, targeting suspected cellular dysfunction, immune exhaustion, and viral persistence. This registry marks the first major placebo-controlled trial of an mTOR inhibitor in a post-viral syndrome, focusing on patients with moderate-to-severe fatigue and post-exertional malaise (PEM). However, because the trial is in the recruitment phase, it does not yet prove the efficacy or safety of sirolimus for Long COVID, nor does it establish optimal clinical dosing. Furthermore, the trial excludes participants with pre-2020 ME/CFS diagnoses, meaning its findings will not immediately
+    prove benefits for the broader pre-pandemic ME/CFS population.
+de:
+  title: Phase-3-Studie zur Prüfung von niedrigdosiertem Sirolimus bei Long COVID registriert
+  plain_summary: Am Mount Sinai wurde eine placebokontrollierte Studie mit rund 80 Long-COVID-Betroffenen registriert, die eine 12-wöchige Behandlung mit niedrigdosiertem Sirolimus (Rapamycin) prüft. Da die Studie noch rekrutiert und Personen mit ME/CFS vor 2020 ausschließt, liegen noch keine Ergebnisse vor und die direkte Aussagekraft für präpandemisches ME/CFS bleibt begrenzt.
+  detail: Eine randomisierte, doppelt verblindete, placebokontrollierte klinische Phase-3-Studie wurde von Dr. David Putrino an der Icahn School of Medicine at Mount Sinai auf ClinicalTrials.gov (NCT06960928) registriert, um niedrigdosiertes Sirolimus (Rapamycin) bei rund 80 Erwachsenen mit Long COVID zu untersuchen. Die Studie prüft, ob eine Hemmung des mTOR-Signalwegs mit einer 12-wöchigen schrittweisen Dosissteigerung patientenberichtete Symptome verbessern kann, indem vermutete zelluläre Dysfunktion, Immunerschöpfung und Viruspersistenz adressiert werden. Diese Registrierung markiert die erste größere placebokontrollierte Studie eines mTOR-Hemmers bei einem postviralen Syndrom mit Fokus auf moderater bis schwerer Fatigue und Post-Exertional Malaise (PEM). Da sich die Studie jedoch in der Rekrutierungsphase befindet, beweist sie noch weder Wirksamkeit noch Sicherheit von Sirolimus bei Long COVID und legt auch keine optimale klinische Dosierung fest. Zudem schließt die Studie Teilnehmende
+    mit einer ME/CFS-Diagnose vor 2020 aus, sodass ihre Ergebnisse nicht unmittelbar einen Nutzen für die breitere präpandemische ME/CFS-Population belegen werden.

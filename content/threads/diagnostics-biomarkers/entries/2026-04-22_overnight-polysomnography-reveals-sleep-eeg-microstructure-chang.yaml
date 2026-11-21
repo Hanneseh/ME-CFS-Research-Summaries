@@ -1,0 +1,20 @@
+id: 2026-04-22_overnight-polysomnography-reveals-sleep-eeg-microstructure-chang
+date: '2026-04-22'
+date_display: '2026-04-22'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Sun et al. 2026, Sleep
+  url: https://doi.org/10.1093/sleep/zsag090
+  kind: paper
+en:
+  title: Overnight polysomnography reveals sleep EEG microstructure changes in Long COVID and ME/CFS
+  plain_summary: Overnight sleep-lab brainwave recordings showed disrupted slow-wave and sleep-spindle coordination in 19 ME/CFS and 28 Long COVID patients, matching how unrefreshing their sleep felt. Because overnight lab testing is strenuous and excludes bedbound patients, this remains an early research finding rather than a routine test.
+  detail: A peer-reviewed case-control neurophysiology study in *Sleep* evaluated overnight in-facility polysomnography and sleep EEG microstructures across 19 ME/CFS patients, 28 Long COVID patients, and 28 matched healthy controls. Quantitative spectral analysis revealed elevated slow oscillation (SO) power during pre-sleep wakefulness and REM sleep in Long COVID compared to controls. During non-REM sleep stages N2 and N3, both ME/CFS and Long COVID cohorts displayed microstructural disruptions, including faster intra-spindle frequency drops and shorter frontal SO peak durations. Furthermore, the study identified altered phase-amplitude coupling with premature fast spindle coupling at the SO trough, which correlated significantly with patient-reported severity of unrefreshing sleep. These findings provide objective electrophysiological evidence that post-viral unrefreshing sleep involves disrupted thalamocortical oscillations and slow-wave coordination. However, the study is limited by
+    modest subcohort sizes, a cross-sectional design without longitudinal tracking, and an in-laboratory overnight testing protocol that excludes bedbound or severely ill individuals while risking acute post-exertional symptom exacerbation.
+de:
+  title: Nächtliche Polysomnographie deckt Veränderungen der Schlaf-EEG-Mikrostruktur bei Long COVID und ME/CFS auf
+  plain_summary: Schlaflabor-Ableitungen zeigten bei 19 ME/CFS- und 28 Long-COVID-Betroffenen gestörte Muster aus langsamen Hirnwellen und Schlafspindeln, die mit dem Gefühl unerholsamen Schlafs zusammenhingen. Da eine Übernachtung im Schlaflabor belastend ist und bettlägerige Menschen ausschließt, bleibt dies vorerst ein früher Forschungsbefund.
+  detail: Eine begutachtete neurophysiologische Fall-Kontroll-Studie in *Sleep* untersuchte nächtliche stationäre Polysomnographien und Schlaf-EEG-Mikrostrukturen bei 19 ME/CFS-Patientinnen und -Patienten, 28 Long-COVID-Betroffenen und 28 gematchten gesunden Kontrollen. Quantitative Spektralanalysen zeigten bei Long COVID eine erhöhte Leistung langsamer Oszillationen (SO) während des Wachzustands vor dem Einschlafen und im REM-Schlaf im Vergleich zu Kontrollen. In den Non-REM-Schlafstadien N2 und N3 wiesen sowohl die ME/CFS- als auch die Long-COVID-Kohorte mikrostrukturelle Störungen auf, darunter ein schnelleres Abfallen der Frequenz innerhalb von Schlafspindeln und kürzere frontale SO-Gipfeldauern. Zudem zeigte sich eine veränderte Phase-Amplituden-Kopplung mit vorzeitiger schneller Spindelkopplung im SO-Tal, die signifikant mit der berichteten Schwere unerholsamen Schlafs korrelierte. Diese Befunde liefern objektive elektrophysiologische Belege dafür, dass postviraler unerholsamer Schlaf
+    mit gestörten thalamokortikalen Oszillationen und einer Fehlabstimmung langsamer Hirnwellen einhergeht. Einschränkungen sind jedoch die moderaten Teilgruppengrößen, das Querschnittsdesign ohne Langzeitverfolgung sowie das stationäre Übernacht-Testprotokoll, das bettlägerige oder schwer erkrankte Betroffene ausschließt und akute post-exertionelle Symptomverschlechterungen riskiert.

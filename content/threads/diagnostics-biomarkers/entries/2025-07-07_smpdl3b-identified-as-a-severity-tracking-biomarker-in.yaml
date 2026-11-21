@@ -1,0 +1,18 @@
+id: 2025-07-07_smpdl3b-identified-as-a-severity-tracking-biomarker-in
+date: '2025-07-07'
+date_display: '2025-07-07'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Rostami-Afshari et al. 2025, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-025-06829-0
+  kind: paper
+en:
+  title: SMPDL3B identified as a severity-tracking biomarker in two cohorts
+  plain_summary: In cohorts from Canada and Norway, higher blood levels of a protein called SMPDL3B matched more severe ME/CFS symptoms, suggesting a link to ongoing inflammation. Because this was a single-timepoint study with mostly female patients, it cannot prove cause and effect or serve as a clinical test yet.
+  detail: A case-control study at CHU Sainte-Justine compared 249 Canadian and 141 Norwegian ME/CFS patients against healthy controls and found that soluble SMPDL3B in plasma was significantly elevated and correlated with symptom severity, while the membrane-bound form on monocytes was reduced by increased PI-PLC cleavage activity. The protein normally dampens TLR4-driven inflammatory signaling, so its loss from the cell surface provides a mechanistic link between the observed immune dysregulation and chronic inflammation. In laboratory experiments, vildagliptin and saxagliptin both restored membrane-bound SMPDL3B by inhibiting PI-PLC, offering a potential therapeutic direction. The study is cross-sectional and cannot prove causation, and the cohorts were predominantly female, limiting sex-specific analysis.
+de:
+  title: SMPDL3B in zwei Kohorten als Biomarker für den Krankheitsschweregrad identifiziert
+  plain_summary: In Kohorten aus Kanada und Norwegen gingen höhere Blutwerte des Proteins SMPDL3B mit stärkeren ME/CFS-Symptomen einher, was auf eine Verbindung zu anhaltender Entzündung hindeutet. Da es sich um eine Querschnittsstudie mit überwiegend weiblichen Teilnehmenden handelt, beweist sie noch keine Ursache-Wirkungs-Beziehung und liefert keinen fertigen Kliniktest.
+  detail: Eine Fall-Kontroll-Studie am CHU Sainte-Justine verglich 249 kanadische und 141 norwegische ME/CFS-Patientinnen und -Patienten mit gesunden Kontrollen und stellte fest, dass lösliches SMPDL3B im Plasma signifikant erhöht war und mit dem Schweregrad der Symptome korrelierte, während die membrangebundene Form auf Monozyten durch eine gesteigerte PI-PLC-Spaltungsaktivität vermindert war. Dieses Protein dämpft normalerweise TLR4-vermittelte Entzündungssignale, sodass sein Verlust von der Zelloberfläche eine mechanistische Verbindung zwischen der beobachteten Immundysregulation und chronischer Entzündung herstellt. In Laborexperimenten stellten sowohl Vildagliptin als auch Saxagliptin durch Hemmung von PI-PLC die membrangebundene Form von SMPDL3B wieder her, was eine mögliche therapeutische Richtung aufzeigt. Da die Studie als Querschnittsuntersuchung keine Kausalität belegen kann und die Kohorten überwiegend weiblich waren, bleibt eine geschlechtsspezifische Auswertung eingeschränkt.

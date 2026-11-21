@@ -1,0 +1,20 @@
+id: 2025-10-01_diagnostic-blood-markers-differentiate-post-covid-19-condition
+date: '2025-10-01'
+date_display: 2025-10
+date_precision: month
+source_type: paper
+study_design: null
+sources:
+- label: Giménez-Orenga et al. 2025, Brain, Behavior, & Immunity - Health
+  url: https://pubmed.ncbi.nlm.nih.gov/40726775/
+  kind: paper
+en:
+  title: Diagnostic blood markers differentiate post-COVID-19 condition from ME/CFS and fibromyalgia, highlighting HERV-W ENV subgroup activation
+  plain_summary: In 193 women, researchers detected a reactivated endogenous virus protein (HERV-W ENV) in subsets of patients with Long COVID, fibromyalgia, and ME/CFS, alongside distinct blood-count and iron markers in Long COVID. With only 12 ME/CFS-only participants and no men included, these patterns cannot yet separate the conditions reliably or prove causality.
+  detail: Giménez-Orenga et al. (published in _Brain, Behavior, & Immunity - Health_) analyzed HERV-W ENV antigenemia, cytokines, anti-SARS-CoV-2 serology, and red blood cell parameters in 193 post-pandemic females (including post-COVID-19 condition, ME/CFS, fibromyalgia, and controls). Pathogenic HERV-W ENV protein was detected in subsets of all patient groups, with the highest prevalence in post-COVID-19 condition (48.5%) compared to fibromyalgia (33.3%), co-diagnosis (30%), ME/CFS (25%), and controls (8.9%). Post-COVID-19 condition patients exhibited a distinct signature, including lower ferritin, higher mean corpuscular hemoglobin concentration (MCHC), and elevated anti-SARS-CoV-2 IgE/IgM. ROC analysis using these variables differentiated post-COVID-19 condition from other conditions. However, the cohort was exclusively female, which limits generalizability to male patients, and the small sample size of the ME/CFS-only group (n = 12) limits statistical power. Additionally, the cross-sectional
+    design cannot establish a causal relationship between HERV-W ENV activation, hematological/cytokine changes, and clinical symptoms.
+de:
+  title: Blutmarker grenzen Post-COVID-Syndrom von ME/CFS und Fibromyalgie ab und heben HERV-W-ENV-Aktivierung in Subgruppen hervor
+  plain_summary: In einer Studie an 193 Frauen fanden sich bei Teilgruppen mit Long COVID, Fibromyalgie und ME/CFS Zeichen eines aktivierten körpereigenen Retrovirus-Proteins (HERV-W ENV) sowie auffällige Eisen- und Blutwerte bei Long COVID. Wegen nur 12 reinen ME/CFS-Fällen und dem Fehlen männlicher Teilnehmender taugt dies aber noch nicht als sicherer Unterscheidungstest.
+  detail: Giménez-Orenga et al. (veröffentlicht in *Brain, Behavior, & Immunity - Health*) analysierten HERV-W-ENV-Antigenämie, Zytokine, Anti-SARS-CoV-2-Serologie und Erythrozyten-Parameter bei 193 Frauen nach der Pandemie (darunter Post-COVID-19-Syndrom, ME/CFS, Fibromyalgie und Kontrollen). Das pathogene HERV-W-ENV-Protein wurde in Teilgruppen aller Erkrankten nachgewiesen – am häufigsten bei Post-COVID-19 (48,5 %), verglichen mit Fibromyalgie (33,3 %), Doppeldiagnose (30 %), ME/CFS (25 %) und Kontrollen (8,9 %). Patientinnen mit Post-COVID-19 zeigten ein eigenes Profil mit niedrigerem Ferritin, höherer mittlerer korpuskulärer Hämoglobinkonzentration (MCHC) und erhöhten Anti-SARS-CoV-2-IgE/IgM-Werten; eine ROC-Analyse dieser Variablen grenzte Post-COVID-19 von den übrigen Gruppen ab. Allerdings umfasste die Kohorte ausschließlich Frauen, die reine ME/CFS-Gruppe war mit n = 12 sehr klein, und das Querschnittsdesign kann keinen kausalen Zusammenhang zwischen HERV-W-ENV-Aktivierung, Blutveränderungen
+    und Symptomen belegen.

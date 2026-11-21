@@ -1,0 +1,19 @@
+id: 2026-07-25_necroptosis-and-cellular-stress-pathways-linked-to-endothelial
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Journal of Allergy and Clinical Immunology (2026)
+  url: https://www.sciencedirect.com/science/article/pii/S0091674926004963
+  kind: paper
+en:
+  title: Necroptosis and cellular stress pathways linked to endothelial and immune dysfunction in Long COVID
+  plain_summary: A peer-reviewed study found signs of necroptosis—an inflammatory cell-death program—in blood vessel and immune cells from Long COVID patients. This suggests ongoing cell-death signaling could keep vessel damage active, though blocking it has not yet been tested in people.
+  detail: A peer-reviewed study in the Journal of Allergy and Clinical Immunology identified elevated necroptosis markers—indicators of a regulated, pro-inflammatory form of programmed cell death—in circulating immune cells and endothelial cells from Long COVID patients. The work mechanistically links activation of necroptosis signaling to microvascular barrier disruption and systemic inflammation, suggesting that endothelial damage may be actively sustained by specific cell-death pathways rather than simply persisting as residual post-infectious injury. The authors propose necroptosis pathway inhibition as a potential therapeutic strategy for microvascular repair. The study relies on in vitro and ex vivo functional assays; clinical proof of efficacy for necroptosis inhibitors in human patients has not been tested. The findings are from a Long COVID cohort and should not be assumed to generalize to all ME/CFS presentations.
+de:
+  title: Nekroptose und zelluläre Stresswege mit Endothel- und Immundysfunktion bei Long COVID verknüpft
+  plain_summary: Eine begutachtete Studie fand Anzeichen von Nekroptose – einem entzündlichen Zelltodprogramm – in Gefäß- und Immunzellen bei Long COVID. Ob eine Hemmung dieses Signalwegs beim Menschen hilft, wurde noch nicht getestet.
+  detail: Eine begutachtete Studie im *Journal of Allergy and Clinical Immunology* identifizierte erhöhte Nekroptose-Marker – Hinweise auf eine regulierte, entzündungsfördernde Form des programmierten Zelltods – in zirkulierenden Immunzellen und Endothelzellen von Long-COVID-Betroffenen. Die Arbeit verknüpft eine Aktivierung der Nekroptose-Signalkaskade mechanistisch mit einer Störung der mikrovaskulären Barriere sowie systemischer Entzündung und legt nahe, dass Endothelschäden aktiv durch spezifische Zelltodwege aufrechterhalten werden könnten, statt nur als Restschaden nach der Infektion fortzubestehen. Die Autorinnen und Autoren schlagen die Hemmung des Nekroptose-Signalwegs als mögliche therapeutische Strategie zur Gefäßreparatur vor. Die Studie stützt sich auf In-vitro- und Ex-vivo-Funktionstests; ein klinischer Wirksamkeitsnachweis von Nekroptose-Inhibitoren bei Patientinnen und Patienten steht aus. Zudem stammen die Befunde aus einer Long-COVID-Kohorte und dürfen nicht pauschal auf
+    alle ME/CFS-Verläufe übertragen werden.

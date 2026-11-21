@@ -1,0 +1,20 @@
+id: 2025-07-18_regain-trial-of-oxaloacetate-in-long-covid-reports
+date: '2025-07-18'
+date_display: '2025-07-18'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Vernon et al. 2025, Frontiers in Neuroscience
+  url: https://doi.org/10.3389/fnins.2025.1627462
+  kind: paper
+en:
+  title: REGAIN trial of Oxaloacetate in Long COVID reports cognitive gains but misses primary fatigue endpoint
+  plain_summary: In a placebo-controlled trial of 69 Long COVID patients, taking 2,000 mg of oxaloacetate daily for six weeks did not beat placebo on the main fatigue score, though secondary computer tests of thinking speed improved. Missing the primary goal means oxaloacetate is not proven as an anti-fatigue treatment, and larger trials are needed.
+  detail: The randomized, double-blind, placebo-controlled REGAIN trial of 69 adults with Long COVID showed that a daily dose of 2,000 mg of oral oxaloacetate (OAA) for 42 days did not produce a statistically significant difference in fatigue reduction compared to placebo on the primary Chalder Fatigue Questionnaire (CFQ). However, secondary measures revealed that the oxaloacetate group experienced significantly greater improvements in objective cognitive function (using the DANA Brain Vital battery) and a more rapid reduction in total symptom burden at day 21. These results suggest that targeting mitochondrial bioenergetics with oxaloacetate may selectively alleviate cognitive dysfunction ("brain fog") and overall symptom severity, even when generalized fatigue scores remain unchanged. Nevertheless, because the trial failed to meet its primary efficacy endpoint for fatigue, the clinical utility of oxaloacetate as a general anti-fatigue agent remains unproven. The study's single-center design,
+    modest sample size, and short 42-day duration also limit the strength of the evidence.
+de:
+  title: REGAIN-Studie zu Oxaloacetat bei Long COVID berichtet kognitive Zugewinne, verfehlt aber primären Fatigue-Endpunkt
+  plain_summary: In einer placebokontrollierten Studie mit 69 Long-COVID-Betroffenen übertraf die tägliche Einnahme von 2.000 mg Oxaloacetat über sechs Wochen Placebo beim Hauptmaß für Fatigue nicht, verbesserte aber sekundäre Computertests zur Denkgeschwindigkeit. Da der primäre Endpunkt verfehlt wurde, ist Oxaloacetat nicht als wirksames Mittel gegen Fatigue belegt und erfordert größere Studien.
+  detail: Die randomisierte, doppelt verblindete, placebokontrollierte REGAIN-Studie an 69 Erwachsenen mit Long COVID zeigte, dass eine tägliche Dosis von 2.000 mg oralem Oxaloacetat (OAA) über 42 Tage im Vergleich zu Placebo keinen statistisch signifikanten Unterschied bei der Senkung der Fatigue auf dem primären Chalder Fatigue Questionnaire (CFQ) erzielte. Sekundäre Messungen ergaben jedoch in der Oxaloacetat-Gruppe signifikant größere Verbesserungen in objektiven kognitiven Tests (DANA Brain Vital) sowie eine raschere Abnahme der Gesamtsymptomlast an Tag 21. Diese Ergebnisse deuten darauf hin, dass eine Beeinflussung der mitochondrialen Bioenergetik durch Oxaloacetat möglicherweise gezielt kognitive Beeinträchtigungen („Brain Fog“) und die Gesamtschwere lindert, selbst wenn allgemeine Fatigue-Scores unverändert bleiben. Da die Studie ihren primären Wirksamkeitsendpunkt für Fatigue verfehlte, bleibt der klinische Nutzen von Oxaloacetat als allgemeines Anti-Fatigue-Mittel jedoch unbewiesen;
+    auch das monozentrische Design, die moderate Fallzahl und die kurze Dauer von 42 Tagen begrenzen die Aussagekraft.

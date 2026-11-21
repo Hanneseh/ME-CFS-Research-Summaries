@@ -1,0 +1,18 @@
+id: 2026-04-28_antigen-discovery-project-targets-the-proteins-driving-dysfuncti
+date: '2026-04-28'
+date_display: '2026-04-28'
+date_precision: exact
+source_type: report
+study_design: null
+sources:
+- label: Selin, Kohlgruber, and Kumar 2026, Solve ME/CFS webinar deck
+  url: https://solvecfs.org/wp-content/uploads/2026/05/PDF-Deck-for-4.28.26-Selin_Kohlgruber_Kumar-webinar.pdf
+  kind: other
+en:
+  title: Antigen-discovery project targets the proteins driving dysfunctional T cells
+  plain_summary: In a webinar, researchers described an ongoing project testing what specific viral or human protein fragments trigger exhausted T cells in ME/CFS and Long COVID. It is an early-stage research effort without published results or validated target hits yet.
+  detail: In a Solve ME/CFS Initiative webinar, Liisa Selin, Ayano Kohlgruber, and Roshan Kumar outlined an ongoing antigen-discovery study focused on exhausted and clonally expanded T cells in ME/CFS and Long COVID. Their approach combines prior evidence of reduced perforin and reduced IFN-gamma and TNF-alpha production with single-cell T-cell receptor analysis, then tests those receptors against HLA-displayed libraries of microbial and human peptides. This matters because it moves the field from describing exhausted T cells toward asking what they are actually recognizing, including the possibility of persistent pathogen antigens, molecular mimicry, or both. If the approach works, it could eventually define biologically meaningful subgroups rather than treating all immune dysfunction as nonspecific inflammation. At this stage, though, it is still an active project presentation without validated antigen hits or published cohort-scale confirmation.
+de:
+  title: Antigen-Suchprojekt nimmt die Proteine hinter fehlregulierten T-Zellen ins Visier
+  plain_summary: In einem Webinar stellten Forschende ein laufendes Projekt vor, das herausfinden soll, welche konkreten Virus- oder Körperproteine erschöpfte T-Zellen bei ME/CFS und Long COVID antreiben. Es handelt sich um ein noch laufendes Vorhaben ohne veröffentlichte Treffer oder bestätigte Kohortenergebnisse.
+  detail: In einem Webinar der Solve ME/CFS Initiative stellten Liisa Selin, Ayano Kohlgruber und Roshan Kumar eine laufende Antigen-Suchstudie zu erschöpften und klonal vermehrten T-Zellen bei ME/CFS und Long COVID vor. Ihr Ansatz verbindet frühere Befunde zu verringerter Perforin-, IFN-gamma- und TNF-alpha-Bildung mit Einzelzell-Analysen der T-Zell-Rezeptoren und prüft diese Rezeptoren anschließend gegen HLA-präsentierte Bibliotheken aus mikrobiellen und menschlichen Peptiden. Das ist bedeutsam, weil das Feld damit über die bloße Beschreibung erschöpfter T-Zellen hinausgeht und fragt, was diese tatsächlich erkennen – etwa anhaltende Erregerantigene, molekulare Mimikry oder beides. Derzeit handelt es sich jedoch um eine Projektpräsentation im Entstehen ohne validierte Antigen-Treffer oder veröffentlichte Bestätigung auf Kohortenebene.

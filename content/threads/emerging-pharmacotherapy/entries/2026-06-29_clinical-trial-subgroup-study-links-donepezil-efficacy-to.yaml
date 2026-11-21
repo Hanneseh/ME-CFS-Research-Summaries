@@ -1,0 +1,20 @@
+id: 2026-06-29_clinical-trial-subgroup-study-links-donepezil-efficacy-to
+date: '2026-06-29'
+date_display: '2026-06-29'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Donepezil ameliorates fatigue and depression in PASC patients with HHV-6B SITH-1-induced acetylcholine deficiency (Frontiers in Pharmacology 2026)
+  url: https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1807203/full
+  kind: paper
+en:
+  title: Clinical trial subgroup study links donepezil efficacy to SITH-1-induced acetylcholine deficiency
+  plain_summary: In a subgroup analysis of 156 Long COVID patients, the dementia drug donepezil reduced fatigue and depression compared to placebo among the 63% who tested positive for anti-SITH-1 antibodies linked to HHV-6B reactivation. Short trial duration and reliance on subgroup selection mean long-term safety and wider benefit still need testing.
+  detail: A randomized clinical trial subgroup analysis published in *Frontiers in Pharmacology* showed that the acetylcholinesterase inhibitor donepezil significantly improved fatigue and depressive symptoms in Post-Acute Sequelae of COVID-19 (PASC) patients positive for anti-SITH-1 antibodies. The researchers demonstrated that latent HHV-6B reactivation in the brain and olfactory bulb can express the SITH-1 protein, which subsequently drives a reduction in brain acetylcholine levels. In the study's cohort of 156 PASC patients, approximately 63% were seropositive for anti-SITH-1 antibodies and presented with more severe baseline symptoms. Within this seropositive subgroup, donepezil treatment led to statistically significant improvements on the Chalder Fatigue Scale and HADS depression scores compared to placebo, suggesting anti-SITH-1 testing could serve as a companion diagnostic. However, the study does not establish donepezil's efficacy in the broader, seronegative PASC cohort, and the
+    relatively short trial duration means long-term safety and tolerability in this population remain unproven.
+de:
+  title: Subgruppenanalyse einer klinischen Studie verknüpft Donepezil-Wirksamkeit mit SITH-1-bedingtem Acetylcholinmangel
+  plain_summary: In einer Subgruppenanalyse von 156 Long-COVID-Betroffenen linderte das Demenzmedikament Donepezil Fatigue und depressive Symptome gegenüber Placebo bei jenen 63 %, die Antikörper gegen das HHV-6B-Protein SITH-1 aufwiesen. Wegen der kurzen Studiendauer und der Konzentration auf eine Untergruppe bleiben Langzeitsicherheit und breiterer Nutzen weiter zu prüfen.
+  detail: Eine Subgruppenanalyse einer randomisierten klinischen Studie, veröffentlicht in *Frontiers in Pharmacology*, zeigte, dass der Acetylcholinesterase-Hemmer Donepezil Fatigue und depressive Symptome bei PASC-Betroffenen (Post-Acute Sequelae of COVID-19) mit positivem Nachweis von Anti-SITH-1-Antikörpern signifikant verbesserte. Die Forschenden zeigten, dass eine latente HHV-6B-Reaktivierung im Gehirn und Riechkolben das SITH-1-Protein exprimieren kann, was anschließend zu einer Absenkung des Acetylcholinspiegels im Gehirn führt. In der Kohorte von 156 PASC-Patientinnen und -Patienten waren rund 63 % seropositiv für Anti-SITH-1-Antikörper und wiesen schwerere Ausgangssymptome auf. Innerhalb dieser seropositiven Untergruppe führte Donepezil gegenüber Placebo zu statistisch signifikanten Verbesserungen auf der Chalder Fatigue Scale und den HADS-Depressionswerten, was Anti-SITH-1 als möglichen Begleit-Biomarker nahelegt. Die Studie belegt jedoch keine Wirksamkeit in der breiteren, seronegativen
+    PASC-Gruppe, und wegen der kurzen Laufzeit bleiben Langzeitsicherheit und Verträglichkeit in dieser Population unbewiesen.

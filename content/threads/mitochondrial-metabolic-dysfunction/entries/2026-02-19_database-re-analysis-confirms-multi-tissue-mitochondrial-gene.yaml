@@ -1,0 +1,26 @@
+id: 2026-02-19_database-re-analysis-confirms-multi-tissue-mitochondrial-gene
+date: '2026-02-19'
+date_display: '2026-02-19'
+date_precision: exact
+source_type: paper
+study_design: GWAS
+sources:
+- label: Keele et al. 2026, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms27041997
+  kind: paper
+en:
+  title: Database re-analysis confirms multi-tissue mitochondrial gene expression changes
+  plain_summary: Re-analyzing public ME/CFS gene and protein databases found reduced activity of two mitochondrial genes (MT-RNR1 and MT-RNR2) and flagged 201 existing drugs as research leads. Because consistency across studies was low, those drug leads must still be tested in clinical trials.
+  detail: '- **What changed:** A systematic re-analysis of bulk, single-cell, and proteomic datasets from mapMECFS and DecodeME GWAS identified consistent downregulation of mitochondrial genes MT-RNR1 and MT-RNR2, mapping 201 FDA-approved compounds for drug repurposing.
+
+    - **Why it matters:** This standardizes diverse datasets to confirm mitochondrial dysregulation as a core multi-tissue signature and identifies repurposed therapeutic leads (such as thiamine, dimethyl fumarate, and ruxolitinib).
+
+    - **What it does not prove yet:** The consistency of individual gene expression across studies remains low due to small sample sizes, and the clinical efficacy of the identified drug candidates must be evaluated in prospective trials.'
+de:
+  title: Datenbank-Reanalyse bestätigt gewebübergreifende Veränderungen mitochondrialer Genexpression
+  plain_summary: Eine erneute Auswertung öffentlicher ME/CFS-Datenbanken fand eine verringerte Aktivität zweier mitochondrialer Gene (MT-RNR1 und MT-RNR2) und listete 201 mögliche Wirkstoffe auf. Da die Einzelstudien stark schwankten, müssen solche Kandidaten erst klinisch geprüft werden.
+  detail: '- **Was sich gezeigt hat:** Eine systematische Reanalyse von Bulk-, Einzelzell- und Proteom-Datensätzen aus mapMECFS und der DecodeME-GWAS zeigte eine durchgängige Herunterregulierung der mitochondrialen Gene MT-RNR1 und MT-RNR2 und ordnete 201 FDA-zugelassene Wirkstoffe für ein Drug-Repurposing zu.
+
+    - **Warum das wichtig ist:** Dies vereinheitlicht heterogene Datensätze, bestätigt mitochondriale Fehlregulation als gewebeübergreifende Signatur und benennt mögliche wiederverwendbare Kandidaten (wie Thiamin, Dimethylfumarat und Ruxolitinib).
+
+    - **Was damit noch nicht belegt ist:** Die Übereinstimmung einzelner Genveränderungen zwischen den Studien bleibt wegen kleiner Fallzahlen gering, und die klinische Wirksamkeit der genannten Wirkstoffkandidaten muss in prospektiven Studien geprüft werden.'

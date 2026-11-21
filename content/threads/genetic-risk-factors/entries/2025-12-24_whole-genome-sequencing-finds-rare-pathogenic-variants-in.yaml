@@ -1,0 +1,20 @@
+id: 2025-12-24_whole-genome-sequencing-finds-rare-pathogenic-variants-in
+date: '2025-12-24'
+date_display: '2025-12-24'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Birch et al. 2025, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-025-07586-w
+  kind: paper
+en:
+  title: Whole-genome sequencing finds rare pathogenic variants in 39% of affected individuals
+  plain_summary: A family sequencing study found rare, high-impact genetic variants—mostly in cellular energy and nerve-signaling genes—in 39% of the 31 participants tested. While it suggests some cases may stem from rare individual mutations converging on energy failure, the group is far too small to know how common this is overall.
+  detail: A precision genomics study applied clinical-grade whole-genome sequencing to 31 participants from 25 families and RNA sequencing to 16 of those patients, using machine-learning triage to identify rare, large-effect monogenic variants. Pathogenic or likely pathogenic variants were identified in 39% of affected individuals, predominantly involving pathways of ATP generation, oxidative phosphorylation, and synaptic signalling. Despite high genetic diversity between patients, the individual mutations converged on shared core problems—impaired energy production and reduced cellular stress resilience—supporting a model in which ME/CFS may represent a collection of distinct rare molecular disorders that share a physiological endpoint. The cohort of 31 participants is too small to estimate population-level prevalence of monogenic contributors, and larger prospective family-based and population-based WGS studies are required to determine how commonly rare variants drive ME/CFS independently
+    of common polygenic risk.
+de:
+  title: Gesamtgenom-Sequenzierung findet seltene pathogene Varianten bei 39 % der untersuchten Betroffenen
+  plain_summary: Eine Sequenzierungsstudie an Familien fand bei 39 % von 31 untersuchten Betroffenen seltene, stark wirksame Genvarianten – vor allem in Genen für Zellenergie und Nerven-Signalübertragung. Das legt nahe, dass bei manchen Fällen seltene Einzelmutationen auf ein gemeinsames Energieproblem zulaufen könnten; für allgemeine Häufigkeitsaussagen ist die Gruppe aber viel zu klein.
+  detail: Eine Präzisionsgenomik-Studie wandte klinische Gesamtgenom-Sequenzierung bei 31 Teilnehmenden aus 25 Familien sowie RNA-Sequenzierung bei 16 dieser Betroffenen an und nutzte Machine-Learning-Filter, um seltene monogene Varianten mit großem Effekt aufzuspüren. Bei 39 % der betroffenen Personen wurden pathogene oder wahrscheinlich pathogene Varianten entdeckt, vorwiegend in Signalwegen für ATP-Bildung, oxidative Phosphorylierung und synaptische Signalübertragung. Trotz großer genetischer Vielfalt zwischen den einzelnen Erkrankten liefen die Mutationen auf gemeinsame Kernprobleme zu – eine gestörte Energieproduktion und eine verminderte Belastbarkeit bei Zellstress –, was ein Modell stützt, dem zufolge ME/CFS eine Sammlung unterschiedlicher seltener molekularer Störungen mit ähnlichem physiologischem Endpunkt sein könnte. Die Kohorte von 31 Teilnehmenden ist jedoch zu klein, um die tatsächliche Häufigkeit monogener Faktoren in der Gesamtbevölkerung abzuschätzen; größere prospektive
+    Familien- und Bevölkerungsstudien per Gesamtgenom-Sequenzierung sind nötig.

@@ -1,0 +1,18 @@
+id: 2025-09-03_exercise-linked-epigenetic-changes-map-pem-biology
+date: '2025-09-03'
+date_display: '2025-09-03'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Sharma et al. 2025, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms26178563
+  kind: paper
+en:
+  title: Exercise-linked epigenetic changes map PEM biology
+  plain_summary: After a two-day exercise test used to trigger PEM, ME/CFS patients showed DNA methylation shifts in immune and blood-vessel genes that did not appear in healthy controls. This supports a real biological reaction to exertion, though it does not yet show which shifts cause symptoms or offer a practical test.
+  detail: A precision medicine study in ME/CFS used a two-day CPET to trigger PEM and then measured DNA methylation changes before and after exercise. The main change was a set of ME/CFS-specific epigenetic shifts tied to immune regulation, inflammation, and vascular biology, with most changes absent in healthy controls. That supports a biologic exercise response rather than a purely subjective flare. It does not yet show which changes drive symptoms, how long they persist, or whether they can be used as a practical diagnostic test.
+de:
+  title: Belastungsgekoppelte epigenetische Veränderungen kartieren PEM-Biologie
+  plain_summary: Nach einem zweitägigen Belastungstest zeigten ME/CFS-Betroffene epigenetische DNA-Veränderungen in Immun- und Gefäßgenen, die bei gesunden Kontrollen ausblieben. Das stützt eine biologische Belastungsreaktion, klärt aber noch nicht, welche Veränderungen Symptome auslösen oder ob daraus ein Praxistest entsteht.
+  detail: Eine Präzisionsmedizin-Studie zu ME/CFS nutzte eine zweitägige Spiroergometrie (CPET) zur Auslösung von PEM und maß anschließend Veränderungen der DNA-Methylierung vor und nach Belastung. Der Hauptbefund war eine Reihe ME/CFS-spezifischer epigenetischer Verschiebungen rund um Immunregulation, Entzündung und Gefäßbiologie, die bei gesunden Kontrollpersonen größtenteils fehlten. Dies stützt eine biologische Reaktion auf Belastung statt einer rein subjektiven Verschlechterung. Noch zeigt die Studie jedoch nicht, welche Veränderungen Symptome antreiben, wie lange sie anhalten oder ob sie sich als praxistauglicher Diagnosetest eignen.

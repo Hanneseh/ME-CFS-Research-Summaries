@@ -1,0 +1,18 @@
+id: 2026-09-07_international-consensus-proposes-risk-stratified-diagnostic-stan
+date: '2026-09-07'
+date_display: '2026-09-07'
+date_precision: exact
+source_type: guideline
+study_design: null
+sources:
+- label: Kujawski et al. 2026, BMC Medicine
+  url: https://doi.org/10.1186/s12916-026-05161-8
+  kind: paper
+en:
+  title: International consensus proposes risk-stratified diagnostic standardization for ME/CFS and PAIS
+  plain_summary: Nineteen experts across 10 countries proposed risk-tiered diagnostic standards that advise against strenuous exercise or tilt tests in moderate-to-severe ME/CFS, favoring low-burden questionnaires and home monitoring. These cut-offs are provisional expert proposals that still need multi-center validation.
+  detail: 'Kujawski and colleagues used a modified Nominal Group Technique with 19 experts across 10 countries to propose provisional assessment parameters across PEM, autonomic, cognitive, functional, sleep, pain, and hypersensitivity domains. The framework explicitly classifies low-, moderate-, and high-risk assessments and advises against routine repeated CPET or prolonged tilt testing in moderate-to-severe and bedbound patients, favoring low-burden questionnaires, passive monitoring, and home or decentralized assessment where possible. It is a consensus framework rather than prospective diagnostic-accuracy research: the cut-offs lack multicenter validation, advanced tests may remain inaccessible, and no primary patient cohort was enrolled. Its main contribution is a safety-oriented standardization proposal, not a validated diagnostic test or treatment recommendation.'
+de:
+  title: Internationaler Konsens schlägt risikostratifizierte Diagnosestandards für ME/CFS und PAIS vor
+  plain_summary: Neunzehn Fachleute aus zehn Ländern haben risikogestufte Diagnosevorschläge erarbeitet, die bei moderatem bis schwerem ME/CFS von belastenden Testverfahren wie CPET oder langen Kipptischtests abraten und schonende Alternativen bevorzugen. Die vorgeschlagenen Grenzwerte sind vorläufig und müssen noch multizentrisch geprüft werden.
+  detail: 'Kujawski und Kolleginnen und Kollegen nutzten eine modifizierte Nominal-Group-Technik mit 19 Fachleuten aus 10 Ländern, um vorläufige Bewertungsparameter in den Bereichen PEM, autonomes Nervensystem, Kognition, Funktion, Schlaf, Schmerz und Überempfindlichkeit vorzuschlagen. Der Rahmen teilt Untersuchungen ausdrücklich in geringes, mittleres und hohes Risiko ein und rät bei moderat bis schwer Betroffenen sowie Bettlägerigen von routinemäßigen wiederholten CPET-Tests oder verlängerten Kipptischuntersuchungen ab; bevorzugt werden belastungsarme Fragebögen, passives Monitoring und möglichst häusliche oder dezentrale Erhebungen. Es handelt sich um einen Konsensrahmen ohne eigene Patientenkohorte: Die Grenzwerte sind noch nicht multizentrisch validiert, und spezialisierte Tests bleiben teils schwer zugänglich. Der Hauptbeitrag liegt in einem sicherheitsorientierten Standardisierungsvorschlag, nicht in einem validierten Diagnosetest oder einer Therapieempfehlung.'

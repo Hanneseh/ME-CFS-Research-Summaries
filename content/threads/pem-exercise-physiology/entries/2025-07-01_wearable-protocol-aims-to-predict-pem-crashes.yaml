@@ -1,0 +1,18 @@
+id: 2025-07-01_wearable-protocol-aims-to-predict-pem-crashes
+date: '2025-07-01'
+date_display: '2025-07-01'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Lampe et al. 2025, Research Square
+  url: https://doi.org/10.21203/rs.3.rs-5047808/v1
+  kind: preprint
+en:
+  title: Wearable protocol aims to predict PEM crashes
+  plain_summary: The U-WaTCH study protocol outlines a 180-day plan using Apple Watch data and symptom logs to try spotting body signals before a PEM crash hits. Because it is only a study plan so far, how accurately it predicts crashes or helps patients remains unproven.
+  detail: This protocol for the U-WaTCH study proposed 180-day wearable monitoring with Apple Watch data plus symptom logging to predict PEM crashes across post-COVID syndrome and inflammatory rheumatic illness. The main shift is from retrospective symptom recall to continuous, objective activity tracking that could identify pre-crash physiologic patterns. Clinically, that points toward pacing support and individualized monitoring rather than a one-time assessment. The study only defines the method, so prediction performance, generalizability, and clinical utility remain unproven.
+de:
+  title: Wearable-Protokoll soll PEM-Einbrüche vorhersagen
+  plain_summary: Das U-WaTCH-Studienprotokoll beschreibt einen 180-Tage-Plan, der Apple-Watch-Daten und Symptomprotokolle kombiniert, um Warnsignale vor einem PEM-Crash zu erkennen. Da bislang nur das Studiendesign vorliegt, sind Vorhersagekraft und klinischer Nutzen noch unbewiesen.
+  detail: Dieses Protokoll für die U-WaTCH-Studie schlägt ein 180-tägiges Wearable-Monitoring mit Apple-Watch-Daten und begleitender Symptomdokumentation vor, um PEM-Einbrüche bei Post-COVID-Syndrom und entzündlich-rheumatischen Erkrankungen vorherzusagen. Der wesentliche Schritt liegt im Wechsel von rückblickender Symptomerinnerung zu einer kontinuierlichen, objektiven Aktivitätserfassung, die physiologische Muster vor einem Crash erkennen könnte. Klinisch weist das in Richtung Pacing-Unterstützung und individueller Überwachung statt einmaliger Momentaufnahmen. Da die Arbeit jedoch nur die Methodik festlegt, bleiben Vorhersageleistung, Übertragbarkeit und klinischer Nutzen bislang unbewiesen.

@@ -1,0 +1,20 @@
+id: 2026-05-22_mechanistic-review-argues-me-cfs-pathology-is-state
+date: '2026-05-22'
+date_display: '2026-05-22'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Watton & Prusty 2026, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-026-08319-3
+  kind: paper
+en:
+  title: Mechanistic review argues ME/CFS pathology is state-dependent and calls for challenge-based study designs
+  plain_summary: A review argued that routine resting blood tests often miss ME/CFS abnormalities because key biological disruptions may only appear under physical or physiological stress. It offers a research framework rather than new patient data.
+  detail: A review in the Journal of Translational Medicine by Watton and Prusty argued that ME/CFS must be understood as a disorder of impaired adaptive capacity in which biological abnormalities are revealed under physiological stress rather than at rest—explaining why routine resting laboratory values often appear normal. The paper linked persistent immune dysregulation, metabolic reprogramming, endothelial dysfunction, abnormal coagulation, and extracellular vesicle signalling into a unified post-infectious disease framework, and compiled a chart of candidate therapeutic interventions with reported clinical signals. For clinical characterization, the key methodological implication is that studies measuring biomarkers only at rest will consistently underestimate the pathological signal; the paper provides scientific grounding for challenge-based protocols and dynamic diagnostic testing. It remains a conceptual review without new primary data, but it synthesises the current mechanistic
+    literature in a way that directly informs how future characterization cohorts should be designed.
+de:
+  title: Mechanistische Übersichtsarbeit beschreibt ME/CFS-Pathologie als zustandsabhängig und plädiert für Belastungs-Studiendesigns
+  plain_summary: Eine Übersichtsarbeit argumentiert, dass Routineblutwerte im Ruhezustand bei ME/CFS oft unauffällig bleiben, weil zentrale biologische Störungen erst unter körperlichem oder physiologischem Stress sichtbar werden. Sie entwirft ein Forschungskonzept, liefert aber keine neuen Patientendaten.
+  detail: Eine im Journal of Translational Medicine veröffentlichte Übersichtsarbeit von Watton und Prusty argumentierte, dass ME/CFS als Störung der Anpassungsfähigkeit verstanden werden müsse, bei der biologische Auffälligkeiten erst unter physiologischer Belastung statt in Ruhe zutage treten – was erkläre, warum übliche Ruhe-Laborwerte oft normal ausfallen. Das Papier verknüpfte anhaltende Immundysregulation, Stoffwechselumstellung, Endotheldysfunktion, gestörte Blutgerinnung und Signalgebung über extrazelluläre Vesikel zu einem einheitlichen postinfektiösen Krankheitsmodell und stellte eine Übersicht potenzieller Therapieansätze mit berichteten klinischen Signalen zusammen. Für die klinische Charakterisierung liegt die methodische Konsequenz darin, dass reine Ruhemessungen pathologische Signale systematisch unterschätzen; die Arbeit begründet damit dynamische und belastungsbasierte Untersuchungsprotokolle. Sie bleibt eine konzeptionelle Übersicht ohne neue Primärdaten, bündelt aber den
+    mechanistischen Forschungsstand so, dass er die Planung künftiger Kohorten direkt anleitet.

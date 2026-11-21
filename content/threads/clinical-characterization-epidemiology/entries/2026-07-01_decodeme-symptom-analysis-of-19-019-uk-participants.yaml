@@ -1,0 +1,20 @@
+id: 2026-07-01_decodeme-symptom-analysis-of-19-019-uk-participants
+date: '2026-07-01'
+date_display: '2026-07-01'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: 'DecodeME subgroups preprint: medRxiv'
+  url: https://www.medrxiv.org/content/medrxiv/early/2026/07/01/2026.06.29.26356818.full.pdf
+  kind: preprint
+en:
+  title: DecodeME symptom analysis of 19,019 UK participants identifies two main severity subgroups linked to onset type
+  plain_summary: An analysis of 19,019 UK DecodeME participants split patients into higher- and lower-symptom-burden groups, with infectious onset linked to greater severity, but found no single genetic variants explaining the difference. The preprint suggests onset history shapes severity while genetic risk remains complex.
+  detail: 'A preprint using data from 19,019 UK participants in the DecodeME cohort applied k-modes cluster analysis to patient symptoms. The analysis identified two primary patient subgroups: a High Symptom Burden Cluster (HSBC) comprising 57% of participants, characterized by greater illness severity and comorbidities, and a Lower Symptom Burden Cluster (LSBC) comprising 43%. Participants who reported an infectious or unknown illness onset had significantly higher adjusted odds of belonging to the HSBC compared to those with a non-infectious onset. A companion genome-wide association study (GWAS) for cluster membership failed to identify any genome-wide significant genetic variants associated with either subgroup. This indicates that ME/CFS symptom severity can be stratified into distinct subgroups, showing a strong link between infectious triggers and long-term symptom severity. As a preprint, these findings remain preliminary and have not yet completed peer-review. Furthermore, the negative
+    GWAS findings suggest that the genetic architecture of severity is either highly complex or largely non-genetic.'
+de:
+  title: DecodeME-Symptomanalyse von 19.019 britischen Teilnehmenden findet zwei Haupt-Schweregradgruppen mit Bezug zum Krankheitsbeginn
+  plain_summary: Eine Auswertung von 19.019 britischen DecodeME-Teilnehmenden teilte Betroffene in Gruppen mit höherer und niedrigerer Symptomlast, wobei ein infektiöser Beginn mit stärkerer Schwere zusammenhing, fand aber keine einzelnen Genvarianten als Erklärung. Der Preprint legt nahe, dass der Auslöser die Schwere mitprägt, während genetische Einflüsse komplex bleiben.
+  detail: 'Ein Preprint auf Basis von Daten von 19.019 britischen Teilnehmenden der DecodeME-Kohorte wandte eine k-Modes-Clusteranalyse auf Patientensymptome an. Dabei zeigten sich zwei Hauptuntergruppen: ein High Symptom Burden Cluster (HSBC, 57 % der Teilnehmenden) mit höherer Krankheitsschwere und mehr Begleiterkrankungen sowie ein Lower Symptom Burden Cluster (LSBC, 43 %). Personen mit infektiösem oder unklarem Krankheitsbeginn hatten nach Adjustierung signifikant höhere Chancen, dem HSBC anzugehören, als Personen mit nicht-infektiösem Beginn. Eine begleitende genomweite Assoziationsstudie (GWAS) zur Clusterzugehörigkeit identifizierte keine genomweit signifikanten Genvarianten für eine der beiden Gruppen. Dies weist darauf hin, dass sich die Symptomschwere bei ME/CFS in abgrenzbare Untergruppen gliedern lässt und infektiöse Auslöser stark mit langfristiger Schwere verknüpft sind. Als Preprint sind die Befunde noch nicht peer-reviewed; zudem deuten die negativen GWAS-Resultate darauf
+    hin, dass die genetische Architektur des Schweregrads hochkomplex oder überwiegend nicht-genetisch ist.'

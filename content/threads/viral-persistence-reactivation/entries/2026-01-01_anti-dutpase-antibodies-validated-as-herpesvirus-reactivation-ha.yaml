@@ -1,0 +1,18 @@
+id: 2026-01-01_anti-dutpase-antibodies-validated-as-herpesvirus-reactivation-ha
+date: '2026-01-01'
+date_display: '2026-01-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Mena Palomo et al. 2026, Journal of Medical Virology
+  url: https://doi.org/10.1002/jmv.70769
+  kind: paper
+en:
+  title: Anti-dUTPase antibodies validated as herpesvirus reactivation hallmark in ME/CFS
+  plain_summary: Testing 873 serum samples, researchers found antibodies against herpesvirus dUTPase proteins in 72.5% of ME/CFS patients, with levels tracking alongside fatigue severity. This supports the partial-reactivation model as a potential subgroup marker, but it does not prove causation or show that lowering these antibodies relieves symptoms.
+  detail: A longitudinal clinical study validated the abortive herpesvirus model by demonstrating significantly elevated IgG antibodies against viral dUTPase proteins in ME/CFS. Analyzing 873 serum samples, researchers found that 72.5% of ME/CFS patients had antibodies against dUTPase from multiple viruses (EBV, HHV-6, and VZV), which correlated with fatigue severity. This provides a validated serum biomarker to help diagnose ME/CFS and stratify patients by symptom severity. It also supports the theory that persistent, low-level multi-viral protein expression is a key driver of the chronic illness. However, the correlation between antibody levels and fatigue does not prove a direct causal relationship. The study also does not demonstrate that reducing dUTPase antibody levels through immunotherapies leads to clinical improvement.
+de:
+  title: Anti-dUTPase-Antikörper als Merkmal einer Herpesvirus-Reaktivierung bei ME/CFS validiert
+  plain_summary: Bei der Untersuchung von 873 Serumproben fanden Forschende bei 72,5 % der ME/CFS-Betroffenen Antikörper gegen dUTPase-Proteine von Herpesviren, deren Höhe mit der Erschöpfung korrelierte. Das stützt das Modell einer Teil-Reaktivierung als möglichen Biomarker, beweist aber noch keine Ursache und zeigt nicht, dass eine Senkung dieser Antikörper Beschwerden lindert.
+  detail: Eine longitudinale klinische Studie prüfte das Modell einer abortiven Herpesvirus-Reaktivierung und wies bei ME/CFS deutlich erhöhte IgG-Antikörper gegen virale dUTPase-Proteine nach. Bei der Auswertung von 873 Serumproben zeigten 72,5 % der ME/CFS-Betroffenen Antikörper gegen dUTPase mehrerer Viren (EBV, HHV-6 und VZV), wobei die Werte mit der Stärke der Erschöpfung korrelierten. Dies liefert einen vielversprechenden Serummarker zur möglichen Eingrenzung und Stratifizierung von Patientengruppen und stützt die Annahme einer anhaltenden, niederschwelligen Bildung viraler Proteine. Der statistische Zusammenhang zwischen Antikörperspiegeln und Erschöpfung beweist jedoch keine direkte Ursache, und die Studie zeigt nicht, dass eine therapeutische Senkung dieser Antikörper zu einer klinischen Besserung führt.

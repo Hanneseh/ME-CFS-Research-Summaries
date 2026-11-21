@@ -1,0 +1,18 @@
+id: 2025-11-26_sars-cov-2-spike-protein-fragments-directly-trigger
+date: '2025-11-26'
+date_display: '2025-11-26'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Westman et al. 2025, Biochemistry
+  url: https://doi.org/10.1021/acs.biochem.5c00550
+  kind: paper
+en:
+  title: SARS-CoV-2 Spike protein fragments directly trigger lysis-resistant amyloid microclots
+  plain_summary: Lab experiments showed that pieces of the SARS-CoV-2 spike protein can directly cause clotting proteins to form dense, abnormal clots that resist breakdown. Because this happened in test tubes, it does not prove the same process drives illness inside patients.
+  detail: An in vitro laboratory study demonstrated that specific amyloidogenic fragments of the SARS-CoV-2 Spike protein, particularly Spike685, directly interact with the human coagulation system to impair fibrinolysis. Co-incubation of purified clotting proteins with these Spike fragments resulted in the formation of dense, abnormal amyloid-like fibrin clot networks. These Spike-induced clot networks were structurally resistant to enzymatic degradation (lysis) by tissue plasminogen activator (tPA). This provides a direct molecular explanation for the persistence of fibrin amyloid microclots (fibrinaloids) in post-viral syndromes, linking persistent viral antigens to chronic vascular pathology. The study does not prove that these specific Spike fragments are present in the circulation of all patients, nor does it replicate the complex cellular environments of blood vessels in vivo.
+de:
+  title: SARS-CoV-2-Spike-Proteinfragmente lösen direkt abbauresistente Amyloid-Mikrogerinnsel aus
+  plain_summary: Laborversuche zeigten, dass bestimmte Bruchstücke des SARS-CoV-2-Spike-Proteins Gerinnungsproteine direkt zu dichten, schwer abbaubaren Gerinnseln verklumpen lassen. Da dies im Reagenzglas geschah, ist damit noch nicht belegt, dass derselbe Vorgang im Körper von Betroffenen abläuft.
+  detail: Eine In-vitro-Laborstudie zeigte, dass bestimmte amyloidogene Fragmente des SARS-CoV-2-Spike-Proteins, insbesondere Spike685, direkt mit dem menschlichen Gerinnungssystem interagieren und den Gerinnselabbau (Fibrinolyse) hemmen. Die gemeinsame Inkubation gereinigter Gerinnungsproteine mit diesen Spike-Fragmenten führte zur Bildung dichter, fehlgefalteter, amyloidähnlicher Fibrinnetzwerke. Diese durch Spike induzierten Gerinnsel waren strukturell resistent gegen den enzymatischen Abbau durch Gewebeplasminogenaktivator (tPA). Das liefert eine direkte molekulare Erklärung dafür, wie Fibrin-Amyloid-Mikrogerinnsel (Fibrinaloide) bei postviralen Syndromen fortbestehen könnten, und verknüpft persistierende Virusantigene mit chronischer Gefäßpathologie. Die Studie beweist allerdings nicht, dass genau diese Spike-Fragmente im Blutkreislauf aller Patientinnen und Patienten vorkommen, und bildet die komplexe Zellumgebung lebender Blutgefäße nicht ab.

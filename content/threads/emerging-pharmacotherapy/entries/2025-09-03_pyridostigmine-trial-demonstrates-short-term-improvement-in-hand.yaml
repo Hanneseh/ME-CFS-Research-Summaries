@@ -1,0 +1,18 @@
+id: 2025-09-03_pyridostigmine-trial-demonstrates-short-term-improvement-in-hand
+date: '2025-09-03'
+date_display: '2025-09-03'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Schlömer et al. 2025, Frontiers in Neuroscience
+  url: https://doi.org/10.3389/fnins.2025.1637838
+  kind: paper
+en:
+  title: Pyridostigmine trial demonstrates short-term improvement in hand grip strength and orthostatic tolerance
+  plain_summary: In a small non-randomized test of 20 post-infectious ME/CFS patients, a single 30 mg dose of pyridostigmine temporarily improved handgrip recovery and slightly blunted standing heart rate one hour later. Because there was no placebo control and only one dose was tested, it does not prove long-term benefit.
+  detail: A within-subject clinical study of 20 patients with post-infectious ME/CFS showed that a single 30 mg dose of pyridostigmine significantly improved hand grip strength recovery (by a median of 2.6 kg) and reduced heart rate elevations during a standing test (from a median of 17 bpm to 13 bpm) after one hour. These findings suggest that pyridostigmine can provide rapid, temporary relief for muscle fatiguability and orthostatic intolerance by increasing acetylcholine availability at the neuromuscular junction and enhancing parasympathetic activity. The objective improvement in muscle strength recovery directly addresses the neuromuscular weakness reported by patients. However, the study’s non-randomized, non-controlled design and very small cohort size introduce a high risk of bias. It does not prove the efficacy of pyridostigmine in a controlled setting, nor does it determine whether these acute benefits persist with chronic dosing.
+de:
+  title: Pyridostigmin-Studie zeigt kurzfristige Verbesserung von Handgreifkraft und orthostatischer Toleranz
+  plain_summary: In einem kleinen Test ohne Kontrollgruppe bei 20 Personen mit postinfektiösem ME/CFS verbesserte eine Einzeldosis von 30 mg Pyridostigmin nach einer Stunde kurzfristig die Erholung der Handgreifkraft und dämpfte den Stehpuls leicht. Ohne Placebokontrolle und nach nur einer Einmalgabe belegt dies jedoch keinen dauerhaften Nutzen.
+  detail: Eine klinische Innersubjekt-Studie an 20 Patientinnen und Patienten mit postinfektiösem ME/CFS zeigte, dass eine einzelne 30-mg-Dosis Pyridostigmin nach einer Stunde die Erholung der Handgreifkraft signifikant verbesserte (um im Median 2,6 kg) und den Pulsanstieg im Stehtest verringerte (von im Median 17 auf 13 Schläge/min). Diese Befunde legen nahe, dass Pyridostigmin durch Erhöhung der Acetylcholin-Verfügbarkeit an der neuromuskulären Endplatte und Stärkung der parasympathischen Aktivität eine rasche, vorübergehende Linderung bei Muskelermüdbarkeit und orthostatischer Intoleranz bewirken kann. Die objektive Besserung der Muskelkrafterholung korrespondiert direkt mit der von Betroffenen berichteten neuromuskulären Schwäche. Das nicht-randomisierte, unkontrollierte Design und die sehr kleine Stichprobe bergen jedoch ein hohes Verzerrungsrisiko und belegen weder Wirksamkeit in einem kontrollierten Setting noch ein Anhalten dieser akuten Effekte bei dauerhafter Einnahme.

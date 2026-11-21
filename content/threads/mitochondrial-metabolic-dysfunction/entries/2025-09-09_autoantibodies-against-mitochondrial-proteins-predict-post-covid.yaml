@@ -1,0 +1,26 @@
+id: 2025-09-09_autoantibodies-against-mitochondrial-proteins-predict-post-covid
+date: '2025-09-09'
+date_display: '2025-09-09'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Vogelgesang et al. 2025, Frontiers in Immunology
+  url: https://doi.org/10.3389/fimmu.2025.1642250
+  kind: paper
+en:
+  title: Autoantibodies against mitochondrial proteins predict post-COVID disability
+  plain_summary: In 45 Post-COVID patients, antibodies targeting mitochondrial and nerve proteins were elevated and linked with worse daily functioning. Larger studies are needed to see whether these antibodies cause symptoms or appear as a byproduct.
+  detail: '- **What changed:** A cohort analysis of 45 patients and 30 controls identified that IgG autoantibodies against mitochondrial proteins (AIFM1, SURF1) and neuronal proteins (DAB1) are significantly elevated in Post-COVID Syndrome and predict lower functional status and respiratory symptoms.
+
+    - **Why it matters:** This supports an autoimmune driver of energy failure, suggesting that antibodies directly attack the enzymes responsible for mitochondrial respiration and brainstem respiratory control.
+
+    - **What it does not prove yet:** The study does not prove that these autoantibodies are the direct cause of the symptoms rather than a secondary biomarker, and replication in larger sex-stratified cohorts is required.'
+de:
+  title: Autoantikörper gegen mitochondriale Proteine sagen Post-COVID-Einschränkung voraus
+  plain_summary: Bei 45 Post-COVID-Betroffenen fanden sich erhöhte Autoantikörper gegen Mitochondrien- und Nervenproteine, die mit stärkerer Einschränkung zusammenhingen. Größere Studien müssen prüfen, ob sie Ursache oder Begleiterscheinung sind.
+  detail: '- **Was sich gezeigt hat:** Eine Kohortenanalyse von 45 Betroffenen und 30 Kontrollpersonen ergab, dass IgG-Autoantikörper gegen mitochondriale Proteine (AIFM1, SURF1) und neuronale Proteine (DAB1) beim Post-COVID-Syndrom deutlich erhöht sind und einen geringeren Funktionsstatus sowie Atemwegsbeschwerden vorhersagen.
+
+    - **Warum das wichtig ist:** Dies stützt einen autoimmunen Treiber des Energieversagens und legt nahe, dass Antikörper direkt Enzyme der Zellatmung und der Atemregulation im Hirnstamm angreifen könnten.
+
+    - **Was damit noch nicht belegt ist:** Die Studie beweist nicht, dass diese Autoantikörper die Beschwerden direkt verursachen statt ein sekundärer Biomarker zu sein; eine Replikation in größeren, geschlechtsstratifizierten Kohorten ist erforderlich.'

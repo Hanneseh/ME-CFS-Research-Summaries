@@ -1,0 +1,20 @@
+id: 2026-07-24_qualitative-study-on-patient-experiences-and-feasibility-of
+date: '2026-07-24'
+date_display: '2026-07-24'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Liptrot et al. 2026, Physiotherapy
+  url: https://www.physiotherapyjournal.com/article/S0031-9406(26)00095-7/abstract
+  kind: paper
+en:
+  title: Qualitative study on patient experiences and feasibility of auricular vagus nerve stimulation in ME/CFS
+  plain_summary: An interview study of ME/CFS patients trying ear vagus-nerve stimulation found some users perceived better sleep or autonomic calm, while others experienced ear discomfort or increased fatigue if intensity rose too fast. As a small interview study without a sham control group, it informs practical tolerability rather than proving clinical efficacy.
+  detail: A qualitative clinical study published in *Physiotherapy* by Liptrot et al. evaluated patient experiences, perceived symptom responses, tolerability, and practical feasibility of transcutaneous auricular vagus nerve stimulation (taVNS) specifically in individuals with Myalgic Encephalomyelitis. Participants reported qualitative perceived improvements in autonomic stability, sleep quality, and sensory gating in subsets of users, offering real-world patient perspectives on non-invasive neuromodulation. The study identified key implementation factors, such as ear clip physical comfort and the necessity of gradual stimulation parameter titration. Participants also described variable individual response rates and transient adverse effects, including localized ear discomfort or heightened fatigue when stimulation intensity was increased too rapidly. As an open-label qualitative study based on semi-structured interviews, these findings do not provide sham-controlled efficacy data or objective
+    physiological endpoint measurements. However, they establish essential feasibility parameters for patient-centered trial design and emphasize the importance of cautious parameter titration to accommodate individual autonomic sensitivities.
+de:
+  title: Qualitative Studie zu Patientenerfahrungen und Machbarkeit der aurikulären Vagusnerv-Stimulation bei ME/CFS
+  plain_summary: Eine Interviewstudie mit ME/CFS-Betroffenen zur Ohr-Vagusnerv-Stimulation ergab, dass ein Teil ruhigeren Schlaf oder Kreislauf-Stabilität wahrnahm, während bei zu schneller Steigerung auch Ohrbeschwerden oder mehr Müdigkeit auftraten. Als offene Interviewstudie ohne Scheinkontrollgruppe liefert sie Hinweise zur praktischen Verträglichkeit, aber keinen Wirksamkeitsbeleg.
+  detail: Eine qualitative klinische Studie, veröffentlicht in *Physiotherapy* von Liptrot et al., untersuchte Patientenerfahrungen, wahrgenommene Symptomreaktionen, Verträglichkeit und praktische Durchführbarkeit der transkutanen aurikulären Vagusnerv-Stimulation (taVNS) speziell bei Menschen mit Myalgischer Enzephalomyelitis. Teilnehmende berichteten in Untergruppen über qualitativ wahrgenommene Verbesserungen bei autonomer Stabilität, Schlafqualität und Reizfilterung und lieferten damit alltagsnahe Perspektiven zur nicht-invasiven Neuromodulation. Die Studie identifizierte zentrale Anwendungsfaktoren wie den Tragekomfort des Ohrclips und die Notwendigkeit einer schrittweisen Anpassung der Stimulationsparameter. Teilnehmende beschrieben zudem unterschiedliche individuelle Ansprechraten sowie vorübergehende Nebenwirkungen, darunter lokale Beschwerden am Ohr oder verstärkte Fatigue, wenn die Stimulationsintensität zu rasch erhöht wurde. Als offene qualitative Studie auf Basis halbstrukturierter
+    Interviews liefert die Arbeit keine schein-kontrollierten Wirksamkeitsdaten oder objektive physiologische Messungen; sie benennt jedoch wichtige Machbarkeitsparameter für patientenzentrierte Studiendesigns und betont die Bedeutung einer vorsichtigen Dosiseinstellung angesichts individueller autonomer Empfindlichkeiten.

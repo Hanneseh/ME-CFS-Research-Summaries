@@ -1,0 +1,20 @@
+id: 2026-05-07_cd19-and-cd38-targeting-clinical-plans-and-case
+date: '2026-05-07'
+date_display: '2026-05-07'
+date_precision: exact
+source_type: conference
+study_design: Case series
+sources:
+- label: Bellmann-Strobl 2026, Internationale ME/CFS-Konferenz 2026
+  url: https://youtu.be/ibbPt7_G2WE
+  kind: video
+en:
+  title: CD19 and CD38 targeting clinical plans and case series presented
+  plain_summary: Researchers at Charité Berlin presented plans for small pilot trials of two other immune-cell-depleting antibodies—inebilizumab and isatuximab—alongside early observations in selected patients. These are still early plans and carry substantial infection and immune-suppression risks, so neither drug is proven for ME/CFS.
+  detail: At the Internationale ME/CFS-Konferenz 2026, Dr. Judith Bellmann-Strobl from Charité Berlin presented clinical plans for targeting B cells and plasma cells using monoclonal antibodies, outlining prospective studies for CD19-targeted Inebilizumab and CD38-targeted Isatuximab. Emphasizing the biological heterogeneity of ME/CFS, she presented a preliminary case series of patients treated with Inebilizumab who were selected based on prior positive responses to immunoadsorption. The planned clinical protocols include a placebo-controlled pilot study of Inebilizumab for GPCR-autoantibody-positive patients who respond to immunoadsorption, and a second pilot study using Isatuximab for patients with normal IgG levels and normal NK cell counts. However, these trial plans and small case series do not establish clinical efficacy for either agent, nor do they prove the efficacy of anti-CD38 therapies like daratumumab. Furthermore, both CD19 and CD38 depletion carry substantial safety risks,
+    including severe immunosuppression, infusion-related reactions, and increased infection risk, requiring strict clinical supervision and monitoring.
+de:
+  title: Klinische Pläne und Fallserie zu CD19- und CD38-Antikörpern vorgestellt
+  plain_summary: Forschende der Charité Berlin stellten Pläne für kleine Pilotstudien mit zwei weiteren immunzellabbauenden Antikörpern – Inebilizumab und Isatuximab – sowie erste Beobachtungen an ausgewählten Betroffenen vor. Es handelt sich um frühe Vorhaben mit erheblichen Risiken für Infektionen und Immunschwäche, sodass für keinen der Wirkstoffe eine Wirksamkeit bei ME/CFS belegt ist.
+  detail: Auf der Internationalen ME/CFS-Konferenz 2026 stellte Dr. Judith Bellmann-Strobl von der Charité Berlin klinische Pläne zum gezielten Angriff auf B-Zellen und Plasmazellen mittels monoklonaler Antikörper vor und skizzierte prospektive Studien zu Inebilizumab (gegen CD19) und Isatuximab (gegen CD38). Mit Verweis auf die biologische Heterogenität von ME/CFS präsentierte sie eine vorläufige Fallserie von Patientinnen und Patienten, die mit Inebilizumab behandelt wurden und zuvor positiv auf eine Immunadsorption angesprochen hatten. Die geplanten Studienprotokolle umfassen eine placebokontrollierte Pilotstudie mit Inebilizumab für GPCR-Autoantikörper-positive Betroffene mit Ansprechen auf Immunadsorption sowie eine zweite Pilotstudie mit Isatuximab für Patientinnen und Patienten mit normalen IgG-Spiegeln und normalen NK-Zellzahlen. Diese Studienpläne und kleinen Fallserien belegen jedoch weder für einen der beiden Wirkstoffe eine klinische Wirksamkeit noch beweisen sie den Nutzen von
+    Anti-CD38-Therapien wie Daratumumab. Zudem bergen sowohl eine CD19- als auch eine CD38-Depletion erhebliche Sicherheitsrisiken, darunter schwere Immunsuppression, infusionsbedingte Reaktionen und ein erhöhtes Infektionsrisiko, was eine strenge ärztliche Überwachung erfordert.

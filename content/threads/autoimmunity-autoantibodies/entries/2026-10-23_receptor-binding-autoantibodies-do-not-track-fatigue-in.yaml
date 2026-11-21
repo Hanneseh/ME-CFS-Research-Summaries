@@ -1,0 +1,19 @@
+id: 2026-10-23_receptor-binding-autoantibodies-do-not-track-fatigue-in
+date: '2026-10-23'
+date_display: '2026-10-23'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Achleitner et al. 2026, Brain, Behavior, & Immunity – Health
+  url: https://doi.org/10.1016/j.bbih.2026.101393
+  kind: paper
+en:
+  title: Receptor-binding autoantibodies do not track fatigue in a post-COVID cohort
+  plain_summary: In 206 people after COVID-19, blood levels of antibodies binding 13 neurotransmitter receptors did not separate those with new fatigue from those without fatigue. This indicates these binding tests do not work as standalone fatigue biomarkers, though it does not rule out functional antibody effects or ME/CFS subgroups.
+  detail: 'A peer-reviewed study assessed binding antibodies against 13 neurotransmitter-related receptors in 206 people after SARS-CoV-2 infection: 144 with new fatigue, 24 with pre-existing fatigue and 38 without fatigue. Antibody levels did not distinguish the groups after multiple-testing correction, and adjusted analyses found no association with new fatigue or fatigue severity. The result argues against these binding assays as stand-alone post-COVID fatigue biomarkers. It does not exclude antibodies with functional effects, tissue-specific autoimmunity or a defined autoimmune subgroup. The cohort was not selected using ME/CFS or PEM criteria, severe or bedbound inclusion was unreported, and some receptor-specific subsets were small. Blood-based testing is less burdensome than exertion testing, but this study does not validate a diagnostic test or a way to select immunotherapy.'
+de:
+  title: Rezeptorbindende Autoantikörper spiegeln Fatigue in einer Post-COVID-Kohorte nicht wider
+  plain_summary: Bei 206 Menschen nach COVID-19 unterschieden Blutspiegel von Antikörpern gegen 13 Neurotransmitter-Rezeptoren nicht zwischen Personen mit neuer Fatigue und solchen ohne Fatigue. Als alleinige Fatigue-Biomarker taugen diese Bindungstests daher nicht, wenngleich funktionelle Antikörperwirkungen oder ME/CFS-Untergruppen damit nicht ausgeschlossen sind.
+  detail: 'Eine begutachtete Studie untersuchte bindende Antikörper gegen 13 Neurotransmitter-bezogene Rezeptoren bei 206 Personen nach SARS-CoV-2-Infektion: 144 mit neu aufgetretener Fatigue, 24 mit vorbestehender Fatigue und 38 ohne Fatigue. Nach Korrektur für multiples Testen unterschieden die Antikörperspiegel nicht zwischen den Gruppen, und adjustierte Analysen fanden keinen Zusammenhang mit neu aufgetretener Fatigue oder dem Schweregrad der Fatigue. Das Ergebnis spricht gegen diese Bindungsassays als eigenständige Biomarker für Post-COVID-Fatigue. Es schließt jedoch keine Antikörper mit funktionellen Wirkungen, gewebespezifische Autoimmunität oder eine abgegrenzte autoimmune Untergruppe aus. Die Kohorte wurde nicht nach ME/CFS- oder PEM-Kriterien ausgewählt, ein Einschluss schwer Betroffener oder Bettlägeriger wurde nicht berichtet, und einige rezeptorspezifische Untergruppen waren klein. Bluttests sind zwar weniger belastend als Anstrengungstests, doch validiert diese Studie weder
+    einen diagnostischen Test noch ein Kriterium zur Auswahl einer Immuntherapie.'

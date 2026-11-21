@@ -1,0 +1,18 @@
+id: 2026-08-28_dn2-atypical-memory-b-cells-linked-to-autoantibody
+date: '2026-08-28'
+date_display: '2026-08-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Yuan et al. 2026, Immunity
+  url: https://doi.org/10.1016/j.immuni.2026.08.002
+  kind: paper
+en:
+  title: DN2 atypical memory B cells linked to autoantibody production after SARS-CoV-2
+  plain_summary: A detailed immune study of 12 acute COVID-19 patients identified a specialized B-cell type that temporarily produced self-targeting antibodies during infection and faded as people recovered. Because it did not study Long COVID or ME/CFS patients, it remains an open clue rather than a biomarker or treatment target.
+  detail: Yuan et al. combined single-cell RNA/ATAC sequencing, proteome-wide autoantibody profiling, longitudinal plasma sampling, genetic mapping, and in-vitro stimulation in 12 age- and sex-matched acute-COVID participants. CD11c+ double-negative 2 (DN2) atypical memory B cells showed strong TLR7 activity, oxidative-stress and class-switching signatures, and preferential differentiation into autoantibody-secreting cells after TLR7/8 stimulation. Autoantibody levels fell as acute infection resolved, but the study did not test whether DN2 cells persist in Long COVID or ME/CFS. Severe and bedbound post-acute patients were not reported; blood collection was non-exertional, and no treatment or PEM outcome was tested. The findings identify a mechanistic candidate, not a validated biomarker or therapeutic target.
+de:
+  title: Atypische DN2-Gedächtnis-B-Zellen mit Autoantikörperbildung nach SARS-CoV-2 verknüpft
+  plain_summary: Eine detaillierte Immunstudie an 12 akut an COVID-19 Erkrankten identifizierte einen spezialisierten B-Zell-Typ, der während der Infektion vorübergehend selbstgerichtete Antikörper bildete und bei Genesung abnahm. Da keine Long-COVID- oder ME/CFS-Betroffenen untersucht wurden, bleibt dies ein offener mechanistischer Hinweis und kein Biomarker oder Therapieziel.
+  detail: Yuan et al. kombinierten Einzelzell-RNA/ATAC-Sequenzierung, proteomweites Autoantikörper-Profiling, longitudinale Plasmaproben, genetische Kartierung und In-vitro-Stimulation bei 12 nach Alter und Geschlecht gematchten Teilnehmenden mit akutem COVID-19. CD11c-positive doppelt-negative 2 (DN2) atypische Gedächtnis-B-Zellen zeigten eine starke TLR7-Aktivität, Signaturen für oxidativen Stress und Klassenwechsel sowie eine bevorzugte Differenzierung zu autoantikörper-sezernierenden Zellen nach TLR7/8-Stimulation. Die Autoantikörperspiegel sanken mit dem Abklingen der akuten Infektion, doch prüfte die Studie nicht, ob DN2-Zellen bei Long COVID oder ME/CFS fortbestehen. Schwer betroffene und bettlägerige postakute Patientinnen und Patienten wurden nicht berichtet; die Blutentnahme erfolgte ohne Belastung, und weder eine Behandlung noch ein PEM-Endpunkt wurde getestet. Die Befunde benennen einen mechanistischen Kandidaten, jedoch keinen validierten Biomarker und kein etabliertes Therapieziel.

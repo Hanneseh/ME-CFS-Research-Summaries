@@ -1,0 +1,19 @@
+id: 2026-06-01_study-links-central-sensitization-in-long-covid-to
+date: '2026-06-01'
+date_display: '2026-06-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Novak & Iyer 2026, Journal of the Neurological Sciences
+  url: https://www.sciencedirect.com/science/article/pii/S0022510X26003400
+  kind: paper
+en:
+  title: Study links central sensitization in Long COVID to neuroinflammation and cerebral hypoperfusion
+  plain_summary: Among 169 Long COVID patients with orthostatic intolerance, 81% met questionnaire criteria for central nervous system sensitization alongside slightly larger drops in upright brain blood flow and higher IL-6. Because participants were already referred for orthostatic symptoms and tested once, cause and effect remain unclear.
+  detail: A prospective study of 169 Long COVID patients with orthostatic intolerance published in the *Journal of the Neurological Sciences* by Novak and Iyer showed that 81% met criteria for central sensitization (CS) using the Central Sensitization Inventory (CSI). Patients with CS had a significantly higher burden of headaches, fibromyalgia, anxiety, depression, and autonomic symptoms, and were more likely to be female. Physically, the CS group demonstrated a greater decrease in orthostatic cerebral blood flow velocity (-25.5% vs. -22.1%) and significantly higher levels of Interleukin-6 (IL-6) compared to the non-CS group. The rate of objective autonomic failure was similar between groups, suggesting central sensitization amplifies symptom burden and interacts with neuroinflammation and cerebral hypoperfusion rather than autonomic structural damage. Limitations include referral bias for orthostatic intolerance, subjective nature of the CSI, and cross-sectional associations.
+de:
+  title: Studie verknüpft zentrale Sensitivierung bei Long COVID mit Neuroinflammation und zerebraler Hypoperfusion
+  plain_summary: Unter 169 Long-COVID-Betroffenen mit orthostatischer Intoleranz erfüllten 81 % die Fragebogen-Kriterien für eine zentrale Sensitivierung, begleitet von etwas stärkerem Abfall der Hirndurchblutung im Stehen und höherem IL-6. Da die Teilnehmenden wegen Kreislaufbeschwerden überwiesen und einmalig untersucht wurden, bleibt die Kausalität offen.
+  detail: Eine prospektive Studie an 169 Long-COVID-Patientinnen und -Patienten mit orthostatischer Intoleranz, veröffentlicht im *Journal of the Neurological Sciences* von Novak und Iyer, zeigte, dass 81 % anhand des Central Sensitization Inventory (CSI) die Kriterien für eine zentrale Sensitivierung (CS) erfüllten. Betroffene mit CS hatten eine signifikant höhere Belastung durch Kopfschmerzen, Fibromyalgie, Angst, Depression und autonome Symptome und waren häufiger weiblich. Körperlich zeigte die CS-Gruppe einen stärkeren Abfall der orthostatischen zerebralen Blutflussgeschwindigkeit (-25,5 % vs. -22,1 %) sowie signifikant höhere Spiegel von Interleukin-6 (IL-6) im Vergleich zur Gruppe ohne CS. Die Rate objektiver autonomer Ausfälle war zwischen beiden Gruppen ähnlich, was darauf hindeutet, dass zentrale Sensitivierung die Symptomlast verstärkt und mit Neuroinflammation sowie zerebraler Hypoperfusion zusammenwirkt, statt auf einem strukturellen autonomen Nervenschaden zu beruhen. Einschränkungen
+    sind eine Überweisungsverzerrung hinsichtlich orthostatischer Intoleranz, der subjektive Charakter des CSI und querschnittliche Assoziationen.

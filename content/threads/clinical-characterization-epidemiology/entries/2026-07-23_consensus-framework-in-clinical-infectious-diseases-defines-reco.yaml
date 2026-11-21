@@ -1,0 +1,19 @@
+id: 2026-07-23_consensus-framework-in-clinical-infectious-diseases-defines-reco
+date: '2026-07-23'
+date_display: '2026-07-23'
+date_precision: exact
+source_type: guideline
+study_design: null
+sources:
+- label: Clinical Infectious Diseases consensus paper 2026, PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/41967005/
+  kind: paper
+en:
+  title: Consensus framework in Clinical Infectious Diseases defines recognition and care for infection-associated chronic conditions
+  plain_summary: Infectious-disease groups published a consensus framework formally recognizing ME/CFS, Long COVID, and post-treatment Lyme under one umbrella of infection-associated chronic conditions. It provides clinical recognition and care-coordination guidance rather than new lab or trial data.
+  detail: A major consensus policy and clinical paper published in Clinical Infectious Diseases established an overarching framework for Infection-Associated Chronic Conditions and Illnesses (IACCs), endorsed across infectious disease specialty organizations. The document provides formal guidance for recognizing, diagnosing, and coordinating multidisciplinary care for overlapping post-infectious syndromes, including ME/CFS, Long COVID, and chronic post-treatment Lyme disease. By emphasizing shared clinical features and underlying pathobiology—such as chronic immune activation, autonomic dysregulation, and neuroinflammation—the framework seeks to eliminate systemic clinical skepticism and streamline diagnostic pathways. For clinical characterization, this consensus marks a institutional shift toward integrating post-viral conditions into standard infectious disease education and healthcare delivery. As a clinical consensus and policy recommendation framework, it does not present new empirical
+    trial data or novel biological biomarker discoveries.
+de:
+  title: Konsensrahmen in Clinical Infectious Diseases definiert Anerkennung und Versorgung infektionsassoziierter chronischer Erkrankungen
+  plain_summary: Fachgesellschaften für Infektiologie haben einen gemeinsamen Rahmen veröffentlicht, der ME/CFS, Long COVID und chronische Beschwerden nach Borreliose als infektionsassoziierte chronische Erkrankungen (IACCs) anerkennt. Das Dokument gibt Orientierung für Diagnose und koordinierte Versorgung, liefert aber keine neuen Labor- oder Studiendaten.
+  detail: Ein von infektiologischen Fachgesellschaften unterstütztes Konsens- und Positionspapier in Clinical Infectious Diseases etablierte einen übergeordneten Rahmen für Infection-Associated Chronic Conditions and Illnesses (IACCs). Das Dokument gibt formale Empfehlungen für Anerkennung, Diagnostik und koordinierte multidisziplinäre Versorgung überlappender postinfektiöser Syndrome einschließlich ME/CFS, Long COVID und chronischem Post-Treatment-Lyme-Syndrom. Indem gemeinsame klinische Merkmale und biologische Pathomechanismen – etwa chronische Immunaktivierung, autonome Dysregulation und Neuroinflammation – betont werden, soll systematischer klinischer Skepsis begegnet und die Diagnostik erleichtert werden. Für die klinische Charakterisierung markiert der Konsens einen institutionellen Wandel hin zur Verankerung postviraler Erkrankungen in der infektiologischen Weiterbildung und Regelversorgung; als Konsensrahmen enthält er jedoch keine neuen empirischen Studiendaten oder Biomarker-Entdeckungen.

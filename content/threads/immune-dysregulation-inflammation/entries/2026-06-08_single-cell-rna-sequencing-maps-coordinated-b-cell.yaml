@@ -1,0 +1,18 @@
+id: 2026-06-08_single-cell-rna-sequencing-maps-coordinated-b-cell
+date: '2026-06-08'
+date_display: '2026-06-08'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Satpathy et al. 2026, bioRxiv
+  url: https://doi.org/10.64898/2026.06.04.730206
+  kind: preprint
+en:
+  title: Single-cell RNA sequencing maps coordinated B-cell, monocyte, T-cell, and NK-cell dysregulation in Long COVID
+  plain_summary: A small preprint analyzing over 156,000 individual blood cells from 20 Long COVID patients and 18 controls found coordinated shifts across B cells, monocytes, T cells, and NK cells that varied by severity. It suggests multiple immune compartments move together, though peer review and larger cohorts are still needed.
+  detail: Satpathy and colleagues analyzed 156,478 peripheral blood mononuclear cells from 20 Long COVID patients and 18 recovered controls using single-cell RNA sequencing. They found evidence of sustained antigen-exposed B-cell states, interferon-high and migratory monocyte programs, exhausted effector-memory T-cell signatures, and NK-cell abnormalities that varied with clinical severity. In the more severe group, AP-1-driven inflammatory signaling in CD14-positive monocytes and NK cells stood out as a plausible organizing pathway. This is useful because it shows multiple immune compartments moving together rather than one isolated abnormal cell type. It is still a small preprint restricted to peripheral blood, so the results need peer review and confirmation in broader cohorts.
+de:
+  title: Einzelzell-RNA-Sequenzierung kartiert koordinierte Fehlregulation von B-Zellen, Monozyten, T-Zellen und NK-Zellen bei Long COVID
+  plain_summary: Ein kleiner Preprint wertete über 156.000 einzelne Blutzellen von 20 Long-COVID-Betroffenen und 18 Kontrollen aus und fand je nach Schweregrad abgestimmte Veränderungen über mehrere Immunzelltypen hinweg. Das legt nahe, dass mehrere Bereiche des Immunsystems gemeinsam aus dem Takt geraten; Peer-Review und größere Gruppen stehen aber noch aus.
+  detail: Satpathy und Kolleginnen bzw. Kollegen analysierten 156.478 mononukleäre Blutzellen von 20 Long-COVID-Betroffenen und 18 genesenen Kontrollpersonen mittels Einzelzell-RNA-Sequenzierung. Sie fanden Hinweise auf anhaltend antigen-stimulierte B-Zell-Zustände, interferonreiche und wanderungsbereite Monozyten-Programme, erschöpfte Effektor-Gedächtnis-T-Zellen sowie NK-Zell-Auffälligkeiten, die mit dem klinischen Schweregrad variierten; bei stärker Betroffenen fiel besonders eine AP-1-gesteuerte Entzündungssignatur in CD14-positiven Monozyten und NK-Zellen auf. Die Studie zeigt eindrücklich, dass mehrere Immunzell-Kompartimente gemeinsam verschoben sind und nicht nur ein einzelner Zelltyp betroffen ist, bleibt aber ein kleiner, auf peripheres Blut begrenzter Preprint, der noch Begutachtung und Bestätigung in größeren Kohorten benötigt.

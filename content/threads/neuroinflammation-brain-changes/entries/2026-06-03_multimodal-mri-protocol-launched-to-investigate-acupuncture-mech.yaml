@@ -1,0 +1,19 @@
+id: 2026-06-03_multimodal-mri-protocol-launched-to-investigate-acupuncture-mech
+date: '2026-06-03'
+date_display: '2026-06-03'
+date_precision: exact
+source_type: announcement
+study_design: RCT
+sources:
+- label: 'Exploring the mechanisms of acupuncture in improving cognitive function in post-COVID-19 myalgic encephalomyelitis/chronic fatigue syndrome: study protocol for a randomized controlled trial using multimodal MRI, PubMed'
+  url: https://pubmed.ncbi.nlm.nih.gov/42383026
+  kind: paper
+en:
+  title: Multimodal MRI protocol launched to investigate acupuncture mechanisms in post-COVID cognitive dysfunction
+  plain_summary: Researchers published the plan for a randomized trial of 129 post-COVID ME/CFS patients using brain MRI to test whether acupuncture improves cognition and brain connectivity. This is only a trial protocol, so no results on whether acupuncture helps are available yet.
+  detail: A randomized controlled trial protocol (NCT07357688) was published to evaluate the clinical efficacy and underlying neurological mechanisms of acupuncture for cognitive impairment in post-COVID-19 ME/CFS. Enrolling 129 patients and 30 healthy controls, the study randomizes patients to verum acupuncture, sham acupuncture (non-acupoint stimulation), or waitlist control (43 per group). The researchers plan to use multimodal MRI—specifically resting-state functional connectivity and metabolic MRI—to measure structural and metabolic changes in the hippocampus. While this study represents a rigorous attempt to evaluate acupuncture's potential to restore neurovascular or network health, the publication provides only the trial design. Blinding remains an inherent challenge in acupuncture trials, and clinical efficacy remains to be proven when the trial is completed.
+de:
+  title: Multimodales MRT-Protokoll zur Untersuchung von Akupunktur-Mechanismen bei kognitiver Post-COVID-Dysfunktion gestartet
+  plain_summary: Forschende veröffentlichten das Studienprotokoll für eine randomisierte Studie mit 129 Post-COVID-ME/CFS-Betroffenen, die per Hirn-MRT prüfen soll, ob Akupunktur Kognition und Hirnvernetzung verbessert. Es handelt sich bislang nur um ein Studienkonzept ohne Ergebnisse zur Wirksamkeit.
+  detail: Ein Protokoll für eine randomisierte kontrollierte Studie (NCT07357688) wurde veröffentlicht, um die klinische Wirksamkeit und die zugrunde liegenden neurologischen Mechanismen von Akupunktur bei kognitiver Beeinträchtigung im Rahmen von Post-COVID-19-ME/CFS zu untersuchen. Die Studie schließt 129 Patientinnen und Patienten sowie 30 gesunde Kontrollen ein und randomisiert Betroffene auf Verum-Akupunktur, Schein-Akupunktur (Stimulation abseits von Akupunkturpunkten) oder eine Wartelisten-Kontrollgruppe (je 43 Personen). Die Forschenden planen den Einsatz multimodaler MRT – insbesondere funktioneller Ruhekonnektivität und metabolischer MRT –, um strukturelle und stoffwechselbezogene Veränderungen im Hippocampus zu messen. Obwohl diese Studie einen methodisch sorgfältigen Versuch darstellt, das Potenzial von Akupunktur zur Wiederherstellung neurovaskulärer oder Netzwerkgesundheit zu prüfen, liefert die Publikation lediglich das Studiendesign. Verblindung bleibt in Akupunkturstudien
+    eine grundlegende Herausforderung, und die klinische Wirksamkeit muss nach Abschluss der Studie erst nachgewiesen werden.

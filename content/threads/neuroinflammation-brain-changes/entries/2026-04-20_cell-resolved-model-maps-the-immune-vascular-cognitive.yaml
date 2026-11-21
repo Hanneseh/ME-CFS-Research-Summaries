@@ -1,0 +1,19 @@
+id: 2026-04-20_cell-resolved-model-maps-the-immune-vascular-cognitive
+date: '2026-04-20'
+date_display: '2026-04-20'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Xu et al. 2026, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-026-08156-4
+  kind: paper
+en:
+  title: Cell-resolved model maps the immune-vascular-cognitive axis in brain fog
+  plain_summary: This review pulls together brain-scan and cell studies to argue that brain fog stems from reversible immune and blood-flow disruption around brain cells rather than permanent cell death. While encouraging, direct proof of these cellular steps in living patients remains a challenge.
+  detail: A review synthesized neuroimaging and neurobiological evidence to outline an "immune-vascular-cognitive axis" explaining how systemic inflammation causes cognitive impairment. The framework maps dynamic interactions within the neurovascular unit, showing that microglial priming and astrocytic dysfunction disrupt synaptic homeostatic mechanisms and create an excitation-inhibition imbalance. Crucially, the model suggests that cognitive dysfunction in ME/CFS reflects a state of persistent neuroimmune and neurometabolic dysregulation rather than permanent structural damage, indicating that the cognitive decline is potentially reversible. Proposed targets for therapeutic validation include cytokine blockades, nitric oxide enhancement, and acupuncture to restore neurovascular health. However, direct causal validation of these cellular interactions in human patients remains a challenge.
+de:
+  title: Zellaufgelöstes Modell kartiert die Immun-Gefäß-Kognitions-Achse bei Brain Fog
+  plain_summary: Diese Übersichtsarbeit fasst Scan- und Zellstudien zusammen und argumentiert, dass Brain Fog eher auf einer umkehrbaren Immun- und Durchblutungsstörung als auf dauerhaftem Nervenverlust beruht. Ein direkter Nachweis dieser zellulären Abläufe im lebenden Menschen steht jedoch noch aus.
+  detail: Eine Übersichtsarbeit fasste Bildgebungs- und neurobiologische Evidenz zusammen, um eine „Immun-Gefäß-Kognitions-Achse“ zu skizzieren, die erklärt, wie systemische Entzündung kognitive Beeinträchtigung verursacht. Das Rahmenmodell kartiert dynamische Interaktionen innerhalb der neurovaskulären Einheit und zeigt, dass Mikroglia-Priming und Astrozytendysfunktion synaptische Homöostasemechanismen stören und ein Erregungs-Hemmungs-Ungleichgewicht erzeugen. Entscheidend ist, dass das Modell nahelegt, kognitive Dysfunktion bei ME/CFS spiegle eher einen Zustand anhaltender neuroimmuner und neurometabolischer Fehlregulation als einen dauerhaften strukturellen Schaden wider – was auf eine potenzielle Reversibilität des kognitiven Leistungsabfalls hinweist. Als Ziele für eine therapeutische Prüfung werden Zytokinblockaden, die Steigerung von Stickstoffmonoxid sowie Akupunktur zur Wiederherstellung der neurovaskulären Gesundheit vorgeschlagen. Eine direkte kausale Validierung dieser zellulären
+    Interaktionen bei menschlichen Patientinnen und Patienten bleibt jedoch eine Herausforderung.

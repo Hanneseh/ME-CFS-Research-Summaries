@@ -1,0 +1,26 @@
+id: 2026-04-02_sars-cov-2-envelope-protein-disrupts-mitochondrial-cardiolipin
+date: '2026-04-02'
+date_display: '2026-04-02'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: David et al. 2026, Journal of Biological Chemistry
+  url: https://doi.org/10.1016/j.jbc.2026.100289
+  kind: paper
+en:
+  title: SARS-CoV-2 envelope protein disrupts mitochondrial cardiolipin and TCA cycle
+  plain_summary: Lab experiments showed that the SARS-CoV-2 envelope protein can enter mitochondria, deplete a key membrane fat called cardiolipin, and disrupt energy production. Because this was tested in lab dishes, it is not yet proven to happen chronically inside Long COVID patients.
+  detail: '- **What changed:** An in vitro study demonstrated that the SARS-CoV-2 envelope (E) protein localizes to host cell mitochondria, causing significant cardiolipin depletion, electron transport chain disruption, and a shift toward aerobic glycolysis.
+
+    - **Why it matters:** This outlines a direct molecular mechanism of viral-mediated mitochondrial hijacking, explaining how viral components drive persistent host metabolic stress and reactive oxygen species retention.
+
+    - **What it does not prove yet:** The study was performed in vitro, and whether persistent E protein presence occurs and drives chronic symptoms in patients with Long COVID in vivo remains unproven.'
+de:
+  title: SARS-CoV-2-Hüllprotein stört mitochondriales Cardiolipin und den Citratzyklus
+  plain_summary: Laborexperimente zeigten, dass das Hüllprotein von SARS-CoV-2 in Mitochondrien eindringt, das wichtige Membranlipid Cardiolipin abbaut und die Energieproduktion bremst. Ob dieser Prozess bei Long COVID dauerhaft im menschlichen Körper stattfindet, ist damit noch nicht bewiesen.
+  detail: '- **Was sich gezeigt hat:** Eine In-vitro-Studie zeigte, dass sich das SARS-CoV-2-Hüllprotein (E-Protein) in Mitochondrien der Wirtszelle einlagert und dort zu deutlichem Cardiolipin-Abbau, einer Störung der Atmungskette sowie einer Verschiebung zur aeroben Glykolyse führt.
+
+    - **Warum das wichtig ist:** Dies beschreibt einen direkten molekularen Mechanismus der virusvermittelten Mitochondrien-Schädigung und erklärt, wie virale Bestandteile anhaltenden zellulären Stoffwechselstress und reaktive Sauerstoffspezies auslösen können.
+
+    - **Was damit noch nicht belegt ist:** Die Versuche erfolgten in vitro, und ob eine anhaltende Präsenz des E-Proteins im Körper vorkommt und chronische Symptome bei Long COVID antreibt, bleibt unbewiesen.'

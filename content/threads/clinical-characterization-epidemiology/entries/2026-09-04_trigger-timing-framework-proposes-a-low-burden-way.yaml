@@ -1,0 +1,18 @@
+id: 2026-09-04_trigger-timing-framework-proposes-a-low-burden-way
+date: '2026-09-04'
+date_display: '2026-09-04'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Groysman 2026, Frontiers in Medicine
+  url: https://doi.org/10.3389/fmed.2026.1898440
+  kind: paper
+en:
+  title: Trigger-timing framework proposes a low-burden way to organize symptom patterns
+  plain_summary: A proposal outlines a gentle intake method that tracks symptom triggers, delays, and recovery patterns from daily life instead of using physical stress tests. It has not yet been tested in patients or proven to identify biological subtypes or safe activity limits.
+  detail: Groysman proposes a conceptual intake framework that records trigger, delay to onset, symptom pattern, and recovery trajectory to organize possible autonomic, PEM, metabolic, gastrointestinal, or circadian phenotypes. It relies on patient-observed daily patterns rather than deliberate stress testing, which could reduce burden for housebound and bedbound people, but severe-patient usability has not been empirically tested. The paper reports no cohort, diagnostic-accuracy estimate, biomarker validation, or treatment outcome, and symptom timing alone cannot establish mechanism or safe activity thresholds. It is a communication and research-stratification hypothesis, not a clinical treatment algorithm.
+de:
+  title: Trigger-Timing-Modell schlägt belastungsarme Systematisierung von Symptommuster-Verläufen vor
+  plain_summary: Ein Konzeptpapier schlägt ein schonendes Erfassungsschema vor, das Auslöser, zeitliche Verzögerung und Erholungsverlauf im Alltag festhält statt körperliche Belastungstests zu nutzen. Das Modell ist noch nicht an Patientenkohorten geprüft und bestimmt weder Mechanismen noch sichere Belastungsgrenzen.
+  detail: Groysman schlägt ein konzeptionelles Erfassungsmodell vor, das Auslöser, Verzögerung bis zum Symptombeginn, Beschwerdemuster und Erholungsverlauf dokumentiert, um mögliche autonome, PEM-, metabolische, gastrointestinale oder zirkadiane Phänotypen zu ordnen. Es stützt sich auf von Betroffenen im Alltag beobachtete Muster statt gezielter Stresstests, was die Belastung für Hausgebundene und Bettlägerige verringern könnte, doch wurde die Praxistauglichkeit bei Schwerbetroffenen bislang nicht empirisch geprüft. Die Arbeit berichtet weder über eine Kohorte noch über diagnostische Genauigkeit, Biomarker-Validierung oder Therapieergebnisse, und zeitliche Symptomabläufe allein belegen keinen Mechanismus. Es handelt sich um eine Kommunikations- und Stratifizierungshypothese, nicht um einen klinischen Behandlungsalgorithmus.

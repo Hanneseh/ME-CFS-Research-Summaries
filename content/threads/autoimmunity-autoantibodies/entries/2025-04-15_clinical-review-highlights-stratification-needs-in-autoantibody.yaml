@@ -1,0 +1,18 @@
+id: 2025-04-15_clinical-review-highlights-stratification-needs-in-autoantibody
+date: '2025-04-15'
+date_display: '2025-04-15'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Wohlrab et al. 2025, Expert Opinion on Biological Therapy
+  url: https://doi.org/10.1080/14712598.2025.2492774
+  kind: paper
+en:
+  title: Clinical review highlights stratification needs in autoantibody-targeting trials
+  plain_summary: This review notes that major trials removing or blocking antibodies, such as rituximab, efgartigimod, and BC007, failed in broad groups of ME/CFS and Long COVID patients. The authors argue future trials need reliable tests to select only patients with active antibody-driven illness, rather than offering these drugs to everyone.
+  detail: A systematic editorial review analyzed clinical trial outcomes for autoantibody-targeting therapies in Long COVID and ME/CFS, highlighting that B-cell depletion and antibody-clearance therapies have produced mixed or negative results in unstratified cohorts. Specifically, the authors noted the failures of large-scale rituximab trials and recent phase II trials for efgartigimod and BC007 in Post-COVID Syndrome. The review argues that trial failures stem from patient heterogeneity and a lack of patient selection based on established autoimmune biomarkers. Future trials must employ biomarkers—such as specific autoantibody titers or initial response to immunoadsorption—to identify patients with active autoimmune pathology. However, the review does not establish standardized protocols for this patient selection or provide new clinical efficacy data.
+de:
+  title: Klinische Übersichtsarbeit betont Stratifizierungsbedarf bei autoantikörpergerichteten Studien
+  plain_summary: Diese Übersichtsarbeit hält fest, dass große Studien zu Antikörper-Entfernung oder -Blockade wie Rituximab, Efgartigimod und BC007 in breiten ME/CFS- und Long-COVID-Gruppen gescheitert sind. Künftige Studien bräuchten verlässliche Tests, um gezielt Betroffene mit aktiver antikörpergetriebener Erkrankung auszuwählen.
+  detail: Eine systematische redaktionelle Übersichtsarbeit analysierte Ergebnisse klinischer Studien zu autoantikörpergerichteten Therapien bei Long COVID und ME/CFS und hob hervor, dass B-Zell-Depletion und Antikörper-Clearance-Therapien in unstratifizierten Kohorten gemischte oder negative Resultate erbrachten. Insbesondere verwiesen die Autorinnen und Autoren auf das Scheitern großer Rituximab-Studien sowie jüngerer Phase-II-Studien zu Efgartigimod und BC007 beim Post-COVID-Syndrom. Die Übersicht argumentiert, dass das Scheitern der Studien auf Patientenheterogenität und fehlende Vorauswahl anhand etablierter Autoimmun-Biomarker zurückzuführen ist. Künftige Studien müssten Biomarker – wie spezifische Autoantikörpertiter oder ein initiales Ansprechen auf Immunadsorption – nutzen, um Betroffene mit aktiver autoimmuner Pathologie zu identifizieren. Allerdings legt die Übersichtsarbeit keine standardisierten Protokolle für diese Patientenauswahl fest und liefert keine neuen klinischen Wirksamkeitsdaten.

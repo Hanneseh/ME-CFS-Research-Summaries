@@ -1,0 +1,18 @@
+id: 2026-08-22_exploratory-amygdala-subfield-study-finds-no-corrected-group
+date: '2026-08-22'
+date_display: '2026-08-22'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Kimura et al. 2026, Frontiers in Neurology
+  url: https://doi.org/10.3389/fneur.2026.1913553
+  kind: paper
+en:
+  title: Exploratory amygdala subfield study finds no corrected group differences
+  plain_summary: Comparing MRI scans of amygdala subregions and blood immune markers across 112 people, researchers found no differences in ME/CFS or Long COVID that held up after proper statistical correction. This leaves the scan findings exploratory and not useful as a biomarker.
+  detail: Kimura et al. compared high-resolution 3-T MRI amygdala subfields and peripheral immune markers in 27 people with Long COVID, 38 with ME/CFS, and 47 healthy controls. A few unadjusted volume and immune/clinical correlations were nominally positive, but no volumetric difference or immunological association survived multiple-comparison correction (all adjusted p > 0.10). The cross-sectional study is therefore hypothesis-generating rather than a diagnostic biomarker result. Bedbound inclusion was not reported; scanner travel, supine positioning, noise, and stillness can be burdensome for severe, orthostatic, or sensory-sensitive patients, although MRI is not an exercise provocation.
+de:
+  title: Explorative Amygdala-Unterfeldstudie findet keine nach Korrektur bestandenen Gruppenunterschiede
+  plain_summary: Beim Vergleich von MRT-Aufnahmen von Amygdala-Teilregionen und Blut-Immunmarkern bei 112 Personen blieben bei ME/CFS und Long COVID nach statistischer Korrektur keine Unterschiede bestehen. Die Befunde bleiben daher rein explorativ und taugen nicht als Biomarker.
+  detail: Kimura et al. verglichen hochauflösende 3-Tesla-MRT-Aufnahmen von Amygdala-Unterfeldern sowie periphere Immunmarker bei 27 Personen mit Long COVID, 38 mit ME/CFS und 47 gesunden Kontrollen. Einige unadjustierte Volumen- sowie Immun-/klinische Korrelationen waren nominal positiv, doch hielt kein Volumenunterschied und keine immunologische Assoziation einer Korrektur für multiples Testen stand (alle adjustierten p > 0,10). Die Querschnittsstudie ist daher eher hypothesengenerierend als ein Ergebnis für einen diagnostischen Biomarker. Der Einschluss bettlägeriger Personen wurde nicht berichtet; Anreise zum Scanner, Rückenlage, Lärm und ruhiges Liegen können für schwer betroffene, orthostatische oder reizempfindliche Patientinnen und Patienten belastend sein, auch wenn eine MRT keine körperliche Belastungsprovokation darstellt.

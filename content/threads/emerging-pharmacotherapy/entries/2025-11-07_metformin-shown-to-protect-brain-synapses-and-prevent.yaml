@@ -1,0 +1,20 @@
+id: 2025-11-07_metformin-shown-to-protect-brain-synapses-and-prevent
+date: '2025-11-07'
+date_display: '2025-11-07'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Lee et al. 2025, PLOS ONE
+  url: https://doi.org/10.1371/journal.pone.0336015
+  kind: paper
+en:
+  title: Metformin shown to protect brain synapses and prevent protein clumping in SARS-CoV-2 spike model
+  plain_summary: In neuronal cell cultures and rats exposed to SARS-CoV-2 spike protein, metformin prevented memory problems, synapse damage, and toxic protein buildup by blocking a cellular oxygen-stress switch. Because this was a short rodent and cell study, it does not show whether metformin can reverse established brain fog in patients.
+  detail: A preclinical molecular study using human neuronal cell lines and a rat model demonstrated that intranasal exposure to the SARS-CoV-2 S1 spike protein caused cognitive impairment, synaptic dysfunction, and aggregation of toxic phosphorylated tau and alpha-synuclein, all of which were prevented by treatment with metformin. The study maps a direct pathway where the viral spike protein stabilizes the hypoxia switch HIF-1α, turning off genes essential for healthy brain connections, which is blocked by metformin’s metabolic action. This provides a clear molecular mechanism explaining metformin’s protective role against "brain fog" and neurodegenerative markers during post-viral syndromes. However, these findings are based on human cell lines and a six-week rodent model, which does not prove that metformin will reverse established cognitive impairment or stop neurodegenerative-like protein clumping in chronic human patients. It also does not clarify if vaccination-induced spike protein
+    exposure behaves similarly to the viral models used in the study.
+de:
+  title: Metformin schützt im SARS-CoV-2-Spike-Modell Hirnsynapsen und verhindert Proteinverklumpung
+  plain_summary: In menschlichen Nervenzelllinien und bei Ratten, die dem SARS-CoV-2-Spike-Protein ausgesetzt wurden, verhinderte Metformin Gedächtnisprobleme, Synapsenschäden und schädliche Proteinablagerungen durch Blockade eines zellulären Sauerstoffstress-Schalters. Da es sich um eine kurze Zell- und Nagerstudie handelt, beweist sie nicht, dass Metformin bestehenden Brain Fog beim Menschen rückgängig macht.
+  detail: Eine präklinische molekulare Studie an menschlichen neuronalen Zelllinien und einem Rattenmodell zeigte, dass eine intranasale Exposition gegenüber dem SARS-CoV-2-S1-Spike-Protein zu kognitiven Beeinträchtigungen, Synapsendysfunktion und Aggregation von toxischem phosphoryliertem Tau und Alpha-Synuklein führte – allesamt verhindert durch eine Behandlung mit Metformin. Die Arbeit beschreibt einen direkten Signalweg, bei dem das virale Spike-Protein den Hypoxie-Schalter HIF-1α stabilisiert und für gesunde Hirnverbindungen nötige Gene abschaltet, was durch die metabolische Wirkung von Metformin blockiert wird. Dies liefert einen klaren molekularen Erklärungsansatz für die schützende Rolle von Metformin gegen „Brain Fog“ und neurodegenerative Marker bei postviralen Syndromen. Da diese Ergebnisse jedoch auf Zelllinien und einem sechswöchigen Nagermodell beruhen, belegen sie nicht, dass Metformin bestehende kognitive Störungen oder Proteinablagerungen bei chronisch kranken Patientinnen
+    und Patienten umkehrt, und klären auch nicht, ob sich impfstoffinduzierte Spike-Exposition ähnlich verhält.

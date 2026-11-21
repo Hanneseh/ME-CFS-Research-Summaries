@@ -1,0 +1,160 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../../layouts/Base.astro";
+import { t } from "../../../lib/i18n";
+import { LANGS, type Lang } from "../../../lib/types";
+
+export const getStaticPaths = (() => LANGS.map((lang) => ({ params: { lang } }))) satisfies GetStaticPaths;
+
+const lang = Astro.params.lang as Lang;
+const s = t(lang);
+const de = lang === "de";
+const ext = { target: "_blank", rel: "noopener noreferrer" };
+---
+
+<Base lang={lang} title={s.imprintTitle} subpath="imprint/" active="imprint">
+  <section class="page-head">
+    <div class="wrap narrow">
+      <h1 class="display">{s.imprintTitle}</h1>
+    </div>
+  </section>
+
+  <section class="section section-tight">
+    <div class="wrap narrow prose legal">
+      <h2>{de ? "Angaben gemäß § 5 DDG" : "Information according to § 5 DDG"}</h2>
+      <div class="legal-grid">
+        <div>
+          <h3>{de ? "Anbieter" : "Provider"}</h3>
+          <address>
+            Hannes Ehringfeld<br />
+            c/o IP-Management #8145<br />
+            Ludwig-Erhard-Straße 18<br />
+            20459 Hamburg<br />
+            {de ? "Deutschland" : "Germany"}
+          </address>
+        </div>
+        <div>
+          <h3>{de ? "Kontakt" : "Contact"}</h3>
+          <p>
+            {de ? "E-Mail" : "Email"}: <a href="mailto:hannes.ehringfeld@gmail.com">hannes.ehringfeld@gmail.com</a><br />
+            {de ? "Telefon" : "Phone"}: <a href="tel:+4923479633453">+49 234 79633453</a>
+          </p>
+        </div>
+      </div>
+
+      <h2>{de ? "Verantwortlich für den Inhalt nach § 18 MStV" : "Responsible for content according to § 18 MStV"}</h2>
+      <address>
+        Hannes Ehringfeld<br />
+        c/o IP-Management #8145<br />
+        Ludwig-Erhard-Straße 18<br />
+        20459 Hamburg<br />
+        {de ? "Deutschland" : "Germany"}
+      </address>
+
+      <h2>{de ? "Hinweise und Haftung" : "Disclaimers"}</h2>
+
+      <div class="callout">
+        <h3>{de ? "Medizinischer Hinweis" : "Medical disclaimer"}</h3>
+        {
+          de ? (
+            <p>
+              Die Informationen auf dieser Website sind Zusammenfassungen von Forschungsergebnissen und dienen ausschließlich der allgemeinen
+              Information. Sie stellen <strong>keine</strong> medizinische Beratung, Diagnose oder Behandlungsempfehlung dar. Wenden Sie sich bei
+              Fragen zu einer Erkrankung immer an eine Ärztin, einen Arzt oder eine andere qualifizierte medizinische Fachperson.
+            </p>
+          ) : (
+            <p>
+              The information provided on this website consists of research synthesis notes and is for general informational purposes only. It
+              does <strong>not</strong> constitute medical advice, diagnosis, or treatment recommendations. Always seek the advice of a physician
+              or other qualified health provider with any questions regarding a medical condition.
+            </p>
+          )
+        }
+      </div>
+
+      <h3>{de ? "Haftung für Inhalte" : "Liability for content"}</h3>
+      {
+        de ? (
+          <p>
+            Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der
+            Forschungszusammenfassungen kann ich jedoch keine Gewähr übernehmen. Die Nutzung der Inhalte erfolgt auf eigene Verantwortung.
+          </p>
+        ) : (
+          <p>
+            The contents of this website were created with the greatest possible care. However, I cannot guarantee the accuracy, completeness, or
+            topicality of the research synthesis notes. Use of the content is at the user's own risk.
+          </p>
+        )
+      }
+
+      <h3>{de ? "Lizenz (gemeinfrei)" : "Licensing (public domain)"}</h3>
+      {
+        de ? (
+          <>
+            <p>
+              Soweit gesetzlich möglich, verzichte ich auf alle Urheber- und verwandten Schutzrechte an den auf dieser Website bereitgestellten
+              Forschungszusammenfassungen. Sie werden unter der{" "}
+              <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" {...ext}>
+                Creative Commons Zero (CC0) 1.0 Universell
+              </a>{" "}
+              veröffentlicht.
+            </p>
+            <p>
+              Sie dürfen die Zusammenfassungen kopieren, verändern und verbreiten, auch für kommerzielle Zwecke, ohne um Erlaubnis zu fragen oder
+              eine Quelle anzugeben.
+            </p>
+            <p>
+              <em>Bitte beachten Sie:</em> Dieser Verzicht gilt nur für meine eigenen Zusammenfassungen. Die verlinkten Originalarbeiten unterliegen
+              weiterhin dem Urheberrecht ihrer jeweiligen Autorinnen, Autoren oder Verlage.
+            </p>
+          </>
+        ) : (
+          <>
+            <p>
+              To the extent possible under law, I have waived all copyright and related or neighboring rights to the research synthesis notes
+              provided on this website. These notes are published under the{" "}
+              <a href="https://creativecommons.org/publicdomain/zero/1.0/" {...ext}>
+                Creative Commons Zero (CC0) 1.0 Universal dedication
+              </a>
+              .
+            </p>
+            <p>
+              You can copy, modify, and distribute these notes, even for commercial purposes, all without asking permission or providing
+              attribution.
+            </p>
+            <p>
+              <em>Please note:</em> This waiver only applies to my own synthesis notes. The original research papers linked from this site remain
+              subject to the copyright of their respective authors or publishers.
+            </p>
+          </>
+        )
+      }
+
+      <h2>{de ? "Datenschutz" : "Privacy note"}</h2>
+      {
+        de ? (
+          <p>
+            Diese Website wird über <strong>GitHub Pages</strong> bereitgestellt. Beim Besuch der Seite kann GitHub Protokolldaten (z. B. Ihre
+            IP-Adresse) zu Sicherheits- und Betriebszwecken erheben. Der Betreiber verwendet keine Cookies. Die Website speichert lediglich Ihre
+            Sprach- und Darstellungswahl lokal in Ihrem Browser (localStorage); diese Daten verlassen Ihr Gerät nicht. Weitere Informationen
+            finden Sie in der{" "}
+            <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" {...ext}>
+              Datenschutzerklärung von GitHub
+            </a>
+            .
+          </p>
+        ) : (
+          <p>
+            This website is hosted via <strong>GitHub Pages</strong>. When you visit this site, GitHub may collect log files (e.g., your IP
+            address) for security and service purposes. No cookies are used by the operator. The site only stores your language and display
+            preference locally in your browser (localStorage); this never leaves your device. Please refer to the{" "}
+            <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" {...ext}>
+              GitHub Privacy Statement
+            </a>{" "}
+            for more information.
+          </p>
+        )
+      }
+    </div>
+  </section>
+</Base>

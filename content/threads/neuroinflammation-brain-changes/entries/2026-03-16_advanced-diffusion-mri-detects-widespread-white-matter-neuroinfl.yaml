@@ -1,0 +1,18 @@
+id: 2026-03-16_advanced-diffusion-mri-detects-widespread-white-matter-neuroinfl
+date: '2026-03-16'
+date_display: '2026-03-16'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Yu et al. 2026, Human Brain Mapping
+  url: https://doi.org/10.1002/hbm.70505
+  kind: paper
+en:
+  title: Advanced diffusion MRI detects widespread white matter neuroinflammation
+  plain_summary: An advanced MRI study of 134 people detected subtle signs of swelling and immune-cell changes in brain white matter in ME/CFS that standard diffusion scans missed. These markers tracked with disability, though they still need repeat testing in independent groups before becoming diagnostic tools.
+  detail: A neuroimaging study of 67 patients and 67 matched controls using an advanced Neuroinflammation Imaging (NII) diffusion model identified widespread white matter abnormalities in patients, characterized by signs of cerebral edema, cellular infiltration, and axonal reorganization. While conventional Diffusion Tensor Imaging (DTI) failed to show significant differences or clinical correlations, lower levels of specific NII markers (such as hindered water ratio and restricted fraction) were associated with worse mental health scores and higher functional disability. This demonstrates that advanced diffusion models are highly sensitive to sub-clinical neuroinflammation in ME/CFS. However, these markers require longitudinal validation in independent cohorts to confirm their utility as diagnostic tools.
+de:
+  title: Fortgeschrittene Diffusions-MRT erkennt weitreichende Neuroinflammation in der weißen Substanz
+  plain_summary: Eine spezialisierte MRT-Studie mit 134 Personen fand in der weißen Hirnsubstanz von ME/CFS-Betroffenen subtile Hinweise auf Schwellung und Zellveränderungen, die Standard-Scans übersahen. Diese Marker hingen mit der funktionellen Einschränkung zusammen, müssen aber erst in unabhängigen Gruppen bestätigt werden.
+  detail: Eine Bildgebungsstudie mit 67 Patientinnen und Patienten sowie 67 gematchten Kontrollen, die ein fortgeschrittenes Neuroinflammation-Imaging-(NII-)Diffusionsmodell nutzte, identifizierte weitreichende Auffälligkeiten der weißen Substanz bei Betroffenen, geprägt durch Zeichen von Hirnödem, zellulärer Infiltration und axonaler Reorganisation. Während die konventionelle Diffusions-Tensor-Bildgebung (DTI) keine signifikanten Unterschiede oder klinischen Korrelationen zeigte, waren niedrigere Werte spezifischer NII-Marker (wie „hindered water ratio“ und „restricted fraction“) mit schlechteren Werten der psychischen Gesundheit und höherer funktioneller Beeinträchtigung verbunden. Dies zeigt, dass fortgeschrittene Diffusionsmodelle sehr empfindlich für subklinische Neuroinflammation bei ME/CFS sind. Allerdings erfordern diese Marker eine Längsschnitt-Validierung in unabhängigen Kohorten, um ihren Nutzen als Diagnoseinstrumente zu bestätigen.

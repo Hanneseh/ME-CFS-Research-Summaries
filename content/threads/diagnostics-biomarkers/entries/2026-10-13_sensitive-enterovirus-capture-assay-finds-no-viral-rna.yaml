@@ -1,0 +1,19 @@
+id: 2026-10-13_sensitive-enterovirus-capture-assay-finds-no-viral-rna
+date: '2026-10-13'
+date_display: '2026-10-13'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Germain & Hanson 2026, IJMS
+  url: https://doi.org/10.3390/ijms27209065
+  kind: paper
+en:
+  title: Sensitive enterovirus capture assay finds no viral RNA in tested ME blood samples
+  plain_summary: Researchers built a highly sensitive lab test (CATCH-EVseq) to hunt for enterovirus RNA and found none in a small set of ME blood samples, even after amplification. While it provides no evidence of virus circulating in those blood samples, it cannot rule out virus persistence in gut, muscle, or other tissues.
+  detail: A peer-reviewed methods paper introduced CATCH-EVseq, combining viral RNA capture with sequencing to search for low-level enterovirus infection. In artificial samples it detected one RNA copy per microgram in two of three replicates, but no enterovirus RNA was found in the small set of ME and control blood samples, including after in vitro amplification. This supports developing more sensitive research methods while providing no positive evidence for circulating enterovirus in the participants tested. A blood null cannot rule out persistence in gut, muscle or other tissues, and artificial-sample sensitivity does not establish clinical diagnostic accuracy. The abstract does not give the patient count, case definition or severe-patient inclusion. Blood draws may be feasible for some homebound participants in future research, whereas biopsy-based investigation would impose substantially greater burden.
+de:
+  title: Hochsensitives Enterovirus-Capture-Verfahren findet keine Virus-RNA in getesteten ME-Blutproben
+  plain_summary: Forschende entwickelten ein sehr empfindliches Laborverfahren (CATCH-EVseq) zur Suche nach Enterovirus-RNA, fanden damit aber in einer kleinen Auswahl von ME-Blutproben kein Virusmaterial. Das liefert keinen Hinweis auf zirkulierende Enteroviren im Blut dieser Gruppe, schließt eine Persistenz in Darm, Muskel oder anderen Geweben aber nicht aus.
+  detail: Eine begutachtete Methodenarbeit stellte CATCH-EVseq vor, ein Verfahren aus viraler RNA-Anreicherung und Sequenzierung zur Suche nach niedriggradigen Enterovirus-Infektionen. In künstlichen Proben wies es eine RNA-Kopie pro Mikrogramm in zwei von drei Replikaten nach, fand jedoch in dem kleinen Satz getesteter ME- und Kontroll-Blutproben – auch nach In-vitro-Amplifikation – keine Enterovirus-RNA. Dies stützt die Entwicklung empfindlicherer Forschungsmethoden, liefert aber keinen positiven Beleg für zirkulierende Enteroviren bei den untersuchten Teilnehmenden. Ein Nullbefund im Blut kann eine Persistenz im Darm, im Muskel oder in anderen Geweben nicht ausschließen, und die Empfindlichkeit an künstlichen Proben belegt keine klinische Testgenauigkeit. Das Abstract nennt weder Patientenzahl noch Falldefinition oder den Einschluss schwer Erkrankter; während Blutabnahmen künftig für manche hausgebundenen Betroffenen machbar sein könnten, wären gewebeentnehmende Biopsien mit deutlich
+    höherer Belastung verbunden.

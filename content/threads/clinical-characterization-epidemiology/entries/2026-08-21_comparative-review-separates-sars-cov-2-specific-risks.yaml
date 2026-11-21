@@ -1,0 +1,18 @@
+id: 2026-08-21_comparative-review-separates-sars-cov-2-specific-risks
+date: '2026-08-21'
+date_display: '2026-08-21'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Pinto et al. 2026, International Journal of Infectious Diseases
+  url: https://doi.org/10.1016/j.ijid.2026.109056
+  kind: paper
+en:
+  title: Comparative review separates SARS-CoV-2-specific risks from broader post-viral symptoms
+  plain_summary: A meta-analysis of 14 studies comparing COVID-19 with other respiratory viruses found higher long-term risks for blood-vessel events, shortness of breath, fatigue, brain fog, and palpitations after SARS-CoV-2. Because studies used medical codes and symptom checklists without PEM testing, it does not address exercise safety.
+  detail: Pinto et al. screened 9,371 records, included 22 adult cohort studies, and meta-analysed 14 comparing post-acute SARS-CoV-2 with other respiratory viral infections. Higher post-SARS-CoV-2 risks were found for selected vascular or thromboembolic events, abnormal breathing, fatigue, cognitive impairment, and palpitations, while many other systemic outcomes did not differ clearly. The review used codes and symptom checklists rather than objective exertion testing, so it does not measure PEM or establish exercise safety; severe/bedbound post-acute representation was heterogeneous. The findings support a broader post-acute infection framework while retaining SARS-CoV-2-specific signals, not a treatment recommendation.
+de:
+  title: Vergleichende Übersichtsarbeit trennt SARS-CoV-2-spezifische Risiken von allgemeineren postviralen Symptomen
+  plain_summary: Eine Metaanalyse von 14 Studien zum Vergleich von COVID-19 mit anderen Atemwegsviren fand nach SARS-CoV-2 höhere Langzeitrisiken für Gefäßereignisse, Atemnot, Fatigue, kognitive Störungen und Herzrasen. Da auf Diagnosecodes und Checklisten ohne PEM-Testung zurückgegriffen wurde, erlaubt sie keine Aussagen zur Belastungssicherheit.
+  detail: Pinto et al. sichteten 9.371 Datensätze, schlossen 22 Kohortenstudien Erwachsener ein und führten eine Metaanalyse über 14 Studien durch, die postakute Folgen nach SARS-CoV-2 mit anderen viralen Atemwegsinfektionen verglichen. Nach SARS-CoV-2 fanden sich höhere Risiken für ausgewählte vaskuläre oder thromboembolische Ereignisse, gestörte Atmung, Fatigue, kognitive Beeinträchtigung und Herzklopfen, während sich viele andere systemische Endpunkte nicht eindeutig unterschieden. Da die Übersicht Diagnosecodes und Symptomchecklisten statt objektiver Belastungstests nutzte, misst sie keine PEM und trifft keine Aussage zur Sicherheit von Training; die Einbindung schwer Betroffener war uneinheitlich. Die Befunde stützen einen breiteren Rahmen postakuter Infektionsfolgen bei gleichzeitigen SARS-CoV-2-spezifischen Signalen, stellen aber keine Therapieempfehlung dar.

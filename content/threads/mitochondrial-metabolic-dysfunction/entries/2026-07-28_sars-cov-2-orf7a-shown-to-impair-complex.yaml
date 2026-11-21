@@ -1,0 +1,20 @@
+id: 2026-07-28_sars-cov-2-orf7a-shown-to-impair-complex
+date: '2026-07-28'
+date_display: '2026-07-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Fernández-Rodríguez et al. 2026, Cell Reports
+  url: https://doi.org/10.1016/j.celrep.2026.117755
+  kind: paper
+en:
+  title: SARS-CoV-2 ORF7a shown to impair Complex I and activate PDK4 in cell models
+  plain_summary: 'A cell-line study showed that the SARS-CoV-2 protein ORF7a suppresses mitochondrial energy production in two ways: activating PDK4 and disrupting Complex I. Because it used lab-grown cell lines rather than patient tissues, it does not prove ongoing viral protein activity in patients.'
+  detail: 'A peer-reviewed mechanistic study in *Cell Reports* examined in vitro human cell line models (A549 epithelial cells and THP-1 monocytes) to determine how the SARS-CoV-2 accessory protein ORF7a alters cellular bioenergetics. Recombinant expression of ORF7a directly suppressed mitochondrial oxidative phosphorylation, decreased reserve respiratory capacity, depolarized mitochondrial membranes, and elevated reactive oxygen species. Mechanistically, the authors identified dual routes of bioenergetic suppression: ORF7a upregulated Pyruvate Dehydrogenase Kinase 4 (PDK4)—hyperphosphorylating and inhibiting the pyruvate dehydrogenase complex to restrict TCA cycle flux—and directly inhibited Complex I enzymatic activity while destabilizing respiratory supercomplex assembly. Pharmacological PDK4 inhibition only partially restored respiration, confirming that direct Complex I and supercomplex disruption functions as an independent driver of viral-induced mitochondrial collapse. Because this
+    work was conducted in culture-adapted cell lines rather than patient tissues, it represents adjacent post-viral mechanistic evidence rather than direct proof of ongoing pathology in ME/CFS or Long COVID, does not measure in vivo viral protein persistence, and cannot determine applicability to severe patients.'
+de:
+  title: SARS-CoV-2-Protein ORF7a hemmt Komplex I und aktiviert PDK4 in Zellmodellen
+  plain_summary: 'Eine Zellkulturstudie zeigte, dass das SARS-CoV-2-Protein ORF7a die mitochondriale Energiegewinnung über zwei Wege bremst: Aktivierung von PDK4 und Störung von Komplex I. Da es sich um Laborzelllinien handelt, beweist dies noch keine anhaltende Wirkung im Körper von Betroffenen.'
+  detail: 'Eine begutachtete mechanistische Studie in *Cell Reports* untersuchte in menschlichen In-vitro-Zelllinien (A549-Epithelzellen und THP-1-Monozyten), wie das akzessorische SARS-CoV-2-Protein ORF7a die zelluläre Bioenergetik verändert. Die rekombinante Expression von ORF7a unterdrückte direkt die mitochondriale oxidative Phosphorylierung, verringerte die Atemreservekapazität, depolarisierte Mitochondrienmembranen und erhöhte reaktive Sauerstoffspezies. Mechanistisch identifizierten die Autorinnen und Autoren zwei Wege dieser Hemmung: ORF7a regulierte die Pyruvat-Dehydrogenase-Kinase 4 (PDK4) hoch – wodurch der Pyruvat-Dehydrogenase-Komplex überphosphoryliert und gehemmt wurde, was den Zufluss in den Citratzyklus bremst – und hemmte direkt die Enzymaktivität von Komplex I unter Destabilisierung der respiratorischen Superkomplexe. Eine medikamentöse PDK4-Hemmung stellte die Atmung nur teilweise wieder her, was bestätigt, dass die direkte Störung von Komplex I und Superkomplexen als
+    eigenständiger Treiber des virusbedingten Energiekollapses wirkt. Da die Versuche in kulturadaptierten Zelllinien statt in Patientengewebe erfolgten, liefert die Arbeit angrenzende postvirale Mechanismus-Evidenz, beweist aber keine anhaltende Pathologie bei ME/CFS oder Long COVID, misst keine Virusprotein-Persistenz im Körper und erlaubt keine Aussage über schwer Erkrankte.'

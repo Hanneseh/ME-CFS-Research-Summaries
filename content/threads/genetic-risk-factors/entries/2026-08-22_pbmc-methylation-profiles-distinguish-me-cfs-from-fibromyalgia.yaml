@@ -1,0 +1,18 @@
+id: 2026-08-22_pbmc-methylation-profiles-distinguish-me-cfs-from-fibromyalgia
+date: '2026-08-22'
+date_display: '2026-08-22'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Polli et al. 2026, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-026-08824-5
+  kind: paper
+en:
+  title: PBMC methylation profiles distinguish ME/CFS from fibromyalgia in an all-women cohort
+  plain_summary: A study of 188 women found that chemical DNA-methylation patterns in blood immune cells differed between ME/CFS, fibromyalgia, and healthy controls, tracking with PEM and cognitive symptoms. While it points to distinct immune and metabolic regulation, it cannot prove cause or serve as a diagnostic blood test.
+  detail: Polli et al. performed a cross-sectional epigenome-wide study of 188 women (71 with ME/CFS, 44 with fibromyalgia, and 73 healthy controls) using PBMC methylation arrays. One principal-component axis distinguished ME/CFS from fibromyalgia and controls and correlated with PEM and cognitive symptoms; another tracked broader symptom burden, pain, and sleep disruption. Region-level signals implicated neuroimmune and metabolic pathways, but methylation changes cannot establish cause or provide a clinical diagnostic test. The center-based cohort did not report a dedicated severe/bedbound subgroup; blood sampling was less exertional than CPET, but travel and venipuncture remained burdensome, and no treatment or PEM provocation was performed.
+de:
+  title: PBMC-Methylierungsprofile unterscheiden ME/CFS von Fibromyalgie in einer reinen Frauenkohorte
+  plain_summary: Eine Studie an 188 Frauen fand in Abwehrzellen des Blutes DNA-Methylierungsmuster, die ME/CFS von Fibromyalgie und Gesunden unterschieden und mit PEM sowie kognitiven Beschwerden zusammenhingen. Das weist auf unterschiedliche Immun- und Stoffwechselregulation hin, beweist aber keine Ursache und liefert noch keinen Diagnosetest.
+  detail: Polli et al. führten eine querschnittliche epigenomweite Studie an 188 Frauen (71 mit ME/CFS, 44 mit Fibromyalgie und 73 gesunden Kontrollen) mittels Methylierungs-Arrays in PBMCs durch. Eine Hauptkomponenten-Achse grenzte ME/CFS von Fibromyalgie und Kontrollen ab und korrelierte mit PEM sowie kognitiven Symptomen; eine weitere Achse bildete die allgemeine Symptombelastung, Schmerzen und Schlafstörungen ab. Regionale Signale deuteten auf neuroimmune und metabolische Signalwege hin, doch Methylierungsänderungen können weder Ursachen beweisen noch einen klinischen Diagnosetest ersetzen. Die zentrumsbasierte Kohorte berichtete keine eigene Gruppe schwer oder bettlägerig Betroffener; Blutabnahmen waren zwar weniger belastend als eine CPET, Anreise und Venenpunktion blieben aber anstrengend, und es wurden weder eine Behandlung noch eine PEM-Provokation durchgeführt.

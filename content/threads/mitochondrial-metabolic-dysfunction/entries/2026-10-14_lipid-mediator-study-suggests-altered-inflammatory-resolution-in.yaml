@@ -1,0 +1,20 @@
+id: 2026-10-14_lipid-mediator-study-suggests-altered-inflammatory-resolution-in
+date: '2026-10-14'
+date_display: '2026-10-14'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Moss, Pons et al. 2026, iScience
+  url: https://doi.org/10.1016/j.isci.2026.117581
+  kind: paper
+en:
+  title: Lipid-mediator study suggests altered inflammatory resolution in Long COVID
+  plain_summary: A study of small biobank cohorts found altered inflammation-resolving lipid signals in Long COVID plasma, such as lower resolvin D1. Missing diet and medication records and the lack of ME/CFS or PEM criteria mean this offers leads to test rather than a diagnostic or treatment.
+  detail: A peer-reviewed iScience study analysed plasma lipid mediators in two small biobank cohorts classified as Long COVID or recovered by chart review. In early samples from 14 people who later developed Long COVID and nine who recovered, several 12-lipoxygenase products were higher; longitudinal samples from 29 Long COVID participants and seven recovered controls also showed altered lipid-mediator trajectories, including lower resolvin D1. Exploratory lipid-defined subgroups did not establish symptom-linked responder groups. These associations suggest pathways to test, rather than proving that abnormal lipid metabolism causes illness. Medication, diet and fasting data were unavailable, the suggested platelet source of the lipid signal was not directly established, and some authors disclosed industry financial interests. The cohorts were not defined by ME/CFS or PEM or characterized for bedbound inclusion. Blood collection could support future research, but neither a validated test
+    nor a treatment follows from these findings.
+de:
+  title: Studie zu Lipidmediatoren deutet auf veränderte Entzündungsauflösung bei Long COVID hin
+  plain_summary: Eine Studie an kleinen Biobank-Kohorten fand im Plasma von Long-COVID-Betroffenen veränderte Lipidbotenstoffe für die Entzündungsauflösung, darunter weniger Resolvin D1. Fehlende Angaben zu Medikamenten und Ernährung sowie fehlende ME/CFS-Kriterien machen dies zunächst zu einem Forschungsansatz ohne Test- oder Therapiereife.
+  detail: Eine begutachtete Studie in *iScience* analysierte Plasma-Lipidmediatoren in zwei kleinen Biobank-Kohorten, die per Aktenauswertung als Long COVID oder genesen eingestuft wurden. In frühen Proben von 14 Personen, die später Long COVID entwickelten, und neun Genesenen waren mehrere 12-Lipoxygenase-Produkte erhöht; Verlaufsproben von 29 Long-COVID-Teilnehmenden und sieben genesenen Kontrollpersonen zeigten zudem veränderte Lipidmediator-Verläufe, darunter niedrigeres Resolvin D1. Explorative lipiddefinierte Untergruppen ergaben keine symptomverknüpften Therapie- oder Respondergruppen. Diese Zusammenhänge liefern zu prüfende Signalwege, beweisen aber nicht, dass ein veränderter Fettstoffwechsel die Erkrankung verursacht. Angaben zu Medikamenten, Ernährung und Nüchternstatus fehlten, die vermutete Herkunft des Lipidsignals aus Thrombozyten wurde nicht direkt nachgewiesen, und einige Autorinnen bzw. Autoren gaben finanzielle Interessenkonflikte aus der Industrie an. Die Kohorten waren
+    nicht nach ME/CFS oder PEM definiert und nicht auf Einschluss bettlägeriger Personen charakterisiert; Blutproben können künftige Forschung stützen, liefern aber noch keinen Test und keine Behandlung.

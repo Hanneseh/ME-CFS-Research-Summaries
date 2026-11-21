@@ -1,0 +1,19 @@
+id: 2026-07-20_retrospective-cohort-finds-48-7-circadian-rhythm-sleep
+date: '2026-07-20'
+date_display: '2026-07-20'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: 'CFS circadian rhythm study: Shao et al. 2026, Frontiers in Psychiatry'
+  url: https://doi.org/10.3389/fpsyt.2026.1826328
+  kind: paper
+en:
+  title: Retrospective cohort finds 48.7% circadian rhythm sleep-wake disorder comorbidity in chronic fatigue syndrome
+  plain_summary: Among 427 chronic fatigue syndrome patients tested in a sleep lab, nearly 49% had a circadian rhythm sleep-wake disorder, linked to female sex and shift work. Because it used older 1994 criteria and in-lab overnight testing, it misses PEM-defined and bedbound patients.
+  detail: A peer-reviewed retrospective cohort study published in Frontiers in Psychiatry investigated comorbid circadian rhythm sleep-wake disorders (CRSWDs) in 610 patients with chronic fatigue syndrome. Within the training cohort (n=427), 48.7% of patients met clinical criteria for comorbid CRSWD, with multivariable regression identifying female sex and shift work as independent risk factors. Conversely, a higher percentage of slow-wave sleep on overnight polysomnography was significantly protective against circadian disruption. The authors constructed a predictive clinical nomogram combining demographic and polysomnographic variables, but this tool remains internally validated and is not yet an established clinical screening instrument. The study is limited by its single-center retrospective design, its reliance on 1994 Fukuda criteria which do not mandate post-exertional malaise, and the logistical demands of in-lab polysomnography that systematically underrepresent severe and bedbound
+    individuals.
+de:
+  title: Retrospektive Kohorte findet bei 48,7 % der Betroffenen mit Chronischem Fatigue-Syndrom komorbide zirkadiane Schlaf-Wach-Rhythmusstörungen
+  plain_summary: Unter 427 im Schlaflabor untersuchten Betroffenen mit Chronischem Fatigue-Syndrom wiesen fast 49 % eine Störung des Schlaf-Wach-Rhythmus auf, häufiger bei Frauen und Schichtarbeit. Da ältere Fukuda-Kriterien von 1994 und aufwendige Schlaflabor-Tests genutzt wurden, bildet die Studie weder PEM-definiertes ME/CFS noch Bettlägerige ab.
+  detail: Eine in Frontiers in Psychiatry veröffentlichte retrospektive Kohortenstudie untersuchte komorbide zirkadiane Schlaf-Wach-Rhythmusstörungen (CRSWDs) bei 610 Patientinnen und Patienten mit Chronischem Fatigue-Syndrom. In der Trainingskohorte (n = 427) erfüllten 48,7 % die klinischen Kriterien einer CRSWD, wobei multivariable Regression weibliches Geschlecht und Schichtarbeit als unabhängige Risikofaktoren auswies; ein höherer Tiefschlafanteil (Slow-Wave Sleep) in der Polysomnografie wirkte dagegen schützend. Die Autorinnen und Autoren entwickelten ein prädiktives klinisches Nomogramm aus demografischen und Schlaflabor-Variablen, das jedoch nur intern validiert ist und noch kein etabliertes Screening-Instrument darstellt. Einschränkungen sind das retrospektive Einzelzentrum-Design, die Verwendung der Fukuda-Kriterien von 1994 ohne zwingende PEM sowie der hohe Aufwand einer Übernacht-Polysomnografie im Labor, wodurch schwer Kranke und Bettlägerige systematisch unterrepräsentiert bleiben.

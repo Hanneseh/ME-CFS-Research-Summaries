@@ -1,0 +1,19 @@
+id: 2026-08-28_international-consensus-expands-recognition-beyond-tachycardic-p
+date: '2026-08-28'
+date_display: '2026-08-28'
+date_precision: exact
+source_type: guideline
+study_design: null
+sources:
+- label: Sivakoti et al. 2026, The American Journal of Medicine
+  url: https://doi.org/10.1016/j.amjmed.2026.08.012
+  kind: paper
+en:
+  title: International consensus expands recognition beyond tachycardic POTS criteria
+  plain_summary: Forty international specialists and patient advocates agreed on guidance formally recognizing disabling orthostatic intolerance even when heart rate does not jump enough for a classic POTS diagnosis. It is expert guidance rather than trial data, and notes that prolonged standing tests can harm patients with PEM.
+  detail: Sivakoti and colleagues report a modified Delphi consensus from 40 specialists and patient advocates across 7 countries, with 31 guidance statements reaching at least 70% agreement and most reaching over 90% or unanimity. The statement formally recognises disabling orthostatic intolerance that does not meet the usual sustained heart-rate increase of 30 beats/min in adults or 40 beats/min in adolescents, addressing a route by which non-tachycardic patients can be missed by diagnosis and research. It did not enroll patients, and severe or bedbound inclusion was not empirically assessed; the document instead notes that prolonged standing or tilt testing may be intolerable and can worsen PEM. This is expert guidance rather than randomized treatment evidence and does not recommend a specific intervention; it is also relevant to [Clinical Characterization & Epidemiology](thread:clinical-characterization-epidemiology) and [Diagnostics & Biomarkers](thread:diagnostics-biomarkers).
+de:
+  title: Internationaler Konsens erweitert Anerkennung über tachykarde POTS-Kriterien hinaus
+  plain_summary: Vierzig internationale Fachleute und Patientenvertretungen verabschiedeten Leitlinien, die belastende orthostatische Intoleranz auch ohne klassischen POTS-Pulsanstieg anerkennen. Es handelt sich um Expertenkonsens statt neuer Therapiestudien.
+  detail: Sivakoti und Kolleginnen berichten über einen modifizierten Delphi-Konsens von 40 Fachleuten und Patientenvertretungen aus sieben Ländern, bei dem 31 Leitaussagen mindestens 70 % Zustimmung erreichten und die meisten über 90 % oder Einstimmigkeit erzielten. Die Stellungnahme erkennt einschränkende orthostatische Intoleranz formal auch dann an, wenn der übliche anhaltende Herzfrequenzanstieg von 30 Schlägen/Min. bei Erwachsenen bzw. 40 Schlägen/Min. bei Jugendlichen nicht erreicht wird – und verhindert so, dass Betroffene ohne Tachykardie in Diagnose und Forschung übersehen werden. Es wurden keine Patientinnen und Patienten eingeschlossen und kein empirischer Anteil schwer Betroffener erhoben; stattdessen hält das Dokument fest, dass längeres Stehen oder Kipptischtests unzumutbar sein und PEM verschlimmern können. Dies ist Expertenorientierung und keine randomisierte Behandlungsstudie, empfiehlt keine einzelne Therapie und berührt zudem [Klinische Charakterisierung & Epidemiologie](thread:clinical-characterization-epidemiology)
+    sowie [Diagnostik & Biomarker](thread:diagnostics-biomarkers).

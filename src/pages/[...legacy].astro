@@ -1,0 +1,12 @@
+---
+import type { GetStaticPaths } from "astro";
+import Redirect from "../components/Redirect.astro";
+import { getLegacyRedirects } from "../lib/content";
+
+export const getStaticPaths = (() =>
+  getLegacyRedirects().map((r) => ({ params: { legacy: r.from }, props: { target: r.to } }))) satisfies GetStaticPaths;
+
+const { target } = Astro.props;
+---
+
+<Redirect target={target} />

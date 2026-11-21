@@ -1,0 +1,18 @@
+id: 2025-12-05_large-scale-cohort-study-confirms-persistent-cd8-t
+date: '2025-12-05'
+date_display: '2025-12-05'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: Jiang et al. 2025, International Journal of Infectious Diseases
+  url: https://doi.org/10.1016/j.ijid.2025.108287
+  kind: paper
+en:
+  title: Large-scale cohort study confirms persistent CD8+ T-cell depletion 20 months post-COVID-19
+  plain_summary: Data from over 40,000 hospital-visiting patients showed that killer CD8 T cells remained nearly 10% lower 20 months after a COVID-19 wave—and much lower in people with heart disease. While it shows SARS-CoV-2 can leave long-lasting immune drops, it did not track whether these patients had ME/CFS or Long COVID symptoms.
+  detail: A retrospective cohort study of 40,537 individuals demonstrated that a single mass infection wave led to a persistent reduction in lymphocyte subsets. Even 20 months post-infection, CD8+ T cells remained 9.9% below baseline, and patients with pre-existing cardiovascular disease showed a 72.9% reduction in total T cells with minimal recovery. This provides high-volume clinical evidence that SARS-CoV-2 can induce long-lasting immune compromise, particularly affecting cytotoxic T cells, which may drive chronic post-viral fatigue and compromise latent pathogen control. However, the study analyzed hospital-visiting patients, which may introduce selection bias, and does not determine if these lymphocyte drops represent permanent damage or a prolonged recovery phase.
+de:
+  title: Großkohortenstudie bestätigt anhaltenden Rückgang von CD8+-T-Zellen 20 Monate nach COVID-19
+  plain_summary: Daten von über 40.000 Klinikpatientinnen und -patienten zeigten noch 20 Monate nach einer COVID-19-Welle um fast 10 % niedrigere CD8-Killerzellen – bei Vorerkrankungen des Herzens sogar deutlich weniger. Das belegt langanhaltende Immunveränderungen nach SARS-CoV-2, untersuchte aber nicht direkt ME/CFS- oder Long-COVID-Diagnosen.
+  detail: Eine retrospektive Kohortenstudie an 40.537 Personen zeigte, dass eine einzelne große Infektionswelle zu einem anhaltenden Rückgang von Lymphozyten-Untergruppen führte. Selbst 20 Monate nach der Infektion lagen die CD8+-T-Zellen noch 9,9 % unter dem Ausgangswert, und Patientinnen und Patienten mit vorbestehender Herz-Kreislauf-Erkrankung zeigten einen Rückgang der gesamten T-Zellen um 72,9 % bei minimaler Erholung. Dies liefert großskalige klinische Hinweise darauf, dass SARS-CoV-2 eine langanhaltende Beeinträchtigung zytotoxischer T-Zellen hinterlassen kann, was die Kontrolle latenter Erreger schwächen könnte. Allerdings untersuchte die Studie Personen mit Krankenhauskontakt – was Selektionsverzerrungen begünstigt – und klärt nicht, ob es sich um dauerhafte Schäden oder eine stark verlängerte Erholungsphase handelt.

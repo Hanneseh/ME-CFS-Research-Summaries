@@ -1,0 +1,19 @@
+id: 2026-05-29_cohort-study-evaluates-wearable-supported-activity-pacing-and
+date: '2026-05-29'
+date_display: '2026-05-29'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: Aboagye et al. 2026, JMIR Formative Research
+  url: https://doi.org/10.2196/91829
+  kind: paper
+en:
+  title: Cohort study evaluates wearable-supported activity pacing and symptom dynamics in post-COVID fatigue
+  plain_summary: Tracking 19 adults with post-COVID fatigue using Fitbits found that higher daily step goals matched better same-day energy simply because people picked higher goals on days they already felt better, with over 40% seeing no pacing benefit. Fixed step targets are therefore not enough, and 24-hour tracking missed delayed PEM crashes.
+  detail: 'An exploratory observational study tracked 19 adults with post-COVID fatigue over 3 months using Fitbit wearable devices and a daily symptom-reporting mobile app. The study found that choosing "active" or "balanced" daily pacing goals (targets of >7000 and 3000–7000 steps, respectively) was associated with significant same-day reductions in fatigue and improvements in energy compared to "light" pacing (<3000 steps). However, these benefits did not persist into the next day, and the study revealed substantial confounding by indication: participants selected active pacing goals on days they felt naturally better, and set light goals when fatigue was high. Furthermore, 41.7% of participants showed no clinical benefit from structured pacing goals, indicating high individual heterogeneity. These findings suggest that while wearable devices can support pacing within an "energy envelope," uniform step targets are insufficient, and the study''s 24-hour model could not capture delayed
+    PEM crashes occurring 48 to 72 hours post-exertion.'
+de:
+  title: Kohortenstudie untersucht Wearable-gestütztes Aktivitäts-Pacing und Symptomdynamik bei Post-COVID-Fatigue
+  plain_summary: Die dreimonatige Begleitung von 19 Erwachsenen mit Post-COVID-Fatigue per Fitbit zeigte, dass höhere Tages-Schrittziele nur deshalb mit besserem Befinden einhergingen, weil an besseren Tagen höhere Ziele gewählt wurden – über 40 % hatten keinen klaren Nutzen. Feste Schrittziele greifen daher zu kurz, und das 24-Stunden-Fenster verfehlte verzögerte PEM-Einbrüche nach 48 bis 72 Stunden.
+  detail: 'Eine explorative Beobachtungsstudie begleitete 19 Erwachsene mit Post-COVID-Fatigue über drei Monate mit Fitbit-Wearables und einer App zur täglichen Symptomerfassung. Die Studie fand, dass die Wahl „aktiver“ oder „ausgewogener“ Tagesziele (> 7.000 bzw. 3.000–7.000 Schritte) im Vergleich zu „leichtem“ Pacing (< 3.000 Schritte) mit geringerer Fatigue und mehr Energie am selben Tag einherging. Diese Effekte hielten jedoch nicht bis zum nächsten Tag an, und es zeigte sich ein starkes Confounding by Indication: Teilnehmende wählten aktive Ziele an Tagen, an denen sie sich ohnehin besser fühlten, und leichte Ziele bei starker Erschöpfung. Zudem zeigten 41,7 % keinen klinischen Nutzen durch strukturierte Schrittziele, was auf große individuelle Unterschiede hinweist. Einheitliche Schrittvorgaben reichen daher für das Pacing nicht aus, und das 24-Stunden-Modell konnte verzögerte PEM-Einbrüche nach 48 bis 72 Stunden nicht erfassen.'

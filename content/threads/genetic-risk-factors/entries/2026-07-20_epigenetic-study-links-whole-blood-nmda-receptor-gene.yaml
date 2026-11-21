@@ -1,0 +1,20 @@
+id: 2026-07-20_epigenetic-study-links-whole-blood-nmda-receptor-gene
+date: '2026-07-20'
+date_display: '2026-07-20'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: PubMed Central 2026
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13380026/
+  kind: paper
+en:
+  title: Epigenetic study links whole-blood NMDA receptor gene methylation and biological aging to post-COVID cognitive symptoms
+  plain_summary: A study of blood samples from Long COVID patients found altered chemical tags on glutamate-receptor genes alongside signs of faster biological aging in people with brain fog. Because it tested blood rather than brain tissue and focused on Long COVID without confirmed PEM, its relevance to classic ME/CFS remains uncertain.
+  detail: An epigenetic investigation published in PubMed Central analyzed whole-blood DNA methylation profiles in post-COVID patients, identifying significant methylation alterations at core N-methyl-D-aspartate (NMDA) receptor gene loci. These epigenetic shifts in glutamatergic signaling pathways correlated with accelerated biological aging measured by epigenetic clocks and were associated with Long COVID neuropsychiatric sequelae and cognitive dysfunction ("brain fog"). The findings provide a peripheral epigenetic model linking post-viral immune-inflammatory signaling to glutamatergic gene regulation and cognitive impairment. However, the study relies on cross-sectional whole-blood samples rather than central nervous system tissue, and peripheral methylation markers do not prove direct central glutamatergic pathology. Additionally, the cohort focused on post-COVID syndrome rather than strictly phenotyped ME/CFS with post-exertional malaise, requiring prospective validation in classic
+    ME/CFS populations.
+de:
+  title: Epigenetik-Studie verknüpft NMDA-Rezeptor-Genmethylierung im Vollblut und biologisches Altern mit kognitiven Post-COVID-Symptomen
+  plain_summary: Eine Blutstudie an Long-COVID-Betroffenen fand bei Menschen mit Brain Fog veränderte DNA-Markierungen an Glutamat-Rezeptorgenen sowie Anzeichen schnellerer biologischer Alterung. Da nur Blut statt Hirngewebe untersucht wurde und eine PEM-Prüfung fehlte, ist die Übertragbarkeit auf klassisches ME/CFS noch ungewiss.
+  detail: Eine über PubMed Central veröffentlichte epigenetische Untersuchung analysierte DNA-Methylierungsprofile im Vollblut von Post-COVID-Betroffenen und identifizierte signifikante Methylierungsveränderungen an zentralen Genorten für N-Methyl-D-Aspartat-(NMDA-)Rezeptoren. Diese epigenetischen Verschiebungen in glutamatergen Signalwegen korrelierten mit einer mittels epigenetischer Uhren gemessenen beschleunigten biologischen Alterung und gingen mit neuropsychiatrischen Spätfolgen sowie kognitiven Beeinträchtigungen („Brain Fog“) bei Long COVID einher. Die Befunde liefern ein peripheres epigenetisches Modell, das postvirale Entzündungssignale mit der Regulation glutamaterger Gene und kognitiven Einschränkungen verbindet. Allerdings stützt sich die Studie auf querschnittliche Vollblutproben statt auf Gewebe des zentralen Nervensystems, sodass periphere Methylierungsmarker keine direkte zentrale Glutamat-Pathologie beweisen; zudem lag der Fokus auf dem Post-COVID-Syndrom statt auf streng
+    phänotypisiertem ME/CFS mit Post-Exertional Malaise.

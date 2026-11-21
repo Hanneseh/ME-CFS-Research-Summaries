@@ -1,0 +1,26 @@
+id: 2022-03-31_longitudinal-plasma-metabolomics-reveals-post-exercise-recovery
+date: '2022-03-31'
+date_display: '2022-03-31'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Germain et al. 2022, JCI Insight
+  url: https://doi.org/10.1172/jci.insight.157621
+  kind: paper
+en:
+  title: Longitudinal plasma metabolomics reveals post-exercise recovery failure
+  plain_summary: Tracking over 1,100 blood metabolites across two exercise tests 24 hours apart showed that patient metabolic disruptions peaked during the 24-hour recovery window. Many altered chemicals remain unidentified, and the male group was small.
+  detail: '- **What changed:** A study tracking 1,157 plasma metabolites before and after two 24-hour-separated cardiopulmonary exercise tests (CPETs) in 60 patients and 45 controls showed that metabolic differences and disruptions in lipid and glutamate pathways peaked during the 24-hour recovery period.
+
+    - **Why it matters:** This provides objective biological evidence for recovery failure following exertion, demonstrating that dynamic physical stress testing reveals metabolic pathology that remains hidden in a resting state.
+
+    - **What it does not prove yet:** Many of the most significantly altered metabolites remain chemically unidentified, and the small size of the male cohort limits statistical power for drawing firm sex-specific conclusions.'
+de:
+  title: Longitudinale Plasma-Metabolomik zeigt gestörte Erholung nach Belastung
+  plain_summary: Die Messung von über 1.100 Stoffwechselstoffen vor und nach zwei Belastungstests im Abstand von 24 Stunden zeigte die stärksten Abweichungen bei Betroffenen während der Erholungsphase. Viele veränderte Substanzen sind chemisch noch unbestimmt, und es nahmen nur wenige Männer teil.
+  detail: '- **Was sich gezeigt hat:** Eine Studie, die 1.157 Plasmametabolite vor und nach zwei im Abstand von 24 Stunden durchgeführten Spiroergometrien (CPETs) bei 60 Betroffenen und 45 Kontrollpersonen verfolgte, zeigte, dass Stoffwechselunterschiede sowie Störungen im Lipid- und Glutamatstoffwechsel während der 24-stündigen Erholungsphase ihren Höhepunkt erreichten.
+
+    - **Warum das wichtig ist:** Dies liefert objektive biologische Belege für ein Erholungsversagen nach Belastung und zeigt, dass dynamische Belastungstests Stoffwechselstörungen sichtbar machen, die im Ruhezustand verborgen bleiben.
+
+    - **Was damit noch nicht belegt ist:** Viele der am stärksten veränderten Metaboliten sind chemisch noch nicht identifiziert, und die geringe Größe der männlichen Teilgruppe begrenzt die Aussagekraft zu geschlechtsspezifischen Unterschieden.'

@@ -1,0 +1,18 @@
+id: 2026-07-10_scoping-review-of-long-covid-exercise-rehabilitation-highlights
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: review
+study_design: RCT
+sources:
+- label: Long COVID Exercise Rehabilitation Scoping Review, Journal of Bodywork and Movement Therapies
+  url: https://www.sciencedirect.com/science/article/pii/S1360859226001725
+  kind: paper
+en:
+  title: Scoping review of Long COVID exercise rehabilitation highlights safety and screening gaps
+  plain_summary: A scoping review of 21 Long COVID exercise trials (1,916 participants) found general fitness gains in pre-screened groups, but noted that trials systematically failed to screen for or monitor PEM. Because PEM-positive patients were not safely tracked, these results do not support graded exercise for people with PEM.
+  detail: A scoping review of 21 randomized controlled trials (RCTs) including 1,916 participants evaluated exercise-based rehabilitation for Long COVID, reporting general improvements in functional capacity without documented worsening of outcomes. However, this finding is restricted to highly pre-screened cohorts, and the review emphasizes that the included trials systematically failed to screen for or monitor post-exertional malaise (PEM). Consequently, these findings cannot be generalized to patients with active PEM, and they do not justify the recommendation of graded exercise protocols, which carry a high risk of triggering severe clinical deterioration. Pacing and individualized energy management remain the established standard of care for PEM-positive individuals. Poor standardization of exercise volume and progression across the trials also limits their clinical reproducibility.
+de:
+  title: Scoping-Review zur Bewegungstherapie bei Long COVID deckt Sicherheits- und Screening-Lücken auf
+  plain_summary: Eine Übersicht über 21 Long-COVID-Trainingsstudien (1.916 Teilnehmende) fand zwar Funktionsgewinne in stark vorselektierten Gruppen, stellte aber fest, dass die Studien PEM systematisch nicht abfragten oder überwachten. Diese Ergebnisse lassen sich daher nicht auf Menschen mit PEM übertragen und rechtfertigen kein gestuftes Aufbautraining.
+  detail: Ein Scoping-Review von 21 randomisierten kontrollierten Studien (RCTs) mit 1.916 Teilnehmenden untersuchte bewegungsbasierte Rehabilitation bei Long COVID und berichtete über allgemeine Verbesserungen der funktionellen Leistungsfähigkeit ohne dokumentierte Verschlechterung der Endpunkte. Dieser Befund gilt jedoch nur für stark vorselektierte Kohorten, und die Übersichtsarbeit hebt hervor, dass die eingeschlossenen Studien ein Screening auf Post-Exertional Malaise (PEM) und dessen Überwachung systematisch versäumten. Folglich lassen sich diese Resultate nicht auf Patientinnen und Patienten mit aktivem PEM verallgemeinern und rechtfertigen keine Empfehlung gestufter Trainingsprotokolle, die ein hohes Risiko schwerer klinischer Verschlechterung bergen. Pacing und individuelles Energiemanagement bleiben für PEM-positive Betroffene der Versorgungsstandard; zudem schränkt eine schlechte Standardisierung von Trainingsumfang und -steigerung die klinische Vergleichbarkeit ein.

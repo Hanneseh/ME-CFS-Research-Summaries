@@ -1,0 +1,18 @@
+id: 2026-07-25_peer-reviewed-evaluation-validates-cureme-participatory-research
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: CureME participatory model 2026, PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/42483535/
+  kind: paper
+en:
+  title: Peer-reviewed evaluation validates CureME participatory research and biobank infrastructure model
+  plain_summary: A peer-reviewed evaluation showed that the UK ME/CFS Biobank (CureME) improved sample retention and data quality by involving patients directly in study design. It evaluates research infrastructure rather than testing any biomarker or treatment.
+  detail: A peer-reviewed publication evaluated the UK ME/CFS Biobank (CureME) participatory research framework, demonstrating how patient-partnered governance, longitudinal biobanking, and open data sharing resolve systemic barriers in ME/CFS research. The study showed that integrating patient representatives into protocol design and sample collection strategies significantly improved cohort characterization, longitudinal sample retention, and data quality. Infrastructure initiatives of this caliber are essential for enabling reproducible multi-omics research and providing high-quality biospecimens for international validation studies. The paper represents a descriptive methodology and infrastructure evaluation rather than a clinical outcome study or biological biomarker discovery trial.
+de:
+  title: Begutachtete Auswertung bestätigt partizipatives Forschungs- und Biobankmodell von CureME
+  plain_summary: Eine begutachtete Auswertung zeigte, dass die britische ME/CFS-Biobank (CureME) durch direkte Beteiligung von Betroffenen die Probenqualität und Langzeitteilnahme deutlich verbessern konnte. Die Arbeit bewertet Forschungsinfrastruktur und testet noch keinen Biomarker oder eine Therapie.
+  detail: Eine begutachtete Publikation bewertete das partizipative Forschungsmodell der UK ME/CFS Biobank (CureME) und zeigte, wie patientenpartnerschaftliche Steuerung, longitudinale Biobanking-Strukturen und offener Datenaustausch systematische Hürden in der ME/CFS-Forschung abbauen. Die Einbindung von Patientenvertretungen in Protokolldesign und Probenentnahme verbesserte Kohortencharakterisierung, Verbleib bei Folgeuntersuchungen und Datenqualität deutlich. Solche Infrastrukturinitiativen sind zentral für reproduzierbare Multi-Omics-Studien und hochwertige Bioproben für internationale Validierungen. Es handelt sich um eine deskriptive Methoden- und Infrastrukturauswertung, nicht um eine klinische Ergebnis- oder Biomarkerstudie.

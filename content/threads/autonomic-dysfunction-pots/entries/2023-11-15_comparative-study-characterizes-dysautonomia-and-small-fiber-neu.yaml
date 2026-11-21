@@ -1,0 +1,19 @@
+id: 2023-11-15_comparative-study-characterizes-dysautonomia-and-small-fiber-neu
+date: '2023-11-15'
+date_display: '2023-11-15'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Azcue et al. 2023, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-023-04678-3
+  kind: paper
+en:
+  title: Comparative study characterizes dysautonomia and small fiber neuropathy in ME/CFS and post-COVID
+  plain_summary: A clinical study found elevated standing heart rates and patchy small-fiber nerve damage in both ME/CFS and post-COVID patients. While this gives objective backing to common symptoms, the small, uneven groups do not prove nerve damage directly causes fatigue.
+  detail: A comparative clinical study demonstrated that both ME/CFS and post-COVID patients share significant, measurable features of dysautonomia and sensory small fiber neuropathy (SFN). The researchers found that rest and standing heart rates were significantly elevated in both cohorts compared to controls, with POTS confirmed in 31% of the ME/CFS group and 13.8% of the post-COVID group. Furthermore, delayed sensory nerve responses to heat stimuli indicated damage to unmyelinated C-type fibers, and sweat gland function tests showed a patchy, non-length-dependent pattern of neuropathy. This provides objective physiological evidence that validates common patient symptoms and suggests a shared mechanism of peripheral nerve damage. However, the study's small, unequal sample sizes and gender imbalances across cohorts limit the generalizability of these findings, and the results do not prove a direct causal link between SFN and clinical fatigue severity.
+de:
+  title: Vergleichsstudie charakterisiert Dysautonomie und Small-Fiber-Neuropathie bei ME/CFS und Post-COVID
+  plain_summary: Eine klinische Studie fand sowohl bei ME/CFS als auch bei Post-COVID erhöhte Ruhe- und Stehpulswerte sowie fleckförmige Schäden feiner Nervenfasern. Die kleinen, ungleich verteilten Gruppen belegen aber noch nicht, dass diese Nervenschäden die Fatigue direkt auslösen.
+  detail: Eine vergleichende klinische Studie zeigte, dass sowohl ME/CFS- als auch Post-COVID-Betroffene deutliche, messbare Merkmale von Dysautonomie und sensorischer Small-Fiber-Neuropathie (SFN) teilen. Die Forschenden stellten in beiden Kohorten im Vergleich zu Kontrollpersonen signifikant erhöhte Ruhe- und Stehherzfrequenzen fest; ein POTS wurde bei 31 % der ME/CFS-Gruppe und bei 13,8 % der Post-COVID-Gruppe bestätigt. Zudem wiesen verzögerte sensorische Nervenantworten auf Hitzereize auf eine Schädigung unmyelinisierter C-Fasern hin, und Schweißdrüsen-Funktionstests zeigten ein fleckförmiges, nicht längenabhängiges Neuropathie-Muster. Dies liefert objektive physiologische Belege für häufige Beschwerden und deutet auf einen gemeinsamen Mechanismus peripherer Nervenschädigung hin. Kleine, ungleiche Stichprobengrößen und Geschlechtsunterschiede zwischen den Kohorten schränken jedoch die Übertragbarkeit ein, und die Ergebnisse beweisen keinen direkten ursächlichen Zusammenhang zwischen
+    SFN und klinischer Fatigueschwere.

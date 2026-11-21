@@ -1,0 +1,18 @@
+id: 2026-04-23_meta-analysis-establishes-a-hyporeactive-neuroendocrine-and-cort
+date: '2026-04-23'
+date_display: '2026-04-23'
+date_precision: exact
+source_type: review
+study_design: Meta-analysis
+sources:
+- label: Woo et al. 2026, Molecular Psychiatry
+  url: https://doi.org/10.1038/s41380-026-03608-1
+  kind: paper
+en:
+  title: Meta-analysis establishes a hyporeactive neuroendocrine and cortisol signature
+  plain_summary: Pooling 46 studies covering over 2,700 people, a meta-analysis confirmed that ME/CFS patients tend to have lower cortisol levels and a blunted hormonal stress response. This helps explain sleep and energy disruption, though low-dose steroid treatment is not yet established in large trials.
+  detail: A large-scale meta-analysis of 46 case-control studies involving 1,388 patients and 1,349 controls identified a definitive hyporeactive neuroendocrine profile in ME/CFS. Patients exhibited significantly lower cortisol levels in saliva (upon awakening and in the morning), 24-hour urine, and hair compared to controls. Additionally, patients showed a blunted cortisol response to ACTH stimulation and an exaggerated sensitivity to glucocorticoid suppression, indicating a chronically underactive endocrine stress-response system. This underactive HPA axis likely contributes to unrefreshing sleep, fatigue, and cognitive slowing. However, the clinical efficacy of low-dose hydrocortisone replacement therapy to correct this deficit remains to be established in large randomized controlled trials.
+de:
+  title: Meta-Analyse belegt ein hyporeaktives neuroendokrines und Kortisol-Profil
+  plain_summary: Eine Auswertung von 46 Studien mit über 2.700 Teilnehmenden bestätigt, dass ME/CFS-Betroffene im Schnitt niedrigere Kortisolspiegel und eine abgeflachte Stresshormon-Antwort aufweisen. Das trägt vermutlich zu Schlaf- und Erschöpfungsproblemen bei, belegt aber noch keine Wirksamkeit einer niedrig dosierten Hydrokortison-Therapie.
+  detail: Eine groß angelegte Meta-Analyse von 46 Fall-Kontroll-Studien mit 1.388 Patientinnen und Patienten sowie 1.349 Kontrollen identifizierte bei ME/CFS ein eindeutiges hyporeaktives neuroendokrines Profil. Betroffene wiesen im Vergleich zu Kontrollen signifikant niedrigere Kortisolspiegel im Speichel (beim Aufwachen und am Morgen), im 24-Stunden-Urin und im Haar auf. Zusätzlich zeigten Betroffene eine abgeschwächte Kortisolantwort auf ACTH-Stimulation und eine übersteigerte Empfindlichkeit gegenüber Glukokortikoid-Suppression, was auf ein chronisch unteraktives endokrines Stressreaktionssystem hinweist. Diese unteraktive HPA-Achse trägt wahrscheinlich zu nicht erholsamem Schlaf, Fatigue und kognitiver Verlangsamung bei. Allerdings muss die klinische Wirksamkeit einer Ersatztherapie mit niedrig dosiertem Hydrokortison zum Ausgleich dieses Defizits noch in großen randomisierten kontrollierten Studien belegt werden.

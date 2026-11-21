@@ -1,0 +1,18 @@
+id: 2026-03-06_narrative-review-links-mast-cell-activation-to-neuropathic
+date: '2026-03-06'
+date_display: '2026-03-06'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Morcos & Theoharides 2026, Journal of Neuropathology & Experimental Neurology
+  url: https://doi.org/10.1093/jnen/nlag016
+  kind: paper
+en:
+  title: Narrative review links mast cell activation to neuropathic pain and sensory nerve damage in Long COVID
+  plain_summary: A narrative review proposed that SARS-CoV-2 spike protein could trigger mast cells to release nerve-irritating signals, offering a possible explanation for small-fiber nerve pain. However, there is still no direct clinical trial proof that antihistamines or mast-cell stabilizers can reverse nerve damage in patients.
+  detail: A synthesis of preclinical and clinical data proposed that SARS-CoV-2 spike protein triggers mast cells via ACE2 and TLR4 to release neurotoxic tryptase and IL-6, which sensitizes peripheral sensory nerves and impairs the blood-brain barrier. This provides a mechanistic explanation for small-fiber neuropathy and neuropathic pain in Long COVID and ME/CFS, supporting the clinical use of flavonoids and antihistamines. However, direct clinical evidence showing that mast cell stabilizers or antihistamines can reverse sensory nerve damage in patients is still lacking.
+de:
+  title: Narrative Übersichtsarbeit verknüpft Mastzellaktivierung mit neuropathischen Schmerzen und Nervenschäden bei Long COVID
+  plain_summary: Eine Übersichtsarbeit schlägt vor, dass das Spike-Protein Mastzellen reizt und über Botenstoffe feine Nervenfasern und die Blut-Hirn-Schranke belasten könnte. Direkte klinische Belege dafür, dass Antihistaminika oder Mastzellstabilisatoren solche Nervenschäden bei Betroffenen rückgängig machen, fehlen jedoch bislang.
+  detail: Eine Synthese präklinischer und klinischer Daten schlug vor, dass das SARS-CoV-2-Spike-Protein Mastzellen über ACE2 und TLR4 zur Freisetzung von neurotoxischer Tryptase und IL-6 anregt, was periphere Schmerznerven sensibilisiert und die Blut-Hirn-Schranke schwächt. Dies liefert eine mechanistische Erklärung für Small-Fiber-Neuropathie und neuropathische Schmerzen bei Long COVID und ME/CFS und stützt Überlegungen zum Einsatz von Flavonoiden und Antihistaminika. Allerdings fehlen bislang direkte klinische Studienbelege dafür, dass Mastzellstabilisatoren oder Antihistaminika Nervenschäden bei Patientinnen und Patienten tatsächlich zurückbilden können.

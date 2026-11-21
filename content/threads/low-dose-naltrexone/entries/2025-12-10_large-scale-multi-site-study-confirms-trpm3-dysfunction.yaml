@@ -1,0 +1,18 @@
+id: 2025-12-10_large-scale-multi-site-study-confirms-trpm3-dysfunction
+date: '2025-12-10'
+date_display: '2025-12-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Martini Sasso et al. 2025, Frontiers in Medicine
+  url: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1703924/abstract
+  kind: paper
+en:
+  title: Large-scale multi-site study confirms TRPM3 dysfunction in ME/CFS NK cells
+  plain_summary: Two independent laboratories confirmed using specialized electrical cell recordings that TRPM3 calcium channels are less active in immune cells from 36 ME/CFS patients compared to 42 healthy controls. This strengthens the biological finding behind LDN research, though the lab technique is not a routine diagnostic test and does not prove LDN works clinically.
+  detail: A multi-site validation study using precise whole-cell patch-clamp electrophysiology confirmed a significant and consistent reduction in TRPM3 ion channel function in the natural killer (NK) cells of 36 ME/CFS patients compared to 42 healthy controls. Crucially, the results were consistent across two independent laboratories, proving that the ion channel defect is a stable biological trait rather than a localized testing artifact. This validation solidifies TRPM3 dysfunction as a core component of ME/CFS pathology, justifying the therapeutic target that treatments like LDN aim to restore. However, this study does not prove that restoring TRPM3 function in vivo will translate into clinical improvement for ME/CFS patients. Furthermore, due to the specialized expertise and complexity of patch-clamp recordings, it does not yet establish this assay as an accessible diagnostic tool for standard clinical settings.
+de:
+  title: Größere Multi-Zentren-Studie bestätigt TRPM3-Fehlfunktion in ME/CFS-NK-Zellen
+  plain_summary: Zwei unabhängige Labore bestätigten mithilfe spezialisierter elektrischer Zellmessungen, dass TRPM3-Kalziumkanäle in Immunzellen von 36 ME/CFS-Betroffenen weniger aktiv sind als bei 42 gesunden Kontrollen. Dies festigt den biologischen Befund hinter der LDN-Forschung, ist aber kein Routinetest und beweist noch keinen klinischen Nutzen von LDN.
+  detail: Eine standortübergreifende Validierungsstudie mithilfe präziser Ganzzell-Patch-Clamp-Elektrophysiologie bestätigte eine signifikante und konsistente Verringerung der TRPM3-Ionenkanalfunktion in den natürlichen Killerzellen (NK-Zellen) von 36 ME/CFS-Patientinnen und -Patienten im Vergleich zu 42 gesunden Kontrollen. Entscheidend war, dass die Ergebnisse über zwei unabhängige Labore hinweg übereinstimmten – ein Beleg dafür, dass der Ionenkanal-Defekt ein stabiles biologisches Merkmal und kein lokales Messartefakt ist. Diese Validierung festigt die TRPM3-Dysfunktion als wichtigen Bestandteil der ME/CFS-Pathologie und stützt das Zielmolekül, das Behandlungen wie LDN wiederherstellen sollen. Die Studie beweist jedoch nicht, dass eine Wiederherstellung der TRPM3-Funktion im Körper tatsächlich zu klinischer Besserung bei ME/CFS führt. Zudem ist das aufwendige Patch-Clamp-Verfahren wegen des hohen technischen Aufwands noch nicht als leicht zugänglicher Routinetest für die Klinik geeignet.

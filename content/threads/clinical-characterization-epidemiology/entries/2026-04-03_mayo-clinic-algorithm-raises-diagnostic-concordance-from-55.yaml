@@ -1,0 +1,19 @@
+id: 2026-04-03_mayo-clinic-algorithm-raises-diagnostic-concordance-from-55
+date: '2026-04-03'
+date_display: '2026-04-03'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Seltzer et al. 2026, International Journal of Environmental Research and Public Health
+  url: https://doi.org/10.3390/ijerph23040460
+  kind: paper
+en:
+  title: Mayo Clinic algorithm raises diagnostic concordance from 55% to 77% in primary care referrals
+  plain_summary: Adding an ME/CFS decision-support tool for primary care doctors at the Mayo Clinic raised accurate specialist referrals from 55% to 77%. The single-system study did not track whether patients were diagnosed faster or felt better afterward.
+  detail: A retrospective study at the Mayo Clinic evaluated the effect of introducing a point-of-care clinical decision support tool—the AskMayoExpert ME/CFS algorithm—on the accuracy of primary care referrals. Before the tool's introduction, 55.3 percent of referrals matched the specialist's final diagnosis; after introduction, concordance rose to 76.9 percent, with referrals 1.39 times more likely to result in a confirmed specialist diagnosis. Over 580 providers accessed the tool during the study period. The result is practically important because diagnostic delays in ME/CFS are driven substantially by insufficient clinical familiarity, and algorithmic decision support provides a scalable way to close the knowledge gap without requiring specialist training for every primary care clinician. The study is limited to a single large healthcare system and does not measure how the improved referral accuracy affected patient outcomes or time to diagnosis.
+de:
+  title: Mayo-Clinic-Algorithmus erhöht diagnostische Übereinstimmung bei Hausarzt-Überweisungen von 55 % auf 77 %
+  plain_summary: Ein digitales Entscheidungshilfe-Tool für Hausärztinnen und Hausärzte an der Mayo Clinic steigerte die Trefferquote bei Überweisungen an Spezialambulanzen von 55 % auf 77 %. Ob Betroffene dadurch schneller diagnostiziert wurden oder sich ihre Versorgung verbesserte, wurde in dieser Einzelzentrum-Studie nicht gemessen.
+  detail: Eine retrospektive Studie an der Mayo Clinic untersuchte die Wirkung eines klinischen Entscheidungshilfe-Tools am Behandlungsort – des AskMayoExpert-ME/CFS-Algorithmus – auf die Treffsicherheit hausärztlicher Überweisungen. Vor Einführung des Tools stimmten 55,3 Prozent der Überweisungen mit der abschließenden Facharztdiagnose überein; danach stieg die Übereinstimmung auf 76,9 Prozent, und Überweisungen führten 1,39-mal häufiger zu einer bestätigten Spezialistendiagnose. Über 580 Behandelnde griffen im Studienzeitraum auf das Werkzeug zu. Praktisch ist das Ergebnis wichtig, weil Diagnoseverzögerungen bei ME/CFS wesentlich durch fehlende klinische Vertrautheit entstehen und algorithmische Entscheidungshilfen eine skalierbare Wissensbrücke schlagen, ohne jede Hausarztpraxis einzeln spezialisiert fortbilden zu müssen. Die Studie beschränkt sich auf ein einzelnes großes Gesundheitssystem und misst nicht, wie sich die genauere Überweisung auf Patientenendpunkte oder die Zeit bis zur
+    Diagnose auswirkte.

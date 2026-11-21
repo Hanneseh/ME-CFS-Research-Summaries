@@ -1,0 +1,26 @@
+id: 2026-01-01_systematic-review-details-persistent-metabolomic-and-endocrine-s
+date: '2026-01-01'
+date_display: '2026-01-01'
+date_precision: exact
+source_type: review
+study_design: Systematic review
+sources:
+- label: Petropoulou et al. 2026, Advances in Clinical Chemistry
+  url: https://doi.org/10.1016/bs.acc.2025.10.003
+  kind: paper
+en:
+  title: Systematic review details persistent metabolomic and endocrine signatures in Long COVID
+  plain_summary: A systematic review of Long COVID studies documented ongoing hormone drops (like morning cortisol) and depleted ATP energy production a year after infection. Patient heterogeneity still prevents a single diagnostic test or proven hormone treatment.
+  detail: '- **What changed:** A systematic review of clinical and omics literature consolidated evidence of persistent metabolic and endocrine dysfunction in Long COVID, including low morning cortisol, reduced free T3, and depleted ATP production 12 months post-infection.
+
+    - **Why it matters:** This confirms that post-viral fatigue syndromes are marked by objective, long-term disruptions in endocrine regulation and mitochondrial respiration, reinforcing the biological similarities between Long COVID and ME/CFS.
+
+    - **What it does not prove yet:** The high clinical heterogeneity among symptom clusters makes it challenging to establish a single universal biomarker, and the efficacy of hormonal or metabolic treatments remains unproven in clinical trials.'
+de:
+  title: Systematische Übersichtsarbeit beschreibt anhaltende metabolomische und endokrine Signaturen bei Long COVID
+  plain_summary: Eine systematische Übersichtsarbeit dokumentiert bei Long COVID noch zwölf Monate nach Infektion erniedrigte Hormonspiegel (wie Cortisol) und eine verringerte ATP-Energiebildung. Für einen einzelnen Test oder gesicherte Hormontherapien sind die Verläufe aber noch zu uneinheitlich.
+  detail: '- **Was sich gezeigt hat:** Eine systematische Auswertung klinischer und Omics-Literatur fasste Belege für anhaltende metabolische und endokrine Störungen bei Long COVID zusammen, darunter niedriges Morgen-Cortisol, verringertes freies T3 und verminderte ATP-Produktion zwölf Monate nach der Infektion.
+
+    - **Warum das wichtig ist:** Dies bestätigt, dass postvirale Erschöpfungssyndrome von objektiven, langfristigen Störungen der Hormonregulation und Mitochondrienatmung geprägt sind, und stärkt die biologischen Parallelen zwischen Long COVID und ME/CFS.
+
+    - **Was damit noch nicht belegt ist:** Die große klinische Vielfalt zwischen Symptomgruppen erschwert einen einzelnen universellen Biomarker, und die Wirksamkeit hormoneller oder metabolischer Therapien ist in klinischen Studien unbewiesen.'

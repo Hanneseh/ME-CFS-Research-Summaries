@@ -1,0 +1,18 @@
+id: 2025-02-10_position-paper-establishes-clinical-trial-roadmap-for-persistent
+date: '2025-02-10'
+date_display: '2025-02-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Proal et al. 2025, The Lancet Infectious Diseases
+  url: https://doi.org/10.1016/S1473-3099(24)00769-2
+  kind: paper
+en:
+  title: Position paper establishes clinical trial roadmap for persistent SARS-CoV-2 reservoirs
+  plain_summary: An international expert consensus paper laid out a formal plan for designing clinical trials to test whether clearing hidden SARS-CoV-2 pockets in tissues helps Long COVID. It is a planning blueprint rather than trial data, and reliable blood tests to track hidden virus reservoirs are still missing.
+  detail: A consensus position paper by global infectious disease experts established a formal research roadmap and clinical trial guidelines for targeting persistent SARS-CoV-2 reservoirs in patients with Long COVID. The authors synthesized biological evidence demonstrating that viral persistence in deep tissues drives chronic immune activation and local tissue inflammation. They outlined requirements for drug delivery, participant selection, and reservoir biomarkers to guide upcoming trials evaluating antivirals and monoclonal antibodies. This shift in research focus prioritizes identifying and clearing viral sanctuary sites rather than managing symptoms alone. However, the roadmap does not provide clinical trial data demonstrating the safety or efficacy of these proposed therapies. It also emphasizes that non-invasive biomarkers for tracking tissue-level viral reservoirs remain a critical, unresolved diagnostic need.
+de:
+  title: Positionspapier legt Fahrplan für klinische Studien zu anhaltenden SARS-CoV-2-Reservoirs fest
+  plain_summary: Ein internationales Expertengremium hat Leitlinien dafür entworfen, wie künftige Studien prüfen sollen, ob das Beseitigen versteckter SARS-CoV-2-Reste im Gewebe bei Long COVID hilft. Es handelt sich um einen Forschungsplan ohne eigene Studienergebnisse, und verlässliche Bluttests für solche Gewebereservoirs fehlen noch.
+  detail: Ein Konsens-Positionspapier internationaler Infektiologinnen und Infektiologen legte einen formellen Forschungsfahrplan sowie Leitlinien für klinische Studien fest, die auf anhaltende SARS-CoV-2-Reservoirs bei Long-COVID-Betroffenen abzielen. Die Autorinnen und Autoren fassten biologische Hinweise zusammen, wonach Viruspersistenz in tiefen Geweben chronische Immunaktivierung und lokale Gewebeentzündung antreibt. Sie definierten Anforderungen an Wirkstoffabgabe, Teilnehmenden-Auswahl und Reservoir-Biomarker als Orientierung für kommende Studien zu Virostatika und monoklonalen Antikörpern. Dieser Schwerpunktwechsel rückt das Aufspüren und Beseitigen viraler Rückzugsorte statt reiner Symptomlinderung in den Mittelpunkt. Allerdings liefert das Papier selbst keine klinischen Studiendaten zu Sicherheit oder Wirksamkeit dieser Therapien und betont, dass nicht-invasive Biomarker zum Nachweis von Gewebereservoirs weiterhin eine zentrale diagnostische Lücke sind.

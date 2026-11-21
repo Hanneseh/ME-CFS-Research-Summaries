@@ -1,0 +1,19 @@
+id: 2026-07-01_post-covid-study-separates-trait-fatigue-state-fatigue
+date: '2026-07-01'
+date_display: '2026-07-01'
+date_precision: exact
+source_type: paper
+study_design: Cross-sectional study
+sources:
+- label: 'Post-COVID fatigability study: Social Science & Medicine'
+  url: https://doi.org/10.1016/j.socscimed.2026.119633
+  kind: paper
+en:
+  title: Post-COVID study separates trait fatigue, state fatigue, and task-induced fatigability
+  plain_summary: A peer-reviewed study showed that adults with Post-COVID Condition experience measurable drops in cognitive, motor, and emotional performance during testing—not just a general feeling of tiredness. Because it studied broad Long COVID in people able to attend lab tests without ME/CFS criteria, it does not capture bedbound patients or PEM directly.
+  detail: A peer-reviewed cross-sectional study published in Social Science & Medicine evaluated how fatigue operates across cognitive, motor, and emotional domains in adults with Post-COVID Condition. The authors empirically distinguished baseline trait fatigue from momentary state fatigue and task-induced performance fatigability, demonstrating significant impairments across all three functional spheres. The findings validate patient accounts that post-viral exhaustion extends beyond general physical fatigue into distinct, measurable cognitive and emotional processing fatigability. A central limitation is that the study evaluated a broad Post-COVID cohort without applying formal ME/CFS case definitions or conducting 2-day CPET post-exertional malaise characterization. Furthermore, the requirement for active in-person cognitive and motor testing batteries systematically excluded severe and bedbound individuals, and the cross-sectional design precludes establishing longitudinal trajectories.
+de:
+  title: Post-COVID-Studie trennt Grund-Fatigue, momentane Fatigue und aufgabeninduzierte Ermüdbarkeit
+  plain_summary: Eine begutachtete Studie zeigte, dass Erwachsene mit Post-COVID-Zustand nicht nur anhaltende Erschöpfung empfinden, sondern bei Aufgaben messbare Einbußen in Kognition, Motorik und emotionaler Belastbarkeit entwickeln. Da allgemeines Long COVID ohne ME/CFS-Kriterien bei gehfähigen Testpersonen untersucht wurde, erfasst sie weder Bettlägerige noch direkt PEM.
+  detail: Eine in Social Science & Medicine veröffentlichte begutachtete Querschnittsstudie untersuchte, wie Fatigue bei Erwachsenen mit Post-COVID-Zustand über kognitive, motorische und emotionale Bereiche hinweg wirkt. Die Autorinnen und Autoren grenzten empirisch überdauernde Grund-Fatigue (Trait Fatigue) von momentaner Erschöpfung (State Fatigue) und aufgabeninduzierter Leistungsermüdbarkeit (Fatigability) ab und zeigten signifikante Beeinträchtigungen in allen drei Funktionsbereichen. Die Befunde stützen Patientenberichte, wonach postvirale Erschöpfung über allgemeine körperliche Müdigkeit hinausgeht und messbare kognitive sowie emotionale Ermüdbarkeit umfasst. Eine zentrale Einschränkung besteht darin, dass eine breite Post-COVID-Kohorte ohne formale ME/CFS-Falldefinitionen oder 2-Tage-CPET-Charakterisierung von PEM untersucht wurde; zudem schloss die Notwendigkeit aktiver Vor-Ort-Testbatterien schwer Betroffene und Bettlägerige systematisch aus, und das Querschnittsdesign erlaubt
+    keine Verlaufsaussagen.

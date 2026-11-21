@@ -1,0 +1,20 @@
+id: 2026-06-26_study-links-gut-microbial-aromatic-amino-acid-metabolites
+date: '2026-06-26'
+date_display: '2026-06-26'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Esteban et al. 2026, MicrobiologyOpen
+  url: https://pubmed.ncbi.nlm.nih.gov/42325052/
+  kind: paper
+en:
+  title: Study links gut microbial aromatic amino acid metabolites and AHR activation to neurocognitive symptoms in ME/CFS
+  plain_summary: In 67 people, researchers found higher levels of certain gut-bacteria protein breakdown products in ME/CFS stool, and higher receptor activity from these molecules tracked with brain fog across participants. As a small snapshot study, it raises a lead on how gut chemistry might affect thinking, without proving it causes symptoms.
+  detail: A case-control study of 67 participants (32 ME/CFS, 35 controls) published in _MicrobiologyOpen_ by Esteban et al. investigated the production of tryptophan metabolites and Aryl-Hydrocarbon Receptor (AHR) agonists by gut microbes. The study demonstrated gut dysbiosis (lower alpha diversity and lower Firmicutes:Bacteroidetes ratio) in ME/CFS, alongside changes in a tryptophan-metabolite-correlated subcommunity of Clostridia. Targeted metabolomics revealed nine stool metabolites significantly elevated in ME/CFS patients, including the AHR agonists indole, indoleacetate, and tryptophan, alongside tyrosine and phenylalanine metabolites. Although overall ex vivo stool AHR activation did not differ by disease status, elevated AHR agonist activity was strongly associated with neurocognitive symptoms across all participants, suggesting microbial aromatic amino acid metabolites acting on AHR may contribute to neurocognitive dysfunction (brain fog) in ME/CFS. As a cross-sectional study,
+    it cannot establish causal relationships or monitor temporal fluctuations.
+de:
+  title: Studie verknüpft mikrobielle Metabolite aromatischer Aminosäuren im Darm und AHR-Aktivierung mit neurokognitiven Symptomen bei ME/CFS
+  plain_summary: Bei 67 Personen fanden sich im Stuhl von ME/CFS-Betroffenen erhöhte Abbauprodukte bestimmter Aminosäuren aus Darmbakterien; eine stärkere Rezeptor-Aktivierung durch diese Stoffe hing über alle Teilnehmenden hinweg mit kognitiven Beschwerden zusammen. Als kleine Querschnittsstudie liefert sie einen Ansatzpunkt zur Darm-Hirn-Chemie, beweist aber noch keine Ursache.
+  detail: Eine Fall-Kontroll-Studie mit 67 Teilnehmenden (32 ME/CFS, 35 Kontrollen), veröffentlicht in _MicrobiologyOpen_ von Esteban et al., untersuchte die Bildung von Tryptophan-Metaboliten und Agonisten des Aryl-Hydrocarbon-Rezeptors (AHR) durch Darmmikroben. Die Studie zeigte bei ME/CFS eine Darmdysbiose (geringere Alpha-Diversität und niedrigeres Firmicutes:Bacteroidetes-Verhältnis) sowie Veränderungen in einer mit Tryptophan-Metaboliten korrelierten Teilgemeinschaft von Clostridien. Gezielte Metabolomik wies neun Stuhl-Metabolite nach, die bei ME/CFS-Betroffenen signifikant erhöht waren, darunter die AHR-Agonisten Indol, Indolacetat und Tryptophan sowie Tyrosin- und Phenylalanin-Metabolite. Obwohl sich die gesamte Ex-vivo-AHR-Aktivierung im Stuhl nicht nach Krankheitsstatus unterschied, war eine erhöhte AHR-Agonisten-Aktivität über alle Teilnehmenden hinweg stark mit neurokognitiven Symptomen assoziiert – was nahelegt, dass mikrobielle Metabolite aromatischer Aminosäuren über den
+    AHR zu neurokognitiver Dysfunktion (Brain Fog) bei ME/CFS beitragen könnten. Als Querschnittsstudie kann sie keine Kausalzusammenhänge belegen oder zeitliche Schwankungen abbilden.

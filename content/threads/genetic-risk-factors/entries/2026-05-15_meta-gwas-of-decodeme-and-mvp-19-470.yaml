@@ -1,0 +1,20 @@
+id: 2026-05-15_meta-gwas-of-decodeme-and-mvp-19-470
+date: '2026-05-15'
+date_display: '2026-05-15'
+date_precision: exact
+source_type: preprint
+study_design: GWAS
+sources:
+- label: Maccallini 2026, Research Square preprint
+  url: https://doi.org/10.21203/rs.3.rs-9702020/v1
+  kind: preprint
+en:
+  title: Meta-GWAS of DecodeME and MVP (19,470 cases) finds CNS enrichment and glutamatergic synapse signals replicated in WGS data
+  plain_summary: A preprint combining DecodeME with a large US veterans dataset pointed to genetic enrichment in brain regions and excitatory nerve synapses, rather than muscle or immune tissues. It adds weight to a brain-related component of genetic risk, though how those signals connect to body-wide symptoms remains unexplained.
+  detail: A meta-analysis combined the DecodeME GWAS with the Million Veteran Program (MVP) dataset, totalling 19,470 cases and 699,111 controls of European ancestry, and ran post-GWAS enrichment analyses across tissues, cell types, and canonical pathways. The analysis found significant genetic enrichment in multiple brain regions—including the cerebellum and frontal cortex—and the pituitary gland, while no peripheral tissue (muscle, immune) reached statistical significance; the most specific replicated pathway was glutamatergic synapses, the brain's primary excitatory signalling system. These CNS enrichment signals were then validated against an independent set of 115 ME/CFS risk genes previously identified via machine learning on WGS data from a separate European-ancestry cohort, providing multi-level convergence. The study is a preprint, relies on European-ancestry public datasets, uses self-reported clinician diagnoses in some cohorts, and physical-proximity gene mapping may misattribute
+    some signals; how these neuronal enrichment signals mechanistically produce the peripheral and systemic features of ME/CFS is not yet explained.
+de:
+  title: Meta-GWAS aus DecodeME und MVP (19.470 Fälle) findet ZNS-Anreicherung und glutamaterge Synapsensignale mit WGS-Konvergenz
+  plain_summary: Ein Preprint, der DecodeME mit einer großen US-Veteranen-Datenbank kombiniert, findet genetische Anreicherungen vor allem in Hirnregionen und erregenden Nervensynapsen statt in Muskel- oder Immungewebe. Das stärkt Hinweise auf eine neurobiologische Risikokomponente, erklärt aber noch nicht, wie daraus die körperweiten Symptome entstehen.
+  detail: Eine Meta-Analyse kombinierte die DecodeME-GWAS mit dem Datensatz des Million Veteran Program (MVP) auf insgesamt 19.470 Fälle und 699.111 Kontrollpersonen europäischer Abstammung und führte anschließende Anreicherungsanalysen über Gewebe, Zelltypen und Signalwege durch. Dabei zeigte sich eine signifikante genetische Anreicherung in mehreren Hirnregionen – darunter Kleinhirn und Frontalkortex – sowie in der Hypophyse, während kein peripheres Gewebe (Muskel, Immunsystem) statistische Signifikanz erreichte; der spezifischste replizierte Signalweg waren glutamaterge Synapsen, das wichtigste erregende Signalsystem des Gehirns. Diese ZNS-Anreicherungssignale ließen sich an einem unabhängigen Satz von 115 ME/CFS-Risikogenen bestätigen, die zuvor per Machine Learning aus Gesamtgenom-Daten einer separaten europäischen Kohorte gewonnen worden waren. Die Arbeit ist ein Preprint, stützt sich auf Datensätze europäischer Abstammung sowie teils auf selbstberichtete ärztliche Diagnosen, und die
+    Zuordnung von Genen über räumliche Nähe kann einzelne Signale fehlzuordnen; wie diese neuronalen Signale mechanistisch die peripheren und systemischen Beschwerden von ME/CFS erzeugen, ist noch ungeklärt.

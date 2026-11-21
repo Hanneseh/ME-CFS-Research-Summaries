@@ -1,0 +1,26 @@
+id: 2025-08-06_impaired-autophagy-protein-atg13-triggers-macrophage-driven-musc
+date: '2025-08-06'
+date_display: '2025-08-06'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Toriola et al. 2025, Research Square
+  url: https://doi.org/10.21203/rs.3.rs-7189456/v1
+  kind: preprint
+en:
+  title: Impaired autophagy protein ATG13 triggers macrophage-driven muscle nerve damage
+  plain_summary: A mouse preprint found that lowering the cell-cleanup protein ATG13 disrupted mitochondria and led immune cells to damage muscle nerves. Mouse genetic models may not match what causes cell-cleanup issues in people with ME/CFS.
+  detail: '- **What changed:** A preclinical study using a transgenic mouse model ($Tg^{+/-ATG13}$) showed that reducing the autophagy protein ATG13 causes mitochondrial dysfunction, shifting macrophages to a pro-inflammatory M1 state that infiltrates muscle vessels and damages nerve myelin sheaths.
+
+    - **Why it matters:** This links cellular "housekeeping" defects (autophagy) directly to neuroinflammation, demyelination, and post-exertional muscle weakness, providing a mechanistic rationale for evaluating autophagy-promoting agents like rapamycin.
+
+    - **What it does not prove yet:** The genetic knockout model in mice may not capture the heterogeneous, non-congenital causes of autophagy dysfunction in human ME/CFS patients.'
+de:
+  title: Gestörtes Autophagie-Protein ATG13 löst makrophagengetriebene Muskelnervenschäden aus
+  plain_summary: Ein Maus-Preprint zeigte, dass ein Mangel des Zellreinigungs-Proteins ATG13 Mitochondrien stört und Immunzellen Nerven im Muskel schädigen lässt. Solche genetischen Mausmodelle bilden menschliches ME/CFS jedoch nicht eins zu eins ab.
+  detail: '- **Was sich gezeigt hat:** Eine präklinische Studie an einem transgenen Mausmodell ($Tg^{+/-ATG13}$) zeigte, dass eine Verringerung des Autophagie-Proteins ATG13 mitochondriale Dysfunktion verursacht und Makrophagen in einen entzündungsfördernden M1-Zustand versetzt, sodass sie Muskelgefäße infiltrieren und Nervenmyelinscheiden schädigen.
+
+    - **Warum das wichtig ist:** Dies verknüpft Störungen der zellulären „Müllabfuhr“ (Autophagie) direkt mit Neuroinflammation, Demyelinisierung und belastungsabhängiger Muskelschwäche und liefert ein mechanistisches Argument zur Prüfung von Autophagie-Förderern wie Rapamycin.
+
+    - **Was damit noch nicht belegt ist:** Das genetische Knockout-Modell bei Mäusen erfasst möglicherweise nicht die vielfältigen, nicht angeborenen Ursachen von Autophagie-Störungen bei menschlichen ME/CFS-Patientinnen und -Patienten.'

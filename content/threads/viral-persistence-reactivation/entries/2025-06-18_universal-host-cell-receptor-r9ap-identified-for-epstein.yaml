@@ -1,0 +1,18 @@
+id: 2025-06-18_universal-host-cell-receptor-r9ap-identified-for-epstein
+date: '2025-06-18'
+date_display: '2025-06-18'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Li et al. 2025, Nature
+  url: https://doi.org/10.1038/s41586-025-09166-w
+  kind: paper
+en:
+  title: Universal host cell receptor R9AP identified for Epstein-Barr virus entry
+  plain_summary: Lab researchers identified R9AP as the doorway protein that Epstein-Barr virus (EBV) uses to enter both immune B cells and lining cells. While this offers a target for future vaccines or antibodies to block new EBV infections, it has not been tested in patients and may not clear existing latent virus.
+  detail: A landmark study identified R9AP as the first universal host receptor facilitating Epstein-Barr virus (EBV) entry into both epithelial cells and B cells. Using in vitro gene knockouts and neutralizing antibodies, researchers proved that R9AP binds directly to the viral gH/gL complex to trigger membrane fusion. Pinpointing this common cellular entry point provides a concrete molecular target for developing broad-spectrum vaccines and neutralizing monoclonal antibodies. This offers a therapeutic pathway to prevent primary infection and block the cellular uptake that leads to chronic latent reservoirs. Nonetheless, the discovery does not demonstrate that targeting R9AP can clear already established latent EBV reservoirs in patients. The clinical efficacy and safety of R9AP-blocking agents also remain untested in human clinical trials.
+de:
+  title: Universeller Wirtszell-Rezeptor R9AP für den Zelleintritt des Epstein-Barr-Virus entdeckt
+  plain_summary: Laborforschende haben mit R9AP das gemeinsame Eintrittstor gefunden, über das das Epstein-Barr-Virus (EBV) sowohl B-Zellen als auch Schleimhautzellen befällt. Das eröffnet neue Ideen für Impfstoffe oder Antikörper gegen Neuinfektionen, ist aber beim Menschen noch ungetestet und beseitigt vermutlich kein bereits ruhendes EBV.
+  detail: Eine wegweisende Laborstudie identifizierte R9AP als den ersten universellen Wirtsrezeptor, über den das Epstein-Barr-Virus (EBV) sowohl in Epithelzellen als auch in B-Zellen eindringt. Mithilfe von In-vitro-Gen-Knockouts und neutralisierenden Antikörpern wiesen die Forschenden nach, dass R9AP direkt an den viralen gH/gL-Komplex bindet und so die Membranverschmelzung auslöst. Diesen gemeinsamen Eintrittspunkt zu kennen liefert ein konkretes molekulares Ziel für die Entwicklung breit wirksamer Impfstoffe und neutralisierender monoklonaler Antikörper, um Erstinfektionen und den Aufbau chronischer latenter Reservoirs zu blockieren. Die Entdeckung zeigt jedoch nicht, dass eine Blockade von R9AP bereits bestehende latente EBV-Reservoirs bei Betroffenen beseitigen kann, und Sicherheit sowie Wirksamkeit R9AP-blockierender Wirkstoffe sind in klinischen Studien am Menschen noch ungetestet.

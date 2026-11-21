@@ -1,0 +1,18 @@
+id: 2025-12-12_multi-omics-analysis-detects-persistent-jak-stat-pathway
+date: '2025-12-12'
+date_display: '2025-12-12'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Aid et al. 2025, Nature Immunology
+  url: https://doi.org/10.1038/s41590-025-02353-x
+  kind: paper
+en:
+  title: Multi-omics analysis detects persistent JAK-STAT pathway activation in Long COVID
+  plain_summary: Testing 142 people, researchers found ongoing IL-6 and JAK-STAT inflammatory signaling in Long COVID more than six months after infection, even with no virus detectable in blood. This points to a potential drug target already explored in autoimmune conditions, though it does not show what keeps the pathway switched on.
+  detail: Multi-omic analysis of 142 individuals (with independent validation) demonstrated that Long COVID patients exhibit persistent activation of the IL-6 and JAK-STAT signaling pathways and T-cell exhaustion beyond 180 days post-infection, independently of active viral replication in plasma. This identifies the JAK-STAT pathway as a primary metabolic regulator of chronic inflammation in Long COVID, suggesting that JAK inhibitors could serve as targeted treatments. However, the study does not establish if JAK-STAT activation is driven by low-level viral persistence in tissues (hidden reservoirs) or a self-sustaining autoimmune loop.
+de:
+  title: Multi-Omics-Analyse weist anhaltende Aktivierung des JAK-STAT-Signalwegs bei Long COVID nach
+  plain_summary: Bei der Untersuchung von 142 Personen fanden Forschende mehr als 180 Tage nach Infektion eine anhaltende Aktivierung der Entzündungspfade IL-6 und JAK-STAT sowie T-Zell-Erschöpfung – auch ohne nachweisbares Virus im Blut. Das benennt einen möglichen medikamentösen Angriffspunkt, klärt aber nicht, ob versteckte Gewebereservoirs oder Autoimmunschleifen diesen Pfad aktiv halten.
+  detail: Eine Multi-Omics-Analyse an 142 Personen (mit unabhängiger Validierung) zeigte, dass Long-COVID-Patientinnen und -Patienten mehr als 180 Tage nach der Infektion eine anhaltende Aktivierung der IL-6- und JAK-STAT-Signalwege sowie eine T-Zell-Erschöpfung aufweisen – unabhängig von aktiver Virusvermehrung im Plasma. Dies identifiziert den JAK-STAT-Signalweg als zentralen Stoffwechsel- und Entzündungsregulator bei Long COVID und legt nahe, JAK-Inhibitoren als gezielte Therapieoption zu prüfen. Die Studie klärt jedoch nicht, ob die JAK-STAT-Aktivierung durch versteckte Viruspersistenz in tiefen Geweben oder durch eine sich selbst erhaltende Autoimmunschleife angetrieben wird.

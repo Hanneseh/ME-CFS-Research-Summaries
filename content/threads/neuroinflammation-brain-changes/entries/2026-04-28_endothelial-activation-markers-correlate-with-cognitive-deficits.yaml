@@ -1,0 +1,18 @@
+id: 2026-04-28_endothelial-activation-markers-correlate-with-cognitive-deficits
+date: '2026-04-28'
+date_display: '2026-04-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: McAlpine et al. 2026, Brain, Behavior, & Immunity - Health
+  url: https://doi.org/10.1016/j.bbih.2026.101247
+  kind: paper
+en:
+  title: Endothelial activation markers correlate with cognitive deficits and resolve late-stage
+  plain_summary: Blood markers of blood-vessel lining inflammation were elevated one year after COVID-19 and tracked with memory and fluency difficulties, but were no longer elevated in a separate three-year group. Because different people were tested at each timepoint, longitudinal tracking is needed to confirm whether vessel inflammation fades over time.
+  detail: A study evaluating 50 Long COVID patients at one year and 114 patients at three years post-infection linked cognitive deficits to ongoing blood vessel inflammation and endothelial activation. One-year patients showed significantly elevated plasma markers of leukocyte and platelet adhesion (including sL-selectin, ADAMTS13, sP-selectin, and sICAM-1) compared to controls, with sP-selectin correlating with poorer verbal fluency and memory. Interestingly, these differences were absent in the late-stage cohort (nearly three years post-infection), suggesting that vascular-driven inflammation may resolve or transition into a different chronic phase over time. However, the study's cross-sectional design cannot establish causality, and longitudinal follow-up is required to confirm the trajectory of endothelial recovery.
+de:
+  title: Marker der Endothelaktivierung korrelieren mit kognitiven Defiziten und bilden sich in späten Stadien zurück
+  plain_summary: Blutmarker für Gefäßwand-Entzündung waren ein Jahr nach COVID-19 erhöht und hingen mit Gedächtnis- und Sprachproblemen zusammen, fanden sich aber in einer separaten Drei-Jahres-Gruppe nicht mehr. Da zu beiden Zeitpunkten unterschiedliche Personen untersucht wurden, sind Verlaufsstudien nötig, um eine Rückbildung zu bestätigen.
+  detail: Eine Studie an 50 Long-COVID-Patientinnen und -Patienten ein Jahr nach Infektion sowie 114 Betroffenen drei Jahre nach Infektion verknüpfte kognitive Defizite mit anhaltender Blutgefäßentzündung und Endothelaktivierung. Ein-Jahres-Betroffene zeigten im Vergleich zu Kontrollen signifikant erhöhte Plasmamarker für Leukozyten- und Thrombozytenadhäsion (darunter sL-Selektin, ADAMTS13, sP-Selektin und sICAM-1), wobei sP-Selektin mit schlechterer Wortflüssigkeit und Gedächtnisleistung korrelierte. Interessanterweise fehlten diese Unterschiede in der Spätstadium-Kohorte (knapp drei Jahre nach Infektion), was darauf hindeutet, dass gefäßgetriebene Entzündung im Zeitverlauf abklingen oder in eine andere chronische Phase übergehen kann. Das Querschnittsdesign kann jedoch keine Kausalität belegen, und eine Längsschnitt-Nachbeobachtung ist erforderlich, um den Verlauf der endothelialen Erholung zu bestätigen.

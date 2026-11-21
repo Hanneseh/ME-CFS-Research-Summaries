@@ -1,0 +1,18 @@
+id: 2026-01-10_31p-mrs-reveals-bioenergetic-energy-depletion-in-the
+date: '2026-01-10'
+date_display: '2026-01-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Weber-Fahr et al. 2026, Biological Psychiatry
+  url: https://doi.org/10.1016/j.biopsych.2026.01.004
+  kind: paper
+en:
+  title: 31P MRS reveals bioenergetic energy depletion in the cingulate cortex
+  plain_summary: Brain-energy scans in 50 post-COVID participants showed lower cellular energy ratios (ATP to phosphocreatine) in the cingulate cortex, which tracked with worse thinking scores and also appeared in the ME/CFS subgroup. As a single-timepoint scan, it cannot tell whether low brain energy causes inflammation or results from it.
+  detail: An in vivo 31P magnetic resonance spectroscopic imaging (31P-MRSI) study compared 27 Post-COVID patients with 23 recovered controls, showing significantly reduced ATP-to-phosphocreatine (ATP/PCr) ratios throughout the anterior, mid, and posterior cingulate cortex. Lower energy ratios in the anterior cingulate cortex correlated directly with poorer scores on cognitive performance tests. A subgroup analysis confirmed that patients meeting the diagnostic criteria for ME/CFS displayed the same bioenergetic impairments. This provides direct evidence of compromised brain energy metabolism and mitochondrial dysfunction in post-viral cognitive impairment. However, the study's cross-sectional design cannot establish whether this metabolic deficit is the cause or consequence of chronic neuroinflammation.
+de:
+  title: 31P-MRS deckt bioenergetische Energieerschöpfung im Gyrus cinguli auf
+  plain_summary: Spezielle Hirnenergie-Scans zeigten bei 50 Personen nach COVID-19 verringerte ATP-zu-Phosphokreatin-Verhältnisse im Gyrus cinguli, die mit schlechteren Denktests einhergingen und auch in der ME/CFS-Untergruppe vorlagen. Als einmalige Messung klärt die Studie nicht, ob das Energiedefizit Ursache oder Folge von Entzündung ist.
+  detail: Eine In-vivo-31P-Magnetresonanz-Spektroskopie-Bildgebungsstudie (31P-MRSI) verglich 27 Post-COVID-Patientinnen und -Patienten mit 23 genesenen Kontrollen und zeigte signifikant verringerte ATP-zu-Phosphokreatin-(ATP/PCr-)Verhältnisse im gesamten anterioren, mittleren und posterioren Gyrus cinguli. Niedrigere Energieverhältnisse im anterioren Gyrus cinguli korrelierten direkt mit schlechteren Ergebnissen in kognitiven Leistungstests. Eine Subgruppenanalyse bestätigte, dass Betroffene, die die diagnostischen Kriterien für ME/CFS erfüllten, dieselben bioenergetischen Beeinträchtigungen aufwiesen. Dies liefert direkte Hinweise auf einen beeinträchtigten Gehirnenergiestoffwechsel und mitochondriale Dysfunktion bei postviraler kognitiver Beeinträchtigung. Allerdings kann das Querschnittsdesign der Studie nicht klären, ob dieses Stoffwechseldefizit Ursache oder Folge chronischer Neuroinflammation ist.

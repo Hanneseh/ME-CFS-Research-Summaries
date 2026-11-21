@@ -1,0 +1,18 @@
+id: 2026-05-02_review-warns-against-exercise-as-a-universal-fix
+date: '2026-05-02'
+date_display: '2026-05-02'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Thompson 2026, New Scientist
+  url: https://www.sciencedirect.com/science/article/pii/S0262407926006809
+  kind: paper
+en:
+  title: Review warns against exercise as a universal fix
+  plain_summary: A news report summarizes evidence that exercise-based treatments for Long COVID look weak once PEM is properly accounted for, warning against blanket exercise programs. Because it is secondary reporting, it adds no new physiological data.
+  detail: 'This news report summarized evidence that exercise-based treatment claims for Long COVID remain weak when PEM is considered carefully. The change is in clinical tone: the article pushes against one-size-fits-all rehabilitation and emphasizes methodological flaws in prior exercise studies. That reflects the same caution emerging in ME/CFS physiology papers. It is secondary reporting, so it does not add new physiologic data.'
+de:
+  title: Bericht warnt vor Bewegungstherapie als Allheilmittel
+  plain_summary: Ein Nachrichtenbericht fasst Belege zusammen, wonach Empfehlungen zu Bewegungstherapie bei Long COVID bei sorgfältiger Berücksichtigung von PEM schwach bleiben, und warnt vor pauschalen Trainingsprogrammen. Als Sekundärbericht liefert der Beitrag keine neuen eigenen Studiendaten.
+  detail: 'Dieser Nachrichtenbericht fasste Belege zusammen, dass auf Bewegung basierende Behandlungsversprechen für Long COVID schwach bleiben, sobald PEM sorgfältig berücksichtigt wird. Bemerkenswert ist der klinische Ton: Der Artikel wendet sich gegen pauschale Einheits-Rehabilitation und betont methodische Mängel früherer Bewegungsstudien. Das spiegelt dieselbe Vorsicht wider, die auch in physiologischen Facharbeiten zu ME/CFS hervortritt. Da es sich um Sekundärberichterstattung handelt, fügt der Beitrag keine neuen physiologischen Daten hinzu.'

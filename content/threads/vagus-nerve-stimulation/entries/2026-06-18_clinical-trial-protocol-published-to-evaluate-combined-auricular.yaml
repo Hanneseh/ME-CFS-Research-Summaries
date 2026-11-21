@@ -1,0 +1,18 @@
+id: 2026-06-18_clinical-trial-protocol-published-to-evaluate-combined-auricular
+date: '2026-06-18'
+date_display: '2026-06-18'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Brandl et al. 2026, BMJ Open
+  url: https://pubmed.ncbi.nlm.nih.gov/42342403/
+  kind: paper
+en:
+  title: Clinical trial protocol published to evaluate combined auricular vagal neuromodulation and slow-paced breathing in POTS
+  plain_summary: Researchers in Vienna published the design for a 100-person trial testing ear vagus-nerve stimulation and slow-paced breathing, alone or together, in people with POTS. This paper only describes the planned study and does not report any treatment results yet.
+  detail: A randomised controlled trial protocol published in *BMJ Open* by Brandl et al. outlines the design of a single-centre, partially blinded, 2×2 factorial trial at the Medical University of Vienna (NCT06996314). The study aims to evaluate the combined and individual effects of daily 60-minute auricular vagal neuromodulation therapy (AVNT) and daily 10–15 minutes of slow-paced diaphragmatic breathing (SDB) in 100 individuals with POTS (including those with Long COVID or stable mild PEM). As a trial protocol, this publication describes study design and does not report clinical efficacy data; findings are subject to completion of the trial. The primary outcome is the change in orthostatic heart rate during a standardized 70° head-up tilt test, with secondary outcomes measuring autonomic responses, handgrip strength, and patient-reported symptoms.
+de:
+  title: Studienprotokoll zur Prüfung kombinierter aurikulärer Vagus-Neuromodulation und langsamer Atemtechnik bei POTS veröffentlicht
+  plain_summary: Forschende in Wien veröffentlichten das Studiendesign für eine Untersuchung mit 100 Personen mit POTS, die Ohr-Vagusnerv-Stimulation und langsames Atmen einzeln oder kombiniert prüft. Die Publikation beschreibt lediglich das geplante Vorgehen und enthält noch keine Behandlungsergebnisse.
+  detail: Ein in *BMJ Open* von Brandl et al. veröffentlichtes Protokoll einer randomisierten kontrollierten Studie beschreibt das Design einer monozentrischen, teilweise verblindeten 2×2-faktoriellen Studie an der Medizinischen Universität Wien (NCT06996314). Die Studie soll die kombinierten und einzelnen Effekte einer täglichen 60-minütigen aurikulären Vagus-Neuromodulationstherapie (AVNT) und einer täglichen 10–15-minütigen langsamen Zwerchfellatmung (SDB) bei 100 Personen mit POTS (einschließlich Betroffener mit Long COVID oder stabiler milder PEM) untersuchen. Als Studienprotokoll beschreibt diese Veröffentlichung ausschließlich das Studiendesign und berichtet noch keine klinischen Wirksamkeitsdaten; Ergebnisse stehen bis zum Abschluss der Studie aus. Primärer Endpunkt ist die Veränderung der orthostatischen Herzfrequenz während eines standardisierten 70°-Kipptischtests; sekundäre Endpunkte erfassen autonome Reaktionen, Handgreifkraft und patientenberichtete Symptome.

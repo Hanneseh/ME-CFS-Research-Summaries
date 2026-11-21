@@ -1,0 +1,19 @@
+id: 2025-04-01_thigh-muscle-biopsies-reveal-structural-capillary-narrowing-and
+date: '2025-04-01'
+date_display: '2025-04-01'
+date_precision: exact
+source_type: report
+study_design: null
+sources:
+- label: Slaghekke et al. 2025, ME/CFS Research Foundation Poster
+  url: https://mecfs-research.org/wp-content/uploads/2025/04/Anouk-Slaghekke_Poster_Conference_2025.pdf
+  kind: other
+en:
+  title: Thigh muscle biopsies reveal structural capillary narrowing and basement membrane thickening
+  plain_summary: Thigh muscle biopsies from people with ME/CFS and Long COVID showed visibly thickened capillary walls and narrower blood vessels that matched poorer muscle oxygen uptake during exercise. This shows a real physical barrier to oxygen delivery, though it is not yet clear what triggers it or if it can be reversed.
+  detail: A comparative analysis of skeletal muscle biopsies (_vastus lateralis_) from ME/CFS and Long COVID patients revealed severe structural pathology in the microvasculature. Under advanced microscopy, patient capillaries showed significantly thickened basement membranes and increased collagen IV deposition, resulting in a narrowed lumen radius. Furthermore, patients with ME/CFS exhibited a reduced capillary density (fewer capillaries per muscle fiber) compared to healthy controls, which correlated with impaired muscle oxygenation during exercise measured via near-infrared spectroscopy (NIRS). This provides direct physical evidence of anatomical barriers to oxygen diffusion and nutrient exchange within skeletal muscle tissue, explaining peripheral exertional intolerance. The findings do not prove the upstream mechanism driving the basement membrane thickening, nor do they demonstrate whether these structural capillary changes are reversible.
+de:
+  title: Oberschenkel-Muskelbiopsien zeigen strukturelle Kapillarverengung und verdickte Basalmembranen
+  plain_summary: Muskelbiopsien bei ME/CFS und Long COVID zeigten verdickte Wände und engere Lumina der kleinsten Blutgefäße, passend zu einer schlechteren Sauerstoffversorgung unter Belastung. Das belegt ein echtes körperliches Hindernis, klärt aber noch nicht Ursache oder Umkehrbarkeit.
+  detail: Eine vergleichende Analyse von Skelettmuskelbiopsien (*Vastus lateralis*) bei Patientinnen und Patienten mit ME/CFS und Long COVID zeigte ausgeprägte strukturelle Veränderungen in den kleinsten Blutgefäßen. Unter hochauflösender Mikroskopie wiesen die Kapillaren deutlich verdickte Basalmembranen und vermehrte Kollagen-IV-Ablagerungen auf, was zu einem verengten Gefäßlumen führte. Zudem hatten ME/CFS-Betroffene im Vergleich zu gesunden Kontrollpersonen eine geringere Kapillardichte (weniger Kapillaren pro Muskelfaser), was mit einer per Nahinfrarotspektroskopie (NIRS) gemessenen schlechteren Muskelsauerstoffversorgung bei Belastung korrelierte. Dies liefert direkte physische Belege für anatomische Barrieren beim Sauerstoff- und Nährstoffaustausch im Muskelgewebe und erklärt periphere Belastungsintoleranz mit. Die Befunde klären jedoch nicht den vorgelagerten Auslöser der Basalmembran-Verdickung und zeigen auch noch nicht, ob diese strukturellen Gefäßveränderungen rückbildungsfähig
+    sind.

@@ -1,0 +1,26 @@
+id: 2025-09-12_soluble-smpdl3b-levels-define-subclinical-kidney-stress-and
+date: '2025-09-12'
+date_display: '2025-09-12'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Rostami-Afshari et al. 2025, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms26188882
+  kind: paper
+en:
+  title: Soluble SMPDL3B levels define subclinical kidney stress and metabolic subtypes
+  plain_summary: A metabolomic study of 56 patients linked lower urine-to-blood ratios of the protein SMPDL3B with subtle kidney stress and depleted energy metabolites, separating patients into three metabolic subtypes. Direct tissue confirmation and cause-and-effect proof are still missing.
+  detail: '- **What changed:** A metabolomic study of 56 patients and 16 controls showed that reduced urine-to-plasma ratios of SMPDL3B predict early-stage subclinical renal stress and correlate with systemic mitochondrial metabolite depletion (such as succinic acid).
+
+    - **Why it matters:** This highlights subclinical renal podocyte stress as a feature of the systemic energy deficit, and shows that patients can be stratified into three distinct metabolic and lipid endophenotypes to enable personalized diagnostics.
+
+    - **What it does not prove yet:** The cross-sectional design cannot establish causality, and these subclinical kidney alterations have not been confirmed via direct tissue biopsy validation.'
+de:
+  title: Lösliches SMPDL3B kennzeichnet subklinischen Nierenstress und metabolische Subtypen
+  plain_summary: Eine Metabolom-Studie mit 56 Betroffenen verknüpfte verringerte Urin-zu-Blut-Verhältnisse des Proteins SMPDL3B mit frühem Nierenstress und einem Mangel an Energiestoffwechselprodukten. Direkte Gewebeprüfungen und Kausalitätsbelege stehen noch aus.
+  detail: '- **Was sich gezeigt hat:** Eine Metabolom-Studie an 56 Patientinnen und Patienten sowie 16 Kontrollpersonen zeigte, dass verringerte Urin-zu-Plasma-Verhältnisse von SMPDL3B einen frühen subklinischen Nierenstress anzeigen und mit einer Verarmung systemischer Mitochondrien-Metaboliten (wie Bernsteinsäure) korrelieren.
+
+    - **Warum das wichtig ist:** Dies rückt subklinischen Stress renaler Podozyten als Teil des systemischen Energiedefizits in den Blick und zeigt, dass sich Betroffene in drei abgrenzbare Stoffwechsel- und Lipid-Endophänotypen für personalisierte Diagnostik einteilen lassen.
+
+    - **Was damit noch nicht belegt ist:** Das Querschnittsdesign kann keine Kausalität belegen, und diese subklinischen Nierenveränderungen wurden nicht durch direkte Gewebebiopsien bestätigt.'

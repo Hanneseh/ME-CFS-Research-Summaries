@@ -1,0 +1,18 @@
+id: 2025-11-07_retrospective-cohort-study-establishes-mast-cell-activation-as
+date: '2025-11-07'
+date_display: '2025-11-07'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: Rohrhofer et al. 2025, Diagnostics
+  url: https://doi.org/10.3390/diagnostics15222828
+  kind: paper
+en:
+  title: Retrospective cohort study establishes mast cell activation as a frequent and treatable comorbidity in ME/CFS
+  plain_summary: Reviewing survey and clinic records, researchers found that roughly one in four ME/CFS patients met criteria for mast cell activation, which often overlapped with standing-related heart rate issues (OI/POTS). Many reported improvement on mast-cell-targeted treatments, though retrospective records cannot replace placebo-controlled clinical trials.
+  detail: Analysis of a self-reported cohort (n = 687) and a retrospective clinical cohort (n = 383) showed that up to 25.3% of ME/CFS patients met the criteria for clinically relevant mast cell activation (MCA). MCA involvement was strongly associated with a higher prevalence of orthostatic intolerance (OI) and POTS, and patients with both MCA and OI reported significant symptom improvement from mast-cell targeted treatments. This provides a clinical rationale for screening ME/CFS patients for mast cell activation to guide personalized therapy, establishing that MCA-targeted drugs can alleviate severe autonomic symptoms in this patient subset. However, the reliance on retrospective clinical records and self-reported surveys introduces potential biases, and double-blind, placebo-controlled trials are required to validate treatment efficacy.
+de:
+  title: Retrospektive Kohortenstudie beschreibt Mastzellaktivierung als häufige und behandelbare Begleiterkrankung bei ME/CFS
+  plain_summary: Auswertungen von Klinikakten und Befragungen ergaben, dass etwa ein Viertel der ME/CFS-Betroffenen Kriterien einer Mastzellaktivierung (MCA) erfüllte – besonders häufig zusammen mit Kreislaufproblemen beim Stehen (OI/POTS). Viele berichteten von Besserung unter mastzellgerichteten Medikamenten; rückblickende Daten ersetzen jedoch keine placebokontrollierten Studien.
+  detail: Die Auswertung einer Selbstauskunfts-Kohorte (n = 687) und einer retrospektiven klinischen Kohorte (n = 383) zeigte, dass bis zu 25,3 % der ME/CFS-Patientinnen und -Patienten Kriterien für eine klinisch relevante Mastzellaktivierung (MCA) erfüllten. Eine MCA-Beteiligung hing stark mit einer höheren Häufigkeit von orthostatischer Intoleranz (OI) und POTS zusammen, und Betroffene mit sowohl MCA als auch OI berichteten über deutliche Symptomverbesserungen unter mastzellgerichteten Therapien. Dies stützt eine klinische Prüfung auf Mastzellaktivierung bei ME/CFS zur gezielteren Behandlung autonomer Beschwerden in dieser Teilgruppe. Allerdings bergen rückblickende Krankenakten und Selbstberichte Verzerrungsrisiken, sodass doppelblinde, placebokontrollierte Studien erforderlich bleiben, um die Wirksamkeit zu sichern.

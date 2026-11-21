@@ -1,0 +1,19 @@
+id: 2025-08-07_review-proposes-multi-systemic-metformin-protocols-for-me
+date: '2025-08-07'
+date_display: '2025-08-07'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Fineberg et al. 2025, ACS Pharmacology & Translational Science
+  url: https://doi.org/10.1021/acsptsci.5c00229
+  kind: paper
+en:
+  title: Review proposes multi-systemic metformin protocols for ME/CFS metabolic dysfunction
+  plain_summary: A review paper gathered lab and clinical arguments for why the diabetes drug metformin might target cellular energy stress, inflammation, and mast cells in ME/CFS and Long COVID. Because it summarizes existing hypotheses without testing patients in a new trial, it does not prove metformin works for chronic illness and notes stomach side effects can limit its use.
+  detail: A comprehensive literature review proposed a strong biological rationale for repurposing metformin to address the metabolic, inflammatory, and gut dysbiosis pathways characteristic of ME/CFS and Long COVID. The authors consolidated evidence showing that metformin inhibits mitochondrial complexes I and IV, reduces reactive oxygen species, modulates mTOR signaling to improve energy regulation, and exerts anti-inflammatory and mast-cell-stabilizing effects. This perspective highlights metformin as a multi-action agent that could serve as a core component of a multi-faceted treatment strategy targeting metabolic stress. However, the review is a synthesis of previous in vitro, animal, and clinical data, which does not prove that metformin is clinically effective or safe for patients already suffering from chronic ME/CFS. Additionally, the drug's significant gastrointestinal side effects represent a major clinical challenge that may limit its usability in patients with pre-existing gut
+    dysbiosis or irritable bowel syndrome.
+de:
+  title: Übersichtsarbeit schlägt multisystemische Metformin-Protokolle bei metabolischer Dysfunktion durch ME/CFS vor
+  plain_summary: Eine Übersichtsarbeit bündelt Labor- und Studiendaten dazu, warum das Diabetesmedikament Metformin Zellenergiestress, Entzündung und Mastzellen bei ME/CFS und Long COVID beeinflussen könnte. Da sie nur bestehende Hypothesen zusammenfasst und keine neue Patientenstudie durchführt, beweist sie keinen Nutzen bei chronischer Erkrankung und weist auf häufige Magen-Darm-Nebenwirkungen hin.
+  detail: Eine umfassende Literaturübersicht formulierte eine biologische Rationale für die Umwidmung von Metformin zur Adressierung von Stoffwechsel-, Entzündungs- und Darmmikrobiom-Störungen bei ME/CFS und Long COVID. Die Autorinnen und Autoren trugen Evidenz zusammen, wonach Metformin die mitochondrialen Komplexe I und IV hemmt, reaktive Sauerstoffspezies senkt, den mTOR-Signalweg zur Energieregulation moduliert sowie entzündungshemmende und mastzellstabilisierende Effekte entfaltet. Diese Perspektive hebt Metformin als vielseitigen Wirkstoff hervor, der Teil einer mehrgleisigen Strategie gegen metabolischen Stress sein könnte. Als reine Synthese früherer In-vitro-, Tier- und klinischer Daten beweist die Übersicht jedoch weder Wirksamkeit noch Sicherheit von Metformin bei bereits chronisch an ME/CFS Erkrankten; zudem stellen ausgeprägte gastrointestinale Nebenwirkungen eine erhebliche klinische Hürde bei Betroffenen mit vorbestehender Darmdysbiose oder Reizdarmsyndrom dar.

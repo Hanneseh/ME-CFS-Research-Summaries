@@ -1,0 +1,20 @@
+id: 2026-09-14_biobank-gwas-preprint-reports-seven-cross-cohort-me
+date: '2026-09-14'
+date_display: '2026-09-14'
+date_precision: exact
+source_type: preprint
+study_design: GWAS
+sources:
+- label: Slaughter et al. 2026, medRxiv preprint
+  url: https://doi.org/10.64898/2026.09.09.26362115
+  kind: preprint
+en:
+  title: Biobank GWAS preprint reports seven cross-cohort ME/CFS loci that do not overlap DecodeME
+  plain_summary: A preprint using UK and US biobank records identified seven genetic regions linked to ME/CFS across three smaller subsets, though none overlapped with DecodeME's findings. It remains unclear why these biobank signals differ from DecodeME, and the small sample sizes and lack of PEM criteria keep these results tentative.
+  detail: A medRxiv preprint (v1, not peer-reviewed) by Slaughter et al. reports a case-control GWAS in UK Biobank with 1,268 ME/CFS cases, defined from multiple lines of evidence in health records and survey responses rather than a single diagnostic code. Replication in a separate UK Biobank subset (319 cases) and the All of Us Research Program (371 cases) supported seven risk loci, including regions containing CLYBL, BICD1, GRIN2A, CSMD1 and RORA, although none was significant in all three cohorts. One locus colocalised with lower CLYBL expression in putamen, yet a CLYBL stop-gain variant was not itself associated with risk; no gene-by-sex or gene-by-deprivation interaction survived correction. No significant loci overlapped with DecodeME. Phenotype and population differences may contribute, but the cause of this non-overlap remains unresolved. GRIN2A encodes an NMDA receptor subunit, but the association does not establish a glutamatergic mechanism or prove that nearby genes are causal.
+    Case numbers are small for a GWAS, the abstract does not describe PEM-based criteria, and severity was not reported, so applicability to severe or bedbound patients is unknown.
+de:
+  title: Biobank-GWAS-Preprint berichtet über sieben kohortenübergreifende ME/CFS-Loci ohne Überschneidung mit DecodeME
+  plain_summary: Ein Preprint aus britischen und US-Biobanken fand sieben Risikoregionen über drei kleinere Teilgruppen hinweg, die sich jedoch nicht mit den Treffern aus DecodeME deckten. Warum die Biobank-Signale von DecodeME abweichen, ist ungeklärt; kleine Fallzahlen und fehlende PEM-Kriterien machen die Ergebnisse noch vorläufig.
+  detail: Ein nicht begutachteter medRxiv-Preprint (v1) von Slaughter et al. beschreibt eine Fall-Kontroll-GWAS in der UK Biobank mit 1.268 ME/CFS-Fällen, die über mehrere Hinweise aus Krankenakten und Befragungen statt über einen einzelnen Diagnosecode definiert wurden. Replikationen in einer separaten UK-Biobank-Teilgruppe (319 Fälle) und im All of Us Research Program (371 Fälle) stützten sieben Risikoregionen – darunter Bereiche um CLYBL, BICD1, GRIN2A, CSMD1 und RORA –, obwohl kein Locus in allen drei Kohorten zugleich signifikant war. Ein Locus kolokalisierte mit niedrigerer CLYBL-Expression im Putamen, doch eine Stop-Gain-Variante in CLYBL selbst war nicht mit dem Risiko verknüpft; Gen-mal-Geschlecht- oder Gen-mal-Deprivations-Interaktionen überstanden keine Korrektur. Keine der signifikanten Regionen überschnitt sich mit DecodeME; Unterschiede bei Phänotyp und Population könnten beitragen, doch die Ursache dieser fehlenden Überlappung bleibt offen. GRIN2A kodiert zwar eine Untereinheit
+    des NMDA-Rezeptors, belegt damit aber noch keinen glutamatergen Krankheitsmechanismus; zudem sind die Fallzahlen für eine GWAS klein, das Abstract nennt keine PEM-basierten Kriterien, und Angaben zum Schweregrad fehlten.

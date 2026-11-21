@@ -1,0 +1,20 @@
+id: 2026-08-11_eeg-study-identifies-reduced-post-movement-beta-rebound
+date: '2026-08-11'
+date_display: '2026-08-11'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Casado Sánchez et al. 2026, Journal of Clinical Neuroscience
+  url: https://doi.org/10.1016/j.jocn.2026.112230
+  kind: paper
+en:
+  title: EEG study identifies reduced post-movement beta rebound and resting alpha slowing in Long COVID fatigue
+  plain_summary: Brainwave (EEG) tests in 20 Long COVID patients with fatigue and PEM found slower alpha brain rhythms and weaker motor-cortex rebound after squeezing a grip, linking brain-circuit inhibition changes to fatigue severity. Because the study was small and required lab visits and gripping tasks, it is not a routine test and excluded bedbound patients.
+  detail: A peer-reviewed case-control neurophysiology study in the *Journal of Clinical Neuroscience* evaluated cortical oscillatory dynamics using 64-channel electroencephalography (EEG) in 20 Long COVID participants experiencing fatigue, brain fog, and post-exertional malaise alongside 20 matched healthy controls. Recordings obtained during resting state and sustained isometric handgrip tasks revealed a significant reduction in post-movement beta rebound (PMBR) in the primary motor and somatosensory cortex upon motor release in patients. Long COVID participants also demonstrated marked slowing of resting sensorimotor alpha center frequency (averaging ~9.6 Hz versus ~10.6 Hz in controls), with both oscillatory abnormalities correlating with self-reported fatigue severity. These electrophysiological shifts point to disrupted cortical excitatory-inhibitory balance and impaired GABAergic intracortical inhibition in post-viral neurocognitive fatigue. However, the study is limited by a small
+    single-center sample, a cross-sectional design that cannot establish whether oscillatory changes precede or result from chronic illness, and the enrollment of a broad post-COVID cohort rather than criteria-defined ME/CFS. Furthermore, in-laboratory testing requirements and motor contraction tasks exclude severely affected or bedbound individuals while carrying potential for triggering post-exertional fatigue.
+de:
+  title: EEG-Studie identifiziert verringerten Post-Movement-Beta-Rebound und Alpha-Verlangsamung bei Long-COVID-Fatigue
+  plain_summary: Hirnstrommessungen (EEG) bei 20 Long-COVID-Betroffenen mit Fatigue und PEM zeigten eine verlangsamte Alpha-Grundfrequenz sowie einen abgeschwächten Beta-Rebound nach Muskelanspannung – beides hing mit der Fatigue-Schwere zusammen. Da die Gruppe klein war und die Laboruntersuchung Anfahrt sowie Kraftaufgaben erforderte, eignet sich das Verfahren nicht für die Routine und schloss bettlägerige Personen aus.
+  detail: Eine begutachtete neurophysiologische Fall-Kontroll-Studie im *Journal of Clinical Neuroscience* untersuchte kortikale Oszillationsdynamiken mittels 64-Kanal-Elektroenzephalographie (EEG) bei 20 Long-COVID-Teilnehmenden mit Fatigue, Brain Fog und Post-Exertional Malaise sowie 20 gematchten gesunden Kontrollen. Ableitungen im Ruhezustand und während isometrischer Handkraftaufgaben zeigten bei Patientinnen und Patienten nach dem Loslassen eine signifikante Abschwächung des Post-Movement-Beta-Rebound (PMBR) im primären motorischen und somatosensorischen Kortex. Zudem wiesen die Betroffenen eine deutliche Verlangsamung der sensomotorischen Alpha-Ruhefrequenz auf (im Schnitt ~9,6 Hz gegenüber ~10,6 Hz bei Kontrollen), wobei beide Auffälligkeiten mit der selbstberichteten Fatigue-Schwere korrelierten. Diese elektrophysiologischen Verschiebungen weisen auf ein gestörtes kortikales Gleichgewicht aus Erregung und Hemmung sowie eine beeinträchtigte GABAerge intrakortikale Inhibition hin.
+    Einschränkungen sind die kleine monozentrische Stichprobe, das Querschnittsdesign, die breite Post-COVID-Rekrutierung ohne kriterienbasiertes ME/CFS sowie der Ausschluss schwer betroffener oder bettlägeriger Menschen durch Laboranfahrt und motorische Aufgaben.

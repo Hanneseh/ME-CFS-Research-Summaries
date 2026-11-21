@@ -1,0 +1,19 @@
+id: 2026-01-07_preclinical-study-shows-combination-therapy-prevents-post-viral
+date: '2026-01-07'
+date_display: '2026-01-07'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Verma et al. 2026, Proceedings of the National Academy of Sciences
+  url: https://doi.org/10.1073/pnas.2530209123
+  kind: paper
+en:
+  title: Preclinical study shows combination therapy prevents post-viral neurological damage
+  plain_summary: In a mouse model of SARS-CoV-2 infection, combining an antiviral drug with an anti-inflammatory steroid three days after infection largely prevented lasting brain inflammation and neurological symptoms, whereas antivirals alone did not. Because this was an animal study, it only points to a biological mechanism and does not show that the combination is safe or effective for people.
+  detail: A preclinical study using a mouse-adapted SARS-CoV-2 model showed that respiratory infection caused significant loss of dopaminergic neurons and sustained microglial activation, even without persistent virus in the brain. While antivirals (nirmatrelvir or molnupiravir) alone were ineffective at preventing these brain changes when administered after infection, a combination of these antivirals plus corticosteroids (anti-inflammatory) starting three days post-infection nearly restored full neurological and behavioral function. This demonstrates that host inflammation, rather than direct viral invasion of the brain, is the primary driver of persistent neurological deficits in this model. It suggests that mitigating the early inflammatory response is critical to preventing post-acute neurological sequelae. However, because this research relied entirely on a mouse model, it does not prove that this specific drug combination or therapeutic window is safe or effective in human patients.
+de:
+  title: 'Präklinische Studie zeigt: Kombinationstherapie verhindert postvirale neurologische Schäden'
+  plain_summary: In einem Mausmodell nach SARS-CoV-2-Infektion verhinderte eine frühzeitige Kombination aus einem antiviralen Mittel und Kortison weitgehend anhaltende Hirnentzündungen und neurologische Ausfälle, während antivirale Medikamente allein nicht halfen. Da es sich um einen Tierversuch handelt, zeigt dies lediglich einen biologischen Mechanismus und belegt weder Sicherheit noch Wirksamkeit beim Menschen.
+  detail: Eine präklinische Studie an einem mausadaptierten SARS-CoV-2-Modell zeigte, dass eine Atemwegsinfektion auch ohne anhaltendes Virus im Gehirn zu einem deutlichen Verlust dopaminerger Nervenzellen und einer dauerhaften Mikroglia-Aktivierung führte. Während antivirale Wirkstoffe (Nirmatrelvir oder Molnupiravir) allein nach der Infektion diese Hirnveränderungen nicht verhindern konnten, stellte eine Kombination aus diesen Virostatika plus entzündungshemmenden Kortikosteroiden ab dem dritten Tag nach Infektion die neurologische und verhaltensbezogene Funktion nahezu vollständig wieder her. Dies belegt, dass in diesem Modell vor allem die körpereigene Entzündungsreaktion – und nicht ein direkter Virusbefall des Gehirns – anhaltende neurologische Defizite antreibt. Die Arbeit legt nahe, dass das Dämpfen der frühen Entzündung entscheidend sein könnte, um postakuten neurologischen Folgen vorzubeugen. Da die Untersuchung jedoch vollständig auf einem Mausmodell beruht, beweist sie nicht,
+    dass diese Wirkstoffkombination oder dieses Zeitfenster beim Menschen sicher oder wirksam ist.

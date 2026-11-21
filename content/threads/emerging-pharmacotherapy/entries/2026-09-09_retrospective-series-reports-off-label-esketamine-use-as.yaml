@@ -1,0 +1,20 @@
+id: 2026-09-09_retrospective-series-reports-off-label-esketamine-use-as
+date: '2026-09-09'
+date_display: '2026-09-09'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Hartman et al. 2026, International Journal of Neuropsychopharmacology
+  url: https://doi.org/10.1093/ijnp/pyag040.161
+  kind: paper
+en:
+  title: Retrospective series reports off-label esketamine use as a step-4 escalation strategy in neuropsychiatric Long COVID
+  plain_summary: A short conference abstract described 15 patients with neuropsychiatric Long COVID given off-label esketamine who reported improvements across fatigue, cognition, and mood. Because it was tiny, retrospective, unblinded, and unreviewed—and esketamine carries blood-pressure and dissociation risks requiring clinic monitoring—it provides no support for routine use.
+  detail: A conference abstract by Hartman et al. reported on a retrospective, uncontrolled case series of 15 patients with neuropsychiatric Long COVID treated with off-label esketamine in specialized routine care. Used as a step-4 escalation strategy via intranasal or intravenous administration, the authors described general tolerability alongside multi-domain improvements across fatigue, cognitive dysfunction, affective symptoms, and autonomic hyperreactivity. However, this tiny uncontrolled observational series cannot establish clinical efficacy or distinguish drug effects from placebo response, concurrent care, or the natural course of illness. Whether severe or bedbound patients were included is unknown because baseline functional severity was not reported in the abstract. Both intranasal and intravenous delivery impose significant clinical monitoring burdens—such as sustained observation for hemodynamic fluctuations, dissociation, and psychiatric adverse effects—compounded by substantial
+    safety uncertainties surrounding repeated dosing in post-viral illness. These preliminary findings represent an exploratory escalation signal rather than established evidence, offering no support for routine off-label treatment.
+de:
+  title: Retrospektive Fallserie berichtet Off-Label-Einsatz von Esketamin als Stufe-4-Eskalation bei neuropsychiatrischem Long COVID
+  plain_summary: Ein kurzer Konferenz-Abstract beschrieb 15 Betroffene mit neuropsychiatrischem Long COVID, die unter Off-Label-Esketamin Besserungen bei Fatigue, Kognition und Stimmung zeigten. Da der Beitrag winzig, rückblickend, unverblindet und unbegutachtet ist – und Esketamin wegen Blutdruckschwankungen und Dissoziation enge Überwachung erfordert –, begründet er keine Routineanwendung.
+  detail: Ein Konferenz-Abstract von Hartman et al. berichtete über eine retrospektive, unkontrollierte Fallserie von 15 Patientinnen und Patienten mit neuropsychiatrischem Long COVID, die in einer spezialisierten Regelversorgung Off-Label mit Esketamin behandelt wurden. Eingesetzt als Stufe-4-Eskalationsstrategie intranasal oder intravenös, beschrieben die Autorinnen und Autoren allgemeine Verträglichkeit sowie domänenübergreifende Verbesserungen bei Fatigue, kognitiver Dysfunktion, affektiven Symptomen und autonomer Übererregbarkeit. Diese winzige unkontrollierte Beobachtungsserie kann jedoch keine klinische Wirksamkeit belegen oder Arzneieffekte von Placebo, Begleittherapien oder Spontanverlauf trennen. Ob schwer Betroffene oder Bettlägerige eingeschlossen waren, ist unbekannt, da der funktionelle Ausgangs-Schweregrad im Abstract nicht berichtet wurde. Sowohl intranasale als auch intravenöse Gabe erfordern erhebliche Überwachung auf hämodynamische Schwankungen, Dissoziation und psychiatrische
+    Nebenwirkungen bei erheblichen Sicherheitsunsicherheiten wiederholter Gabe; diese vorläufigen Befunde stellen lediglich ein exploratives Signal dar und stützen keine reguläre Off-Label-Behandlung.

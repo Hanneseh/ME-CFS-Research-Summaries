@@ -1,0 +1,18 @@
+id: 2026-10-27_mouse-experiments-connect-wasf3-to-brain-energy-metabolism
+date: '2026-10-27'
+date_display: '2026-10-27'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Syed et al. 2026, PNAS
+  url: https://doi.org/10.1073/pnas.2617198123
+  kind: paper
+en:
+  title: Mouse experiments connect WASF3 to brain energy metabolism and learning
+  plain_summary: Mouse experiments showed that raising the stress protein WASF3 disrupted brain cell energy production and impaired learning, while removing it preserved cognition under stress. It does not yet prove this pathway causes human brain fog or is safe to target in patients.
+  detail: A peer-reviewed PNAS study extended the earlier WASF3 mitochondrial-respiration work into transgenic and knockout mice. Increased WASF3 disrupted respiratory complex IV, shifted hippocampal metabolism toward glycolysis, reduced ATPIF1 and impaired learning; WASF3 deficiency produced the opposite metabolic pattern and preserved cognitive function under stress. This supplies an experimentally testable link between cellular stress, energy production and cognition. It does not show that this pathway causes human ME/CFS brain fog or that inhibiting WASF3 would improve patients. No human treatment or severity-stratified cohort was tested, so severe-patient applicability and clinical safety remain unknown. Translation would require confirmation in relevant human tissue and a safe way to modify the pathway.
+de:
+  title: Mausexperimente verknüpfen WASF3 mit Hirnenergiestoffwechsel und Lernleistung
+  plain_summary: Mausversuche zeigten, dass erhöhte Mengen des Stressproteins WASF3 die Energiebildung in Hirnzellen störten und das Lernen beeinträchtigten, während sein Fehlen die Kognition unter Stress schützte. Ob dieser Weg beim Menschen Brain Fog verursacht und sich sicher beeinflussen lässt, ist noch offen.
+  detail: Eine begutachtete *PNAS*-Studie übertrug frühere Arbeiten zu WASF3 und Mitochondrienatmung auf transgene und Knockout-Mäuse. Erhöhtes WASF3 störte den Atmungskomplex IV, verschob den Stoffwechsel im Hippocampus hin zur Glykolyse, verringerte ATPIF1 und beeinträchtigte die Lernleistung; ein WASF3-Mangel erzeugte das gegenteilige Stoffwechselmuster und erhielt die kognitive Funktion unter Stress. Dies liefert eine experimentell überprüfbare Verbindung zwischen zellulärem Stress, Energieproduktion und Kognition. Es beweist jedoch nicht, dass dieser Signalweg beim Menschen ME/CFS-Brain-Fog verursacht oder dass eine Hemmung von WASF3 Patientinnen und Patienten helfen würde. Es wurden keine menschlichen Therapien oder nach Schweregrad stratifizierten Kohorten geprüft, sodass Übertragbarkeit auf schwer Erkrankte und klinische Sicherheit unbekannt bleiben; eine Translation erfordert Bestätigung in relevantem menschlichem Gewebe und eine sichere Eingriffsmöglichkeit.

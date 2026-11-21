@@ -1,0 +1,18 @@
+id: 2025-07-09_pilot-paper-published
+date: '2025-07-09'
+date_display: '2025-07-09'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Fluge et al. 2025, Frontiers in Medicine
+  url: https://doi.org/10.3389/fmed.2025.1607353
+  kind: paper
+en:
+  title: Pilot paper published
+  plain_summary: The ten-patient daratumumab pilot study has now been published in a peer-reviewed medical journal, making its methods and safety observations publicly verifiable. Formal publication adds transparency, but it does not change the fact that an uncontrolled pilot cannot prove the treatment works.
+  detail: The Bergen pilot study was formally published in a peer-reviewed journal, providing the primary publication of the design, safety data, and the response patterns observed in the ten-patient cohort. Peer-reviewed publication subjects the preliminary findings to scientific scrutiny, establishing a referenceable baseline for the drug's mechanism of action and the reported NK-cell responder correlation. However, the publication of these pilot results does not overcome the inherent limitations of the open-label design, nor does it establish safety or efficacy in a wider patient population.
+de:
+  title: Pilotstudie im Fachjournal veröffentlicht
+  plain_summary: Die Pilotstudie zu Daratumumab mit zehn Patientinnen wurde nun in einem begutachteten Fachjournal veröffentlicht, sodass Aufbau und Sicherheitsdaten überprüfbar vorliegen. Die Publikation schafft Transparenz, ändert aber nichts daran, dass eine unkontrollierte Pilotstudie noch keine Wirksamkeit beweist.
+  detail: Die Pilotstudie der Bergener Gruppe wurde regulär in einer begutachteten Fachzeitschrift veröffentlicht und liefert die Primärpublikation zu Studiendesign, Sicherheitsdaten und den in der zehnköpfigen Patientinnen-Kohorte beobachteten Ansprechmustern. Durch das Peer-Review-Verfahren werden die vorläufigen Befunde wissenschaftlich überprüfbar und schaffen eine zitierfähige Grundlage für den Wirkmechanismus des Medikaments sowie für den berichteten Zusammenhang mit NK-Zellen. Dennoch überwindet die Veröffentlichung dieser Pilotdaten nicht die grundlegenden Grenzen des offenen Studiendesigns und belegt weder Sicherheit noch Wirksamkeit in einer breiteren Patientenpopulation.

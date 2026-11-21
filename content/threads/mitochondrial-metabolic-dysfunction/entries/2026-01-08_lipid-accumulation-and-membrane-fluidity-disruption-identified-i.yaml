@@ -1,0 +1,26 @@
+id: 2026-01-08_lipid-accumulation-and-membrane-fluidity-disruption-identified-i
+date: '2026-01-08'
+date_display: '2026-01-08'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Missailidis et al. 2026, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-025-07620-x
+  kind: paper
+en:
+  title: Lipid accumulation and membrane fluidity disruption identified in patient cell lines
+  plain_summary: In lab-grown immune cell lines from 15 patients, researchers found built-up fats and stiffer cell membranes that could hinder immune signaling. Because these were immortalized cell lines rather than fresh patient cells, the finding needs confirmation in primary cells.
+  detail: '- **What changed:** A multi-omics case-control study of 15 patients and 17 controls showed significant accumulation of triglycerides and free fatty acids, a shift toward saturated lipid content, and a reduction in the lipid PC(O-38:4) in patient cell lines.
+
+    - **Why it matters:** This demonstrates cellular lipid dysregulation and hyperactivation of the PTDSS1 enzyme, which may disrupt lipid rafts and cell membrane fluidity, potentially impairing immune receptor signaling in B cells.
+
+    - **What it does not prove yet:** The study utilized immortalized lymphoblastoid cell lines rather than primary human immune cells, and the findings need validation in primary cells while controlling for body mass index (BMI).'
+de:
+  title: Lipidansammlung und gestörte Membranfluidität in Patientenzelllinien nachgewiesen
+  plain_summary: In kultivierten Immunzelllinien von 15 Betroffenen fanden Forschende angesammelte Fette und veränderte Zellmembranen, was Immunsignale stören könnte. Da unsterblich gemachte Zelllinien untersucht wurden, ist eine Bestätigung an frischen Patientenzellen nötig.
+  detail: '- **Was sich gezeigt hat:** Eine Multi-Omics-Fall-Kontroll-Studie mit 15 Betroffenen und 17 Kontrollpersonen zeigte in Patientenzelllinien eine deutliche Anreicherung von Triglyceriden und freien Fettsäuren, eine Verschiebung hin zu gesättigten Lipiden sowie eine Abnahme des Lipids PC(O-38:4).
+
+    - **Warum das wichtig ist:** Dies belegt eine zelluläre Lipid-Fehlregulation und Überaktivierung des Enzyms PTDSS1, was Lipid-Rafts und Membranfluidität verändern und so die Immunrezeptor-Signalgebung in B-Zellen stören könnte.
+
+    - **Was damit noch nicht belegt ist:** Die Studie nutzte immortalisierte lymphoblastoide Zelllinien statt primärer menschlicher Immunzellen, sodass eine Validierung an frischen Zellen unter Kontrolle des Body-Mass-Index (BMI) erforderlich ist.'

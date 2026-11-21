@@ -1,0 +1,34 @@
+groups:
+  - slug: treatments-interventions
+    order: 1
+    accent: teal
+    en:
+      title: "Treatments & Interventions"
+      short_title: "Treatments"
+      description: "Candidate therapies, repurposed drugs, devices, and clinical trials under investigation — separating early signals, active trials, safety risks, and unproven claims."
+    de:
+      title: "Therapien & Interventionen"
+      short_title: "Therapien"
+      description: "Mögliche Behandlungsansätze, umgewidmete Medikamente, Geräte und klinische Studien – mit klarer Trennung von frühen Signalen, laufenden Studien, Risiken und unbewiesenen Behauptungen."
+  - slug: disease-models-mechanisms
+    order: 2
+    accent: slate
+    en:
+      title: "Disease Models & Mechanisms"
+      short_title: "Mechanisms"
+      description: "Biological explanations investigating what may go wrong in the immune system, cellular energy metabolism, blood vessels, nervous system, gut, and genetics."
+    de:
+      title: "Krankheitsmodelle & Mechanismen"
+      short_title: "Mechanismen"
+      description: "Biologische Erklärungsansätze dafür, was im Immunsystem, Energiestoffwechsel, den Blutgefäßen, dem Nervensystem, dem Darm und den Genen aus dem Gleichgewicht geraten kann."
+  - slug: diagnostics-symptoms-care
+    order: 3
+    accent: amber
+    en:
+      title: "Diagnostics, Symptoms & Care"
+      short_title: "Diagnostics & Care"
+      description: "Biomarkers, measurement tools, post-exertional malaise physiology, clinical guidelines, epidemiology, and practical care for severely affected patients."
+    de:
+      title: "Diagnostik, Symptome & Versorgung"
+      short_title: "Diagnostik & Versorgung"
+      description: "Biomarker, Messverfahren, Belastungsintoleranz (PEM), Leitlinien, Epidemiologie sowie konkrete Versorgungskonzepte für schwer betroffene Patientinnen und Patienten."

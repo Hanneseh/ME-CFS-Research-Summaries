@@ -1,0 +1,19 @@
+id: 2026-08-01_epidemiological-survey-of-8-840-secondary-students-in
+date: '2026-08-01'
+date_display: '2026-08-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Shaanxi secondary school epidemiological study 2026, PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/42519734/
+  kind: paper
+en:
+  title: Epidemiological survey of 8,840 secondary students in Shaanxi Province documents 2.06% CFS prevalence and physical impairment
+  plain_summary: A survey of 8,840 Chinese secondary students found chronic fatigue syndrome criteria in 2.1%—rising to 3.7% in intense exam-prep students—alongside poorer running endurance. Because it used self-report questionnaires in one province without clinical ME/CFS exams, it may not reflect diagnosed ME/CFS elsewhere.
+  detail: A cross-sectional epidemiological study published in PubMed surveyed 8,840 secondary school students across 25 schools in Shaanxi Province, China, assessing Chronic Fatigue Syndrome (CFS) prevalence and physical health correlations. The survey identified an overall CFS detection rate of 2.059% (1.903% in males, 2.234% in females), with prevalence increasing stepwise across academic stages from 1.012% in grade 7 to a peak of 3.728% in cram school students. CFS severity negatively correlated with physical endurance performance on 800m/1000m running tests across both genders, with female cram school students exhibiting significantly reduced vital capacity. The findings provide large-scale epidemiological evidence of adolescent fatigue burden and its link to academic stress and physical performance deficits. Limitations include a cross-sectional questionnaire screening design subject to self-report bias and specific regional applicability to secondary school populations in Shaanxi
+    Province.
+de:
+  title: Epidemiologische Erhebung unter 8.840 Schülerinnen und Schülern in Shaanxi dokumentiert 2,06 % CFS-Prävalenz und körperliche Einbußen
+  plain_summary: Eine Befragung von 8.840 Jugendlichen in der chinesischen Provinz Shaanxi fand bei 2,1 % – und bis zu 3,7 % in Prüfungsvorbereitungsklassen – ein Chronisches Fatigue-Syndrom zusammen mit schwächerer Laufleistung. Da Fragebögen ohne ärztliche ME/CFS-Abklärung in einer Region genutzt wurden, sind die Zahlen nicht direkt übertragbar.
+  detail: Eine in PubMed gelistete Querschnittsstudie befragte 8.840 Schülerinnen und Schüler weiterführender Schulen an 25 Standorten in der chinesischen Provinz Shaanxi zur Häufigkeit des Chronischen Fatigue-Syndroms (CFS) und körperlicher Leistungsfähigkeit. Die Erhebung ergab eine Gesamtrate von 2,059 % (1,903 % männlich, 2,234 % weiblich), mit einem schrittweisen Anstieg über die Jahrgangsstufen von 1,012 % in Klasse 7 bis zu einem Höchstwert von 3,728 % in intensiven Prüfungsvorbereitungsklassen (Cram Schools). Die CFS-Schwere korrelierte bei beiden Geschlechtern negativ mit der Ausdauerleistung über 800 m bzw. 1000 m, und weibliche Cram-School-Schülerinnen wiesen eine deutlich geringere Vitalkapazität auf. Dies liefert große epidemiologische Hinweise auf jugendliche Fatigue-Last und deren Zusammenhang mit Leistungsdruck und Fitnessdefiziten; Einschränkungen sind das selbstberichtete Screening-Design und die regionale Begrenzung auf Shaanxi.

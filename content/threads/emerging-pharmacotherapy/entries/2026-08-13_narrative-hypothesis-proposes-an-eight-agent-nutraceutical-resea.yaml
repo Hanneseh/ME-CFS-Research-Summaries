@@ -1,0 +1,19 @@
+id: 2026-08-13_narrative-hypothesis-proposes-an-eight-agent-nutraceutical-resea
+date: '2026-08-13'
+date_display: '2026-08-13'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Praet 2026, Nutrients
+  url: https://doi.org/10.3390/nu18162650
+  kind: paper
+en:
+  title: Narrative hypothesis proposes an eight-agent nutraceutical research pathway for PEM
+  plain_summary: A review proposed testing an eight-supplement combination—including CoQ10, alpha-lipoic acid, and high-dose omega-3—for PEM and brain fog, while rating current evidence for the combination as absent or very low certainty. No patients were treated, and the author warns of safety risks like bleeding, low blood sugar, and heavy pill burden, so this is only a research idea and not a treatment plan.
+  detail: 'Praet''s narrative review proposes three interacting hypotheses for Long COVID-associated PEM and brain fog: mitochondrial bioenergetic failure, Nrf2-thioredoxin redox imbalance, and mPGES-1/PGE2 neurovascular inflammation. It groups eight candidate nutraceuticals into bioenergetic (CoQ10, alpha-lipoic acid), redox (selenium, sulforaphane, resveratrol), and prostaglandin/resolution (Boswellia, luteolin, EPA) modules, but explicitly grades direct evidence for the complete combination as absent/very low certainty. No patients were recruited; severe or bedbound inclusion was not reported, and the proposed regimen would impose substantial pill, monitoring, and interaction burden. The review also flags cumulative bleeding and atrial-fibrillation risks with high-dose EPA/antiplatelet compounds, selenium toxicity, ALA-related hypoglycemia, and PEM hazards from exertion testing. It proposes Phase 0/1 formulation and pharmacokinetic work, not a treatment protocol.'
+de:
+  title: Narrative Hypothese schlägt einen Acht-Wirkstoff-Nutrazeutika-Forschungspfad gegen PEM vor
+  plain_summary: Eine Übersichtsarbeit schlägt eine Kombination aus acht Nahrungsergänzungsmitteln – darunter CoQ10, Alpha-Liponsäure und hochdosiertes Omega-3 – zur Forschung bei PEM und Brain Fog vor, stuft die aktuelle Evidenz für diese Kombination aber selbst als fehlend bis sehr unsicher ein. Es wurden keine Patientinnen und Patienten behandelt, und der Autor warnt vor Risiken wie Blutungen, Unterzuckerung und hoher Tablettenlast.
+  detail: 'Praets narrative Übersichtsarbeit formuliert drei ineinandergreifende Hypothesen zu Long-COVID-assoziierter PEM und Brain Fog: mitochondriales Energieversagen, Nrf2-Thioredoxin-Redox-Ungleichgewicht und mPGES-1/PGE2-vermittelte neurovaskuläre Entzündung. Sie bündelt acht Kandidaten-Nutrazeutika in bioenergetische (CoQ10, Alpha-Liponsäure), Redox- (Selen, Sulforaphan, Resveratrol) und Prostaglandin-/Auflösungs-Module (Boswellia, Luteolin, EPA), stuft die direkte Evidenz für die Gesamtkombination jedoch ausdrücklich als fehlend bzw. von sehr geringer Sicherheit ein. Es wurden keine Patientinnen und Patienten rekrutiert; eine Beteiligung schwer Betroffener oder Bettlägeriger wird nicht berichtet, und das vorgeschlagene Schema würde erhebliche Tabletten-, Überwachungs- und Wechselwirkungslasten mit sich bringen. Die Übersicht weist zudem auf kumulative Blutungs- und Vorhofflimmer-Risiken unter hochdosiertem EPA/Thrombozytenhemmern, Selentoxizität, Alpha-Liponsäure-bedingte Hypoglykämien
+    sowie PEM-Gefahren durch Belastungstests hin und schlägt frühe Formulierungs- und Pharmakokinetik-Studien vor – kein Behandlungsprotokoll.'

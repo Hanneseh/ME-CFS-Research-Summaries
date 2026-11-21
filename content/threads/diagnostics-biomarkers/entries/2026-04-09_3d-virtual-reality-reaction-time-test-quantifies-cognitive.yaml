@@ -1,0 +1,19 @@
+id: 2026-04-09_3d-virtual-reality-reaction-time-test-quantifies-cognitive
+date: '2026-04-09'
+date_display: '2026-04-09'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ladek et al. 2026, Biomedicines
+  url: https://doi.org/10.3390/biomedicines14040855
+  kind: paper
+en:
+  title: 3D virtual reality reaction-time test quantifies cognitive fatigue objectively
+  plain_summary: In a German study of 60 ME/CFS patients and 60 healthy controls, patients reacted slower on a 3D virtual reality task and failed to speed up across repeated rounds, capturing mental fatigue objectively. The tool is still an early proof of concept and did not align closely with how fatigued patients rated themselves.
+  detail: A study from Universitätsklinikum Erlangen had 60 ME/CFS patients and 60 healthy controls complete a 3D stereoptic VR task across three rounds and measured reaction times and within-session improvement. Patients showed consistently slower reaction times than controls at all difficulty levels and, unlike controls, did not improve significantly across rounds, which researchers interpreted as the measurable footprint of mental fatigability rather than fixed slowed processing. Notably, objective VR performance did not correlate with patients' own self-assessment scores, suggesting that subjective questionnaires under-capture cognitive slowing. Age was not perfectly matched between groups and required statistical correction. The tool is still in a proof-of-concept phase and has not been paired with biological markers in the same subjects to confirm convergent validity.
+de:
+  title: 3D-Virtual-Reality-Reaktionstest quantifiziert kognitive Ermüdung objektiv
+  plain_summary: In einer Studie aus Erlangen mit 60 ME/CFS-Betroffenen und 60 gesunden Kontrollen reagierten Erkrankte in einer 3D-VR-Aufgabe langsamer und konnten sich über mehrere Durchgänge hinweg kaum steigern – ein objektives Maß geistiger Ermüdbarkeit. Das Verfahren befindet sich noch in der frühen Erprobung und stimmte nicht mit der Selbsteinschätzung der Betroffenen überein.
+  detail: Eine Studie des Universitätsklinikums Erlangen ließ 60 ME/CFS-Patientinnen und -Patienten sowie 60 gesunde Kontrollen eine stereoskopische 3D-VR-Aufgabe in drei Runden absolvieren und maß Reaktionszeiten sowie Leistungsverbesserungen innerhalb der Sitzung. Patientinnen und Patienten zeigten auf allen Schwierigkeitsstufen durchweg langsamere Reaktionszeiten als Kontrollen und verbesserten sich im Gegensatz zu diesen über die Runden hinweg nicht signifikant, was die Forschenden als messbaren Ausdruck mentaler Ermüdbarkeit statt einer starr verlangsamten Verarbeitung interpretierten. Bemerkenswerterweise korrelierte die objektive VR-Leistung nicht mit den eigenen Selbsteinschätzungs-Scores der Betroffenen, was darauf hindeutet, dass subjektive Fragebögen kognitive Verlangsamung untererfassen könnten. Das Alter war zwischen den Gruppen nicht perfekt angeglichen und musste statistisch korrigiert werden. Das Verfahren befindet sich noch in einer Proof-of-Concept-Phase und wurde bislang
+    nicht bei denselben Personen mit biologischen Markern kombiniert, um die konvergente Validität zu prüfen.

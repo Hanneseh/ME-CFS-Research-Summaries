@@ -1,0 +1,20 @@
+id: 2026-07-10_episwitch-3d-genomic-test-validated-in-retrospective-severe
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Hunter et al. 2025/2026, Journal of Translational Medicine
+  url: https://pubmed.ncbi.nlm.nih.gov/41057909/
+  kind: paper
+en:
+  title: EpiSwitch® 3D genomic test validated in retrospective severe cohort
+  plain_summary: A retrospective study of 47 severe ME/CFS patients and 61 healthy controls reported 92% sensitivity and 98% specificity for a 200-marker 3D DNA folding test (EpiSwitch). Because it was retrospective, tested only severe cases, and involved authors employed by the test's developer, independent prospective trials are still needed.
+  detail: In a peer-reviewed retrospective case-control study published in the *Journal of Translational Medicine*, researchers validated the EpiSwitch® 3D genomic test for ME/CFS. Using whole-genome 3D DNA screening of peripheral blood mononuclear cells from 47 severe ME/CFS patients and 61 healthy controls, the study developed a 200-marker chromosome conformation model. The diagnostic panel achieved 92 percent sensitivity and 98 percent specificity in an independent retrospective validation cohort. Pathway analysis linked these conformation markers to neuroinflammatory, tumor necrosis factor alpha (TNFα), and JAK/STAT signaling, and identified a potential responder subpopulation for Rituximab and glatiramer acetate based on IL-2 pathway conformations. However, the study is limited by its retrospective design, lack of validation in mild-to-moderate cohorts, and a potential commercial conflict of interest, as multiple co-authors are employees of the test's developer, Oxford BioDynamics plc.
+    Prospective clinical validation is still required before the assay can be deployed as a routine diagnostic tool.
+de:
+  title: EpiSwitch®-3D-Genomtest in retrospektiver Kohorte mit schwerem ME/CFS validiert
+  plain_summary: Eine rückblickende Studie mit 47 schwer an ME/CFS Erkrankten und 61 gesunden Kontrollen berichtete für einen 3D-DNA-Faltungstest (EpiSwitch) mit 200 Markern eine Sensitivität von 92 % und eine Spezifität von 98 %. Da die Studie retrospektiv war, nur schwere Verläufe prüfte und Angestellte des Testentwicklers beteiligt waren, stehen unabhängige prospektive Studien noch aus.
+  detail: In einer begutachteten retrospektiven Fall-Kontroll-Studie im *Journal of Translational Medicine* validierten Forschende den 3D-Genomtest EpiSwitch® für ME/CFS. Mithilfe eines genomweiten 3D-DNA-Screenings peripherer mononukleärer Blutzellen von 47 Patientinnen und Patienten mit schwerem ME/CFS sowie 61 gesunden Kontrollen entwickelte die Studie ein 200-Marker-Modell der Chromosomenkonformation. Das Diagnosepanel erreichte in einer unabhängigen retrospektiven Validierungskohorte 92 Prozent Sensitivität und 98 Prozent Spezifität. Signalweg-Analysen verknüpften diese Konformationsmarker mit Neuroinflammation sowie TNFα- und JAK/STAT-Signalen und grenzten anhand von IL-2-Signalweg-Konformationen eine mögliche Responder-Teilgruppe für Rituximab und Glatirameracetat ab. Eingeschränkt wird die Studie jedoch durch ihr retrospektives Design, die fehlende Prüfung bei leichten bis mittelschweren Verläufen sowie potenzielle kommerzielle Interessenkonflikte, da mehrere Koautorinnen und Koautoren
+    Beschäftigte des Testentwicklers Oxford BioDynamics plc sind. Eine prospektive klinische Validierung bleibt erforderlich, bevor der Test als Routineverfahren eingesetzt werden kann.

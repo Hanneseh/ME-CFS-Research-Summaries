@@ -1,0 +1,18 @@
+id: 2026-07-25_qualitative-study-reveals-coverage-gaps-in-patient-reported
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: PROM validation study 2026, Quality of Life Research
+  url: https://link.springer.com/article/10.1007/s11136-026-04340-7
+  kind: paper
+en:
+  title: Qualitative study reveals coverage gaps in patient-reported outcome measures for Long COVID
+  plain_summary: Interviews with Long COVID patients showed that common health questionnaires miss PEM crashes, delayed worsening, and cognitive ups and downs. Because standard surveys can overlook key symptoms, clinical trials using them may miss real changes.
+  detail: A qualitative study published in Quality of Life Research evaluated patient comprehension, cognitive validity, and item coverage across widely used patient-reported outcome measures (PROMs) in Long COVID research. Qualitative interviews with patients demonstrated that standard health questionnaires frequently fail to capture core post-viral features, specifically post-exertional symptom exacerbation, cognitive fluctuations, and post-exertional delay. Ambiguous item phrasing and inappropriate recall windows were shown to induce misinterpretation and measurement error. Psychometrically, these findings indicate that unvalidated PROMs risk underestimating treatment response or missing key clinical deterioration in clinical trials. The study focused on survey design and cognitive debriefing, without collecting physiological data or testing therapeutic interventions.
+de:
+  title: Qualitative Studie deckt Erfassungslücken in gängigen Patientenfragebögen bei Long COVID auf
+  plain_summary: Interviews mit Long-COVID-Betroffenen zeigten, dass übliche Gesundheitsfragebögen Belastungseinbrüche (PEM), verzögerte Verschlechterungen und kognitive Schwankungen oft nicht erfassen. Dadurch können klinische Studien, die sich auf solche Standardbögen stützen, echte Veränderungen übersehen.
+  detail: Eine in Quality of Life Research veröffentlichte qualitative Studie prüfte Verständlichkeit, kognitive Validität und Themenabdeckung verbreiteter patientenberichteter Messinstrumente (PROMs) in der Long-COVID-Forschung. Interviews mit Betroffenen zeigten, dass Standardfragebögen zentrale postvirale Merkmale häufig verfehlen – insbesondere Belastungseinbrüche nach Anstrengung, kognitive Schwankungen und zeitliche Verzögerung der PEM. Mehrdeutige Formulierungen und unpassende Rückblickzeiträume führten zu Missverständnissen und Messfehlern. Psychometrisch bedeutet dies, dass unvalidierte PROMs Therapieeffekte unterschätzen oder klinische Verschlechterungen in Studien übersehen können. Die Arbeit konzentrierte sich auf Fragebogendesign und kognitives Debriefing ohne physiologische Messungen oder Therapietests.

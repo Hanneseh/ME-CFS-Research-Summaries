@@ -1,0 +1,18 @@
+id: 2026-02-11_metabolic-review-links-spike-protein-induced-mitochondrial-damag
+date: '2026-02-11'
+date_display: '2026-02-11'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Gracidas et al. 2026, Hormone and Metabolic Research
+  url: https://doi.org/10.1055/a-2794-9646
+  kind: paper
+en:
+  title: Metabolic review links spike protein-induced mitochondrial damage to impaired energy pathways
+  plain_summary: A review suggested that SARS-CoV-2 spike protein damage to cell power plants (mitochondria) could impair fat burning and trigger early lactate buildup during exertion. It proposes diet and breathing ideas as hypotheses, but offers no clinical trial proof that they work in patients.
+  detail: A physiological review established a metabolic framework linking SARS-CoV-2 spike protein-induced mitochondrial damage to cellular energy failure in Long COVID. The authors synthesized evidence showing that spike protein exposure impairs fatty acid oxidation and shifts cells toward premature carbohydrate reliance. This metabolic shift leads to a severely decreased lactate threshold and "inverse fat adaptation," which may drive post-exertional malaise. The review identifies metabolic interventions, such as ketogenic diets and strategies to increase carbon dioxide levels (the Bohr effect), as potential therapeutic options. However, these proposed metabolic axes are based on theoretical models and exercise analogies rather than direct clinical trials. The study does not prove that dietary or respiratory interventions can successfully restore mitochondrial function or resolve symptoms in patients.
+de:
+  title: Stoffwechsel-Übersichtsarbeit verknüpft Spike-Protein-bedingte Mitochondrienschäden mit gestörten Energiepfaden
+  plain_summary: Eine Übersichtsarbeit entwirft ein Modell, wonach Schäden an Zellkraftwerken (Mitochondrien) durch das Spike-Protein die Fettverbrennung blockieren und bei Belastung rasch zu Laktatanstieg und PEM führen könnten. Die daraus abgeleiteten Ernährungs- oder Atemstrategien sind jedoch rein theoretisch und nicht in klinischen Studien geprüft.
+  detail: Eine physiologische Übersichtsarbeit entwickelte ein Stoffwechselmodell, das eine durch das SARS-CoV-2-Spike-Protein ausgelöste Schädigung der Mitochondrien mit zellulärer Energieknappheit bei Long COVID verknüpft. Die Autorinnen und Autoren bündelten Hinweise, dass Kontakt mit dem Spike-Protein die Fettsäureoxidation hemmt und Zellen vorzeitig in die Kohlenhydratverbrennung drängt – was die Laktatschwelle stark absenkt und über eine „inverse Fettadaption“ Post-Exertional Malaise begünstigen könnte. Als potenzielle Ansatzpunkte diskutiert die Arbeit metabolische Maßnahmen wie ketogene Ernährung oder Strategien zur Erhöhung des Kohlendioxidspiegels (Bohr-Effekt). Diese Überlegungen stützen sich jedoch auf theoretische Modelle und Analogien aus der Leistungsphysiologie statt auf direkte klinische Studien und belegen nicht, dass Ernährungs- oder Ateminterventionen Mitochondrien oder Symptome bei Betroffenen bessern.

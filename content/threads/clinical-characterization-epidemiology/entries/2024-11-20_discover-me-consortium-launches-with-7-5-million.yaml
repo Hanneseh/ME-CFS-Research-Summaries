@@ -1,0 +1,20 @@
+id: 2024-11-20_discover-me-consortium-launches-with-7-5-million
+date: '2024-11-20'
+date_display: '2024-11-20'
+date_precision: exact
+source_type: announcement
+study_design: null
+sources:
+- label: DISCOVER-ME consortium, CORDIS EU project page
+  url: https://cordis.europa.eu/search?q=DISCOVER-ME
+  kind: other
+en:
+  title: DISCOVER-ME consortium launches with €7.5 million EU Horizon Europe funding
+  plain_summary: The EU launched a €7.5 million research consortium across 21 partners to search for distinct biological subgroups of ME/CFS using blood, metabolism, genetic, and gut data. This is a major infrastructure step, though it is still at the start and has not reported biological results yet.
+  detail: The DISCOVER-ME project was announced as the first major EU-funded initiative specifically targeting biological stratification of ME/CFS patients, bringing together 21 international partners across Europe and North America. Using high-throughput multi-omics approaches—including genomics, proteomics, metabolomics, and microbiome analysis—the consortium aims to identify distinct molecular patient subgroups that differ in disease mechanisms and potentially in treatment response. The project draws on existing biobanks and harmonized clinical data to build a large enough cohort to find consistent biological signals within a heterogeneous patient population. No stratification findings have been reported yet; the first outputs expected are standardized biobanking protocols and a map of the most informative molecular markers for classification. Success depends heavily on rigorous data harmonization across multiple sites and on pre-stratifying samples by disease severity and PEM status
+    to reduce biological noise.
+de:
+  title: Konsortium DISCOVER-ME startet mit 7,5 Millionen Euro EU-Förderung aus Horizon Europe
+  plain_summary: Die EU hat ein mit 7,5 Millionen Euro gefördertes Konsortium mit 21 Partnern gestartet, um mithilfe von Blut-, Stoffwechsel-, Gen- und Darmdaten biologische Untergruppen von ME/CFS zu finden. Das ist ein wichtiger Schritt für bessere Forschungsstrukturen, liefert aber noch keine Ergebnisse.
+  detail: Das Projekt DISCOVER-ME wurde als erste große EU-geförderte Initiative angekündigt, die gezielt auf eine biologische Stratifizierung von ME/CFS-Betroffenen abzielt und 21 internationale Partner aus Europa und Nordamerika zusammenbringt. Mit Hochdurchsatz-Multi-Omics-Verfahren – darunter Genomik, Proteomik, Metabolomik und Mikrobiom-Analysen – will das Konsortium abgrenzbare molekulare Patientengruppen identifizieren, die sich in Krankheitsmechanismen und möglicherweise im Therapieansprechen unterscheiden. Das Projekt greift auf bestehende Biobanken und harmonisierte klinische Daten zurück, um eine ausreichend große Kohorte für belastbare biologische Signale in einer heterogenen Patientenpopulation aufzubauen. Ergebnisse zur Subgruppenbildung liegen noch nicht vor; als erste Resultate werden standardisierte Biobank-Protokolle und eine Übersicht der aussagekräftigsten molekularen Klassifikationsmarker erwartet. Der Erfolg hängt maßgeblich von einer konsequenten standortübergreifenden
+    Datenharmonisierung sowie einer Vorab-Stratifizierung der Proben nach Schweregrad und PEM-Status ab, um biologisches Rauschen zu verringern.

@@ -1,0 +1,26 @@
+id: 2026-07-22_review-maps-low-dose-radiation-bystander-mechanisms-to
+date: '2026-07-22'
+date_display: '2026-07-22'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Rusin et al. 2026, International Journal of Molecular Sciences
+  url: https://pubmed.ncbi.nlm.nih.gov/42511874/
+  kind: paper
+en:
+  title: Review maps low-dose radiation bystander mechanisms to metabolic and immune cascades
+  plain_summary: A theoretical review compares ME/CFS cell stress to radiation bystander signals, highlighting CD38-driven NAD+ depletion as a candidate target. This is a conceptual model with no new human trials or experimental proof in ME/CFS.
+  detail: '- **What changed:** A narrative review in the *International Journal of Molecular Sciences* analyzed conceptual parallels between low-dose ionizing radiation (LDIR) exposure, radiation-induced bystander effects (RIBEs), and ME/CFS pathobiology. The authors proposed an exploratory signaling model where bystander cascades trigger CD38 upregulation (causing NAD+ depletion), mitochondrial respiratory failure, altered ornithine transport (SLC25A15), and alpha-synuclein-mediated neuroinflammatory DAMP release.
+
+    - **Why it matters:** This model connects environmental and radiation-like cell stress signals to known bioenergetic failure pathways, highlighting CD38-mediated NAD+ depletion and mitochondrial respiration as potential targets for therapeutic intervention, such as NAD+ precursors or anti-CD38 targeted therapies.
+
+    - **What it does not prove yet:** The framework is a theoretical synthesis derived from in vitro radiation models and exosome profiling rather than direct experimental proof or clinical trial data in human ME/CFS cohorts.'
+de:
+  title: Übersichtsarbeit überträgt Bystander-Mechanismen niedriger Strahlendosen auf Stoffwechsel- und Immunkaskaden
+  plain_summary: Eine theoretische Übersichtsarbeit vergleicht zellulären Stress bei ME/CFS mit Strahlungs-Bystander-Signalen und benennt CD38-vermittelten NAD+-Verlust als möglichen Ansatzpunkt. Es handelt sich um ein reines Konzeptmodell ohne neue Humanstudien.
+  detail: '- **Was sich gezeigt hat:** Eine narrative Übersichtsarbeit im *International Journal of Molecular Sciences* untersuchte konzeptionelle Parallelen zwischen niedrigdosierter ionisierender Strahlung (LDIR), strahleninduzierten Bystander-Effekten (RIBEs) und der Pathobiologie von ME/CFS. Die Autorinnen und Autoren entwarfen ein exploratives Signalmodell, bei dem Bystander-Kaskaden eine CD38-Hochregulierung (mit NAD+-Abbau), ein Versagen der Mitochondrienatmung, einen veränderten Ornithintransport (SLC25A15) und eine Alpha-Synuclein-vermittelte DAMP-Freisetzung auslösen.
+
+    - **Warum das wichtig ist:** Dieses Modell verbindet umwelt- und strahlenähnliche Zellstresssignale mit bekannten Wegen des bioenergetischen Versagens und rückt CD38-vermittelten NAD+-Verlust sowie die Mitochondrienatmung als mögliche Forschungsziele (etwa für NAD+-Vorstufen oder Anti-CD38-Ansätze) in den Fokus.
+
+    - **Was damit noch nicht belegt ist:** Das Rahmenmodell ist eine theoretische Synthese aus In-vitro-Strahlenmodellen und Exosomen-Analysen und liefert keine direkten experimentellen Beweise oder klinischen Studiendaten aus menschlichen ME/CFS-Kohorten.'

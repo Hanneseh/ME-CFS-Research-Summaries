@@ -1,0 +1,18 @@
+id: 2026-02-24_circulating-gpcr-autoantibodies-correlate-with-functional-vascul
+date: '2026-02-24'
+date_display: '2026-02-24'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Seibert et al. 2026, PLOS ONE
+  url: https://doi.org/10.1371/journal.pone.0343264
+  kind: paper
+en:
+  title: Circulating GPCR autoantibodies correlate with functional vascular dysregulation
+  plain_summary: In 134 people, GPCR autoantibodies were more common in post-COVID patients than controls and tracked with lower central blood pressure without visible vessel damage. Since this was a one-time snapshot, it cannot prove whether the antibodies cause the blood-vessel changes or are just a byproduct.
+  detail: A clinical study evaluating 80 Post-COVID patients and 54 controls found that 65% of patients tested positive for at least one GPCR autoantibody compared to 22.2% of controls. Higher titers of these autoantibodies, particularly against the endothelin receptor, correlated with lower central blood pressure and altered flow-mediated dilation. Nailfold capillary microscopy showed no structural damage to small blood vessels, suggesting that vascular symptoms are driven by functional, antibody-mediated receptor modulation rather than permanent tissue damage. This supports treating vascular symptoms with functional autonomic and immunomodulatory interventions. However, the cross-sectional design cannot determine if the autoantibodies are the direct cause of the blood pressure changes or a secondary marker of immune activation.
+de:
+  title: Zirkulierende GPCR-Autoantikörper korrelieren mit funktioneller Gefäßfehlregulation
+  plain_summary: Bei 134 Teilnehmenden traten GPCR-Autoantikörper bei Post-COVID-Betroffenen häufiger auf als bei Kontrollen und hingen mit niedrigerem zentralen Blutdruck zusammen, ohne dass sichtbare Gefäßschäden vorlagen. Da es sich um eine Momentaufnahme handelt, bleibt offen, ob die Antikörper die Gefäßveränderung auslösen oder nur eine Begleiterscheinung sind.
+  detail: Eine klinische Studie mit 80 Post-COVID-Patientinnen und -Patienten sowie 54 Kontrollen ergab, dass 65 % der Betroffenen positiv auf mindestens einen GPCR-Autoantikörper getestet wurden, verglichen mit 22,2 % der Kontrollen. Höhere Titer dieser Autoantikörper – insbesondere gegen den Endothelin-Rezeptor – korrelierten mit einem niedrigeren zentralen Blutdruck und einer veränderten flussvermittelten Dilatation. Die Nagelfalz-Kapillarmikroskopie zeigte keine strukturellen Schäden an kleinen Blutgefäßen, was darauf hindeutet, dass Gefäßsymptome eher durch eine funktionelle, antikörpervermittelte Rezeptormodulation als durch dauerhafte Gewebeschäden angetrieben werden. Dies spricht dafür, vaskuläre Symptome mit funktionellen autonomen und immunmodulatorischen Ansätzen weiter zu untersuchen. Allerdings kann das Querschnittsdesign nicht klären, ob die Autoantikörper die direkte Ursache der Blutdruckveränderungen oder ein sekundärer Marker der Immunaktivierung sind.

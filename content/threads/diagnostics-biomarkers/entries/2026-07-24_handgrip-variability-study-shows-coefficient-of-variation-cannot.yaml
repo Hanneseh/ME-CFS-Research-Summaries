@@ -1,0 +1,20 @@
+id: 2026-07-24_handgrip-variability-study-shows-coefficient-of-variation-cannot
+date: '2026-07-24'
+date_display: '2026-07-24'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Steinkirchner et al. 2026, medRxiv
+  url: https://doi.org/10.1101/2026.07.22.26358672
+  kind: preprint
+en:
+  title: Handgrip variability study shows coefficient of variation cannot separate ME/CFS fatigability from submaximal effort
+  plain_summary: A preprint across 211 ME/CFS patients and 170 controls showed that standard variability metrics on grip-strength tests cannot tell genuine muscle fatigability apart from people holding back effort, warning against false claims of poor effort in disability exams. They propose a fatigue-curve metric instead, which is still a preprint and not yet standard practice.
+  detail: In an observational modeling preprint on medRxiv, Steinkirchner et al. evaluated repeated handgrip strength (HGS) test variability across three multicenter cohorts comprising 211 ME/CFS patients and 170 controls. Standard repeated dynamometry protocols frequently employ the coefficient of variation (CV) as an effort-validity marker, historically misclassifying high trial-to-trial variability as poor motivation or deliberate submaximal effort. The authors demonstrate that CV distributions overlap substantially between ME/CFS patients exerting full effort and healthy controls instructed to exert only 50 percent force, showing that CV cannot reliably differentiate pathophysiological neuromuscular fatigability from voluntary submaximal force. To address this, the researchers propose a trajectory-aware sum-of-residuals metric that models fatigue decay curves to prevent false accusations of poor effort in clinical and disability assessments. As a preprint, these findings have not completed
+    peer review, and the proposed metric remains an experimental methodological framework rather than established medicolegal practice. Additionally, the study focused solely on upper-extremity isometric dynamometry without intramuscular metabolic or electromyographic measurements, and repeated clinic testing underrepresents severe and bedbound patients while carrying risk of localized post-exertional strain.
+de:
+  title: Studie zur Handkraft-Variabilität zeigt, dass der Variationskoeffizient ME/CFS-Ermüdbarkeit nicht von submaximalem Einsatz trennen kann
+  plain_summary: Ein Preprint mit 211 ME/CFS-Betroffenen und 170 Kontrollen zeigte, dass herkömmliche Schwankungsmaße bei Krafttests echte Muskelermüdbarkeit nicht von geringerem Krafteinsatz unterscheiden können – was Fehlurteile in Gutachten begünstigt. Stattdessen schlagen die Forschenden ein neues Auswertungsmaß für den Kraftabfall vor, das als Preprint aber noch nicht begutachtet oder etabliert ist.
+  detail: In einem Preprint zur Beobachtungsmodellierung auf medRxiv untersuchten Steinkirchner et al. die Messvariabilität bei wiederholten Handkrafttests (HGS) in drei multizentrischen Kohorten mit 211 ME/CFS-Patientinnen und -Patienten sowie 170 Kontrollpersonen. Gängige Dynamometrie-Protokolle nutzen häufig den Variationskoeffizienten (CV) als Kriterium für die Anstrengungs-Validität und stuften hohe Schwankungen zwischen Einzelmessungen historisch oft fälschlich als mangelnde Motivation oder absichtlich geringen Einsatz ein. Die Autorinnen und Autoren zeigen, dass sich die CV-Verteilungen zwischen maximal anstrengenden ME/CFS-Betroffenen und gesunden Kontrollen, die instruiert wurden, nur 50 Prozent Kraft einzusetzen, stark überschneiden – der CV also pathophysiologische neuromuskuläre Ermüdbarkeit nicht verlässlich von freiwillig submaximaler Kraft unterscheiden kann. Um Fehlvorwürfe in klinischen und sozialmedizinischen Begutachtungen zu vermeiden, schlagen sie eine verlaufsbezogene
+    Summe-der-Residuen-Metrik zur Modellierung von Ermüdungskurven vor. Als Preprint steht die Begutachtung noch aus; zudem beschränkte sich die Studie auf isometrische Handkraftmessungen ohne Stoffwechsel- oder EMG-Daten, und wiederholte Kliniktests schließen schwer Erkrankte sowie Bettlägerige aus und bergen das Risiko lokaler Überlastung.

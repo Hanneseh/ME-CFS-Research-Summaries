@@ -1,0 +1,19 @@
+id: 2025-12-23_beat-to-beat-autonomic-classifier-reaches-89-accuracy
+date: '2025-12-23'
+date_display: '2025-12-23'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Kujawski et al. 2025, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-025-07433-y
+  kind: paper
+en:
+  title: Beat-to-beat autonomic classifier reaches 89% accuracy without a blood test
+  plain_summary: A non-invasive test measuring beat-to-beat heart rate, blood pressure, and blood flow distinguished 112 ME/CFS patients from 61 healthy controls with 89% accuracy, without needing a blood draw. Larger and more diverse validation studies are needed before this can become a routine diagnostic tool.
+  detail: A prospective case-control study from Nicolaus Copernicus University and the University of Oxford enrolled 112 ME/CFS patients and 61 healthy controls and recorded high-frequency beat-to-beat heart rate, blood pressure, and stroke volume using a Task Force Monitor. A sequential machine-learning pipeline combining a Transformer model with XGBoost classified participants at 89 percent subject-level accuracy. ME/CFS patients showed reduced cardiac vagal tone, higher sympathetic vascular tone, and lower stroke volume compared to controls, confirming autonomic dysfunction as a measurable core feature. The approach is non-invasive and does not require specialized laboratory infrastructure, which matters for clinical scalability. Validation in larger and more diverse cohorts is still needed before this could become a standardized diagnostic.
+de:
+  title: Schlag-für-Schlag-Klassifikator des autonomen Nervensystems erreicht 89 % Genauigkeit ohne Bluttest
+  plain_summary: Ein nicht-invasiver Test, der Herzschlag für Herzschlag Puls, Blutdruck und Blutfluss misst, unterschied 112 ME/CFS-Betroffene mit 89 % Genauigkeit von 61 gesunden Kontrollen – ganz ohne Blutabnahme. Vor einem Einsatz als Standarddiagnostik muss das Verfahren jedoch noch in größeren und vielfältigeren Gruppen bestätigt werden.
+  detail: Eine prospektive Fall-Kontroll-Studie der Nikolaus-Kopernikus-Universität und der University of Oxford schloss 112 ME/CFS-Patientinnen und -Patienten sowie 61 gesunde Kontrollen ein und zeichnete mithilfe eines Task Force Monitors hochfrequente Schlag-für-Schlag-Werte von Herzfrequenz, Blutdruck und Schlagvolumen auf. Eine sequenzielle Machine-Learning-Pipeline aus einem Transformer-Modell und XGBoost klassifizierte die Teilnehmenden auf Personenebene mit 89 Prozent Genauigkeit. ME/CFS-Betroffene zeigten im Vergleich zu Kontrollen einen verringerten kardialen Vagotonus, einen höheren sympathischen Gefäßtonus und ein geringeres Schlagvolumen, was autonome Dysfunktion als messbares Kernmerkmal bestätigt. Der Ansatz ist nicht-invasiv und benötigt keine spezielle Laborinfrastruktur, was für eine breite klinische Skalierbarkeit wichtig ist. Dennoch ist eine Validierung in größeren und vielfältigeren Kohorten erforderlich, bevor sich daraus eine standardisierte Diagnostik entwickeln
+    lässt.

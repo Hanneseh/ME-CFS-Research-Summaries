@@ -1,0 +1,19 @@
+id: 2025-11-20_review-proposes-mucosal-tissues-as-overlooked-viral-reservoirs
+date: '2025-11-20'
+date_display: '2025-11-20'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Perera et al. 2025, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms262211161
+  kind: paper
+en:
+  title: Review proposes mucosal tissues as overlooked viral reservoirs in ME/CFS
+  plain_summary: This review pulls together evidence that dormant viruses such as EBV and HHV-6 can show up in saliva or gut tissue even when blood tests miss them. It suggests researchers may need to look beyond blood samples, though it does not prove these hidden viral traces cause symptoms.
+  detail: A narrative review by Perera et al. synthesised evidence on viral detection across tissue compartments in ME/CFS, arguing that the documented inconsistency of blood-based viral findings reflects a methodological sampling bias rather than an absence of viral pathology. Saliva and gut biopsy data show herpesvirus (EBV, HHV-6) reactivation and human endogenous retrovirus (HERV) expression in mucosal tissue even when the same viruses are undetectable in paired peripheral blood, identifying the gastrointestinal and respiratory mucosae as probable long-term reservoirs maintaining chronic immune dysregulation. The review stops short of establishing a direct causal chain from mucosal viral persistence to specific symptoms, and the practical barrier of invasive gut biopsies remains a limiting factor in building larger evidence datasets—though the authors note that saliva and stool sampling offer less invasive alternatives.
+de:
+  title: Übersichtsarbeit schlägt Schleimhautgewebe als übersehene Virusreservoire bei ME/CFS vor
+  plain_summary: Diese Übersichtsarbeit trägt Hinweise darauf zusammen, dass Viren wie EBV oder HHV-6 im Speichel oder in der Darmschleimhaut nachweisbar sein können, selbst wenn Bluttests unauffällig bleiben. Sie legt nahe, dass die Forschung nicht nur im Blut suchen sollte, beweist aber noch nicht, dass diese Virusspuren direkt Beschwerden auslösen.
+  detail: Eine narrative Übersichtsarbeit von Perera et al. fasste Evidenz zum Virusnachweis in verschiedenen Gewebekompartimenten bei ME/CFS zusammen und argumentierte, dass die dokumentierte Uneinheitlichkeit blutbasierter Virusbefunde eher auf eine methodische Verzerrung bei der Probenahme als auf das Fehlen einer viralen Pathologie zurückzuführen ist. Daten aus Speichel und Darmbiopsien zeigen eine Reaktivierung von Herpesviren (EBV, HHV-6) sowie eine Expression humaner endogener Retroviren (HERV) im Schleimhautgewebe, selbst wenn dieselben Viren in gepaarten Proben aus dem peripheren Blut nicht nachweisbar sind – was die Magen-Darm- und Atemwegsschleimhäute als wahrscheinliche Langzeitreservoire für eine anhaltende Immundysregulation ausweist. Die Übersichtsarbeit belegt jedoch keine direkte Kausalkette von mukosaler Viruspersistenz zu bestimmten Symptomen, und die praktische Hürde invasiver Darmbiopsien begrenzt den Aufbau größerer Datensätze – wenngleich die Autorinnen und Autoren
+    anmerken, dass Speichel- und Stuhlproben weniger invasive Alternativen bieten.

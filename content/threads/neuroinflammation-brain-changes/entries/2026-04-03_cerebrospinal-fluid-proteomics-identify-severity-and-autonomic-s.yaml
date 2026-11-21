@@ -1,0 +1,18 @@
+id: 2026-04-03_cerebrospinal-fluid-proteomics-identify-severity-and-autonomic-s
+date: '2026-04-03'
+date_display: '2026-04-03'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Bragée et al. 2026, Scientific Reports
+  url: https://doi.org/10.1038/s41598-026-46965-1
+  kind: paper
+en:
+  title: Cerebrospinal fluid proteomics identify severity and autonomic sub-phenotypes
+  plain_summary: Analysis of spinal fluid from 31 patients found different protein patterns linked to POTS and overall illness severity. Because ethical rules prevented taking spinal fluid from healthy controls, it is unclear how specific these protein patterns are to ME/CFS.
+  detail: A proteomic study analyzing cerebrospinal fluid from 31 patients identified distinct protein signatures and biological pathways associated with clinical severity and the presence of postural orthostatic tachycardia syndrome (POTS). Patients with comorbid POTS showed significant enrichment in neutrophil degranulation and platelet activation pathways, alongside marked upregulation of synaptic growth protein GAP43. Severe cases exhibited enrichment of the complement cascade and insulin-like growth factor transport. Additionally, four specific protein ratios representing cellular stress and extracellular remodeling correlated significantly with clinician-defined disease severity. However, the study lacked a healthy control group due to ethical restrictions on lumbar punctures, limiting the specificity of these markers.
+de:
+  title: Liquor-Proteomik identifiziert Subphänotypen nach Schweregrad und autonomer Beteiligung
+  plain_summary: Eine Eiweißanalyse des Nervenwassers von 31 Patientinnen und Patienten fand unterschiedliche Proteinmuster im Zusammenhang mit POTS und der Krankheitsschwere. Da aus ethischen Gründen keine gesunden Kontrollpersonen punktiert wurden, bleibt die Spezifität dieser Muster für ME/CFS offen.
+  detail: Eine Proteomik-Studie, die den Liquor von 31 Patientinnen und Patienten analysierte, identifizierte spezifische Proteinsignaturen und biologische Signalwege, die mit dem klinischen Schweregrad und dem Vorliegen eines posturalen orthostatischen Tachykardiesyndroms (POTS) verknüpft sind. Betroffene mit komorbidem POTS zeigten eine signifikante Anreicherung von Signalwegen der Neutrophilen-Degranulation und Thrombozytenaktivierung sowie eine deutliche Hochregulierung des synaptischen Wachstumsproteins GAP43. Schwere Fälle wiesen eine Anreicherung der Komplementkaskade und des Transports insulinähnlicher Wachstumsfaktoren auf. Zudem korrelierten vier spezifische Proteinverhältnisse, die zellulären Stress und extrazellulären Umbau abbilden, signifikant mit dem ärztlich eingeschätzten Schweregrad der Erkrankung. Allerdings fehlte der Studie aufgrund ethischer Beschränkungen bei Lumbalpunktionen eine gesunde Kontrollgruppe, was die Spezifität dieser Marker begrenzt.

@@ -1,0 +1,26 @@
+id: 2026-05-04_framework-links-post-viral-fatigue-to-stress-erythropoiesis
+date: '2026-05-04'
+date_display: '2026-05-04'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Elahi 2026, Trends in Molecular Medicine
+  url: https://doi.org/10.1016/j.molmed.2026.04.006
+  kind: paper
+en:
+  title: Framework links post-viral fatigue to stress erythropoiesis and hormonal drops
+  plain_summary: A blood molecular framework links post-viral fatigue to immature red-blood-cell precursors and low cortisol and sex hormones that standard blood counts miss. The timeline of which comes first and whether hormone therapy helps remain untested.
+  detail: '- **What changed:** A molecular framework based on blood transcriptomics and metabolomics identified that post-viral fatigue is driven by an expansion of immunosuppressive CD71+ erythroid precursors ("stress erythropoiesis") and low cortisol and sex steroid levels.
+
+    - **Why it matters:** This shifts the paradigm to physiological recovery failure, explaining why standard hemoglobin tests miss stress erythropoiesis and pointing to hormone replacement as a targeted treatment direction.
+
+    - **What it does not prove yet:** The causal sequencing of stress erythropoiesis versus endocrine failure is not established, and hormone-based interventions require clinical trials.'
+de:
+  title: Erklärungsmodell verknüpft postvirale Fatigue mit Stress-Erythropoese und Hormonabfällen
+  plain_summary: Ein molekulares Modell auf Basis von Blutanalysen verbindet postvirale Fatigue mit unreifen roten Blutkörperchen und niedrigen Cortisol- sowie Sexualhormonspiegeln, die Routineblutbilder übersehen. Was Ursache und was Folge ist und ob Hormontherapie hilft, ist noch ungetestet.
+  detail: '- **Was sich gezeigt hat:** Ein auf Blut-Transkriptomik und -Metabolomik gestütztes Modell ordnet postvirale Fatigue einer Ausbreitung immunsuppressiver CD71+-Erythroid-Vorläuferzellen („Stress-Erythropoese“) sowie niedrigen Cortisol- und Sexualsteroidspiegeln zu.
+
+    - **Warum das wichtig ist:** Dies lenkt den Blick auf eine gestörte physiologische Erholung, erklärt, warum normale Hämoglobinwerte eine Stress-Erythropoese übersehen, und weist auf Hormonersatz als potenziellen Forschungsansatz hin.
+
+    - **Was damit noch nicht belegt ist:** Die zeitliche und ursächliche Abfolge zwischen Stress-Erythropoese und endokrinem Abfall ist nicht geklärt, und hormonbasierte Eingriffe erfordern klinische Studien.'

@@ -1,0 +1,18 @@
+id: 2026-02-27_discover-me-publishes-consortium-design-paper-detailing-multi
+date: '2026-02-27'
+date_display: '2026-02-27'
+date_precision: exact
+source_type: announcement
+study_design: null
+sources:
+- label: Carding et al. 2026, Horizon Europe consortium report
+  url: https://www.s4me.info/threads/eu-horizon-funding-prof-simon-carding-%E2%82%AC7-5-million.49054/
+  kind: report
+en:
+  title: DISCOVER-ME publishes consortium design paper detailing multi-omics stratification approach
+  plain_summary: The DISCOVER-ME consortium published its study blueprint explaining how 21 centers will group patients by severity and PEM before running molecular tests. It contains no biological results yet, but sets out how future trials plan to avoid mixing very different patient subgroups.
+  detail: 'A formal consortium paper describing the DISCOVER-ME project appeared in early 2026, providing methodological detail beyond the 2024 funding announcement. The paper describes how 21 international partners will integrate genomics, transcriptomics, and microbiome data across harmonized biobanks to identify molecular patient clusters. The explicit methodological challenge named is pre-stratifying participants by disease severity and PEM status to prevent heterogeneity from washing out subgroup signals. The paper frames stratification as the prerequisite for making ME/CFS trials efficient: without defined subgroups, a treatment effective in one patient cluster will appear to fail in a heterogeneous population. As a design paper, it does not report biological findings, but it represents the field''s sharpest statement of what the next infrastructure investment is trying to solve.'
+de:
+  title: DISCOVER-ME veröffentlicht Konsortiums-Designpapier zum Multi-Omics-Stratifizierungsansatz
+  plain_summary: Das Konsortium DISCOVER-ME hat seinen Studienplan veröffentlicht und dargelegt, wie 21 Zentren Patientinnen und Patienten vor molekularen Tests nach Schweregrad und PEM vorsortieren wollen. Biologische Ergebnisse enthält das Papier noch nicht, es beschreibt aber, wie künftige Studien gemischte Patientengruppen entflechten sollen.
+  detail: 'Anfang 2026 erschien ein formales Konsortiumspapier zum Projekt DISCOVER-ME, das über die Förderankündigung von 2024 hinaus methodische Details liefert. Es beschreibt, wie 21 internationale Partner Genomik-, Transkriptomik- und Mikrobiomdaten über harmonisierte Biobanken hinweg zusammenführen wollen, um molekulare Patientencluster zu identifizieren. Als ausdrückliche methodische Herausforderung wird genannt, Teilnehmende vorab nach Krankheitsschwere und PEM-Status zu stratifizieren, damit Heterogenität keine Subgruppensignale verwischt. Das Papier rahmt Stratifizierung als Voraussetzung für aussagekräftige ME/CFS-Studien: Ohne definierte Untergruppen wirkt eine Therapie, die in einem Cluster hilft, in einer gemischten Gesamtgruppe scheinbar wirkungslos. Als Designpapier berichtet es keine biologischen Befunde, formuliert aber besonders klar, welches Problem die nächste große Infrastrukturinvestition lösen soll.'

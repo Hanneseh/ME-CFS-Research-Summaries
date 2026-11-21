@@ -1,0 +1,19 @@
+id: 2026-06-03_nih-funded-recover-energize-trial-protocol-outlines-pem
+date: '2026-06-03'
+date_display: '2026-06-03'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Friedly et al. 2026, medRxiv
+  url: https://doi.org/10.1101/2026.06.02.26354455
+  kind: preprint
+en:
+  title: NIH-funded RECOVER-ENERGIZE trial protocol outlines PEM stratification for pacing and rehabilitation
+  plain_summary: The NIH-funded RECOVER-ENERGIZE Long COVID trial published its study design, screening participants for PEM so people with PEM get coached pacing instead of exercise rehabilitation. As a published trial plan, results on how well either approach works are not yet available.
+  detail: The clinical trial protocol for RECOVER-ENERGIZE, a major NIH-funded platform trial (NCT06404047), was published to evaluate interventions for exercise intolerance in Long COVID. The trial uses a screening version of the modified DePaul Symptom Questionnaire-Post-Exertional Malaise (mDSQ-PEM) to stratify participants and prevent exertional harm. Participants without significant PEM are randomized to a personalized, symptom-limited cardiopulmonary rehabilitation program (explicitly not graded exercise therapy) monitored closely by therapists. In contrast, participants who screen positive for significant PEM are directed to a structured activity pacing program led by pacing coaches and supported by Fitbit wearable activity trackers to prevent symptom flares. By prioritizing PEM screening, monitoring delayed symptoms, and establishing a strict protocol to discontinue exercise if PEM occurs, the trial design recognizes the potential hazards of physical exertion in post-viral cohorts.
+de:
+  title: NIH-finanziertes RECOVER-ENERGIZE-Studienprotokoll beschreibt PEM-Stratifizierung für Pacing und Rehabilitation
+  plain_summary: 'Die große US-Studie RECOVER-ENERGIZE zu Long COVID hat ihr Studienprotokoll veröffentlicht: Teilnehmende mit PEM erhalten dort gezieltes Pacing-Coaching statt Bewegungstraining. Da bislang nur der Studienplan vorliegt, stehen Ergebnisse zur Wirksamkeit der Strategien noch aus.'
+  detail: Das klinische Studienprotokoll für RECOVER-ENERGIZE, eine große NIH-finanzierte Plattformstudie (NCT06404047), wurde veröffentlicht, um Interventionen bei Belastungsintoleranz im Rahmen von Long COVID zu untersuchen. Die Studie nutzt eine Screening-Version des modifizierten DePaul Symptom Questionnaire–Post-Exertional Malaise (mDSQ-PEM), um Teilnehmende zu schichten und belastungsbedingte Schäden zu vermeiden. Teilnehmende ohne ausgeprägtes PEM werden einer personalisierten, symptomlimitierten kardiopulmonalen Rehabilitation zugewiesen (ausdrücklich keiner gestuften Aktivierungstherapie), die eng von Therapeutinnen und Therapeuten überwacht wird. Teilnehmende mit positivem PEM-Screening erhalten hingegen ein strukturiertes Aktivitäts-Pacing-Programm unter Anleitung von Pacing-Coaches und mit Fitbit-Trackern zur Vorbeugung von Schüben. Durch konsequentes PEM-Screening, Erfassung verzögerter Symptome und strikte Abbruchkriterien erkennt das Studiendesign die Gefahren körperlicher
+    Überlastung in postviralen Kohorten ausdrücklich an.

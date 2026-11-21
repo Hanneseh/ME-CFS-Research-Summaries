@@ -1,0 +1,20 @@
+id: 2026-08-24_uk-biobank-study-finds-resting-state-fmri-adds
+date: '2026-08-24'
+date_display: '2026-08-24'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Pereira et al. 2026, medRxiv
+  url: https://doi.org/10.64898/2026.08.21.26360925
+  kind: preprint
+en:
+  title: UK Biobank study finds resting-state fMRI adds little to broad fatigue classification
+  plain_summary: In 2,247 UK Biobank participants, resting-state brain MRI scans added almost nothing beyond basic clinical questions for telling chronic fatigue apart from no fatigue. Because the study used a broad single-question definition of fatigue rather than ME/CFS criteria with PEM, it tests resting MRI claims rather than disproving brain involvement in ME/CFS.
+  detail: Pereira and colleagues evaluated preregistered machine-learning models using clinical features and 3T resting-state fMRI functional/effective connectivity in 2,247 UK Biobank participants reporting chronic fatigue or not. Clinical variables alone reached 61.2% balanced accuracy, while adding connectivity produced 60.0–63.5%; frequent insomnia was the dominant feature and reached 57.3% alone, and the planned continuous Fatigue Severity Scale analysis was abandoned because only 91 participants had sufficient data. The broad single-question fatigue phenotype did not assess PEM, autonomic or cognitive crashes, or criteria-defined ME/CFS, and the imaging protocol systematically excluded severe and bedbound patients through travel and scanner requirements; no exertion challenge or treatment was studied. The result is a useful negative test of current resting-state fMRI biomarker claims, not evidence against neurobiological illness, and it points toward disease-specific cohorts and challenge-based
+    imaging; see [Neuroinflammation & Brain Changes](thread:neuroinflammation-brain-changes) and [Clinical Characterization & Epidemiology](thread:clinical-characterization-epidemiology).
+de:
+  title: UK-Biobank-Studie zeigt, dass Ruhe-fMRT wenig zur breiten Fatigue-Klassifikation beiträgt
+  plain_summary: Bei 2.247 Teilnehmenden der UK Biobank verbesserten Ruhe-MRT-Scans des Gehirns die Erkennung chronischer Fatigue gegenüber einfachen klinischen Angaben kaum. Da nur eine allgemeine Fatigue-Frage statt echter ME/CFS-Kriterien mit PEM verwendet wurde, prüft dies vor allem die Aussagekraft einfacher Ruhe-MRTs und spricht nicht gegen neurobiologische Ursachen bei ME/CFS.
+  detail: Pereira und Kolleginnen bewerteten präregistrierte Machine-Learning-Modelle auf Basis klinischer Merkmale sowie funktioneller und effektiver Konnektivität aus 3T-Ruhe-fMRT-Aufnahmen bei 2.247 Teilnehmenden der UK Biobank mit oder ohne berichtete chronische Fatigue. Klinische Variablen allein erreichten 61,2 % balancierte Genauigkeit, während das Hinzufügen von Konnektivitätsdaten 60,0–63,5 % ergab; häufige Schlaflosigkeit war das dominierende Einzelmerkmal und erreichte allein 57,3 %, während die geplante kontinuierliche Auswertung der Fatigue Severity Scale mangels ausreichender Daten (nur 91 Personen) abgebrochen wurde. Der breite, auf einer Einzelfrage beruhende Fatigue-Phänotyp erfasste weder PEM noch autonome oder kognitive Einbrüche noch kriterienbasiertes ME/CFS, und das MRT-Protokoll schloss durch Anfahrt und Scanneranforderungen systematisch schwer Betroffene und Bettlägerige aus; Belastungsprovokation oder Therapien wurden nicht untersucht. Das Ergebnis stellt einen nützlichen
+    negativen Test aktueller Biomarker-Ansprüche für einfache Ruhe-fMRTs dar – keinen Gegenbeleg zu neurobiologischen Krankheitsprozessen – und spricht für krankheitsspezifische Kohorten sowie belastungsgekoppelte Bildgebung; siehe auch [Neuroinflammation & Hirnveränderungen](thread:neuroinflammation-brain-changes) und [Klinische Charakterisierung & Epidemiologie](thread:clinical-characterization-epidemiology).

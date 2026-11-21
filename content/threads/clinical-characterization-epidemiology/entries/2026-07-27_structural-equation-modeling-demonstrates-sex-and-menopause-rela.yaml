@@ -1,0 +1,20 @@
+id: 2026-07-27_structural-equation-modeling-demonstrates-sex-and-menopause-rela
+date: '2026-07-27'
+date_display: '2026-07-27'
+date_precision: exact
+source_type: paper
+study_design: Cross-sectional study
+sources:
+- label: Symptom architecture study 2026, Journal of Translational Medicine
+  url: https://pubmed.ncbi.nlm.nih.gov/42522006/
+  kind: paper
+en:
+  title: Structural equation modeling demonstrates sex- and menopause-related variations in ME/CFS symptom architecture
+  plain_summary: A peer-reviewed study of 748 adults with ME/CFS confirmed distinct immune-versus-gut symptom patterns between women and men, with more flu-like symptoms before menopause. Because it used a one-time self-reported survey, hormone and immune lab testing over time is still needed.
+  detail: 'A cross-sectional study of 748 adults with ME/CFS published in the Journal of Translational Medicine applied factor analysis and structural equation modeling (SEM) to assess sex- and menopause-specific latent symptom structures. The analysis revealed distinct symptom architectures between sexes: female patients presented with two partially separable symptom factors (immune vs. gastrointestinal), whereas male patients exhibited a single integrated gut-immune factor. Furthermore, premenopausal women reported significantly higher flu-like symptom frequency than postmenopausal women, while gastrointestinal symptom severity remained stable across menopausal stages. Clinically, this evidence proves that biological sex and hormonal status dynamically shape ME/CFS symptom expression, underscoring the necessity of sex-stratified design in clinical trials. A key limitation is the cross-sectional, self-reported survey design, which requires prospective longitudinal validation alongside objective
+    endocrine and immunological biomarkers.'
+de:
+  title: Strukturgleichungsmodellierung belegt geschlechts- und menopauseabhängige Unterschiede in der ME/CFS-Symptomarchitektur
+  plain_summary: Eine begutachtete Studie mit 748 Erwachsenen mit ME/CFS bestätigte unterschiedliche Muster von Immun- und Darmbeschwerden bei Frauen und Männern sowie häufigere grippeähnliche Symptome vor der Menopause. Da eine einmalige Umfrage genutzt wurde, sind Längsschnittstudien mit Hormon- und Immunmessungen weiter nötig.
+  detail: 'Eine im Journal of Translational Medicine veröffentlichte Querschnittsstudie mit 748 Erwachsenen mit ME/CFS nutzte Faktorenanalysen und Strukturgleichungsmodellierung (SEM), um geschlechts- und menopausespezifische latente Symptomstrukturen zu prüfen. Es zeigten sich deutliche Unterschiede zwischen den Geschlechtern: Bei Frauen bildeten Immun- und Magen-Darm-Beschwerden zwei teilweise trennbare Faktoren, während bei Männern ein einziger integrierter Darm-Immun-Faktor vorlag. Zudem berichteten prämenopausale Frauen signifikant häufiger grippeähnliche Symptome als postmenopausale Frauen, während die Schwere von Magen-Darm-Beschwerden über die Menopausenstadien stabil blieb. Klinisch belegt dies, dass biologisches Geschlecht und Hormonstatus die Symptomausprägung dynamisch prägen – ein starkes Argument für geschlechtsstratifizierte Studiendesigns. Eingeschränkt wird die Arbeit durch das querschnittliche Selbstberichtsdesign, das eine prospektive Längsschnittprüfung mit objektiven
+    Hormon- und Immunmarkern erfordert.'

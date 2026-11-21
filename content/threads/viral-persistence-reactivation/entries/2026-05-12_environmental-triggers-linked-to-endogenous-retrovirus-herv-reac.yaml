@@ -1,0 +1,18 @@
+id: 2026-05-12_environmental-triggers-linked-to-endogenous-retrovirus-herv-reac
+date: '2026-05-12'
+date_display: '2026-05-12'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Perera et al. 2026, MDPI International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms27104309
+  kind: paper
+en:
+  title: Environmental triggers linked to endogenous retrovirus (HERV) reactivation in ME/CFS
+  plain_summary: A review examined evidence that viral or environmental stress can wake up ancient retrovirus sequences (HERVs) embedded in human DNA, possibly fueling chronic inflammation in ME/CFS. Most studies so far are small and varied in design, so it remains unproven whether HERVs actively drive illness or merely reflect wider immune changes.
+  detail: A comprehensive review mapped the reactivation of human endogenous retroviruses (HERVs) in the pathogenesis of ME/CFS. Evidence indicates that environmental triggers reactivate HERV subfamilies (particularly HERV-K and HERV-W), producing viral proteins that act as chronic antigens to drive neuroinflammation. The review highlighted studies showing elevated HERV-K protein in patient duodenal tissues and locus-specific profiling that reveals patient-specific "HERV fingerprints." This supports the development of objective diagnostic assays and clinical trials using HERV-targeting monoclonal antibodies like temelimab. However, the analyzed studies are limited by small cohort sizes and heterogeneous diagnostic criteria. It also remains unproven whether reactivated HERVs are direct drivers of the pathology or secondary consequences of broader epigenetic dysregulation.
+de:
+  title: Umweltauslöser mit der Reaktivierung endogener Retroviren (HERV) bei ME/CFS in Verbindung gebracht
+  plain_summary: Eine Übersichtsarbeit sichtet Hinweise darauf, dass Infektionen oder Umweltreize uralte Virussequenzen im menschlichen Erbgut (HERVs) aktivieren und so Entzündungen bei ME/CFS anheizen könnten. Da die bisherigen Studien klein und uneinheitlich waren, bleibt offen, ob HERVs die Krankheit aktiv antreiben oder bloß ein Begleitsymptom sind.
+  detail: Eine umfassende Übersichtsarbeit beleuchtete die Reaktivierung humaner endogener Retroviren (HERVs) bei der Entstehung von ME/CFS. Demnach können Umweltauslöser bestimmte HERV-Unterfamilien (vor allem HERV-K und HERV-W) reaktivieren, deren Proteine als chronische Antigene Neuroinflammation fördern könnten; die Arbeit verweist unter anderem auf erhöhte HERV-K-Proteine im Zwölffingerdarm-Gewebe sowie auf individuelle „HERV-Fingerabdrücke“. Das unterstützt Forschungsansätze hin zu objektiven Diagnosetests und Studien mit gegen HERV gerichteten monoklonalen Antikörpern wie Temelimab. Allerdings beruhen die ausgewerteten Studien auf kleinen Kohorten und uneinheitlichen Diagnosekriterien, sodass unbewiesen bleibt, ob reaktivierte HERVs ursächliche Treiber oder bloße Folge einer breiteren epigenetischen Fehlregulation sind.

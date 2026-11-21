@@ -1,0 +1,18 @@
+id: 2026-08-11_meta-analysis-estimates-37-pooled-ibs-prevalence-in
+date: '2026-08-11'
+date_display: '2026-08-11'
+date_precision: exact
+source_type: review
+study_design: Meta-analysis
+sources:
+- label: 'ME/CFS and IBS meta-analysis: Frontiers in Medicine'
+  url: https://doi.org/10.3389/fmed.2026.1881784
+  kind: paper
+en:
+  title: Meta-analysis estimates 37% pooled IBS prevalence in ME/CFS
+  plain_summary: A meta-analysis across 18 studies estimated that 37% of people with ME/CFS also have irritable bowel syndrome—about seven times the odds of non-fatigued controls. Because studies used different diagnostic criteria, it confirms a strong overlap without showing which comes first.
+  detail: 'A peer-reviewed systematic review and meta-analysis published in *Frontiers in Medicine* evaluated the comorbidity between ME/CFS and irritable bowel syndrome across 22 studies, including 18 in quantitative synthesis. The meta-analysis established a significant 7.20-fold increased odds of IBS in patients with ME/CFS compared to non-fatigued controls (OR 7.20, 95% CI: 2.77–18.76). The pooled prevalence of IBS across ME/CFS cohorts was estimated at 37% (95% CI: 23%–54%), confirming gastrointestinal disturbance as a major co-occurring clinical feature. However, substantial statistical heterogeneity was observed across included studies due to disparate ME/CFS case criteria and evolving Rome diagnostic definitions for IBS. The analysis relies on observational data that cannot establish whether gut dysfunction precedes, accompanies, or arises secondary to ME/CFS, and severe or bedbound patients were not systematically differentiated in the underlying literature.'
+de:
+  title: Metaanalyse schätzt gepoolte Prävalenz des Reizdarmsyndroms bei ME/CFS auf 37 %
+  plain_summary: Eine Metaanalyse über 18 Studien schätzte, dass 37 % der Menschen mit ME/CFS zugleich ein Reizdarmsyndrom haben – etwa siebenmal häufiger als Vergleichspersonen ohne Fatigue. Da die Einzelstudien verschiedene Diagnosekriterien nutzten, belegt dies eine deutliche Überschneidung, aber keine zeitliche oder ursächliche Richtung.
+  detail: 'Eine in Frontiers in Medicine veröffentlichte systematische Übersichtsarbeit mit Metaanalyse untersuchte die Komorbidität von ME/CFS und Reizdarmsyndrom (IBS) über 22 Studien hinweg, davon 18 in der quantitativen Synthese. Im Vergleich zu nicht erschöpften Kontrollpersonen zeigte sich bei ME/CFS ein signifikant um den Faktor 7,20 erhöhtes Chancenverhältnis für IBS (OR 7,20; 95-%-KI: 2,77–18,76). Die gepoolte IBS-Prävalenz in ME/CFS-Kohorten lag bei 37 % (95-%-KI: 23 %–54 %) und bestätigt Magen-Darm-Störungen als häufiges Begleitmerkmal. Allerdings bestand erhebliche statistische Heterogenität infolge unterschiedlicher ME/CFS-Kriterien und wechselnder Rom-Definitionen für IBS. Die zugrunde liegenden Beobachtungsdaten erlauben keinen Schluss, ob Darmstörungen dem ME/CFS vorausgehen, es begleiten oder daraus entstehen, und schwer Betroffene oder Bettlägerige wurden nicht systematisch getrennt ausgewertet.'

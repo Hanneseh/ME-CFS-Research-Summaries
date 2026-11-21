@@ -1,0 +1,20 @@
+id: 2025-11-28_metabolite-gwas-links-genetic-variants-in-hsd11b1-and
+date: '2025-11-28'
+date_display: '2025-11-28'
+date_precision: exact
+source_type: paper
+study_design: GWAS
+sources:
+- label: Huang et al. 2025, iScience
+  url: https://doi.org/10.1016/j.isci.2025.114316
+  kind: paper
+en:
+  title: Metabolite GWAS links genetic variants in HSD11B1 and SCGN to metabolic perturbations
+  plain_summary: A genetic-metabolic study using UK Biobank data found gene variants tied to cortisol processing and fatty acids that behaved differently in people with ME/CFS than in controls. Because the diagnoses were self-reported and patients took more medications, these clues still need confirmation in more rigorously diagnosed groups.
+  detail: A metabolite genome-wide association study (mGWAS) compared 875 ME/CFS patients with 36,033 controls from the UK Biobank, testing 135 NMR-measured metabolic biomarkers including lipoproteins, fatty acids, and low-molecular-weight metabolites. The study identified 112 significant genetic-metabolic associations unique to the ME/CFS group, with variants in HSD11B1—a gene encoding an enzyme central to cortisol regeneration in peripheral tissues—associated with changes in VLDL phospholipids, and variants in SCGN affecting total fatty acid levels. Additional immune-related genes (ADAP1, NR1H3, CD40) showed differential genetic effects on metabolic pathways between patients and controls, suggesting combined disruption of lipid metabolism, inflammation, and neurotransmitter transport. The study's primary limitation is its reliance on UK Biobank self-reported diagnoses, which may include misdiagnosed individuals, and the patient group had higher rates of medication use that could confound
+    metabolic readings.
+de:
+  title: Metaboliten-GWAS verknüpft Genvarianten in HSD11B1 und SCGN mit Stoffwechselveränderungen
+  plain_summary: Eine kombinierte Gen- und Stoffwechselstudie aus der UK Biobank fand Genvarianten rund um Cortisol-Stoffwechsel und Fettsäuren, die bei ME/CFS-Betroffenen andere Blutwerte zeigten als bei Kontrollen. Da die Diagnosen auf Selbstauskünften beruhten und Patientinnen und Patienten häufiger Medikamente einnahmen, müssen diese Hinweise erst in strenger definierten Gruppen geprüft werden.
+  detail: 'Eine Metaboliten-GWAS (mGWAS) verglich 875 ME/CFS-Betroffene mit 36.033 Kontrollpersonen aus der UK Biobank und prüfte 135 per NMR gemessene Stoffwechselmarker, darunter Lipoproteine, Fettsäuren und niedermolekulare Metaboliten. Die Studie fand 112 signifikante Gen-Stoffwechsel-Verknüpfungen, die nur in der ME/CFS-Gruppe auftraten: Varianten in HSD11B1 – einem Gen für ein zentrales Enzym der Cortisol-Regeneration in peripheren Geweben – hingen mit Veränderungen bei VLDL-Phospholipiden zusammen, während Varianten in SCGN den Gesamtfettsäurespiegel beeinflussten. Weitere immunbezogene Gene (ADAP1, NR1H3, CD40) zeigten zwischen Erkrankten und Kontrollen unterschiedliche genetische Effekte auf Stoffwechselwege, was auf eine kombinierte Störung von Fettstoffwechsel, Entzündung und Neurotransmitter-Transport hindeutet. Die wesentliche Einschränkung besteht darin, dass die Studie auf Selbstauskünften in der UK Biobank beruht, was Fehldiagnosen einschließen kann; zudem nahm die Patientengruppe
+    häufiger Medikamente ein, die Stoffwechselwerte verzerren können.'

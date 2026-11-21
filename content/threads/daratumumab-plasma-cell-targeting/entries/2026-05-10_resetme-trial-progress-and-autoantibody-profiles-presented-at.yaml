@@ -1,0 +1,22 @@
+id: 2026-05-10_resetme-trial-progress-and-autoantibody-profiles-presented-at
+date: '2026-05-10'
+date_display: '2026-05-10'
+date_precision: exact
+source_type: conference
+study_design: RCT
+sources:
+- label: Fluge et al. 2026, ME/CFS Research Foundation Conference 2026
+  url: https://events.mecfs-research.org/en/events/conference_2026/agenda
+  kind: conference
+- label: Scheibenbogen conference recap video, approx. 04:57-05:57
+  url: https://youtu.be/Ql3zgCvjExc?t=297
+  kind: video
+en:
+  title: ResetME trial progress and autoantibody profiles presented at conference
+  plain_summary: A conference update reported that the ResetME trial has enrolled 38 of 66 planned participants and that responders in the earlier pilot showed drops in autoantibodies. Because the trial is still blinded and one serious hospitalization for symptom worsening was reported, efficacy and overall safety remain open questions.
+  detail: 'At the ME/CFS Research Foundation Conference 2026, presenter Øystein Fluge provided an update titled ''ResetME: A Randomized, Placebo-controlled Study of Daratumumab in ME/CFS'', reporting that the ongoing trial has enrolled 38 of its target 66 participants, with 17 completing the initial 8-week follow-up, and shared pilot follow-up data showing larger decreases in autoantibody profiles (autoreactome) among clinical responders. This progress provides early evidence of trial execution and additional mechanistic support for the plasma-cell depletion hypothesis by correlating clinical improvement with reduction in autoantibodies, while also highlighting the necessity of close clinical supervision due to a reported serious adverse event involving a brief hospitalization for symptom worsening. Because the trial remains blinded, these updates do not establish the clinical efficacy or final safety profile of daratumumab in the randomized cohort.'
+de:
+  title: Zwischenstand der ResetME-Studie und Autoantikörper-Profile auf Konferenz präsentiert
+  plain_summary: Ein Konferenzbericht zeigte, dass die ResetME-Studie bereits 38 der 66 geplanten Teilnehmenden aufgenommen hat und Responder der früheren Pilotstudie sinkende Autoantikörper aufwiesen. Da die Studie noch verblindet läuft und eine ernste Krankenhausaufnahme wegen Symptomverschlechterung gemeldet wurde, bleiben Wirksamkeit und Gesamtsicherheit weiterhin offen.
+  detail: 'Auf der Konferenz der ME/CFS Research Foundation 2026 gab Øystein Fluge unter dem Titel „ResetME: A Randomized, Placebo-controlled Study of Daratumumab in ME/CFS“ ein Update und berichtete, dass die laufende Studie 38 der geplanten 66 Teilnehmenden eingeschlossen hat, wovon 17 die erste achtwöchige Nachbeobachtung abgeschlossen haben; zudem zeigte er Nachverfolgungsdaten aus der Pilotstudie, wonach klinische Responder einen stärkeren Rückgang der Autoantikörper-Profile (Autoreaktom) aufwiesen. Dieser Fortschritt liefert frühe Belege für die erfolgreiche Durchführung der Studie sowie zusätzliche mechanistische Unterstützung für die Plasmazell-Depletionshypothese, indem die klinische Besserung mit einem Rückgang von Autoantikörpern einhergeht; zugleich unterstreicht ein gemeldetes schwerwiegendes unerwünschtes Ereignis mit kurzer Krankenhausaufnahme wegen Symptomverschlechterung die Notwendigkeit enger ärztlicher Überwachung. Da die Studie weiterhin verblindet ist, belegen diese
+    Zwischenberichte weder die klinische Wirksamkeit noch das endgültige Sicherheitsprofil von Daratumumab in der randomisierten Kohorte.'

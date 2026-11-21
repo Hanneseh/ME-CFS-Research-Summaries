@@ -1,0 +1,49 @@
+---
+import { t } from "../lib/i18n";
+import type { Lang } from "../lib/types";
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const s = t(lang);
+---
+
+<dialog id="search-dialog" class="search-dialog" aria-label={s.search}>
+  <div class="search-dialog-inner">
+    <div class="search-field">
+      <svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"
+        ><circle cx="8.75" cy="8.75" r="5.75" fill="none" stroke="currentColor" stroke-width="1.7"></circle><path
+          d="m13.25 13.25 4 4"
+          stroke="currentColor"
+          stroke-width="1.7"
+          stroke-linecap="round"></path></svg
+      >
+      <input
+        id="search-dialog-input"
+        type="search"
+        data-lang={lang}
+        placeholder={s.searchPlaceholder}
+        aria-label={s.search}
+        role="combobox"
+        aria-controls="search-dialog-results"
+        aria-expanded="false"
+        aria-autocomplete="list"
+        autocomplete="off"
+        spellcheck="false"
+      />
+      <button type="button" class="text-btn" data-search-close>{s.searchClose}</button>
+    </div>
+    <div
+      id="search-dialog-results"
+      class="search-results"
+      data-hint={s.searchHint}
+      data-empty={s.searchEmpty}
+      data-loading={s.searchLoading}
+      data-thread-label={s.searchThread}
+      data-entry-label={s.searchEntry}
+      aria-live="polite"
+    >
+    </div>
+  </div>
+</dialog>

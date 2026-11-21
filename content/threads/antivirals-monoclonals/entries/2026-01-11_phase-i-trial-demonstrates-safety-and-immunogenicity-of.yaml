@@ -1,0 +1,19 @@
+id: 2026-01-11_phase-i-trial-demonstrates-safety-and-immunogenicity-of
+date: '2026-01-11'
+date_display: '2026-01-11'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Durkee-Shock et al. 2026, Open Forum Infectious Diseases
+  url: https://doi.org/10.1093/ofid/ofaf695.061
+  kind: paper
+en:
+  title: Phase I trial demonstrates safety and immunogenicity of nanoparticle EBV vaccine
+  plain_summary: An early-stage trial in 40 healthy adults found that an experimental Epstein-Barr virus (EBV) nanoparticle vaccine was well tolerated and triggered strong antibody responses lasting at least a year. Because the study was small and had no placebo group, it does not yet prove the vaccine can prevent EBV infection, mononucleosis, or ME/CFS.
+  detail: A first-in-human Phase I clinical trial evaluated a novel Epstein-Barr virus (EBV) gp350 ferritin nanoparticle vaccine adjuvanted with Matrix-M in 40 healthy adults. The vaccine was well-tolerated and elicited a 67-fold increase in neutralizing antibody titers in seronegative participants, reaching levels 3.2 times higher than those seen in natural infection and persisting for at least one year. Because EBV-induced infectious mononucleosis is a major post-viral trigger for ME/CFS, establishing a highly immunogenic vaccine represents a critical step toward primary prevention of post-EBV syndromes. The nanoparticle platform successfully mimics the viral surface, suggesting a viable path to overcome the limitations of historical vaccine candidates. However, the trial's small size and lack of a placebo control group mean it does not prove efficacy in preventing EBV infection, clinical mononucleosis, or subsequent chronic fatigue syndromes.
+de:
+  title: Phase-I-Studie zeigt Sicherheit und Immunogenität eines Nanopartikel-EBV-Impfstoffs
+  plain_summary: In einer frühen Studie mit 40 gesunden Erwachsenen erwies sich ein neuartiger Impfstoff gegen das Epstein-Barr-Virus (EBV) als gut verträglich und löste mindestens ein Jahr lang starke Antikörperantworten aus. Da die Studie klein war und keine Placebogruppe hatte, beweist sie noch nicht, ob der Impfstoff Infektionen, Pfeiffersches Drüsenfieber oder ME/CFS verhindern kann.
+  detail: Eine erste klinische Phase-I-Studie am Menschen prüfte einen neuartigen, mit Matrix-M adjuvantierten EBV-gp350-Ferritin-Nanopartikelimpfstoff an 40 gesunden Erwachsenen. Der Impfstoff wurde gut vertragen und löste bei seronegativen Teilnehmenden einen 67-fachen Anstieg neutralisierender Antikörpertiter aus, die 3,2-mal höher lagen als nach einer natürlichen Infektion und mindestens ein Jahr anhielten. Da eine EBV-ausgelöste infektiöse Mononukleose ein wesentlicher postviraler Auslöser für ME/CFS ist, stellt ein stark immunogener Impfstoff einen wichtigen Schritt zur Primärprävention post-EBV-bedingter Syndrome dar. Die Nanopartikel-Plattform ahmt die Virusoberfläche erfolgreich nach und eröffnet einen vielversprechenden Weg, die Grenzen früherer Impfstoffkandidaten zu überwinden. Aufgrund der geringen Teilnehmerzahl und der fehlenden Placebokontrolle beweist die Studie jedoch noch keine Wirksamkeit zur Verhinderung von EBV-Infektionen, klinischer Mononukleose oder nachfolgenden
+    chronischen Erschöpfungssyndromen.

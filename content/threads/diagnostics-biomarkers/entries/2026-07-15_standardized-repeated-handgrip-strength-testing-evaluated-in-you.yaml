@@ -1,0 +1,20 @@
+id: 2026-07-15_standardized-repeated-handgrip-strength-testing-evaluated-in-you
+date: '2026-07-15'
+date_display: '2026-07-15'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Mihatsch et al. 2026, Journal of Translational Medicine
+  url: https://pubmed.ncbi.nlm.nih.gov/42458481
+  kind: paper
+en:
+  title: Standardized repeated handgrip strength testing evaluated in young patient cohort
+  plain_summary: In 147 young people with chronic fatigue and PEM, repeated handgrip strength tests showed clearly lower grip force than in healthy peers and tracked daily functioning. However, the test only moderately separated ME/CFS from other fatiguing conditions, making it a measure of functional impairment rather than a standalone diagnostic test.
+  detail: In a prospective observational study published in the *Journal of Translational Medicine*, Mihatsch et al. evaluated the clinical utility of a standardized two-session repeated handgrip strength (HGS) test, separated by a 60-minute break, in 147 children, adolescents, and young adults with chronic fatigue and self-reported post-exertional malaise (PEM) alongside 83 healthy controls. The test showed high feasibility with completion rates exceeding 96 percent, and patient cohorts demonstrated significantly lower handgrip strength than healthy controls, with a mean difference of -9.93 kg. HGS indices correlated modestly with physical functioning but did not correlate with PEM duration, and they failed to reliably differentiate ME/CFS patients from those with other fatiguing conditions. In a sensitivity analysis restricted to patients meeting the Canadian Consensus Criteria, the test achieved moderate diagnostic discrimination (62.8 to 70.7 percent accuracy) using absolute strength
+    indices and recovery ratios, indicating that its utility is for tracking physical functioning and functional impairment rather than as a standalone diagnostic biomarker.
+de:
+  title: Standardisierte wiederholte Handkraftmessung bei junger Patientenkohorte ausgewertet
+  plain_summary: Bei 147 jungen Menschen mit chronischer Fatigue und PEM zeigte ein wiederholter Handkrafttest deutlich geringere Kraftwerte als bei gesunden Gleichaltrigen und spiegelte die Alltagsfunktion wider. Zur Abgrenzung von ME/CFS gegenüber anderen Erschöpfungserkrankungen reichte die Genauigkeit jedoch nur mäßig aus, sodass sich der Test eher zur Verlaufsbeurteilung als zur alleinigen Diagnose eignet.
+  detail: In einer prospektiven Beobachtungsstudie im *Journal of Translational Medicine* bewerteten Mihatsch et al. den klinischen Nutzen eines standardisierten zweimaligen Handkrafttests (HGS) mit 60-minütiger Pause bei 147 Kindern, Jugendlichen und jungen Erwachsenen mit chronischer Fatigue und selbstberichteter Post-Exertional Malaise (PEM) im Vergleich zu 83 gesunden Kontrollen. Der Test erwies sich mit Abschlussraten über 96 Prozent als gut durchführbar, und die Patientengruppen wiesen signifikant niedrigere Handkraftwerte auf als Kontrollen (mittlere Differenz −9,93 kg). HGS-Indizes korrelierten moderat mit der körperlichen Funktionsfähigkeit, jedoch nicht mit der PEM-Dauer, und trennten ME/CFS nicht zuverlässig von anderen Erkrankungen mit chronischer Erschöpfung. In einer auf Personen mit erfüllten Kanadischen Konsenskriterien beschränkten Sensitivitätsanalyse erreichte der Test anhand absoluter Kraftindizes und Erholungsverhältnisse eine mäßige Trennschärfe (62,8 bis 70,7 Prozent
+    Genauigkeit), was zeigt, dass sein Wert in der Abbildung funktioneller Einschränkung liegt und nicht als eigenständiger diagnostischer Biomarker.

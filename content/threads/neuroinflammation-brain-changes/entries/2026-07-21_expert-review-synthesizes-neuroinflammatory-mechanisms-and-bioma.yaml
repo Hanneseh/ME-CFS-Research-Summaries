@@ -1,0 +1,19 @@
+id: 2026-07-21_expert-review-synthesizes-neuroinflammatory-mechanisms-and-bioma
+date: '2026-07-21'
+date_display: '2026-07-21'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Martins et al. 2026, Translational Psychiatry
+  url: https://www.nature.com/articles/s41398-026-04286-x
+  kind: paper
+en:
+  title: Expert review synthesizes neuroinflammatory mechanisms and biomarker targets in post-COVID-19 syndrome
+  plain_summary: This expert review outlines how brain immune activation and blood-vessel disruption might drive post-COVID brain fog, and highlights specialized PET scans, MRI, and blood markers for future trials. As a narrative review, it offers no new patient data and notes that findings in Long COVID still need direct testing in classic ME/CFS.
+  detail: An expert review published in *Translational Psychiatry* by Martins and colleagues synthesized central nervous system alterations following SARS-CoV-2 infection, including microglial activation, astrogliosis, and neurovascular unit disruption. The authors evaluated TSPO PET neuroimaging and advanced diffusion MRI techniques as validated tools to quantify central neuroinflammation, alongside fluid biomarker candidates such as NfL, GFAP, and proinflammatory cytokines for patient stratification. The paper outlines targetable neuroimmune pathways for microglial modulation and neurovascular repair in post-viral brain fog. However, as an expert narrative review, it provides conceptual synthesis rather than novel empirical clinical cohort data. Furthermore, extrapolation of post-COVID-19 neuroinflammatory pathways to classic post-infectious ME/CFS requires explicit translational validation in prospective cohorts.
+de:
+  title: Expertenübersicht fasst neuroinflammatorische Mechanismen und Biomarkerziele beim Post-COVID-19-Syndrom zusammen
+  plain_summary: Diese Übersichtsarbeit bündelt Befunde zu Hirn-Immunaktivierung und Gefäßstörungen beim postviralen Brain Fog und bewertet spezialisierte PET-Scans, MRT und Blutmarker für künftige Studien. Sie liefert keine neuen Patientendaten und betont, dass Erkenntnisse von Post-COVID erst prospektiv auf klassisches ME/CFS übertragen werden müssen.
+  detail: Eine in *Translational Psychiatry* veröffentlichte Expertenübersicht von Martins und Kolleginnen und Kollegen fasste Veränderungen im zentralen Nervensystem nach einer SARS-CoV-2-Infektion zusammen, darunter Mikroglia-Aktivierung, Astrogliose und Störungen der neurovaskulären Einheit. Die Autorinnen und Autoren bewerteten TSPO-PET-Bildgebung und fortgeschrittene Diffusions-MRT-Verfahren als etablierte Forschungsinstrumente zur Quantifizierung zentraler Neuroinflammation sowie flüssige Biomarker-Kandidaten wie NfL, GFAP und proinflammatorische Zytokine zur Patientenstratifizierung. Die Arbeit skizziert gezielt angehbare neuroimmune Signalwege für eine Mikroglia-Modulation und neurovaskuläre Reparatur bei postviralem Brain Fog. Als narrative Expertenübersicht bietet sie jedoch eine konzeptionelle Synthese statt neuer empirischer klinischer Kohortendaten. Darüber hinaus erfordert die Übertragung neuroinflammatorischer Signalwege von Post-COVID-19 auf klassisches postinfektiöses ME/CFS
+    eine ausdrückliche translationale Validierung in prospektiven Kohorten.

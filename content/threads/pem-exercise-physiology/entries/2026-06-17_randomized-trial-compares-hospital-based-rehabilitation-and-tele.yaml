@@ -1,0 +1,20 @@
+id: 2026-06-17_randomized-trial-compares-hospital-based-rehabilitation-and-tele
+date: '2026-06-17'
+date_display: '2026-06-17'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Kabir et al. 2026, Trials
+  url: https://doi.org/10.1186/s13063-026-09769-2
+  kind: paper
+en:
+  title: Randomized trial compares hospital-based rehabilitation and telerehabilitation for Long COVID CFS
+  plain_summary: A trial in Bangladesh reported lower fatigue after supervised hospital exercise in 145 Long COVID participants, but independent reviewers flagged major flaws—including no PEM screening, no safety or dropout reporting, and rebranding Graded Exercise Therapy under a new name. Because of these gaps, it does not show exercise therapy is safe for people with PEM.
+  detail: A randomized controlled trial of 145 participants in Bangladesh compared an 8-week "adapted physical activity and therapeutic exercise" (APTE) program delivered via hospital-based rehabilitation (HBR), remote telerehabilitation (TR), or an unsupervised home program (HP). The authors reported that supervised HBR led to significantly greater reductions in patient-reported fatigue (Chalder Fatigue Scale) and improvements in physical function than remote or unsupervised formats. However, the trial has faced significant criticism from researchers regarding major methodological limitations and safety risks. Specifically, the trial was registered as evaluating "Graded Exercise Therapy" (GET) but rebranded the intervention as APTE in the final paper, and it did not screen for post-exertional malaise (PEM), monitor delayed symptom crashes, or report adverse events and dropout rates. These deficiencies, combined with unexplained deviations from the trial registry (such as reducing the intervention
+    from 12 to 8 weeks) and statistical inconsistencies, highlight the persistent safety hazards of prescribing exercise to post-viral cohorts without pacing protocols.
+de:
+  title: Randomisierte Studie vergleicht Klinik-Rehabilitation und Telerehabilitation bei Long-COVID-CFS
+  plain_summary: 'Eine Studie aus Bangladesch mit 145 Teilnehmenden berichtete geringere Fatigue nach angeleitetem Kliniktraining bei Long COVID, stieß aber auf deutliche Kritik: PEM wurde nicht abgefragt, Schäden und Abbrüche fehlten und registrierte GET wurde im Text umbenannt. Wegen dieser Mängel belegt die Studie keine Sicherheit von Trainingstherapie bei PEM.'
+  detail: 'Eine randomisierte kontrollierte Studie mit 145 Teilnehmenden in Bangladesch verglich ein achtwöchiges Programm aus „angepasster körperlicher Aktivität und therapeutischem Training“ (APTE) in drei Formen: klinikbasierte Rehabilitation (HBR), Telerehabilitation (TR) oder ein unbegleitetes Heimprogramm (HP). Die Autoren berichteten, dass betreute HBR zu stärkeren Verbesserungen bei selbstberichteter Fatigue (Chalder Fatigue Scale) und körperlicher Funktion führte als die Fern- oder Heimvarianten. Die Studie wurde jedoch von Forschenden wegen gravierender methodischer Mängel und Sicherheitsrisiken scharf kritisiert: Im Studienregister war sie als Prüfung von „Graded Exercise Therapy“ (GET) eingetragen, im fertigen Paper aber als APTE umbenannt worden; zudem wurde weder auf Post-Exertional Malaise (PEM) gescreent noch wurden verzögerte Einbrüche, unerwünschte Ereignisse oder Abbruchraten berichtet. Zusammen mit unerklärten Abweichungen vom Register (Verkürzung von 12 auf 8 Wochen)
+    und statistischen Unstimmigkeiten unterstreicht dies die Risiken von Trainingsverordnungen ohne PEM-Schutzprotokolle.'

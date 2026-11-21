@@ -1,0 +1,19 @@
+id: 2025-04-14_network-medicine-framework-prioritises-250-candidate-genes-via
+date: '2025-04-14'
+date_display: '2025-04-14'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Maccallini 2025, medRxiv
+  url: https://doi.org/10.1101/2025.04.13.25325733
+  kind: preprint
+en:
+  title: Network medicine framework prioritises 250 candidate genes via protein interaction mapping
+  plain_summary: A computer modeling preprint ranked 250 candidate genes linked to energy metabolism and nerve pathways as a shortlist for future ME/CFS DNA studies. Because it relies purely on existing protein databases rather than patient samples, it is only a theoretical starting point and not a diagnostic tool.
+  detail: A computational study mapped a set of 22 ME/CFS-associated seed genes onto the STRING protein interaction database and applied a Random Walk with Restart algorithm to rank 1,063 interacting proteins by network proximity, selecting the top 250 to define an in silico "ME/CFS disease module." Pathway enrichment of this module revealed significant overlaps with sphingolipid metabolism, energy-related pathways, heme degradation, thermogenesis, and TP53-regulated metabolic genes, and the module showed substantial genetic overlap with known metabolic and neurodegenerative disorders. The result is a prioritised candidate gene list intended to filter exome and genome sequencing data in future patient cohorts rather than a diagnostic framework. Because the analysis is entirely in silico and based on pre-existing literature, the identified module is a theoretical scaffold that requires experimental validation, and reliance on published literature may bias the results toward well-studied pathways.
+de:
+  title: Netzwerkmedizin-Modell priorisiert 250 Kandidatengene per Protein-Interaktionskarte
+  plain_summary: Ein computergestütztes Modell (Preprint) grenzt 250 Kandidatengene rund um Energiestoffwechsel und Nervenfunktionen als Suchliste für künftige ME/CFS-Genstudien ein. Da die Analyse rein am Computer auf Basis bekannter Datenbanken lief und nicht an Patientendaten geprüft wurde, ist sie vorerst nur ein theoretischer Wegweiser.
+  detail: Eine computergestützte Studie übertrug 22 mit ME/CFS assoziierte Ausgangsgene auf die Protein-Interaktionsdatenbank STRING und ordnete mittels eines Random-Walk-with-Restart-Algorithmus 1.063 interagierende Proteine nach ihrer Netzwerknähe, wobei die obersten 250 als virtuelles („in silico“) „ME/CFS-Krankheitsmodul“ ausgewählt wurden. Die Signalweganalyse dieses Moduls zeigte deutliche Überschneidungen mit dem Sphingolipid-Stoffwechsel, Energie-Signalwegen, dem Häm-Abbau, der Thermogenese sowie TP53-regulierten Stoffwechselgenen und wies zudem erhebliche genetische Überlappungen mit bekannten Stoffwechsel- und neurodegenerativen Erkrankungen auf. Das Ergebnis ist eine priorisierte Liste von Kandidatengenen, um Exom- und Genomsequenzierungsdaten künftiger Patientenkohorten gezielter zu filtern – kein diagnostisches Verfahren. Da die Analyse vollständig am Computer stattfand und auf bereits veröffentlichter Literatur aufbaut, stellt das identifizierte Modul ein theoretisches Gerüst
+    dar, das experimentell überprüft werden muss; zudem kann die Orientierung an bestehender Literatur die Ergebnisse hin zu ohnehin gut erforschten Signalwegen verzerren.

@@ -1,0 +1,20 @@
+id: 2026-05-15_multi-omics-review-maps-a-molecular-reclassification-roadmap
+date: '2026-05-15'
+date_display: '2026-05-15'
+date_precision: exact
+source_type: review
+study_design: GWAS
+sources:
+- label: Frank et al. 2026, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms27104436
+  kind: paper
+en:
+  title: Multi-omics review maps a molecular reclassification roadmap from genomics to AI platforms
+  plain_summary: A review summarizes how genetics, immune cell profiling, metabolism studies, and AI tools could eventually sort ME/CFS into biological subtypes instead of relying on symptoms alone. It lays out a roadmap without adding new patient data, and turning complex research assays into everyday clinic tests remains unsolved.
+  detail: 'A narrative review from Nova Southeastern University''s Institute for Neuro-Immune Medicine synthesized landmark studies across genomics (DecodeME GWAS), epigenetic profiling, single-cell transcriptomics, metabolomic pathway mapping, and multi-modal AI frameworks (BioMapAI, HEAL2, Positive Unlabeled Learning) to outline how ME/CFS could shift from symptom-based diagnosis to molecularly defined subtypes. The review identified CD8+ T-cell exhaustion marked by TOX and EOMES transcription factors, compromised mitochondrial coupling efficiency, system-wide hypometabolism, and sex-specific proteomic recovery signatures as convergent downstream consequences of the disease regardless of which molecular pathway is primary in any individual patient. Circulating cell-free RNA signatures and BioMapAI are highlighted as current diagnostic and classification anchors. The review''s diagnostic contribution is a framework rather than new data: the challenge it names—translating high-dimensional
+    computational models into accessible clinical laboratory tests—remains the central unsolved problem for the field.'
+de:
+  title: Multi-Omics-Übersichtsarbeit skizziert einen Fahrplan zur molekularen Neuklassifizierung von der Genomik bis zu KI-Plattformen
+  plain_summary: Eine Übersichtsarbeit beschreibt, wie Genetik, Immunzell-Analysen, Stoffwechselprofile und KI-Modelle ME/CFS künftig in biologische Untergruppen einteilen könnten statt allein nach Symptomen. Sie entwirft einen Forschungsfahrplan ohne neue Patientendaten; die Übersetzung komplexer Analysen in alltagstaugliche Kliniktests bleibt ungelöst.
+  detail: 'Eine narrative Übersichtsarbeit des Institute for Neuro-Immune Medicine der Nova Southeastern University fasste richtungsweisende Studien aus Genomik (DecodeME GWAS), Epigenetik, Einzelzell-Transkriptomik, metabolomischer Signalweg-Kartierung und multimodalen KI-Frameworks (BioMapAI, HEAL2, Positive Unlabeled Learning) zusammen, um aufzuzeigen, wie sich ME/CFS von einer symptombasierten Diagnose hin zu molekular definierten Subtypen entwickeln könnte. Die Arbeit benannte eine durch die Transkriptionsfaktoren TOX und EOMES gekennzeichnete Erschöpfung von CD8+-T-Zellen, eine beeinträchtigte mitochondriale Kopplungseffizienz, einen systemweiten Hypometabolismus sowie geschlechtsspezifische proteomische Erholungssignaturen als zusammenlaufende nachgelagerte Krankheitsfolgen – unabhängig davon, welcher molekulare Pfad bei einer einzelnen Person ursprünglich auslösend war. Zirkulierende cfRNA-Signaturen und BioMapAI werden als aktuelle Anker für Diagnostik und Klassifikation hervorgehoben.
+    Der diagnostische Beitrag der Übersicht liegt in einem Rahmenkonzept statt in neuen Daten: Die benannte Herausforderung – hochdimensionale Rechenmodelle in zugängliche klinische Labortests zu übersetzen – bleibt das zentrale ungelöste Problem des Feldes.'

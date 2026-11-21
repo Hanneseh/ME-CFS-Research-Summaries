@@ -1,0 +1,19 @@
+id: 2026-06-16_patient-derived-myogenic-cells-show-transcriptomic-downshifts-in
+date: '2026-06-16'
+date_display: '2026-06-16'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Nguyen et al. 2026, Research Square
+  url: https://www.researchsquare.com/article/rs-10015511/latest.pdf
+  kind: preprint
+en:
+  title: Patient-derived myogenic cells show transcriptomic downshifts in muscle and energy pathways
+  plain_summary: A small female-only preprint grew muscle precursor cells from 6 ME/CFS donors and saw lower activity in repair and cytoskeleton programs alongside signs of energy stress. The 22 drug matches suggested by computer modeling remain untested.
+  detail: Nguyen and colleagues generated induced pluripotent stem cell-derived myogenic progenitor cells from 6 female ME/CFS patients and 7 female controls, then performed RNA sequencing and in silico drug repurposing. Most differentially expressed pathways were downregulated, including cell-cycle, DNA-repair, immune, and muscle cytoskeleton programs, while upregulated pathways suggested greater reliance on branched-chain amino acid degradation for energy. That pattern fits the broader idea that muscle cells are adapting to chronic energetic stress rather than functioning normally at baseline. The authors also mapped 22 candidate repurposing drugs, but those outputs remain exploratory because the study did not test whether the compounds actually improve cell function. This is a useful mechanistic addition, but it is still a small female-only preprint based on an in vitro cell model rather than a whole-body human physiology study.
+de:
+  title: Patientenabgeleitete Muskelvorläuferzellen zeigen transkriptomische Herabregulation in Muskel- und Energiepfaden
+  plain_summary: Ein kleiner Preprint züchtete Muskelvorläuferzellen von 6 ME/CFS-Patientinnen und fand herunterregulierte Reparatur- und Muskelstruktur-Programme bei Anzeichen von Energiestress. Die per Computermodell ermittelten 22 Wirkstoffkandidaten wurden experimentell nicht geprüft.
+  detail: Nguyen und Kolleginnen erzeugten aus induzierten pluripotenten Stammzellen (iPSCs) myogene Vorläuferzellen von 6 weiblichen ME/CFS-Patientinnen und 7 weiblichen Kontrollpersonen und führten anschließend RNA-Sequenzierung sowie ein In-silico-Drug-Repurposing durch. Die meisten veränderten Signalwege waren herunterreguliert, darunter Zellzyklus-, DNA-Reparatur-, Immun- und Muskelzytoskelett-Programme, während hochregulierte Pfade auf eine stärkere Nutzung des Abbaus verzweigtkettiger Aminosäuren zur Energiegewinnung hindeuteten. Dieses Muster passt zu der Vorstellung, dass sich Muskelzellen an chronischen Energiestress anpassen statt im Normalzustand zu arbeiten. Die Autorinnen ordneten zudem 22 mögliche Repurposing-Wirkstoffe zu, doch diese Ausgaben bleiben rein explorativ, weil nicht geprüft wurde, ob die Substanzen die Zellfunktion tatsächlich verbessern. Dies ist ein nützlicher mechanistischer Beitrag, bleibt aber ein kleiner, rein weiblicher Preprint auf Basis eines In-vitro-Zellmodells
+    statt einer Ganzkörper-Physiologiestudie.

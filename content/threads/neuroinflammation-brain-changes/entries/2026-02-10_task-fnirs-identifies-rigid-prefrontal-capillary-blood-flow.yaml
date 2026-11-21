@@ -1,0 +1,19 @@
+id: 2026-02-10_task-fnirs-identifies-rigid-prefrontal-capillary-blood-flow
+date: '2026-02-10'
+date_display: '2026-02-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Kutz et al. 2026, Brain Communications
+  url: https://doi.org/10.1093/braincomms/fcag036
+  kind: paper
+en:
+  title: Task-fNIRS identifies rigid prefrontal capillary blood flow dynamics
+  plain_summary: Using light-based head sensors during thinking tasks, researchers found that post-COVID patients had stiffer, less adaptable blood flow in the front of the brain, which tracked with slower responses and fatigue. The cohort was small and needs testing in ME/CFS patients to see if the pattern holds.
+  detail: A study monitoring prefrontal cortex blood flow using functional near-infrared spectroscopy (fNIRS) during cognitive tasks showed that patients with Post-COVID Syndrome have altered capillary regulation. Compared to healthy and coronary artery disease controls, patients exhibited significantly reduced temporal variability (rigid blood flow over time) but increased spatial variability in blood flow patterns during Flanker and N-back tests. These perfusion abnormalities correlated with slower reaction times, lower accuracy, and increased subjective fatigue. This indicates a physical impairment in neurovascular coupling and microvascular regulation during cognitive load. However, the study evaluated a small cohort, and validation in ME/CFS groups is required to confirm if this rigid prefrontal flow is a shared post-viral marker.
+de:
+  title: Aufgaben-fNIRS identifiziert starre kapilläre Blutflussdynamik im präfrontalen Kortex
+  plain_summary: Mithilfe lichtbasierter Kopfsensoren bei Denkaufgaben fanden Forschende bei Post-COVID-Betroffenen einen starreren, weniger anpassungsfähigen Blutfluss im Stirnhirn, was mit langsameren Reaktionen und Fatigue einherging. Die Kohorte war klein, und eine Überprüfung bei ME/CFS steht noch aus.
+  detail: Eine Studie, die die Durchblutung des präfrontalen Kortex mittels funktioneller Nahinfrarotspektroskopie (fNIRS) während kognitiver Aufgaben überwachte, zeigte, dass Patientinnen und Patienten mit Post-COVID-Syndrom eine veränderte Kapillarregulation aufweisen. Im Vergleich zu gesunden Kontrollen und Kontrollpersonen mit koronarer Herzkrankheit zeigten Betroffene während Flanker- und N-Back-Tests eine signifikant verringerte zeitliche Variabilität (starrer Blutfluss über die Zeit), aber eine erhöhte räumliche Variabilität der Durchblutungsmuster. Diese Perfusionsauffälligkeiten korrelierten mit langsameren Reaktionszeiten, geringerer Genauigkeit und stärkerer subjektiver Fatigue. Dies deutet auf eine physische Beeinträchtigung der neurovaskulären Kopplung und der mikrovaskulären Regulation unter kognitiver Belastung hin. Die Studie untersuchte jedoch eine kleine Kohorte, und eine Validierung in ME/CFS-Gruppen ist nötig, um zu klären, ob dieser starre präfrontale Blutfluss ein gemeinsamer
+    postviraler Marker ist.

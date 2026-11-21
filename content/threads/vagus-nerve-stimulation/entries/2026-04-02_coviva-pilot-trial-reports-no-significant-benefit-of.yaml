@@ -1,0 +1,19 @@
+id: 2026-04-02_coviva-pilot-trial-reports-no-significant-benefit-of
+date: '2026-04-02'
+date_display: '2026-04-02'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Gierthmuehlen et al. 2026, Neurology and Therapy
+  url: https://doi.org/10.1007/s40120-026-00928-w
+  kind: paper
+en:
+  title: COVIVA pilot trial reports no significant benefit of taVNS over sham stimulation
+  plain_summary: In the 45-person COVIVA pilot trial for Long COVID fatigue, people improved in both the active and sham ear-stimulation groups, with no clear benefit from active stimulation over sham. This highlights strong placebo or natural-recovery effects and shows that electrical vagus stimulation is not yet proven to beat sham for fatigue.
+  detail: The randomized, single-blinded COVIVA pilot trial (45 participants) investigated the efficacy of transcutaneous auricular vagus nerve stimulation (taVNS) for Long COVID fatigue. Participants used a CE-certified device for four hours daily over four weeks, achieving high device compliance. Although fatigue and quality of life scores improved for all participants, active stimulation (sub-threshold or above-threshold) did not show any statistically significant difference compared to sham stimulation. This result indicates a strong potential for placebo effects or natural symptom recovery during the trial period. It does not rule out taVNS efficacy entirely, as the small sample size and short four-week duration may have been insufficient to detect a true therapeutic effect. However, it underlines that active electrical stimulation is not yet proven superior to placebo for fatigue, and highlights the need for rigorous, double-blinded designs with objective biological markers.
+de:
+  title: COVIVA-Pilotstudie berichtet keinen signifikanten Vorteil von taVNS gegenüber Scheinstimulation
+  plain_summary: In der COVIVA-Pilotstudie mit 45 Personen mit Long-COVID-Fatigue besserten sich sowohl aktive als auch Scheinstimulations-Gruppe ähnlich stark, ohne klaren Vorteil der echten Stimulation. Dies unterstreicht starke Placebo- oder spontane Erholungseffekte und zeigt, dass taVNS bei Fatigue bislang nicht sicher besser wirkt als eine Scheinbehandlung.
+  detail: Die randomisierte, einfach verblindete COVIVA-Pilotstudie (45 Teilnehmende) untersuchte die Wirksamkeit der transkutanen aurikulären Vagusnerv-Stimulation (taVNS) bei Long-COVID-Fatigue. Die Teilnehmenden nutzten ein CE-zertifiziertes Gerät über vier Wochen vier Stunden täglich bei hoher Gerätetreue. Obwohl sich Fatigue- und Lebensqualitäts-Scores bei allen Teilnehmenden verbesserten, zeigte die aktive Stimulation (unterhalb oder oberhalb der Wahrnehmungsschwelle) keinen statistisch signifikanten Unterschied gegenüber der Scheinstimulation. Dieses Ergebnis weist auf ein erhebliches Potenzial für Placeboeffekte oder natürliche Symptomerholung während der Studiendauer hin. Es schließt eine Wirksamkeit von taVNS nicht endgültig aus, da die kleine Stichprobe und die kurze vierwöchige Dauer möglicherweise nicht ausreichten, um einen echten Effekt nachzuweisen. Es macht jedoch deutlich, dass aktive elektrische Stimulation bei Fatigue noch nicht als dem Placebo überlegen bewiesen ist,
+    und unterstreicht den Bedarf an strengen doppelt verblindeten Studien mit objektiven Biomarkern.

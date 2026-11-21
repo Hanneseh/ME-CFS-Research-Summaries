@@ -1,0 +1,18 @@
+id: 2026-02-26_icd-10-record-analysis-identifies-pre-diagnostic-patterns
+date: '2026-02-26'
+date_display: '2026-02-26'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Wirth et al. 2026, Scientific Reports
+  url: https://doi.org/10.1038/s41598-026-40848-1
+  kind: paper
+en:
+  title: ICD-10 record analysis identifies pre-diagnostic patterns in 6,077 young ME/CFS patients
+  plain_summary: German health insurance records of 6,077 young ME/CFS patients showed 44 prior diagnosis groups—especially post-COVID condition, fibromyalgia, and mild cognitive trouble—appearing unusually often in the year before their ME/CFS diagnosis. While this could help clinicians spot ME/CFS sooner without new tests, insurance billing codes can reflect diagnostic uncertainty rather than exact biology.
+  detail: A large-scale case-control study using German statutory health insurance data matched 6,077 ME/CFS patients aged 6–27 with 30,385 healthy controls and compared diagnosis codes in the year before the ME/CFS diagnosis was assigned. Forty-four diagnosis classes were significantly overrepresented in the ME/CFS group, with post-COVID-19 condition showing the strongest association; fibromyalgia and mild cognitive impairment also carried high predictive value. The finding that many preceding diagnoses may be early ME/CFS symptoms rather than comorbidities has practical implications for earlier clinical recognition without requiring novel biomarker tests. The study is limited by reliance on billing codes, which may contain errors or reflect clinical uncertainty rather than true pathological differences.
+de:
+  title: Analyse von ICD-10-Abrechnungsdaten identifiziert prädiagnostische Muster bei 6.077 jungen ME/CFS-Betroffenen
+  plain_summary: Deutsche Krankenkassendaten von 6.077 jungen Menschen mit ME/CFS zeigten 44 Vordiagnosen – allen voran Post-COVID, Fibromyalgie und leichte kognitive Störungen –, die im Jahr vor der ME/CFS-Diagnose auffällig häufig vergeben wurden. Das kann Ärztinnen und Ärzten helfen, ME/CFS früher in Betracht zu ziehen, doch spiegeln Abrechnungscodes oft auch diagnostische Unsicherheit wider.
+  detail: Eine groß angelegte Fall-Kontroll-Studie auf Basis deutscher Daten der gesetzlichen Krankenversicherung ordnete 6.077 ME/CFS-Patientinnen und -Patienten im Alter von 6 bis 27 Jahren 30.385 gesunden Kontrollpersonen zu und verglich die Diagnosecodes im Jahr vor der ME/CFS-Diagnosestellung. 44 Diagnoseklassen waren in der ME/CFS-Gruppe signifikant überrepräsentiert, wobei der Post-COVID-19-Zustand den stärksten Zusammenhang zeigte; auch Fibromyalgie und leichte kognitive Beeinträchtigungen besaßen einen hohen Vorhersagewert. Die Erkenntnis, dass viele vorausgehende Diagnosen frühe ME/CFS-Symptome statt eigenständiger Begleiterkrankungen widerspiegeln dürften, hat praktische Bedeutung für eine frühere klinische Erkennung ohne neuartige Biomarkertests. Eingeschränkt wird die Studie durch die Nutzung von Abrechnungsdaten, die Fehler enthalten oder klinische Unsicherheit statt realer pathologischer Unterschiede abbilden können.

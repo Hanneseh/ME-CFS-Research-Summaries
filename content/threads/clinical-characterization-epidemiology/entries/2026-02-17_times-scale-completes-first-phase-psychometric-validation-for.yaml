@@ -1,0 +1,20 @@
+id: 2026-02-17_times-scale-completes-first-phase-psychometric-validation-for
+date: '2026-02-17'
+date_display: '2026-02-17'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Horton et al. 2026, medRxiv
+  url: https://doi.org/10.64898/2026.02.16.26346394
+  kind: preprint
+en:
+  title: TIMES scale completes first-phase psychometric validation for ME/CFS symptom measurement
+  plain_summary: A new 85-item ME/CFS symptom questionnaire (TIMES) passed initial statistical testing across over 1,000 UK patients. This preprint offers a better way to measure symptoms in future trials, though reliability and international checks are still pending.
+  detail: 'The Index of Myalgic Encephalomyelitis Symptoms (TIMES) completed Rasch analysis validation in a two-cohort development process involving 721 and then 354 participants with ME/CFS recruited primarily in the UK. The instrument maps 85 symptom items across eight domains, and the Rasch analysis confirmed that a four-point frequency and severity response format outperformed the original five-point version. Neurological and autonomic symptom subscales were validated as internally consistent and stable. The clinical significance is that validated, psychometrically grounded symptom measurement matters for clinical trials: without stable instruments, treatment effects are difficult to detect or compare across sites. TIMES fills a gap that has constrained ME/CFS trial design, because many symptom checklists in prior studies lacked formal psychometric properties. The companion reliability paper and international validation remain pending, so the current evidence supports construct and content
+    validity in a UK-dominant sample but not yet universal applicability.'
+de:
+  title: TIMES-Skala schließt erste Phase der psychometrischen Validierung zur ME/CFS-Symptommessung ab
+  plain_summary: Ein neuer Fragebogen mit 85 Beschwerdepunkten zu ME/CFS (TIMES) hat erste statistische Prüfungen bei über 1.000 britischen Betroffenen bestanden. Der Preprint liefert ein präziseres Messinstrument für künftige Studien, allerdings stehen Zuverlässigkeitsprüfungen und internationale Validierungen noch aus.
+  detail: 'Der Index of Myalgic Encephalomyelitis Symptoms (TIMES) durchlief eine Validierung mittels Rasch-Analyse in einem zweistufigen Entwicklungsprozess mit zunächst 721 und anschließend 354 Teilnehmenden mit ME/CFS, die überwiegend in Großbritannien rekrutiert wurden. Das Instrument bildet 85 Symptom-Items in acht Bereichen ab, und die Rasch-Analyse bestätigte, dass ein vierstufiges Antwortformat für Häufigkeit und Schweregrad der ursprünglichen fünfstufigen Version überlegen war. Neurologische und autonome Subskalen erwiesen sich als intern konsistent und stabil. Klinisch ist dies bedeutsam, weil validierte, psychometrisch fundierte Messinstrumente für Studien entscheidend sind: Ohne stabile Skalen lassen sich Therapieeffekte kaum erkennen oder standortübergreifend vergleichen. TIMES schließt eine Lücke, die das Studiendesign bei ME/CFS lange behindert hat, da viele frühere Symptom-Checklisten formal nicht ausreichend geprüft waren. Die begleitende Publikation zur Reliabilität und
+    die internationale Validierung stehen noch aus, sodass die aktuelle Evidenz Konstrukt- und Inhaltsvalidität in einer britisch geprägten Stichprobe stützt, aber noch keine universelle Übertragbarkeit.'

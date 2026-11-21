@@ -1,0 +1,26 @@
+id: 2026-07-10_national-registry-and-healthcare-surveys-in-the-us
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'New Zealand IDI study: Wheeler et al. 2026, Journal of Health Psychology'
+  url: https://pubmed.ncbi.nlm.nih.gov/42032509/
+  kind: paper
+- label: 'US NHIS survey: CDC reports 2026'
+  url: https://pubmed.ncbi.nlm.nih.gov/42104344/
+  kind: paper
+- label: 'Australian service review: Hall et al. 2026, Medical Journal of Australia'
+  url: https://pubmed.ncbi.nlm.nih.gov/41862917/
+  kind: paper
+en:
+  title: National registry and healthcare surveys in the US, New Zealand, and Australia highlight socioeconomic burden and diagnostic gaps
+  plain_summary: National data from New Zealand, the US, and Australia show employment below 20% in benefit recipients with ME/CFS, persistent disability even among many reporting past illness, and fragmented clinics. Because registry codes and surveys have gaps, these findings highlight unmet needs rather than exact prevalence.
+  detail: Three large-scale studies profiled the socio-economic impact and health services landscape of ME/CFS and Long COVID. In New Zealand, a nationwide Integrated Data Infrastructure (IDI) study of 1,902 benefit recipients with ME/CFS found extremely low employment rates (18.3% vs. 83.8% controls), high polypharmacy (32.8%), and a low rate of disability support service usage (1.6% vs. 7.2% other benefit recipients) indicating major structural barriers to care. In the US, an analysis of the 2021-2023 National Health Interview Survey (NHIS) representing 86,655 adults estimated that 1.5% have received an ME/CFS diagnosis, and found that among the 20.7% who reported past (resolved) ME/CFS, 40-50% still experienced active symptoms and functional impairment comparable to those with active disease. Finally, an Australian review of Long COVID service delivery documented severe fragmentation following public clinic closures, forcing patients into private fee-for-service clinics, and highlighted
+    "statistical invisibility" due to a lack of active diagnostic codes as a major barrier to surveillance and service capacity planning. Collectively, these registry and guideline evaluations show that standard administrative databases significantly underestimate the true illness burden, and that patients face severe, systemic barriers to obtaining specialized care, benefits, and accurate diagnostic tracking. However, these studies rely heavily on administrative diagnostic codes, which are prone to misclassification, or self-reported survey data without clinical validation. Furthermore, the services mapped are highly system-specific to New Zealand, the US, and Australia.
+de:
+  title: Nationale Register- und Versorgungsdaten aus den USA, Neuseeland und Australien zeigen hohe sozioökonomische Last und Diagnoselücken
+  plain_summary: Nationale Daten aus Neuseeland, den USA und Australien zeigen Erwerbsquoten unter 20 % bei ME/CFS-Leistungsbeziehenden, anhaltende Einschränkungen selbst bei vielen mit „früherer“ Diagnose sowie zersplitterte Versorgungsangebote. Wegen Lücken in Registercodes und Selbstberichten dokumentieren sie vor allem ungedeckten Bedarf.
+  detail: Drei groß angelegte Untersuchungen beleuchteten die sozioökonomischen Folgen und die Versorgungslage bei ME/CFS und Long COVID. In Neuseeland fand eine landesweite IDI-Registerstudie zu 1.902 Leistungsbeziehenden mit ME/CFS extrem niedrige Erwerbsquoten (18,3 % vs. 83,8 % Kontrollen), ausgeprägte Polypharmazie (32,8 %) und eine geringe Nutzung von Behinderten-Unterstützungsdiensten (1,6 % vs. 7,2 % bei anderen Leistungsbeziehenden) als Zeichen erheblicher Zugangshürden. In den USA schätzte eine Auswertung des National Health Interview Survey (2021–2023, repräsentativ für 86.655 Erwachsene), dass 1,5 % eine ME/CFS-Diagnose erhalten hatten, wobei 40–50 % der 20,7 % mit angeblich „abgeklungenem“ ME/CFS weiterhin aktive Beschwerden und Einschränkungen auf dem Niveau aktiv Erkrankter berichteten. Eine australische Versorgungsanalyse zu Long COVID dokumentierte starke Zersplitterung nach Schließung öffentlicher Ambulanzen, wodurch Betroffene auf private Selbstzahlerpraxen ausweichen
+    müssen, sowie „statistische Unsichtbarkeit“ mangels aktiver Diagnosecodes. Zusammen zeigen die Arbeiten, dass Verwaltungsdaten die Krankheitslast systematisch unterschätzen; begrenzt werden sie durch fehlklassifikationsanfällige Codes, unvalidierte Selbstberichte und länderspezifische Versorgungssysteme.

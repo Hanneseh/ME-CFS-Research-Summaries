@@ -1,0 +1,18 @@
+id: 2026-08-19_retinal-vessel-analysis-detects-endothelial-dysfunction-across-p
+date: '2026-08-19'
+date_display: '2026-08-19'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Wallraven et al. 2026, BMC Medicine
+  url: https://doi.org/10.1186/s12916-026-05144-9
+  kind: paper
+en:
+  title: Retinal vessel analysis detects endothelial dysfunction across post-COVID groups
+  plain_summary: A 300-person eye-vessel study confirmed narrower retinal arteries and weaker light-triggered dilation in post-COVID patients, including a subgroup meeting ME/CFS criteria. While non-exercise-based, it is still an observational single-center finding rather than a ready clinical test.
+  detail: 'The prospective All Eyes on PCS study used static and flicker-based retinal vessel analysis in 300 participants: 96 uninfected controls, 102 recovered controls, and 102 post-COVID participants, including 62 meeting ME/CFS criteria. Post-COVID participants had narrower retinal arterioles, reduced flicker-induced venular dilation, and a lower arteriolar-to-venular ratio; a combined model discriminated the ME/CFS-criteria subgroup with AUC 0.79. This was an observational, single-center study, not a validated diagnostic test. Severe or bedbound inclusion was not reported; seated clinic imaging and flickering light avoided exercise provocation but still impose travel, orthostatic, and sensory burden.'
+de:
+  title: Retinale Gefäßanalyse erkennt Endotheldysfunktion über Post-COVID-Gruppen hinweg
+  plain_summary: Eine Studie mit 300 Teilnehmenden bestätigte engere Netzhautarteriolen und eine abgeschwächte Gefäßreaktion auf Flimmerlicht bei Post-COVID, einschließlich Betroffener mit ME/CFS-Kriterien. Als Einzelzentrums-Beobachtungsstudie ist dies noch kein einsatzbereiter Routinetest.
+  detail: 'Die prospektive Studie *All Eyes on PCS* setzte statische und flimmerlichtbasierte Netzhautgefäßanalyse bei 300 Teilnehmenden ein: 96 nicht infizierte Kontrollpersonen, 102 Genesene und 102 Post-COVID-Betroffene, darunter 62 mit erfüllten ME/CFS-Kriterien. Post-COVID-Teilnehmende zeigten engere Netzhautarteriolen, eine verringerte flimmerlichtinduzierte Erweiterung der Venolen und ein niedrigeres arteriovenöses Verhältnis; ein kombiniertes Modell trennte die ME/CFS-Untergruppe mit einer AUC von 0,79. Es handelte sich um eine beobachtende Einzelzentrumsstudie und noch nicht um einen validierten diagnostischen Test. Der Einschluss schwer kranker oder bettlägeriger Betroffener wurde nicht berichtet; die sitzende Untersuchung mit Flimmerlicht vermied zwar körperliche Belastungstests, brachte aber weiterhin Anreise-, Sitz- und Sinnesreizbelastungen mit sich.'

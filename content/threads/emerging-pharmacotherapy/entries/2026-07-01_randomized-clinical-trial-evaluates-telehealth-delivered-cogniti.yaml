@@ -1,0 +1,20 @@
+id: 2026-07-01_randomized-clinical-trial-evaluates-telehealth-delivered-cogniti
+date: '2026-07-01'
+date_display: '2026-07-01'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: 'Cognitive Rehabilitation and Functional Outcomes in Long COVID–Related Cognitive Impairment: A Randomized Clinical Trial (JAMA Network Open 2026)'
+  url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2851024
+  kind: paper
+en:
+  title: Randomized clinical trial evaluates telehealth-delivered cognitive rehabilitation for Long COVID
+  plain_summary: In a randomized trial of 78 adults with Long COVID brain fog, 10 weeks of one-on-one telehealth cognitive rehabilitation helped 84% reach daily personal goals versus 53% in usual care, though formal memory test scores barely changed. This suggests coaching helps patients pace and compensate for brain fog rather than curing it, and unblinded self-reports could bias results.
+  detail: A randomized clinical trial published in *JAMA Network Open* demonstrated that a 10-week, individualized, telehealth-delivered cognitive rehabilitation program significantly improved functional outcomes in 78 adults with Long COVID cognitive impairment. At the 3-month mark, 84% of the rehabilitation group reported a clinically meaningful improvement in achieving personal goals in daily life, work, and hobbies, compared to 53% of the usual care control group, with improvements sustained at 6 months. Rather than curing the underlying pathology or increasing baseline cognitive capacity (as shown by only minor improvements in standardized cognitive test scores), the program primarily helped patients develop compensation strategies and manage cognitive resources more efficiently. These results indicate that structured cognitive pacing and rehabilitation are highly effective for functional management, although the resource-intensive nature of one-on-one telehealth delivery may limit
+    scalability. Additionally, the trial's reliance on unblinded, self-reported functional outcomes introduces a potential reporting bias, and the program must be carefully paced to avoid triggering post-exertional malaise.
+de:
+  title: Randomisierte klinische Studie prüft telemedizinische kognitive Rehabilitation bei Long COVID
+  plain_summary: In einer randomisierten Studie mit 78 Erwachsenen mit Long-COVID-Brain-Fog erreichten nach 10 Wochen individueller Tele-Rehabilitation 84 % persönliche Alltagsziele gegenüber 53 % in der Regelversorgung, obwohl sich objektive Gedächtnistests kaum änderten. Das Programm vermittelt offenbar hilfreiche Kompensations- und Pacing-Strategien statt einer Heilung der Ursache; offene Selbstberichte könnten die Ergebnisse jedoch verzerren.
+  detail: Eine in *JAMA Network Open* veröffentlichte randomisierte klinische Studie zeigte, dass ein 10-wöchiges, individualisiertes, telemedizinisch durchgeführtes kognitives Rehabilitationsprogramm die Alltagsfunktion bei 78 Erwachsenen mit kognitiver Beeinträchtigung durch Long COVID deutlich verbesserte. Nach drei Monaten berichteten 84 % der Rehabilitationsgruppe über eine klinisch bedeutsame Verbesserung beim Erreichen persönlicher Ziele in Alltag, Beruf und Freizeit, gegenüber 53 % in der Kontrollgruppe mit Regelversorgung; die Gewinne hielten nach 6 Monaten an. Statt die zugrunde liegende Pathologie zu heilen oder die objektive kognitive Grundkapazität deutlich zu steigern (wie nur geringe Änderungen in standardisierten Kognitionstests zeigten), half das Programm vor allem beim Entwickeln von Kompensationsstrategien und beim effizienteren Haushalten mit kognitiven Ressourcen. Die Ergebnisse sprechen für strukturiertes kognitives Pacing im Funktionsmanagement, wenngleich die aufwendige
+    1:1-Telebetreuung die Skalierbarkeit begrenzt, unverblindete Selbstberichte Verzerrungen begünstigen und eine sorgfältige Anpassung nötig ist, um Post-Exertional Malaise zu vermeiden.

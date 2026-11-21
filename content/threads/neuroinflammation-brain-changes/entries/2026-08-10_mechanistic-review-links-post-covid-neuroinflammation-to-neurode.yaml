@@ -1,0 +1,18 @@
+id: 2026-08-10_mechanistic-review-links-post-covid-neuroinflammation-to-neurode
+date: '2026-08-10'
+date_display: '2026-08-10'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Feng et al. 2026, Cellular and Molecular Neurobiology
+  url: https://link.springer.com/article/10.1007/s10571-026-01785-9
+  kind: paper
+en:
+  title: Mechanistic review links post-COVID neuroinflammation to neurodegenerative pathomechanisms
+  plain_summary: This narrative review explores lab models and hypotheses linking post-COVID brain inflammation to pathways studied in neurodegenerative diseases. Because it includes no long-term patient tracking, whether COVID-19 raises future dementia or Parkinson's risk remains unproven.
+  detail: 'A narrative review from the EU COMMUTE consortium synthesizes proposed links between SARS-CoV-2 sequelae and later neurodegenerative disease, including blood-brain-barrier disruption, microglial priming, mitochondrial dysfunction, impaired waste clearance, and pathological protein aggregation. It reviews human iPSC-derived brain organoids, BBB-on-a-chip models, and AI-assisted knowledge graphs as translational tools. This is a mechanistic synthesis, not a longitudinal patient study: severe or bedbound cohorts were not assessed, and the possibility of future Parkinson''s or Alzheimer''s disease remains unproven in human epidemiology. No intervention was tested and no PEM or patient safety outcome was measured.'
+de:
+  title: Mechanistische Übersichtsarbeit verknüpft Post-COVID-Neuroinflammation mit neurodegenerativen Pathomechanismen
+  plain_summary: Diese narrative Übersichtsarbeit diskutiert Labormodelle und Hypothesen zu möglichen Überschneidungen zwischen Post-COVID-Hirnentzündung und Mechanismen neurodegenerativer Erkrankungen. Da Langzeitdaten an Patientinnen und Patienten fehlen, bleibt ein erhöhtes Risiko für spätere Demenz oder Parkinson unbewiesen.
+  detail: 'Eine narrative Übersichtsarbeit des EU-Konsortiums COMMUTE fasst vorgeschlagene Verbindungen zwischen Folgen von SARS-CoV-2 und späteren neurodegenerativen Erkrankungen zusammen, darunter Störung der Blut-Hirn-Schranke, Mikroglia-Priming, mitochondriale Dysfunktion, beeinträchtigte Abfallentsorgung und pathologische Proteinaggregation. Sie gibt einen Überblick über humane iPSC-abgeleitete Hirnorganoide, BBB-on-a-chip-Modelle und KI-gestützte Wissensgraphen als translationale Werkzeuge. Es handelt sich um eine mechanistische Synthese und nicht um eine longitudinale Patientenstudie: Schwer betroffene oder bettlägerige Kohorten wurden nicht untersucht, und die Möglichkeit späterer Parkinson- oder Alzheimer-Erkrankungen ist in der menschlichen Epidemiologie weiterhin unbewiesen. Es wurde keine Intervention getestet und kein PEM- oder Patientensicherheits-Endpunkt gemessen.'

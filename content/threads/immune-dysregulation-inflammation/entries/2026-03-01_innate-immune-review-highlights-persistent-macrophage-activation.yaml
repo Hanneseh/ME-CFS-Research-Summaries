@@ -1,0 +1,18 @@
+id: 2026-03-01_innate-immune-review-highlights-persistent-macrophage-activation
+date: '2026-03-01'
+date_display: '2026-03-01'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Sefik et al. 2026, Clinical Immunology
+  url: https://www.sciencedirect.com/science/article/pii/S1521661626000392
+  kind: paper
+en:
+  title: Innate immune review highlights persistent macrophage activation and failed resolution in PASC
+  plain_summary: A review of human and mouse studies suggested that lung immune cells (macrophages) can harbor viral RNA and keep NLRP3 inflammasomes switched on, driving chronic inflammation. While blocking NLRP3 helped tissue damage in mice, it also released infectious virus, showing that safety must be tested carefully before human trials.
+  detail: A review of human cohorts and humanized mouse models synthesized evidence that lung-resident macrophages harbor viral RNA and maintain active inflammasomes, leading to chronic release of IL-1 and IL-18, driven by sustained interferon and IgG-mediated antibody-dependent enhancement. This highlights macrophage activation and failed innate resolution as central to PASC, demonstrating that inhibiting the NLRP3 inflammasome can reverse tissue pathology in preclinical models. However, inhibiting the NLRP3 inflammasome in models also triggered the release of infectious virus, indicating a potential risk that must be evaluated in human trials.
+de:
+  title: Übersichtsarbeit zur angeborenen Immunabwehr betont anhaltende Makrophagen-Aktivierung und gestörte Entzündungsauflösung bei PASC
+  plain_summary: Eine Übersichtsarbeit zu menschlichen Daten und Mausmodellen beschreibt, wie Fresszellen (Makrophagen) in der Lunge Virus-RNA beherbergen und über NLRP3-Inflammasome dauerhaft Entzündung auslösen können. Im Tiermodell besserte eine NLRP3-Hemmung zwar Gewebeschäden, setzte aber auch infektiöse Viren frei – ein mögliches Risiko für künftige Studien.
+  detail: Eine Übersichtsarbeit zu menschlichen Kohorten und humanisierten Mausmodellen fasste Hinweise zusammen, wonach lungenständige Makrophagen virale RNA beherbergen und aktive Inflammasome aufrechterhalten, was zu einer chronischen Freisetzung von IL-1 und IL-18 führt – angetrieben durch anhaltendes Interferon und IgG-vermittelte Antikörper-abhängige Verstärkung. Dies rückt Makrophagen-Aktivierung und ausbleibende Entzündungsauflösung in den Mittelpunkt von PASC und zeigt, dass eine Hemmung des NLRP3-Inflammasoms in präklinischen Modellen Gewebeschäden rückgängig machen kann. Allerdings löste die Blockade von NLRP3 in diesen Modellen auch die Freisetzung infektiöser Viren aus – ein mögliches Sicherheitsrisiko, das in Studien am Menschen sorgfältig geprüft werden muss.

@@ -1,0 +1,20 @@
+id: 2026-05-12_nih-led-ethics-paper-establishes-framework-for-proceeding
+date: '2026-05-12'
+date_display: '2026-05-12'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Hendriks et al. 2026, eClinicalMedicine
+  url: https://www.sciencedirect.com/science/article/pii/S2589537026001665
+  kind: paper
+en:
+  title: NIH-led ethics paper establishes framework for proceeding with Long COVID disease-modifying trials
+  plain_summary: An NIH-led bioethics paper argued that moving ahead with Long COVID treatment trials is an ethical obligation, even before all disease mechanisms are fully understood. It is a policy and trial-design framework rather than a test of any drug.
+  detail: A multidisciplinary paper from the NIH Department of Bioethics and collaborating institutions, published in eClinicalMedicine, argued that transitioning Long COVID research from observational studies to clinical trials of disease-modifying treatments is an ethical necessity, not a premature step. The authors, including clinician-scientists and individuals with lived Long COVID experience, identified immunomodulatory, neurological, and antiviral drug categories as viable near-term trial targets and proposed adaptive platform trial designs as the primary tool for managing scientific uncertainty. The argument is that ongoing patient burden makes waiting for a complete mechanistic understanding of the disease ethically untenable, and that rigorous trial design can manage risks even without validated biomarkers. For clinical characterization, the paper is relevant because it signals that the international infrastructure consensus has moved to a point where large trials are being designed—and
+    that the design standards proposed (including fair participant selection and stratified monitoring) will shape how trial cohorts are defined and enrolled going forward.
+de:
+  title: NIH-geführtes Ethikpapier legt Rahmen für den Start krankheitsmodifizierender Long-COVID-Studien fest
+  plain_summary: Ein von den NIH geleitetes Ethikpapier argumentiert, dass klinische Therapiestudien zu Long COVID ethisch geboten sind, auch bevor alle Krankheitsmechanismen vollständig geklärt sind. Es liefert einen Rahmen für Studiendesign und Ethik, prüft aber selbst kein Medikament.
+  detail: Ein multidisziplinäres Papier des NIH Department of Bioethics und kooperierender Einrichtungen, veröffentlicht in eClinicalMedicine, argumentierte, dass der Übergang der Long-COVID-Forschung von reinen Beobachtungsstudien zu klinischen Studien mit krankheitsmodifizierenden Therapien eine ethische Notwendigkeit und kein verfrühter Schritt sei. Die Autorinnen und Autoren – darunter klinisch Forschende und Menschen mit eigener Long-COVID-Erfahrung – benannten immunmodulatorische, neurologische und antivirale Wirkstoffklassen als nahe liegende Studienziele und schlugen adaptive Plattformstudien als zentrales Instrument im Umgang mit wissenschaftlicher Unsicherheit vor. Die anhaltende Krankheitslast mache es ethisch unvertretbar, auf eine vollständige Aufklärung aller Mechanismen zu warten, zumal sorgfältiges Studiendesign Risiken auch ohne validierte Biomarker steuern könne. Für die klinische Charakterisierung zeigt das Papier, wie internationale Infrastrukturstandards für faire Rekrutierung,
+    Stratifizierung und Sicherheitsmonitoring künftige Studienkohorten prägen werden.

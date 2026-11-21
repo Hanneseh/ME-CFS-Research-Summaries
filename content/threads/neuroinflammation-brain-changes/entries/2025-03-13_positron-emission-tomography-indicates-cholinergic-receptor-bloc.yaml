@@ -1,0 +1,18 @@
+id: 2025-03-13_positron-emission-tomography-indicates-cholinergic-receptor-bloc
+date: '2025-03-13'
+date_display: '2025-03-13'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: Leitzke et al. 2025, Bioelectronic Medicine Presentation
+  url: https://www.youtube.com/live/E0Yb6FLEzR8?si=7eHapbtWXCuswzYw
+  kind: video
+en:
+  title: Positron emission tomography indicates cholinergic receptor blockade in Long COVID
+  plain_summary: A conference presentation and single case report suggested SARS-CoV-2 spike protein may block acetylcholine receptors in the brain, and reported symptom improvement after a nicotine patch. Because this rests on a single case and a review, controlled trials are required before recommending nicotine patches.
+  detail: An imaging study using (-)-[18F]Flubatine PET-CT/MRI, presented at the Bioelectronic Medicine forum, demonstrated that the SARS-CoV-2 spike protein has a high affinity for nicotinic acetylcholine receptors (nAChRs), causing a functional blockade of cholinergic neurotransmission. A clinical case study showed that the administration of nicotine patches displaced the blocking viral proteins, resulting in the recovery of receptor availability and rapid clinical improvement in neurological and respiratory symptoms. This provides the first direct imaging evidence supporting the cholinergic hypothesis of post-viral cognitive symptoms, suggesting a targetable mechanism of receptor poisoning. However, the findings are limited to a case report and literature review, necessitating large-scale randomized trials to standardize therapeutic protocols and confirm efficacy.
+de:
+  title: Positronen-Emissions-Tomographie deutet auf Blockade cholinerger Rezeptoren bei Long COVID hin
+  plain_summary: Ein Konferenzbeitrag und ein einzelner Fallbericht legen nahe, dass das SARS-CoV-2-Spike-Protein Acetylcholin-Rezeptoren im Gehirn blockieren könnte, und berichten Besserung nach Nikotinpflastern. Da dies auf einem Einzelfall und einer Übersicht beruht, sind kontrollierte Studien nötig, bevor sich eine Wirksamkeit ableiten lässt.
+  detail: Eine beim Bioelectronic-Medicine-Forum vorgestellte Bildgebungsstudie mittels (-)-[18F]Flubatin-PET-CT/MRT zeigte, dass das SARS-CoV-2-Spike-Protein eine hohe Affinität für nikotinische Acetylcholinrezeptoren (nAChRs) besitzt und dadurch eine funktionelle Blockade der cholinergen Neurotransmission verursacht. Eine klinische Fallstudie zeigte, dass die Gabe von Nikotinpflastern die blockierenden viralen Proteine verdrängte, was zu einer Erholung der Rezeptorverfügbarkeit und zu einer raschen klinischen Besserung neurologischer und respiratorischer Symptome führte. Dies liefert den ersten direkten Bildgebungsbeleg für die cholinerge Hypothese postviraler kognitiver Symptome und weist auf einen gezielt angehbaren Mechanismus einer Rezeptorblockade hin. Die Befunde beschränken sich jedoch auf einen Fallbericht und eine Literaturübersicht, sodass groß angelegte randomisierte Studien nötig sind, um Behandlungsprotokolle zu standardisieren und die Wirksamkeit zu bestätigen.

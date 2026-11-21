@@ -1,0 +1,23 @@
+id: 2026-10-13_vienna-announces-public-pais-clinic-from-summer-2027
+date: '2026-10-13'
+date_display: '2026-10-13'
+date_precision: exact
+source_type: announcement
+study_design: null
+sources:
+- label: MedUni Wien press release, 2026-10-13
+  url: https://www.meduniwien.ac.at/web/ueber-uns/news/2026/news-im-oktober-2026/wien-baut-vorreiterrolle-bei-me/cfs-forschung-und-versorgung-aus/
+  kind: announcement
+- label: wien.ORF.at reporting, 2026-10-13
+  url: https://wien.orf.at/stories/3375056/
+  kind: other
+en:
+  title: Vienna announces public PAIS clinic from summer 2027 and two ~€1 million MedUni Wien ME/CFS grants
+  plain_summary: Vienna announced a new public outpatient clinic for post-infectious syndromes opening in stages from summer 2027, alongside €2 million in MedUni Wien grants for MRI and genome-sequencing studies. Both the clinic and the funded studies are future plans with no patient outcomes yet.
+  detail: 'MedUni Wien and the City of Vienna announced a public outpatient centre for post-acute infection syndromes (PAIS) at the Diabeteszentrum Donaufeld in Floridsdorf, with a first stage of care from summer 2027 and full service from mid-2028. WWTF and the WE&ME Foundation awarded two 36-month Consolidation Grants: ME-RESET (Haider, Krššák, Kollndorfer; €999,930), a randomized study using multiorgan MRI, MR spectroscopy, and blood markers under hypoxia, and a whole-genome sequencing project with a new "ME/CFS Rare Disease Board" (Wielscher, Hoffmann; €999,169), separate from the same investigators'' 2026-07-24 WE&ME Award. As reported by wien.ORF.at, the centre will cost €6.7 million to build and €3.8 million a year to run, with about 20 full-time posts, light- and noise-reduced rooms with places to lie down, and telemedicine for people who cannot attend; it targets moderate-to-severe cases and admits only people with an existing diagnosis and a referral. Mayor Michael Ludwig estimated
+    70,000–80,000 affected people in Austria, about a quarter of them housebound or bedbound, but no home visits are described (see [Severe ME/CFS Care](thread:severe-mecfs-care)). This is an announcement only, with no care delivered or research results yet.'
+de:
+  title: Wien kündigt öffentliches PAIS-Zentrum ab Sommer 2027 und zwei ME/CFS-Förderungen von je rund 1 Million Euro an der MedUni Wien an
+  plain_summary: Wien hat ein öffentliches Ambulanzzentrum für postakute Infektionssyndrome ab Sommer 2027 sowie rund 2 Millionen Euro Förderung an der MedUni Wien für MRT- und Genomsequenzierungs-Studien angekündigt. Sowohl die Klinik als auch die Projekte sind Zukunftsplanungen ohne erste Patienten- oder Studienergebnisse.
+  detail: 'Die MedUni Wien und die Stadt Wien kündigten ein öffentliches Ambulanzzentrum für postakute Infektionssyndrome (PAIS) am Diabeteszentrum Donaufeld in Floridsdorf an, mit einer ersten Ausbaustufe ab Sommer 2027 und Vollbetrieb ab Mitte 2028. Zudem vergaben WWTF und die WE&ME Foundation zwei 36-monatige Consolidation Grants: ME-RESET (Haider, Krššák, Kollndorfer; 999.930 Euro), eine randomisierte Studie mit Multiorgan-MRT, MR-Spektroskopie und Blutmarkern unter Hypoxie, sowie ein Gesamtgenom-Sequenzierungsprojekt mit neuem „ME/CFS Rare Disease Board“ (Wielscher, Hoffmann; 999.169 Euro), getrennt vom WE&ME Award derselben Forschenden vom 24.07.2026. Wie wien.ORF.at berichtete, kostet der Bau des Zentrums 6,7 Millionen Euro bei 3,8 Millionen Euro Jahresbetrieb, rund 20 Vollzeitstellen, licht- und lärmreduzierten Räumen mit Liegemöglichkeiten sowie Telemedizin für Personen, die nicht anreisen können; es richtet sich an moderat bis schwer Betroffene und nimmt nur Patientinnen und Patienten
+    mit bestehender Diagnose und Überweisung auf. Bürgermeister Michael Ludwig schätzte 70.000–80.000 Betroffene in Österreich, davon rund ein Viertel hausgebunden oder bettlägerig, doch werden keine Hausbesuche beschrieben (siehe [Versorgung bei schwerem ME/CFS](thread:severe-mecfs-care)). Es handelt sich lediglich um eine Ankündigung ohne bislang erbrachte Versorgung oder Forschungsergebnisse.'

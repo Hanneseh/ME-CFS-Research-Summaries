@@ -1,0 +1,20 @@
+id: 2026-06-11_solve-m-e-webinar-highlights-launch-and-genetic
+date: '2026-06-11'
+date_display: '2026-06-11'
+date_precision: exact
+source_type: announcement
+study_design: null
+sources:
+- label: Ponting et al. 2026, Solve M.E. Webinar
+  url: https://youtu.be/v6VQ2593m-8?si=-OnvQ_DFYRITTicN
+  kind: video
+en:
+  title: Solve M.E. webinar highlights launch and genetic rationale of Sequence ME & Long Covid project
+  plain_summary: A Solve M.E. webinar announced funding for 'Sequence ME & Long Covid,' a new project planning full long-read DNA sequencing for thousands of patients from DecodeME and Long COVID cohorts. It is an early project launch rather than completed research, so it does not yet report genetic discoveries or treatment results.
+  detail: Solve M.E. hosted an educational webinar featuring the DecodeME management team—including Prof. Chris Ponting, Sonya Chowdhury, and Andy Devereux-Cooke—to discuss the launch of the "Sequence ME & Long Covid" study. Moving beyond the GWAS design of DecodeME (which identified 8 risk loci across 15,500 genomes), the new project will use Oxford Nanopore long-read whole-genome sequencing to read all 3 billion base pairs of participants. This allows detection of rare genetic and structural variations (deletions, inversions) invisible to standard GWAS. The project has secured £4.75 million in UK government and donor funding for Phase 1 to sequence 6,000 ME/CFS patient samples from DecodeME, with ultimate goals of sequencing 9,000 ME/CFS and 9,000 Long Covid patients. The team argued that whole-genome sequencing is a necessary starting point to build a biological blueprint for defining disease subtypes and discovering drug targets. As a project launch and funding announcement, this presentation
+    outlines the study rationale and does not report clinical efficacy or diagnostic outcome data.
+de:
+  title: Solve-M.E.-Webinar stellt Start und genetisches Konzept des Projekts „Sequence ME & Long Covid“ vor
+  plain_summary: Ein Solve-M.E.-Webinar stellte die Finanzierung für „Sequence ME & Long Covid“ vor – ein neues Projekt zur vollständigen Long-Read-Genomsequenzierung tausender Betroffener aus DecodeME- und Long-COVID-Kohorten. Es handelt sich um den Start eines Vorhabens und noch nicht um fertige Ergebnisse oder klinische Daten.
+  detail: Solve M.E. veranstaltete ein Informationswebinar mit dem Leitungsteam von DecodeME – darunter Prof. Chris Ponting, Sonya Chowdhury und Andy Devereux-Cooke – zum Start der Studie „Sequence ME & Long Covid“. Über das GWAS-Design von DecodeME hinaus (das acht Risikoregionen bei 15.500 Genomen fand) soll das neue Projekt Long-Read-Gesamtgenomsequenzierung von Oxford Nanopore einsetzen, um alle drei Milliarden Basenpaare der Teilnehmenden zu lesen. Dadurch lassen sich seltene genetische und strukturelle Varianten (Deletionen, Inversionen) erfassen, die für Standard-GWAS unsichtbar bleiben. Für Phase 1 hat das Projekt 4,75 Millionen Pfund aus britischen Regierungs- und Spendengeldern gesichert, um 6.000 ME/CFS-Proben aus DecodeME zu sequenzieren; langfristiges Ziel sind jeweils 9.000 ME/CFS- und 9.000 Long-COVID-Patientinnen und -Patienten. Das Team betonte, dass Gesamtgenom-Sequenzierung ein notwendiger Ausgangspunkt sei, um einen biologischen Bauplan für Untergruppen und Wirkstoffziele
+    zu erstellen; als Projekt- und Förderankündigung liefert die Präsentation jedoch noch keine klinischen Wirksamkeits- oder Diagnosedaten.

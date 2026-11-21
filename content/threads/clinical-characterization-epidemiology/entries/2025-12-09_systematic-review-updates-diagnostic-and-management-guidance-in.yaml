@@ -1,0 +1,20 @@
+id: 2025-12-09_systematic-review-updates-diagnostic-and-management-guidance-in
+date: '2025-12-09'
+date_display: '2025-12-09'
+date_precision: exact
+source_type: review
+study_design: Systematic review
+sources:
+- label: Fan et al. 2025, Journal of Translational Medicine
+  url: https://pubmed.ncbi.nlm.nih.gov/41366804
+  kind: paper
+en:
+  title: Systematic review updates diagnostic and management guidance in light of Long COVID overlap
+  plain_summary: A systematic review confirmed that ME/CFS still relies on symptom-based diagnosis centered on PEM and cognitive issues, with pacing as the main management tool and graded exercise advised against. It summarizes existing evidence rather than reporting new trials.
+  detail: A systematic review published in the Journal of Translational Medicine synthesized ME/CFS diagnostic criteria, pathophysiology, and management through August 2025, explicitly situating the illness within the broader post-viral landscape that Long COVID has expanded. The review confirmed that diagnosis still rests on clinical criteria centred on PEM and cognitive dysfunction, because definitive biomarkers remain absent. It identified immune dysregulation, oxidative stress, mitochondrial dysfunction, and neuroinflammation as the leading candidate pathologies, while concluding that graded exercise therapy is contraindicated. On management, the review highlights activity pacing as the primary non-pharmacological approach and calls for future work to identify combination therapies targeting multiple pathways simultaneously. The practical implication is that the review provides a current clinical consensus document anchored in indexed literature, which supporting how primary care clinicians
+    can update their approach without waiting for biomarker-based diagnostic tools.
+de:
+  title: Systematische Übersichtsarbeit aktualisiert Diagnose- und Versorgungsempfehlungen vor dem Hintergrund von Long COVID
+  plain_summary: Eine systematische Übersichtsarbeit bestätigt, dass sich die ME/CFS-Diagnose weiterhin auf klinische Kriterien rund um PEM und kognitive Beschwerden stützt, während Pacing im Mittelpunkt steht und von abgestufter Aktivierung abgeraten wird. Sie fasst den bisherigen Wissensstand zusammen, ohne neue Studien vorzulegen.
+  detail: Eine im Journal of Translational Medicine veröffentlichte systematische Übersichtsarbeit fasste Diagnosekriterien, Pathophysiologie und Versorgung bei ME/CFS bis August 2025 zusammen und ordnete die Erkrankung ausdrücklich in das durch Long COVID erweiterte postvirale Spektrum ein. Die Arbeit bestätigt, dass die Diagnose mangels eindeutiger Biomarker weiterhin auf klinischen Kriterien beruht, in deren Zentrum PEM und kognitive Dysfunktion stehen. Als führende Verdachtsmechanismen nennt sie Immundysregulation, oxidativen Stress, mitochondriale Dysfunktion und Neuroinflammation, während sie eine abgestufte Aktivierungstherapie (Graded Exercise Therapy) als kontraindiziert bewertet. Für die Versorgung hebt die Übersichtsarbeit Pacing als zentralen nicht-medikamentösen Ansatz hervor und fordert künftige Studien zu Kombinationstherapien, die mehrere Signalwege gleichzeitig adressieren. Praktisch bietet die Arbeit ein aktuelles, in der Fachliteratur verankertes Konsensdokument, das Hausärztinnen
+    und Hausärzten hilft, ihr Vorgehen zu aktualisieren, ohne auf künftige Biomarker-Tests warten zu müssen.

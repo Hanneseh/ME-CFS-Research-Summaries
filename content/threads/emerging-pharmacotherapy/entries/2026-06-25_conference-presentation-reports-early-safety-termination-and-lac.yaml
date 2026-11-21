@@ -1,0 +1,20 @@
+id: 2026-06-25_conference-presentation-reports-early-safety-termination-and-lac
+date: '2026-06-25'
+date_display: '2026-06-25'
+date_precision: exact
+source_type: conference
+study_design: RCT
+sources:
+- label: Lucas Adam, "Methylprednisolon bei PCS" (Internationale ME/CFS-Konferenz 2026 presentation)
+  url: https://youtu.be/jNzp-j0kKCY
+  kind: video
+en:
+  title: Conference presentation reports early safety termination and lack of efficacy in PoCoWiT methylprednisolone RCT
+  plain_summary: The randomized PoCoWiT trial testing high-dose oral methylprednisolone for Long COVID brain fog was stopped early for safety after five serious adverse events—including blood clots and severe infections—occurred only in the steroid group with no cognitive benefit. This serves as a clear safety warning against high-dose oral steroids for post-COVID cognitive symptoms.
+  detail: At the Internationale ME/CFS-Konferenz 2026, Lucas Adam presented preliminary results from the PoCoWiT trial, a double-blind randomized controlled trial (RCT) evaluating high-dose oral methylprednisolone (1 mg/kg/day for 4 weeks followed by tapering) for cognitive dysfunction in Post-COVID Syndrome (PCS). The trial was terminated early by the Data and Safety Monitoring Board (DSMB) after enrolling 96 of 180 planned patients due to a cluster of five serious adverse events occurring exclusively in the active treatment group and a clear lack of efficacy. These severe events included deep vein thrombosis (DVT), pulmonary embolism (PE), atypical pneumonia, pyelonephritis, and severe headache requiring hospitalization. Efficacy analyses revealed no statistically significant difference in cognitive recovery between the methylprednisolone and placebo groups, with both showing only a minor, identical 3-point improvement on the Memory Quality Questionnaire (MMQ) at the 8-week follow-up.
+    This early termination establishes a prominent safety warning against using high-dose oral corticosteroids for post-COVID cognitive impairment, though the study was underpowered due to its early cessation and limited to a narrow cognitive phenotype.
+de:
+  title: Konferenzbericht meldet vorzeitigen Sicherheitsabbruch und fehlende Wirksamkeit in der PoCoWiT-Methylprednisolon-RCT
+  plain_summary: Die randomisierte PoCoWiT-Studie zu hochdosiertem oralem Methylprednisolon bei kognitiven Long-COVID-Störungen wurde vorzeitig aus Sicherheitsgründen abgebrochen, da fünf schwere Ereignisse – darunter Thrombosen, Lungenembolie und schwere Infektionen – ausschließlich in der Kortisongruppe auftraten, ohne jeden kognitiven Nutzen. Dies ist ein deutliches Warnsignal gegen hochdosierte orale Steroide bei post-COVID-bedingten Denkstörungen.
+  detail: Auf der Internationalen ME/CFS-Konferenz 2026 präsentierte Lucas Adam vorläufige Ergebnisse der PoCoWiT-Studie, einer doppelt verblindeten randomisierten kontrollierten Studie (RCT) zu hochdosiertem oralem Methylprednisolon (1 mg/kg/Tag für 4 Wochen mit anschließendem Ausschleichen) bei kognitiver Dysfunktion im Post-COVID-Syndrom (PCS). Die Studie wurde vom Data and Safety Monitoring Board (DSMB) nach Einschluss von 96 der geplanten 180 Patientinnen und Patienten vorzeitig abgebrochen – wegen einer Häufung von fünf schweren unerwünschten Ereignissen ausschließlich in der aktiven Behandlungsgruppe sowie klar fehlender Wirksamkeit. Diese schweren Ereignisse umfassten tiefe Venenthrombose (TVT), Lungenembolie (LE), atypische Pneumonie, Pyelonephritis und schwere Kopfschmerzen mit Krankenhausaufnahme. Wirksamkeitsanalysen zeigten keinen statistisch signifikanten Unterschied in der kognitiven Erholung zwischen Methylprednisolon und Placebo; beide Gruppen erreichten beim 8-Wochen-Follow-up
+    lediglich eine identische, geringe Verbesserung um 3 Punkte im Memory Quality Questionnaire (MMQ). Dieser vorzeitige Abbruch setzt ein deutliches Sicherheitssignal gegen den Einsatz hochdosierter oraler Kortikosteroide bei post-COVID-bedingten kognitiven Störungen, wenngleich die Studie durch das frühe Ende geringere statistische Power hatte und auf einen engen kognitiven Phänotyp beschränkt war.

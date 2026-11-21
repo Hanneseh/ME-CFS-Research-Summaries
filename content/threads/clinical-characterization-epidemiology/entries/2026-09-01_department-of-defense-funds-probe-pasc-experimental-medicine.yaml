@@ -1,0 +1,19 @@
+id: 2026-09-01_department-of-defense-funds-probe-pasc-experimental-medicine
+date: '2026-09-01'
+date_display: '2026-09-01'
+date_precision: exact
+source_type: report
+study_design: null
+sources:
+- label: Ladyzhets 2026, The Sick Times
+  url: https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/
+  kind: other
+en:
+  title: Department of Defense funds PROBE-PASC experimental-medicine trial network
+  plain_summary: News reports describe an $8 million U.S. Department of Defense grant for a four-site Long COVID trial network planning a 200-person study of pemivibart and hydroxychloroquine. This is an early trial-launch report with no results yet, and both drugs carry known risks outside monitored trials.
+  detail: The Sick Times reported that a U.S. Department of Defense grant announcement and conference slides describe an $8 million award to launch PROBE-PASC, a network linking four clinical sites with six mechanistic laboratories. According to that secondary report, the inaugural planned Phase 2 trial would randomize 200 participants to pemivibart (Pemgarda), hydroxychloroquine, both, or placebo while tracking viral, immune, endothelial, and patient-reported measures over 180 days; a primary award notice or full protocol was not independently inspected here. This is an infrastructure and trial-launch report, not an efficacy result; severe or bedbound inclusion was not reported, and repeated infusion and blood-sampling visits may impose travel, orthostatic, and PEM burdens. Both interventions carry clinical risks and should not be pursued outside appropriate medical supervision or the formal trial.
+de:
+  title: US-Verteidigungsministerium fördert experimentelles Studiennetzwerk PROBE-PASC
+  plain_summary: Medienberichte beschreiben eine 8-Millionen-Dollar-Förderung des US-Verteidigungsministeriums für ein Long-COVID-Studiennetzwerk mit einer geplanten 200-Personen-Studie zu Pemivibart und Hydroxychloroquin. Es liegt erst eine Projektankündigung ohne Ergebnisse vor; beide Wirkstoffe bergen außerhalb ärztlich begleiteter Studien Risiken.
+  detail: Laut einem Bericht von The Sick Times beschreiben eine Förderankündigung des US-Verteidigungsministeriums und Konferenzfolien eine Zuwendung von 8 Millionen US-Dollar zum Aufbau von PROBE-PASC, einem Netzwerk aus vier klinischen Standorten und sechs mechanistischen Laboren. Dem Sekundärbericht zufolge soll die erste geplante Phase-2-Studie 200 Teilnehmende randomisiert auf Pemivibart (Pemgarda), Hydroxychloroquin, beide Substanzen oder Placebo verteilen und über 180 Tage virale, immunologische, endotheliale und patientenberichtete Maße verfolgen; ein Primärbescheid oder vollständiges Protokoll wurde hier nicht unabhängig eingesehen. Es handelt sich um einen Infrastruktur- und Studienstartbericht ohne Wirksamkeitsdaten; ein Einschluss schwer Betroffener wurde nicht berichtet, und wiederholte Infusionen sowie Blutentnahmen können Anreise-, Orthostase- und PEM-Belastungen auslösen. Beide Wirkstoffe tragen klinische Risiken und sollten nicht außerhalb ärztlicher Aufsicht oder der formalen
+    Studie eingesetzt werden.

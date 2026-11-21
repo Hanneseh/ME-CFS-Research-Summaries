@@ -1,0 +1,18 @@
+id: 2026-01-22_ketamine-crossover-trial-reports-rapid-but-transient-reductions
+date: '2026-01-22'
+date_display: '2026-01-22'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Goto et al. 2026, Pharmacology Reports
+  url: https://doi.org/10.1007/s43440-025-00808-4
+  kind: paper
+en:
+  title: Ketamine crossover trial reports rapid but transient reductions in chronic fatigue
+  plain_summary: In a small crossover study of 10 people with chronic fatigue, a single low-dose ketamine infusion temporarily lowered fatigue scores at 24 hours, but did not clearly outperform the active control drug midazolam. Small sample size, strong control responses, and carryover between test sessions leave ketamine's benefit unproven.
+  detail: A randomized, double-blind, crossover trial involving ten participants with chronic fatigue (including ME/CFS and fibromyalgia) showed that a single low-dose ketamine infusion reduced fatigue scores by 21% at three days and by nearly 39% at 24 hours. The study demonstrates that low-dose ketamine, an NMDA receptor antagonist, can induce rapid, clinically relevant reductions in severe chronic fatigue. However, due to the small sample size and a strong placebo response in the active control (midazolam) group, the difference in fatigue reduction between the groups did not reach statistical significance. The crossover design also introduced significant carryover effects, where the fatigue-reducing effects of the first infusion influenced the baseline of the second period. These limitations mean that the efficacy of ketamine over active controls remains unproven, and parallel-design trials are needed to confirm the drug's therapeutic value.
+de:
+  title: Ketamin-Crossover-Studie berichtet rasche, aber vorübergehende Senkung chronischer Fatigue
+  plain_summary: In einer kleinen Crossover-Studie mit 10 Personen mit chronischer Fatigue senkte eine einmalige niedrigdosierte Ketamin-Infusion Fatigue-Scores nach 24 Stunden kurzfristig, übertraf das aktive Kontrollmedikament Midazolam aber statistisch nicht. Kleine Fallzahl, starke Kontrollantworten und Überhangeffekte zwischen den Phasen lassen den Nutzen von Ketamin unbewiesen.
+  detail: Eine randomisierte, doppelt verblindete Crossover-Studie mit zehn Teilnehmenden mit chronischer Fatigue (einschließlich ME/CFS und Fibromyalgie) zeigte, dass eine einmalige niedrigdosierte Ketamin-Infusion die Fatigue-Scores nach drei Tagen um 21 % und nach 24 Stunden um fast 39 % senkte. Die Studie deutet darauf hin, dass niedrigdosiertes Ketamin als NMDA-Rezeptor-Antagonist schnelle, klinisch spürbare Rückgänge schwerer chronischer Fatigue auslösen kann. Aufgrund der kleinen Stichprobe und einer starken Placeboantwort in der aktiven Kontrollgruppe (Midazolam) erreichte der Unterschied zwischen beiden Gruppen jedoch keine statistische Signifikanz. Zudem führte das Crossover-Design zu deutlichen Überhangeffekten (Carryover), bei denen die Wirkung der ersten Infusion den Ausgangswert der zweiten Phase beeinflusste. Damit bleibt die Wirksamkeit von Ketamin gegenüber aktiven Kontrollen unbewiesen, und Parallelgruppen-Studien sind nötig.

@@ -1,0 +1,19 @@
+id: 2025-09-19_clinical-study-demonstrates-molecular-mimicry-between-epstein-ba
+date: '2025-09-19'
+date_display: '2025-09-19'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Hoheisel et al. 2025, Frontiers in Immunology
+  url: https://doi.org/10.3389/fimmu.2025.1650948
+  kind: paper
+en:
+  title: Clinical study demonstrates molecular mimicry between Epstein-Barr virus and human proteins
+  plain_summary: A study in women with Long COVID and ME/CFS found antibodies triggered by Epstein-Barr virus that cross-react with human nerve and blood-vessel proteins, tracking with symptom severity. Because the group was small and female-only, it does not yet prove whether these antibodies directly cause symptoms or are just an immune byproduct.
+  detail: A clinical study in women with Post-COVID Syndrome and ME/CFS demonstrated molecular mimicry between Epstein-Barr virus (EBV) and human proteins. Researchers found elevated IgG autoantibodies targeting human peptides involved in neuronal, vascular, and autonomic function (such as SRRM3, SLC24A3, TSPYL2, and TSPYL5) that share sequence homology with EBV. Crucially, the levels of these cross-reactive antibodies directly correlated with patient-reported severity of fatigue, pain, cognitive dysfunction, and autonomic symptoms. This provides a clear autoimmune mechanism explaining how a host response to a common viral trigger can lead to chronic neurological and vascular symptoms. However, the study does not prove that these autoantibodies are the direct cause of the symptoms rather than a secondary biomarker of immune dysregulation. The findings are also limited by a relatively small, female-only cohort, requiring validation in larger, sex-stratified patient groups.
+de:
+  title: Klinische Studie zeigt molekulare Mimikry zwischen Epstein-Barr-Virus und menschlichen Proteinen
+  plain_summary: Eine Studie bei Frauen mit Post-COVID-Syndrom und ME/CFS fand gegen EBV gerichtete Antikörper, die auch menschliche Nerven- und Gefäßproteine angreifen und mit der Beschwerdestärke zusammenhingen. Da die Gruppe klein und rein weiblich war, ist noch nicht bewiesen, ob diese Antikörper Symptome direkt auslösen oder nur eine Begleiterscheinung sind.
+  detail: Eine klinische Studie an Frauen mit Post-COVID-Syndrom und ME/CFS wies eine molekulare Mimikry zwischen dem Epstein-Barr-Virus (EBV) und menschlichen Proteinen nach. Die Forschenden fanden erhöhte IgG-Autoantikörper gegen menschliche Peptide mit Bedeutung für Nerven-, Gefäß- und autonome Funktionen (darunter SRRM3, SLC24A3, TSPYL2 und TSPYL5), die Sequenzähnlichkeiten zu EBV aufweisen. Entscheidend war, dass die Spiegel dieser kreuzreaktiven Antikörper direkt mit der von Patientinnen berichteten Schwere von Erschöpfung, Schmerzen, kognitiven Störungen und autonomen Beschwerden korrelierten. Dies liefert einen plausiblen Autoimmun-Mechanismus dafür, wie eine Immunantwort auf ein verbreitetes Virus zu chronischen neurologischen und vaskulären Symptomen beitragen könnte. Allerdings beweist die Studie nicht, dass diese Autoantikörper direkte Ursache der Symptome statt eines sekundären Markers von Immundysregulation sind, und die Aussagekraft ist durch die relativ kleine, rein weibliche
+    Kohorte begrenzt.

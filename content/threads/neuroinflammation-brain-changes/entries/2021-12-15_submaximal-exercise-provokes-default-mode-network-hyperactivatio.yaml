@@ -1,0 +1,18 @@
+id: 2021-12-15_submaximal-exercise-provokes-default-mode-network-hyperactivatio
+date: '2021-12-15'
+date_display: '2021-12-15'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Rayhan & Baraniuk 2021, Frontiers in Neuroscience
+  url: https://doi.org/10.3389/fnins.2021.748426
+  kind: paper
+en:
+  title: Submaximal exercise provokes default mode network hyperactivation
+  plain_summary: A brain-scan study found that after moderate exercise, a resting-state brain network stayed overactive in patients instead of winding down as it did in healthy volunteers. This points to a physical brain correlate for post-exertional cognitive exhaustion, though the study was small and could not show whether it is unique to ME/CFS.
+  detail: A functional magnetic resonance imaging (fMRI) study demonstrated that a submaximal exercise challenge induces abnormal resting-state activation in the medial prefrontal cortex, the anterior node of the Default Mode Network (DMN), in patients compared to healthy controls. Prior to exertion, patients exhibited lower overall blood oxygenation level-dependent (BOLD) signal amplitudes, indicating reduced baseline cerebral blood flow. Following exercise, healthy controls showed a decline in BOLD activity in this prefrontal region, whereas patients demonstrated a significant increase in spontaneous activity. This post-exertional network hyperactivation provides a neurobiological correlate for cognitive exhaustion and post-exertional malaise. However, the study was limited by a small sample size, and it does not establish if this network dysfunction is specific to ME/CFS compared to other fatiguing illnesses.
+de:
+  title: Submaximale Belastung löst eine Überaktivierung des Default Mode Network aus
+  plain_summary: Eine MRT-Studie zeigte, dass ein Ruhezustandsnetzwerk des Gehirns nach mäßiger körperlicher Belastung bei Betroffenen überaktiv blieb, statt wie bei Gesunden herunterzufahren. Das liefert einen möglichen biologischen Anhaltspunkt für kognitive Erschöpfung nach Anstrengung, stammt aber aus einer kleinen Studie ohne Vergleich zu anderen Erschöpfungserkrankungen.
+  detail: Eine funktionelle Magnetresonanztomographie-(fMRT-)Studie zeigte, dass eine submaximale Belastungstestung im Vergleich zu gesunden Kontrollen eine abnorme Ruheaktivierung im medialen präfrontalen Kortex, dem anterioren Knotenpunkt des Default Mode Network (DMN), auslöst. Vor der Belastung wiesen Patientinnen und Patienten insgesamt niedrigere BOLD-Signalamplituden (Blood Oxygenation Level-Dependent) auf, was auf eine verringerte basale Hirndurchblutung hindeutet. Nach der Belastung zeigten gesunde Kontrollen einen Rückgang der BOLD-Aktivität in dieser präfrontalen Region, während bei Betroffenen ein signifikanter Anstieg spontaner Aktivität auftrat. Diese postexertionale Netzwerk-Überaktivierung liefert ein neurobiologisches Korrelat für kognitive Erschöpfung und Post-Exertional Malaise. Allerdings war die Studie durch eine kleine Stichprobengröße begrenzt und belegt nicht, ob diese Netzwerkstörung im Vergleich zu anderen Erkrankungen mit Fatigue spezifisch für ME/CFS ist.

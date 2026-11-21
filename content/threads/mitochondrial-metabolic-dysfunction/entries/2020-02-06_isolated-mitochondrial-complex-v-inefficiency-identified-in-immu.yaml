@@ -1,0 +1,26 @@
+id: 2020-02-06_isolated-mitochondrial-complex-v-inefficiency-identified-in-immu
+date: '2020-02-06'
+date_display: '2020-02-06'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Missailidis et al. 2020, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms21031074
+  kind: paper
+en:
+  title: Isolated mitochondrial Complex V inefficiency identified in immune cells
+  plain_summary: A lab study of immune cells from 51 patients found a specific inefficiency in Complex V, the cell's main ATP energy turbine, forcing cells to work harder just to keep up at rest. It is not yet proven whether this defect also occurs in muscle tissue or what causes it.
+  detail: '- **What changed:** An in vitro study of immortalized lymphocytes (lymphoblasts) from 51 patients and 22 controls discovered an isolated efficiency defect in Complex V (ATP synthase), which was accompanied by compensatory upregulation of Complexes I, II, and IV and increased fatty acid usage.
+
+    - **Why it matters:** This shifts the focus from generalized mitochondrial failure to a specific enzymatic bottleneck, demonstrating that cells compensate to maintain ATP at rest but remain chronically stressed, leaving them unable to handle acute energy demands.
+
+    - **What it does not prove yet:** The study does not establish whether this Complex V inefficiency is due to a direct genetic mutation or regulatory dysfunction, nor does it confirm if this defect is present in primary skeletal muscle tissue in vivo.'
+de:
+  title: Isolierte Ineffizienz des mitochondrialen Komplex V in Immunzellen nachgewiesen
+  plain_summary: Eine Laborstudie an Immunzellen von 51 Betroffenen fand einen gezielten Engpass bei Komplex V, dem Hauptenzym für Zellenergie, wodurch die Zellen schon in Ruhe auf Hochtouren ausgleichen müssen. Ob derselbe Defekt auch im Muskelgewebe vorliegt, ist noch offen.
+  detail: '- **Was sich gezeigt hat:** Eine In-vitro-Studie an immortalisierten Lymphozyten (Lymphoblasten) von 51 Patientinnen und Patienten sowie 22 Kontrollpersonen entdeckte einen isolierten Effizienzdefekt in Komplex V (ATP-Synthase), begleitet von einer kompensatorischen Hochregulierung der Komplexe I, II und IV sowie einer verstärkten Fettsäurenutzung.
+
+    - **Warum das wichtig ist:** Dies verschiebt den Blick von einem pauschalen Mitochondrienversagen hin zu einem konkreten enzymatischen Engpass und zeigt, dass Zellen zwar im Ruhezustand ATP aufrechterhalten können, dabei aber unter Dauerstress stehen und akute Energieanforderungen nicht abfangen können.
+
+    - **Was damit noch nicht belegt ist:** Die Studie klärt nicht, ob diese Komplex-V-Ineffizienz auf einer genetischen Mutation oder einer Fehlregulation beruht, und bestätigt noch nicht, ob der Defekt auch in primärem Skelettmuskelgewebe im Körper vorliegt.'

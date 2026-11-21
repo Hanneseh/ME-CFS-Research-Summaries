@@ -1,0 +1,19 @@
+id: 2026-06-19_first-study-demonstrating-glymphatic-dysfunction-in-me-cfs
+date: '2026-06-19'
+date_display: '2026-06-19'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Thapaliya et al. 2026, Frontiers in Neuroscience
+  url: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1875420/full
+  kind: paper
+en:
+  title: First study demonstrating glymphatic dysfunction in ME/CFS linked to sleep and cognitive symptoms
+  plain_summary: An MRI study of 58 people found lower fluid-drainage measurements along brain blood vessels in ME/CFS, which tracked with worse sleep and concentration problems. As a modest single-timepoint study, it supports studying brain waste clearance further rather than offering a clinical test.
+  detail: In a study published in *Frontiers in Neuroscience*, Kiran Thapaliya and colleagues at Griffith University's National Centre for Neuroimmunology and Emerging Diseases (NCNED) demonstrated for the first time impaired glymphatic (brain waste clearance) function in patients with ME/CFS. Using 3T MRI to calculate the DTI-ALPS index in 58 participants (31 ME/CFS, 27 healthy controls), they found that the global DTI-ALPS index was significantly lower in ME/CFS patients compared to controls. This reduction was driven by the right hemisphere. Furthermore, lower glymphatic clearance strongly correlated with greater severity of sleep disturbance and impaired concentration, suggesting that the accumulation of toxic metabolic waste in the brain due to glymphatic clearance failure may drive neuroinflammation and corresponding clinical symptoms. Limitations include a cross-sectional design, modest sample size, and unmeasured variables like sleeping position.
+de:
+  title: Erste Studie zeigt glymphatische Dysfunktion bei ME/CFS im Zusammenhang mit Schlaf- und Kognitionssymptomen
+  plain_summary: Eine MRT-Studie mit 58 Personen fand bei ME/CFS niedrigere Messwerte für den Flüssigkeitsabfluss entlang von Hirngefäßen, was mit stärkeren Schlaf- und Konzentrationsstörungen zusammenhing. Als mittelgroße Querschnittsstudie liefert sie ein Forschungsargument für weitere Untersuchungen zur Abfallentsorgung im Gehirn, aber noch keinen klinischen Test.
+  detail: In einer in *Frontiers in Neuroscience* veröffentlichten Studie wiesen Kiran Thapaliya und Kolleginnen und Kollegen am National Centre for Neuroimmunology and Emerging Diseases (NCNED) der Griffith University erstmals eine beeinträchtigte glymphatische Funktion (Abfallentsorgung des Gehirns) bei Patientinnen und Patienten mit ME/CFS nach. Mithilfe von 3T-MRT zur Berechnung des DTI-ALPS-Index bei 58 Teilnehmenden (31 ME/CFS, 27 gesunde Kontrollen) fanden sie, dass der globale DTI-ALPS-Index bei ME/CFS-Betroffenen im Vergleich zu Kontrollen signifikant niedriger war. Dieser Rückgang wurde durch die rechte Hemisphäre getrieben. Darüber hinaus korrelierte eine geringere glymphatische Clearance stark mit ausgeprägteren Schlafstörungen und Konzentrationsproblemen, was nahelegt, dass die Ansammlung toxischer Stoffwechselabfälle im Gehirn infolge gestörter glymphatischer Clearance Neuroinflammation und entsprechende klinische Symptome antreiben könnte. Einschränkungen sind das Querschnittsdesign,
+    eine moderate Stichprobengröße sowie nicht gemessene Einflussgrößen wie die Schlafposition.

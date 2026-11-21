@@ -1,0 +1,20 @@
+id: 2026-07-06_multimodal-study-protocol-outlines-biological-subgrouping-framew
+date: '2026-07-06'
+date_display: '2026-07-06'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Dooms et al. 2026, Brain, Behavior, & Immunity - Health
+  url: https://pubmed.ncbi.nlm.nih.gov/42472232/
+  kind: paper
+en:
+  title: Multimodal study protocol outlines biological subgrouping framework for ME/CFS
+  plain_summary: A published study protocol from Belgian universities plans to combine brain imaging, autonomic tests, gut microbiome analysis, and symptom tracking in 115 ME/CFS patients to identify biological subtypes. No results exist yet because data collection has not finished.
+  detail: A published study protocol for a multimodal mechanistic trial led by researchers at KU Leuven and Hasselt University details a prospective cross-sectional and longitudinal study design enrolling 115 ME/CFS patients and 55 healthy controls. The protocol combines functional magnetic resonance imaging (fMRI), autonomic nervous system testing, 18F-FEPPA PET neuroinflammation imaging, gut microbiome sequencing, short-chain fatty acid measurements, and 7-day ecological momentary assessment (EMA). By integrating systemic immune, neuroinflammatory, autonomic, and microflora parameters, the study aims to replace homogeneous cohort assumptions with objective neuropsychophysiological endotypes. Clinically, this multimodal approach addresses a core research barrier by identifying whether distinct biological subgroups predict treatment response to pacing and rehabilitation interventions. A key limitation is that as a study protocol paper, it describes experimental design and methodology prior
+    to empirical data collection and subgroup validation.
+de:
+  title: Multimodales Studienprotokoll skizziert Rahmen für biologische Subgruppenbildung bei ME/CFS
+  plain_summary: Ein veröffentlichtes Studienprotokoll belgischer Universitäten plant, Hirnbildgebung, autonome Tests, Darmmikrobiom-Analysen und Symptomtracking bei 115 ME/CFS-Betroffenen zu verbinden, um biologische Untergruppen zu finden. Ergebnisse liegen noch nicht vor, da erst das Studiendesign beschrieben wird.
+  detail: Ein veröffentlichtes Studienprotokoll für eine multimodale mechanistische Studie unter Leitung der KU Leuven und der Universität Hasselt beschreibt ein prospektives Querschnitts- und Längsschnittdesign mit 115 ME/CFS-Patientinnen und -Patienten sowie 55 gesunden Kontrollpersonen. Das Protokoll kombiniert funktionelle Magnetresonanztomografie (fMRT), Tests des autonomen Nervensystems, 18F-FEPPA-PET-Bildgebung zu Neuroinflammation, Darmmikrobiom-Sequenzierung, Messungen kurzkettiger Fettsäuren und eine 7-tägige alltagsnahe Erfassung (EMA). Durch die Verknüpfung systemischer Immun-, neuroinflammatorischer, autonomer und mikrobieller Parameter soll die Annahme einer einheitlichen Kohorte durch objektive neuropsychophysiologische Endotypen ersetzt werden. Klinisch adressiert dieser Ansatz eine zentrale Forschungslücke, indem er prüft, ob biologische Untergruppen das Ansprechen auf Pacing und Rehabilitation vorhersagen. Da es sich um ein Studienprotokoll handelt, beschreibt es Design
+    und Methodik noch vor der Datenerhebung und Validierung.

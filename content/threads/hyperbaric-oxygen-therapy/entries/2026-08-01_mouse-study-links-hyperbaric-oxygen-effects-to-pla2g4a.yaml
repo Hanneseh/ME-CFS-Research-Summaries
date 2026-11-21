@@ -1,0 +1,18 @@
+id: 2026-08-01_mouse-study-links-hyperbaric-oxygen-effects-to-pla2g4a
+date: '2026-08-01'
+date_display: '2026-08-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Zhao et al. 2026, Neurochemistry International
+  url: https://pubmed.ncbi.nlm.nih.gov/42425204/
+  kind: paper
+en:
+  title: Mouse study links hyperbaric oxygen effects to PLA2G4A lipid signaling
+  plain_summary: In stressed mice, high-pressure oxygen sessions reduced brain inflammation and fatigue-like behaviors via a lipid-signaling pathway called PLA2G4A. This is strictly an animal biology experiment and does not show whether hyperbaric chambers are safe or effective for people with ME/CFS.
+  detail: In a controlled chronic multi-stressor mouse model, Zhao et al. administered hyperbaric oxygen at 2.5 ATA for 60 minutes, four times weekly for three weeks. The mice showed improved fatigue- and memory-related behaviors, reduced hippocampal injury and inflammatory/microglial signals, and partial normalization of glycerophospholipid metabolism; PLA2G4A inhibition produced a similar effect without additive benefit. No human participants were studied, so severe/bedbound inclusion, PEM, efficacy, and patient safety were not assessed. Translating repeated chamber sessions to ME/CFS would add travel, pressure, oxygen-toxicity, and confinement burdens; the animal result is mechanistic and does not establish a treatment.
+de:
+  title: Mausstudie verknüpft Effekte von hyperbarem Sauerstoff mit PLA2G4A-Lipidsignalwegen
+  plain_summary: Bei gestressten Mäusen verringerten Überdruck-Sauerstoffsitzungen Entzündungszeichen im Gehirn und ermüdungsähnliches Verhalten über einen Lipidsignalweg namens PLA2G4A. Dies ist ein reines Tiermodell zur Grundlagenbiologie und belegt weder Sicherheit noch Wirksamkeit einer Druckkammertherapie für Menschen mit ME/CFS.
+  detail: In einem kontrollierten chronischen Multi-Stressor-Mausmodell verabreichten Zhao et al. hyperbaren Sauerstoff bei 2,5 ATA über 60 Minuten, viermal wöchentlich über drei Wochen. Die Mäuse zeigten verbesserte Fatigue- und gedächtnisbezogene Verhaltensweisen, geringere Hippocampus-Schäden und Entzündungs- bzw. Mikroglia-Signale sowie eine teilweise Normalisierung des Glycerophospholipid-Stoffwechsels; eine Hemmung von PLA2G4A erzielte einen ähnlichen Effekt ohne zusätzlichen Nutzen. Es wurden keine menschlichen Teilnehmenden untersucht, sodass Einschluss schwer Betroffener/Bettlägeriger, PEM, Wirksamkeit und Patientensicherheit nicht geprüft wurden. Eine Übertragung wiederholter Kammersitzungen auf ME/CFS brächte zudem Belastungen durch Anfahrt, Druck, Sauerstofftoxizität und Enge mit sich; das Tierergebnis ist mechanistischer Natur und begründet keine Therapie.

@@ -1,0 +1,18 @@
+id: 2026-02-25_single-cell-rna-sequencing-maps-galectin-9tim-3
+date: '2026-02-25'
+date_display: '2026-02-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Shahbaz et al. 2026, Frontiers in Immunology
+  url: https://doi.org/10.3389/fimmu.2026.1745933
+  kind: paper
+en:
+  title: Single-cell RNA sequencing maps Galectin-9–TIM-3-driven T-cell depletion in Long COVID
+  plain_summary: Single-cell blood analysis a year after COVID-19 linked T-cell depletion and impaired killer cells in Long COVID to a signaling pair called Galectin-9 and TIM-3, which was less prominent in non-COVID ME/CFS. Because only a small group of women was studied, the findings need testing in men and larger cohorts.
+  detail: Single-cell RNA sequencing 12 months post-infection showed significant depletion of naive T cells, Tregs, MAIT, and γδ T cells, alongside impaired NK cell cytotoxicity and pro-inflammatory monocyte skewing. The study identified the Galectin-9–TIM-3 interaction as a major driver of this T-cell depletion, which was less pronounced in idiopathic ME/CFS. This maps a specific molecular pathway of immune remodeling and exhaustion, validating the biological reality of Long COVID and providing a potential diagnostic biomarker and therapeutic target. However, the study was limited to a small, female-only cohort, and these immune remodeling patterns need validation in male cohorts.
+de:
+  title: Einzelzell-RNA-Sequenzierung kartiert Galectin-9–TIM-3-getriebene T-Zell-Depletion bei Long COVID
+  plain_summary: Einzelzellanalysen ein Jahr nach Infektion verknüpften den Verlust bestimmter T-Zellen und geschwächte NK-Zellen bei Long COVID mit dem Signalpaar Galectin-9–TIM-3, das bei klassischem ME/CFS schwächer ausgeprägt war. Da nur eine kleine reine Frauenkohorte untersucht wurde, müssen diese Befunde noch bei Männern und größeren Gruppen geprüft werden.
+  detail: Einzelzell-RNA-Sequenzierung 12 Monate nach Infektion zeigte einen deutlichen Rückgang naiver T-Zellen, Tregs, MAIT- und γδ-T-Zellen sowie eine eingeschränkte NK-Zell-Zytotoxizität und eine entzündungsfördernde Verschiebung der Monozyten. Die Studie identifizierte die Interaktion zwischen Galectin-9 und TIM-3 als wichtigen Treiber dieser T-Zell-Erschöpfung und -Depletion, während dieses Muster bei idiopathischem ME/CFS weniger stark ausgeprägt war. Damit wird ein konkreter molekularer Pfad des Immunumbaus bei Long COVID beschrieben, der als möglicher Biomarker- oder Therapieansatz weiter erforscht werden kann. Allerdings war die Studie auf eine kleine, ausschließlich weibliche Kohorte beschränkt, sodass eine Überprüfung bei männlichen Patienten aussteht.

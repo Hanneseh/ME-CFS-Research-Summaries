@@ -1,0 +1,19 @@
+id: 2026-07-24_qualitative-study-evaluates-patient-experiences-with-heart-rate
+date: '2026-07-24'
+date_display: '2026-07-24'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Clague-Baker et al. 2026, Physiotherapy
+  url: https://www.physiotherapyjournal.com/article/S0031-9406(26)00074-X/abstract
+  kind: paper
+en:
+  title: Qualitative study evaluates patient experiences with heart rate monitor-guided pacing in ME/CFS
+  plain_summary: In a qualitative study, ME/CFS patients reported that heart-rate monitors helped spot hidden exertion triggers and cut crash frequency, though setup hurdles and the mental drain of tracking data were common drawbacks. It reflects patient interviews without a control group and highlights the need for clinician support.
+  detail: A qualitative clinical study published in *Physiotherapy* explored patient experiences, implementation barriers, and perceived outcomes of heart rate monitor (HRM) guided pacing in individuals living with ME/CFS. Participants reported that using wearable heart rate monitors to keep activity below estimated anaerobic thresholds provided valuable biofeedback, helping identify subtle exertion triggers and reduce post-exertional crash frequency. However, the study identified substantial practical challenges, including initial equipment setup difficulties, ongoing cognitive fatigue from continuous data tracking, and the need for specialized physiotherapist support to establish accurate baseline thresholds. The study relied on qualitative self-reported data without objective continuous biomarker validation or a control group. Clinically, the findings emphasize that while HRM pacing is a valued self-management strategy for maintaining energy limits, successful adoption requires clinical
+    guidance to prevent setting inappropriate targets or incurring tracking fatigue.
+de:
+  title: Qualitative Studie untersucht Patientenerfahrungen mit pulsgesteuertem Pacing bei ME/CFS
+  plain_summary: In einer qualitativen Studie berichteten ME/CFS-Betroffene, dass Pulsmesser halfen, versteckte Auslöser zu erkennen und Crashs zu verringern, während die Einrichtung und die geistige Erschöpfung durch ständiges Tracking häufige Hürden waren. Ohne Kontrollgruppe stützt die Arbeit vor allem den Bedarf an fachlicher Unterstützung bei der Anpassung.
+  detail: Eine qualitative klinische Studie in *Physiotherapy* untersuchte Patientenerfahrungen, Umsetzungshürden und wahrgenommene Effekte eines herzfrequenzgesteuerten Pacings (HRM) bei Menschen mit ME/CFS. Teilnehmende berichteten, dass tragbare Pulsmesser zum Einhalten von Grenzen unterhalb geschätzter anaerober Schwellen wertvolles Biofeedback gaben, subtile Belastungsauslöser sichtbar machten und die Häufigkeit von PEM-Einbrüchen senkten. Zugleich traten erhebliche praktische Hürden auf, darunter anfängliche Einrichtungsprobleme, kognitive Ermüdung durch fortlaufendes Daten-Tracking sowie der Bedarf an spezialisierter physiotherapeutischer Begleitung zur Bestimmung realistischer Basisschwellen. Die Studie stützte sich auf qualitative Selbstberichte ohne objektive Biomarker-Kontrolle oder Vergleichsgruppe und betont, dass erfolgreiches HRM-Pacing fachliche Anleitung erfordert.

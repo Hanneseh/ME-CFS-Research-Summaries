@@ -1,0 +1,118 @@
+slug: autoimmunity-autoantibodies
+group: disease-models-mechanisms
+status: active
+evidence_tier: mechanistic
+topics:
+- GPCR Autoantibodies
+- Receptor Targeting
+- Pathogenic IgG Transfer
+- Autoantibody Landscapes
+- Antigen Profiling
+aliases: []
+related_threads:
+- mitochondrial-metabolic-dysfunction
+- diagnostics-biomarkers
+- antivirals-monoclonals
+- daratumumab-plasma-cell-targeting
+- immunoadsorption-apheresis
+- immune-dysregulation-inflammation
+- vascular-endothelial-microclots
+- autonomic-dysfunction-pots
+- neuroinflammation-brain-changes
+legacy_path: disease-models-mechanisms/autoimmunity-autoantibodies
+en:
+  title: Autoimmunity & Autoantibodies
+  subtitle: A living thread on GPCR autoantibodies, receptor targeting, antigen profiling, and IgG-mediated mechanisms in ME/CFS and Long COVID.
+  evidence_label: early clinical and mechanistic validation
+  plain_summary: One active line of research asks whether the immune system mistakenly produces antibodies against the body's own nerves, blood vessels, or signaling receptors after an infection. Transferring antibodies from some patients into mice can trigger pain sensitivity and small-nerve changes, yet large studies have not found a single autoantibody test that reliably diagnoses ME/CFS or Long COVID. Trials of treatments that clear or block antibodies have so far shown mixed or negative results, so researchers are now focusing on whether only specific patient subgroups have antibody-driven illness.
+  takeaway: |-
+    Persistent post-infectious autoimmunity and the presence of functional autoantibodies represent a key biological model under investigation for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID. In this model, initial infectious triggers are hypothesized to disturb immune homeostasis, potentially leading to the production of autoantibodies that target the nervous system, vascular tissues, and cellular receptors. Preclinical passive transfer experiments in mice demonstrate that purified Immunoglobulin G (IgG) from subsets of patients can replicate certain clinical symptoms—such as mechanical pain hypersensitivity and motor coordination deficits—and reduce small nerve fibers. However, these animal models and in vitro findings do not prove direct causality in humans, and the translation of these mechanisms to the complex clinical presentation of patients remains an active area of research.
+
+    A major focus of this research centers on autoantibodies targeting G-protein-coupled receptors (GPCRs), particularly adrenergic and muscarinic receptors. While early studies suggested a direct correlation between GPCR autoantibody levels and symptom severity, large-scale screenings reveal significant patient-to-patient heterogeneity, and some studies have failed to find consistent differences in GPCR autoantibody levels between patients and healthy controls. Furthermore, recent peer-reviewed data show that while beta-2 adrenergic autoantibody titers correlate with autonomic symptoms and sympathovagal imbalance, muscarinic autoantibody titers unexpectedly correlate with *better* cognitive performance in certain subsets, suggesting they may represent compensatory responses rather than simple drivers of disease. The lack of a single, universal autoantibody signature suggests that if autoimmune mechanisms are active, they operate through highly individualized profiles. In 703 people after SARS-CoV-2 infection, serum brain-binding autoantibodies including NMDAR1 were no more common in post-COVID syndrome than in recovered participants, arguing against simple serum brain-antibody explanations of PCS while not ruling out CSF findings, functional GPCR antibodies, or subgroup effects. In addition, a small preprint reports similar GPCR autoantibody and GPCR-reactive T-cell profiles in post-COVID and post-vaccination syndromes, though these findings remain preliminary.
+
+    Clinical trials evaluating therapies that target autoantibodies—such as B-cell depleting agents, neonatal Fc receptor (FcRn) inhibitors, and immunoadsorption—have yielded mixed or negative outcomes, and no autoantibody-targeted treatment is currently established as effective. Although early observational studies of immunoadsorption and IVIG showed promise in clinical subsets, larger controlled trials of rituximab, efgartigimod, and BC007 failed to meet their primary endpoints. These mixed results highlight the high heterogeneity of the patient population and indicate that clearing autoantibodies is not a proven treatment path for the broader patient cohort. Further research and placebo-controlled trials using functional assays rather than simple titers are necessary to determine if specific, carefully stratified autoimmune sub-phenotypes can benefit from targeted immunomodulation.
+  why_it_matters: Research into autoimmunity and autoantibodies provides a functional link between an acute infection or reactivation event and chronic, multi-system pathology. By proving that circulating IgG from patients is pathogenic and capable of transferring symptoms in vivo and disrupting cell energetics in vitro, this research shifts the understanding of post-infectious syndromes from descriptive syndromes to targetable molecular diseases. Pinpointing specific receptor targets, such as GPCRs, and cellular pathways, such as mast cell activation and endothelial mitochondrial fragmentation, provides concrete drug targets. These include therapies aimed at clearing circulating antibodies, preventing antibody-mediated receptor activation, or blocking downstream inflammatory cascades. Recognizing the biological heterogeneity of autoantibodies also directly guides clinical trial design, demonstrating that immunomodulatory treatments must be targeted to stratified patient cohorts with verified
+    autoantibody-driven pathology.
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - Purified IgG antibodies from subsets of patients with post-infectious syndromes bind to human tissues, including peripheral nerves, endothelial cells, and immune cells. Latent infections, particularly herpesviruses like Epstein-Barr virus (EBV), can trigger chronic immune activation and cross-reactive antibody responses.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - Patient-derived IgG transfers sensory pain hypersensitivity, motor coordination loss, and small fiber neuropathy to healthy mice in passive transfer models. Purified patient IgG (specifically the Fab portion) enters endothelial cells, causing mitochondrial fragmentation and forcing cells into a threat-adapted hypermetabolic state. In fibromyalgia and related pain syndromes, patient-derived IgG-induced hypersensitivity is mediated by the activation of MRGPRX2 (Mrgprb2 in rodents) receptors on mast cells, promoting local inflammatory mediator release. Specific genetic alleles of inhibitory killer cell immunoglobulin-like receptors (KIRs), such as KIR3DL3\*002, predispose individuals to natural killer (NK) cell dysfunction in ME/CFS. Patient-derived IgG binds to cultivated central nervous system (CNS) neurons and astrocytes in vitro, with binding intensity correlating with neurological symptom severity. A highly diverse landscape of autoantibodies targeting neurological structures and
+      blood vessel tissues is present in subsets of patients. GPCR autoantibodies function as active modulators of vascular tone and central blood pressure, rather than passive markers of inflammation. GPCR autoantibody and GPCR-reactive CD4 T-cell profiles shared between post-COVID and post-vaccination syndromes (single small preprint).
+  - status: not_established
+    label: Not established
+    items:
+    - A universal, shared autoantibody signature that distinguishes all ME/CFS or Long COVID patients from healthy or recovered controls. Direct causal proof that GPCR autoantibodies or other central nervous system-targeting autoantibodies are the sole or primary drivers of cognitive symptoms (brain fog), autonomic symptoms, or clinical disability in humans. Clinical efficacy or safety of broad immunotherapies (like rituximab, efgartigimod, or BC007) in unstratified post-infectious patient cohorts. Serum brain-epitope autoantibody panels as an explanation or diagnostic test for PCS; a large 2026 serum study found no PCS-versus-recovered difference.
+  - status: limitations
+    label: Key limitations
+    items:
+    - Animal passive transfer experiments utilize high doses of purified IgG over short periods, which may not capture the chronic, low-dose exposure in human disease. Many GPCR autoantibody studies rely on ELISA titers, which measure antibody quantity but do not confirm functional activity (i.e., whether the antibodies stimulate, block, or act neutrally on the receptors). High-throughput antigen profiling platforms (like PhIP-Seq and REAP) are limited by the specific peptide libraries used, which may miss conformational epitopes or post-translational modifications. Clinical cohorts in active trials and biomarker studies are often small and show high heterogeneity, necessitating larger, stratified, and sex-disaggregated longitudinal validation. Preliminary findings presented in conferences or posted as preprints have not undergone rigorous peer review and must be interpreted with caution.
+  - status: negative
+    label: Controlled negative finding
+    items:
+    - A 206-person post-COVID cohort found no association between receptor-binding antibody levels and fatigue. Binding assays do not test functional antibody effects, and this was not a PEM-defined ME/CFS cohort.
+  open_questions:
+  - What specific self-antigens in the dorsal root ganglia are targeted by pathogenic IgG in patients who develop allodynia and sensory hypersensitivity?
+  - What molecular mechanism explains the Fab-mediated mitochondrial fragmentation in endothelial cells, and can this process be reversed in vitro by neutralizing antibodies or metabolic stabilizers?
+  - How can functional GPCR assays be standardized for clinical use to measure blocking vs. stimulating activity, replacing ELISA titers in patient stratification?
+  - Why do muscarinic GPCR autoantibodies correlate with improved cognitive performance in specific subsets of patients, and what is the underlying compensatory pathway?
+  - To what extent can targeted B-cell depletion (e.g., anti-CD38 daratumumab or anti-CD20 rituximab) reset the individualized, heterogeneous autoantibody landscape in post-infectious cohorts?
+de:
+  title: Autoimmunität & Autoantikörper
+  subtitle: Ein laufender Forschungsstrang zu GPCR-Autoantikörpern, Rezeptorblockaden, Antigen-Profiling und IgG-vermittelten Mechanismen bei ME/CFS und Long COVID.
+  evidence_label: frühe klinische und mechanistische Validierung
+  plain_summary: Ein aktiver Forschungszweig prüft, ob das Immunsystem nach einer Infektion irrtümlich Antikörper gegen körpereigene Nerven, Blutgefäße oder Signalrezeptoren bildet. Überträgt man Antikörper eines Teils der Patientinnen und Patienten auf Mäuse, entstehen dort Schmerzempfindlichkeit und Schäden an feinen Nervenfasern – große Studien finden jedoch keinen einheitlichen Autoantikörper-Test für ME/CFS oder Long COVID. Studien zu Therapien, die Antikörper entfernen oder blockieren, brachten bislang gemischte oder negative Ergebnisse; daher wird nun geprüft, ob nur bestimmte Untergruppen eine antikörpergetriebene Krankheitsform haben.
+  takeaway: |-
+    Anhaltende postinfektiöse Autoimmunität und funktionelle Autoantikörper bilden ein zentrales biologisches Erklärungsmodell, das für Myalgische Enzephalomyelitis/Chronisches Fatigue-Syndrom (ME/CFS) und Long COVID untersucht wird. In diesem Modell stören anfängliche Infektionsauslöser die Immunhomöostase und begünstigen möglicherweise die Bildung von Autoantikörpern gegen Nervensystem, Gefäßgewebe und zelluläre Rezeptoren. Präklinische passive Transferexperimente an Mäusen zeigen, dass gereinigtes Immunglobulin G (IgG) von Teilgruppen Betroffener bestimmte klinische Symptome nachbilden kann – darunter mechanische Schmerzüberempfindlichkeit und motorische Koordinationsstörungen – sowie kleine Nervenfasern reduziert. Diese Tiermodelle und In-vitro-Befunde belegen jedoch keine direkte Kausalität beim Menschen, und die Übertragung dieser Mechanismen auf das komplexe klinische Gesamtbild bleibt Gegenstand intensiver Forschung.
+
+    Ein Schwerpunkt dieser Forschung liegt auf Autoantikörpern gegen G-Protein-gekoppelte Rezeptoren (GPCRs), insbesondere adrenerge und muskarinische Rezeptoren. Während frühe Studien einen direkten Zusammenhang zwischen GPCR-Autoantikörperspiegeln und Symptomschwere nahelegten, zeigen groß angelegte Screenings eine erhebliche Variabilität zwischen einzelnen Betroffenen, und mehrere Studien fanden keine konsistenten Unterschiede der GPCR-Autoantikörperspiegel zwischen Erkrankten und gesunden Kontrollen. Neuere begutachtete Daten zeigen zudem, dass zwar Beta-2-adrenerge Autoantikörpertiter mit autonomen Symptomen und sympathovagalem Ungleichgewicht korrelieren, muskarinische Autoantikörpertiter in bestimmten Untergruppen aber unerwartet mit *besserer* kognitiver Leistung einhergehen – was eher auf kompensatorische Reaktionen als auf einfache Krankheitstreiber hindeutet. Das Fehlen einer einzigen, universellen Autoantikörper-Signatur spricht dafür, dass autoimmune Mechanismen – sofern aktiv – über stark individualisierte Profile wirken. In einer Studie mit 703 Personen nach SARS-CoV-2-Infektion waren hirnbindende Serum-Autoantikörper einschließlich NMDAR1 beim Post-COVID-Syndrom nicht häufiger als bei Genesenen; das spricht gegen einfache Serum-Hirnantikörper-Erklärungen des Post-COVID-Syndroms, schließt aber Befunde im Liquor, funktionelle GPCR-Antikörper oder Subgruppeneffekte nicht aus. Zudem beschreibt ein kleiner Preprint ähnliche Profile von GPCR-Autoantikörpern und GPCR-reaktiven T-Zellen bei Post-COVID- und Post-Vakzin-Syndromen, doch sind diese Ergebnisse noch vorläufig.
+
+    Klinische Studien zu Therapien, die Autoantikörper adressieren – etwa B-Zell-depletierende Wirkstoffe, Inhibitoren des neonatalen Fc-Rezeptors (FcRn) und Immunadsorption –, haben gemischte oder negative Ergebnisse geliefert, und derzeit ist keine auf Autoantikörper abzielende Behandlung als wirksam etabliert. Obwohl frühe Beobachtungsstudien zu Immunadsorption und IVIG bei klinischen Untergruppen vielversprechend erschienen, verfehlten größere kontrollierte Studien zu Rituximab, Efgartigimod und BC007 ihre primären Endpunkte. Diese uneinheitlichen Resultate unterstreichen die große Heterogenität der Patientenpopulation und zeigen, dass das Entfernen von Autoantikörpern für die breite Gesamtkohorte kein bewiesener Behandlungsweg ist. Weitere Forschung und placebokontrollierte Studien mit funktionellen Assays statt bloßer Titer-Messungen sind nötig, um zu klären, ob klar stratifizierte autoimmune Subphänotypen von einer gezielten Immunmodulation profitieren können.
+  why_it_matters: Die Forschung zu Autoimmunität und Autoantikörpern schlägt eine funktionelle Brücke zwischen einer akuten Infektion oder Reaktivierung und einer chronischen, multisystemischen Pathologie. Der Nachweis, dass zirkulierendes IgG von Patientinnen und Patienten pathogen wirken, Symptome in vivo übertragen und die Zellenergetik in vitro stören kann, verschiebt das Verständnis postinfektiöser Syndrome weg von rein beschreibenden Symptomclustern hin zu gezielt angehbaren molekularen Krankheitsprozessen. Die Eingrenzung konkreter Rezeptorziele wie GPCRs und zellulärer Signalwege wie Mastzellaktivierung und endothelialer mitochondrialer Fragmentierung liefert greifbare Arzneimittelziele – darunter Therapien zur Entfernung zirkulierender Antikörper, zur Verhinderung antikörpervermittelter Rezeptoraktivierung oder zur Blockade nachgeschalteter Entzündungskaskaden. Die Erkenntnis der biologischen Heterogenität von Autoantikörpern lenkt zudem direkt das Design klinischer Studien, indem
+    sie zeigt, dass immunmodulatorische Therapien auf stratifizierte Kohorten mit nachgewiesener autoantikörpergetriebener Pathologie zugeschnitten sein müssen.
+  state_of_evidence:
+  - status: established
+    label: Etabliert
+    items:
+    - Gereinigte IgG-Antikörper von Teilgruppen von Patientinnen und Patienten mit postinfektiösen Syndromen binden an menschliche Gewebe, einschließlich peripherer Nerven, Endothelzellen und Immunzellen.
+    - Latente Infektionen, insbesondere Herpesviren wie das Epstein-Barr-Virus (EBV), können chronische Immunaktivierung und kreuzreaktive Antikörperantworten auslösen.
+  - status: plausible
+    label: Plausibel, aber noch früh
+    items:
+    - Patienteneigenes IgG überträgt in passiven Transfermodellen bei gesunden Mäusen sensorische Schmerzüberempfindlichkeit, Koordinationsverlust und Small-Fiber-Neuropathie.
+    - Gereinigtes Patienten-IgG (insbesondere der Fab-Anteil) dringt in Endothelzellen ein, verursacht mitochondriale Fragmentierung und zwingt die Zellen in einen bedrohungsangepassten hypermetabolischen Zustand.
+    - Bei Fibromyalgie und verwandten Schmerzsyndromen wird die durch Patienten-IgG ausgelöste Überempfindlichkeit über die Aktivierung von MRGPRX2-Rezeptoren (Mrgprb2 bei Nagern) auf Mastzellen vermittelt, was die lokale Freisetzung von Entzündungsmediatoren fördert.
+    - Bestimmte genetische Allele hemmender Killerzell-Immunglobulin-ähnlicher Rezeptoren (KIRs), wie KIR3DL3\*002, prädisponieren für eine Dysfunktion natürlicher Killerzellen (NK-Zellen) bei ME/CFS.
+    - Patienteneigenes IgG bindet in vitro an kultivierte Neuronen und Astrozyten des zentralen Nervensystems (ZNS), wobei die Bindungsstärke mit der Schwere neurologischer Symptome korreliert.
+    - Bei Teilgruppen Betroffener liegt ein sehr vielfältiges Spektrum an Autoantikörpern gegen neurologische Strukturen und Blutgefäßgewebe vor.
+    - GPCR-Autoantikörper fungieren als aktive Modulatoren des Gefäßtonus und des zentralen Blutdrucks und nicht nur als passive Entzündungsmarker.
+    - Ähnliche Profile von GPCR-Autoantikörpern und GPCR-reaktiven CD4-T-Zellen bei Post-COVID- und Post-Vakzin-Syndromen (einzelner kleiner Preprint).
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Eine universelle, gemeinsame Autoantikörper-Signatur, die alle ME/CFS- oder Long-COVID-Betroffenen zuverlässig von gesunden oder genesenen Kontrollen unterscheidet.
+    - Ein direkter kausaler Beweis dafür, dass GPCR-Autoantikörper oder andere ZNS-gerichtete Autoantikörper beim Menschen die alleinige oder primäre Ursache kognitiver Symptome (Brain Fog), autonomer Beschwerden oder klinischer Beeinträchtigung sind.
+    - Klinische Wirksamkeit oder Sicherheit breiter Immuntherapien (wie Rituximab, Efgartigimod oder BC007) in unstratifizierten postinfektiösen Patientenkohorten.
+    - Serum-Autoantikörper-Panels gegen Hirnepitope als Erklärung oder diagnostischer Test für das Post-COVID-Syndrom; eine große Serumstudie von 2026 fand keinen Unterschied zwischen PCS und Genesenen.
+  - status: limitations
+    label: Wesentliche Einschränkungen
+    items:
+    - Passive Transferexperimente im Tiermodell nutzen hohe Dosen gereinigten IgGs über kurze Zeiträume und bilden die chronische Niedrigdosis-Exposition beim Menschen möglicherweise nicht ab.
+    - Viele GPCR-Autoantikörperstudien stützen sich auf ELISA-Titer, die zwar die Antikörpermenge messen, aber keine funktionelle Aktivität bestätigen (also ob die Antikörper Rezeptoren stimulieren, blockieren oder neutral bleiben).
+    - Hochdurchsatz-Antigen-Profiling-Plattformen (wie PhIP-Seq und REAP) sind auf die jeweiligen Peptidbibliotheken beschränkt und können konformationelle Epitope oder posttranslationale Modifikationen übersehen.
+    - Klinische Kohorten in laufenden Studien und Biomarker-Untersuchungen sind oft klein und sehr heterogen, was größere, stratifizierte und nach Geschlecht aufgeschlüsselte Längsschnitt-Validierungen erfordert.
+    - Vorläufige Ergebnisse von Konferenzen oder aus Preprints haben kein strenges Peer-Review durchlaufen und müssen vorsichtig interpretiert werden.
+  - status: negative
+    label: Kontrollierter Negativbefund
+    items:
+    - In einer Kohorte von 206 Personen nach COVID-19 fand sich kein Zusammenhang zwischen den Spiegeln rezeptorbindender Antikörper und Fatigue. Bindungsassays prüfen allerdings keine funktionellen Antikörperwirkungen, und es handelte sich nicht um eine nach PEM-Kriterien ausgewählte ME/CFS-Kohorte.
+  open_questions:
+  - Welche spezifischen Autoantigene in den Spinalganglien (Dorsal Root Ganglia) werden bei Patientinnen und Patienten mit Allodynie und sensorischer Überempfindlichkeit von pathogenem IgG angegriffen?
+  - Welcher molekulare Mechanismus erklärt die Fab-vermittelte mitochondriale Fragmentierung in Endothelzellen, und lässt sich dieser Prozess in vitro durch neutralisierende Antikörper oder Stoffwechselstabilisatoren umkehren?
+  - Wie lassen sich funktionelle GPCR-Assays für den klinischen Einsatz standardisieren, um blockierende versus stimulierende Aktivität zu messen und ELISA-Titer bei der Patientenstratifizierung abzulösen?
+  - Warum korrelieren muskarinische GPCR-Autoantikörper in bestimmten Untergruppen mit einer besseren kognitiven Leistung, und welcher kompensatorische Signalweg liegt dem zugrunde?
+  - Inwieweit kann eine gezielte B-Zell- bzw. Plasmazell-Depletion (z. B. Anti-CD38 mit Daratumumab oder Anti-CD20 mit Rituximab) das individuelle, heterogene Autoantikörper-Repertoire in postinfektiösen Kohorten zurücksetzen?

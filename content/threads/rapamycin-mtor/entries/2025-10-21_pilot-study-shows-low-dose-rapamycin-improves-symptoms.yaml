@@ -1,0 +1,20 @@
+id: 2025-10-21_pilot-study-shows-low-dose-rapamycin-improves-symptoms
+date: '2025-10-21'
+date_display: '2025-10-21'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ruan et al. 2025, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-025-07213-8
+  kind: paper
+en:
+  title: Pilot study shows low-dose rapamycin improves symptoms and restores autophagy in ME/CFS
+  plain_summary: An open-label pilot study of 86 ME/CFS patients reported improvements in fatigue, PEM, sleep, and blood markers of cellular cleanup after taking low-dose rapamycin. Because there was no placebo group and dropout was high, the study cannot prove that rapamycin caused the improvements.
+  detail: An open-label, uncontrolled pilot study of 86 ME/CFS patients published in the _Journal of Translational Medicine_ showed that low-dose rapamycin (escalated to 6 mg/week) led to statistically significant reductions in core symptoms, including fatigue, post-exertional malaise (PEM), disturbed sleep, and orthostatic intolerance. Crucially, these clinical improvements correlated with plasma biomarker changes indicating a restoration of autophagy, specifically the downregulation of the inhibitory marker pSer258-ATG13 and the upregulation of the autophagy-promoting marker BECLIN-1. This development provides the first clinical evidence linking mTOR-driven autophagy impairment to ME/CFS pathophysiology and demonstrates that an existing FDA-approved drug can target this mechanism. However, as an uncontrolled observational study, it cannot prove that rapamycin caused the improvements, which remain susceptible to placebo effects and regression to the mean. Additionally, the study's high
+    dropout rate, reliance on self-reported questionnaires, and use of non-standardized drug formulations mean that large-scale, placebo-controlled trials are still required to confirm efficacy and safety.
+de:
+  title: Pilotstudie zeigt Symptomverbesserungen und Wiederherstellung der Autophagie durch niedrigdosiertes Rapamycin bei ME/CFS
+  plain_summary: Eine offene Pilotstudie mit 86 ME/CFS-Betroffenen berichtete unter niedrigdosiertem Rapamycin Verbesserungen bei Fatigue, PEM, Schlaf sowie Blutmarkern der zellulären Reinigung (Autophagie). Da eine Placebogruppe fehlte und viele Teilnehmende ausschieden, beweist die Studie nicht, dass die Besserungen auf dem Wirkstoff beruhten.
+  detail: Eine offene, unkontrollierte Pilotstudie mit 86 ME/CFS-Patientinnen und -Patienten, veröffentlicht im *Journal of Translational Medicine*, zeigte, dass niedrigdosiertes Rapamycin (gesteigert auf bis zu 6 mg/Woche) zu statistisch signifikanten Rückgängen von Kernsymptomen wie Fatigue, Post-Exertional Malaise (PEM), Schlafstörungen und orthostatischer Intoleranz führte. Entscheidend war, dass diese klinischen Besserungen mit Veränderungen von Plasma-Biomarkern korrelierten, die auf eine Wiederherstellung der Autophagie hinweisen – konkret einer Abnahme des hemmenden Markers pSer258-ATG13 und einem Anstieg des autophagiefördernden Markers BECLIN-1. Dies liefert einen ersten klinischen Hinweis, der eine mTOR-getriebene Autophagie-Störung mit der ME/CFS-Pathophysiologie verknüpft und zeigt, dass ein zugelassenes Medikament diesen Mechanismus ansteuern kann. Als unkontrollierte Beobachtungsstudie kann sie jedoch nicht beweisen, dass Rapamycin die Verbesserungen verursachte, da diese
+    anfällig für Placeboeffekte und Regression zur Mitte bleiben. Zudem machen eine hohe Abbruchrate, die Nutzung selbstberichteter Fragebögen und nicht standardisierte Wirkstoffzubereitungen große, placebokontrollierte Studien zur Bestätigung von Wirksamkeit und Sicherheit erforderlich.

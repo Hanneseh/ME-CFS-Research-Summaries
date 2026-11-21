@@ -1,0 +1,20 @@
+id: 2025-10-22_bmg-final-report-on-the-mecfs-r-registry
+date: '2025-10-22'
+date_display: '2025-10-22'
+date_precision: exact
+source_type: report
+study_design: null
+sources:
+- label: BMG 2025, Abschlussbericht MECFS-R/MECFS-Bio (PDF)
+  url: https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Gesundheit/Kurzbericht/MECFS-Abschlussbericht.pdf
+  kind: other
+en:
+  title: BMG final report on the MECFS-R registry and MECFS-Bio biobank documents 724 patients and unmet targets
+  plain_summary: A German federal final report documented 724 patients enrolled in an ME/CFS registry and biobank, falling short of its 1,350 target and unable to track outcomes over time due to staffing shortages. It describes infrastructure limits rather than treatment or prognosis results.
+  detail: The German Federal Ministry of Health (BMG) hosts a final report dated 2025-10-22 on a 2022–2024 project at the Charité Fatigue Center (Scheibenbogen) and the TUM Munich Chronic Fatigue Center for Young People (Behrends) that built an age-spanning ME/CFS registry (NCT05778006) and linked biobank, using the Munich Berlin Symptom Questionnaire (MBSQ) to apply the Canadian Consensus, IOM, and pediatric criteria. The registry enrolled 724 patients, mostly adults and mostly after SARS-CoV-2 infection, and stored biobank samples from 702 participants, but reached only 54% of the planned 1,350; only about half of referrals at the Charité and a quarter at the Munich center met ME/CFS criteria. Follow-up and prognosis analysis were not possible because staff shortages and diagnostic waiting lists left almost no capacity for follow-up visits, and circulatory problems in severely affected patients often prevented blood draws for the biobank. A preliminary, unpublished analysis of 122 Munich
+    patients showed very low SF-36 physical-function and vitality scores. The clinic-based design does not establish how well bedbound people unable to attend were represented, and the registry design now continues within the PEDNET-LC network (see the 2026-06-21 entry).
+de:
+  title: BMG-Abschlussbericht zum Register MECFS-R und zur Biobank MECFS-Bio dokumentiert 724 Betroffene und verfehlte Ziele
+  plain_summary: Ein Abschlussbericht im Auftrag des Bundesgesundheitsministeriums erfasste 724 Patientinnen und Patienten in einem ME/CFS-Register samt Biobank, blieb damit aber unter dem Ziel von 1.350 und konnte wegen Personalmangels keine Verlaufsdaten erheben. Der Bericht dokumentiert vor allem Aufbauprobleme und liefert noch keine Aussagen zu Prognose oder Therapien.
+  detail: Das Bundesministerium für Gesundheit (BMG) stellt einen auf den 22.10.2025 datierten Abschlussbericht zu einem 2022–2024 durchgeführten Projekt am Charité Fatigue Centrum (Scheibenbogen) und am Chronischen Fatigue Centrum für junge Menschen der TU München (Behrends) bereit, das ein altersübergreifendes ME/CFS-Register (NCT05778006) samt verknüpfter Biobank aufgebaut hat; mithilfe des Munich Berlin Symptom Questionnaire (MBSQ) wurden die Kanadischen Konsenskriterien, IOM- sowie pädiatrische Kriterien angewandt. Das Register schloss 724 Erkrankte ein – überwiegend Erwachsene und meist nach SARS-CoV-2-Infektion – und lagerte Biobank-Proben von 702 Teilnehmenden ein, erreichte damit aber nur 54 % der geplanten 1.350 Personen; an der Charité erfüllte nur etwa die Hälfte und am Münchner Zentrum ein Viertel der Überweisungen die ME/CFS-Kriterien. Verlaufsuntersuchungen und Prognoseanalysen waren nicht möglich, weil Personalengpässe und lange Wartelisten kaum Kapazitäten für Folgetermine
+    ließen und Kreislaufprobleme bei schwer Betroffenen häufig Blutentnahmen für die Biobank verhinderten. Eine vorläufige, unveröffentlichte Auswertung von 122 Münchner Patientinnen und Patienten zeigte sehr niedrige SF-36-Werte für körperliche Funktion und Vitalität. Das klinikbasierte Design lässt offen, wie stark Bettlägerige ohne Möglichkeit zur Anreise unterrepräsentiert waren; das Registerkonzept wird nun im Netzwerk PEDNET-LC fortgeführt (siehe Eintrag vom 21.06.2026).

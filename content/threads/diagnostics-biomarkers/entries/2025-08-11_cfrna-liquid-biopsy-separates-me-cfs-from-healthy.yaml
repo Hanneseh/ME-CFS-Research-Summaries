@@ -1,0 +1,19 @@
+id: 2025-08-11_cfrna-liquid-biopsy-separates-me-cfs-from-healthy
+date: '2025-08-11'
+date_display: '2025-08-11'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Gardella et al. 2025, PNAS
+  url: https://doi.org/10.1073/pnas.2507345122
+  kind: paper
+en:
+  title: cfRNA liquid biopsy separates ME/CFS from healthy controls at AUC 0.81
+  plain_summary: Researchers used a blood-based test measuring free-floating RNA snippets to separate 93 ME/CFS patients from 75 sedentary healthy controls with 77% accuracy. While the signals point to immune exhaustion and platelet differences, the test was only run at rest in a modest-sized group and is not ready for clinical use.
+  detail: A Cornell University case-control study sequenced circulating cell-free RNA from the plasma of 93 ME/CFS patients and 75 sedentary healthy controls. A 21-gene cfRNA signature trained on a GLMNET Lasso model achieved 77 percent accuracy and an AUC of 0.81 on held-out test samples, with deconvolution analysis pointing to elevated contributions from plasmacytoid dendritic cells, monocytes, and T cells alongside reduced platelet-derived cfRNA. Pathway analysis flagged T-cell exhaustion and chronic inflammatory signaling as the dominant biological themes. Diagnostic performance varied between individuals in a way that correlated with platelet cfRNA abundance, suggesting true platelet biology is contributing to the signal rather than only noise. All samples were resting-state; the study did not capture cfRNA dynamics during PEM, and the cohort was too small to assess disease subgroups.
+de:
+  title: cfRNA-Flüssigbiopsie trennt ME/CFS mit AUC 0,81 von gesunden Kontrollen
+  plain_summary: Forschende nutzten eine Blutuntersuchung frei zirkulierender RNA-Bruchstücke, um 93 ME/CFS-Betroffene mit 77 % Genauigkeit von 75 wenig aktiven gesunden Kontrollen zu unterscheiden. Die Signale weisen auf Immunerschöpfung und veränderte Blutplättchen hin, wurden aber nur in Ruhe und in einer überschaubaren Gruppe gemessen, sodass kein klinikreifer Test vorliegt.
+  detail: Eine Fall-Kontroll-Studie der Cornell University sequenzierte zirkulierende zellfreie RNA (cfRNA) aus dem Blutplasma von 93 ME/CFS-Patientinnen und -Patienten sowie 75 körperlich wenig aktiven gesunden Kontrollpersonen. Eine 21-Gen-cfRNA-Signatur, trainiert mit einem GLMNET-Lasso-Modell, erreichte auf zurückgehaltenen Testproben 77 Prozent Genauigkeit und eine AUC von 0,81; eine Dekonvolutionsanalyse deutete auf erhöhte Beiträge von plasmazytoiden dendritischen Zellen, Monozyten und T-Zellen bei gleichzeitig verringerter aus Blutplättchen stammender cfRNA hin. Signalweg-Analysen hoben T-Zell-Erschöpfung und chronische Entzündungssignale als vorherrschende biologische Muster hervor. Die diagnostische Treffsicherheit schwankte zwischen einzelnen Personen im Einklang mit der Menge plättchenbezogener cfRNA, was auf echte biologische Plättchenbeteiligung statt bloßen Rauschens hindeutet. Alle Proben wurden im Ruhezustand entnommen; cfRNA-Veränderungen während PEM wurden nicht erfasst,
+    und die Kohorte war für eine Untergruppen-Analyse zu klein.

@@ -1,0 +1,18 @@
+id: 2025-06-01_resetme-randomized-trial-registered
+date: '2025-06-01'
+date_display: '2025-06-01'
+date_precision: exact
+source_type: trial_registry
+study_design: Trial registry
+sources:
+- label: ResetME daratumumab trial registry
+  url: https://clinicaltrials.eu/trial/study-on-daratumumab-for-reducing-symptoms-in-patients-with-moderate-to-severe-myalgic-encephalomyelitis-chronic-fatigue-syndrome/
+  kind: registry
+en:
+  title: ResetME randomized trial registered
+  plain_summary: Researchers registered ResetME, a randomized, placebo-controlled Phase II trial that will test daratumumab against a dummy injection in 66 adults with moderate to severe ME/CFS. The registration sets up a rigorous test of the treatment idea, but it does not yet provide any results on safety or benefit.
+  detail: The ResetME Phase II clinical trial was registered as a randomized, double-blind, placebo-controlled study to evaluate the efficacy and safety of subcutaneous daratumumab (combined with hyaluronidase) compared to placebo in 66 moderate to severe ME/CFS patients aged 18 to 64. This trial establishes a rigorous, placebo-controlled framework to validate the pilot's plasma-cell depletion hypothesis and uses a specific inclusion threshold for baseline NK cells (>125 x 10^6/L) to select the patient subset hypothesized to respond. As a trial registration, it does not confirm the feasibility, safety, or efficacy of the intervention in a controlled cohort.
+de:
+  title: Randomisierte ResetME-Studie registriert
+  plain_summary: Forschende haben die randomisierte, placebokontrollierte Phase-II-Studie ResetME registriert, die Daratumumab bei 66 Erwachsenen mit mittelschwerem bis schwerem ME/CFS gegen eine Scheinbehandlung prüft. Die Registrierung schafft einen verlässlichen Rahmen zur Überprüfung der Hypothese, liefert aber noch keine Ergebnisse zu Sicherheit oder Nutzen.
+  detail: Die klinische Phase-II-Studie ResetME wurde als randomisierte, doppelblinde, placebokontrollierte Studie registriert, um Wirksamkeit und Sicherheit von subkutan verabreichtem Daratumumab (in Kombination mit Hyaluronidase) im Vergleich zu Placebo bei 66 Patientinnen und Patienten im Alter von 18 bis 64 Jahren mit mittelschwerem bis schwerem ME/CFS zu untersuchen. Diese Studie schafft einen strengen, placebokontrollierten Rahmen, um die Plasmazell-Depletionshypothese aus der Pilotstudie zu prüfen, und nutzt einen festgelegten Schwellenwert für NK-Zellen im Ausgangsbefund (> 125 × 10^6/L) als Einschlusskriterium für jene Untergruppe, von der ein Ansprechen erwartet wird. Als reine Studienregistrierung bestätigt sie noch weder die Durchführbarkeit noch die Sicherheit oder Wirksamkeit der Therapie in einer kontrollierten Kohorte.

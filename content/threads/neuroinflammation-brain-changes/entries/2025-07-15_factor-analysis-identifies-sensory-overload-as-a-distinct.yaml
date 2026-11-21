@@ -1,0 +1,18 @@
+id: 2025-07-15_factor-analysis-identifies-sensory-overload-as-a-distinct
+date: '2025-07-15'
+date_display: '2025-07-15'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Sandoval et al. 2025, Frontiers in Neurology
+  url: https://doi.org/10.3389/fneur.2025.1612548
+  kind: paper
+en:
+  title: Factor analysis identifies sensory overload as a distinct neurocognitive domain
+  plain_summary: 'Surveys from over 2,600 ME/CFS and Long COVID patients split neurological symptoms into two main clusters: thinking difficulties and sensory overload like light and noise sensitivity. Because the data came from questionnaires rather than brain scans or cognitive tests, the underlying brain networks remain to be confirmed.'
+  detail: A statistical analysis of self-reported symptoms from 2,313 ME/CFS patients and 299 Long COVID patients established that post-viral neurocognitive symptoms are structured into two distinct domains. The first domain comprises classic cognitive deficits such as memory loss, attention difficulties, and processing speed reduction, while the second comprises sensory and perceptual disturbances, including hypersensitivity to light, noise, and odors. This distinction suggests that cognitive complaints and sensory overload may be driven by separate neural substrates, potentially relating to the Central Executive Network and the Salience Network respectively. However, the study relied on self-reported surveys rather than objective cognitive testing, and clinical confirmation of these network associations is still required.
+de:
+  title: Faktorenanalyse identifiziert Reizüberflutung als eigenständige neurokognitive Domäne
+  plain_summary: 'Umfragedaten von über 2.600 ME/CFS- und Long-COVID-Betroffenen teilten neurologische Beschwerden in zwei Hauptbereiche: Denk- und Gedächtnisprobleme einerseits sowie Licht-, Geräusch- und Geruchsempfindlichkeit andererseits. Da die Studie auf Fragebögen statt auf objektiven Tests oder Scans beruhte, müssen die beteiligten Hirnnetzwerke noch bestätigt werden.'
+  detail: Eine statistische Analyse selbstberichteter Symptome von 2.313 ME/CFS-Patientinnen und -Patienten sowie 299 Long-COVID-Patientinnen und -Patienten ergab, dass sich postvirale neurokognitive Symptome in zwei eigenständige Domänen gliedern. Die erste Domäne umfasst klassische kognitive Defizite wie Gedächtnisprobleme, Aufmerksamkeitsstörungen und verlangsamte Verarbeitung, während die zweite sensorische und Wahrnehmungsstörungen einschließlich Überempfindlichkeit gegenüber Licht, Geräuschen und Gerüchen umfasst. Diese Unterscheidung legt nahe, dass kognitive Beschwerden und Reizüberflutung durch getrennte neuronale Substrate angetrieben werden könnten, die möglicherweise dem Central Executive Network beziehungsweise dem Salience Network zugeordnet sind. Allerdings stützte sich die Studie auf selbstberichtete Befragungen statt auf objektive kognitive Testungen, und eine klinische Bestätigung dieser Netzwerk-Zusammenhänge steht noch aus.

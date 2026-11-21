@@ -1,0 +1,20 @@
+id: 2026-07-08_study-links-post-covid-ocular-symptoms-to-corneal
+date: '2026-07-08'
+date_display: '2026-07-08'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Lagali et al. 2026, Nature Communications
+  url: https://doi.org/10.1038/s41467-026-74858-4
+  kind: paper
+en:
+  title: Study links post-COVID ocular symptoms to corneal small-fiber neuropathy and dysautonomia
+  plain_summary: A study linked lasting eye pain, light sensitivity, and focus problems after mild COVID-19 to tiny corneal nerve damage and pupillary autonomic dysfunction. Specialized eye tests and tear-protein models worked well in this study, but need validation elsewhere and are not widely available.
+  detail: 'A study in Nature Communications identified that long-term ocular symptoms (including eye pain, photophobia, and focusing difficulties) after mild COVID-19 are driven by an ocular syndrome involving corneal small-fiber neuropathy, immune dysregulation, and autonomic dysfunction. The researchers demonstrated that damage to the nerves regulating pupillary autonomic control and eye muscle coordination leads to these persistent symptoms, sometimes resulting in adult-onset strabismus. To facilitate clinical detection, the authors developed two diagnostic models: one using standard ophthalmic clinic instruments and a second that incorporates specific tear-fluid proteins to improve diagnostic accuracy. This provides a biological explanation and objective diagnostic pathways for post-viral eye complaints that often appear normal on standard optometric exams. However, the tear-fluid protein model and corneal confocal microscopy require specialized equipment not widely available in primary
+    care, and both diagnostic models require validation in larger, independent, and geographically diverse cohorts.'
+de:
+  title: Studie verknüpft Post-COVID-Augenbeschwerden mit kornealer Small-Fiber-Neuropathie und Dysautonomie
+  plain_summary: Eine Studie brachte anhaltende Augenschmerzen, Lichtempfindlichkeit und Sehprobleme nach mildem COVID-19 mit Schäden feiner Hornhautnerven und gestörter Pupillensteuerung in Verbindung. Die vorgestellten Diagnosemodelle erfordern allerdings Spezialgeräte und weitere Überprüfung.
+  detail: 'Eine Studie in *Nature Communications* zeigte, dass langfristige Augenbeschwerden (wie Augenschmerzen, Lichtscheu und Fokussierungsprobleme) nach mildem COVID-19 durch ein okuläres Syndrom aus kornealer Small-Fiber-Neuropathie, Immundysregulation und autonomer Dysfunktion verursacht werden können. Die Forschenden wiesen nach, dass Schäden an Nerven zur Steuerung von Pupillenreaktion und Augenmuskelkoordination zu diesen anhaltenden Beschwerden und teils zu neu aufgetretenem Schielen im Erwachsenenalter führen. Für die Erkennung entwickelten die Autorinnen und Autoren zwei Diagnosemodelle: eines auf Basis augenärztlicher Klinikgeräte und ein zweites unter Einbezug bestimmter Tränenflüssigkeits-Proteine. Dies liefert eine biologische Erklärung für postvirale Augenbeschwerden, die bei Standarduntersuchungen oft unauffällig wirken. Allerdings setzen Tränenprotein-Tests und konfokale Hornhautmikroskopie in der Hausarztpraxis kaum verfügbare Spezialtechnik voraus, und beide Modelle
+    müssen in größeren, unabhängigen und vielfältigeren Kohorten bestätigt werden.'

@@ -1,0 +1,23 @@
+id: 2026-06-23_multimodal-imaging-and-literature-review-characterize-neuroinfla
+date: '2026-06-23'
+date_display: '2026-06-23'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Decreased functional connectivity in post-COVID syndrome patients with high neuroinflammatory activity, NeuroImage
+  url: https://doi.org/10.1016/j.neuroimage.2026.121951
+  kind: paper
+- label: 'Neurological sequelae of Long COVID: Pathophysiological mechanisms, diagnostic advances, and therapeutic perspectives, Journal of Neuroimmunology'
+  url: https://www.sciencedirect.com/science/article/pii/S0165572826001591
+  kind: paper
+en:
+  title: Multimodal imaging and literature review characterize neuroinflammatory connectivity and multi-system pathology in Long COVID
+  plain_summary: In 45 post-COVID patients, the 22% with higher brain-inflammation PET signals also showed weaker connectivity in attention and visual brain networks. An accompanying review integrates blood-flow and barrier findings, noting the scan requires specialized genetics and still cannot prove cause and effect.
+  detail: 'A multimodal neuroimaging study combining [18F]DPA-714 PET and resting-state fMRI in 45 post-COVID syndrome (PCS) patients demonstrated that the 22% of patients with high neuroinflammatory activity had decreased functional connectivity in cognitive networks, particularly the visual-peripheral and dorsal-attention networks. A significant correlation was observed between increasing neuroinflammation and reduced connectivity in the cerebellum. Concurrently, a comprehensive literature review in the *Journal of Neuroimmunology* synthesized these findings with wider systemic pathways, mapping how neuroinflammation, blood-brain barrier disruption, endothelial activation, hypoperfusion, and autoantibodies interact to drive neuropsychiatric symptoms. While these studies reinforce the biological reality of post-viral brain fog, both emphasize key caveats: the PET tracer requires complex TSPO genotyping that limits scalability, and the precise causal relationships among these multi-system
+    mechanisms remain to be established in prospective, longitudinal trials.'
+de:
+  title: Multimodale Bildgebung und Literaturübersicht charakterisieren neuroinflammatorische Konnektivität und multisystemische Pathologie bei Long COVID
+  plain_summary: Bei 45 Post-COVID-Betroffenen zeigten die 22 % mit erhöhten Entzündungssignalen im Hirn-PET auch eine schwächere Vernetzung in Aufmerksamkeits- und Sehnetzwerken. Eine begleitende Übersichtsarbeit ordnet Gefäß- und Schrankenbefunde ein, betont aber technische Hürden des PET-Tracers und offene Kausalitätsfragen.
+  detail: 'Eine multimodale Bildgebungsstudie, die [18F]DPA-714-PET und funktionelle Ruhe-MRT bei 45 Patientinnen und Patienten mit Post-COVID-Syndrom (PCS) kombinierte, zeigte, dass jene 22 % der Betroffenen mit hoher neuroinflammatorischer Aktivität eine verringerte funktionelle Konnektivität in kognitiven Netzwerken aufwiesen, insbesondere im visuell-peripheren und im dorsalen Aufmerksamkeitsnetzwerk. Ein signifikanter Zusammenhang zeigte sich zwischen zunehmender Neuroinflammation und verringerter Konnektivität im Kleinhirn. Parallel dazu fasste eine umfassende Literaturübersicht im *Journal of Neuroimmunology* diese Befunde mit breiteren systemischen Signalwegen zusammen und skizzierte, wie Neuroinflammation, Störung der Blut-Hirn-Schranke, Endothelaktivierung, Hypoperfusion und Autoantikörper zusammenwirken, um neuropsychiatrische Symptome anzutreiben. Obwohl diese Arbeiten die biologische Realität von postviralem Brain Fog untermauern, betonen beide zentrale Einschränkungen: Der PET-Tracer
+    erfordert eine aufwändige TSPO-Genotypisierung, die die Skalierbarkeit begrenzt, und die genauen Kausalbeziehungen zwischen diesen multisystemischen Mechanismen müssen noch in prospektiven Längsschnittstudien geklärt werden.'

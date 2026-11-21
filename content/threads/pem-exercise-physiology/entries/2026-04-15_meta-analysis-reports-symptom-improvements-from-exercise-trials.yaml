@@ -1,0 +1,19 @@
+id: 2026-04-15_meta-analysis-reports-symptom-improvements-from-exercise-trials
+date: '2026-04-15'
+date_display: '2026-04-15'
+date_precision: exact
+source_type: review
+study_design: Meta-analysis
+sources:
+- label: Zhao et al. 2026, Journal of Psychosomatic Research
+  url: https://doi.org/10.1016/j.jpsychores.2026.112677
+  kind: paper
+en:
+  title: Meta-analysis reports symptom improvements from exercise trials in ME/CFS but no cardiopulmonary or functional-capacity gains
+  plain_summary: A meta-analysis of 17 exercise trials in ME/CFS found modest improvements in self-reported fatigue and mood, but zero gains in objective fitness or physical capacity. Because older trials rarely screened for PEM or tracked delayed crashes and dropouts properly, this does not show that exercise programs are safe for people with PEM.
+  detail: A systematic review and meta-analysis of 17 randomized controlled trials (RCTs) including 1,944 participants with ME/CFS evaluated the efficacy of exercise training programs. The study reported statistically significant pooled improvements in patient-reported fatigue, sleep quality, quality of life, depression, and anxiety, but noted very high heterogeneity across trials. Crucially, the analysis found no significant improvements in objective cardiopulmonary function or functional capacity. The authors emphasized that to prevent harm, exercise programs must strictly respect individual energy limits rather than following rigid progression schemes. However, because older trials often lacked active screening for post-exertional malaise (PEM) and did not systematically monitor delayed harms or dropout rates, these pooled findings should be interpreted with extreme caution and do not validate exercise as generally safe or recommended.
+de:
+  title: Metaanalyse berichtet Symptomverbesserungen durch Bewegungsstudien bei ME/CFS, aber keine Steigerung der Fitness oder Leistungsfähigkeit
+  plain_summary: Eine Metaanalyse von 17 Trainingsstudien bei ME/CFS fand zwar Besserungen bei selbstberichteter Müdigkeit und Stimmung, jedoch keinerlei Gewinn bei objektiver Fitness oder Leistungsfähigkeit. Da ältere Studien PEM kaum überprüften und verzögerte Einbrüche sowie Abbrüche oft nicht erfassten, belegt dies keine Sicherheit von Trainingsprogrammen bei PEM.
+  detail: Eine systematische Übersichtsarbeit und Metaanalyse von 17 randomisierten kontrollierten Studien (RCTs) mit insgesamt 1.944 ME/CFS-Teilnehmenden bewertete die Wirksamkeit von Bewegungstrainingsprogrammen. Die Arbeit berichtete statistisch signifikante gepoolte Verbesserungen bei patientenberichteter Fatigue, Schlafqualität, Lebensqualität, Depression und Angst, verzeichnete jedoch eine sehr hohe Heterogenität zwischen den Studien. Entscheidend ist, dass die Analyse keine signifikanten Verbesserungen der objektiven kardiopulmonalen Funktion oder der funktionellen Leistungsfähigkeit fand. Die Autorinnen und Autoren betonten, dass Bewegungsprogramme zur Schadensvermeidung strikt individuelle Energiegrenzen achten müssen statt starrer Steigerungspläne. Da ältere Studien jedoch häufig kein aktives Screening auf Post-Exertional Malaise (PEM) durchführten und verzögerte Schäden sowie Abbruchraten nicht systematisch überwachten, sind diese gepoolten Ergebnisse mit äußerster Vorsicht zu
+    bewerten und belegen nicht, dass Bewegungstraining allgemein sicher oder empfehlenswert ist.

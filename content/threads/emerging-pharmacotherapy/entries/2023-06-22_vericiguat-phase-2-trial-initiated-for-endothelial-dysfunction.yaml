@@ -1,0 +1,19 @@
+id: 2023-06-22_vericiguat-phase-2-trial-initiated-for-endothelial-dysfunction
+date: '2023-06-22'
+date_display: '2023-06-22'
+date_precision: exact
+source_type: trial_registry
+study_design: Trial registry
+sources:
+- label: 'ClinicalTrials.gov Registry: NCT05697640'
+  url: https://clinicaltrials.gov/study/NCT05697640
+  kind: registry
+en:
+  title: Vericiguat Phase 2 trial initiated for endothelial dysfunction in Post-COVID Syndrome
+  plain_summary: Charité Berlin launched a placebo-controlled Phase 2 trial testing whether vericiguat, a blood-vessel-relaxing drug, improves physical function in Long COVID patients with impaired blood vessel lining. Because the trial is still underway without published results, safety and effectiveness remain unknown.
+  detail: A randomized, double-blind, placebo-controlled Phase 2 clinical trial (NCT05697640) was initiated by Charité University in Berlin to investigate whether the soluble guanylate cyclase stimulator vericiguat improves physical function in patients with Post-COVID-19 Syndrome. The trial targets patients with confirmed endothelial dysfunction—a condition where impaired function of the inner lining of small blood vessels reduces local blood flow and tissue oxygenation. By evaluating a drug known to enhance nitric oxide signaling and promote vasodilation, the study aims to test if correcting endothelial impairment translates into improved physical capacity and reduced fatigue. However, the trial is ongoing with results yet to be published, and it remains to be proven whether vericiguat is safe and effective in this population. It also does not establish whether the drug's mechanisms are applicable to post-viral patients who do not exhibit measurable signs of microvascular endothelial dysfunction.
+de:
+  title: Phase-2-Studie zu Vericiguat bei Endotheldysfunktion im Rahmen des Post-COVID-Syndroms gestartet
+  plain_summary: Die Charité Berlin startete eine placebokontrollierte Phase-2-Studie, die prüft, ob das gefäßerweiternde Medikament Vericiguat die körperliche Funktion bei Post-COVID-Betroffenen mit Endotheldysfunktion verbessert. Da die Studie noch läuft und keine Ergebnisse vorliegen, sind Sicherheit und Wirksamkeit bislang offen.
+  detail: Eine randomisierte, doppelt verblindete, placebokontrollierte klinische Phase-2-Studie (NCT05697640) wurde an der Charité – Universitätsmedizin Berlin gestartet, um zu untersuchen, ob der Stimulator der löslichen Guanylatzyklase Vericiguat die körperliche Funktionsfähigkeit bei Patientinnen und Patienten mit Post-COVID-19-Syndrom verbessert. Die Studie richtet sich an Betroffene mit bestätigter Endotheldysfunktion – einem Zustand, bei dem eine gestörte Funktion der inneren Auskleidung kleiner Blutgefäße die lokale Durchblutung und Sauerstoffversorgung des Gewebes mindert. Durch Prüfung eines Wirkstoffs, der den Stickstoffmonoxid-Signalweg verstärkt und die Gefäßerweiterung fördert, soll getestet werden, ob sich eine Korrektur der Gefäßstörung in bessere Belastbarkeit und weniger Fatigue übersetzt. Die Studie läuft jedoch noch ohne veröffentlichte Ergebnisse, sodass Sicherheit und Wirksamkeit von Vericiguat in dieser Population bislang unbewiesen sind und offenbleibt, ob der Ansatz
+    auch für Betroffene ohne messbare mikrovaskuläre Endotheldysfunktion gilt.

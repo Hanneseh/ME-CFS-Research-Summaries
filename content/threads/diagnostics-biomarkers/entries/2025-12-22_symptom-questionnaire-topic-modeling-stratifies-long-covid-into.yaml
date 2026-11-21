@@ -1,0 +1,19 @@
+id: 2025-12-22_symptom-questionnaire-topic-modeling-stratifies-long-covid-into
+date: '2025-12-22'
+date_display: '2025-12-22'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Peng et al. 2025, medRxiv
+  url: https://doi.org/10.1101/2025.11.16.25340350
+  kind: preprint
+en:
+  title: Symptom questionnaire topic modeling stratifies Long COVID into ten endotypes and three severity groups
+  plain_summary: Analyzing symptom questionnaires from 1,661 Long COVID patients across four cohorts sorted people into ten symptom patterns and three severity levels that matched immune antibody measurements. As a preprint based on symptom patterns rather than diagnostic lab markers, it does not yet predict which treatments will work for each group.
+  detail: A preprint from the J. Craig Venter Institute and collaborating centers applied Poisson Factor Analysis to de-identified questionnaire data from 1,661 Long COVID participants across four independent cohorts. Unsupervised clustering identified ten global endotypes and three severity levels—mild, moderate, and severe—that were consistent across sites. A severe, female-predominant cluster characterized by neurological, hormonal, and temperature-regulation symptoms emerged as the most distinctively impaired group. Severity scores correlated with SARS-CoV-2-specific plasmablast antibodies (MENSA assay), validating that patient-reported severity reflects active immune biology rather than only subjective experience. Patients with non-mild acute illness had a 2.6-fold higher risk of developing moderate or severe Long COVID. The clustering approach relies on symptom co-occurrence rather than biomarkers and has not yet been linked to treatment-predictive biological markers.
+de:
+  title: Topic-Modeling von Symptomfragebögen teilt Long COVID in zehn Endotypen und drei Schweregrade ein
+  plain_summary: Eine Auswertung von Symptomfragebögen bei 1.661 Long-COVID-Betroffenen aus vier Kohorten ordnete die Beschwerden zehn Mustern und drei Schweregraden zu, die mit gemessenen Immun-Antikörpern übereinstimmten. Als Preprint auf Basis von Symptomangaben statt klinischer Labortests erlaubt der Ansatz noch keine Vorhersage darüber, welche Therapie welcher Gruppe hilft.
+  detail: Ein Preprint des J. Craig Venter Institute und kooperierender Zentren wandte Poisson-Faktoranalyse auf anonymisierte Fragebogendaten von 1.661 Long-COVID-Teilnehmenden aus vier unabhängigen Kohorten an. Durch unüberwachtes Clustering zeigten sich standortübergreifend zehn globale Endotypen und drei Schweregrade – leicht, mittelschwer und schwer. Eine schwere, überwiegend weibliche Gruppe mit neurologischen, hormonellen und Temperaturregulations-Symptomen hob sich als am stärksten beeinträchtigt ab. Die Schweregrad-Scores korrelierten mit SARS-CoV-2-spezifischen Plasmablasten-Antikörpern (MENSA-Assay), was bestätigt, dass die von Betroffenen berichtete Schwere eine aktive Immunbiologie widerspiegelt und nicht nur subjektives Erleben. Patientinnen und Patienten mit nicht-mildem Akutverlauf hatten ein 2,6-fach höheres Risiko für mittelschweres oder schweres Long COVID. Der Ansatz stützt sich auf das gemeinsame Auftreten von Symptomen statt auf Biomarker und wurde bislang nicht mit
+    therapievorhersagenden biologischen Markern verknüpft.

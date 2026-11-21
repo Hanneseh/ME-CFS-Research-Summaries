@@ -1,0 +1,26 @@
+id: 2026-09-30_aer002-phase-2a-journal-publication-safe-not-efficacious
+date: '2026-09-30'
+date_display: '2026-09-30'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Peluso et al. 2026, Nature Communications
+  url: https://doi.org/10.1038/s41467-026-77925-y
+  kind: paper
+- label: Peluso et al. 2026, initial medRxiv preprint
+  url: https://doi.org/10.64898/2026.03.07.26347857
+  kind: preprint
+- label: ClinicalTrials.gov NCT05877508
+  url: https://clinicaltrials.gov/study/NCT05877508
+  kind: registry
+en:
+  title: 'AER002 phase 2a journal publication: safe, not efficacious in Long COVID'
+  plain_summary: In a peer-reviewed trial of 36 adults with Long COVID, a single infusion of the experimental SARS-CoV-2 antibody AER002 was well tolerated but failed to beat placebo on physical health, quality of life, or function over a year. A hint of perceived improvement in a small subgroup with low baseline antibodies is only a preliminary clue and does not prove the treatment works.
+  detail: The peer-reviewed publication of the AER002 phase 2a mechanistic trial in Nature Communications follows the 2026-03-09 medRxiv preprint, evaluating a single infusion of the SARS-CoV-2 monoclonal antibody in 36 adults meeting the WHO Long COVID case definition with 360 days of follow-up (NCT05877508). In this exploratory, double-blind, 2:1 randomized, placebo-controlled trial, AER002 was safe and well tolerated, but missed its primary endpoint of PROMIS-29 physical health summary score at day 90. The authors conclude that AER002 was 'not efficacious in this proof-of-concept study', with no significant differences observed between arms in physical health, quality of life, objective physical or cognitive function, or blood biomarkers. A post-hoc subgroup analysis found that lower baseline anti-spike antibody levels and higher drug exposure correlated with greater perceived benefit on the Patient Global Impression of Change (PGIC), but this retrospective signal remains strictly hypothesis-generating.
+    Eligibility did not require ME/CFS criteria, homebound or bedbound status was not reported, and four study co-authors are affiliated with Aerium Therapeutics. The trial tests spike-directed antibody therapy, but neither demonstrates viral clearance nor establishes clinical benefit.
+de:
+  title: 'AER002-Phase-2a-Publikation: sicher, aber bei Long COVID nicht wirksam'
+  plain_summary: In einer begutachteten Studie mit 36 Erwachsenen mit Long COVID wurde eine einmalige Infusion des SARS-CoV-2-Antikörpers AER002 gut vertragen, übertraf Placebo aber über ein Jahr weder bei der körperlichen Gesundheit noch bei Lebensqualität oder Funktionsmaßen. Ein Signal in einer kleinen Untergruppe mit niedrigen Ausgangs-Antikörpern dient nur als vorläufiger Hinweis und belegt keine Wirksamkeit.
+  detail: Die begutachtete Publikation der mechanistischen Phase-2a-Studie zu AER002 in *Nature Communications* folgt auf den medRxiv-Preprint vom 09.03.2026 und untersucht eine einmalige Infusion des SARS-CoV-2-monoklonalen Antikörpers bei 36 Erwachsenen nach WHO-Long-COVID-Definition über 360 Tage Nachbeobachtung (NCT05877508). In dieser explorativen, doppelt verblindeten, 2:1 randomisierten, placebokontrollierten Studie war AER002 sicher und gut verträglich, verfehlte aber seinen primären Endpunkt beim PROMIS-29-Score für körperliche Gesundheit an Tag 90. Die Autorinnen und Autoren schließen, dass AER002 in dieser Proof-of-Concept-Studie nicht wirksam war; es zeigten sich keine signifikanten Unterschiede zwischen den Gruppen bei körperlicher Gesundheit, Lebensqualität, objektiver körperlicher oder kognitiver Leistung oder Blut-Biomarkern. Eine post-hoc-Subgruppenanalyse fand, dass niedrigere Anti-Spike-Ausgangsantikörper und eine höhere Wirkstoffexposition mit einer stärker wahrgenommenen
+    Besserung auf der Patient Global Impression of Change (PGIC) korrelierten; dieses retrospektive Signal bleibt jedoch rein hypothesengenerierend. Die Einschlusskriterien erforderten keine ME/CFS-Diagnose, der Status als hausgebunden oder bettlägerig wurde nicht berichtet, und vier Ko-Autorinnen bzw. -Autoren sind mit Aerium Therapeutics verbunden. Die Studie prüft eine gegen das Spike-Protein gerichtete Antikörpertherapie, belegt aber weder eine Virus-Clearance noch einen klinischen Nutzen.

@@ -1,0 +1,23 @@
+id: 2026-06-05_peer-reviewed-prospective-study-and-clinical-updates-link
+date: '2026-06-05'
+date_display: '2026-06-05'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: Kim et al. 2026, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-026-08324-6
+  kind: paper
+- label: Kedor 2026, ME/CFS Symposium 2026
+  url: https://youtu.be/FEQgTLjBVCg
+  kind: video
+en:
+  title: Peer-reviewed prospective study and clinical updates link HBOT outcomes to brain connectivity and dose
+  plain_summary: A study of 30 ME/CFS patients found that 40 hyperbaric oxygen sessions improved symptoms, function, and brain-scan connectivity patterns more than 20 sessions, with benefits lasting up to 11 months in responders. Because there was no sham-control group and severely ill homebound patients were excluded, placebo effects cannot be ruled out and safety for severe ME/CFS remains unknown.
+  detail: A prospective cohort study of 30 ME/CFS patients undergoing 40 HBOT sessions (90-minute sessions at 2.0 ATA and 100% oxygen, 3–5 times weekly) demonstrated significant improvements in physical function, pain, fatigue, exercise capacity, and information processing speed, which correlated with the normalization of baseline thalamic functional hyperconnectivity on fMRI. At the ME/CFS Symposium 2026, Dr. Claudia Kedor presented comparative results from this trial cohort showing that the 40-session protocol was superior to a shorter 20-session course, which failed to show sustained improvements in pain, muscle strength, or physical capacity. Clinical responders (exhibiting a ≥10-point improvement on the SF-36 physical functioning scale) experienced sustained symptomatic benefits lasting up to 11 months post-treatment. However, because the study design was open-label and lacked a sham-control group, it cannot prove direct clinical efficacy. Additionally, the trial excluded severely ill,
+    homebound patients, meaning these results and safety profiles cannot be generalized to the most vulnerable patient populations.
+de:
+  title: Begutachtete prospektive Studie und Klinik-Updates verknüpfen HBOT-Verläufe mit Hirnkonnektivität und Dosis
+  plain_summary: Eine Studie mit 30 ME/CFS-Betroffenen fand nach 40 HBOT-Sitzungen Verbesserungen bei Symptomen, Funktion und MRT-Hirnvernetzung, die nachhaltiger waren als nach 20 Sitzungen und bei Ansprechenden bis zu 11 Monate anhielten. Da keine schein-kontrollierte Vergleichsgruppe einbezogen war und schwer kranke, hausgebundene Menschen ausgeschlossen wurden, lassen sich Placeboeffekte nicht ausschließen und die Sicherheit bei schwerem ME/CFS bleibt offen.
+  detail: Eine prospektive Kohortenstudie an 30 ME/CFS-Patientinnen und -Patienten mit 40 HBOT-Sitzungen (je 90 Minuten bei 2,0 ATA mit 100 % Sauerstoff, 3–5-mal wöchentlich) zeigte signifikante Verbesserungen bei körperlicher Funktion, Schmerzen, Fatigue, Belastbarkeit und Informationsverarbeitungsgeschwindigkeit, die mit der Normalisierung einer erhöhten thalamischen funktionellen Konnektivität im fMRT korrelierten. Auf dem ME/CFS-Symposium 2026 präsentierte Dr. Claudia Kedor Vergleichsdaten aus dieser Studienkohorte, wonach das 40-Sitzungen-Protokoll einem kürzeren 20-Sitzungen-Kurs überlegen war, der keine anhaltenden Verbesserungen bei Schmerzen, Muskelkraft oder körperlicher Leistungsfähigkeit erreichte. Klinisch Ansprechende (mit ≥10 Punkten Zunahme auf der SF-36-Skala für körperliche Funktionsfähigkeit) zeigten anhaltende Symptomverbesserungen bis zu 11 Monate nach Therapieende. Da die Studie jedoch offen angelegt war und keine schein-kontrollierte Vergleichsgruppe enthielt, kann
+    sie keine direkte klinische Wirksamkeit beweisen. Zudem schloss die Studie schwer erkrankte, hausgebundene Betroffene aus, sodass Ergebnisse und Sicherheitsprofil nicht auf die am stärksten betroffenen Gruppen übertragbar sind.

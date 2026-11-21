@@ -1,0 +1,18 @@
+id: 2026-02-19_exercise-testing-framework-links-pem-metrics-to-safer
+date: '2026-02-19'
+date_display: '2026-02-19'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'Fagan et al. 2026, Fatigue: Biomedicine, Health & Behavior'
+  url: https://doi.org/10.1080/21641846.2026.2627169
+  kind: paper
+en:
+  title: Exercise-testing framework links PEM metrics to safer rehabilitation
+  plain_summary: A guidance paper outlines how serial exercise-test measurements—like anaerobic thresholds and recovery tracking—could help tailor safer activity limits in Long COVID instead of using one-size-fits-all exercise plans. The approach still requires specialized testing and has not been proven to improve outcomes in a controlled trial.
+  detail: This guidance paper translated serial CPET findings into a framework for pacing and activity management in Long COVID. The main shift is from generic exercise prescription to individualized limits based on anaerobic threshold and recovery behavior. That makes exercise testing more clinically actionable for symptom management and risk reduction. The framework still depends on specialized testing and has not been shown to improve outcomes in a controlled intervention trial.
+de:
+  title: Rahmenkonzept zur Belastungstestung verknüpft PEM-Messwerte mit sichererer Rehabilitation
+  plain_summary: Ein Leitlinienbeitrag beschreibt, wie Messwerte aus seriellen Belastungstests – etwa anaerobe Schwellen und Erholungsverhalten – helfen können, individuelle Belastungsgrenzen bei Long COVID statt pauschaler Trainingspläne festzulegen. Das Konzept erfordert allerdings spezialisierte Testverfahren und wurde noch nicht in kontrollierten Interventionsstudien auf besseren Verlauf geprüft.
+  detail: Dieses Leitpapier übertrug Befunde aus seriellen CPET-Untersuchungen in ein Rahmenkonzept für Pacing und Aktivitätssteuerung bei Long COVID. Die wesentliche Verschiebung geht weg von pauschalen Trainingsverordnungen hin zu individuellen Grenzen auf Basis der anaeroben Schwelle und des Erholungsverhaltens. Dadurch werden Belastungstests für Symptommanagement und Risikominimierung klinisch besser nutzbar. Dennoch bleibt das Konzept von spezialisierter Testung abhängig und hat bislang nicht in einer kontrollierten Interventionsstudie nachgewiesen, dass es klinische Ergebnisse verbessert.

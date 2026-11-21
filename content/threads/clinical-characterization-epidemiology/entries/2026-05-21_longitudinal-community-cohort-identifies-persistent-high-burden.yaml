@@ -1,0 +1,18 @@
+id: 2026-05-21_longitudinal-community-cohort-identifies-persistent-high-burden
+date: '2026-05-21'
+date_display: '2026-05-21'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Shen et al. 2026, BMC Infectious Diseases
+  url: https://doi.org/10.1186/s12879-026-11252-7
+  kind: paper
+en:
+  title: Longitudinal community cohort identifies persistent high-burden Long COVID trajectories
+  plain_summary: A U.S. community study tracking 511 adults with Long COVID over a year found a persistent high-symptom group experiencing fatigue, PEM, and brain fog. It relies on self-reports in general Long COVID rather than diagnosed ME/CFS, so it shows persistence rather than treatment effects.
+  detail: The CHASING COVID national community cohort followed 511 adults with Long COVID at 3, 6, 9, and 12 months and used longitudinal clustering to identify three overall symptom-burden trajectories. The highest-burden trajectory remained multisystemic, commonly including fatigue, concentration problems, PEM, myalgia, sleep symptoms, gastrointestinal complaints, and mobility limitation, with further multisystemic, neuropsychiatric, and physical/respiratory subclusters. Community recruitment avoided imposed exercise and may have reached people outside tertiary clinics, but severe or bedbound inclusion was not specifically reported and the cohort was not a direct ME/CFS sample. Self-report, imputation, and observational clustering limit causal interpretation; the result supports heterogeneity and persistence, not a treatment effect.
+de:
+  title: Langzeit-Gemeindekohorte identifiziert anhaltende Long-COVID-Verläufe mit hoher Symptomlast
+  plain_summary: Eine US-Gemeindestudie begleitete 511 Erwachsene mit Long COVID über ein Jahr und fand eine Untergruppe mit dauerhaft hoher Multisystemlast einschließlich Fatigue, PEM und Konzentrationsstörungen. Sie stützt sich auf Selbstberichte bei allgemeinem Long COVID ohne ME/CFS-Diagnose und belegt Anhalten der Beschwerden, keine Therapieeffekte.
+  detail: Die nationale US-Gemeindekohorte CHASING COVID begleitete 511 Erwachsene mit Long COVID nach 3, 6, 9 und 12 Monaten und identifizierte mittels Längsschnitt-Clustering drei Verlaufsformen der Symptomlast. Die am stärksten belastete Gruppe blieb dauerhaft multisystemisch beeinträchtigt, häufig mit Fatigue, Konzentrationsstörungen, PEM, Muskelschmerzen, Schlafstörungen, Magen-Darm-Beschwerden und Mobilitätseinschränkungen sowie weiteren multisystemischen, neuropsychiatrischen und körperlich-respiratorischen Unterclustern. Die Rekrutierung in der Allgemeinbevölkerung vermied Belastungstests und erreichte womöglich Personen außerhalb von Spezialambulanzen; Angaben zu schwer Betroffenen oder Bettlägerigen fehlten jedoch, und es handelte sich nicht direkt um eine ME/CFS-Stichprobe. Selbstberichte, Datenimputation und beobachtendes Clustering begrenzen kausale Aussagen – das Ergebnis stützt Heterogenität und Persistenz, keinen Behandlungseffekt.

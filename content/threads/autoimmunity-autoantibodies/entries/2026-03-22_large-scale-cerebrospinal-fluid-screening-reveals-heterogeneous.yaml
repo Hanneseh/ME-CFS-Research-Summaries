@@ -1,0 +1,18 @@
+id: 2026-03-22_large-scale-cerebrospinal-fluid-screening-reveals-heterogeneous
+date: '2026-03-22'
+date_display: '2026-03-22'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Chakravarty et al. 2026, medRxiv
+  url: https://doi.org/10.1101/2026.03.19.26348833
+  kind: preprint
+en:
+  title: Large-scale cerebrospinal fluid screening reveals heterogeneous autoantibody profiles
+  plain_summary: In a non-peer-reviewed preprint testing spinal fluid and blood from 111 people, researchers found no single shared brain-targeting antibody behind neurological Long COVID. Autoantibodies varied widely from person to person and overlapped with controls, pointing researchers away from a one-size-fits-all brain antibody explanation.
+  detail: A cross-cohort case-control study analyzed cerebrospinal fluid and blood serum from 111 participants using mouse brain tissue staining and phage immunoprecipitation sequencing (PhIP-Seq), finding no shared autoantibody signature in neurological Long COVID. The autoantibody targets identified were highly sparse and patient-specific, overlapping significantly with healthy and recovered controls. This indicates that cognitive symptoms like brain fog are not driven by a single, universal central nervous system autoantibody. These findings redirect the research field toward personalized medicine and non-antibody-driven mechanisms of neuroinflammation. However, the study was limited to the specific antigens present in the PhIP-Seq library and does not rule out the presence of local, tissue-restricted antibodies.
+de:
+  title: Breites Liquor-Screening deckt heterogene Autoantikörperprofile auf
+  plain_summary: In einem noch nicht begutachteten Preprint fanden Forschende in Nervenwasser und Blut von 111 Personen keinen einheitlichen, gegen das Gehirn gerichteten Antikörper bei neurologischem Long COVID. Die Befunde waren von Mensch zu Mensch verschieden und überschnitten sich stark mit Kontrollen, was gegen eine pauschale Hirn-Autoantikörper-Erklärung spricht.
+  detail: Eine kohortenübergreifende Fall-Kontroll-Studie analysierte Liquor und Blutserum von 111 Teilnehmenden mittels Färbung von Maus-Hirngewebe und Phagen-Immunpräzipitations-Sequenzierung (PhIP-Seq) und fand keine gemeinsame Autoantikörper-Signatur bei neurologischem Long COVID. Die identifizierten Autoantikörperziele waren äußerst spärlich und patientenspezifisch und überschnitten sich deutlich mit gesunden sowie genesenen Kontrollen. Dies deutet darauf hin, dass kognitive Symptome wie Brain Fog nicht durch einen einzelnen, universellen Autoantikörper gegen das zentrale Nervensystem verursacht werden. Diese Ergebnisse lenken das Forschungsfeld stärker in Richtung personalisierter Ansätze und nicht-antikörpergetriebener Mechanismen der Neuroinflammation. Allerdings war die Studie auf die spezifischen Antigene in der PhIP-Seq-Bibliothek beschränkt und schließt lokale, auf bestimmte Gewebe begrenzte Antikörper nicht aus.

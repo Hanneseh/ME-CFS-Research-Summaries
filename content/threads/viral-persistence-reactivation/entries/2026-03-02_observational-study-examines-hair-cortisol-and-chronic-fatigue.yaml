@@ -1,0 +1,20 @@
+id: 2026-03-02_observational-study-examines-hair-cortisol-and-chronic-fatigue
+date: '2026-03-02'
+date_display: '2026-03-02'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Kongsnes et al. 2026, Stress
+  url: https://pubmed.ncbi.nlm.nih.gov/41772810
+  kind: paper
+en:
+  title: Observational study examines hair cortisol and chronic fatigue following EBV in adolescents
+  plain_summary: In 192 adolescents tracked after acute Epstein-Barr virus infection, hair cortisol levels before infection did not predict who stayed chronically fatigued six months later. This suggests that low cortisol seen in chronic fatigue is likely a downstream result of being ill rather than a pre-existing trigger.
+  detail: 'An observational study investigated whether pre-infection hair cortisol levels predict chronic fatigue following acute Epstein-Barr virus (EBV) infection in adolescents. Using data from the CEBA project, researchers analyzed hair samples from 192 adolescents (aged 12-20) during acute EBV infection and six months later, alongside 66 matched healthy controls, measuring fatigue via the Chalder Fatigue Questionnaire. The study found that EBV-infected adolescents had significantly higher pre-infection hair cortisol levels (median 5.12, IQR: 3.27-8.76) compared to healthy controls (median 3.90, IQR: 2.61-6.19) and compared to their own levels six months later (median 3.74, IQR: 2.46-6.52). However, pre-infection hair cortisol levels did not predict chronic fatigue at six months, and the association between hair cortisol and fatigue shifted from positive during acute infection to negative at six months. This suggests that HPA-axis alterations are a consequence rather than a cause of
+    chronic fatigue, indicating that the low cortisol observed in chronic fatigue states is a downstream disease consequence rather than a pre-existing risk factor. Limitations of the study include its restriction to adolescents, reliance on self-reported fatigue, and a design that cannot establish specific biological mechanisms of post-infection HPA-axis down-regulation.'
+de:
+  title: Beobachtungsstudie untersucht Haarcortisol und chronische Erschöpfung nach EBV bei Jugendlichen
+  plain_summary: Bei 192 Jugendlichen nach einer akuten EBV-Infektion sagten die Haarcortisol-Werte vor der Infektion nicht voraus, wer sechs Monate später anhaltend erschöpft blieb. Das spricht dafür, dass ein niedriger Cortisolspiegel eher eine Folge der chronischen Erkrankung als ein vorbestehender Risikofaktor ist.
+  detail: Eine Beobachtungsstudie untersuchte, ob Haarcortisol-Werte vor einer Infektion eine chronische Erschöpfung nach akuter Epstein-Barr-Virus-(EBV-)Infektion bei Jugendlichen vorhersagen. Auf Basis des CEBA-Projekts analysierten Forschende Haarproben von 192 Jugendlichen (12–20 Jahre) während der akuten EBV-Infektion und sechs Monate später im Vergleich zu 66 gesunden Kontrollen, ergänzt durch die Chalder Fatigue Scale. Jugendliche mit EBV hatten vor der Infektion signifikant höhere Haarcortisol-Werte (Median 5,12; IQR 3,27–8,76) als Kontrollen (Median 3,90; IQR 2,61–6,19) und als sechs Monate später (Median 3,74; IQR 2,46–6,52), doch sagten diese Ausgangswerte eine chronische Erschöpfung nach sechs Monaten nicht voraus; die Korrelation zwischen Cortisol und Erschöpfung drehte sich von positiv in der Akutphase zu negativ nach sechs Monaten. Das deutet darauf hin, dass Veränderungen der Stresshormon-Achse (HPA-Achse) wie niedriges Cortisol eher eine Folge als eine Ursache der chronischen
+    Erschöpfung sind; eingeschränkt wird die Studie durch den Fokus auf Jugendliche, Selbstauskünfte zur Erschöpfung und ein Design ohne direkte Messung der zugrunde liegenden Mechanismen.

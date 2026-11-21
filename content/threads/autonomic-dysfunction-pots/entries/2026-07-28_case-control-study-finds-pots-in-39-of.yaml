@@ -1,0 +1,20 @@
+id: 2026-07-28_case-control-study-finds-pots-in-39-of
+date: '2026-07-28'
+date_display: '2026-07-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Leone et al. 2026, Frontiers in Pediatrics
+  url: https://doi.org/10.3389/fped.2026.1836407
+  kind: paper
+en:
+  title: Case-control study finds PoTS in 39% of adolescents with ME/CFS
+  plain_summary: In a small study of 18 adolescents with ME/CFS and 18 controls, 39% had confirmed PoTS on a passive standing test and 83% had a history of upright symptoms. The authors' proposed pediatric heart-rate rule needs wider replication, and standing tests are unsuitable for bedbound youths.
+  detail: A peer-reviewed case-control study evaluated orthostatic intolerance (OI) and diagnostic criteria for postural orthostatic tachycardia syndrome (PoTS) in 18 adolescents with ME/CFS compared to 18 matched healthy controls. During a 10-minute passive standing test (PST), expert-confirmed PoTS was identified in 39% of the adolescent ME/CFS group (0% in controls), while a clinical history of OI was present in 83% of patients (versus 17% in controls). The authors demonstrated that absolute upright heart rate thresholds were superior to standard relative heart rate increments (+40 bpm) for diagnosing pediatric PoTS, proposing a practice-level rule combining a positive OI history with at least 60% of upright readings exceeding pediatric normative limits. However, the study is constrained by a small, single-center sample size and evaluated a single 10-minute test without longitudinal follow-up, and the proposed 60% absolute threshold rule requires external replication before clinical adoption.
+    Because 10 minutes of upright standing can trigger presyncope, syncope, or severe post-exertional symptom exacerbation, the protocol requires close clinical supervision and is not feasible for bedbound or severely affected pediatric patients unable to stand.
+de:
+  title: Fall-Kontroll-Studie findet PoTS bei 39 % der Jugendlichen mit ME/CFS
+  plain_summary: In einer kleinen Studie mit je 18 Jugendlichen zeigten 39 % der ME/CFS-Gruppe im passiven Stehtest ein bestätigtes PoTS und 83 % hatten orthostatische Beschwerden in der Vorgeschichte. Die vorgeschlagene neue Pulsgrenze braucht noch externe Bestätigung und ist für bettlägerige Jugendliche nicht geeignet.
+  detail: Eine begutachtete Fall-Kontroll-Studie untersuchte orthostatische Intoleranz (OI) und Diagnosekriterien des posturalen Tachykardiesyndroms (PoTS) bei 18 Jugendlichen mit ME/CFS im Vergleich zu 18 passenden gesunden Kontrollpersonen. In einem 10-minütigen passiven Stehtest (PST) wurde ein fachärztlich bestätigtes PoTS bei 39 % der jugendlichen ME/CFS-Gruppe festgestellt (0 % bei Kontrollen), während eine OI-Vorgeschichte bei 83 % der Betroffenen (gegenüber 17 % der Kontrollen) vorlag. Die Autorinnen und Autoren zeigten, dass absolute Puls-Schwellenwerte im Stehen den üblichen relativen Pulsanstiegen (+40 Schläge/Min.) bei Jugendlichen überlegen waren, und schlugen als Praxisregel eine positive OI-Anamnese kombiniert mit mindestens 60 % der Stehwerte oberhalb pädiatrischer Normgrenzen vor. Die Studie ist jedoch durch eine kleine, monozentrische Stichprobe ohne Verlaufsbeobachtung begrenzt, und die 60-%-Regel bedarf externer Replikation vor einer klinischen Übernahme. Da 10 Minuten
+    aufrechtes Stehen Präsynkopen, Synkopen oder schwere PEM auslösen können, erfordert der Test enge Aufsicht und ist für bettlägerige oder schwer betroffene Jugendliche nicht durchführbar.

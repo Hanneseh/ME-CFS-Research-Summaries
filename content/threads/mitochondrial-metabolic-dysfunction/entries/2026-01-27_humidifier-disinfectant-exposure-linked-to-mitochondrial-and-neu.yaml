@@ -1,0 +1,26 @@
+id: 2026-01-27_humidifier-disinfectant-exposure-linked-to-mitochondrial-and-neu
+date: '2026-01-27'
+date_display: '2026-01-27'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Yang et al. 2026, Environmental Research
+  url: https://doi.org/10.1016/j.envres.2026.123874
+  kind: paper
+en:
+  title: Humidifier disinfectant exposure linked to mitochondrial and neural pathology
+  plain_summary: A study of a toxic humidifier disinfectant chemical found mitochondrial swelling, lower energy output, and brain inflammation in mice and exposed people. Because mice received the chemical directly into their airways, it may not mirror typical human exposures or guide treatment.
+  detail: '- **What changed:** A dual human and animal study showed that exposure to polyhexamethyleneguanidine phosphate (PHMG-p) triggers significant mitochondrial swelling, disrupted cristae, and reduced oxidative phosphorylation, alongside hypothalamic neuroglial activation and BBB disruption.
+
+    - **Why it matters:** This establishes that toxic environmental exposure can act as a direct trigger for the mitochondrial and neuroinflammatory changes characteristic of ME/CFS.
+
+    - **What it does not prove yet:** The mouse model''s intratracheal administration route may not mirror the diverse routes of human toxic exposures, and the clinical efficacy of mitochondrial stabilization in exposed patients remains unproven.'
+de:
+  title: Exposition gegenüber Luftbefeuchter-Desinfektionsmittel mit mitochondrialer und neuronaler Pathologie verknüpft
+  plain_summary: Eine Human- und Tierstudie zeigte, dass ein giftiges Desinfektionsmittel Mitochondrien schädigt und Entzündungen im Gehirn auslöst. Da Mäuse den Stoff direkt über die Atemwege erhielten, lässt sich das nicht ohne Weiteres auf menschliche Verläufe oder Therapien übertragen.
+  detail: '- **Was sich gezeigt hat:** Eine kombinierte Human- und Tierstudie zeigte, dass die Exposition gegenüber Polyhexamethylenguanidin-Phosphat (PHMG-p) deutliche Schwellungen der Mitochondrien, zerstörte Cristae und verringerte oxidative Phosphorylierung auslöst, begleitet von neuroglialer Aktivierung im Hypothalamus und Störung der Blut-Hirn-Schranke.
+
+    - **Warum das wichtig ist:** Dies belegt, dass toxische Umweltexpositionen als direkter Auslöser für mitochondriale und neuroinflammatorische Veränderungen wirken können, die für ME/CFS typisch sind.
+
+    - **Was damit noch nicht belegt ist:** Die intratracheale Verabreichung im Mausmodell bildet die unterschiedlichen menschlichen Expositionswege möglicherweise nicht ab, und der klinische Nutzen einer Mitochondrien-Stabilisierung bei Betroffenen bleibt unbewiesen.'

@@ -1,0 +1,18 @@
+id: 2024-10-22_transcriptional-profiling-distinguishes-immune-suppression-in-me
+date: '2024-10-22'
+date_display: '2024-10-22'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Eaton-Fitch et al. 2024, JCI Insight
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11529985/
+  kind: paper
+en:
+  title: Transcriptional profiling distinguishes immune suppression in ME/CFS from hyper-activation in Long COVID
+  plain_summary: Gene-activity tests in blood immune cells showed different patterns in 14 ME/CFS patients (more immune dampening) versus 15 Long COVID patients (more immune over-activation). While this suggests their immune profiles may differ despite similar symptoms, the groups are very small and need larger follow-up.
+  detail: PBMC gene expression analysis using an immune exhaustion panel in ME/CFS (n = 14) and Long COVID (n = 15) patients revealed distinct transcriptional signatures. ME/CFS was characterized by immune suppression (downregulated interferon signaling and immunoglobulin genes), whereas Long COVID exhibited immune hyper-activation and antigen presentation dysregulation. The study shows that despite presenting with highly overlapping clinical symptoms and physical disability, post-infectious ME/CFS and Long COVID involve divergent post-infectious immunopathologies. However, the small sample sizes prevent stratification by clinical sub-phenotypes, and these transcriptional profiles require validation in larger, longitudinal cohorts.
+de:
+  title: Transkriptionsprofilierung unterscheidet Immunsuppression bei ME/CFS von Überaktivierung bei Long COVID
+  plain_summary: Genaktivitätsmessungen in Immunzellen des Blutes zeigten bei 14 ME/CFS-Betroffenen eher gedämpfte Immunprogramme, bei 15 Long-COVID-Betroffenen dagegen eine Überaktivierung. Trotz ähnlicher Beschwerden könnten sich die Immunzustände also unterscheiden; die Gruppen sind aber noch sehr klein.
+  detail: Genexpressionsanalysen an PBMCs mit einem Immunerschöpfungs-Panel bei ME/CFS- (n = 14) und Long-COVID-Betroffenen (n = 15) zeigten unterschiedliche Transkriptionssignaturen. ME/CFS war durch eine Immunsuppression (herunterregulierte Interferon-Signalwege und Immunglobulin-Gene) gekennzeichnet, während Long COVID eine Immun-Überaktivierung sowie eine Fehlregulation der Antigenpräsentation aufwies. Die Studie deutet darauf hin, dass postinfektiöses ME/CFS und Long COVID trotz stark überlappender Symptome und Einschränkungen abweichende immunpathologische Ausprägungen haben können. Allerdings lassen die kleinen Fallzahlen keine Unterteilung nach klinischen Subtypen zu, und die Profile müssen in größeren Längsschnittkohorten bestätigt werden.

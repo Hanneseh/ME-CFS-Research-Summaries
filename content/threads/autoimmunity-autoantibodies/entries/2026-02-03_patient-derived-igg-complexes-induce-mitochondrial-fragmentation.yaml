@@ -1,0 +1,19 @@
+id: 2026-02-03_patient-derived-igg-complexes-induce-mitochondrial-fragmentation
+date: '2026-02-03'
+date_display: '2026-02-03'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Liu et al. 2026, Brain, Behavior, & Immunity - Health
+  url: https://doi.org/10.1016/j.bbih.2026.101187
+  kind: paper
+en:
+  title: Patient-derived IgG complexes induce mitochondrial fragmentation and metabolic stress
+  plain_summary: In lab-dish tests, antibody complexes taken from ME/CFS and Long COVID blood broke up mitochondria and stressed energy production inside healthy blood-vessel cells. While this offers a lab explanation for low cellular energy, clinical trials are still needed to see if clearing these antibodies helps patients.
+  detail: A landmark study demonstrated that IgG complexes isolated from the blood of ME/CFS and post-COVID patients directly disrupt cellular energetics in healthy human endothelial cells. Exposure to patient IgG caused significant mitochondrial fragmentation, an effect driven by the antibody's Fab portion, while the Fc portion induced a hypometabolic state. Proteomic analysis revealed distinct molecular pathways, with ME/CFS complexes linked to extracellular matrix disruption and post-COVID complexes associated with blood clotting pathways. This provides a direct cellular mechanism explaining the systemic energy failure and exertional intolerance in post-viral syndromes. However, the study was conducted in vitro on cultured endothelial and immune cells, and clinical trials are required to prove that clearing these specific immune complexes restores mitochondrial function in patients.
+de:
+  title: Patienteneigene IgG-Komplexe lösen mitochondriale Fragmentierung und metabolischen Stress aus
+  plain_summary: In Laborversuchen brachten Antikörperkomplexe aus dem Blut von ME/CFS- und Long-COVID-Betroffenen Mitochondrien in gesunden Gefäßzellen zum Zerfall und störten deren Energiehaushalt. Das liefert eine zelluläre Erklärung für Energiemangel, doch müssen klinische Studien erst zeigen, ob das Entfernen dieser Komplexe Patientinnen und Patienten hilft.
+  detail: Eine wegweisende Studie zeigte, dass aus dem Blut von ME/CFS- und Post-COVID-Patientinnen und -Patienten isolierte IgG-Komplexe die Zellenergetik in gesunden menschlichen Endothelzellen direkt stören. Die Exposition gegenüber Patienten-IgG verursachte eine ausgeprägte mitochondriale Fragmentierung – einen Effekt, der durch den Fab-Anteil des Antikörpers angetrieben wurde, während der Fc-Anteil einen hypometabolen Zustand auslöste. Proteomanalysen deckten unterschiedliche molekulare Pfade auf, wobei ME/CFS-Komplexe mit Störungen der extrazellulären Matrix und Post-COVID-Komplexe mit Blutgerinnungswegen verknüpft waren. Dies liefert einen direkten zellulären Mechanismus zur Erklärung des systemischen Energieversagens und der Belastungsintoleranz bei postviralen Syndromen. Die Studie wurde jedoch in vitro an kultivierten Endothel- und Immunzellen durchgeführt, und klinische Studien sind nötig, um zu belegen, dass das Entfernen dieser spezifischen Immunkomplexe die mitochondriale Funktion
+    bei Betroffenen wiederherstellt.

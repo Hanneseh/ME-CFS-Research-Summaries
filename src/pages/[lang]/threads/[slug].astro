@@ -1,0 +1,374 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../../layouts/Base.astro";
+import EntryCard from "../../../components/EntryCard.astro";
+import GroupPill from "../../../components/GroupPill.astro";
+import TierPill from "../../../components/TierPill.astro";
+import { getGroup, getSite, getThread } from "../../../lib/content";
+import { formatDate, t } from "../../../lib/i18n";
+import { langHome, threadUrl } from "../../../lib/paths";
+import { wordSet } from "../../../lib/render";
+import { LANGS, type Lang } from "../../../lib/types";
+
+export const getStaticPaths = (() =>
+  LANGS.flatMap((lang) => getSite(lang).threads.map((th) => ({ params: { lang, slug: th.slug } })))) satisfies GetStaticPaths;
+
+const lang = Astro.params.lang as Lang;
+const slug = Astro.params.slug as string;
+const s = t(lang);
+const thread = getThread(lang, slug)!;
+const group = getGroup(lang, thread.group);
+const plainTitle = thread.titleText;
+const related = thread.relatedThreads.map((r) => getThread(lang, r)).filter((x): x is NonNullable<typeof x> => !!x);
+const types = [...new Set(thread.entries.map((e) => e.type))].map((type) => ({
+  type,
+  label: thread.entries.find((e) => e.type === type)!.typeLabel,
+  count: thread.entries.filter((e) => e.type === type).length,
+}));
+const INITIAL = 5;
+const STEP = 10;
+const fallback = thread.contentLang;
+
+const BUCKET_ICONS: Record<string, string> = {
+  established: '<path d="m5 10.5 3.2 3L15 6.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>',
+  plausible: '<path d="M4 12c2-3 4-3 6 0s4 3 6 0" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>',
+  not_established: '<circle cx="10" cy="10" r="6" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M7.5 10h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>',
+  limitations: '<path d="M10 3.5 17 16H3Z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="M10 8.5v3.5M10 14v.1" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>',
+  negative: '<circle cx="10" cy="10" r="6" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="m7.8 7.8 4.4 4.4M12.2 7.8l-4.4 4.4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>',
+  note: '<circle cx="10" cy="10" r="6.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M10 9.2v4M10 6.6v.1" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+};
+const timelineConfig = JSON.stringify({
+  initial: INITIAL,
+  step: STEP,
+  strings: { ...s.tpl, expandAll: s.expandAll, collapseAll: s.collapseAll },
+});
+---
+
+<Base lang={lang} title={plainTitle} description={thread.plainSummaryText || undefined} subpath={`threads/${slug}/`} active="thread">
+  <article class="thread" data-group={thread.group}>
+    <header class="thread-hero">
+      <div class="wrap narrow">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <ol>
+            <li><a href={langHome(lang)}>{s.breadcrumbHome}</a></li>
+            <li><a href={`${langHome(lang)}#${thread.group}`}>{group?.shortTitle}</a></li>
+            <li aria-current="page"><Fragment set:html={thread.title} /></li>
+          </ol>
+        </nav>
+        <div class="thread-pills">
+          <GroupPill lang={lang} group={thread.group} />
+          <TierPill lang={lang} tier={thread.evidenceTier} long />
+        </div>
+        <h1 class="display thread-title" lang={fallback}><Fragment set:html={thread.title} /></h1>
+        {thread.subtitle && <p class="thread-subtitle" lang={fallback} set:html={thread.subtitle} />}
+        <p class="thread-meta">
+          <span>{s.stand}: <time class="num" datetime={thread.lastUpdated}>{thread.lastUpdated ? formatDate(thread.lastUpdated, lang) : "–"}</time></span>
+          <span aria-hidden="true">·</span>
+          <span class="num">{s.entries(thread.entryCount)}</span>
+          {thread.evidenceLabel && (
+            <>
+              <span aria-hidden="true">·</span>
+              <span class="evidence-label" lang={fallback} set:html={thread.evidenceLabel} />
+            </>
+          )}
+        </p>
+        {thread.topics.length > 0 && (
+          <ul class="topic-list" aria-label={s.topics}>
+            {thread.topics.map((topic) => <li>{topic}</li>)}
+          </ul>
+        )}
+        {fallback && <p class="fallback-note">{s.fallbackNote}</p>}
+      </div>
+    </header>
+
+    <div class="wrap narrow thread-body">
+      {
+        thread.plainSummary && (
+          <section class="plain-card" aria-labelledby="plain-title">
+            <h2 id="plain-title" class="eyebrow">{s.plainTitle}</h2>
+            <div class="plain-text" lang={fallback} set:html={thread.plainSummary} />
+          </section>
+        )
+      }
+
+      {
+        thread.takeaway && (
+          <section class="block" aria-labelledby="takeaway-title">
+            <h2 id="takeaway-title" class="block-title">{s.takeawayTitle}</h2>
+            <div class="prose" lang={fallback} set:html={thread.takeaway} />
+          </section>
+        )
+      }
+
+      {
+        thread.whyItMatters && (
+          <details class="why-block">
+            <summary>
+              <h2 class="block-title">{s.whyTitle}</h2>
+              <svg class="icon chev" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+                <path d="m4 6 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+            </summary>
+            <div class="details-body prose" lang={fallback} set:html={thread.whyItMatters} />
+          </details>
+        )
+      }
+
+      {
+        thread.stateOfEvidence.length > 0 && (
+          <section class="block" aria-labelledby="evidence-title">
+            <h2 id="evidence-title" class="block-title">{s.evidenceTitle}</h2>
+            <div class="evidence-grid">
+              {thread.stateOfEvidence.map((b) => (
+                <section class="evidence-bucket" data-status={b.status} lang={fallback}>
+                  <h3 class="bucket-title">
+                    <svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true" set:html={BUCKET_ICONS[b.status] ?? BUCKET_ICONS.note} />
+                    <span set:html={b.label} />
+                  </h3>
+                  <ul>
+                    {b.items.map((i) => (
+                      <li set:html={i} />
+                    ))}
+                  </ul>
+                </section>
+              ))}
+            </div>
+          </section>
+        )
+      }
+    </div>
+
+    <section class="timeline-section" aria-labelledby="timeline-title">
+      <div class="wrap narrow">
+        <header class="section-head">
+          <div>
+            <h2 id="timeline-title" class="section-title">{s.timelineTitle}</h2>
+            <p class="section-lead">{s.timelineLead}</p>
+          </div>
+        </header>
+
+        {
+          thread.entryCount > 1 && (
+            <div class="timeline-controls" data-timeline-controls>
+              <div class="controls-row">
+                <label class="search-field search-field-sm">
+                  <svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true">
+                    <circle cx="8.75" cy="8.75" r="5.75" fill="none" stroke="currentColor" stroke-width="1.7" />
+                    <path d="m13.25 13.25 4 4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" />
+                  </svg>
+                  <span class="sr-only">{s.filterKeyword}</span>
+                  <input type="search" data-tl-query placeholder={s.filterKeyword} autocomplete="off" />
+                </label>
+                <div class="segmented" role="group" aria-label={s.sortLabel}>
+                  <button type="button" data-tl-sort="desc" aria-pressed="true">
+                    {s.sortNewest}
+                  </button>
+                  <button type="button" data-tl-sort="asc" aria-pressed="false">
+                    {s.sortOldest}
+                  </button>
+                </div>
+              </div>
+              <div class="controls-row">
+                {types.length > 1 && (
+                  <div class="pills pills-sm" role="group" aria-label={s.filterType}>
+                    <button type="button" class="pill" data-tl-type="" aria-pressed="true">
+                      {s.filterAll}
+                    </button>
+                    {types.map((ty) => (
+                      <button type="button" class="pill" data-tl-type={ty.type} aria-pressed="false">
+                        {ty.label} <span class="count num">{ty.count}</span>
+                      </button>
+                    ))}
+                  </div>
+                )}
+                <button type="button" class="text-btn expand-all" data-tl-expand aria-pressed="false">
+                  {s.expandAll}
+                </button>
+              </div>
+            </div>
+          )
+        }
+
+        <p class="list-count" data-tl-count aria-live="polite">
+          {s.showing(Math.min(INITIAL, thread.entryCount), thread.entryCount)}
+        </p>
+
+        <div class="timeline" data-timeline data-config={timelineConfig}>
+          {
+            thread.entries.map((e, i) => (
+              <div class="timeline-item" data-i={i} data-type={e.type} data-search={wordSet(thread.entryText[e.id] ?? "")} hidden={i >= INITIAL}>
+                <EntryCard lang={lang} entry={e} context="thread" />
+              </div>
+            ))
+          }
+        </div>
+        <p class="empty-state" data-tl-empty hidden>
+          {s.noMatches} <button type="button" class="text-btn" data-tl-reset>{s.resetFilters}</button>
+        </p>
+
+        {
+          thread.entryCount > INITIAL && (
+            <div class="list-actions" data-tl-more-wrap>
+              <button type="button" class="btn" data-tl-next>
+                {s.showNext(Math.min(STEP, thread.entryCount - INITIAL))}
+              </button>
+              <button type="button" class="text-btn" data-tl-all>
+                {s.showAll(thread.entryCount)}
+              </button>
+            </div>
+          )
+        }
+      </div>
+    </section>
+
+    {
+      (thread.openQuestions.length > 0 || related.length > 0) && (
+        <div class="wrap narrow thread-end">
+          {thread.openQuestions.length > 0 && (
+            <section class="block" aria-labelledby="oq-title">
+              <h2 id="oq-title" class="block-title">{s.openQuestions}</h2>
+              <ul class="question-list" lang={fallback}>
+                {thread.openQuestions.map((q) => (
+                  <li set:html={q} />
+                ))}
+              </ul>
+            </section>
+          )}
+          {related.length > 0 && (
+            <section class="block" aria-labelledby="related-title">
+              <h2 id="related-title" class="block-title">{s.relatedThreads}</h2>
+              <div class="related-grid">
+                {related.map((r) => (
+                  <a class="related-card" href={threadUrl(lang, r.slug)} data-group={r.group}>
+                    <span class="related-title" set:html={r.title} />
+                    <span class="related-meta">
+                      <TierPill lang={lang} tier={r.evidenceTier} />
+                      <time class="num" datetime={r.lastUpdated}>
+                        {r.lastUpdated ? formatDate(r.lastUpdated, lang) : ""}
+                      </time>
+                    </span>
+                  </a>
+                ))}
+              </div>
+            </section>
+          )}
+        </div>
+      )
+    }
+  </article>
+</Base>
+
+<script>
+  import { normalize } from "../../../lib/render";
+
+  const timeline = document.querySelector<HTMLElement>("[data-timeline]");
+  if (timeline) {
+    const cfg = JSON.parse(timeline.dataset.config || "{}") as {
+      initial: number;
+      step: number;
+      strings: Record<string, string>;
+    };
+    const S = cfg.strings;
+    const items = Array.from(timeline.querySelectorAll<HTMLElement>(".timeline-item"));
+    const countEl = document.querySelector<HTMLElement>("[data-tl-count]");
+    const emptyEl = document.querySelector<HTMLElement>("[data-tl-empty]");
+    const moreWrap = document.querySelector<HTMLElement>("[data-tl-more-wrap]");
+    const nextBtn = document.querySelector<HTMLButtonElement>("[data-tl-next]");
+    const allBtn = document.querySelector<HTMLButtonElement>("[data-tl-all]");
+    const query = document.querySelector<HTMLInputElement>("[data-tl-query]");
+    const expandBtn = document.querySelector<HTMLButtonElement>("[data-tl-expand]");
+
+    const state = { sort: "desc", type: "", q: "", limit: cfg.initial, expanded: false };
+    const fmt = (tpl: string, vars: Record<string, number>) => tpl.replace(/\{(\w+)\}/g, (_, k) => String(vars[k] ?? ""));
+
+    const apply = () => {
+      const terms = normalize(state.q).split(" ").filter(Boolean);
+      const ordered = state.sort === "desc" ? items : [...items].reverse();
+      ordered.forEach((el) => timeline.appendChild(el));
+      const matches = ordered.filter(
+        (el) => (!state.type || el.dataset.type === state.type) && terms.every((t) => (el.dataset.search || "").includes(t)),
+      );
+      const set = new Set(matches.slice(0, state.limit));
+      for (const el of items) el.hidden = !set.has(el);
+      const shown = set.size;
+      if (countEl) countEl.textContent = fmt(matches.length === 1 ? S.showingOne : S.showing, { a: shown, b: matches.length });
+      if (emptyEl) emptyEl.hidden = matches.length > 0;
+      const remaining = matches.length - shown;
+      if (moreWrap) moreWrap.hidden = remaining <= 0;
+      if (nextBtn) {
+        nextBtn.textContent = fmt(S.showNext, { n: Math.min(cfg.step, remaining) });
+        nextBtn.hidden = remaining <= cfg.step;
+      }
+      if (allBtn) allBtn.textContent = fmt(S.showAll, { n: matches.length });
+    };
+
+    nextBtn?.addEventListener("click", () => {
+      state.limit += cfg.step;
+      apply();
+    });
+    allBtn?.addEventListener("click", () => {
+      state.limit = Number.MAX_SAFE_INTEGER;
+      apply();
+    });
+
+    let debounce = 0;
+    query?.addEventListener("input", () => {
+      window.clearTimeout(debounce);
+      debounce = window.setTimeout(() => {
+        state.q = query.value;
+        // Filtering shows all matches; clearing returns to the calm default.
+        state.limit = state.q.trim() ? Number.MAX_SAFE_INTEGER : cfg.initial;
+        apply();
+      }, 80);
+    });
+
+    document.querySelectorAll<HTMLButtonElement>("[data-tl-sort]").forEach((b) =>
+      b.addEventListener("click", () => {
+        state.sort = b.dataset.tlSort || "desc";
+        document.querySelectorAll("[data-tl-sort]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+        apply();
+      }),
+    );
+    document.querySelectorAll<HTMLButtonElement>("[data-tl-type]").forEach((b) =>
+      b.addEventListener("click", () => {
+        state.type = b.dataset.tlType || "";
+        document.querySelectorAll("[data-tl-type]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+        state.limit = Math.max(state.limit, cfg.initial);
+        apply();
+      }),
+    );
+    document.querySelector("[data-tl-reset]")?.addEventListener("click", () => {
+      state.type = "";
+      state.q = "";
+      state.limit = cfg.initial;
+      if (query) query.value = "";
+      document.querySelectorAll("[data-tl-type]").forEach((x) => x.setAttribute("aria-pressed", String(x.getAttribute("data-tl-type") === "")));
+      apply();
+    });
+    expandBtn?.addEventListener("click", () => {
+      state.expanded = !state.expanded;
+      timeline.querySelectorAll<HTMLDetailsElement>("details.entry-details").forEach((d) => (d.open = state.expanded));
+      expandBtn.textContent = state.expanded ? S.collapseAll : S.expandAll;
+      expandBtn.setAttribute("aria-pressed", String(state.expanded));
+    });
+
+    // Deep links (#entry-id): reveal, open and scroll to the entry.
+    const reveal = () => {
+      const id = decodeURIComponent(location.hash.slice(1));
+      if (!id) return;
+      const target = document.getElementById(id);
+      const item = target?.closest<HTMLElement>(".timeline-item");
+      if (!target || !item) return;
+      if (item.hidden) {
+        state.limit = Number.MAX_SAFE_INTEGER;
+        apply();
+      }
+      target.querySelector<HTMLDetailsElement>("details.entry-details")?.setAttribute("open", "");
+      target.classList.add("is-target");
+      requestAnimationFrame(() => target.scrollIntoView({ block: "start" }));
+    };
+    window.addEventListener("hashchange", reveal);
+    apply();
+    reveal();
+  }
+</script>

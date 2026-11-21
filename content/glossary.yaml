@@ -1,0 +1,197 @@
+evidence_tiers:
+  - id: established
+    order: 1
+    en:
+      label: "Established consensus"
+      short: "Established"
+      description: "Supported by broad clinical consensus, international guidelines, or replicated large-scale cohorts."
+    de:
+      label: "Etablierter Konsens"
+      short: "Etabliert"
+      description: "Gestützt durch breiten klinischen Konsens, internationale Leitlinien oder mehrfach replizierte große Kohorten."
+  - id: active_trials
+    order: 2
+    en:
+      label: "Active clinical trials"
+      short: "Active trials"
+      description: "Randomized controlled trials are actively underway or recently completed, though definitive efficacy is not yet established."
+    de:
+      label: "Laufende klinische Studien"
+      short: "Klinische Studien"
+      description: "Randomisierte kontrollierte Studien laufen bereits oder wurden kürzlich ausgewertet; ein endgültiger Wirksamkeitsnachweis steht meist noch aus."
+  - id: early_clinical
+    order: 3
+    en:
+      label: "Early clinical signals"
+      short: "Early clinical"
+      description: "Small pilot studies, open-label series, or early human biomarker validation; promising leads that still require controlled replication."
+    de:
+      label: "Frühe klinische Hinweise"
+      short: "Frühe klinische Daten"
+      description: "Kleine Pilotstudien, unkontrollierte Fallserien oder frühe Biomarker-Validierungen – interessante Spuren, die noch kontrolliert geprüft werden müssen."
+  - id: mechanistic
+    order: 4
+    en:
+      label: "Mechanistic evidence"
+      short: "Mechanistic"
+      description: "Consistent biological or physiological observations in patient samples or imaging, without a proven treatment or routine diagnostic test yet."
+    de:
+      label: "Mechanistische Evidenz"
+      short: "Mechanistisch"
+      description: "Wiederholt beobachtete biologische oder physiologische Auffälligkeiten in Proben oder Bildgebung, aber noch ohne fertigen Routinetest oder belegte Therapie."
+  - id: hypothesis
+    order: 5
+    en:
+      label: "Early hypothesis"
+      short: "Early hypothesis"
+      description: "Plausible biological rationale or isolated preclinical/case observations with very limited human clinical data so far."
+    de:
+      label: "Frühe Hypothese"
+      short: "Frühe Hypothese"
+      description: "Biologisch plausibler Ansatz oder einzelne Fall- und Laborbeobachtungen mit bislang sehr begrenzten Daten beim Menschen."
+
+terms:
+  - term: "PEM"
+    category: symptom
+    en:
+      full_name: "Post-Exertional Malaise"
+      definition: "The hallmark symptom of ME/CFS: a disproportionate, often delayed (12–48 hours) worsening of physical and cognitive symptoms after even minor physical, mental, or sensory exertion. Unlike ordinary tiredness, it does not resolve with normal rest."
+    de:
+      full_name: "Post-Exertional Malaise (Belastungsintoleranz)"
+      definition: "Das Kernsymptom von ME/CFS: eine unverhältnismäßige, oft um 12–48 Stunden verzögerte Verschlechterung körperlicher und kognitiver Beschwerden selbst nach kleiner körperlicher, geistiger oder sensorischer Anstrengung. Anders als normale Müdigkeit bessert sie sich durch gewöhnliches Ausruhen nicht."
+  - term: "Pacing"
+    category: care
+    en:
+      full_name: "Activity Pacing"
+      definition: "An energy-management strategy aimed at staying within an individual's personal energy envelope to avoid triggering PEM crashes. It is currently the core non-pharmacological management approach recommended by guidelines."
+    de:
+      full_name: "Pacing (Energiemanagement)"
+      definition: "Strategisches Haushalten mit der eigenen, individuell begrenzten Energie, um Überlastungen und PEM-Einbrüche („Crashes“) zu vermeiden. Pacing gilt derzeit als wichtigste nicht-medikamentöse Basisstrategie in Leitlinien."
+  - term: "POTS"
+    category: symptom
+    en:
+      full_name: "Postural Orthostatic Tachycardia Syndrome"
+      definition: "A form of autonomic nervous system dysfunction where standing up causes an excessive rise in heart rate (≥30 bpm in adults) alongside dizziness, weakness, or brain fog, without a sharp drop in blood pressure."
+    de:
+      full_name: "Posturales Tachykardiesyndrom (POTS)"
+      definition: "Eine Störung des autonomen Nervensystems, bei der der Puls beim Aufstehen übermäßig ansteigt (bei Erwachsenen um ≥30 Schläge/Min.) – oft begleitet von Schwindel, Schwäche oder Benommenheit, ohne starken Blutdruckabfall."
+  - term: "RCT"
+    category: research
+    en:
+      full_name: "Randomized Controlled Trial"
+      definition: "The gold-standard clinical study design: participants are randomly assigned to receive either the tested intervention or a placebo/control, ideally double-blinded so neither patient nor clinician knows who receives which."
+    de:
+      full_name: "Randomisierte kontrollierte Studie (RCT)"
+      definition: "Der Goldstandard klinischer Studien: Teilnehmende werden per Zufall entweder der zu prüfenden Therapie oder einer Kontroll-/Placebogruppe zugeteilt – im Idealfall doppelt verblindet, sodass weder Patient noch Ärztin weiß, wer was erhält."
+  - term: "Open-Label"
+    category: research
+    en:
+      full_name: "Open-Label Study"
+      definition: "A study in which both researchers and participants know which treatment is being given. Useful for early feasibility and safety checks, but unable to separate true drug effects from placebo responses or natural symptom fluctuation."
+    de:
+      full_name: "Offene (nicht verblindete) Studie"
+      definition: "Eine Studie, bei der sowohl Forschende als auch Teilnehmende wissen, welches Mittel gegeben wird. Hilfreich für erste Sicherheits- und Machbarkeitstests, kann aber echte Wirkungen nicht sicher von Placeboeffekten oder natürlichen Schwankungen trennen."
+  - term: "Preprint"
+    category: research
+    en:
+      full_name: "Preprint Manuscript (e.g., medRxiv, bioRxiv)"
+      definition: "A scientific manuscript shared publicly before independent peer review. Preprints speed up communication, but their methods, statistics, and conclusions may still change or fail peer review."
+    de:
+      full_name: "Preprint (Vorabveröffentlichung, z. B. medRxiv)"
+      definition: "Ein wissenschaftliches Manuskript, das vor der unabhängigen Begutachtung durch Fachkollegen (Peer-Review) veröffentlicht wird. Preprints machen Ergebnisse früh sichtbar, können sich aber noch ändern oder Fehler enthalten."
+  - term: "Biomarker"
+    category: diagnostic
+    en:
+      full_name: "Biological Marker"
+      definition: "A measurable biological signal (e.g., in blood, cells, or imaging) that indicates a disease process, subgroup, or treatment response. A lab finding in a small study is only a research lead until validated independently against other illnesses."
+    de:
+      full_name: "Biomarker"
+      definition: "Ein messbares biologisches Merkmal (z. B. im Blut, in Zellen oder in der Bildgebung), das auf einen Krankheitsprozess, eine Untergruppe oder ein Therapieansprechen hinweist. Ein Laborbefund wird erst durch unabhängige Überprüfung auch gegenüber anderen Erkrankungen zum brauchbaren Test."
+  - term: "Autoantibodies / GPCR"
+    category: biology
+    en:
+      full_name: "Autoantibodies & G-Protein-Coupled Receptors"
+      definition: "Immune proteins that bind to the body's own structures instead of pathogens. In ME/CFS research, particular attention focuses on functional autoantibodies targeting GPCR receptors involved in blood vessel tone and autonomic signaling."
+    de:
+      full_name: "Autoantikörper & GPCR-Rezeptoren"
+      definition: "Abwehrproteine des Immunsystems, die sich gegen körpereigene Strukturen richten. In der ME/CFS-Forschung stehen vor allem funktionelle Autoantikörper gegen sogenannte GPCR-Rezeptoren im Fokus, die Blutgefäße und das autonome Nervensystem steuern."
+  - term: "Endothelial Dysfunction"
+    category: biology
+    en:
+      full_name: "Endothelial Dysfunction & Microcirculation"
+      definition: "Impaired function of the inner lining of blood vessels (the endothelium), which regulates vessel dilation and oxygen delivery to tissues and muscles."
+    de:
+      full_name: "Endotheldysfunktion & Mikrozirkulation"
+      definition: "Funktionsstörung der inneren Auskleidung der Blutgefäße (Endothel), die normalerweise steuert, wie weit sich Gefäße öffnen und wie gut Sauerstoff in Muskeln und Organe gelangt."
+  - term: "Microclots"
+    category: biology
+    en:
+      full_name: "Fibrinaloid Microclots"
+      definition: "Tiny, misfolded fibrin-amyloid blood clots observed in lab assays of some Long COVID and ME/CFS patients. Researchers are testing whether they impair capillary flow or represent a downstream marker of inflammation."
+    de:
+      full_name: "Mikrogerinnsel (Microclots)"
+      definition: "Winzige, schwer lösliche Fibrin-Amyloid-Gerinnsel, die in Laboruntersuchungen bei einem Teil der Menschen mit Long COVID und ME/CFS beobachtet wurden. Ob sie die Durchblutung aktiv behindern oder eher eine Begleiterscheinung von Entzündung sind, wird noch erforscht."
+  - term: "Mitochondria / ATP"
+    category: biology
+    en:
+      full_name: "Mitochondrial Bioenergetics"
+      definition: "Mitochondria generate ATP, the primary energy currency of cells. Multiple ME/CFS studies investigate whether altered cellular energy production, oxidative stress, or ion-pump strain contributes to muscle fatigue and PEM."
+    de:
+      full_name: "Mitochondrien & Zellenergie (ATP)"
+      definition: "Mitochondrien produzieren ATP, den zentralen Energieträger der Zellen. Viele Studien prüfen, ob Störungen im Zellstoffwechsel, oxidativer Stress oder eine Überlastung von Ionenpumpen zur Muskelschwäche und PEM beitragen."
+  - term: "CPET / iCPET"
+    category: diagnostic
+    en:
+      full_name: "Cardiopulmonary Exercise Testing (2-day / invasive)"
+      definition: "Specialized exercise tests measuring oxygen uptake, heart output, and metabolic response. Two-day CPET can document measurable drops in aerobic capacity during PEM, while invasive CPET (iCPET) directly measures cardiac filling pressures (preload)."
+    de:
+      full_name: "Spiroergometrie (2-Tage-CPET / invasive iCPET)"
+      definition: "Spezialisierte Belastungstests, die Sauerstoffaufnahme, Herzleistung und Stoffwechsel messen. Ein 2-Tage-CPET kann objektive Leistungseinbrüche während einer PEM zeigen, birgt aber für Betroffene ein Crash-Risiko; die invasive iCPET misst zudem direkt den Füllungsdruck am Herzen (Preload)."
+  - term: "SFN"
+    category: symptom
+    en:
+      full_name: "Small Fiber Neuropathy"
+      definition: "Damage to tiny unmyelinated nerve fibers in the skin and autonomic system, which can cause burning pain, tingling, temperature sensitivity, and orthostatic symptoms; assessed via skin biopsy or corneal microscopy."
+    de:
+      full_name: "Small-Fiber-Neuropathie (SFN)"
+      definition: "Schädigung feinster, kaum ummantelter Nervenfasern in Haut und vegetativem Nervensystem. Sie kann Brennschmerzen, Kribbeln, Missempfindungen und Kreislaufprobleme auslösen und wird u. a. per Hautbiopsie oder Hornhaut-Mikroskopie geprüft."
+  - term: "MCAS"
+    category: symptom
+    en:
+      full_name: "Mast Cell Activation Syndrome"
+      definition: "A condition in which mast cells (immune cells involved in allergic and inflammatory signaling) release chemical mediators too easily, causing flushing, hives, gut symptoms, or food/medication sensitivities in a subset of patients."
+    de:
+      full_name: "Mastzellaktivierungssyndrom (MCAS)"
+      definition: "Eine Überaktivität von Mastzellen (Immunzellen, die u. a. Histamin freisetzen), die bei einer Untergruppe von Betroffenen zu Hautrötungen, Unverträglichkeiten, Magen-Darm-Beschwerden oder Kreislaufreaktionen beitragen kann."
+  - term: "GWAS"
+    category: research
+    en:
+      full_name: "Genome-Wide Association Study (e.g., DecodeME)"
+      definition: "A large genetic study scanning millions of DNA variants across thousands of patients and controls to find inherited risk signals that point to biological pathways involved in disease susceptibility."
+    de:
+      full_name: "Genomweite Assoziationsstudie (GWAS, z. B. DecodeME)"
+      definition: "Eine große genetische Untersuchung, die Millionen von DNA-Varianten bei tausenden Betroffenen und Gesunden vergleicht, um vererbte Risikofaktoren und beteiligte biologische Signalwege zu finden."
+  - term: "Off-Label"
+    category: care
+    en:
+      full_name: "Off-Label Prescribing"
+      definition: "Using a medication approved for another condition to treat ME/CFS symptoms when no approved ME/CFS-specific drug exists. Off-label use still requires careful medical supervision and does not mean efficacy is proven."
+    de:
+      full_name: "Off-Label-Anwendung"
+      definition: "Der ärztliche Einsatz eines für eine andere Krankheit zugelassenen Medikaments bei ME/CFS, weil es bislang keine zugelassenen ME/CFS-Medikamente gibt. Er erfordert ärztliche Begleitung und bedeutet nicht, dass die Wirksamkeit gesichert ist."
+  - term: "LDN"
+    category: care
+    en:
+      full_name: "Low-Dose Naltrexone"
+      definition: "An off-label, low-dose use of naltrexone (typically 0.5–4.5 mg/day) studied for potential neuroimmune modulation and restoration of TRPM3 ion-channel activity in immune cells; randomized trials are still needed to confirm efficacy."
+    de:
+      full_name: "Niedrigdosiertes Naltrexon (LDN)"
+      definition: "Ein Off-Label-Einsatz von Naltrexon in sehr niedriger Dosis (meist 0,5–4,5 mg/Tag), der wegen möglicher dämpfender Effekte auf Neuroinflammation und auf TRPM3-Ionenkanäle untersucht wird; große randomisierte Studien stehen noch aus."
+  - term: "HBOT"
+    category: care
+    en:
+      full_name: "Hyperbaric Oxygen Therapy"
+      definition: "Breathing pure oxygen in a pressurized chamber, studied mainly in post-COVID cohorts for potential effects on brain perfusion and neuroinflammation; evidence in strict PEM-defined ME/CFS remains very limited."
+    de:
+      full_name: "Hyperbare Sauerstofftherapie (HBOT)"
+      definition: "Einatmen von reinem Sauerstoff in einer Druckkammer, vor allem bei Long COVID auf mögliche Effekte auf Hirndurchblutung und Entzündung untersucht; für klassisches ME/CFS mit PEM ist die Datenlage bislang sehr dünn."

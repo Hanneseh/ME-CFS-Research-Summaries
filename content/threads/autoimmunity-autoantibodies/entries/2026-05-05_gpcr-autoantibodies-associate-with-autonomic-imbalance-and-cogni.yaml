@@ -1,0 +1,19 @@
+id: 2026-05-05_gpcr-autoantibodies-associate-with-autonomic-imbalance-and-cogni
+date: '2026-05-05'
+date_display: '2026-05-05'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Azcue et al. 2026, Scientific Reports
+  url: https://doi.org/10.1038/s41598-026-49131-9
+  kind: paper
+en:
+  title: GPCR autoantibodies associate with autonomic imbalance and cognitive performance
+  plain_summary: A study of 191 people found higher beta-2 receptor antibodies tracked with autonomic symptoms in ME/CFS, while muscarinic antibodies unexpectedly tracked with better memory scores. Because the lab test only measured antibody amounts rather than what the antibodies actually do, its clinical meaning remains uncertain.
+  detail: A peer-reviewed observational case-control study of 96 post-COVID condition (PCC) patients, 59 ME/CFS patients, and 36 healthy controls analyzed plasma titers of adrenergic and muscarinic autoantibodies via ELISA. The study showed that ME/CFS patients have significantly higher beta-2 adrenergic receptor autoantibody titers, which correlate with sympathovagal imbalance and subjective autonomic symptoms. In contrast, higher titers of M1, M3, and M4 muscarinic autoantibodies unexpectedly correlated with better verbal and working memory in ME/CFS, suggesting a compensatory cholinergic response. However, because the study measured autoantibody titers via ELISA rather than functional assays, it did not determine whether the antibodies block or stimulate the targeted receptors, and the cross-sectional design prevents drawing causal conclusions. These findings support patient subtyping but highlight the need for functional assays and larger validation cohorts.
+de:
+  title: GPCR-Autoantikörper hängen mit autonomem Ungleichgewicht und kognitiver Leistung zusammen
+  plain_summary: Eine Studie mit 191 Personen zeigte, dass höhere Beta-2-Rezeptor-Antikörper bei ME/CFS mit autonomen Beschwerden zusammenhingen, während muskarinische Antikörper unerwartet mit besseren Gedächtniswerten einhergingen. Da der Test nur Mengen statt funktioneller Wirkungen maß, bleibt die klinische Bedeutung noch unklar.
+  detail: Eine begutachtete Beobachtungs-Fall-Kontroll-Studie mit 96 Patientinnen und Patienten mit Post-COVID-Zustand (PCC), 59 mit ME/CFS und 36 gesunden Kontrollen analysierte Plasmatiter adrenerger und muskarinischer Autoantikörper mittels ELISA. Die Studie zeigte, dass ME/CFS-Betroffene signifikant höhere Autoantikörpertiter gegen den Beta-2-adrenergen Rezeptor aufweisen, die mit einem sympathovagalen Ungleichgewicht und subjektiven autonomen Symptomen korrelieren. Im Gegensatz dazu korrelierten höhere Titer muskarinischer Autoantikörper (M1, M3 und M4) bei ME/CFS unerwartet mit einem besseren verbalen Gedächtnis und Arbeitsgedächtnis, was auf eine kompensatorische cholinerge Reaktion hindeutet. Da die Studie die Autoantikörpertiter jedoch per ELISA statt mit funktionellen Assays maß, konnte sie nicht bestimmen, ob die Antikörper die jeweiligen Rezeptoren blockieren oder stimulieren; zudem verhindert das Querschnittsdesign kausale Schlüsse. Diese Befunde unterstützen eine Untergruppenbildung
+    bei Betroffenen, verdeutlichen aber den Bedarf an funktionellen Assays und größeren Validierungskohorten.

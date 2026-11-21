@@ -1,0 +1,18 @@
+id: 2026-02-13_pilot-study-identifies-gpcr-autoantibody-trends-and-low
+date: '2026-02-13'
+date_display: '2026-02-13'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Camici et al. 2026, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms27041787
+  kind: paper
+en:
+  title: Pilot study identifies GPCR autoantibody trends and low cortisol in severe Long COVID
+  plain_summary: In a very small study of 15 people, 11 patients with severe Long COVID tended to have more GPCR autoantibodies and lower morning cortisol than 4 recovered controls. Because only 15 people were studied, the findings are purely exploratory and do not validate any blood test or treatment.
+  detail: A prospective pilot study compared 11 severe Long COVID patients to 4 asymptomatic controls, detecting higher levels of circulating autoantibodies against GPCRs, particularly the β2-adrenergic receptor. Symptomatic patients also exhibited significantly lower morning cortisol levels and weaker T-cell responses to SARS-CoV-2. These findings support the hypothesis that Long COVID involves an autoimmune disruption of the autonomic nervous system and neuroendocrine axes. This provides further evidence to justify clinical trials of immunoadsorption and immunoglobulin therapies. However, the study's clinical utility is severely limited by its small sample size, and it does not establish GPCR autoantibodies as validated diagnostic biomarkers.
+de:
+  title: Pilotstudie erkennt Trends zu GPCR-Autoantikörpern und niedrigem Kortisol bei schwerem Long COVID
+  plain_summary: In einer sehr kleinen Studie mit 15 Personen zeigten 11 schwer von Long COVID Betroffene tendenziell höhere GPCR-Autoantikörper und niedrigere Morgen-Kortisolwerte als 4 symptomfreie Kontrollen. Wegen der winzigen Fallzahl sind die Befunde rein orientierend und belegen weder einen Biomarker noch eine Therapie.
+  detail: Eine prospektive Pilotstudie verglich 11 Patientinnen und Patienten mit schwerem Long COVID mit 4 asymptomatischen Kontrollen und fand höhere Spiegel zirkulierender Autoantikörper gegen GPCRs, insbesondere gegen den β2-adrenergen Rezeptor. Symptomatische Betroffene wiesen zudem signifikant niedrigere morgendliche Kortisolspiegel und schwächere T-Zell-Antworten gegen SARS-CoV-2 auf. Diese Befunde stützen die Hypothese, dass Long COVID mit einer autoimmunen Störung des autonomen Nervensystems und der neuroendokrinen Achsen einhergeht. Damit liefern sie weitere Anhaltspunkte, um klinische Studien zu Immunadsorption und Immunglobulintherapien zu prüfen. Allerdings ist die klinische Aussagekraft der Studie durch die sehr kleine Stichprobengröße stark eingeschränkt, und sie etabliert GPCR-Autoantikörper nicht als validierte diagnostische Biomarker.

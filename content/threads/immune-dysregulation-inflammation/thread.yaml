@@ -1,0 +1,99 @@
+slug: immune-dysregulation-inflammation
+group: disease-models-mechanisms
+status: active
+evidence_tier: mechanistic
+topics:
+- T-Cell Dysfunction & Exhaustion
+- Cytokine Profiles & Systemic Inflammation
+- Monocyte & Dendritic Cell Remodeling
+- HLA Risk Associations
+- Mast Cell Activation
+- NLRP3 Inflammasome Activation
+aliases: []
+related_threads:
+- vascular-endothelial-microclots
+- viral-persistence-reactivation
+- low-dose-naltrexone
+- rapamycin-mtor
+- daratumumab-plasma-cell-targeting
+- immunoadsorption-apheresis
+- emerging-pharmacotherapy
+- autoimmunity-autoantibodies
+- mitochondrial-metabolic-dysfunction
+legacy_path: disease-models-mechanisms/immune-dysregulation-inflammation
+en:
+  title: Immune Dysregulation & Chronic Inflammation
+  subtitle: A living thread on cellular immune activation, cytokine profiles, CD8 T-cell dysfunction/exhaustion, monocyte subsets, HLA associations, mast cell activation, and inflammasome pathways in ME/CFS and Long COVID.
+  evidence_label: clinical and mechanistic validation
+  plain_summary: Studies consistently find signs that the immune system is out of balance in ME/CFS and Long COVID, including exhausted T cells, altered inflammatory messengers, and overactive immune cells—sometimes differing between women and men. However, most findings come from small blood samples at rest and cannot yet serve as a diagnostic test or prove which immune changes cause symptoms versus which are downstream effects.
+  takeaway: 'Immune dysregulation remains one of the most consistent findings across ME/CFS and Long COVID, but the newer evidence suggests that it is not just a generic "inflammation" signal. The pattern increasingly looks like a mix of chronic antigen-driven adaptive dysfunction, persistent innate activation, and abnormal immune-tissue signaling that may differ by subgroup, biological sex, and trigger history.
+
+
+    The latest additions sharpen that picture. Single-cell mass cytometry (CyTOF) reveals sex-specific T-cell dysregulation—highlighting elevated IFNγ-producing γδ T cells in males versus chronic CD8+ memory T-cell stimulation in females. Complementary work identifies elevated serum IL-11 and MMP-9, maps monocyte and NK-cell alterations, details IL-6 family and gp130 cytokine signaling pathways, synthesizes post-viral immunomodulatory strategies, and outlines a conceptual system-dynamics model for mast cell activation syndrome (MCAS). These findings fit the idea that immune dysfunction interacts closely with vascular, endocrine, and metabolic systems rather than operating in isolation.
+
+
+    The evidence still needs cautious handling. Some additions are preliminary or conceptual, including a conference abstract on sex-specific CyTOF profiling, narrative literature reviews on cytokine pathways and immunomodulation, a webinar on antigen discovery, and a theoretical perspective on MCAS stability states. Even the peer-reviewed case-control studies remain mostly cross-sectional, so they help define plausible mechanisms and subgroups more than they prove one dominant cause. An Erasmus MC study found no detectable resting peripheral-blood immune differences between people with long-term severe Long COVID and convalescent controls, limiting the diagnostic use of the assessed blood immune markers years after onset while leaving exertion-triggered, tissue, or central nervous system immune involvement untested.'
+  why_it_matters: Unraveling the precise mechanisms of immune dysregulation is essential for moving post-infectious conditions from heterogeneous clinical diagnoses to stratified, biologically targeted therapeutics. Mapping these pathways provides a cellular explanation for hallmark symptoms like post-exertional malaise, brain fog, and sensory hypersensitivity, linking them directly to pro-inflammatory cytokine cascades, impaired regional blood perfusion driven by endothelial senescence, and neurovascular inflammation. Furthermore, identifying distinct immunophenotypic signatures—such as monocyte polarization differences and T-cell receptor clusters—enables the classification of patients into specific physiological subgroups. This biological stratification replaces trial-and-error treatment regimens with precision medicine, enabling clinical trials to test targeted interventions like selective immunomodulators, mast cell stabilizers, or hormone therapies on the patient subgroups most likely
+    to respond.
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - Post-infectious immune abnormalities are repeatedly observed in both ME/CFS and Long COVID, including altered lymphocyte populations, impaired cytotoxic-cell function, inflammatory cytokine changes, and evidence of ongoing innate-adaptive mismatch.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - Sex-stratified T-cell dysregulation (male γδ T-cell IFNγ production vs female CD8+ memory chronic stimulation), antigen-specific T-cell exhaustion, monocyte and NK-cell inflammatory programs, mast-cell-linked IL-11/MMP-9 signaling, IL-6 family/gp130 cytokine cascades, and altered glycosylation patterns all have growing support as subgroup-defining mechanisms. These may help explain why some patients look more immune-activated, others more immune-suppressed, and some show stronger vascular or autonomic overlap. A preprint reports activated, exhaustion-like virus-specific CD8 T cells in a Long COVID subset, consistent with ongoing antigen exposure. This is indirect, abstract-level evidence rather than proof of a reservoir, EBV reactivation or symptom causation.
+  - status: not_established
+    label: Not established
+    items:
+    - It is still not clear which immune abnormalities are upstream disease drivers, which are downstream consequences, and which are compensatory responses. Target-antigen discovery has not yet produced validated public antigen panels, and candidate IL-6 or MMP-9 inhibitors are not established treatments for ME/CFS. Furthermore, while theoretical system-dynamics frameworks model Mast Cell Activation Syndrome (MCAS) as a driver of systemic volatility, MCAS is not established as the primary underlying mechanism of ME/CFS.
+  - status: limitations
+    label: Key limitations
+    items:
+    - Several important additions are conference abstracts (e.g. AAI IMMUNOLOGY2026 CyTOF abstract) or narrative literature reviews. Most empirical studies remain cross-sectional and blood-based, which limits conclusions about tissue-resident immune dysfunction in the gut, marrow, vasculature, or nervous system. Additionally, proposed MCAS system-dynamics models are purely conceptual and require extensive longitudinal clinical validation. Resting blood sampling also cannot evaluate exertion-dependent or tissue-resident immune changes, which remain untested by null resting-blood findings in long-term Long COVID.
+  open_questions:
+  - What molecular mechanisms and hormonal interactions drive the divergence between male (IFNγ-producing γδ T cells) and female (CD8+ memory chronic stimulation) T-cell dysregulation in ME/CFS?
+  - What molecular mechanisms drive the divergence between the immune hyper-activation/exhaustion state in Long COVID and the immune suppression/trafficking deficit state in ME/CFS?
+  - How does the epigenetic priming (NF-κB activation) observed in classical monocytes interact with physical exertion to trigger the onset and severity of post-exertional malaise?
+  - What are the precise viral or autoimmune target antigens recognized by exhausted CD8+ T-cell receptors in ME/CFS and Long COVID cohorts, and can they be used to stratify patients for targeted antivirals or immunotherapies?
+  - What is the clinical safety and efficacy profile of targeting IL-6 family / gp130 signaling, MMP-9 activity, or JAK-STAT pathways in prospective double-blind, placebo-controlled trials for post-viral syndromes?
+  - Can therapeutic regulation of sex hormones (such as testosterone in females and estradiol in males) or low-dose cortisol safely restore immune homeostasis and resolve myelopoietic shifts?
+de:
+  title: Immunschwäche, Fehlregulation & chronische Entzündung
+  subtitle: Ein fortlaufender Überblick zu zellulärer Immunaktivierung, Zytokinprofilen, Erschöpfung und Fehlfunktion von CD8-T-Zellen, Monozyten-Subtypen, HLA-Risikoassoziationen, Mastzellaktivierung und Inflammasom-Signalwegen bei ME/CFS und Long COVID.
+  evidence_label: Klinische und mechanistische Validierung
+  plain_summary: Viele Studien finden bei ME/CFS und Long COVID Hinweise auf ein aus dem Gleichgewicht geratenes Immunsystem – etwa erschöpfte Abwehrzellen, veränderte Entzündungsbotenstoffe oder überaktive Immunreaktionen, teils mit Unterschieden zwischen Frauen und Männern. Die meisten Daten stammen jedoch aus kleinen Blutuntersuchungen in Ruhe und liefern noch keinen fertigen Diagnosetest und keinen Beweis dafür, was genau die Hauptursache der Beschwerden ist.
+  takeaway: 'Eine Fehlregulation des Immunsystems gehört zu den beständigsten Befunden bei ME/CFS und Long COVID, doch neuere Daten zeigen, dass es sich nicht bloß um ein unspezifisches „Entzündungssignal“ handelt. Das Muster deutet zunehmend auf eine Mischung aus chronischer, durch Antigene getriebener Fehlfunktion der erworbenen Immunabwehr, anhaltender Aktivierung der angeborenen Abwehr und gestörter Signalübertragung zwischen Immunsystem und Gewebe hin – je nach Untergruppe, biologischem Geschlecht und Auslöser unterschiedlich ausgeprägt.
+
+
+    Neuere Arbeiten schärfen dieses Bild. Einzelzell-Massenzytometrie (CyTOF) zeigt geschlechtsspezifische T-Zell-Veränderungen: bei Männern vermehrt IFNγ-produzierende γδ-T-Zellen, bei Frauen eher eine chronische Stimulation von CD8+-Gedächtnis-T-Zellen. Ergänzende Studien weisen erhöhte Serumwerte von IL-11 und MMP-9 nach, kartieren Veränderungen bei Monozyten und NK-Zellen, beschreiben Signalwege der IL-6-Familie über gp130, fassen postvirale Immunmodulationsstrategien zusammen und skizzieren ein konzeptionelles Systemdynamik-Modell für das Mastzellaktivierungssyndrom (MCAS). Diese Ergebnisse passen zur Annahme, dass die Immundysregulation eng mit Gefäß-, Hormon- und Stoffwechselsystemen zusammenwirkt und nicht isoliert abläuft.
+
+
+    Die Datenlage erfordert dennoch Vorsicht. Einige neuere Beiträge sind vorläufig oder konzeptionell, darunter ein Konferenzabstract zur geschlechtsspezifischen CyTOF-Analyse, narrative Übersichtsarbeiten zu Zytokinwegen und Immunmodulation, ein Webinar zur Antigen-Suche sowie eine theoretische Arbeit zu MCAS-Stabilitätszuständen. Selbst die begutachteten Fall-Kontroll-Studien sind überwiegend Querschnittsanalysen, die eher plausible Mechanismen und Untergruppen eingrenzen, als eine alleinige Hauptursache zu beweisen. Eine Studie des Erasmus MC fand im Ruheblut von Menschen mit langjährigem schwerem Long COVID keine messbaren Immununterschiede zu genesenen Kontrollen; das schränkt den diagnostischen Nutzen dieser Blutwerte Jahre nach Krankheitsbeginn ein, lässt belastungsabhängige Prozesse sowie Immunvorgänge in Gewebe oder zentralem Nervensystem aber ungetestet.'
+  why_it_matters: Die genauen Mechanismen der Immundysregulation zu entschlüsseln ist entscheidend, um postinfektiöse Erkrankungen von rein klinischen Ausschlussdiagnosen hin zu biologisch abgegrenzten, gezielten Therapien zu entwickeln. Die Kartierung dieser Signalwege liefert zelluläre Erklärungsansätze für Kernsymptome wie Post-Exertional Malaise (PEM), Brain Fog und Reizüberempfindlichkeit, indem sie diese mit entzündungsfördernden Zytokinkaskaden, gestörter regionaler Durchblutung durch alternde Endothelzellen und neurovaskulärer Entzündung verknüpft. Zudem ermöglicht die Identifikation bestimmter Immunprofile – etwa Unterschiede in der Monozyten-Polarisation oder Cluster von T-Zell-Rezeptoren – die Einteilung in physiologische Untergruppen. Eine solche biologische Stratifizierung kann das Ausprobieren nach dem Zufallsprinzip durch Präzisionsmedizin ersetzen, sodass klinische Studien gezielte Wirkstoffe wie selektive Immunmodulatoren, Mastzellstabilisatoren oder Hormontherapien genau
+    bei den passenden Untergruppen prüfen können.
+  state_of_evidence:
+  - status: established
+    label: Gesichert
+    items:
+    - Postinfektiöse Immunauffälligkeiten werden sowohl bei ME/CFS als auch bei Long COVID wiederholt beobachtet – darunter veränderte Lymphozyten-Populationen, eine eingeschränkte Funktion zytotoxischer Zellen, veränderte Entzündungszytokine sowie Hinweise auf ein dauerhaftes Ungleichgewicht zwischen angeborener und erworbener Immunabwehr.
+  - status: plausible
+    label: Plausibel, aber noch früh
+    items:
+    - Geschlechtsspezifische T-Zell-Fehlregulationen (IFNγ-produzierende γδ-T-Zellen bei Männern vs. chronische Stimulation von CD8+-Gedächtniszellen bei Frauen), antigenspezifische T-Zell-Erschöpfung, entzündliche Programme in Monozyten und NK-Zellen, mastzellvermittelte IL-11-/MMP-9-Signale, Zytokinkaskaden der IL-6-Familie/gp130 sowie veränderte Glykosylierungsmuster gewinnen als Mechanismen für Patientensubgruppen zunehmend an Unterstützung. Sie könnten mit erklären, warum manche Betroffene eher immunaktiviert, andere eher immunsupprimiert wirken und manche stärkere Gefäß- oder autonome Überschneidungen zeigen. Ein Preprint berichtet über aktivierte, erschöpfungsähnliche virusspezifische CD8-T-Zellen bei einer Long-COVID-Untergruppe, was zu anhaltendem Antigenkontakt passt; das ist jedoch ein indirekter Hinweis auf Abstract-Ebene und kein Beweis für ein Virusreservoir, eine EBV-Reaktivierung oder die Ursache der Symptome.
+  - status: not_established
+    label: Nicht gesichert
+    items:
+    - Es ist weiterhin unklar, welche Immunveränderungen ursprüngliche Treiber der Erkrankung sind, welche bloße Folgeerscheinungen darstellen und welche Ausgleichsreaktionen des Körpers sind. Die Suche nach Zielantigenen hat bislang keine validierten Antigen-Panels hervorgebracht, und Wirkstoffe gegen IL-6 oder MMP-9 sind keine etablierten Therapien bei ME/CFS. Zudem ist ein Mastzellaktivierungssyndrom (MCAS) – auch wenn theoretische Systemdynamik-Modelle es als Treiber systemischer Instabilität beschreiben – nicht als primärer Grundmechanismus von ME/CFS belegt.
+  - status: limitations
+    label: Wichtige Einschränkungen
+    items:
+    - Mehrere wichtige Neuzugänge sind Konferenzabstracts (z. B. das CyTOF-Abstract von der AAI IMMUNOLOGY2026) oder narrative Übersichtsarbeiten. Die meisten empirischen Studien sind Querschnittsanalysen aus dem Blut, was Aussagen über gewebsständige Immunvorgänge in Darm, Knochenmark, Gefäßen oder Nervensystem einschränkt. Vorgeschlagene MCAS-Systemdynamik-Modelle sind rein konzeptionell und erfordern umfassende klinische Langzeitprüfungen. Blutentnahmen in Ruhe erfassen außerdem keine belastungsabhängigen oder gewebespezifischen Immunveränderungen, die durch unauffällige Ruheblut-Befunde bei langjährigem Long COVID nicht widerlegt sind.
+  open_questions:
+  - Welche molekularen Mechanismen und hormonellen Wechselwirkungen steuern bei ME/CFS die Unterschiede zwischen der T-Zell-Fehlregulation bei Männern (IFNγ-produzierende γδ-T-Zellen) und bei Frauen (chronische Stimulation von CD8+-Gedächtniszellen)?
+  - Welche molekularen Mechanismen erklären den Unterschied zwischen der Immun-Überaktivierung bzw. -Erschöpfung bei Long COVID und der Immunsuppression bzw. gestörten Zellwanderung bei ME/CFS?
+  - Wie wirkt die in klassischen Monozyten beobachtete epigenetische Vorprägung (NF-κB-Aktivierung) mit körperlicher Belastung zusammen, um Beginn und Schwere von Post-Exertional Malaise auszulösen?
+  - Welche konkreten viralen oder körpereigenen Zielantigene werden von den T-Zell-Rezeptoren erschöpfter CD8+-T-Zellen bei ME/CFS und Long COVID erkannt, und lassen sich Betroffene damit für gezielte antivirale oder immunmodulierende Therapien einteilen?
+  - Wie sehen klinische Sicherheit und Wirksamkeit von Eingriffen in die IL-6-Familie / gp130-Signalwege, die MMP-9-Aktivität oder JAK-STAT-Signalwege in prospektiven, doppelblinden, placebokontrollierten Studien zu postviralen Syndromen aus?
+  - Lässt sich durch eine therapeutische Regulierung von Sexualhormonen (z. B. Testosteron bei Frauen und Östradiol bei Männern) oder niedrig dosiertes Cortisol das Immungleichgewicht sicher wiederherstellen und die Verschiebung der Myelopoese beheben?

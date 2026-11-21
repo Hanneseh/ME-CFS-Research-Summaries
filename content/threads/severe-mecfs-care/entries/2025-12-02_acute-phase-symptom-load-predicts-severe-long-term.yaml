@@ -1,0 +1,20 @@
+id: 2025-12-02_acute-phase-symptom-load-predicts-severe-long-term
+date: '2025-12-02'
+date_display: '2025-12-02'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Donath et al. 2025, medRxiv
+  url: https://doi.org/10.1101/2025.12.01.25341171
+  kind: preprint
+en:
+  title: Acute-phase symptom load predicts severe long-term outcome in children and young adults
+  plain_summary: A German study of 120 young people after COVID-19 found that having 12 or more symptoms during the initial infection strongly predicted who later developed severe long-term illness or ME/CFS. This could help doctors flag high-risk young patients earlier, though it comes from one clinic and has not been tested to see if earlier referral changes outcomes.
+  detail: A German registry study at the Munich Chronic Fatigue Center for Young People enrolled 120 participants aged 7–25 with post-COVID condition and tracked symptom severity from acute infection through the chronic phase using validated scales and a purpose-built questionnaire. Twenty-four percent of participants met ME/CFS criteria, and all of those fell into the severest clinical group. The strongest predictors of severe long-term illness were a high total symptom count during the acute infection (twelve or more symptoms), female sex, early orthostatic intolerance, and concentration difficulties — all identifiable without specialist testing. A threshold of twelve or more acute symptoms showed high specificity for the group likely to need intensive long-term monitoring. The implication is that risk stratification for the most severe outcomes may be possible at the point of acute illness, potentially allowing earlier specialist referral before the window of shorter illness duration
+    has passed. The study is monocentric, cannot demonstrate that earlier referral changes outcomes, and uses a novel questionnaire not yet validated in independent cohorts.
+de:
+  title: Symptomlast in der Akutphase sagt schwere Langzeitverläufe bei Kindern und jungen Erwachsenen voraus
+  plain_summary: Eine deutsche Studie mit 120 jungen Menschen nach COVID-19 zeigte, dass zwölf oder mehr Symptome bereits während der akuten Infektion deutlich auf spätere schwere Langzeitverläufe oder ME/CFS hinwiesen. Das könnte helfen, gefährdete junge Betroffene früher zu erkennen, stammt aber aus nur einem Zentrum und belegt noch nicht, ob frühere Überweisungen den Verlauf verbessern.
+  detail: Eine deutsche Registerstudie am Münchner Chronic Fatigue Centrum für junge Menschen schloss 120 Teilnehmende im Alter von 7 bis 25 Jahren mit Post-COVID-Syndrom ein und verfolgte den Symptomverlauf von der akuten Infektion bis in die chronische Phase mithilfe validierter Skalen sowie eines eigens entwickelten Fragebogens. 24 % der Teilnehmenden erfüllten die ME/CFS-Kriterien und fielen ausnahmslos in die am schwersten betroffene klinische Gruppe. Die stärksten Prädiktoren für einen schweren Langzeitverlauf waren eine hohe Gesamtzahl an Symptomen während der akuten Infektion (zwölf oder mehr Symptome), weibliches Geschlecht, frühe orthostatische Intoleranz und Konzentrationsstörungen – sämtlich Merkmale, die ohne Spezialdiagnostik erkennbar sind. Ein Schwellenwert von zwölf oder mehr Akutsymptomen zeigte eine hohe Spezifität für jene Gruppe, die voraussichtlich eine intensive Langzeitbetreuung benötigt. Daraus ergibt sich, dass eine Risikoeinschätzung für schwerste Verläufe möglicherweise
+    schon in der Akutphase gelingen und frühere fachärztliche Überweisungen ermöglichen könnte, bevor sich lange Krankheitsverläufe verfestigen. Die Studie ist monozentrisch, kann nicht belegen, dass frühere Überweisungen das Ergebnis verändern, und stützt sich auf einen neuen, in unabhängigen Kohorten noch nicht validierten Fragebogen.

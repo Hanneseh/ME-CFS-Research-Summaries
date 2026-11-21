@@ -1,0 +1,18 @@
+id: 2026-10-21_small-tspo-genotype-preprint-highlights-a-pet-interpretation
+date: '2026-10-21'
+date_display: '2026-10-21'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Jones & Younger 2026, medRxiv preprint
+  url: https://doi.org/10.64898/2026.10.19.26365953
+  kind: preprint
+en:
+  title: Small TSPO-genotype preprint highlights a PET interpretation issue
+  plain_summary: A small preprint of 86 women found that a common gene variant affecting PET brain-scan tracers appeared slightly more often in patient groups, including 21 with ME/CFS. Rather than proving a genetic cause or diagnostic test, it mainly warns researchers to account for this variant when reading brain-inflammation scans.
+  detail: 'An exploratory medRxiv preprint genotyped the TSPO rs6971 variant in 86 women recruited for a brain PET study: 21 with ME/CFS defined by the 1994 Fukuda criteria (which do not require PEM), 30 with fibromyalgia, 11 with multiple sclerosis and 24 controls. Mixed- or low-binding genotypes were more frequent in the patient groups, with borderline group-comparison significance. This variant changes binding of several second-generation TSPO PET tracers, making genotype a relevant consideration when interpreting apparent neuroinflammation signals. The small, selected, female-only sample and potentially unrepresentative controls do not establish a disease-risk variant or a cause of ME/CFS. Severe or bedbound inclusion was not reported. Genotyping itself requires a blood sample, but the parent PET study involved imaging; the result offers a methodological caution rather than a diagnostic test or treatment lead.'
+de:
+  title: Kleiner TSPO-Genotyp-Preprint weist auf eine Fehlerquelle bei der Auswertung von PET-Hirnscans hin
+  plain_summary: Ein kleiner Preprint an 86 Frauen fand, dass eine häufige Genvariante, die die Bindung bestimmter Hirnscan-Marker verändert, in Patientengruppen etwas öfter vorkam. Das belegt keine genetische Krankheitsursache und keinen Test, mahnt Forschende aber, diese Variante bei der Deutung von Entzündungs-PET-Scans einzurechnen.
+  detail: 'Ein explorativer medRxiv-Preprint genotypisierte die Variante TSPO rs6971 bei 86 Frauen, die für eine PET-Hirnstudie rekrutiert wurden: 21 mit ME/CFS nach den Fukuda-Kriterien von 1994 (die keine PEM verlangen), 30 mit Fibromyalgie, 11 mit Multipler Sklerose und 24 Kontrollpersonen. Genotypen mit gemischter oder niedriger Tracer-Bindung traten in den Patientengruppen häufiger auf, mit grenzwertiger Signifikanz im Gruppenvergleich. Da diese Variante die Bindung mehrerer TSPO-PET-Tracer der zweiten Generation verändert, muss der Genotyp bei der Interpretation scheinbarer Neuroinflammations-Signale berücksichtigt werden. Die kleine, vorselektierte, rein weibliche Stichprobe und potenziell nicht repräsentative Kontrollen belegen jedoch weder eine Risikovariante noch eine Ursache von ME/CFS; schwere oder bettlägerige Fälle wurden nicht berichtet, und das Ergebnis liefert eher einen methodischen Hinweis für die Bildgebung als einen Diagnose- oder Therapieansatz.'

@@ -1,0 +1,18 @@
+id: 2026-05-28_german-protocol-will-compare-long-post-covid-incidence
+date: '2026-05-28'
+date_display: '2026-05-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Kvitkina et al. 2026, Cardiovascular Diabetology
+  url: https://link.springer.com/article/10.1186/s12933-026-03222-z
+  kind: paper
+en:
+  title: German protocol will compare Long/Post-COVID incidence and sequelae in people with and without diabetes
+  plain_summary: A German study plan will analyze health insurance records from around 74 million people to compare Long COVID and post-COVID ME/CFS rates in people with and without diabetes. No results exist yet, and billing codes often miss or mislabel ME/CFS.
+  detail: 'The longcovid-diab protocol describes a non-interventional longitudinal study using German statutory health-insurance data covering roughly 74 million insured people. The study will compare Long/Post-COVID incidence, risk factors, mortality, hospitalization, and cardiovascular or diabetic complications in people with and without diabetes, using billing codes that include Long/Post-COVID and post-COVID ME/CFS. Its value is scale: administrative data can show population-level trends and sequelae that smaller specialty cohorts cannot. The limitation is also administrative-data dependence, because coding variation, underdiagnosis, and inconsistent use of ME/CFS-related codes can distort incidence estimates. No outcome results are available yet.'
+de:
+  title: Deutsches Studienprotokoll vergleicht Häufigkeit und Folgen von Long-/Post-COVID bei Menschen mit und ohne Diabetes
+  plain_summary: Ein deutsches Studienprotokoll will Abrechnungsdaten von rund 74 Millionen gesetzlich Versicherten auswerten, um Long COVID und Post-COVID-ME/CFS bei Menschen mit und ohne Diabetes zu vergleichen. Ergebnisse liegen noch nicht vor, zudem erfassen Abrechnungscodes ME/CFS oft nur unvollständig.
+  detail: 'Das Studienprotokoll longcovid-diab beschreibt eine nicht-interventionelle Längsschnittstudie auf Basis deutscher GKV-Abrechnungsdaten von rund 74 Millionen Versicherten. Verglichen werden sollen Inzidenz, Risikofaktoren, Sterblichkeit, Krankenhausaufenthalte sowie kardiovaskuläre und diabetische Komplikationen bei Long-/Post-COVID zwischen Menschen mit und ohne Diabetes, einschließlich Abrechnungscodes für Long-/Post-COVID und Post-COVID-ME/CFS. Die Stärke liegt in der Größe: Routinedaten können bevölkerungsweite Trends und Folgeerkrankungen abbilden, die kleineren Spezialkohorten verborgen bleiben. Zugleich liegt die Grenze in der Abhängigkeit von Verwaltungsdaten, da Codierunterschiede, Unterdiagnosen und uneinheitliche Nutzung ME/CFS-bezogener Codes Häufigkeitsschätzungen verzerren können. Ergebnisse liegen noch nicht vor.'

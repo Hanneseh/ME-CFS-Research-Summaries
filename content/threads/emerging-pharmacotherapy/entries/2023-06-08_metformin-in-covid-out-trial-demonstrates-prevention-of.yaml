@@ -1,0 +1,20 @@
+id: 2023-06-08_metformin-in-covid-out-trial-demonstrates-prevention-of
+date: '2023-06-08'
+date_display: '2023-06-08'
+date_precision: exact
+source_type: paper
+study_design: Phase III RCT
+sources:
+- label: Bramante et al. 2023, The Lancet Infectious Diseases
+  url: https://doi.org/10.1016/S1473-3099(23)00299-2
+  kind: paper
+en:
+  title: Metformin in COVID-OUT trial demonstrates prevention of Long COVID
+  plain_summary: In the large COVID-OUT trial of 1,126 overweight or obese adults, starting metformin during an acute COVID-19 infection cut later Long COVID diagnoses by 41% over 10 months. This supports metformin for prevention in that group, but it does not show whether metformin treats already-established Long COVID or ME/CFS.
+  detail: The phase 3, randomized, quadruple-blind COVID-OUT trial involving 1,126 overweight or obese adults demonstrated that early outpatient treatment with metformin (initiated within seven days of acute SARS-CoV-2 symptom onset) reduced the incidence of a subsequent Long COVID diagnosis by 41% over a 10-month follow-up period. This trial establishes that a safe, inexpensive, and widely available metabolic medication can prevent the development of post-viral sequelae when taken during the acute phase. The preventive effect was most pronounced when metformin was started within three days of symptom onset, whereas ivermectin and fluvoxamine showed no efficacy. However, the trial was limited to adults aged 30–85 with overweight or obesity, meaning it does not prove whether metformin prevents Long COVID in individuals with normal body mass index or in younger cohorts. Additionally, the study was designed for prevention during acute infection and does not address whether metformin is effective
+    as a treatment for individuals who have already developed chronic Long COVID.
+de:
+  title: Metformin in der COVID-OUT-Studie belegt Prävention von Long COVID
+  plain_summary: In der großen COVID-OUT-Studie mit 1.126 übergewichtigen oder adipösen Erwachsenen senkte eine früh während der akuten SARS-CoV-2-Infektion begonnene Metformin-Einnahme spätere Long-COVID-Diagnosen über 10 Monate um 41 %. Das belegt einen vorbeugenden Effekt in dieser Gruppe, zeigt aber nicht, ob Metformin bestehendes Long COVID oder ME/CFS behandeln kann.
+  detail: Die randomisierte, vierfach verblindete Phase-3-Studie COVID-OUT mit 1.126 übergewichtigen oder adipösen Erwachsenen zeigte, dass eine frühe ambulante Behandlung mit Metformin (begonnen innerhalb von sieben Tagen nach Symptombeginn einer akuten SARS-CoV-2-Infektion) die Häufigkeit einer späteren Long-COVID-Diagnose über eine 10-monatige Nachbeobachtung um 41 % senkte. Die Studie belegt, dass ein sicheres, preiswertes und breit verfügbares Stoffwechselmedikament die Entwicklung postviraler Folgeerkrankungen verringern kann, wenn es in der Akutphase gegeben wird. Am stärksten war der vorbeugende Effekt bei Beginn innerhalb von drei Tagen nach Symptomstart, während Ivermectin und Fluvoxamin keine Wirkung zeigten. Die Studie beschränkte sich jedoch auf Erwachsene im Alter von 30–85 Jahren mit Übergewicht oder Adipositas und beweist daher nicht, ob Metformin Long COVID auch bei Normalgewichtigen oder jüngeren Gruppen verhindert; zudem prüfte sie die Vorbeugung in der Akutphase und sagt
+    nichts darüber aus, ob Metformin bei bereits chronischem Long COVID wirksam ist.

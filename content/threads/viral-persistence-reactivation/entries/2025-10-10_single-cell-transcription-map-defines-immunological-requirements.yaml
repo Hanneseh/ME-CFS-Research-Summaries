@@ -1,0 +1,18 @@
+id: 2025-10-10_single-cell-transcription-map-defines-immunological-requirements
+date: '2025-10-10'
+date_display: '2025-10-10'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: García-Jiménez et al. 2025, Research Square
+  url: https://www.researchsquare.com/article/rs-7887257/v1
+  kind: preprint
+en:
+  title: Single-cell transcription map defines immunological requirements for lifelong EBV control
+  plain_summary: A preprint mapped how a specialized group of immune cells (Vδ1 γδ T cells) keeps Epstein-Barr virus under lifelong control in healthy people. Because it did not test ME/CFS or Long COVID patients directly, it only offers a baseline clue rather than proof of a defect or treatment.
+  detail: An immunological study mapped the cellular immune response required for lifelong Epstein-Barr virus (EBV) control at single-cell resolution. Using single-cell RNA sequencing, researchers discovered that a specific population of Vδ1 γδ T cells destroys EBV-infected B cells using natural killer cell receptors. This map provides a critical baseline for understanding why some individuals fail to suppress latent EBV, potentially leading to reactivation and chronic disease. It also identifies Vδ1 T-cells as a potential candidate for targeted allogeneic cell therapies. However, the study did not analyze ME/CFS cohorts directly to verify if a functional defect in this T-cell subset is present in patients. Additionally, the therapeutic utility of Vδ1 T-cell transfer remains preclinical and has not been tested in human trials.
+de:
+  title: Einzelzell-Transkriptionskarte definiert immunologische Voraussetzungen für eine lebenslange EBV-Kontrolle
+  plain_summary: Ein Preprint hat im Detail kartiert, wie spezialisierte Abwehrzellen (Vδ1-γδ-T-Zellen) das Epstein-Barr-Virus bei Gesunden lebenslang in Schach halten. Da Patientinnen und Patienten mit ME/CFS oder Long COVID nicht direkt untersucht wurden, liefert die Arbeit erst einmal nur eine Vergleichsbasis für künftige Studien.
+  detail: Eine immunologische Studie (Preprint) kartierte auf Einzelzellebene die zelluläre Immunantwort, die für eine lebenslange Kontrolle des Epstein-Barr-Virus (EBV) nötig ist. Mithilfe von Einzelzell-RNA-Sequenzierung entdeckten die Forschenden, dass eine bestimmte Population von Vδ1-γδ-T-Zellen EBV-infizierte B-Zellen mithilfe von Rezeptoren natürlicher Killerzellen zerstört. Diese Karte liefert eine wichtige Referenzgrundlage, um zu verstehen, warum manche Menschen latentes EBV nicht ausreichend unterdrücken können, und benennt Vδ1-T-Zellen als möglichen Kandidaten für allogene Zelltherapien. Allerdings untersuchte die Studie keine ME/CFS-Kohorten direkt, sodass ein funktioneller Defekt dieser T-Zell-Gruppe bei Betroffenen nicht belegt ist, und ein therapeutischer Einsatz bleibt bislang rein präklinisch.

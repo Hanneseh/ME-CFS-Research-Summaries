@@ -1,0 +1,19 @@
+id: 2026-07-29_predictive-processing-model-frames-thalamocortical-hyperconnecti
+date: '2026-07-29'
+date_display: '2026-07-29'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Strube 2026, Journal of Translational Medicine
+  url: https://link.springer.com/article/10.1186/s12967-026-08718-6
+  kind: paper
+en:
+  title: Predictive processing model frames thalamocortical hyperconnectivity as reversible thalamic gain control failure
+  plain_summary: This commentary links over-connected sensory relay circuits in the brain to sensory overload and fatigue, noting these scan patterns shifted toward normal in patients who responded to hyperbaric oxygen therapy. Because resting brain scans measure this signaling indirectly, controlled dynamic trials are needed to test the theory.
+  detail: A theoretical commentary published in the *Journal of Translational Medicine* by Strube analyzed neuroimaging findings demonstrating baseline thalamocortical hyperconnectivity with sensorimotor and visual cortices in ME/CFS. The author highlighted that this thalamocortical hyperconnectivity shifts back toward healthy control levels following hyperbaric oxygen therapy (HBOT) in clinical responders. Based on these observations, the paper formulated a predictive processing model where thalamic gain-control failure drives sensory overload, pain, dysautonomia, and cognitive fatigue in post-infectious states. The framework proposes dynamic testing of thalamic gating across post-exertional malaise states rather than static resting-state imaging alone. However, resting-state functional connectivity provides an indirect measure of thalamic gain control, and prospective dynamic trials are required to validate the model's predictive accuracy.
+de:
+  title: Predictive-Processing-Modell ordnet thalamokortikale Hyperkonnektivität als reversible Störung der thalamischen Verstärkungssteuerung ein
+  plain_summary: Dieser Fachkommentar verknüpft eine übersteigerte Kopplung zentraler Reiz-Umschaltstationen im Gehirn mit Reizüberflutung und Fatigue und verweist auf deren Rückgang bei HBOT-Respondern. Da Ruhe-Scans diese Steuerung nur indirekt abbilden, sind prospektive dynamische Studien zur Prüfung des Modells nötig.
+  detail: Ein im *Journal of Translational Medicine* veröffentlichter theoretischer Kommentar von Strube analysierte Bildgebungsbefunde, die bei ME/CFS eine thalamokortikale Hyperkonnektivität mit sensorimotorischen und visuellen Kortizes im Ruhezustand zeigen. Der Autor hob hervor, dass sich diese thalamokortikale Hyperkonnektivität bei klinischen Respondern nach hyperbarer Sauerstofftherapie (HBOT) wieder in Richtung gesunder Kontrollen verschiebt. Auf Grundlage dieser Beobachtungen formulierte die Arbeit ein Predictive-Processing-Modell, bei dem eine Störung der thalamischen Verstärkungssteuerung („Gain Control“) Reizüberflutung, Schmerzen, Dysautonomie und kognitive Fatigue bei postinfektiösen Zuständen antreibt. Das Rahmenmodell schlägt eine dynamische Testung der thalamischen Reizfilterung über verschiedene Zustände von Post-Exertional Malaise hinweg vor statt reiner statischer Ruhe-Bildgebung. Allerdings liefert funktionelle Ruhekonnektivität nur ein indirektes Maß der thalamischen
+    Verstärkungssteuerung, und prospektive dynamische Studien sind erforderlich, um die Vorhersagegenauigkeit des Modells zu validieren.

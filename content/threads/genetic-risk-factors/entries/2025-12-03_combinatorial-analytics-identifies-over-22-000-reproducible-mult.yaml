@@ -1,0 +1,20 @@
+id: 2025-12-03_combinatorial-analytics-identifies-over-22-000-reproducible-mult
+date: '2025-12-03'
+date_display: '2025-12-03'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Sardell et al. 2025, medRxiv preprint
+  url: https://doi.org/10.64898/2025.12.01.25341362
+  kind: preprint
+en:
+  title: Combinatorial analytics identifies over 22,000 reproducible multi-SNP signatures across 2,311 genes
+  plain_summary: A preprint re-analyzed DecodeME DNA data looking for combinations of gene variants rather than single markers, finding over 22,000 patterns—many shared with Long COVID. It suggests ME/CFS involves many interacting genes rather than one single cause, though the study still awaits peer review and independent replication.
+  detail: Using the PrecisionLife combinatorial analytics platform, researchers analysed genomic data from 14,767 DecodeME participants and compared them to UK Biobank controls, searching for combinations of one to four SNPs significantly over-represented in ME/CFS cases across three independent patient subgroups to ensure reproducibility. The analysis identified 22,411 reproducible genetic signatures involving 2,311 unique genes, with individuals carrying the highest burden of signatures 1.64 times more likely to have ME/CFS than those with the fewest. A core set of 259 genes mapped to four mechanistic domains—neurological dysregulation, inflammation, cellular stress, and calcium signalling—and 76 of 180 genes previously linked to Long COVID were shared with ME/CFS, indicating substantial but partial biological overlap between the two conditions. The study was a preprint at publication and relied on self-reported questionnaire data, though these were validated against clinical criteria;
+    its central implication—that ME/CFS is highly polygenic and unlikely to respond to a single universal treatment—awaits peer review and independent replication.
+de:
+  title: Kombinatorische Analyse identifiziert über 22.000 reproduzierbare Multi-SNP-Signaturen in 2.311 Genen
+  plain_summary: Ein Preprint untersuchte DecodeME-Daten gezielt auf Kombinationen mehrerer Genvarianten statt auf Einzelmarker und fand über 22.000 Muster – viele davon auch bei Long COVID. Das spricht dafür, dass viele zusammenspielende Gene statt einer einzigen Ursache beteiligt sind; die Arbeit wartet aber noch auf Peer-Review und unabhängige Bestätigung.
+  detail: Mit der kombinatorischen Analyseplattform PrecisionLife untersuchten Forschende Genomdaten von 14.767 DecodeME-Teilnehmenden im Vergleich zu Kontrollen aus der UK Biobank und suchten nach Kombinationen aus ein bis vier SNPs, die in drei unabhängigen Patienten-Untergruppen reproduzierbar gehäuft auftraten. Die Analyse ergab 22.411 reproduzierbare genetische Signaturen in 2.311 Genen, wobei Personen mit der höchsten Last an Signaturen ein 1,64-fach höheres ME/CFS-Risiko hatten als jene mit den wenigsten. Ein Kernsatz von 259 Genen ließ sich vier mechanistischen Bereichen zuordnen – neurologische Fehlregulation, Entzündung, Zellstress und Kalzium-Signalgebung – und 76 von 180 zuvor mit Long COVID verknüpften Genen fanden sich auch bei ME/CFS wieder, was auf eine deutliche, wenn auch teilweise biologische Überschneidung hinweist. Die Studie lag bei Veröffentlichung als Preprint vor und stützte sich auf Selbstauskunfts-Fragebögen (die allerdings gegen klinische Kriterien validiert waren);
+    ihre Kernaussage, dass ME/CFS hochgradig polygen ist und kaum auf eine einzige Universaltherapie ansprechen wird, bedarf noch des Peer-Reviews und unabhängiger Replikation.

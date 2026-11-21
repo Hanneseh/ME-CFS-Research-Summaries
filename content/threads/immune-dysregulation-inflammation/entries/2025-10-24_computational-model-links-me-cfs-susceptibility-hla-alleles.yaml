@@ -1,0 +1,18 @@
+id: 2025-10-24_computational-model-links-me-cfs-susceptibility-hla-alleles
+date: '2025-10-24'
+date_display: '2025-10-24'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Georgopoulos et al. 2025, Scientific Reports
+  url: https://doi.org/10.1038/s41598-025-21230-z
+  kind: paper
+en:
+  title: Computational model links ME/CFS susceptibility HLA alleles to weak binding of post-viral pathogens
+  plain_summary: A computer modeling study predicted that immune-gene variants (HLA types) linked to ME/CFS risk bind weakly to herpesvirus, SARS-CoV-2, and Lyme bacteria fragments. Because this was strictly a computer simulation, lab and patient studies are needed to see whether this actually happens in people.
+  detail: An in silico binding study of HLA alleles associated with ME/CFS risk (C*07:04 and DQB1*03:03) and protection (B*08:01 and DPB1*02:01) demonstrated that risk alleles bind herpesvirus (HHV), SARS-CoV-2, and _Borrelia burgdorferi_ proteins with significantly weaker affinity compared to protective alleles. This provides a potential immunogenetic explanation for post-infectious syndromes, suggesting that an inadequate HLA makeup leads to poor antigen clearance, persistent viral/bacterial presence, and chronic immune activation. However, these in silico predictions require biological validation in live patient cohorts to confirm that weak HLA binding corresponds to antigen persistence in tissues.
+de:
+  title: Computermodell verknüpft ME/CFS-Risiko-HLA-Allele mit schwacher Bindung postviraler Erreger
+  plain_summary: Eine Computersimulation sagte voraus, dass mit ME/CFS verknüpfte Immun-Genvarianten (HLA-Allele) Eiweiße von Herpesviren, SARS-CoV-2 und Borrelien schwächer binden als schützende Varianten. Da dies rein rechnerisch ermittelt wurde, muss erst im Labor und an Betroffenen geprüft werden, ob es im Körper tatsächlich zu schlechterer Erregerbeseitigung führt.
+  detail: Eine computergestützte („in silico“) Bindungsstudie zu HLA-Allelen mit erhöhtem ME/CFS-Risiko (C*07:04 und DQB1*03:03) und schützenden Allelen (B*08:01 und DPB1*02:01) zeigte, dass Risikoallele Proteine von Herpesviren (HHV), SARS-CoV-2 und *Borrelia burgdorferi* mit deutlich geringerer Affinität binden als Schutzallele. Dies liefert eine mögliche immungenetische Erklärung für postinfektiöse Syndrome, wonach eine ungünstige HLA-Ausstattung zu schlechterer Antigen-Beseitigung, anhaltender Erregerpräsenz und chronischer Immunaktivierung führen könnte. Allerdings erfordern diese rein rechnerischen Vorhersagen eine biologische Überprüfung in echten Patientenkohorten, um zu belegen, dass eine schwache HLA-Bindung tatsächlich mit Antigenpersistenz im Gewebe einhergeht.

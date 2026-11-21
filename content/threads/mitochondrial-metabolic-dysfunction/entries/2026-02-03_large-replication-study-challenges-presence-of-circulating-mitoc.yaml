@@ -1,0 +1,26 @@
+id: 2026-02-03_large-replication-study-challenges-presence-of-circulating-mitoc
+date: '2026-02-03'
+date_display: '2026-02-03'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ryback et al. 2026, PLOS ONE
+  url: https://doi.org/10.1371/journal.pone.0341334
+  kind: paper
+en:
+  title: Large replication study challenges presence of circulating mitochondrial-inhibiting factors
+  plain_summary: A large pre-registered study of 67 patients and 53 controls ran over 1,700 tests and found that patient blood serum did not slow down healthy muscle cell energy production. This challenges the idea of a universal blood-borne blocker and points toward local tissue or intracellular causes instead.
+  detail: '- **What changed:** A pre-registered study of 67 patients and 53 controls performed over 1,700 mitochondrial stress tests on healthy myoblasts, finding no significant difference in mitochondrial respiration after exposing them to patient versus control serum.
+
+    - **Why it matters:** This directly challenges the hypothesis that universal circulating blood factors are the primary cause of muscle cell mitochondrial impairment in patients, narrowing down the search to localized or tissue-specific intracellular mechanisms.
+
+    - **What it does not prove yet:** The study does not rule out localized, transient, or patient-specific intracellular drivers, nor does it address whether immune complexes require specific host-cell receptors absent in healthy myoblasts.'
+de:
+  title: Große Replikationsstudie stellt zirkulierende mitochondrienhemmende Blutfaktoren infrage
+  plain_summary: Eine große vorab registrierte Studie mit 67 Betroffenen und über 1.700 Tests fand keinen Hinweis darauf, dass Patientenserum die Zellatmung gesunder Muskelzellen hemmt. Das spricht gegen einen universellen Hemmfaktor im Blut und lenkt den Blick auf lokale oder intrazelluläre Ursachen.
+  detail: '- **Was sich gezeigt hat:** Eine vorab registrierte Studie mit 67 Patientinnen und Patienten sowie 53 Kontrollpersonen führte über 1.700 mitochondriale Stresstests an gesunden Myoblasten durch und fand keinen signifikanten Unterschied in der Zellatmung nach Zugabe von Patienten- gegenüber Kontrollserum.
+
+    - **Warum das wichtig ist:** Dies widerspricht der Annahme, dass universelle zirkulierende Blutfaktoren die Hauptursache der mitochondrialen Muskelstörung seien, und engt die Suche auf lokale oder gewebespezifische intrazelluläre Mechanismen ein.
+
+    - **Was damit noch nicht belegt ist:** Die Studie schließt lokale, vorübergehende oder untergruppenspezifische intrazelluläre Treiber nicht aus und prüft nicht, ob Immunkomplexe spezielle Zielzell-Rezeptoren benötigen, die gesunden Myoblasten fehlen.'

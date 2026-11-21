@@ -1,0 +1,20 @@
+id: 2026-03-06_achtsam-protocol-establishes-framework-for-home-visit-diagnostic
+date: '2026-03-06'
+date_display: '2026-03-06'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Fricke et al. 2026, BMJ Open
+  url: https://doi.org/10.1136/bmjopen-2025-113095
+  kind: paper
+en:
+  title: ACHTSAM protocol establishes framework for home-visit diagnostics in housebound ME/CFS
+  plain_summary: A team in Freiburg published the study plan for ACHTSAM, which will test whether housebound people with severe ME/CFS can safely complete staged medical assessments at home without triggering crashes. No patient results have been reported yet, so for now it sets up a careful method rather than proving safety or effectiveness.
+  detail: Fricke et al. published the protocol for ACHTSAM, a prospective non-interventional pilot study at the University Medical Center Freiburg designed to test whether a structured sequence of home-based diagnostic assessments can be completed by severely and very severely ill ME/CFS patients without triggering clinically significant deterioration. The two-phase design begins with remote screening using validated questionnaires, then moves to staged home visits by a medical team. Planned assessments include physiological monitoring (endothelial function testing), cognitive evaluations, and biological sampling. The primary feasibility endpoint is the proportion of assessment modules completed by patients with Bell scores of 30 or below without triggering premature termination. The protocol explicitly acknowledges the difficulty of attributing delayed PEM to individual tests in a multisystem assessment, and involved patients and carers in its design to ensure safety and relevance. No outcome
+    data have been published yet, so the value of the protocol is currently in establishing the methodology rather than in clinical findings.
+de:
+  title: ACHTSAM-Protokoll schafft Rahmen für Hausbesuchs-Diagnostik bei hausgebundenem ME/CFS
+  plain_summary: Ein Team in Freiburg hat das Studienprotokoll für ACHTSAM veröffentlicht, das prüft, ob hausgebundene Menschen mit schwerem ME/CFS gestufte Untersuchungen zu Hause sicher und ohne Einbrüche durchlaufen können. Ergebnisdaten liegen noch nicht vor, sodass die Arbeit zunächst die Methodik festlegt, aber noch keine Sicherheits- oder Wirksamkeitsnachweise liefert.
+  detail: Fricke et al. veröffentlichten das Studienprotokoll für ACHTSAM, eine prospektive, nicht-interventionelle Pilotstudie am Universitätsklinikum Freiburg, die untersuchen soll, ob eine strukturiert gestufte Reihe häuslicher Diagnostikmodule bei schwer und sehr schwer an ME/CFS erkrankten Menschen durchgeführt werden kann, ohne eine klinisch relevante Verschlechterung auszulösen. Das zweiphasige Design beginnt mit einem kontaktlosen Screening über validierte Fragebögen und geht anschließend in gestufte Hausbesuche durch ein medizinisches Team über. Geplant sind physiologische Messungen (Endothelfunktionstestung), kognitive Erhebungen und Bioprobenentnahmen. Primärer Machbarkeits-Endpunkt ist der Anteil der Untersuchungsmodule, die von Patientinnen und Patienten mit einem Bell-Score von 30 oder darunter ohne vorzeitigen Abbruch abgeschlossen werden. Das Protokoll benennt ausdrücklich die Schwierigkeit, verzögertes PEM innerhalb einer mehrteiligen Untersuchung einzelnen Tests zuzuordnen,
+    und bezog Betroffene sowie Angehörige in die Gestaltung ein, um Sicherheit und Alltagstauglichkeit zu gewährleisten. Da noch keine Ergebnisdaten vorliegen, liegt der Wert bislang in der Etablierung der Methodik und noch nicht in klinischen Befunden.

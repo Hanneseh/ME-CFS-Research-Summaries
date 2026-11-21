@@ -1,0 +1,20 @@
+id: 2026-08-08_japanese-pscore-j-registry-reports-34-1-neurological
+date: '2026-08-08'
+date_display: '2026-08-08'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: PSCORE-J Japanese registry study 2026, General Hospital Psychiatry
+  url: https://doi.org/10.1016/j.genhosppsych.2026.08.002
+  kind: paper
+en:
+  title: Japanese PSCORE-J registry reports 34.1% neurological symptoms and 52.9% work discontinuation in post-COVID condition
+  plain_summary: A Japanese Long COVID registry of over 900 people found neurological symptoms in 34% and over half stopping work, with longer acute illness and isolation linked to worse burden. Because it covered broad Long COVID without checking for ME/CFS or PEM, it shows broad impact rather than ME/CFS-specific rates.
+  detail: A peer-reviewed nationwide registry study from the Japanese PSCORE-J initiative, published in General Hospital Psychiatry, characterized clinical and patient-reported outcomes in Post-COVID-19 Condition across 806 online participants and 136 in-person clinic patients. Neurological manifestations were the most frequent clinical presentation at 34.1%, followed by pain-related symptoms at 23.5%, accompanied by a 52.9% rate of work discontinuation. Longer acute infection duration and social isolation were significant predictors of higher composite physical and psychological symptom burden in both sexes. Although the study highlights the heavy socioeconomic and neurological toll of post-viral illness in East Asia, it evaluated a broad PASC cohort without ME/CFS case definitions or post-exertional malaise screening. Additional limitations include the disproportionately small size of the in-person clinical cohort relative to the online sample, the exclusion of bedbound individuals from
+    in-person testing, and the fact that sex-stratified interaction differences did not achieve statistical significance.
+de:
+  title: Japanisches PSCORE-J-Register berichtet 34,1 % neurologische Symptome und 52,9 % Erwerbsaufgabe bei Post-COVID-Syndrom
+  plain_summary: Ein japanisches Long-COVID-Register mit über 900 Teilnehmenden dokumentierte bei 34 % neurologische Beschwerden und bei über der Hälfte ein Ausscheiden aus dem Beruf, wobei längere Akutphasen und soziale Isolation die Last verstärkten. Da allgemeines Long COVID ohne ME/CFS- oder PEM-Prüfung untersucht wurde, spiegelt es breite Folgen wider.
+  detail: Eine in General Hospital Psychiatry veröffentlichte landesweite Registerstudie der japanischen PSCORE-J-Initiative charakterisierte klinische und patientenberichtete Verläufe bei Post-COVID-19-Syndrom anhand von 806 Online-Teilnehmenden und 136 Klinikpatientinnen und -patienten. Neurologische Manifestationen waren mit 34,1 % die häufigste Hauptausprägung, gefolgt von Schmerzsyndromen (23,5 %), begleitet von einer Berufsaufgabe bei 52,9 %. Eine längere Dauer der Akutinfektion und soziale Isolation waren bei beiden Geschlechtern signifikante Prädiktoren für eine höhere körperliche und psychische Gesamtlast. Obwohl die Studie die erheblichen sozioökonomischen und neurologischen Folgen in Ostasien verdeutlicht, untersuchte sie eine breite PASC-Kohorte ohne ME/CFS-Falldefinitionen oder PEM-Screening; zudem war die Vor-Ort-Klinikgruppe im Vergleich zur Online-Stichprobe klein, Bettlägerige waren von Präsenztests ausgeschlossen, und geschlechtsstratifizierte Interaktionstests erreichten
+    keine Signifikanz.

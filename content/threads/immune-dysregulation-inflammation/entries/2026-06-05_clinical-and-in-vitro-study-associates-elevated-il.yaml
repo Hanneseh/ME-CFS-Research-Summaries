@@ -1,0 +1,18 @@
+id: 2026-06-05_clinical-and-in-vitro-study-associates-elevated-il
+date: '2026-06-05'
+date_display: '2026-06-05'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Chinnappan et al. 2026, Frontiers in Immunology
+  url: https://doi.org/10.3389/fimmu.2026.1827700
+  kind: paper
+en:
+  title: Clinical and in vitro study associates elevated IL-11 and MMP-9 with EBV-induced mast cell activation
+  plain_summary: A small study found higher blood levels of IL-11 and the tissue-remodeling enzyme MMP-9 in ME/CFS patients, and lab tests showed an Epstein-Barr virus protein can trigger mast cells to release MMP-9. While this suggests a possible link to blood-brain barrier irritation, small sample sizes mean it still needs testing in living systems and larger cohorts.
+  detail: Serum measurements showed significantly elevated IL-11 and MMP-9 in ME/CFS patients compared to healthy controls, and an in vitro model demonstrated that recombinant Epstein-Barr Virus (rEBV) protein stimulates mast cells to release MMP-9. This identifies a potential viral-trigger pathway where EBV proteins stimulate mast cell release of MMP-9, a tissue-remodeling enzyme capable of disrupting the blood-brain barrier and promoting localized neuroinflammation. However, the clinical generalizability is limited by small sample sizes, and the direct pathogenetic role of IL-11 and MMP-9 in blood-brain barrier permeability needs to be demonstrated in vivo.
+de:
+  title: Klinische und In-vitro-Studie verknüpft erhöhte IL-11- und MMP-9-Werte mit EBV-induzierter Mastzellaktivierung
+  plain_summary: Eine kleine Studie fand bei ME/CFS erhöhte Blutspiegel von IL-11 und dem Gewebeenzym MMP-9; zudem regte ein EBV-Protein im Labor Mastzellen zur Freisetzung von MMP-9 an. Das skizziert einen möglichen Weg hin zu Reizungen der Blut-Hirn-Schranke, muss wegen kleiner Fallzahlen und Laborversuchen aber erst breiter bestätigt werden.
+  detail: Serummessungen zeigten bei ME/CFS-Betroffenen im Vergleich zu gesunden Kontrollen signifikant erhöhte Werte von IL-11 und MMP-9, und ein In-vitro-Modell belegte, dass rekombinantes Epstein-Barr-Virus-Protein (rEBV) Mastzellen zur Freisetzung von MMP-9 anregt. Dies weist auf einen möglichen virusgetriebenen Signalweg hin, bei dem EBV-Proteine über Mastzellen das gewebemodellierende Enzym MMP-9 freisetzen, das die Blut-Hirn-Schranke beeinträchtigen und lokale Neuroinflammation begünstigen könnte. Allerdings schränken kleine Fallzahlen die Übertragbarkeit ein, und eine direkte krankheitsauslösende Rolle von IL-11 und MMP-9 auf die Durchlässigkeit der Blut-Hirn-Schranke muss erst in vivo nachgewiesen werden.

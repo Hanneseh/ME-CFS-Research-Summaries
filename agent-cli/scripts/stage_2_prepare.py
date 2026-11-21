@@ -12,10 +12,11 @@ from difflib import SequenceMatcher
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
+from atomic_content import BASE_DIR, CONTENT_DIR, entry_paths, external_markdown_links, read_yaml, thread_directories
 
-BASE_DIR = Path(__file__).resolve().parents[2]
+
 DEFAULT_STATE_DIR = BASE_DIR / "agent-cli" / "state"
-DEFAULT_CONTENT_DIR = BASE_DIR / "content"
+DEFAULT_CONTENT_DIR = CONTENT_DIR
 
 TRACKING_QUERY_PREFIXES = ("utm_",)
 TRACKING_QUERY_KEYS = {
@@ -179,75 +180,54 @@ def read_json_list(path: Path) -> list[dict]:
     return data
 
 
-def extract_markdown_links(text: str) -> list[tuple[str, str]]:
-    return re.findall(r"\[([^\]]+)\]\((https?://[^\s)]+)\)", text)
-
-
-def timeline_sections(text: str) -> list[tuple[str, str]]:
-    matches = list(re.finditer(r"^###\s+(.+)$", text, flags=re.MULTILINE))
-    sections = []
-    for index, match in enumerate(matches):
-        heading = match.group(1).strip()
-        start = match.end()
-        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
-        sections.append((heading, text[start:end]))
-    return sections
-
-
 def load_existing_inventory(content_dir: Path) -> list[dict]:
     inventory: list[dict] = []
-    for path in sorted(content_dir.glob("**/index.md")):
-        if path == content_dir / "index.md":
-            continue
-        rel = path.relative_to(content_dir)
-        parts = rel.parts
-        if len(parts) < 3:
-            continue
-        thread_group = parts[0]
-        thread_slug = parts[1]
-        text = path.read_text(encoding="utf-8", errors="replace")
-        for heading, section_text in timeline_sections(text):
-            heading_title = re.sub(r"^\S+\s+-\s+", "", heading).strip()
+    directories = thread_directories(content_dir)
+    if not directories:
+        raise ValueError(f"No atomic thread directories in {content_dir / 'threads'}")
+    for directory in directories:
+        thread = read_yaml(directory / "thread.yaml")
+        legacy_path = f"{thread['legacy_path']}/index.md"
+        for path in entry_paths(directory):
+            entry = read_yaml(path)
+            heading_title = entry["en"]["title"]
+            heading = f"{entry['date_display']} - {heading_title}"
             heading_ident = identity_for(heading_title, "")
-            inventory.append(
-                {
-                    "source_id": stable_id("existing", str(rel), heading),
-                    "kind": "timeline_heading",
-                    "title": heading_title,
-                    "title_normalized": normalize_title(heading_title),
-                    "link": "",
-                    "canonical_url": "",
-                    "doi": heading_ident.doi,
-                    "pmid": heading_ident.pmid,
-                    "nct_id": heading_ident.nct_id,
-                    "youtube_id": heading_ident.youtube_id,
-                    "thread_group": thread_group,
-                    "thread_slug": thread_slug,
-                    "content_path": str(path.relative_to(BASE_DIR)),
-                    "timeline_heading": heading,
-                }
-            )
-            for label, url in extract_markdown_links(section_text):
+            base = {
+                "title": heading_title,
+                "title_normalized": normalize_title(heading_title),
+                "thread_group": thread["group"],
+                "thread_slug": thread["slug"],
+                "content_path": str(path.relative_to(BASE_DIR) if path.is_relative_to(BASE_DIR) else path),
+                "timeline_heading": heading,
+            }
+            inventory.append({
+                **base,
+                "source_id": stable_id("existing", legacy_path, heading),
+                "kind": "timeline_heading",
+                "link": "",
+                "canonical_url": "",
+                "doi": heading_ident.doi,
+                "pmid": heading_ident.pmid,
+                "nct_id": heading_ident.nct_id,
+                "youtube_id": heading_ident.youtube_id,
+            })
+            sources = [(source["label"], source["url"]) for source in entry["sources"]]
+            sources.extend(external_markdown_links(entry["en"]["detail"]))
+            for label, url in sources:
                 ident = identity_for(f"{heading_title} {label}", url)
-                inventory.append(
-                    {
-                        "source_id": stable_id("existing", str(rel), heading, label, url),
-                        "kind": "timeline_source_link",
-                        "title": heading_title,
-                        "title_normalized": normalize_title(heading_title),
-                        "link_label": label.strip(),
-                        "link": url,
-                        "canonical_url": ident.canonical_url,
-                        "doi": ident.doi,
-                        "pmid": ident.pmid,
-                        "nct_id": ident.nct_id,
-                        "youtube_id": ident.youtube_id,
-                        "thread_group": thread_group,
-                        "thread_slug": thread_slug,
-                        "content_path": str(path.relative_to(BASE_DIR)),
-                        "timeline_heading": heading,
-                    }
-                )
+                inventory.append({
+                    **base,
+                    "source_id": stable_id("existing", legacy_path, heading, label, url),
+                    "kind": "timeline_source_link",
+                    "link_label": label.strip(),
+                    "link": url,
+                    "canonical_url": ident.canonical_url,
+                    "doi": ident.doi,
+                    "pmid": ident.pmid,
+                    "nct_id": ident.nct_id,
+                    "youtube_id": ident.youtube_id,
+                })
     return inventory
 
 
@@ -561,7 +541,7 @@ def write_report(path: Path, candidates: list[dict], clusters: list[dict], batch
             "",
             "## Worker Reviews",
             "",
-            "- Store Gemini/Antigravity review outputs under `agent-cli/state/worker_reviews/`.",
+            "- Store review outputs under `agent-cli/state/worker_reviews/`.",
             "- Rerunning this preparation step rewrites deterministic batches but does not remove worker reviews.",
         ]
     )
@@ -582,7 +562,7 @@ def build_parser() -> argparse.ArgumentParser:
         "--content-dir",
         type=Path,
         default=DEFAULT_CONTENT_DIR,
-        help="Quartz content directory used to build existing-source inventory.",
+        help="Content directory containing the atomic threads.",
     )
     parser.add_argument(
         "--state-dir",
@@ -600,13 +580,13 @@ def build_parser() -> argparse.ArgumentParser:
         "--batches-dir",
         type=Path,
         default=DEFAULT_STATE_DIR / "worker_batches",
-        help="Directory for Gemini/Antigravity worker batch packets.",
+        help="Directory for review batch packets.",
     )
     parser.add_argument(
         "--worker-review-dir",
         type=Path,
         default=DEFAULT_STATE_DIR / "worker_reviews",
-        help="Directory reserved for Gemini/Antigravity review outputs. It is created but never deleted.",
+        help="Directory reserved for review outputs. It is created but never deleted.",
     )
     return parser
 

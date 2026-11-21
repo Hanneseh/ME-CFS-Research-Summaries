@@ -1,0 +1,18 @@
+id: 2026-04-28_structural-equation-modeling-validates-distinct-neuroimmune-and
+date: '2026-04-28'
+date_display: '2026-04-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Habermann-Horstmeier & Horstmeier 2026, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-026-08159-1
+  kind: paper
+en:
+  title: Structural equation modeling validates distinct neuroimmune and autonomic symptom clusters
+  plain_summary: A statistical modeling study of 748 ME/CFS patients found that symptoms group into consistent clusters, such as brain fog, gut issues, immune signs, and autonomic symptoms. It did not measure lab markers directly, so biological links are inferred rather than proven.
+  detail: A translational modeling study of 748 ME/CFS patients validated that patient symptoms are organized into statistically coherent biological clusters rather than being random. Using factor analysis and structural equation modeling (SEM), the researchers confirmed distinct and highly consistent clusters representing brain symptoms (fog, hypersensitivity, headache), gastrointestinal symptoms, immunological dysfunction, and a higher-order vegetative (autonomic) symptom complex. This provides a robust statistical framework for patient stratification, showing that patient-reported symptoms reflect distinct, underlying pathophysiological pathways. However, the study inferred these biological mechanisms from literature integration rather than direct laboratory measurements in the participants, and the cohort was subject to potential self-selection bias.
+de:
+  title: Strukturgleichungsmodellierung bestätigt abgrenzbare neuroimmune und autonome Symptomcluster
+  plain_summary: Eine statistische Modellstudie mit 748 ME/CFS-Betroffenen zeigte, dass sich Beschwerden in stabile Gruppen wie Gehirn-, Magen-Darm-, Immun- und vegetative Symptome gliedern. Da keine eigenen Labormessungen erfolgten, sind biologische Ursachen daraus noch nicht direkt bewiesen.
+  detail: Eine translationale Modellierungsstudie an 748 ME/CFS-Patientinnen und -Patienten bestätigte, dass sich die Beschwerden statistisch in konsistente biologische Cluster ordnen und nicht zufällig verteilt sind. Mithilfe von Faktorenanalysen und Strukturgleichungsmodellierung (SEM) wiesen die Forschenden klare, stabile Gruppen für Gehirnsymptome (Benommenheit, Reizüberempfindlichkeit, Kopfschmerzen), Magen-Darm-Beschwerden, immunologische Störungen sowie einen übergeordneten vegetativen (autonomen) Symptomkomplex nach. Dies liefert einen robusten statistischen Rahmen zur Patientenstratifizierung und stützt die Annahme, dass berichtete Beschwerden unterschiedlichen zugrunde liegenden Signalwegen entsprechen. Die biologischen Mechanismen wurden jedoch aus bestehender Fachliteratur abgeleitet statt direkt im Labor an den Teilnehmenden gemessen, und die Stichprobe unterliegt möglicher Selbstselektion.

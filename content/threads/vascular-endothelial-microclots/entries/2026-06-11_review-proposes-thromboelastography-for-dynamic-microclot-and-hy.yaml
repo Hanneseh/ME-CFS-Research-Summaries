@@ -1,0 +1,20 @@
+id: 2026-06-11_review-proposes-thromboelastography-for-dynamic-microclot-and-hy
+date: '2026-06-11'
+date_display: '2026-06-11'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Saleem et al. 2026, Blood Coagulation & Fibrinolysis
+  url: https://doi.org/10.1097/MBC.0000000000001439
+  kind: paper
+en:
+  title: Review proposes thromboelastography for dynamic microclot and hypofibrinolysis profiling
+  plain_summary: A review suggests using a dynamic clotting test called TEG to spot hyperactive clotting that standard blood panels miss. However, lab standards vary widely, and using TEG to guide blood thinners lacks clinical trial proof and carries bleeding risks.
+  detail: A narrative review in *Blood Coagulation & Fibrinolysis* synthesized the clinical and mechanistic utility of thromboelastography (TEG) for dynamic profiling of fibrinoid microclots and hypofibrinolysis across ME/CFS and Long COVID. The authors highlight a recurrent viscoelastic profile marked by increased clot strength (elevated maximum amplitude) and delayed clot lysis (reduced LY30), which captures functional hypercoagulability missed by standard static coagulation panels such as PT/INR, aPTT, or D-dimer. The paper evaluates how dynamic viscoelastic monitoring might guide precision interventions, including antiplatelet agents, direct oral anticoagulants such as apixaban, and enzymatic fibrinolytics like lumbrokinase or nattokinase. However, the review presents no new empirical patient cohort data or pooled effect sizes, and viscoelastic testing remains vulnerable to pre-analytical handling artifacts without harmonized inter-laboratory reference standards. Crucially, TEG-guided
+    anticoagulant and fibrinolytic regimens lack randomized controlled trial validation and carry substantial bleeding risks, meaning dynamic profiling cannot yet serve as an established clinical management tool.
+de:
+  title: Übersichtsarbeit schlägt Thromboelastographie zur dynamischen Erfassung von Mikrogerinnseln und Hypofibrinolyse vor
+  plain_summary: Eine Übersichtsarbeit diskutiert die Thromboelastographie (TEG) als dynamischen Gerinnungstest, um Störungen zu erkennen, die Routinewerte übersehen. Für eine darauf gestützte Gabe von Blutverdünnern fehlen aber kontrollierte Studien, und es bestehen erhebliche Blutungsrisiken.
+  detail: Eine narrative Übersichtsarbeit in *Blood Coagulation & Fibrinolysis* fasste den klinischen und mechanistischen Nutzen der Thromboelastographie (TEG) zur dynamischen Erfassung fibrinoider Mikrogerinnsel und verminderter Fibrinolyse bei ME/CFS und Long COVID zusammen. Die Autorinnen und Autoren heben ein wiederkehrendes viskoelastisches Profil mit erhöhter Gerinnselfestigkeit (erhöhte maximale Amplitude) und verzögerter Gerinnselauflösung (verringerte LY30) hervor, das eine funktionelle Hyperkoagulabilität abbildet, die Standard-Gerinnungstests wie PT/INR, aPTT oder D-Dimer übersehen. Die Arbeit erörtert, wie dynamische Messungen künftig gezielte Interventionen leiten könnten – darunter Thrombozytenaggregationshemmer, direkte orale Antikoagulanzien wie Apixaban oder enzymatische Fibrinolytika wie Lumbrokinase und Nattokinase. Sie präsentiert jedoch keine neuen empirischen Patientendaten oder gepoolten Effektgrößen, und viskoelastische Tests sind anfällig für präanalytische Handhabungsfehler
+    ohne einheitliche Laborstandards. Vor allem fehlen für TEG-gestützte Gerinnungshemmer- oder Fibrinolytika-Therapien randomisierte kontrollierte Studien, sodass bei erheblichen Blutungsrisiken kein etabliertes klinisches Verfahren vorliegt.

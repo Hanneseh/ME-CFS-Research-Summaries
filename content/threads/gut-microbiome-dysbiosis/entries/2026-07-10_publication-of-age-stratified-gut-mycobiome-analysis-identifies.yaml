@@ -1,0 +1,20 @@
+id: 2026-07-10_publication-of-age-stratified-gut-mycobiome-analysis-identifies
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Gan et al. 2026, BMC Microbiology
+  url: https://pubmed.ncbi.nlm.nih.gov/41469536/
+  kind: paper
+en:
+  title: Publication of age-stratified gut mycobiome analysis identifies potential diagnostic biomarkers
+  plain_summary: The peer-reviewed publication of an age-grouped study of 118 people confirms that gut fungal patterns differ by age in ME/CFS and track with fatigue severity. Because each age subgroup was small and measured at a single timepoint, these fungal patterns are not ready for clinical testing.
+  detail: Gan et al. published an age-stratified cross-sectional study of the gut mycobiome using fecal samples from 118 individuals (59 ME/CFS patients and 59 healthy matched controls) divided into young, middle-aged, and elderly cohorts. Fungal richness was reduced in younger and middle-aged ME/CFS cohorts, whereas the elderly cohort exhibited a paradoxical increase in alpha diversity, with distinct discriminatory taxa (such as _Preussia_, _Endocarpon_, and _Chaetomium_) identifying each group. By incorporating these age-specific profiles, classification models achieved near-perfect diagnostic accuracy (AUC = 0.911 to 1.00) within the strata, compared to only 65.2% (AUC = 0.786) in unstratified analysis. Correlation analyses suggested that the identified gut fungi correlate with fatigue severity as indicators of disease burden rather than causative factors. Key limitations include the cross-sectional design, the small sample sizes within each age stratum, and the reliance on fecal samples
+    which may not represent complete gastrointestinal dynamics.
+de:
+  title: Veröffentlichung einer altersstratifizierten Darm-Mykobiom-Analyse identifiziert potenzielle diagnostische Biomarker
+  plain_summary: Die begutachtete Publikation einer altersgruppierten Studie mit 118 Personen bestätigt, dass sich Darmpilz-Muster bei ME/CFS je nach Alter unterscheiden und mit der Fatigue-Schwere zusammenhängen. Wegen der kleinen Untergruppen und der einmaligen Messung sind diese Muster noch nicht für klinische Tests geeignet.
+  detail: Gan et al. veröffentlichten eine altersstratifizierte Querschnittsstudie zum Darm-Mykobiom anhand von Stuhlproben von 118 Personen (59 ME/CFS-Patientinnen und -Patienten sowie 59 gesunde gematchte Kontrollen), aufgeteilt in junge, mittelalte und ältere Kohorten. Die Pilzvielfalt war in den jüngeren und mittelalten ME/CFS-Kohorten verringert, während die ältere Kohorte einen paradoxen Anstieg der Alpha-Diversität zeigte, wobei spezifische unterscheidende Taxa (wie _Preussia_, _Endocarpon_ und _Chaetomium_) jede Gruppe kennzeichneten. Durch Einbeziehung dieser altersspezifischen Profile erreichten Klassifikationsmodelle innerhalb der Altersgruppen eine nahezu perfekte diagnostische Genauigkeit (AUC = 0,911 bis 1,00), verglichen mit lediglich 65,2 % (AUC = 0,786) in der nicht stratifizierten Analyse. Korrelationsanalysen deuteten darauf hin, dass die identifizierten Darmpilze eher als Indikatoren der Krankheitslast mit der Fatigue-Schwere zusammenhängen als als kausale Faktoren. Wesentliche
+    Einschränkungen sind das Querschnittsdesign, die kleinen Fallzahlen innerhalb jeder Altersgruppe sowie die Beschränkung auf Stuhlproben, die möglicherweise nicht die gesamte Dynamik des Magen-Darm-Trakts abbilden.

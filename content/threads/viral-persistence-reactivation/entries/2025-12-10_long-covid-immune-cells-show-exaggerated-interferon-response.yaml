@@ -1,0 +1,18 @@
+id: 2025-12-10_long-covid-immune-cells-show-exaggerated-interferon-response
+date: '2025-12-10'
+date_display: '2025-12-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Humer et al. 2025, Journal of Clinical Immunology
+  url: https://doi.org/10.1007/s10875-025-01969-w
+  kind: paper
+en:
+  title: Long COVID immune cells show exaggerated interferon response to viral mimics
+  plain_summary: Immune cells from Long COVID patients overreacted with interferon signals when exposed to virus-like triggers in the lab, and stronger reactions tracked with worse fatigue. This points to an 'epigenetically primed' immune state, though it does not prove that blocking interferon is safe or effective as a treatment.
+  detail: A laboratory study found that immune cells (PBMCs) from Long COVID patients exhibit an exaggerated type I interferon (IFN-I) response when exposed to synthetic viral mimics. This hyperreactive response, mediated through the cGAS and RIG-I pathways, correlated directly with the severity of patient fatigue. These findings support the hypothesis that chronic post-viral symptoms are maintained by "trained immunity," where cells are epigenetically primed to overreact to viral signals. This establishes a biological rationale for evaluating interferon-blocking therapies to treat post-viral fatigue. However, the study does not identify the specific epigenetic modifications that maintain this trained immune state. It also does not demonstrate that inhibiting the IFN-I pathway is safe or clinically effective in resolving Long COVID symptoms.
+de:
+  title: Immunzellen bei Long COVID zeigen übersteigerte Interferon-Antwort auf Virus-Nachahmer
+  plain_summary: Abwehrzellen aus dem Blut von Long-COVID-Betroffenen reagierten im Labor übermäßig stark mit Interferon-Signalen auf virusähnliche Reize – je stärker die Reaktion, desto ausgeprägter die Erschöpfung. Das stützt die Idee einer überempfindlich vorprogrammierten Immunabwehr, beweist aber noch nicht, dass Interferon-Blocker als Therapie sicher oder wirksam sind.
+  detail: Eine Laborstudie zeigte, dass Immunzellen (PBMCs) von Long-COVID-Betroffenen eine übersteigerte Typ-I-Interferon-(IFN-I-)Reaktion entwickeln, wenn sie im Reagenzglas synthetischen Virus-Nachahmern ausgesetzt werden. Diese überempfindliche Antwort, vermittelt über die Signalwege cGAS und RIG-I, korrelierte direkt mit der Schwere der Erschöpfung. Die Befunde stützen die Hypothese, dass chronische postvirale Beschwerden durch eine „trainierte Immunität“ aufrechterhalten werden, bei der Zellen epigenetisch auf eine Überreaktion gegenüber Virussignalen geprägt sind, und liefern eine Begründung für die Prüfung interferonhemmender Ansätze. Allerdings benennt die Studie weder die genauen epigenetischen Veränderungen hinter diesem Zustand noch belegt sie, dass eine Hemmung des IFN-I-Signalwegs beim Menschen sicher oder wirksam ist.

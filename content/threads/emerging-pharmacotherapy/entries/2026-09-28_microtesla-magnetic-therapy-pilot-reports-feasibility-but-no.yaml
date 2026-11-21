@@ -1,0 +1,20 @@
+id: 2026-09-28_microtesla-magnetic-therapy-pilot-reports-feasibility-but-no
+date: '2026-09-28'
+date_display: '2026-09-28'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Canori et al. 2026, Brain Communications
+  url: https://doi.org/10.1093/braincomms/fcag364
+  kind: paper
+en:
+  title: Microtesla magnetic therapy pilot reports feasibility, but no FDR-corrected cognitive benefit
+  plain_summary: In a 33-person sham-controlled pilot trial of an at-home magnetic therapy headset for Long COVID brain fog, most participants finished the sessions with no device side effects, but no cognitive or quality-of-life gains survived statistical correction. This confirms only feasibility and tolerability, not effectiveness, and was funded by the device maker.
+  detail: A randomized (2:1), sham-controlled pilot study at Mount Sinai evaluated an at-home microtesla magnetic therapy headset (Fareon Restore, 27.12 MHz) in adults with Long COVID and objective cognitive impairment (Canori et al., NCT06739668). Participants self-administered 15-minute sessions twice weekly for 4 weeks with follow-up at week 8; 33 individuals were randomized and 30 completed the protocol (20 active, 10 sham), with 90.9% meeting the primary feasibility benchmark and no device-related or serious adverse events reported. Although exploratory uncorrected week-8 comparisons favoured the active arm on measures including Digit Span Sequencing, verbal learning, colour naming, and emotional well-being, no cognitive or quality-of-life differences survived false discovery rate (FDR) correction. The study was funded by Fareon, Inc., included two employee co-authors, did not assess ME/CFS, and required in-person neuropsychological testing that effectively excluded severe or bedbound
+    individuals. This paper represents the peer-reviewed publication of the pilot previously presented on 2026-06-25 (discussed in [Clinical Characterization & Epidemiology](thread:clinical-characterization-epidemiology)), confirming feasibility and tolerability without demonstrating clinical efficacy.
+de:
+  title: Pilotstudie zu Mikrotesla-Magnettherapie zeigt Machbarkeit, aber keinen FDR-korrigierten kognitiven Nutzen
+  plain_summary: In einer schein-kontrollierten Pilotstudie mit 33 Personen mit Long-COVID-Brain-Fog schlossen die meisten Teilnehmenden das häusliche Magnet-Headset-Programm ohne gerätebedingte Nebenwirkungen ab, doch überstand kein Kognitions- oder Lebensqualitäts-Effekt die statistische Korrektur. Dies belegt lediglich Durchführbarkeit und Verträglichkeit, keine Wirksamkeit, und wurde vom Gerätehersteller finanziert.
+  detail: Eine randomisierte (2:1), schein-kontrollierte Pilotstudie am Mount Sinai prüfte ein häusliches Mikrotesla-Magnettherapie-Headset (Fareon Restore, 27,12 MHz) bei Erwachsenen mit Long COVID und objektiver kognitiver Beeinträchtigung (Canori et al., NCT06739668). Teilnehmende führten über 4 Wochen zweimal wöchentlich 15-minütige Sitzungen selbst durch, mit Nachbeobachtung in Woche 8; 33 Personen wurden randomisiert und 30 schlossen das Protokoll ab (20 aktiv, 10 Schein), wobei 90,9 % den primären Machbarkeits-Benchmark erreichten und keine gerätebedingten oder schweren unerwünschten Ereignisse berichtet wurden. Obwohl explorative unkorrigierte Vergleiche in Woche 8 bei Maßen wie Digit Span Sequencing, verbalem Lernen, Farbbenennung und emotionalem Wohlbefinden den aktiven Arm begünstigten, überstand kein Unterschied bei Kognition oder Lebensqualität die False-Discovery-Rate-(FDR)-Korrektur. Die Studie wurde von Fareon, Inc. finanziert, umfasste zwei Firmenmitarbeitende als Ko-Autoren,
+    untersuchte kein ME/CFS und erforderte neuropsychologische Tests vor Ort, was schwer Betroffene und Bettlägerige faktisch ausschloss. Diese Publikation ist die begutachtete Veröffentlichung der zuvor am 2026-06-25 vorgestellten Pilotstudie (diskutiert unter [Klinische Charakterisierung & Epidemiologie](thread:clinical-characterization-epidemiology)) und bestätigt Machbarkeit und Verträglichkeit ohne Wirksamkeitsnachweis.

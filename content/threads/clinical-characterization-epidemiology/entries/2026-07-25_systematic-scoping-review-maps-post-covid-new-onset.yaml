@@ -1,0 +1,18 @@
+id: 2026-07-25_systematic-scoping-review-maps-post-covid-new-onset
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Plaut 2026, Journal of Translational Medicine
+  url: https://pubmed.ncbi.nlm.nih.gov/42174645/
+  kind: paper
+en:
+  title: Systematic scoping review maps post-COVID new-onset fibromyalgia and diagnostic overlap with ME/CFS
+  plain_summary: A scoping review of new fibromyalgia after non-hospitalized COVID-19 found wide overlap with ME/CFS, with many studies failing to check for PEM. Because underlying studies vary widely in quality, it mainly flags the need for careful diagnosis before prescribing exercise.
+  detail: A systematic scoping review published in the Journal of Translational Medicine analyzed literature on new-onset fibromyalgia manifestations following non-hospitalized COVID-19. The review examined post-viral pain phenotypes, central sensitization mechanisms, small-fiber neuropathy overlap, and methodological inconsistencies across published cohorts. It highlighted substantial diagnostic ambiguity between post-COVID fibromyalgia and ME/CFS, noting that many studies fail to rigorously evaluate post-exertional malaise. Clinically, this scoping analysis emphasizes the necessity of careful differential diagnosis to ensure post-viral pain patients receive appropriate pacing guidance rather than harmful exercise prescriptions. The conclusions are limited by high heterogeneity and variable quality across included secondary studies, as well as an absence of prospective baseline data prior to viral infection.
+de:
+  title: Systematisches Scoping Review kartiert neu aufgetretene Fibromyalgie nach COVID-19 und Überschneidungen mit ME/CFS
+  plain_summary: Eine Übersichtsarbeit zu neu aufgetretener Fibromyalgie nach mildem COVID-19-Verlauf zeigte große Überschneidungen mit ME/CFS, wobei viele Studien PEM nicht sauber abgefragt haben. Wegen stark schwankender Studienqualität mahnt die Arbeit vor allem zu sorgfältiger Abgrenzung vor Bewegungsempfehlungen.
+  detail: Ein im Journal of Translational Medicine veröffentlichtes systematisches Scoping Review wertete Literatur zu neu aufgetretener Fibromyalgie nach nicht-hospitalisierter COVID-19-Erkrankung aus. Betrachtet wurden postvirale Schmerzphänotypen, zentrale Sensitivierung, Überschneidungen mit Small-Fiber-Neuropathie sowie methodische Inkonsistenzen zwischen publizierten Kohorten. Die Arbeit hob eine erhebliche diagnostische Unschärfe zwischen Post-COVID-Fibromyalgie und ME/CFS hervor und stellte fest, dass viele Studien Post-Exertional Malaise nicht konsequent prüfen. Klinisch betont die Analyse die Notwendigkeit sorgfältiger Differenzialdiagnostik, damit postvirale Schmerzbetroffene geeignete Pacing-Beratung statt schädlicher Trainingsverordnungen erhalten. Eingeschränkt werden die Schlussfolgerungen durch hohe Heterogenität und schwankende Qualität der eingeschlossenen Studien sowie fehlende prospektive Ausgangsdaten vor Infektion.

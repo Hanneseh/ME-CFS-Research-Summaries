@@ -1,0 +1,75 @@
+slug: vagus-nerve-stimulation
+group: treatments-interventions
+status: active
+evidence_tier: active_trials
+topics:
+- Treatment
+- Autonomic dysfunction
+- Fatigue
+aliases: []
+related_threads:
+- autonomic-dysfunction-pots
+- neuroinflammation-brain-changes
+- immune-dysregulation-inflammation
+- pem-exercise-physiology
+legacy_path: treatments-interventions/vagus-nerve-stimulation
+en:
+  title: Vagus & Tragus Nerve Stimulation
+  subtitle: A living thread on transcutaneous and percutaneous auricular vagus nerve stimulation for post-viral fatigue and orthostatic intolerance.
+  evidence_label: early clinical and randomized controlled trials
+  plain_summary: This thread tracks non-invasive electrical stimulation of the ear's vagus nerve branch (taVNS or tragus stimulation) for post-viral fatigue and orthostatic intolerance such as POTS. While one trial reported lasting heart-rate benefits in post-COVID POTS and a preprint saw fatigue improvements only in participants who used the device at least an hour a day, the randomized COVIVA pilot trial found no clear advantage over sham stimulation. Because studies are small, placebo responses can be large, and rapid intensity increases can worsen fatigue in sensitive patients, clear clinical benefit remains unproven.
+  takeaway: |-
+    Vagus and tragus nerve stimulation involves modulating the autonomic nervous system using non-invasive transcutaneous auricular devices (taVNS/LL-TS) or percutaneous approaches. By targeting the auricular branch of the vagus nerve, these interventions aim to restore parasympathetic activity and suppress sympathetic over-activation to address dysautonomia and post-viral fatigue.
+
+    Clinical trials have yielded mixed results. Although low-level tragus stimulation has demonstrated sustained physiological and symptomatic benefits in post-COVID Postural Orthostatic Tachycardia Syndrome (POTS), larger studies on post-COVID fatigue show conflicting evidence, with one trial showing significant fatigue reduction in adherent participants and another pilot trial showing no benefit over sham treatment. Recent qualitative research in ME/CFS cohorts highlights perceived gains in autonomic stability and sensory gating among subsets of patients, alongside notable variability in individual tolerability.
+
+    Because of small sample sizes, variable device adherence, and strong potential placebo effects, the clinical efficacy of vagus nerve stimulation for post-viral fatigue and orthostatic syndromes remains early and unestablished. Objective biological markers and larger sham-controlled cohorts are needed to confirm the therapeutic benefit.
+  why_it_matters: 'Targeting the vagus nerve addresses a suspected core mechanism of post-viral syndromes: autonomic nervous system dysregulation and systemic inflammation. Because non-invasive ear-clip devices are relatively safe, affordable, and feasible for home use, demonstrating clear clinical efficacy would establish a highly scalable, non-pharmacological treatment option. Conversely, rigorous sham-controlled trials are critical to distinguish actual neuromodulation effects from the strong placebo responses and natural recovery patterns common in fatigue and dysautonomia research.'
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - Low-level tragus stimulation (LL-TS) significantly reduces orthostatic heart rate acceleration and lowers plasma neuropeptide Y (NPY) in patients with post-COVID POTS.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - Daily transcutaneous auricular vagus nerve stimulation (taVNS) may improve subjective fatigue, peripheral muscle fatigue, and cortical excitability in patients who adhere to at least one hour of daily stimulation. Qualitative feedback in ME/CFS cohorts reports perceived improvements in autonomic stability, sleep, and sensory gating.
+  - status: not_established
+    label: Not established
+    items:
+    - Clear superiority of active taVNS over sham stimulation for fatigue reduction in general post-COVID populations has not been demonstrated, with pilot trials showing similar improvements in sham groups.
+  - status: limitations
+    label: Key limitations
+    items:
+    - Existing studies are constrained by small sample sizes (under 120 participants), high rates of participant non-adherence in home-based protocols, reliance on unblinded or open-label qualitative designs in ME/CFS subsets, and a lack of large double-blinded sham-controlled trials.
+  open_questions: []
+de:
+  title: Vagus- & Tragusnerv-Stimulation
+  subtitle: Ein fortlaufender Überblick über transkutane und perkutane aurikuläre Vagusnerv-Stimulation bei postviraler Fatigue und orthostatischer Intoleranz.
+  evidence_label: frühe klinische und randomisierte kontrollierte Studien
+  plain_summary: Dieser Bereich verfolgt Studien zur nicht-invasiven elektrischen Reizung von Vagusnerv-Ästen am Ohr (taVNS bzw. Tragus-Stimulation) bei postviraler Fatigue und Kreislaufstörungen wie POTS. Während eine Studie eine anhaltende Beruhigung des Stehpulses bei Post-COVID-POTS fand und ein Preprint eine Fatigue-Besserung nur bei konsequenter täglicher Nutzung berichtete, zeigte die randomisierte COVIVA-Pilotstudie keinen Vorteil gegenüber einer Scheinstimulation. Da die Studien klein sind, Placeboeffekte stark ausfallen können und zu schnelle Steigerungen bei empfindlichen Betroffenen Müdigkeit auslösen können, ist ein klarer Nutzen bislang nicht belegt.
+  takeaway: |-
+    Bei der Vagus- und Tragusnerv-Stimulation wird das autonome Nervensystem mittels nicht-invasiver Ohrclip-Geräte (taVNS/LL-TS) oder perkutaner Verfahren moduliert. Durch gezielte Reizung des Ohrasts des Vagusnervs soll die parasympathische Aktivität gestärkt und eine sympathische Überaktivierung gedämpft werden, um Dysautonomie und postvirale Fatigue zu lindern.
+
+    Klinische Studien lieferten gemischte Ergebnisse. Während eine niedrigdosierte Tragus-Stimulation bei Post-COVID-POTS anhaltende physiologische und symptomatische Verbesserungen zeigte, fallen größere Studien zu Post-COVID-Fatigue widersprüchlich aus: Eine Preprint-Studie berichtete deutliche Fatigue-Rückgänge bei besonders therapietreuen Teilnehmenden, während eine andere Pilotstudie (COVIVA) keinen Vorteil gegenüber Scheinstimulation fand. Neuere qualitative Forschung in ME/CFS-Kohorten beschreibt bei einem Teil der Nutzenden wahrgenommene Verbesserungen von autonomer Stabilität und Reizfilterung, bei zugleich deutlichen Unterschieden in der individuellen Verträglichkeit.
+
+    Aufgrund kleiner Fallzahlen, schwankender Gerätetreue und erheblicher möglicher Placeboeffekte ist die klinische Wirksamkeit der Vagusnerv-Stimulation bei postviraler Fatigue und orthostatischen Syndromen weiterhin früh und ungesichert. Objektive biologische Marker und größere schein-kontrollierte Kohorten sind nötig, um einen echten therapeutischen Nutzen zu bestätigen.
+  why_it_matters: 'Die Stimulation des Vagusnervs setzt an einem vermuteten Kernmechanismus postviraler Syndrome an: einer Fehlregulation des autonomen Nervensystems und systemischer Entzündung. Da nicht-invasive Ohrclip-Geräte vergleichsweise sicher, erschwinglich und für die Heimanwendung geeignet sind, würde ein klarer Wirknachweis eine gut skalierbare, nicht-medikamentöse Option eröffnen. Umgekehrt sind strenge schein-kontrollierte Studien unverzichtbar, um echte Neuromodulationseffekte von starken Placeboantworten und spontanen Besserungen abzugrenzen.'
+  state_of_evidence:
+  - status: established
+    label: Gesichert
+    items:
+    - Niedrigdosierte Tragus-Stimulation (LL-TS) senkt bei Patientinnen und Patienten mit Post-COVID-POTS signifikant den orthostatischen Herzfrequenzanstieg sowie den Plasmaspiegel von Neuropeptid Y (NPY).
+  - status: plausible
+    label: Plausibel, aber früh
+    items:
+    - Tägliche transkutane aurikuläre Vagusnerv-Stimulation (taVNS) kann subjektive Fatigue, periphere Muskelermüdung und kortikale Erregbarkeit bei Teilnehmenden verbessern, die mindestens eine Stunde täglich stimulieren. Qualitative Rückmeldungen aus ME/CFS-Kohorten berichten wahrgenommene Verbesserungen bei autonomer Stabilität, Schlaf und Reizfilterung.
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Eine klare Überlegenheit aktiver taVNS gegenüber Scheinstimulation zur Fatigue-Linderung in breiteren Post-COVID-Gruppen ist nicht nachgewiesen; eine Pilotstudie zeigte ähnliche Verbesserungen auch in der Scheingruppe.
+  - status: limitations
+    label: Wesentliche Einschränkungen
+    items:
+    - Vorliegende Studien sind durch kleine Stichproben (unter 120 Teilnehmenden), hohe Abbruch- bzw. Nicht-Adhärenzraten bei Heimprotokollen, offene oder qualitative Designs bei ME/CFS-Untergruppen sowie das Fehlen großer doppelt verblindeter, schein-kontrollierter Studien begrenzt.
+  open_questions: []

@@ -1,0 +1,19 @@
+id: 2026-07-02_study-validates-nasa-lean-test-for-pots-screening
+date: '2026-07-02'
+date_display: '2026-07-02'
+date_precision: exact
+source_type: paper
+study_design: Cross-sectional study
+sources:
+- label: Siebler et al. 2026, Journal of Rehabilitation Medicine
+  url: https://doi.org/10.2340/jrm.v58.45865
+  kind: paper
+en:
+  title: Study validates NASA Lean Test for POTS screening in chronic post-COVID
+  plain_summary: In 221 post-COVID rehab patients, the 10-minute NASA Lean Test spotted POTS in 16.7%, yet 83% of those who did not meet heart-rate rules still felt strong upright symptoms. The test is a practical screening tool under supervision, but heart-rate cutoffs miss many symptomatic patients.
+  detail: A cross-sectional study of 221 patients with chronic post-COVID syndrome (PCS) undergoing inpatient rehabilitation evaluated the diagnostic utility of the 10-minute NASA Lean Test (NLT). The researchers found that 16.7% of the cohort met the hemodynamic criteria for postural orthostatic tachycardia syndrome (POTS). Crucially, 83% of the patients who did not meet the objective POTS criteria still reported significant orthostatic symptoms during the test, highlighting a clear dissociation between subjective symptoms and objective hemodynamic thresholds. The findings support using the NLT as an accessible, in-office clinical screening tool to help identify orthostatic intolerance in post-viral patients. However, the study is limited by its reliance on a single screening session and its cohort from a single rehabilitation clinic, which introduces potential selection bias. Furthermore, because standing can trigger severe orthostatic symptoms or syncope, the test requires clinical supervision
+    and safety protocols.
+de:
+  title: Studie validiert den NASA-Lean-Test für das POTS-Screening bei chronischem Post-COVID
+  plain_summary: Bei 221 Post-COVID-Reha-Patienten erkannte der 10-minütige NASA-Lean-Test ein POTS bei 16,7 %, doch 83 % der übrigen Betroffenen hatten dennoch deutliche Beschwerden im Stehen. Der Test taugt als beaufsichtigtes Praxis-Screening, doch starre Pulsgrenzen übersehen viele Symptomatische.
+  detail: Eine Querschnittsstudie an 221 Patientinnen und Patienten mit chronischem Post-COVID-Syndrom (PCS) in der stationären Rehabilitation prüfte den diagnostischen Nutzen des 10-minütigen NASA-Lean-Tests (NLT). Dabei erfüllten 16,7 % der Kohorte die hämodynamischen Kriterien für ein POTS. Bemerkenswerterweise berichteten jedoch 83 % jener Personen, die die objektiven POTS-Grenzwerte verfehlten, während des Tests ebenfalls über deutliche orthostatische Beschwerden – ein klares Auseinanderfallen von subjektiver Symptomlast und starren Pulsgrenzen. Die Befunde stützen den NLT als gut zugängliches Screening-Instrument in der Praxis zur Erkennung orthostatischer Intoleranz. Einschränkungen sind die einmalige Testung und die Herkunft aus einer einzelnen Reha-Klinik mit möglichem Selektionsbias; zudem erfordert der Stehtest wegen möglicher starker Symptome oder Synkopen ärztliche Aufsicht und Sicherheitsvorkehrungen.

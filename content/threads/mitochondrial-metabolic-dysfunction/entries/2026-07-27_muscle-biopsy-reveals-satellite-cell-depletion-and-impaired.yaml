@@ -1,0 +1,26 @@
+id: 2026-07-27_muscle-biopsy-reveals-satellite-cell-depletion-and-impaired
+date: '2026-07-27'
+date_display: '2026-07-27'
+date_precision: exact
+source_type: report
+study_design: null
+sources:
+- label: Charlton et al. 2026, AMS Book of Abstracts 2026
+  url: https://amsterdamumc.org/download/ams-book-of-abstracts-2026
+  kind: other
+en:
+  title: Muscle biopsy reveals satellite cell depletion and impaired post-exertional muscle regeneration
+  plain_summary: Conference data from muscle biopsies of 26 ME/CFS and 25 Long COVID patients found severe depletion of muscle repair stem cells (Pax7+ satellite cells) alongside metabolic shifts after exercise. These findings are from a conference abstract and await full peer-reviewed publication.
+  detail: '- **What changed:** A vastus lateralis muscle biopsy study from Amsterdam UMC (26 ME/CFS, 25 Long COVID, 30 healthy controls) analyzed Pax7+ muscle satellite cells and PDGFRa+ fibroadipogenic progenitor (FAP) cells before and 24 hours after exhaustive exercise. Both ME/CFS and Long COVID cohorts demonstrated significant depletion of Pax7+ muscle satellite cells at baseline and post-exertion compared to controls, with satellite cell counts correlating directly with baseline mitochondrial oxidative phosphorylation capacity.
+
+    - **Why it matters:** This provides direct cellular tissue evidence explaining why patients experience severe post-exertional muscle exhaustion and impaired structural recovery. The accompanying metabolic shift from oxidative to glycolytic pathways and loss of antioxidative metabolites indicate that muscle tissue regenerative signaling is fundamentally compromised following physical stress.
+
+    - **What it does not prove yet:** The findings were published as a conference abstract (AMS Book of Abstracts 2026) ahead of a full peer-reviewed manuscript, and the precise upstream mechanisms causing satellite cell depletion remain to be established.'
+de:
+  title: Muskelbiopsie zeigt Verarmung an Satellitenzellen und gestörte Muskelregeneration nach Belastung
+  plain_summary: Konferenzdaten aus Muskelbiopsien von 26 ME/CFS- und 25 Long-COVID-Betroffenen fanden deutlich weniger Muskel-Reparaturstammzellen (Pax7+-Satellitenzellen) neben Stoffwechselverschiebungen nach Belastung. Die Befunde stammen aus einem Konferenz-Abstract und warten auf die vollständige Fachpublikation.
+  detail: '- **Was sich gezeigt hat:** Eine Muskelbiopsie-Studie am *Vastus lateralis* der Amsterdam UMC (26 ME/CFS, 25 Long COVID, 30 gesunde Kontrollpersonen) untersuchte Pax7+-Muskelsatellitenzellen sowie PDGFRa+-fibroadipogene Vorläuferzellen (FAP) vor und 24 Stunden nach erschöpfender Belastung. Sowohl die ME/CFS- als auch die Long-COVID-Kohorte zeigten bereits im Ausgangszustand und nach Belastung eine deutliche Verarmung an Pax7+-Satellitenzellen gegenüber den Kontrollen, wobei die Satellitenzellzahl direkt mit der basalen mitochondrialen oxidativen Phosphorylierungskapazität korrelierte.
+
+    - **Warum das wichtig ist:** Dies liefert direkte Gewebebefunde auf Zellebene, die erklären können, warum Betroffene nach Belastung unter schwerer Muskelerschöpfung und gestörter struktureller Erholung leiden. Der begleitende Wechsel von oxidativen zu glykolytischen Pfaden und der Verlust antioxidativer Metaboliten zeigen eine grundlegend beeinträchtigte Regenerationssignalgebung nach körperlichem Stress.
+
+    - **Was damit noch nicht belegt ist:** Die Ergebnisse erschienen bislang als Konferenz-Abstract (AMS Book of Abstracts 2026) vor einer vollständigen begutachteten Fachpublikation, und die genauen vorgelagerten Ursachen des Satellitenzellverlusts sind noch zu klären.'

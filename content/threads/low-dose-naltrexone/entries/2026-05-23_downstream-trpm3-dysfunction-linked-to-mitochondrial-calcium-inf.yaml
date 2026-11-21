@@ -1,0 +1,19 @@
+id: 2026-05-23_downstream-trpm3-dysfunction-linked-to-mitochondrial-calcium-inf
+date: '2026-05-23'
+date_display: '2026-05-23'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Magawa et al. 2026, BMC Immunology
+  url: https://doi.org/10.1186/s12865-026-00849-1
+  kind: paper
+en:
+  title: Downstream TRPM3 dysfunction linked to mitochondrial calcium influx deficits in ME/CFS NK cells
+  plain_summary: In immune cells from 10 ME/CFS patients and 10 controls, faulty TRPM3 channels reduced the flow of calcium into mitochondria, the cell's energy powerhouses. This small lab experiment helps explain how channel dysfunction might affect cell energy, but it does not test any treatment or prove clinical benefit from LDN.
+  detail: A laboratory study using fluorescence live-cell imaging on NK cells from 10 ME/CFS patients and 10 healthy controls demonstrated that deficient TRPM3 function directly impairs downstream calcium transport into the mitochondria. While healthy control cells showed robust cytosolic and mitochondrial calcium increases upon TRPM3 agonist stimulation, ME/CFS cells exhibited significantly reduced calcium mobilization in both compartments. This finding provides a biological explanation for how the TRPM3 channel defect translates into the mitochondrial energy deficits and cellular exhaustion characteristic of ME/CFS and post-exertional malaise. However, because the study was performed ex vivo on a very small sample size, it serves as a preliminary pathway validation rather than a diagnostic standard. It does not prove that restoring TRPM3 function will successfully rescue mitochondrial bioenergetics or improve patient symptoms in vivo.
+de:
+  title: Nachgeschaltete TRPM3-Dysfunktion mit Defiziten des mitochondrialen Kalziumeinstroms in ME/CFS-NK-Zellen verknüpft
+  plain_summary: In Immunzellen von 10 ME/CFS-Betroffenen und 10 Kontrollen verringerten defekte TRPM3-Kanäle den Kalziumfluss in die Mitochondrien, die Energiekraftwerke der Zelle. Dieses kleine Laborexperiment erklärt einen möglichen Zusammenhang mit zellulärer Erschöpfung, prüft aber keine Behandlung und beweist keinen klinischen Nutzen von LDN.
+  detail: Eine Laborstudie mittels Fluoreszenz-Live-Cell-Imaging an NK-Zellen von 10 ME/CFS-Patientinnen und -Patienten sowie 10 gesunden Kontrollen zeigte, dass eine mangelhafte TRPM3-Funktion den nachgeschalteten Kalziumtransport in die Mitochondrien direkt beeinträchtigt. Während gesunde Kontrollzellen auf eine Stimulation mit einem TRPM3-Agonisten hin robuste zytosolische und mitochondriale Kalziumanstiege aufwiesen, zeigten ME/CFS-Zellen in beiden Kompartimenten eine signifikant verringerte Kalziummobilisierung. Dieser Befund liefert eine biologische Erklärung dafür, wie sich der TRPM3-Kanaldefekt in mitochondriale Energiedefizite und zelluläre Erschöpfung übersetzen kann, wie sie für ME/CFS und Post-Exertional Malaise typisch sind. Da die Untersuchung ex vivo an einer sehr kleinen Stichprobe erfolgte, dient sie als vorläufige Signalweg-Validierung und nicht als diagnostischer Standard; sie beweist auch nicht, dass eine Wiederherstellung der TRPM3-Funktion die mitochondriale Bioenergetik
+    im lebenden Organismus rettet oder Symptome lindert.

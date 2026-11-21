@@ -1,0 +1,18 @@
+id: 2025-08-26_systematic-review-establishes-cumulative-cerebral-hypoperfusion
+date: '2025-08-26'
+date_display: '2025-08-26'
+date_precision: exact
+source_type: review
+study_design: Systematic review
+sources:
+- label: Christopoulos et al. 2025, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-025-06954-w
+  kind: paper
+en:
+  title: Systematic review establishes cumulative cerebral hypoperfusion in comorbid ME/CFS and orthostatic intolerance
+  plain_summary: A review of 118 studies (over 9,000 people) confirmed that brain blood flow drops in ME/CFS and orthostatic intolerance, especially when both occur together. Differences in measurement tools prevented pooling exact numbers, and severely bedbound patients were rarely included.
+  detail: A systematic review analyzing 118 studies with over 9,000 participants established that reduced cerebral blood flow (CBF) is a consistent physiological abnormality in both ME/CFS and orthostatic intolerance. Crucially, the review found that patients with comorbid ME/CFS and orthostatic intolerance experience a significantly greater decrease in brain blood flow than those with ME/CFS alone. This provides a clear, objective explanation for orthostatic symptoms and cognitive impairment ("brain fog") under hemodynamic stress. The consolidated data support using cerebral blood flow monitoring as a key biomarker for disease severity. However, the high variability in measurement methods across the included studies prevented a formal meta-analysis, and severely ill, bedbound patients were underrepresented because they are often unable to tolerate orthostatic challenge tests.
+de:
+  title: Systematische Übersichtsarbeit belegt kumulative Hirnminderdurchblutung bei komorbidem ME/CFS und orthostatischer Intoleranz
+  plain_summary: Eine Auswertung von 118 Studien mit über 9.000 Teilnehmenden bestätigt, dass die Hirndurchblutung bei ME/CFS und orthostatischer Intoleranz sinkt – besonders wenn beides zusammenkommt. Schwer bettlägerige Betroffene waren in den Belastungstests jedoch unterrepräsentiert.
+  detail: Eine systematische Übersichtsarbeit, die 118 Studien mit über 9.000 Teilnehmenden auswertete, zeigte, dass eine verminderte Hirndurchblutung (CBF) sowohl bei ME/CFS als auch bei orthostatischer Intoleranz eine durchgängige physiologische Auffälligkeit ist. Entscheidend war der Befund, dass Betroffene mit gleichzeitigem ME/CFS und orthostatischer Intoleranz einen deutlich stärkeren Abfall der Hirndurchblutung erleiden als jene mit ME/CFS allein. Dies liefert eine klare, objektive Erklärung für orthostatische Beschwerden und kognitive Einschränkungen („Brain Fog“) unter hämodynamischer Belastung. Die gebündelten Daten stützen den Einsatz von Hirndurchblutungsmessungen als wichtigen Marker für die Krankheitsschwere. Allerdings verhinderten stark unterschiedliche Messmethoden eine formale Meta-Analyse, und schwer erkrankte, bettlägerige Patientinnen und Patienten waren unterrepräsentiert, da sie orthostatische Provokationstests oft nicht vertragen.

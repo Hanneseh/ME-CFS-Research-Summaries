@@ -1,0 +1,20 @@
+id: 2026-07-25_retinal-imaging-finds-neuro-retinal-thinning-but-no
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Wunderle et al. 2026, Brain, Behavior, & Immunity - Health
+  url: https://doi.org/10.1016/j.bbih.2026.101315
+  kind: paper
+en:
+  title: Retinal imaging finds neuro-retinal thinning but no static microvascular difference in post-COVID syndrome
+  plain_summary: A detailed eye-scan study found thinner nerve layers in the retinas of Long COVID patients, but no difference in resting small blood vessel density compared to recovered controls. This suggests blood-vessel issues may show up mainly under stress rather than at rest.
+  detail: 'A cross-sectional observational study in *Brain, Behavior, & Immunity - Health* investigated neuro-retinal structure and microvascular perfusion in Post-COVID-19 Syndrome (PCS) compared to recovered controls using optical coherence tomography (OCT) and OCT angiography (OCTA). Structural imaging revealed significant neuro-retinal layer thinning—specifically of the peripapillary retinal nerve fibre layer, ganglion cell inner plexiform layer, and total macular volume—which correlated with overall symptom burden and elevated circulating MCP-1. In contrast, static microvascular parameters yielded an explicit null finding: OCTA vessel density and foveolar avascular zone showed no significant differences between PCS patients and controls after adjusting for age and sex, and did not correlate with symptoms. This static null result provides a critical point of contrast with the dynamic functional retinal vessel analysis reported in the January 2026 Wallraven et al. preprint, suggesting
+    that post-viral microvascular impairment may be more detectable under dynamic stimulation than in baseline capillary metrics. Key limitations include a monocentric cross-sectional design without longitudinal follow-up, lack of sub-stratification by CCC/ICC ME/CFS criteria, and reliance on specialized in-clinic imaging that excluded severely ill, bedbound patients.'
+de:
+  title: Netzhaut-Bildgebung findet neuro-retinale Ausdünnung, aber keinen statischen Unterschied der Mikrogefäße bei Post-COVID
+  plain_summary: Eine Augen-Scan-Studie fand bei Post-COVID-Betroffenen dünnere Nervenfaserschichten in der Netzhaut, aber keinen Unterschied bei der Gefäßdichte im Ruhezustand. Gefäßprobleme könnten sich daher eher erst unter Belastung oder Reizung zeigen.
+  detail: 'Eine monozentrische Querschnittsstudie in *Brain, Behavior, & Immunity - Health* untersuchte die neuro-retinale Struktur und mikrovaskuläre Durchblutung beim Post-COVID-19-Syndrom (PCS) im Vergleich zu genesenen Kontrollpersonen mittels optischer Kohärenztomographie (OCT) und OCT-Angiographie (OCTA). Die strukturelle Bildgebung zeigte eine deutliche Ausdünnung neuro-retinaler Schichten – insbesondere der peripapillären retinalen Nervenfaserschicht, der Ganglienzell-inneren plexiformen Schicht und des gesamten Makulavolumens –, was mit der gesamten Symptomlast und erhöhtem zirkulierendem MCP-1 korrelierte. Dagegen lieferten die statischen Gefäßparameter einen klaren Nullbefund: OCTA-Gefäßdichte und foveoläre avaskuläre Zone unterschieden sich nach Anpassung für Alter und Geschlecht nicht signifikant zwischen PCS-Betroffenen und Kontrollen und korrelierten nicht mit den Symptomen. Dieses statische Nullergebnis bildet einen wichtigen Kontrast zur dynamischen funktionellen Netzhautgefäßanalyse
+    aus dem Preprint von Wallraven et al. (Januar 2026) und deutet darauf hin, dass postvirale Mikrogefäßstörungen eher unter dynamischer Reizung als in Ruhemaßen sichtbar werden. Wesentliche Einschränkungen sind das monozentrische Querschnittsdesign ohne Verlaufsdaten, die fehlende Stratifizierung nach CCC/ICC-ME/CFS-Kriterien und die spezialisierte Klinikbildgebung, die schwer kranke, bettlägerige Betroffene ausschloss.'

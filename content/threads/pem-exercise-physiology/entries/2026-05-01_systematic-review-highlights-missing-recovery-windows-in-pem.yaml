@@ -1,0 +1,18 @@
+id: 2026-05-01_systematic-review-highlights-missing-recovery-windows-in-pem
+date: '2026-05-01'
+date_display: '2026-05-01'
+date_precision: exact
+source_type: review
+study_design: Systematic review
+sources:
+- label: Kuns et al. 2026, Archives of Physical Medicine and Rehabilitation
+  url: https://doi.org/10.1016/j.apmr.2026.02.468
+  kind: paper
+en:
+  title: Systematic review highlights missing recovery windows in PEM research
+  plain_summary: A systematic review found that most PEM studies only test physical exercise and stop tracking symptoms after 24 hours—missing mental triggers and longer crashes. It calls for broader, longer studies rather than settling how PEM works.
+  detail: 'This systematic review found that most PEM studies still focus on physical triggers and stop follow-up too early to capture prolonged symptom worsening. The main change is methodological: it shows that cognitive and emotional triggers are under-studied and that 24-hour follow-up often misses the full recovery arc. That argues for broader activity paradigms and longer monitoring. It does not resolve the mechanism of PEM, and it reflects major heterogeneity in biomarkers and protocols across studies.'
+de:
+  title: Systematische Übersichtsarbeit weist auf fehlende Erholungszeitfenster in der PEM-Forschung hin
+  plain_summary: Eine systematische Übersicht zeigte, dass die meisten PEM-Studien nur körperliche Belastung testen und die Beobachtung zu früh beenden, wodurch geistige Auslöser und längere Einbrüche übersehen werden. Die Arbeit fordert längere und breitere Studiendesigns, klärt den Mechanismus selbst aber noch nicht.
+  detail: 'Diese systematische Übersichtsarbeit stellte fest, dass sich die meisten PEM-Studien weiterhin auf körperliche Auslöser konzentrieren und die Nachbeobachtung zu früh beenden, um länger anhaltende Symptomverschlechterungen zu erfassen. Die zentrale Aussage ist methodischer Natur: Kognitive und emotionale Auslöser sind unterforscht, und ein 24-Stunden-Fenster verfehlt oft den vollständigen Erholungsverlauf. Das spricht für breitere Belastungsparadigmen und längere Beobachtungszeiträume. Den Mechanismus von PEM löst die Arbeit nicht, und sie spiegelt eine große Uneinheitlichkeit von Biomarkern und Protokollen zwischen den Studien wider.'

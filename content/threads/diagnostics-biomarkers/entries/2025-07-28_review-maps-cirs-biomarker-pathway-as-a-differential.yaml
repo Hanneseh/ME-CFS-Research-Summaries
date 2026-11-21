@@ -1,0 +1,19 @@
+id: 2025-07-28_review-maps-cirs-biomarker-pathway-as-a-differential
+date: '2025-07-28'
+date_display: '2025-07-28'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Dooley 2025, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms26157284
+  kind: paper
+en:
+  title: Review maps CIRS biomarker pathway as a differential-diagnosis model for ME/CFS
+  plain_summary: This review compares ME/CFS with Chronic Inflammatory Response Syndrome (CIRS), a biotoxin-triggered illness with overlapping symptoms, arguing that some patients diagnosed with ME/CFS might actually have treatable CIRS. Because it comes from a single author without a systematic data review, its estimates of how many patients might be misdiagnosed are not proven.
+  detail: 'This literature review traced the chronological development of diagnostic tools for Chronic Inflammatory Response Syndrome, a biotoxin-triggered illness that shares overlapping symptoms with ME/CFS. The review''s diagnostic relevance for ME/CFS is in the contrast it draws: CIRS has a structured, reproducible biomarker panel including MSH, MMP-9, TGF-β1, NeuroQuant brain-volume MRI, and the GENIE transcriptomic test, each of which normalizes with targeted therapy, whereas ME/CFS lacks equivalent validated markers. The author argues that a fraction of patients carrying an ME/CFS label may have unrecognized, treatable CIRS, which demands differential testing. The review is single-author, single-institution, and advocacy-adjacent rather than a systematic meta-analysis, so its quantitative claims about the size of the misdiagnosed population are unsupported.'
+de:
+  title: Übersichtsarbeit stellt CIRS-Biomarker-Pfad als Modell für die Differenzialdiagnostik bei ME/CFS vor
+  plain_summary: Diese Übersichtsarbeit vergleicht ME/CFS mit dem Chronic Inflammatory Response Syndrome (CIRS), einer durch Biotoxine ausgelösten Erkrankung mit ähnlichen Symptomen, und argumentiert, dass ein Teil der ME/CFS-Betroffenen möglicherweise ein behandelbares CIRS hat. Da es sich um eine einzelne, nicht systematische Übersichtsarbeit handelt, sind die Schätzungen zur Häufigkeit solcher Fehldiagnosen bislang nicht belegt.
+  detail: 'Diese Literaturübersicht zeichnete die zeitliche Entwicklung diagnostischer Werkzeuge für das Chronic Inflammatory Response Syndrome (CIRS) nach, eine durch Biotoxine ausgelöste Erkrankung, die ähnliche Symptome wie ME/CFS aufweist. Die diagnostische Relevanz für ME/CFS liegt im gezogenen Kontrast: CIRS verfügt über ein strukturiertes, reproduzierbares Biomarker-Panel aus MSH, MMP-9, TGF-β1, NeuroQuant-Hirnvolumen-MRT und dem GENIE-Transkriptomtest, die sich unter gezielter Therapie jeweils normalisieren, während ME/CFS über keine entsprechend validierten Marker verfügt. Der Autor argumentiert, dass ein Teil der Patientinnen und Patienten mit einer ME/CFS-Diagnose möglicherweise an einem unerkannten, behandelbaren CIRS leidet, was eine differenzialdiagnostische Abklärung erfordere. Da die Arbeit von einem einzelnen Autor und einer einzigen Einrichtung stammt und eher Positionspapier-Charakter hat als eine systematische Metaanalyse darzustellen, bleiben die quantitativen Aussagen
+    zum Anteil fehlklassifizierter Betroffener unbelegt.'

@@ -1,0 +1,18 @@
+id: 2024-06-19_purified-patient-igg-transfers-neurological-and-pain-symptoms
+date: '2024-06-19'
+date_display: '2024-06-19'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Santos Guedes de Sá et al. 2024, medRxiv
+  url: https://doi.org/10.1101/2024.06.18.24309100
+  kind: preprint
+en:
+  title: Purified patient IgG transfers neurological and pain symptoms to mouse models
+  plain_summary: In a non-peer-reviewed preprint, injecting purified antibodies from Long COVID patients into mice caused pain sensitivity, balance problems, and small nerve-fiber loss. This suggests antibodies can harm peripheral nerves in some cases, though the mice did not show fatigue or cognitive issues and not all patients may share this mechanism.
+  detail: A landmark passive transfer study demonstrated that neurological symptoms of Long COVID can be transferred from humans to mice via purified IgG antibodies. Injected mice developed mechanical and cold pain sensitivity, motor coordination impairment, and histological signs of small fiber neuropathy. This provides direct in vivo evidence that circulating antibodies from a subset of patients are pathogenic and capable of causing structural and functional nerve damage. These findings support investigating antibody-targeted therapies like intravenous immunoglobulin (IVIG) and plasmapheresis. However, the study does not prove that all Long COVID phenotypes are antibody-mediated, and the mouse model did not replicate cognitive or fatigue-related symptoms.
+de:
+  title: Gereinigtes Patienten-IgG überträgt neurologische Symptome und Schmerzen auf Mausmodelle
+  plain_summary: In einem noch nicht begutachteten Preprint lösten gereinigte Antikörper von Long-COVID-Betroffenen bei Mäusen Schmerzempfindlichkeit, Koordinationsstörungen und Schäden an feinen Nervenfasern aus. Das deutet darauf hin, dass Antikörper in einem Teil der Fälle periphere Nerven beeinträchtigen können; Fatigue oder kognitive Störungen traten bei den Mäusen jedoch nicht auf.
+  detail: Eine wegweisende passive Transferstudie zeigte, dass sich neurologische Symptome von Long COVID über gereinigte IgG-Antikörper vom Menschen auf Mäuse übertragen lassen. Injizierte Mäuse entwickelten eine mechanische und kältebedingte Schmerzüberempfindlichkeit, Beeinträchtigungen der motorischen Koordination sowie histologische Zeichen einer Small-Fiber-Neuropathie. Dies liefert direkte In-vivo-Evidenz dafür, dass zirkulierende Antikörper einer Teilgruppe von Patientinnen und Patienten pathogen sind und strukturelle sowie funktionelle Nervenschäden verursachen können. Diese Befunde stützen die Untersuchung antikörpergerichteter Therapien wie intravenöser Immunglobuline (IVIG) und Plasmapherese. Die Studie beweist jedoch nicht, dass alle Long-COVID-Phänotypen antikörpervermittelt sind, und das Mausmodell bildete keine kognitiven oder fatiguebezogenen Symptome ab.

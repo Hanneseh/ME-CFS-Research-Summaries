@@ -1,0 +1,23 @@
+id: 2026-07-10_electrophysiological-and-cell-resolved-models-frame-cognitive-dy
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'Higher-order brain processes, rather than early processing, underlie sensory problems in ME/CFS: evidence from ERPs, Frontiers in Medicine'
+  url: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1842841/full
+  kind: paper
+- label: Neurovascular and synaptic milieu of brain-resident cells in cognitive dysfunction of myalgic encephalomyelitis/chronic fatigue syndrome, PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/42015171/
+  kind: paper
+en:
+  title: Electrophysiological and cell-resolved models frame cognitive dysfunction as higher-order, reversible neural dysregulation
+  plain_summary: Brain-wave tests in 61 people showed sensory overload in ME/CFS stems from altered higher-level attention processing rather than early sound filtering, paired with a review framing brain fog as reversible dysregulation. Because the data are cross-sectional, clinical trials are needed to prove whether these patterns can be reversed.
+  detail: An event-related potential (ERP) study by Kumar et al. evaluating 31 ME/CFS patients and 30 controls demonstrated that sensory hypersensitivity is mediated by higher-order cognitive control systems rather than early sensory gating deficits. Patients showed intact early auditory P50 suppression but a significantly reduced late P300 potential, indicating that deficits in stimulus evaluation and working memory updating underlie sensory overload. Complementing this, a comprehensive review proposed a cell-resolved framework for cognitive dysfunction, integrating microglial priming, astrocytic dysfunction, prefrontal-hippocampal excitation-inhibition (E/I) imbalance, and neurovascular unit breakdown. The review argues that "brain fog" represents a functional, potentially reversible neurometabolic and neuroimmune state rather than structural neurodegeneration. While these models offer a cohesive biological explanation for sensory and cognitive symptoms, they rely on cross-sectional data,
+    and direct clinical trials targeting these specific cellular and higher-order networks are needed to confirm reversibility.
+de:
+  title: Elektrophysiologische und zellaufgelöste Modelle ordnen kognitive Dysfunktion als übergeordnete, reversible neuronale Fehlregulation ein
+  plain_summary: Hirnstrommessungen bei 61 Personen zeigten, dass Reizüberempfindlichkeit bei ME/CFS eher bei der übergeordneten Reizverarbeitung als bei der frühen Filterung entsteht; eine begleitende Übersicht deutet Brain Fog als potenziell umkehrbare Fehlregulation. Auf Basis von Querschnittsdaten bedarf es jedoch klinischer Studien, um eine Umkehrbarkeit zu belegen.
+  detail: Eine Studie zu ereigniskorrelierten Potenzialen (ERP) von Kumar et al. an 31 ME/CFS-Patientinnen und -Patienten sowie 30 Kontrollen zeigte, dass sensorische Überempfindlichkeit eher durch übergeordnete kognitive Kontrollsysteme als durch Defizite der frühen sensorischen Filterung vermittelt wird. Betroffene zeigten eine intakte frühe auditorische P50-Unterdrückung, aber ein signifikant verringertes spätes P300-Potenzial, was darauf hindeutet, dass Defizite bei Reizbewertung und Arbeitsgedächtnis-Aktualisierung der Reizüberflutung zugrunde liegen. Ergänzend dazu schlug eine umfassende Übersichtsarbeit ein zellaufgelöstes Rahmenmodell für kognitive Dysfunktion vor, das Mikroglia-Priming, Astrozytendysfunktion, präfrontal-hippokampales Erregungs-Hemmungs-(E/I-)Ungleichgewicht und eine Störung der neurovaskulären Einheit integriert. Die Übersichtsarbeit argumentiert, dass „Brain Fog“ eher einen funktionellen, potenziell reversiblen neurometabolischen und neuroimmunen Zustand darstellt
+    als eine strukturelle Neurodegeneration. Obwohl diese Modelle eine schlüssige biologische Erklärung für sensorische und kognitive Symptome bieten, stützen sie sich auf Querschnittsdaten, und direkte klinische Studien an diesen spezifischen zellulären und übergeordneten Netzwerken sind nötig, um die Reversibilität zu bestätigen.

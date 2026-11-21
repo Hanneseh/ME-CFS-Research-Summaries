@@ -1,0 +1,20 @@
+id: 2026-04-20_epigenetic-study-links-ptprn2-hypomethylation-and-mitochondrial
+date: '2026-04-20'
+date_display: '2026-04-20'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Journal of Translational Medicine 2026
+  url: https://pubmed.ncbi.nlm.nih.gov/42010606
+  kind: paper
+en:
+  title: Epigenetic study links PTPRN2 hypomethylation and mitochondrial PHB2 to cognitive symptoms
+  plain_summary: A small study of saliva samples found chemical DNA tags on a gene called PTPRN2 and a mitochondrial protein interaction that tracked with brain fog severity. Because it looked at saliva rather than brain tissue in only 54 patients, it cannot tell whether these changes cause cognitive symptoms or result from being ill.
+  detail: An epigenetic study analyzing saliva samples from 54 ME/CFS patients and 21 sedentary healthy controls identified significant DNA hypomethylation at the CpG site cg19803194 within the *PTPRN2* gene body. This hypomethylation correlated with cognitive impairment ("brain fog") in both sexes and respiratory symptom severity in male patients. The epigenetic changes corresponded to reduced circulating levels of miR-153-3p, an intronic microRNA associated with memory recall. Researchers also demonstrated that Prohibitin 2 (PHB2), a mitochondrial inner membrane protein, interacts with and regulates the maturation of miR-153-3p, connecting mitochondrial biology to these epigenetic features. While providing a plausible molecular model for cognitive symptoms, the study is limited by its small cohort size and use of saliva rather than central nervous system tissue. Furthermore, this cross-sectional, observational design cannot determine whether these epigenetic alterations are a cause or
+    a consequence of the illness.
+de:
+  title: Epigenetik-Studie verknüpft PTPRN2-Hypomethylierung und mitochondriales PHB2 mit kognitiven Symptomen
+  plain_summary: Eine kleine Speichelstudie fand veränderte chemische DNA-Markierungen am Gen PTPRN2 sowie eine Verbindung zu einem Mitochondrien-Protein, die mit der Schwere von Brain Fog zusammenhingen. Da nur Speichel statt Nervengewebe bei 54 Betroffenen untersucht wurde, bleibt offen, ob diese Muster kognitive Beschwerden auslösen oder erst durch die Erkrankung entstehen.
+  detail: Eine epigenetische Studie an Speichelproben von 54 ME/CFS-Betroffenen und 21 wenig aktiven gesunden Kontrollpersonen fand eine signifikante DNA-Hypomethylierung an der CpG-Stelle cg19803194 im Genkörper von *PTPRN2*. Diese Hypomethylierung korrelierte bei beiden Geschlechtern mit kognitiven Beeinträchtigungen („Brain Fog“) und bei männlichen Patienten mit der Schwere respiratorischer Symptome. Die epigenetischen Veränderungen gingen mit verringerten Spiegeln von zirkulierender miR-153-3p einher, einer intronischen microRNA mit Bezug zum Gedächtnisabruf. Zudem zeigten die Forschenden, dass Prohibitin 2 (PHB2), ein Protein der inneren Mitochondrienmembran, mit miR-153-3p interagiert und deren Reifung steuert, was Mitochondrienbiologie mit diesen epigenetischen Merkmalen verknüpft. Auch wenn dies ein plausibles molekulares Modell für kognitive Beschwerden liefert, ist die Studie durch die kleine Gruppengröße und die Nutzung von Speichel statt Gewebe des zentralen Nervensystems begrenzt;
+    zudem kann das querschnittliche Beobachtungsdesign nicht klären, ob diese Veränderungen Ursache oder Folge der Erkrankung sind.

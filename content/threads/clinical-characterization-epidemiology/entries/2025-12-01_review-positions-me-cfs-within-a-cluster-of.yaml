@@ -1,0 +1,20 @@
+id: 2025-12-01_review-positions-me-cfs-within-a-cluster-of
+date: '2025-12-01'
+date_display: '2025-12-01'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Tate et al. 2025, Medical Research Archives
+  url: https://doi.org/10.18103/mra.v13i11.7104
+  kind: paper
+en:
+  title: Review positions ME/CFS within a cluster of multisystem chronic illnesses sharing care gaps
+  plain_summary: A New Zealand review compared ME/CFS and Long COVID with conditions like multiple sclerosis and found far greater barriers to medical care and social support. It offers a policy comparison rather than new lab data, pointing to the lack of a routine diagnostic test as a key hurdle.
+  detail: 'A review from New Zealand compared the clinical and biological features of ME/CFS, Long COVID, fibromyalgia, Ehlers-Danlos syndrome, and multiple sclerosis, arguing that shared disruptions in the gut-immune-brain axis have been managed in clinical isolation at a cost to all patient groups. The comparison with MS is instructive: while MS patients have access to structured multidisciplinary clinics, clear disease-modifying therapy pathways, and well-defined disability and social support routes, ME/CFS and Long COVID patients face much higher systemic barriers to formal recognition, financial assistance, and employment protection. The authors identify the absence of an accessible molecular diagnostic test as the primary obstacle to social recognition for ME/CFS and Long COVID specifically, because clinician recognition of a diagnosis—required for support access—depends on tests that do not yet exist. The argument does not advance new biological data but maps the care infrastructure
+    gap against a model that does work, making the deficit visible in comparative terms.'
+de:
+  title: Übersichtsarbeit verortet ME/CFS in einer Gruppe chronischer Multisystemerkrankungen mit ähnlichen Versorgungslücken
+  plain_summary: Eine Übersichtsarbeit aus Neuseeland vergleicht ME/CFS und Long COVID mit Erkrankungen wie Multipler Sklerose und zeigt deutlich größere Hürden bei Versorgung und sozialer Absicherung. Sie liefert einen versorgungspolitischen Vergleich ohne neue Labordaten und nennt das Fehlen eines Routinetests als wesentliches Hindernis.
+  detail: 'Eine Übersichtsarbeit aus Neuseeland verglich klinische und biologische Merkmale von ME/CFS, Long COVID, Fibromyalgie, Ehlers-Danlos-Syndrom und Multipler Sklerose und argumentierte, dass gemeinsame Störungen entlang der Darm-Immun-Hirn-Achse bislang getrennt voneinander versorgt wurden – zum Nachteil aller Patientengruppen. Besonders aufschlussreich ist der Vergleich mit Multipler Sklerose: Während MS-Betroffene Zugang zu strukturierten multidisziplinären Ambulanzen, klaren krankheitsmodifizierenden Therapiewegen sowie etablierten Behinderten- und Sozialleistungen haben, stoßen Menschen mit ME/CFS und Long COVID auf weitaus höhere systemische Hürden bei offizieller Anerkennung, finanzieller Unterstützung und Erwerbsschutz. Als Haupthindernis für die gesellschaftliche Anerkennung speziell von ME/CFS und Long COVID benennen die Autorinnen und Autoren das Fehlen eines verfügbaren molekularen Diagnosetests, da ärztliche Anerkennung – Voraussetzung für Sozialleistungen – stark von
+    noch nicht existierenden Tests abhängt. Die Arbeit liefert keine neuen biologischen Daten, macht die Versorgungslücke aber im direkten Vergleich zu einem funktionierenden Versorgungsmodell sichtbar.'

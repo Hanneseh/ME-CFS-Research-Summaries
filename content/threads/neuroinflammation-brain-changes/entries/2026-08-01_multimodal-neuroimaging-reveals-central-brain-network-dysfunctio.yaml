@@ -1,0 +1,19 @@
+id: 2026-08-01_multimodal-neuroimaging-reveals-central-brain-network-dysfunctio
+date: '2026-08-01'
+date_display: '2026-08-01'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'NeuroImage: Clinical Study 2026, ScienceDirect'
+  url: https://www.sciencedirect.com/science/article/pii/S2213158226001002
+  kind: paper
+en:
+  title: Multimodal neuroimaging reveals central brain network dysfunction driving physical and cognitive fatigability
+  plain_summary: Combined MRI and brain-wave scans during tiring tasks showed that the brain itself fails to ramp up motor signals in ME/CFS, pointing to a central brain origin of fatigue rather than simple muscle deconditioning. Because patients were studied at one point in time, long-term follow-up is needed to see if these brain signals recover.
+  detail: 'A multimodal neuroimaging study published in *NeuroImage: Clinical* utilized functional MRI and EEG during motor and cognitive fatigue tasks to identify central nervous system alterations driving early fatigability in ME/CFS. The researchers demonstrated a central nervous system failure to upregulate motor drive during fatiguing physical tasks in patients compared to healthy controls, revealing a functional disconnect between cortical/subcortical effort processing and peripheral motor output. This confirms a biological, central neural origin of physical and cognitive fatigability that is distinct from peripheral muscle fatigue or deconditioning. The findings provide objective neuroimaging evidence that exertional fatigue in ME/CFS stems from central brain network dysfunction. However, as a cross-sectional study, longitudinal tracking is required to determine whether these central network alterations resolve with clinical recovery.'
+de:
+  title: Multimodale Bildgebung deckt zentrale Hirnnetzwerk-Dysfunktion als Treiber körperlicher und kognitiver Ermüdbarkeit auf
+  plain_summary: Kombinierte MRT- und EEG-Messungen bei ermüdenden Aufgaben zeigten bei ME/CFS, dass das Gehirn selbst den Bewegungsantrieb nicht hochfährt – ein Hinweis auf einen zentralen Ursprung statt bloßer Muskeldekonditionierung. Da es sich um eine Querschnittsstudie handelt, ist unklar, ob sich diese Muster bei Genesung normalisieren.
+  detail: 'Eine in *NeuroImage: Clinical* veröffentlichte multimodale Bildgebungsstudie nutzte funktionelle MRT und EEG während motorischer und kognitiver Ermüdungsaufgaben, um Veränderungen des zentralen Nervensystems zu identifizieren, die eine frühe Ermüdbarkeit bei ME/CFS antreiben. Die Forschenden wiesen im Vergleich zu gesunden Kontrollen ein Versagen des zentralen Nervensystems nach, den motorischen Antrieb bei ermüdenden körperlichen Aufgaben hochzuregulieren, und deckten eine funktionelle Entkopplung zwischen kortikaler/subkortikaler Anstrengungsverarbeitung und peripherer motorischer Leistung auf. Dies bestätigt einen biologischen, zentralnervösen Ursprung körperlicher und kognitiver Ermüdbarkeit, der sich deutlich von peripherer Muskelermüdung oder Dekonditionierung unterscheidet. Die Befunde liefern objektive Bildgebungsevidenz dafür, dass Belastungsfatigue bei ME/CFS auf einer Dysfunktion zentraler Hirnnetzwerke beruht. Als Querschnittsstudie erfordert sie jedoch eine Längsschnitt-Beobachtung,
+    um zu klären, ob sich diese zentralen Netzwerkveränderungen bei klinischer Erholung zurückbilden.'

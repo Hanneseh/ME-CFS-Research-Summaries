@@ -1,0 +1,19 @@
+id: 2026-06-11_longitudinal-multi-omics-ties-acute-immunothrombosis-to-persiste
+date: '2026-06-11'
+date_display: '2026-06-11'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ansone et al. 2026, iScience
+  url: https://www.sciencedirect.com/science/article/pii/S2589004226017013
+  kind: paper
+en:
+  title: Longitudinal multi-omics ties acute immunothrombosis to persistent endothelial-platelet activation in Long COVID
+  plain_summary: Tracking 81 hospitalized COVID-19 patients into recovery showed that those who developed Long COVID still carried blood-vessel and platelet activation signals three months later. Because everyone had severe acute COVID-19, the results may not apply directly to milder cases or ME/CFS.
+  detail: Ansone and colleagues followed 81 hospitalized COVID-19 patients from the acute phase into recovery and compared those who later developed Long COVID with those who recovered. Acute illness showed the expected immunothrombotic pattern, including complement activation, neutrophil and NET-related programs, platelet activation, mitochondrial metabolic stress, and renal tubular injury. At 3 months, the Long COVID group still showed a distinct blood signature consistent with endothelial-associated and platelet activation, including elevated VWF and PROS1 transcripts alongside inflammatory and tissue-remodeling signals. That supports the idea that acute thrombo-inflammatory injury can leave a durable vascular imprint rather than resolving cleanly once infection clears. The study still reflects a hospitalized severe-COVID population, so it should not be assumed to map directly onto every ME/CFS or community Long COVID cohort.
+de:
+  title: Longitudinale Multi-Omics verknüpfen akute Immunothrombose mit anhaltender Endothel-Thrombozyten-Aktivierung bei Long COVID
+  plain_summary: Die Nachbeobachtung von 81 stationär behandelten COVID-19-Patienten zeigte bei späterem Long COVID auch nach drei Monaten noch Aktivierungssignale von Gefäßwand und Blutplättchen. Da alle schwer akut erkrankt waren, gilt dies nicht automatisch für mildere Verläufe oder ME/CFS.
+  detail: Ansone und Kolleginnen verfolgten 81 wegen COVID-19 stationär behandelte Patientinnen und Patienten von der Akutphase in die Erholungszeit und verglichen jene, die später Long COVID entwickelten, mit Genesenen. Die akute Erkrankung zeigte das erwartete immunothrombotische Muster aus Komplementaktivierung, Neutrophilen- und NET-Programmen, Thrombozytenaktivierung, mitochondrialem Stoffwechselstress und Nierentubulusschädigung. Nach drei Monaten wies die Long-COVID-Gruppe weiterhin eine deutliche Blutsignatur auf, die zu Endothel- und Thrombozytenaktivierung passt, einschließlich erhöhter VWF- und PROS1-Transkripte neben Entzündungs- und Gewebeumbausignalen. Dies stützt die Annahme, dass eine akute thrombo-inflammatorische Schädigung eine anhaltende Gefäßprägung hinterlassen kann, statt nach Abklingen der Infektion sauber abzuheilen. Da die Studie jedoch eine schwer erkrankte Krankenhaus-Kohorte abbildet, lässt sie sich nicht ohne Weiteres auf jede ambulante Long-COVID- oder ME/CFS-Gruppe
+    übertragen.

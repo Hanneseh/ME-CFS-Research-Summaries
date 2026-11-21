@@ -1,0 +1,19 @@
+id: 2026-01-14_mellow-study-protocol-introduces-chronobiology-aligned-multi-omi
+date: '2026-01-14'
+date_display: '2026-01-14'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Thomas et al. 2026, npj Women's Health
+  url: https://doi.org/10.1038/s44294-025-00120-9
+  kind: paper
+en:
+  title: MELLOW study protocol introduces chronobiology-aligned multi-omics design for female patients
+  plain_summary: Australian researchers published a study plan to track hormones, molecular markers, and symptoms across the menstrual cycle and daily rhythms in women with ME/CFS and Long COVID. It is only a protocol so far, so no biological findings exist yet.
+  detail: Researchers at the University of Melbourne published the protocol for the MELLOW study, a prospective longitudinal investigation of how menstrual and diurnal biological rhythms shape molecular and physiological markers in reproductive-aged women with ME/CFS and Long COVID. The study uses multi-omics including genomics, proteomics, metabolomics, and steroidomics combined with wearable physiological monitoring and symptom tracking timed across the menstrual cycle. The methodological significance is that most prior ME/CFS biomarker studies have not controlled for hormonal phase, which introduces variability that can mask real signals or produce false positives in female cohorts—the majority of ME/CFS patients. This is a protocol paper, so no biological results are yet available. If the study performs as designed, it could clarify why female sex is a primary risk factor and produce more reproducible hormonal and immune biomarker profiles than unstratified prior work.
+de:
+  title: MELLOW-Studienprotokoll führt chronobiologisch abgestimmtes Multi-Omics-Design für Patientinnen ein
+  plain_summary: Australische Forschende haben einen Studienplan veröffentlicht, um Hormone, molekulare Marker und Symptome bei Frauen mit ME/CFS und Long COVID im Verlauf des Menstruations- und Tagesrhythmus zu erfassen. Bislang liegt nur das Studienprotokoll vor, biologische Ergebnisse gibt es noch nicht.
+  detail: Forschende der University of Melbourne veröffentlichten das Studienprotokoll für die MELLOW-Studie, eine prospektive Längsschnittuntersuchung dazu, wie Menstruations- und Tagesrhythmen molekulare und physiologische Marker bei Frauen im gebärfähigen Alter mit ME/CFS und Long COVID beeinflussen. Die Studie kombiniert Multi-Omics-Analysen – Genomik, Proteomik, Metabolomik und Steroidomik – mit Wearable-basiertem physiologischem Monitoring und einer Symptomverfolgung, die zeitlich auf den Menstruationszyklus abgestimmt ist. Die methodische Bedeutung liegt darin, dass frühere ME/CFS-Biomarkerstudien meist nicht für die Zyklusphase kontrollierten, was Schwankungen einführt, die echte Signale überdecken oder falsch-positive Befunde erzeugen können – insbesondere bei weiblichen Kohorten, die den Großteil der ME/CFS-Betroffenen ausmachen. Da es sich um ein Protokollpapier handelt, liegen noch keine biologischen Ergebnisse vor. Gelingt die Umsetzung wie geplant, könnte die Studie klären,
+    warum das weibliche Geschlecht ein zentraler Risikofaktor ist, und reproduzierbarere Hormon- und Immunprofile liefern als frühere unstratifizierte Arbeiten.

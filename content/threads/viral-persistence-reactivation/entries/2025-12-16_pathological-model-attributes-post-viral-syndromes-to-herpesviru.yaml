@@ -1,0 +1,18 @@
+id: 2025-12-16_pathological-model-attributes-post-viral-syndromes-to-herpesviru
+date: '2025-12-16'
+date_display: '2025-12-16'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ariza et al. 2025, Viruses
+  url: https://doi.org/10.3390/v17121624
+  kind: paper
+en:
+  title: Pathological model attributes post-viral syndromes to herpesvirus abortive lytic replication
+  plain_summary: A scientific review proposed that dormant herpesviruses like EBV and HHV-6 can stall partway through reactivating—producing inflammatory proteins like dUTPase without making full new viruses. That could explain why standard viral tests come back normal, though as a review it offers a model that still needs clinical testing.
+  detail: A molecular review proposed a pathological model attributing ME/CFS and Long COVID to the cooperative, abortive lytic reactivation of multiple herpesviruses. The authors presented evidence that dormant viruses like EBV and HHV-6 can enter a partially active state, producing toxic proteins such as dUTPase without completing full replication. These proteins act as chronic inflammatory triggers, explaining why patients experience severe immune activation even when traditional viral load tests are negative. This model suggests that therapeutic strategies should shift from standard replication-dependent antivirals to agents targeting specific viral proteins. However, as a literature review, the study does not provide new experimental data validating this mechanism in a clinical cohort. It also does not establish the exact combinations of herpesviruses required to drive this pathology in individual patients.
+de:
+  title: Krankheitsmodell führt postvirale Syndrome auf eine unvollständige („abortive“) lytische Replikation von Herpesviren zurück
+  plain_summary: Eine Übersichtsarbeit schlägt vor, dass schlafende Herpesviren wie EBV oder HHV-6 teilweise wieder erwachen und entzündungsfördernde Virusproteine (wie dUTPase) bilden, ohne sich komplett zu vermehren. Das könnte erklären, warum übliche Virustests oft negativ ausfallen – als reines Literaturmodell braucht dieser Ansatz aber noch direkte klinische Belege.
+  detail: Eine molekulare Übersichtsarbeit entwarf ein Krankheitsmodell, das ME/CFS und Long COVID auf ein kooperatives, unvollständiges („abortives“) lytisches Wiedererwachen mehrerer Herpesviren zurückführt. Die Autorinnen und Autoren trugen Hinweise zusammen, dass ruhende Viren wie EBV und HHV-6 in einen teilweise aktiven Zustand übergehen und toxische Proteine wie dUTPase produzieren können, ohne einen vollständigen Vermehrungszyklus abzuschließen. Diese Proteine wirken als chronische Entzündungsreize und erklären damit, warum Betroffene starke Immunaktivierung zeigen können, obwohl klassische Viruslast-Tests negativ bleiben – was nahelegt, Therapien gezielt gegen solche Virusproteine statt nur gegen die Virusvermehrung zu richten. Als reine Literaturübersicht liefert die Arbeit jedoch keine neuen eigenen Patientendaten und klärt auch nicht, welche konkreten Viruskombinationen bei einzelnen Betroffenen erforderlich sind.

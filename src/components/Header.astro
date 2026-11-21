@@ -1,0 +1,133 @@
+---
+import { t } from "../lib/i18n";
+import { feedUrl, glossaryUrl, langHome, url } from "../lib/paths";
+import type { Lang } from "../lib/types";
+import Logo from "./Logo.astro";
+
+interface Props {
+  lang: Lang;
+  subpath: string;
+  active?: string;
+}
+const { lang, subpath, active } = Astro.props;
+const s = t(lang);
+const links = [
+  { key: "overview", href: langHome(lang), label: s.nav.overview },
+  { key: "feed", href: feedUrl(lang), label: s.nav.feed },
+  { key: "glossary", href: glossaryUrl(lang), label: s.nav.glossary },
+];
+const langs: Lang[] = ["de", "en"];
+---
+
+<header class="site-header">
+  <div class="header-inner wrap">
+    <a class="brand" href={langHome(lang)} aria-label={`${s.brand} – ${s.nav.overview}`}>
+      <Logo />
+      <span class="brand-text">{s.brand}</span>
+    </a>
+
+    <nav class="main-nav" aria-label={s.menu}>
+      {
+        links.map((l) => (
+          <a href={l.href} aria-current={active === l.key ? "page" : undefined}>
+            {l.label}
+          </a>
+        ))
+      }
+    </nav>
+
+    <div class="header-actions">
+      <button type="button" class="icon-btn search-trigger" data-search-open aria-label={s.searchOpen} aria-haspopup="dialog">
+        <svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"
+          ><circle cx="8.75" cy="8.75" r="5.75" fill="none" stroke="currentColor" stroke-width="1.7"></circle><path
+            d="m13.25 13.25 4 4"
+            stroke="currentColor"
+            stroke-width="1.7"
+            stroke-linecap="round"></path></svg
+        >
+        <span class="search-trigger-label">{s.search}</span>
+        <kbd data-kbd>⌘K</kbd>
+      </button>
+
+      <div class="lang-switch" role="group" aria-label={s.langSwitch}>
+        {
+          langs.map((l) => (
+            <a
+              href={url(`${l}/${subpath}`)}
+              hreflang={l}
+              lang={l}
+              data-lang-link={l}
+              aria-current={l === lang ? "true" : undefined}
+              aria-label={l === "de" ? "Deutsch" : "English"}
+            >
+              {l.toUpperCase()}
+            </a>
+          ))
+        }
+      </div>
+
+      <button type="button" class="icon-btn theme-btn desktop-only" data-theme-toggle aria-label={s.themeToggle} aria-pressed="false">
+        <svg class="i-moon" viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"
+          ><path
+            d="M16.5 12.3A6.75 6.75 0 0 1 7.7 3.5a6.75 6.75 0 1 0 8.8 8.8Z"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.6"
+            stroke-linejoin="round"></path></svg
+        >
+        <svg class="i-sun" viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"
+          ><circle cx="10" cy="10" r="3.5" fill="none" stroke="currentColor" stroke-width="1.6"></circle><path
+            d="M10 1.75v2M10 16.25v2M1.75 10h2M16.25 10h2M4.17 4.17l1.41 1.41M14.42 14.42l1.41 1.41M4.17 15.83l1.41-1.41M14.42 5.58l1.41-1.41"
+            stroke="currentColor"
+            stroke-width="1.6"
+            stroke-linecap="round"></path></svg
+        >
+      </button>
+
+      <button
+        type="button"
+        class="icon-btn menu-btn"
+        data-menu-toggle
+        aria-expanded="false"
+        aria-controls="mobile-menu"
+        aria-label={s.menu}
+        data-label-open={s.menu}
+        data-label-close={s.closeMenu}
+      >
+        <svg viewBox="0 0 20 20" width="20" height="20" aria-hidden="true"
+          ><path d="M3 6h14M3 10h14M3 14h14" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"></path></svg
+        >
+      </button>
+    </div>
+  </div>
+
+  <div id="mobile-menu" class="mobile-menu" hidden>
+    <nav class="wrap" aria-label={s.menu}>
+      {
+        links.map((l) => (
+          <a href={l.href} aria-current={active === l.key ? "page" : undefined}>
+            {l.label}
+          </a>
+        ))
+      }
+      <button type="button" class="menu-theme" data-theme-toggle aria-pressed="false">
+        <span>{s.themeToggle}</span>
+        <svg class="i-moon" viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"
+          ><path
+            d="M16.5 12.3A6.75 6.75 0 0 1 7.7 3.5a6.75 6.75 0 1 0 8.8 8.8Z"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.6"
+            stroke-linejoin="round"></path></svg
+        >
+        <svg class="i-sun" viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"
+          ><circle cx="10" cy="10" r="3.5" fill="none" stroke="currentColor" stroke-width="1.6"></circle><path
+            d="M10 1.75v2M10 16.25v2M1.75 10h2M16.25 10h2M4.17 4.17l1.41 1.41M14.42 14.42l1.41 1.41M4.17 15.83l1.41-1.41M14.42 5.58l1.41-1.41"
+            stroke="currentColor"
+            stroke-width="1.6"
+            stroke-linecap="round"></path></svg
+        >
+      </button>
+    </nav>
+  </div>
+</header>

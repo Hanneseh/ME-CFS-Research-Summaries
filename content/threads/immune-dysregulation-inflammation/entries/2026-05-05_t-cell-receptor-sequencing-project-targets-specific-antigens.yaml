@@ -1,0 +1,18 @@
+id: 2026-05-05_t-cell-receptor-sequencing-project-targets-specific-antigens
+date: '2026-05-05'
+date_display: '2026-05-05'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: Selin et al. 2026, Solve ME/CFS Initiative
+  url: https://youtu.be/-g3Zz8DwK_c
+  kind: video
+en:
+  title: T-cell receptor sequencing project targets specific antigens driving CD8+ T-cell exhaustion
+  plain_summary: A funded research project reported at a conference is mapping T-cell receptors from exhausted CD8 cells against viral, bacterial, and human proteins. This work is still in progress and has not yet established validated subgroup tests.
+  detail: A Solve M.E. Catalyst-funded project utilized single-cell immune profiling and T-cell receptor (TCR) sequencing to map TCR clusters of exhausted CD8+ T cells against human leukocyte antigen (HLA)–displayed microbial and human self-proteins. This project aims to identify the specific pathogens (e.g. herpesviruses, SARS-CoV-2, _Borrelia_) or self-proteins driving chronic T-cell exhaustion, which will enable precise diagnostic profiling and patient stratification. However, the project is actively mapping these targets, and validated diagnostic subsets have not yet been established.
+de:
+  title: T-Zell-Rezeptor-Sequenzierungsprojekt sucht gezielt nach Antigenen hinter CD8+-T-Zell-Erschöpfung
+  plain_summary: Ein auf einer Konferenz vorgestelltes Förderprojekt gleicht T-Zell-Rezeptoren erschöpfter CD8-Zellen mit Virus-, Bakterien- und Körperproteinen ab. Das Projekt befindet sich noch in der Auswertung und liefert bislang keine validierten Diagnose-Subgruppen.
+  detail: Ein durch Solve M.E. Catalyst gefördertes Projekt nutzte Einzelzell-Immunprofilierung und T-Zell-Rezeptor-(TCR-)Sequenzierung, um TCR-Cluster erschöpfter CD8+-T-Zellen gegen über HLA präsentierte mikrobielle und körpereigene Proteine abzugleichen. Ziel ist es, die konkreten Erreger (z. B. Herpesviren, SARS-CoV-2, *Borrelia*) oder Selbstproteine zu identifizieren, die eine chronische T-Zell-Erschöpfung antreiben, um künftig präzisere Diagnostik und Stratifizierung zu ermöglichen. Aktuell befindet sich das Projekt jedoch noch in der aktiven Kartierung dieser Ziele, sodass validierte Subgruppen bislang nicht etabliert sind.

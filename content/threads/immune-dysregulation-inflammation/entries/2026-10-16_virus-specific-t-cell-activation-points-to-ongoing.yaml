@@ -1,0 +1,18 @@
+id: 2026-10-16_virus-specific-t-cell-activation-points-to-ongoing
+date: '2026-10-16'
+date_display: '2026-10-16'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Painter et al. 2026, bioRxiv preprint
+  url: https://www.biorxiv.org/content/10.64898/2026.10.14.759221v1
+  kind: preprint
+en:
+  title: Virus-specific T-cell activation points to ongoing antigen exposure in a Long COVID subset
+  plain_summary: A preprint reported persistently activated, exhausted-looking CD8 T cells recognizing SARS-CoV-2 or Epstein-Barr virus proteins in a subset of Long COVID patients. While this fits with ongoing immune stimulation, the abstract leaves exact numbers and subgroup thresholds out and does not prove a viral reservoir or symptom cause.
+  detail: A bioRxiv preprint compared virus-specific T cells in people with Long COVID and recovered controls using flow cytometry and single-cell methods. Its author abstract reports persistent activation of CD8 T cells recognizing SARS-CoV-2 spike and/or Epstein–Barr virus lytic antigens in a subset of Long COVID participants, with exhaustion-related features and reduced peptide responses. The pattern is consistent with continuing antigen stimulation, but it does not directly locate a viral reservoir, demonstrate EBV reactivation or establish that these cells cause symptoms. The abstract leaves subgroup thresholds and quantitative effect sizes unspecified. ME/CFS criteria, PEM and severe or bedbound inclusion were not reported in that abstract. This remains an unreviewed biological lead, with blood-based follow-up potentially useful for stratification rather than an established antiviral treatment rationale.
+de:
+  title: Virusspezifische T-Zell-Aktivierung deutet auf anhaltenden Antigenkontakt bei einer Long-COVID-Untergruppe hin
+  plain_summary: Ein Preprint berichtet bei einer Teilgruppe von Long-COVID-Betroffenen über dauerhaft aktivierte, erschöpft wirkende CD8-T-Zellen gegen SARS-CoV-2- oder EBV-Proteine. Das passt zu anhaltender Antigen-Reizung, lässt im Abstract aber genaue Zahlen und Schwellenwerte offen und beweist weder ein Virusreservoir noch die Ursache der Symptome.
+  detail: Ein bioRxiv-Preprint verglich virusspezifische T-Zellen bei Menschen mit Long COVID und genesenen Kontrollen mittels Durchflusszytometrie und Einzelzellverfahren. Laut Autoren-Abstract fand sich bei einer Untergruppe der Long-COVID-Betroffenen eine anhaltende Aktivierung von CD8-T-Zellen gegen SARS-CoV-2-Spike- und/oder lytische Epstein-Barr-Virus-Antigene – begleitet von Erschöpfungsmerkmalen und abgeschwächten Peptidreaktionen. Dieses Muster passt zu einer fortlaufenden Antigenstimulation, lokalisiert aber kein direktes Virusreservoir, beweist keine EBV-Reaktivierung und belegt nicht, dass diese Zellen Symptome verursachen; zudem lässt das Abstract Subgruppen-Schwellenwerte, Effektstärken sowie Angaben zu ME/CFS-Kriterien, PEM oder schwerstbetroffenen Patientinnen und Patienten offen und bleibt ein unbegutachteter biologischer Hinweis ohne etablierte antivirale Therapieempfehlung.

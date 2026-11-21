@@ -1,0 +1,18 @@
+id: 2025-03-20_high-throughput-screening-challenges-gpcr-autoantibodies-as-univ
+date: '2025-03-20'
+date_display: '2025-03-20'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Germain et al. 2025, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms26062799
+  kind: paper
+en:
+  title: High-throughput screening challenges GPCR autoantibodies as universal ME/CFS biomarkers
+  plain_summary: A broad antibody screen of 172 people found stronger responses to herpesviruses in ME/CFS, but did not find consistent differences in commonly discussed GPCR receptor autoantibodies. This indicates these autoantibodies are not a universal test for ME/CFS, though they could still matter in smaller subgroups.
+  detail: A comprehensive autoantibody screening of 172 participants using Rapid Extracellular Antigen Profiling (REAP) and Luminex panels failed to find consistent differences in GPCR autoantibody levels between ME/CFS patients and healthy controls. While the study detected elevated antibody responses to herpesvirus antigens, it did not replicate previous reports of elevated adrenergic or muscarinic receptor antibodies in the general patient cohort. This suggests that GPCR autoantibodies are not universal diagnostic biomarkers for ME/CFS and highlights the immunological diversity of the patient population. These results shift the research focus toward stratified cohort models and alternative biological pathways, although they do not rule out the presence of functional GPCR autoantibodies in specific patient subgroups.
+de:
+  title: Hochdurchsatz-Screening stellt GPCR-Autoantikörper als universelle ME/CFS-Biomarker infrage
+  plain_summary: Ein breites Antikörper-Screening bei 172 Teilnehmenden fand bei ME/CFS zwar stärkere Reaktionen gegen Herpesviren, aber keine konsistenten Unterschiede bei viel diskutierten GPCR-Autoantikörpern. Diese Autoantikörper taugen somit nicht als allgemeiner ME/CFS-Test, könnten aber weiterhin in kleineren Untergruppen eine Rolle spielen.
+  detail: Ein umfassendes Autoantikörper-Screening mit 172 Teilnehmenden mittels Rapid Extracellular Antigen Profiling (REAP) und Luminex-Panels fand keine konsistenten Unterschiede der GPCR-Autoantikörperspiegel zwischen ME/CFS-Patientinnen und -Patienten und gesunden Kontrollen. Obwohl die Studie erhöhte Antikörperantworten gegen Herpesvirus-Antigene nachwies, replizierte sie frühere Berichte über erhöhte Antikörper gegen adrenerge oder muskarinische Rezeptoren in der allgemeinen Patientenkohorte nicht. Dies legt nahe, dass GPCR-Autoantikörper keine universellen diagnostischen Biomarker für ME/CFS sind, und unterstreicht die immunologische Vielfalt der Patientenpopulation. Die Ergebnisse lenken den Forschungsfokus stärker auf stratifizierte Kohortenmodelle und alternative biologische Signalwege, schließen aber das Vorhandensein funktioneller GPCR-Autoantikörper in bestimmten Untergruppen nicht aus.

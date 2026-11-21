@@ -1,0 +1,20 @@
+id: 2026-05-18_nih-led-consensus-framework-establishes-rigorous-study-design
+date: '2026-05-18'
+date_display: '2026-05-18'
+date_precision: exact
+source_type: guideline
+study_design: null
+sources:
+- label: Arnaboldi et al. 2026, Brain (Oxford University Press)
+  url: https://doi.org/10.1093/brain/awag016
+  kind: paper
+en:
+  title: NIH-led consensus framework establishes rigorous study design standards for infection-associated chronic illnesses
+  plain_summary: An international expert paper proposed stricter standards for ME/CFS and Long COVID studies, including clearer case definitions, recovered infection controls, and uniform sample handling. It offers design rules rather than new biological findings.
+  detail: An expert consensus paper published in Brain by researchers across leading US institutions and Uppsala University's ME/CFS Collaborative Research Centre reviewed recurring methodological failures in post-treatment Lyme disease, Long COVID, and ME/CFS research and proposed a framework for more rigorous and reproducible studies. The core requirements include precise participant classification (requiring microbiologic evidence of initial infection where feasible), use of highly defined control populations that include fully recovered individuals from the same infection, and standardised biospecimen collection protocols. The paper explicitly recognises ME/CFS as a distinct, disabling biological illness and argues that the methodological path forward mirrors what allowed multiple sclerosis research to produce reliable biomarkers and therapies. The framework does not introduce new primary findings about ME/CFS biology but sets a bar for future cohort design that, if adopted, would substantially
+    reduce the participant misclassification and protocol heterogeneity that have made ME/CFS studies difficult to aggregate or replicate.
+de:
+  title: NIH-geführtes Konsenspapier etabliert strenge Studiendesign-Standards für infektionsassoziierte chronische Erkrankungen
+  plain_summary: Ein internationales Expertenpapier schlägt strengere Standards für Studien zu ME/CFS und Long COVID vor, darunter präzisere Falldefinitionen, genesene Vergleichsgruppen nach gleicher Infektion und einheitliche Probenprotokolle. Es formuliert methodische Vorgaben, liefert aber keine neuen biologischen Befunde.
+  detail: Ein in Brain veröffentlichtes Konsenspapier von Forschenden führender US-Einrichtungen und des ME/CFS Collaborative Research Centre der Universität Uppsala analysierte wiederkehrende methodische Schwächen in der Forschung zu Post-Treatment-Lyme-Syndrom, Long COVID und ME/CFS und schlug einen Rahmen für strengere, besser reproduzierbare Studien vor. Zu den Kernanforderungen zählen eine präzise Klassifizierung der Teilnehmenden (möglichst mit mikrobiologischem Nachweis der Erstinfektion), klar definierte Kontrollgruppen einschließlich vollständig genesener Personen nach derselben Infektion sowie standardisierte Bioproben-Protokolle. Das Papier erkennt ME/CFS ausdrücklich als eigenständige, stark einschränkende biologische Erkrankung an und verweist darauf, dass ähnliche methodische Standards einst bei Multipler Sklerose den Weg zu verlässlichen Biomarkern und Therapien ebneten. Neue Primärdaten zur ME/CFS-Biologie liefert es nicht, setzt aber einen Maßstab, der künftig Fehlklassifizierungen
+    und schwer vergleichbare Studienergebnisse verringern soll.

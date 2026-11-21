@@ -1,0 +1,18 @@
+id: 2025-09-08_persistent-nlrp3-inflammasome-activation-correlates-with-neurops
+date: '2025-09-08'
+date_display: '2025-09-08'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Zhang et al. 2025, medRxiv
+  url: https://doi.org/10.1101/2025.09.07.25335261
+  kind: preprint
+en:
+  title: Persistent NLRP3 inflammasome activation correlates with neuropsychiatric and fatigue symptoms in Long COVID
+  plain_summary: A preprint studying 161 Long COVID patients 6 to 9 months after infection found elevated NLRP3 inflammasome proteins—especially in those who had low oxygen during acute COVID—tracking with fatigue and cognitive symptoms. It points to an inflammation pathway worth studying further, though it is not yet peer-reviewed and cannot prove direct causation.
+  detail: Serum analysis of 161 Long COVID patients assessed 6 to 9 months post-infection demonstrated that levels of NLRP3, caspase-1, IL-1β, and IL-18 were significantly elevated in patients who experienced severe acute illness. These elevated inflammasome markers correlated strongly with chronic fatigue and neuropsychiatric symptom severity, with acute oxygen desaturation ($SpO_2$) serving as a strong predictor of chronic NLRP3 activity. This identifies the NLRP3 inflammasome pathway as a persistent driver of systemic inflammation in Long COVID, providing a rational target for clinical trials evaluating NLRP3 inhibitors. However, the observational, case-control design cannot establish a causal link showing that NLRP3 activation directly drives neuropsychiatric symptoms, and replication in independent cohorts is needed.
+de:
+  title: Anhaltende Aktivierung des NLRP3-Inflammasoms korreliert mit neuropsychiatrischen Beschwerden und Erschöpfung bei Long COVID
+  plain_summary: Ein Preprint an 161 Long-COVID-Betroffenen 6 bis 9 Monate nach Infektion fand erhöhte Werte des Entzündungskomplexes NLRP3 – vor allem nach akutem Sauerstoffabfall –, die mit Erschöpfung und neuropsychiatrischen Symptomen zusammenhingen. Das markiert einen interessanten Entzündungsweg, ist aber noch nicht begutachtet und beweist keine direkte Ursache.
+  detail: Serumanalysen bei 161 Long-COVID-Betroffenen 6 bis 9 Monate nach der Infektion zeigten, dass die Spiegel von NLRP3, Caspase-1, IL-1β und IL-18 bei Personen mit schwerer akuter Erkrankung signifikant erhöht waren. Diese erhöhten Inflammasom-Marker korrelierten stark mit chronischer Erschöpfung und der Schwere neuropsychiatrischer Symptome, wobei ein akuter Abfall der Sauerstoffsättigung ($SpO_2$) ein starker Prädiktor für anhaltende NLRP3-Aktivität war. Damit rückt der NLRP3-Inflammasom-Signalweg als möglicher Treiber anhaltender systemischer Entzündung bei Long COVID und als Ansatzpunkt für künftige Studien mit NLRP3-Hemmern in den Fokus. Das beobachtende Fall-Kontroll-Design dieses Preprints kann jedoch keinen Kausalbeweis liefern, dass NLRP3 direkt neuropsychiatrische Symptome auslöst, und erfordert unabhängige Bestätigung.

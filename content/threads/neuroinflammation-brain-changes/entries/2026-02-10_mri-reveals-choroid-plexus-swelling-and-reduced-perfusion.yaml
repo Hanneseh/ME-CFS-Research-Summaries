@@ -1,0 +1,18 @@
+id: 2026-02-10_mri-reveals-choroid-plexus-swelling-and-reduced-perfusion
+date: '2026-02-10'
+date_display: '2026-02-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Pang et al. 2026, Alzheimer's & Dementia
+  url: https://doi.org/10.1002/alz.71020
+  kind: paper
+en:
+  title: MRI reveals choroid plexus swelling and reduced perfusion associated with memory deficits
+  plain_summary: In 179 people, Long COVID patients showed swelling and reduced blood flow in the brain structure that makes spinal fluid, which tracked with worse memory scores and higher blood p-tau217. This single-timepoint scan cannot show whether the swelling is temporary or poses any long-term brain risk.
+  detail: A neuroimaging study of 86 Long COVID patients, 67 recovered controls, and 26 healthy individuals demonstrated that symptomatic patients have a 10% larger choroid plexus volume and reduced blood flow compared to recovered controls. These alterations in the brain's primary immune-regulating and CSF-producing structure correlated significantly with elevated plasma neurodegenerative markers (p-tau217) and worse cognitive scores. The study suggests that chronic immune responses cause swelling and vascular dysfunction in the choroid plexus, potentially hindering waste clearance and compromising the blood-CSF barrier. However, the cross-sectional design cannot confirm if these changes represent a permanent risk factor for neurodegeneration.
+de:
+  title: MRT zeigt Schwellung des Plexus choroideus und verringerte Durchblutung im Zusammenhang mit Gedächtnisdefiziten
+  plain_summary: Bei 179 Personen zeigten Long-COVID-Betroffene eine Schwellung und geringere Durchblutung jener Hirnstruktur, die Nervenwasser bildet – verbunden mit schlechteren Gedächtniswerten und erhöhtem p-tau217 im Blut. Die einmalige Untersuchung klärt nicht, ob diese Veränderung vorübergehend ist oder ein Langzeitrisiko darstellt.
+  detail: Eine Bildgebungsstudie mit 86 Long-COVID-Patientinnen und -Patienten, 67 genesenen Kontrollen und 26 gesunden Personen zeigte, dass symptomatische Betroffene im Vergleich zu Genesenen ein um 10 % größeres Volumen des Plexus choroideus und eine verringerte Durchblutung aufweisen. Diese Veränderungen in der wichtigsten immunregulierenden und liquorproduzierenden Struktur des Gehirns korrelierten signifikant mit erhöhten neurodegenerativen Plasmamarkern (p-tau217) und schlechteren kognitiven Testergebnissen. Die Studie legt nahe, dass chronische Immunreaktionen Schwellungen und Gefäßdysfunktion im Plexus choroideus verursachen, was möglicherweise die Abfallentsorgung behindert und die Blut-Liquor-Schranke beeinträchtigt. Das Querschnittsdesign kann jedoch nicht bestätigen, ob diese Veränderungen einen dauerhaften Risikofaktor für Neurodegeneration darstellen.

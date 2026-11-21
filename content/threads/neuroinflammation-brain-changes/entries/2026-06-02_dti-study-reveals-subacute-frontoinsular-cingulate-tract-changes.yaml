@@ -1,0 +1,19 @@
+id: 2026-06-02_dti-study-reveals-subacute-frontoinsular-cingulate-tract-changes
+date: '2026-06-02'
+date_display: '2026-06-02'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Arendt et al. 2026, Brain Research Bulletin
+  url: https://www.sciencedirect.com/science/article/pii/S0361923026002728
+  kind: paper
+en:
+  title: DTI study reveals subacute frontoinsular-cingulate tract changes in unvaccinated hospitalized COVID-19 survivors
+  plain_summary: Brain scans of 145 unvaccinated people found no overall group differences after COVID-19, though a subgroup of 23 older hospitalized survivors showed white-matter tract changes tied to fatigue and sleep issues. Because the subgroup was small and lacked pre-COVID scans, its broader relevance is uncertain.
+  detail: A prospective, observational case-control study by Christophe T. Arendt and colleagues from Goethe University Frankfurt (published in *Brain Research Bulletin*) utilized diffusion tensor imaging (DTI) and quantitative T1 mapping (qT1) to evaluate 145 unvaccinated subjects (69 COVID-19 survivors, 76 seronegative controls). While no significant cohort-wide DTI differences were found, a subgroup of 23 hospitalized survivors aged ≥40 years exhibited significant right-sided microstructural white matter alterations—including decreased fractional anisotropy (FA) and increased radial diffusivity (RD)—in the frontoinsular-cingulate pathway (salience network). These microstructural changes correlated with elevated fatigue, depressive symptoms, and sleep disturbances, suggesting reduced fiber integrity and persistent oxidative stress. Limitations include a small subgroup sample size (n=23) and lack of pre-infection baseline neuroimaging data.
+de:
+  title: DTI-Studie zeigt subakute Veränderungen der frontoinsulär-cingulären Faserbahnen bei ungeimpften hospitalisierten COVID-19-Überlebenden
+  plain_summary: Hirnscans von 145 ungeimpften Personen zeigten nach COVID-19 insgesamt keine Gruppenunterschiede; lediglich eine Untergruppe von 23 älteren Klinik-Überlebenden wies Faserbahn-Veränderungen auf, die mit Fatigue und Schlafstörungen zusammenhingen. Wegen der kleinen Untergruppe und fehlender Vorab-Scans bleibt die Übertragbarkeit begrenzt.
+  detail: Eine prospektive Beobachtungs-Fall-Kontroll-Studie von Christophe T. Arendt und Kolleginnen und Kollegen der Goethe-Universität Frankfurt (veröffentlicht in *Brain Research Bulletin*) nutzte Diffusions-Tensor-Bildgebung (DTI) und quantitative T1-Kartierung (qT1) bei 145 ungeimpften Probanden (69 COVID-19-Überlebende, 76 seronegative Kontrollen). Während sich über die gesamte Kohorte hinweg keine signifikanten DTI-Unterschiede fanden, zeigte eine Untergruppe von 23 hospitalisierten Überlebenden im Alter von ≥40 Jahren signifikante rechtsseitige mikrostrukturelle Veränderungen der weißen Substanz – darunter verringerte fraktionelle Anisotropie (FA) und erhöhte radiale Diffusivität (RD) – im frontoinsulär-cingulären Pfad (Salience Network). Diese mikrostrukturellen Veränderungen korrelierten mit erhöhter Fatigue, depressiven Symptomen und Schlafstörungen, was auf eine verringerte Faserintegrität und anhaltenden oxidativen Stress hindeutet. Einschränkungen sind die kleine Gruppengröße
+    (n=23) sowie das Fehlen von Bildgebungsdaten aus der Zeit vor der Infektion.

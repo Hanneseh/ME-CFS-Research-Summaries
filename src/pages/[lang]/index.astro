@@ -1,0 +1,250 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import EntryCard from "../../components/EntryCard.astro";
+import ThreadCard from "../../components/ThreadCard.astro";
+import { getSite } from "../../lib/content";
+import { formatMonth, t } from "../../lib/i18n";
+import { feedUrl, glossaryUrl, imprintUrl } from "../../lib/paths";
+import { LANGS, type Lang } from "../../lib/types";
+
+export const getStaticPaths = (() => LANGS.map((lang) => ({ params: { lang } }))) satisfies GetStaticPaths;
+
+const lang = Astro.params.lang as Lang;
+const s = t(lang);
+const site = getSite(lang);
+const latest = site.entries.slice(0, 8);
+const byRecent = [...site.threads].sort((a, b) => (a.lastUpdated < b.lastUpdated ? 1 : a.lastUpdated > b.lastUpdated ? -1 : 0));
+const groupTitle = new Map(site.groups.map((g) => [g.slug, g.shortTitle]));
+const feedConfig = JSON.stringify({ lang, card: s.card, pageSize: 8 });
+---
+
+<Base lang={lang} active="overview">
+  <section class="hero">
+    <div class="wrap hero-inner">
+      <h1 class="display">{s.heroTitle}</h1>
+      <p class="lead">{s.heroLead}</p>
+      <p class="stats">
+        <span><strong class="num">{site.threads.length}</strong> {s.statThreads}</span>
+        <span aria-hidden="true">·</span>
+        <span><strong class="num">{site.entries.length}</strong> {s.statEntries}</span>
+        <span aria-hidden="true">·</span>
+        <span>{s.statUpdated}: <strong class="num">{formatMonth(site.lastUpdated, lang)}</strong></span>
+      </p>
+
+      <div class="hero-search" role="search">
+        <label class="search-field search-field-lg" for="hero-search-input">
+          <svg viewBox="0 0 20 20" width="20" height="20" aria-hidden="true"
+            ><circle cx="8.75" cy="8.75" r="5.75" fill="none" stroke="currentColor" stroke-width="1.7"></circle><path
+              d="m13.25 13.25 4 4"
+              stroke="currentColor"
+              stroke-width="1.7"
+              stroke-linecap="round"></path></svg
+          >
+          <span class="sr-only">{s.search}</span>
+          <input
+            id="hero-search-input"
+            type="search"
+            data-lang={lang}
+            placeholder={s.searchPlaceholder}
+            role="combobox"
+            aria-controls="hero-search-results"
+            aria-expanded="false"
+            aria-autocomplete="list"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </label>
+        <div
+          id="hero-search-results"
+          class="search-results search-popover"
+          hidden
+          data-empty={s.searchEmpty}
+          data-loading={s.searchLoading}
+          data-thread-label={s.searchThread}
+          data-entry-label={s.searchEntry}
+          aria-live="polite"
+        >
+        </div>
+        <p class="hint">{s.searchHint}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="latest-title">
+    <div class="wrap">
+      <header class="section-head">
+        <div>
+          <h2 id="latest-title" class="section-title">{s.latestTitle}</h2>
+          <p class="section-lead">{s.latestLead}</p>
+        </div>
+      </header>
+
+      <div class="pills" role="group" aria-label={s.filterAll} data-feed-filters>
+        <button type="button" class="pill" data-group-filter="" aria-pressed="true">{s.filterAll}</button>
+        {
+          site.groups.map((g) => (
+            <button type="button" class="pill" data-group-filter={g.slug} data-group={g.slug} aria-pressed="false">
+              <span class="dot" aria-hidden="true" />
+              {g.shortTitle}
+            </button>
+          ))
+        }
+      </div>
+
+      <div id="latest-feed" class="entry-list" data-config={feedConfig} aria-live="polite">
+        {latest.map((e) => <EntryCard lang={lang} entry={e} context="feed" />)}
+      </div>
+
+      <div class="list-actions">
+        <button type="button" class="btn" id="latest-more">{s.showMore}</button>
+        <a class="link-strong" href={feedUrl(lang)}>{s.exploreFeed}</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt" aria-labelledby="threads-title">
+    <div class="wrap">
+      <header class="section-head">
+        <div>
+          <h2 id="threads-title" class="section-title">{s.threadsTitle}</h2>
+          <p class="section-lead">{s.threadsLead}</p>
+        </div>
+        <div class="segmented" role="group" aria-label={s.threadsTitle} data-view-toggle>
+          <button type="button" data-view="group" aria-pressed="true">{s.viewByGroup}</button>
+          <button type="button" data-view="recent" aria-pressed="false">{s.viewRecent}</button>
+        </div>
+      </header>
+
+      <div data-view-panel="group">
+        {
+          site.groups.map((g) => {
+            const threads = site.threads.filter((th) => th.group === g.slug);
+            return (
+              <section class="group-block" id={g.slug} data-group={g.slug} aria-labelledby={`${g.slug}-title`}>
+                <header class="group-head">
+                  <h3 id={`${g.slug}-title`} class="group-title">
+                    <span class="group-bar" aria-hidden="true" />
+                    {g.title}
+                    <span class="count num">{threads.length}</span>
+                  </h3>
+                  <p class="group-desc">{g.description}</p>
+                </header>
+                <div class="card-grid">
+                  {threads.map((th) => (
+                    <ThreadCard lang={lang} thread={th} />
+                  ))}
+                </div>
+              </section>
+            );
+          })
+        }
+      </div>
+
+      <div data-view-panel="recent" hidden>
+        <div class="card-grid">
+          {byRecent.map((th) => <ThreadCard lang={lang} thread={th} showGroup groupLabel={groupTitle.get(th.group)} />)}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <aside class="note-band">
+        <svg viewBox="0 0 20 20" width="20" height="20" aria-hidden="true"
+          ><circle cx="10" cy="10" r="8" fill="none" stroke="currentColor" stroke-width="1.5"></circle><path
+            d="M10 9v5M10 6.2v.1"
+            stroke="currentColor"
+            stroke-width="1.8"
+            stroke-linecap="round"></path></svg
+        >
+        <div>
+          <h2 class="note-title">{s.noteTitle}</h2>
+          <p>{s.noteText}</p>
+          <p class="note-links">
+            <a href={`${glossaryUrl(lang)}#tiers`}>{s.noteGlossary} →</a>
+            <a href={imprintUrl(lang)}>{s.noteImprint} →</a>
+          </p>
+        </div>
+      </aside>
+    </div>
+  </section>
+</Base>
+
+<script>
+  import { mountSearch } from "../../scripts/search";
+  import { renderEntryCard } from "../../lib/render";
+  import type { CardStrings, FeedEntry, FeedPayload } from "../../lib/types";
+
+  const BASE = (import.meta.env.BASE_URL || "/").replace(/\/+$/, "");
+
+  const heroInput = document.getElementById("hero-search-input") as HTMLInputElement | null;
+  const heroResults = document.getElementById("hero-search-results");
+  if (heroInput && heroResults) mountSearch(heroInput, heroResults, { limit: 8, collapseWhenEmpty: true });
+
+  // ----- latest feed -----
+  const list = document.getElementById("latest-feed");
+  const more = document.getElementById("latest-more") as HTMLButtonElement | null;
+  if (list && more) {
+    const cfg = JSON.parse(list.dataset.config || "{}") as { lang: string; card: CardStrings; pageSize: number };
+    let group = "";
+    let shown = list.children.length;
+    let data: Promise<FeedEntry[]> | null = null;
+    const load = () =>
+      (data ??= fetch(`${BASE}/data/feed-${cfg.lang}.json`)
+        .then((r) => r.json() as Promise<FeedPayload>)
+        .then((d) => d.entries));
+    const filtered = (all: FeedEntry[]) => (group ? all.filter((e) => e.group === group) : all);
+    const card = (e: FeedEntry) => renderEntryCard(e, cfg.card, { context: "feed" });
+    const updateMore = (total: number) => (more.hidden = shown >= total);
+
+    more.addEventListener("click", async () => {
+      more.disabled = true;
+      const all = filtered(await load());
+      const next = all.slice(shown, shown + cfg.pageSize);
+      list.insertAdjacentHTML("beforeend", next.map(card).join(""));
+      const first = list.children[shown] as HTMLElement | undefined;
+      shown += next.length;
+      updateMore(all.length);
+      more.disabled = false;
+      first?.querySelector<HTMLAnchorElement>(".entry-anchor")?.focus({ preventScroll: true });
+    });
+
+    document.querySelectorAll<HTMLButtonElement>("[data-group-filter]").forEach((btn) =>
+      btn.addEventListener("click", async () => {
+        group = btn.dataset.groupFilter || "";
+        document.querySelectorAll<HTMLButtonElement>("[data-group-filter]").forEach((b) => b.setAttribute("aria-pressed", String(b === btn)));
+        list.setAttribute("aria-busy", "true");
+        const all = filtered(await load());
+        shown = Math.min(cfg.pageSize, all.length);
+        list.innerHTML = all.slice(0, shown).map(card).join("");
+        list.removeAttribute("aria-busy");
+        updateMore(all.length);
+      }),
+    );
+  }
+
+  // ----- thread view toggle -----
+  const toggle = document.querySelector("[data-view-toggle]");
+  if (toggle) {
+    const set = (view: string) => {
+      toggle.querySelectorAll<HTMLButtonElement>("button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.view === view)));
+      document.querySelectorAll<HTMLElement>("[data-view-panel]").forEach((p) => (p.hidden = p.dataset.viewPanel !== view));
+      try {
+        localStorage.setItem("threadView", view);
+      } catch {
+        /* ignore */
+      }
+    };
+    toggle.querySelectorAll<HTMLButtonElement>("button").forEach((b) => b.addEventListener("click", () => set(b.dataset.view || "group")));
+    let saved: string | null = null;
+    try {
+      saved = localStorage.getItem("threadView");
+    } catch {
+      /* ignore */
+    }
+    // Group anchors (#treatments-interventions) only exist in the grouped view.
+    if (saved === "recent" && !location.hash) set("recent");
+  }
+</script>

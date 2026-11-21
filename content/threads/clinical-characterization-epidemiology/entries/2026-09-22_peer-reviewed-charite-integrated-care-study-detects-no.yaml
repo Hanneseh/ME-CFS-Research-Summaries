@@ -1,0 +1,23 @@
+id: 2026-09-22_peer-reviewed-charite-integrated-care-study-detects-no
+date: '2026-09-22'
+date_display: '2026-09-22'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Peters et al. 2026, The American Journal of Medicine
+  url: https://doi.org/10.1016/j.amjmed.2026.09.013
+  kind: paper
+- label: Wittke, CFS_CARE presentation at the Internationale ME/CFS-Konferenz 2026
+  url: https://youtu.be/A9kK1RJTFP8
+  kind: video
+en:
+  title: Peer-reviewed Charité integrated-care study detects no 12-month physical-function advantage
+  plain_summary: A non-randomized Charité study comparing integrated multidisciplinary care plus inpatient rehab with a single specialist consultation found no significant 12-month difference in physical function, grip strength, or daily steps. All rehab starters finished the program, though PEM adverse events were not reported in the abstract.
+  detail: Peters, Wittke, Scheibenbogen, and colleagues at the Charité Fatigue Center published a prospective, open-label, non-randomized controlled study of an integrated multidisciplinary care model, enrolling patients in 2022–2023. This is very likely the full publication of the CFS_CARE study first reported by Wittke at the Internationale ME/CFS-Konferenz on 7 May 2026, although the abstract does not name CFS_CARE, so cohort identity cannot be confirmed from it alone. The intervention group received multidisciplinary specialist assessment, clinical management, and tailored inpatient rehabilitation (five weeks, according to the conference talk); the control group received one outpatient specialist consultation plus a report for their primary physician. In the per-protocol analysis (89 intervention, 93 control), 12-month SF-36 physical functioning did not differ significantly, and disability, symptom severity, quality of life, handgrip strength, and steps per day showed no substantial
+    differences. Everyone who started rehabilitation completed it, but completion does not establish PEM safety. The abstract reports no intention-to-treat or adverse-event data, and bedbound inclusion was not reported.
+de:
+  title: Begutachtete Charité-Studie zu integrierter Versorgung findet nach 12 Monaten keinen Vorteil bei körperlicher Funktion
+  plain_summary: Eine nicht randomisierte Charité-Studie verglich integrierte multidisziplinäre Versorgung samt stationärer Reha mit einer einmaligen Spezialsprechstunde und fand nach 12 Monaten keinen signifikanten Unterschied bei körperlicher Funktion, Handkraft oder Schritten pro Tag. Alle Reha-Teilnehmenden schlossen das Programm ab, allerdings berichtet das Abstract keine PEM-Nebenwirkungen.
+  detail: Peters, Wittke, Scheibenbogen und Kolleginnen und Kollegen am Charité Fatigue Centrum veröffentlichten eine prospektive, offene, nicht randomisierte kontrollierte Studie zu einem integrierten multidisziplinären Versorgungsmodell mit Einschluss 2022–2023. Sehr wahrscheinlich handelt es sich um die Vollpublikation der auf der Internationalen ME/CFS-Konferenz am 7. Mai 2026 von Wittke vorgestellten CFS_CARE-Studie, auch wenn das Abstract den Namen CFS_CARE nicht nennt und die Kohortenidentität somit allein daraus nicht belegbar ist. Die Interventionsgruppe erhielt eine multidisziplinäre Fachabklärung, klinisches Management und eine angepasste stationäre Rehabilitation (laut Konferenzvortrag fünf Wochen); die Kontrollgruppe erhielt eine ambulante Spezialkonsultation samt Arztbericht für die Hausarztpraxis. In der Per-Protocol-Analyse (89 Intervention, 93 Kontrolle) unterschied sich die körperliche Funktion im SF-36 nach 12 Monaten nicht signifikant, und auch Behinderung, Symptomschwere,
+    Lebensqualität, Handkraft sowie Schritte pro Tag zeigten keine wesentlichen Unterschiede. Alle, die die Reha begannen, schlossen sie ab, doch belegt ein Abschluss noch keine PEM-Sicherheit; zudem berichtet das Abstract keine Intention-to-Treat-Daten, keine unerwünschten Ereignisse und keinen Einschluss Bettlägeriger.

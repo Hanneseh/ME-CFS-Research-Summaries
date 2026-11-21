@@ -1,0 +1,18 @@
+id: 2026-04-22_pediatric-long-covid-study-links-microclots-to-spike
+date: '2026-04-22'
+date_display: '2026-04-22'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Steifman et al. 2026, Pediatric Research
+  url: https://doi.org/10.1038/s41390-026-05024-1
+  kind: paper
+en:
+  title: Pediatric Long COVID study links microclots to Spike-induced neutrophil activation
+  plain_summary: A study of 84 children and young adults with Long COVID found elevated microclots alongside immune-cell DNA linked to spike-protein complexes. It extends clotting research to younger patients, but does not prove that blocking these pathways relieves symptoms.
+  detail: An endovascular profiling study of 84 children and young adults (aged 25 and younger) demonstrated elevated levels of circulating microclots and markers of microvascular remodeling (such as FGF-2). The research showed that cell-free DNA—a marker of neutrophil extracellular traps (NETs)—was elevated in patients and directly triggered by Spike-containing immune complexes. This intravascular neutrophil activation (NETosis) strongly correlated with microclot severity and serum amyloid A levels, indicating a persistent inflammatory loop. This work extends the thrombo-inflammatory model of post-viral syndromes into the pediatric population, shifting focus toward objective endothelial biomarkers in young people. The study does not prove that neutralizing Spike-containing immune complexes or blocking NETosis will resolve clinical cardiovascular symptoms, and it is limited by a moderate sample size.
+de:
+  title: Pädiatrische Long-COVID-Studie verknüpft Mikrogerinnsel mit Spike-induzierter Neutrophilenaktivierung
+  plain_summary: Eine Studie mit 84 Kindern und jungen Erwachsenen mit Long COVID fand erhöhte Mikrogerinnsel zusammen mit zellfreier Immunzell-DNA, die durch Spike-Immunkomplexe ausgelöst wurde. Ob sich daraus wirksame Therapien ableiten lassen, ist damit noch nicht bewiesen.
+  detail: Eine endovaskuläre Profilierungsstudie an 84 Kindern und jungen Erwachsenen (bis 25 Jahre) zeigte erhöhte Spiegel zirkulierender Mikrogerinnsel sowie Marker für mikrovaskulären Umbau (wie FGF-2). Die Untersuchung wies nach, dass zellfreie DNA – ein Marker für Neutrophil Extracellular Traps (NETs) – bei Betroffenen erhöht war und direkt durch Spike-haltige Immunkomplexe ausgelöst wurde. Diese intravaskuläre Neutrophilenaktivierung (NETose) korrelierte stark mit dem Ausmaß der Mikrogerinnsel und den Serum-Amyloid-A-Spiegeln, was auf eine anhaltende Entzündungsschleife hindeutet. Die Arbeit überträgt das thrombo-inflammatorische Modell postviraler Syndrome auf junge Betroffene und rückt objektive Endothel-Biomarker in der Pädiatrie in den Fokus. Sie beweist jedoch nicht, dass das Neutralisieren Spike-haltiger Immunkomplexe oder das Blockieren der NETose klinische Beschwerden bessert, und ist durch die moderate Stichprobengröße begrenzt.

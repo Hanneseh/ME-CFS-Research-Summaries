@@ -1,0 +1,20 @@
+id: 2024-12-26_genetic-case-study-links-adck1-mutation-to-me
+date: '2024-12-26'
+date_display: '2024-12-26'
+date_precision: exact
+source_type: paper
+study_design: Case report
+sources:
+- label: Koga et al. 2024, Immunological Medicine
+  url: https://doi.org/10.1080/25785826.2024.2445399
+  kind: paper
+en:
+  title: Genetic case study links ADCK1 mutation to ME/CFS and resolution via oral 5-ALA/SFC
+  plain_summary: A single case report identified a rare genetic mutation (ADCK1) affecting mitochondrial energy production in a woman with severe ME/CFS, whose symptoms improved after taking 5-ALA/SFC and CoQ10 supplements. Because this describes only one patient with a specific rare gene variant, it does not show that these supplements help ME/CFS generally.
+  detail: A genetic case report of a 35-year-old woman with severe, long-standing ME/CFS identified a novel frameshift mutation in the ADCK1 gene, a gene critical for mitochondrial coenzyme Q10 synthesis, and documented significant clinical improvements following oral supplementation with 5-aminolevulinic acid with sodium ferrous citrate (5-ALA/SFC) and ubiquinone. This case provides a molecular link between a specific genetic mutation, mitochondrial energy failure, and severe chronic fatigue, illustrating the potential for gene-targeted metabolic therapies. The patient’s dose-dependent improvement in fatigue and daily activity levels suggests that addressing coenzyme Q10 and heme synthesis pathways can restore cellular energy production. However, this study describes only a single patient, which does not prove that the ADCK1 mutation is a common cause of ME/CFS or that 5-ALA/SFC is broadly effective for patients without this specific genetic variation. It also remains unverified whether
+    the heterozygous ADCK1 mutation is sufficient on its own to cause ME/CFS pathobiology.
+de:
+  title: Genetischer Fallbericht verknüpft ADCK1-Mutation mit ME/CFS und Besserung unter oralem 5-ALA/SFC
+  plain_summary: Ein einzelner Fallbericht fand bei einer Frau mit schwerem ME/CFS eine seltene Genmutation (ADCK1) im mitochondrialen Energiestoffwechsel; ihre Beschwerden besserten sich unter Einnahme von 5-ALA/SFC und Ubichinon. Da es sich um einen Einzelfall mit einer spezifischen seltenen Genvariante handelt, belegt dies keine breite Wirksamkeit für ME/CFS.
+  detail: Ein genetischer Fallbericht einer 35-jährigen Frau mit schwerem, langjährigem ME/CFS identifizierte eine neuartige Frameshift-Mutation im ADCK1-Gen, das für die mitochondriale Coenzym-Q10-Synthese wichtig ist, und dokumentierte deutliche klinische Verbesserungen nach oraler Einnahme von 5-Aminolävulinsäure mit Natrium-Eisen(II)-citrat (5-ALA/SFC) und Ubichinon. Der Fall stellt eine molekulare Verbindung zwischen einer konkreten Genmutation, mitochondrialem Energieversagen und schwerer chronischer Fatigue her und veranschaulicht das Potenzial gezielter metabolischer Therapien. Die dosisabhängige Besserung von Fatigue und Alltagsaktivität legt nahe, dass eine Unterstützung der Coenzym-Q10- und Hämsynthese die zelluläre Energieproduktion wiederherstellen kann. Da die Arbeit jedoch nur eine einzelne Patientin beschreibt, beweist sie weder, dass die ADCK1-Mutation bei ME/CFS häufig ist, noch dass 5-ALA/SFC Menschen ohne diese Genvariante hilft; zudem bleibt ungeklärt, ob die heterozygote
+    Mutation allein ausreicht, um ME/CFS auszulösen.

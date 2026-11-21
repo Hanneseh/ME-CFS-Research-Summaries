@@ -1,0 +1,28 @@
+id: 2025-09-26_hypothesis-paper-proposes-na-k-atpase-dysfunction-as
+date: '2025-09-26'
+date_display: '2025-09-26'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Wirth & Steinacker 2025, Preprints.org (preprint)
+  url: https://doi.org/10.20944/preprints202509.2242.v1
+  kind: preprint
+en:
+  title: Hypothesis paper proposes Na-K-ATPase dysfunction as the cellular basis of muscle weakness and fasciculations in severe ME/CFS
+  plain_summary: A hypothesis paper suggested that an underactive sodium-potassium pump (Na-K-ATPase) in muscle cells causes the severe muscle weakness, twitching, and cramps seen in very severe ME/CFS. Because the paper presents no new experimental or patient data, this idea remains untested and requires direct validation before guiding treatment.
+  detail: |-
+    Wirth and Steinacker (Mitodicure GmbH / Ulm University) published a hypothesis paper and literature synthesis on Preprints.org arguing that insufficient sodium-potassium pump activity explains the constellation of skeletal muscle symptoms -- myasthenia, fasciculations, and cramps -- seen in severely ill, bedridden ME/CFS patients. The central claim is that Na-K-ATPase hypofunction causes progressive membrane depolarisation that simultaneously makes muscle fibres hyperexcitable, producing involuntary twitching, and impairs effective contraction, producing weakness.
+
+    Depolarisation drives intracellular sodium accumulation, which is accompanied by calcium overload. The calcium overload damages mitochondria, reduces ATP output, increases reactive oxygen species production, and further inhibits the pump, creating a self-reinforcing cycle. The authors connect this model to several upstream factors already documented in ME/CFS research: GPCR autoantibodies and other autoantibody classes that can inhibit ion transporters, primary mitochondrial dysfunction independent of sodium cycling, hormonal deficits including thyroid and sex hormones that normally stimulate pump expression, and oxidative stress during post-exertional malaise.
+
+    The practical implication, if the hypothesis holds, is that Na-K-ATPase becomes a concrete therapeutic target rather than an incidental finding. The paper does not present original experimental data; validation would require direct electrophysiological and ionic measurement in biopsy samples from severely affected patients.
+de:
+  title: Hypothesenpapier schlägt Na-K-ATPase-Fehlfunktion als zelluläre Grundlage von Muskelschwäche und Faszikulationen bei schwerem ME/CFS vor
+  plain_summary: Ein Hypothesenpapier vermutet, dass eine zu geringe Aktivität der Natrium-Kalium-Pumpe (Na-K-ATPase) in Muskelzellen die schwere Muskelschwäche, Zuckungen und Krämpfe bei sehr schwerem ME/CFS verursacht. Da die Arbeit keine neuen experimentellen oder Patientendaten vorlegt, bleibt der Ansatz ungetestet und erfordert erst direkte Überprüfung.
+  detail: |-
+    Wirth und Steinacker (Mitodicure GmbH / Universität Ulm) veröffentlichten auf Preprints.org ein Hypothesenpapier samt Literaturauswertung, wonach eine unzureichende Aktivität der Natrium-Kalium-Pumpe die Kombination von Skelettmuskel-Symptomen – Myasthenie (Muskelschwäche), Faszikulationen und Krämpfen – bei schwer erkrankten, bettlägerigen ME/CFS-Betroffenen erklärt. Die zentrale These lautet, dass eine Unterfunktion der Na-K-ATPase eine fortschreitende Membrandepolarisation verursacht, die Muskelfasern gleichzeitig übererregbar macht (unwillkürliches Zucken) und eine effektive Kontraktion hemmt (Schwäche).
+
+    Die Depolarisation treibt eine intrazelluläre Natriumanreicherung an, die mit einer Kalziumüberladung einhergeht. Die Kalziumüberladung schädigt Mitochondrien, senkt die ATP-Produktion, erhöht reaktive Sauerstoffspezies und hemmt die Pumpe weiter – ein sich selbst verstärkender Kreislauf. Die Autoren verknüpfen dieses Modell mit mehreren aus der ME/CFS-Forschung bekannten vorgeschalteten Faktoren: GPCR- und anderen Autoantikörpern, die Ionentransporter hemmen können, primärer mitochondrialer Dysfunktion unabhängig vom Natriumzyklus, hormonellen Defiziten etwa bei Schilddrüsen- und Sexualhormonen, die normalerweise die Pumpenexpression anregen, sowie oxidativem Stress während einer Post-Exertional Malaise.
+
+    Trifft die Hypothese zu, wird die Na-K-ATPase zu einem konkreten therapeutischen Ziel statt eines Nebenbefundes. Die Arbeit legt jedoch keine eigenen experimentellen Daten vor; eine Validierung würde direkte elektrophysiologische und ionische Messungen an Biopsieproben schwer betroffener Patientinnen und Patienten erfordern.

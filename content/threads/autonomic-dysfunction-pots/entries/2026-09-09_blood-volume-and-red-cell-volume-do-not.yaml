@@ -1,0 +1,20 @@
+id: 2026-09-09_blood-volume-and-red-cell-volume-do-not
+date: '2026-09-09'
+date_display: '2026-09-09'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Yamazaki et al. 2026, Physiological Reports
+  url: https://doi.org/10.14814/phy2.71087
+  kind: paper
+en:
+  title: Blood volume and red-cell volume do not explain orthostatic abnormalities in a small ME/CFS cohort
+  plain_summary: In 49 adults with ME/CFS, low blood volume was common (35%) but did not explain who failed upright standing tests. The small, single-center study excluded people unable to travel or stand and points toward dynamic blood-vessel and nerve mechanisms instead.
+  detail: Yamazaki and colleagues studied 49 adults meeting Fukuda ME/CFS criteria with substantial PEM, combining a 10-minute NASA Lean Test with capnography and a quantitative Daxor BVA-100 blood-volume assessment eight days later. Although 35% were hypovolemic and 49% had a red-cell-volume deficit, orthostatic abnormalities occurred at similar rates across blood-volume categories; POSH was more common than POTS (40.8% versus 12.2%). The study excluded people unable to travel, stand, and complete the parent protocol, so severe or bedbound patients were not represented; the lean test, venipuncture, radioisotope measurement, and later CPET-related protocol also carry orthostatic and PEM burden. The result challenges a simple static-hypovolemia explanation, but the single-centre sample was small, lacked healthy controls, and did not test a treatment. It points toward dynamic respiratory, autonomic, and neurovascular mechanisms and connects to [Vascular Endothelial Dysfunction & Microclots](thread:vascular-endothelial-microclots)
+    and [Diagnostics & Biomarkers](thread:diagnostics-biomarkers).
+de:
+  title: Blutvolumen und Erythrozytenvolumen erklären orthostatische Auffälligkeiten in kleiner ME/CFS-Kohorte nicht
+  plain_summary: Bei 49 Erwachsenen mit ME/CFS war ein niedriges Blutvolumen zwar häufig (35 %), erklärte aber nicht, wer beim Stehtest Auffälligkeiten zeigte. Die kleine Einzelzentrumsstudie schloss nicht stehfähige Betroffene aus und deutet eher auf dynamische Gefäß- und Nervenmechanismen hin.
+  detail: Yamazaki und Kolleginnen untersuchten 49 Erwachsene nach Fukuda-ME/CFS-Kriterien mit ausgeprägter PEM und kombinierten einen 10-minütigen NASA-Lean-Test mit Kapnographie sowie acht Tage später einer quantitativen Blutvolumenmessung mittels Daxor BVA-100. Obwohl 35 % hypovolämisch waren und 49 % ein Defizit des Erythrozytenvolumens aufwiesen, traten orthostatische Auffälligkeiten über die Blutvolumen-Kategorien hinweg ähnlich häufig auf; POSH war häufiger als POTS (40,8 % gegenüber 12,2 %). Die Studie schloss Menschen aus, die nicht reisen, stehen oder das Gesamtprotokoll durchlaufen konnten, sodass schwer Betroffene und Bettlägerige nicht abgebildet sind; zudem bringen Stehtest, Blutabnahme, Radioisotopenmessung und spätere CPET-Bestandteile orthostatische und PEM-Belastung mit sich. Das Ergebnis stellt eine rein statische Hypovolämie-Erklärung infrage, doch die monozentrische Stichprobe war klein, hatte keine gesunden Kontrollen und prüfte keine Therapie. Es weist auf dynamische
+    respiratorische, autonome und neurovaskuläre Mechanismen hin und knüpft an [Vaskuläre Endotheldysfunktion & Mikrogerinnsel](thread:vascular-endothelial-microclots) sowie [Diagnostik & Biomarker](thread:diagnostics-biomarkers) an.

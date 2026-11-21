@@ -1,0 +1,19 @@
+id: 2026-07-16_case-control-study-identifies-elevated-serum-il-11
+date: '2026-07-16'
+date_display: '2026-07-16'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Chinnappan et al. 2026, Frontiers in Immunology
+  url: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1827700/full
+  kind: paper
+en:
+  title: Case-control study identifies elevated serum IL-11 and MMP-9 in ME/CFS
+  plain_summary: A peer-reviewed study found higher blood levels of IL-11 and MMP-9—proteins linked to inflammation and tissue remodeling—in ME/CFS patients compared to healthy controls. Because it measured a single time point without other fatiguing illnesses as controls, it cannot tell if these markers are unique to ME/CFS or a cause versus an effect.
+  detail: A peer-reviewed case-control study published in *Frontiers in Immunology* evaluated circulating inflammatory cytokines and tissue-remodeling enzymes in patients with ME/CFS compared to healthy controls. The investigation identified statistically significant elevations in serum levels of interleukin-11 (IL-11) and matrix metalloproteinase-9 (MMP-9). Elevated IL-11 points toward pro-inflammatory and pro-fibrotic signaling within the IL-6 cytokine family, while increased MMP-9 activity indicates active extracellular matrix remodeling and potential degradation of connective tissue or the blood-brain barrier. Identifying these circulating inflammatory proteins offers candidate diagnostic markers and highlights specific anti-inflammatory pathways for therapeutic targeting. However, the cross-sectional design cannot establish whether IL-11 and MMP-9 elevations represent primary upstream drivers or secondary downstream consequences, requiring prospective validation in larger cohorts that
+    include non-ME/CFS fatiguing controls.
+de:
+  title: Fall-Kontroll-Studie identifiziert erhöhte Serumspiegel von IL-11 und MMP-9 bei ME/CFS
+  plain_summary: Eine begutachtete Studie fand bei ME/CFS-Betroffenen im Vergleich zu Gesunden höhere Blutwerte von IL-11 und MMP-9, die mit Entzündung und Gewebeumbau zusammenhängen. Da nur zu einem Zeitpunkt gemessen und keine andere Erschöpfungskrankheit mitverglichen wurde, ist unklar, ob diese Werte spezifisch oder ursächlich sind.
+  detail: 'Eine begutachtete Fall-Kontroll-Studie in *Frontiers in Immunology* untersuchte zirkulierende Entzündungszytokine und gewebemodellierende Enzyme bei ME/CFS-Patientinnen und -Patienten im Vergleich zu gesunden Kontrollpersonen. Dabei zeigten sich statistisch signifikant erhöhte Serumspiegel von Interleukin-11 (IL-11) und Matrix-Metalloproteinase-9 (MMP-9): Erhöhtes IL-11 verweist auf proinflammatorische und profibrotische Signale innerhalb der IL-6-Familie, während verstärkte MMP-9-Aktivität auf einen Umbau der extrazellulären Matrix sowie mögliche Belastungen von Bindegewebe oder Blut-Hirn-Schranke hindeutet. Das Querschnittsdesign lässt jedoch offen, ob IL-11 und MMP-9 primäre Treiber oder nachgelagerte Folgen sind, und erfordert eine prospektive Prüfung in größeren Kohorten inklusive anderer chronischer Erschöpfungserkrankungen als Kontrollen.'

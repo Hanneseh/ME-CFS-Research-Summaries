@@ -1,0 +1,18 @@
+id: 2026-04-12_flow-cytometry-demonstrates-divergent-monocyte-and-dendritic-cel
+date: '2026-04-12'
+date_display: '2026-04-12'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Petrov et al. 2026, medRxiv
+  url: https://www.medrxiv.org/content/10.1101/2026.04.12.26350613
+  kind: preprint
+en:
+  title: Flow cytometry demonstrates divergent monocyte and dendritic cell pathophysiology in ME/CFS and Long COVID
+  plain_summary: 'A preprint studying 207 people found opposing immune-cell patterns: Long COVID showed signs of chronic activation, whereas ME/CFS showed dampened cell signaling and trafficking. If confirmed after peer review, this could mean the two conditions sometimes need different immune treatments despite similar symptoms.'
+  detail: Flow cytometric profiling of 207 participants showed that Long COVID is associated with increased M2-like monocyte polarization and dendritic cell expansion (indicating chronic activation/exhaustion), whereas ME/CFS is characterized by reduced costimulatory molecules and impaired CCR7-mediated immune cell trafficking (indicating immune suppression). This confirms that despite overlapping clinical presentations, ME/CFS and Long COVID are immunologically divergent diseases, requiring distinct therapeutic strategies. However, as a preprint, these findings require peer-reviewed validation and confirmation in independent patient cohorts.
+de:
+  title: Durchflusszytometrie zeigt gegensätzliche Monozyten- und dendritische Zellprofile bei ME/CFS und Long COVID
+  plain_summary: 'Ein Preprint an 207 Teilnehmenden fand gegensätzliche Muster bei Abwehrzellen: Bei Long COVID zeigten sich eher Zeichen chronischer Überaktivierung, bei ME/CFS dagegen gedämpfte Immun- und Wanderungssignale. Falls sich das im Peer-Review bestätigt, könnten beide Erkrankungen trotz ähnlicher Symptome unterschiedliche Immuntherapien erfordern.'
+  detail: Durchflusszytometrische Analysen bei 207 Teilnehmenden zeigten, dass Long COVID mit einer verstärkten M2-ähnlichen Monozyten-Polarisation und einer Ausweitung dendritischer Zellen einhergeht (als Hinweis auf chronische Aktivierung/Erschöpfung), während ME/CFS durch verringerte kostimulatorische Moleküle und eine gestörte CCR7-vermittelte Zellwanderung (als Hinweis auf Immunsuppression) gekennzeichnet war. Dies deutet darauf hin, dass ME/CFS und Long COVID trotz überlappender klinischer Beschwerden abweichende immunologische Muster aufweisen können, was unterschiedliche Therapieansätze nahelegt. Da die Arbeit als Preprint vorliegt, bedürfen die Befunde noch der Begutachtung im Peer-Review und einer Bestätigung in unabhängigen Kohorten.

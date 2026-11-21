@@ -1,0 +1,19 @@
+id: 2026-07-10_observational-cohort-study-evaluates-the-switch-mind-body
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: Cohort study
+sources:
+- label: 'Initial evidence for mind body retraining intervention ''The Switch'' for those with idiopathic chronic fatigue (Fatigue: Biomedicine, Health & Behavior 2026)'
+  url: https://tandfonline.com/doi/pdf/10.1080/21641846.2026.2694949
+  kind: paper
+en:
+  title: Observational cohort study evaluates 'The Switch' mind-body retraining program
+  plain_summary: In an uncontrolled study of 104 people with chronic fatigue or Long COVID, participants in a mind-body program ('The Switch') reported better physical and emotional functioning at 2 and 12 months, with similar scores online or in person. Without a control group or objective physical tests, placebo effects, selection bias, and natural recovery cannot be ruled out, and pacing limits remain essential to avoid crashes.
+  detail: An observational feasibility and efficacy study of "The Switch" mind-body retraining program in 104 participants (75 with chronic fatigue syndrome and 29 with Long COVID) reported significant self-reported improvements in physical role limitations and emotional functioning. These benefits were observed at 2 months and remained stable at 12 months, with no significant differences in clinical outcomes between telehealth (Zoom) and face-to-face delivery formats. The comparable efficacy of online delivery suggests that virtual programs may offer a viable option that reduces the orthostatic and energetic travel burdens on patients. However, the study's lack of a randomized control group or active comparator makes it impossible to rule out placebo effects, selection bias, or spontaneous recovery. Furthermore, the findings are limited by their complete reliance on unvalidated, self-reported diagnoses and subjective health questionnaires without objective functional or physiological confirmation,
+    and patients must remain within their physiological pacing limits to avoid triggering severe crashes.
+de:
+  title: Beobachtungskohortenstudie untersucht das Mind-Body-Programm „The Switch“
+  plain_summary: In einer unkontrollierten Studie mit 104 Teilnehmenden mit chronischer Fatigue oder Long COVID berichteten Personen nach dem Mind-Body-Programm „The Switch“ nach 2 und 12 Monaten bessere körperliche und emotionale Funktionswerte – online ebenso wie vor Ort. Ohne Kontrollgruppe und objektive Messungen lassen sich Placeboeffekte, Selektionsbias und Spontanheilung nicht ausschließen; Pacing-Grenzen bleiben gegen Crashes entscheidend.
+  detail: Eine beobachtende Machbarkeits- und Wirksamkeitsstudie des Mind-Body-Programms „The Switch“ an 104 Teilnehmenden (75 mit chronischem Fatigue-Syndrom und 29 mit Long COVID) berichtete signifikante selbstberichtete Verbesserungen bei körperlichen Rollenbeschränkungen und emotionaler Funktionsfähigkeit. Diese Werte wurden nach 2 Monaten beobachtet und blieben nach 12 Monaten stabil, ohne signifikante Unterschiede zwischen Telehealth-Durchführung (Zoom) und Präsenzformat – was nahelegt, dass virtuelle Formate orthostatische und energetische Anfahrtsbelastungen mindern können. Das Fehlen einer randomisierten Kontrollgruppe oder aktiven Vergleichsgruppe schließt jedoch Placeboeffekte, Selektionsverzerrung oder spontane Erholung nicht aus; zudem stützt sich die Studie vollständig auf unvalidierte Selbstdiagnosen und subjektive Fragebögen ohne objektive Bestätigung, und Betroffene müssen innerhalb ihrer physiologischen Pacing-Grenzen bleiben, um schwere Crashes zu vermeiden.

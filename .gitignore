@@ -12,6 +12,7 @@ Icon?
 
 # Python
 __pycache__/
+.ruff_cache/
 *.py[cod]
 *.pyo
 *.pyd
@@ -52,18 +53,13 @@ htmlcov/
 
 # Test & build
 dist/
-!plugins/explorer/dist/
-!plugins/explorer/dist/**
-!plugins/graph/dist/
-!plugins/graph/dist/**
+.astro/
 docs/
 mails/
 data/
 
 # Custom
 public/
-.quartz-cache/
-.quartz/
 .agent/
 agent/input/
 agent/state/

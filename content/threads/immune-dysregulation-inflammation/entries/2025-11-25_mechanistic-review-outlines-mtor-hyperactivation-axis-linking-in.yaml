@@ -1,0 +1,18 @@
+id: 2025-11-25_mechanistic-review-outlines-mtor-hyperactivation-axis-linking-in
+date: '2025-11-25'
+date_display: '2025-11-25'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Fronticelli Baldelli & Buonsenso 2025, MDPI Children
+  url: https://doi.org/10.3390/children12121603
+  kind: paper
+en:
+  title: Mechanistic review outlines mTOR hyperactivation axis linking infections to neuroinflammation
+  plain_summary: A review laid out a three-step hypothesis in which overactive mTOR signaling links infections to autoimmunity, a leaky blood-brain barrier, and brain inflammation. It gives a biological rationale for testing mTOR-blocking drugs like rapamycin, but relies on indirect and animal evidence rather than direct patient tissue data.
+  detail: A multidisciplinary review proposed a three-step pathogenetic model of post-infectious neuroinflammation driven by sustained mTOR activation, where mTOR first promotes B-cell/T-cell autoimmunity, then weakens the blood-brain barrier, and finally activates microglia to disrupt synaptic maintenance. This provides a molecular link between peripheral infection and central nervous system symptoms, establishing a scientific basis for clinical trials investigating mTOR inhibitors like rapamycin. However, the review synthesized preclinical and indirect clinical literature; direct measurement of tissue-level mTOR activation in post-infectious patient cohorts is still required.
+de:
+  title: Mechanistische Übersichtsarbeit skizziert mTOR-Überaktivierungsachse zwischen Infektionen und Neuroinflammation
+  plain_summary: Eine Übersichtsarbeit entwirft ein dreistufiges Modell, in dem ein überaktiver Zellschalter (mTOR) Infektionen mit Autoimmunität, einer durchlässigeren Blut-Hirn-Schranke und Hirnentzündung verknüpft. Das stützt Studienideen wie Rapamycin, beruht aber auf indirekten Hinweisen und Tierdaten statt auf direkten Gewebemessungen bei Betroffenen.
+  detail: 'Eine multidisziplinäre Übersichtsarbeit schlug ein dreistufiges pathogenetisches Modell postinfektiöser Neuroinflammation vor, das durch anhaltende mTOR-Aktivierung angetrieben wird: Zunächst fördert mTOR eine B- und T-Zell-Autoimmunität, schwächt dann die Blut-Hirn-Schranke und aktiviert schließlich Mikroglia, was die synaptische Funktion stört. Dies schlägt eine molekulare Brücke zwischen peripherer Infektion und Symptomen des zentralen Nervensystems und liefert eine wissenschaftliche Grundlage für klinische Studien mit mTOR-Inhibitoren wie Rapamycin. Da die Arbeit jedoch präklinische und indirekte klinische Literatur zusammenführt, stehen direkte Messungen einer mTOR-Aktivierung im Gewebe postinfektiöser Patientenkohorten weiterhin aus.'

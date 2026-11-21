@@ -1,0 +1,20 @@
+id: 2026-07-10_narrative-review-advocates-for-biomarker-guided-patient-stratifi
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Kaplan 2026, PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/42391726/
+  kind: paper
+en:
+  title: Narrative review advocates for biomarker-guided patient stratification in trials
+  plain_summary: A narrative review argued that immune-targeting treatments like plasma exchange or IVIG fail in broad trials because only patients with specific immune markers might respond. As an opinion-style synthesis with no new clinical trial data, this hypothesis still needs to be tested in rigorous placebo-controlled trials.
+  detail: A narrative review by Dr. Gary Kaplan synthesized research on shared immunological dysregulation—including chronic inflammation, GPCR autoantibodies, and cellular dysfunction—across post-infectious syndromes such as ME/CFS, Long COVID, PTLDS, and PANS/PANDAS. The author evaluated immunomodulatory therapies including intravenous immunoglobulin (IVIG), rituximab, and therapeutic plasma exchange (TPE). A key focus of the review is that trials using unselected patient populations, such as the RituxME phase III study and certain post-COVID TPE trials, are prone to failure because broad cohort definitions mask subpopulation efficacy. Kaplan argued that future trials must utilize biomarker-guided patient stratification, such as immunologic phenotyping and autoantibody screening, to restrict these invasive therapies to patients with documented immunological abnormalities. However, as a narrative review, this work does not present new primary clinical data. The review also notes that high-risk
+    interventions like TPE, IVIG, and rituximab carry serious safety risks, and there remains a lack of randomized, double-blind, placebo-controlled trials validating this biomarker-guided approach.
+de:
+  title: Narrativer Überblick plädiert für biomarkergesteuerte Patientenstratifizierung in Studien
+  plain_summary: Eine Übersichtsarbeit argumentiert, dass immunmodulierende Therapien wie Plasmaaustausch oder IVIG in breiten Studien scheitern könnten, weil möglicherweise nur Untergruppen mit klaren Immunmarkern ansprechen. Da der Beitrag keine neuen Studiendaten liefert, muss diese Hypothese erst in kontrollierten klinischen Studien geprüft werden.
+  detail: Eine narrative Übersichtsarbeit von Dr. Gary Kaplan fasste Forschung zu gemeinsamen immunologischen Fehlregulationen – darunter chronische Entzündung, GPCR-Autoantikörper und zelluläre Funktionsstörungen – bei postinfektiösen Syndromen wie ME/CFS, Long COVID, PTLDS und PANS/PANDAS zusammen. Der Autor bewertete immunmodulierende Therapien wie intravenöse Immunglobuline (IVIG), Rituximab und therapeutischen Plasmaaustausch (TPE). Ein Kerngedanke der Arbeit ist, dass Studien mit unselektierten Patientenpopulationen, wie die Phase-III-Studie RituxME und bestimmte Post-COVID-TPE-Studien, anfällig für ein Scheitern sind, weil breite Kohorten eine Wirksamkeit in Teilgruppen verdecken können. Kaplan plädierte dafür, künftige Studien mittels biomarkergesteuerter Stratifizierung – etwa Immunphänotypisierung und Autoantikörper-Screening – auf Patientinnen und Patienten mit belegten immunologischen Auffälligkeiten zu begrenzen. Als narrative Übersicht präsentiert die Arbeit jedoch keine neuen
+    Primärdaten, weist selbst auf erhebliche Sicherheitsrisiken von TPE, IVIG und Rituximab hin und vermerkt das Fehlen randomisierter, doppelt verblindeter, placebokontrollierter Studien zur Validierung dieses Ansatzes.

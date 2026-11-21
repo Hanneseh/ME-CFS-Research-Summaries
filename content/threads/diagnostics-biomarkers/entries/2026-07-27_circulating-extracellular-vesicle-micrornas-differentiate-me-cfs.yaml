@@ -1,0 +1,20 @@
+id: 2026-07-27_circulating-extracellular-vesicle-micrornas-differentiate-me-cfs
+date: '2026-07-27'
+date_display: '2026-07-27'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Zhang et al. 2026, Journal of Translational Medicine
+  url: https://pubmed.ncbi.nlm.nih.gov/42533331/
+  kind: paper
+en:
+  title: Circulating extracellular vesicle microRNAs differentiate ME/CFS from non-ME/CFS fatigue controls
+  plain_summary: A study found that microRNAs inside tiny blood vesicles separated ME/CFS patients not only from healthy people, but also from people with other chronic fatigue conditions. Because isolating these vesicles requires specialized lab gear, larger multi-center trials are needed before a routine test is possible.
+  detail: A peer-reviewed case-control study in the *Journal of Translational Medicine* evaluated circulating extracellular vesicle (EV) microRNA profiles as potential diagnostic biomarkers for ME/CFS. Isolating plasma EVs, the researchers identified distinct EV-microRNA expression signatures that separated ME/CFS patients not only from healthy controls but also from non-ME/CFS chronic fatigue comparison groups. The specific microRNA cargo implicates systemic extracellular vesicle transport in persistent inflammatory signaling cascades and immune cell communication. Achieving high diagnostic discrimination against disease-matched fatiguing controls addresses a key historical hurdle in ME/CFS biomarker development, where non-specific fatigue controls often blur diagnostic boundaries. However, EV isolation protocols currently require specialized, resource-intensive laboratory infrastructure, and the candidate microRNA panel requires prospective validation in larger multi-center cohorts before
+    clinical adoption. If replicated, this EV microRNA signature could support the development of a non-invasive, blood-based diagnostic assay capable of objective patient classification.
+de:
+  title: Zirkulierende microRNAs aus extrazellulären Vesikeln unterscheiden ME/CFS von anderen Fatigue-Kontrollen
+  plain_summary: Eine Studie fand microRNA-Muster in winzigen Blutvesikeln, die ME/CFS-Betroffene nicht nur von Gesunden, sondern auch von Menschen mit anderen chronischen Erschöpfungszuständen unterschieden. Da die Aufbereitung dieser Vesikel aufwendige Labortechnik erfordert, sind größere multizentrische Studien nötig, bevor ein Routinetest denkbar wird.
+  detail: Eine begutachtete Fall-Kontroll-Studie im *Journal of Translational Medicine* untersuchte microRNA-Profile zirkulierender extrazellulärer Vesikel (EV) als mögliche diagnostische Biomarker für ME/CFS. Nach Isolierung der Plasma-EVs identifizierten die Forschenden spezifische EV-microRNA-Expressionssignaturen, die ME/CFS-Betroffene nicht nur von gesunden Kontrollen, sondern auch von Vergleichsgruppen mit nicht-ME/CFS-bedingter chronischer Fatigue trennten. Die untersuchte microRNA-Fracht verweist auf eine Beteiligung des systemischen Vesikeltransports an anhaltenden Entzündungskaskaden und der Kommunikation zwischen Immunzellen. Eine hohe Trennschärfe gegenüber krankheitsbezogenen Fatigue-Kontrollen adressiert eine wichtige Hürde der bisherigen Biomarker-Forschung, in der unspezifische Erschöpfungsgruppen diagnostische Grenzen oft verwischen. Allerdings erfordern EV-Isolierungsprotokolle derzeit eine spezialisierte, ressourcenintensive Laborinfrastruktur, und das Kandidaten-Panel
+    muss vor einer klinischen Übernahme prospektiv in größeren multizentrischen Kohorten validiert werden.

@@ -1,0 +1,20 @@
+id: 2026-06-28_review-reframes-me-cfs-as-a-post-infectious
+date: '2026-06-28'
+date_display: '2026-06-28'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Watton & Prusty 2026, Journal of Translational Medicine
+  url: https://pubmed.ncbi.nlm.nih.gov/42174604/
+  kind: paper
+en:
+  title: Review reframes ME/CFS as a post-infectious disorder of impaired adaptive capacity and state-dependent pathology
+  plain_summary: A systems-biology review proposed viewing ME/CFS and Long COVID as a failure to adapt to physical or upright stress, driven by partial herpesvirus reactivation, clotting-immune feedback, and blood-vessel dysfunction. As a theoretical synthesis, it pulls existing clues into a unified model rather than presenting new patient data.
+  detail: 'In a systems biology review published in the _Journal of Translational Medicine_, researchers Paul Watton and Bhupesh K. Prusty proposed a unified mechanistic model of ME/CFS and Long COVID. The paper shifts the focus from behavioral frameworks to post-infectious biology, reframing ME/CFS as a disorder of impaired adaptive capacity. Key aspects of the model include: (1) abortive lytic reactivation of herpesviruses (e.g., HHV-6, EBV) where viral proteins like dUTPase sustain chronic inflammatory signaling without active lytic replication; (2) directionally discordant fibronectin biology, driving thrombo-inflammatory feedback and platelet/mast cell activation; (3) IgG-mediated entry into endothelial cells inducing mitochondrial fragmentation; and (4) state-dependent endothelial and systemic pathology, showing that cellular dysfunction in ME/CFS is quiescent at rest but revealed under exertional or orthostatic stress. As a narrative review, it synthesizes existing literature and
+    proposes a theoretical framework rather than presenting new primary patient data, and these suggested pathways require further validation in larger, sex-stratified patient cohorts.'
+de:
+  title: Übersichtsarbeit deutet ME/CFS als postinfektiöse Störung eingeschränkter Anpassungsfähigkeit und zustandsabhängiger Pathologie
+  plain_summary: Eine systembiologische Übersichtsarbeit schlägt vor, ME/CFS und Long COVID als Störung der Anpassungsfähigkeit an Belastung zu verstehen – angetrieben durch Teil-Reaktivierung von Herpesviren, Gerinnungs-Immun-Schleifen und Gefäßfunktionsstörungen. Als theoretische Synthese ordnet sie bestehende Befunde zu einem Gesamtmodell, liefert aber keine neuen Patientendaten.
+  detail: 'In einer systembiologischen Übersichtsarbeit im *Journal of Translational Medicine* entwarfen Paul Watton und Bhupesh K. Prusty ein einheitliches mechanistisches Modell für ME/CFS und Long COVID. Der Beitrag rückt von verhaltensbezogenen Erklärungsansätzen ab und deutet ME/CFS als postinfektiöse Störung eingeschränkter Anpassungsfähigkeit. Kernpunkte des Modells sind: (1) eine abortive lytische Reaktivierung von Herpesviren (z. B. HHV-6, EBV), bei der Virusproteine wie dUTPase chronische Entzündungssignale ohne vollständige Virusvermehrung unterhalten; (2) gegensinnig verschobene Fibronektin-Biologie, die thrombo-entzündliche Rückkopplungen sowie Thrombozyten- und Mastzellaktivierung fördert; (3) IgG-vermitteltes Eindringen in Endothelzellen mit mitochondrialer Fragmentierung; sowie (4) eine zustandsabhängige Gefäß- und Systempathologie, die in Ruhe unauffällig wirkt und erst unter körperlicher oder orthostatischer Belastung hervortritt. Als narrative Übersichtsarbeit bündelt
+    der Artikel vorhandene Literatur zu einem theoretischen Rahmen ohne neue Primärdaten, sodass die vorgeschlagenen Pfade in größeren, geschlechtsstratifizierten Kohorten geprüft werden müssen.'

@@ -1,0 +1,19 @@
+id: 2025-05-31_open-label-pilot-generates-the-initial-signal
+date: '2025-05-31'
+date_display: Before 2025-06-01
+date_precision: before
+source_type: paper
+study_design: null
+sources:
+- label: Fluge et al. 2025, Frontiers in Medicine
+  url: https://doi.org/10.3389/fmed.2025.1607353
+  kind: paper
+en:
+  title: Open-label pilot generates the initial signal
+  plain_summary: In a small open-label pilot of ten women with ME/CFS, six showed noticeable symptom improvement after receiving the antibody drug daratumumab. Because there was no placebo comparison group, this early signal cannot prove the drug works, though it supports testing the idea in a larger controlled trial.
+  detail: The Bergen group conducted an open-label daratumumab pilot in ten female ME/CFS patients, reporting that six participants achieved marked and sustained clinical improvement with physical function scores rising from an average of 32.2 to 78.3. This clinical signal suggested that targeting CD38 on long-lived plasma cells could deplete autoantibody-producing cells that are unaffected by standard B-cell therapies like rituximab, pointing toward a possible autoimmune subgroup. However, due to the small, open-label, and all-female cohort, the study cannot distinguish the drug's therapeutic effect from placebo responses, regression to the mean, or selection effects, and the association between baseline Natural Killer (NK) cells and clinical response remains an unvalidated stratifying hypothesis rather than a proven biomarker.
+de:
+  title: Offene Pilotstudie liefert erstes klinisches Signal
+  plain_summary: In einer kleinen offenen Pilotstudie mit zehn Frauen mit ME/CFS zeigten sechs Teilnehmerinnen nach der Behandlung mit dem Antikörper Daratumumab eine deutliche Besserung. Da eine Placebogruppe fehlte, beweist dieses frühe Signal noch keine Wirksamkeit, stützt aber die Prüfung in einer größeren kontrollierten Studie.
+  detail: Die Arbeitsgruppe aus Bergen führte eine offene Pilotstudie mit Daratumumab bei zehn weiblichen ME/CFS-Patientinnen durch und berichtete, dass sechs Teilnehmerinnen eine deutliche und anhaltende klinische Besserung erreichten, wobei die Werte für die körperliche Funktionsfähigkeit im Schnitt von 32,2 auf 78,3 stiegen. Dieses klinische Signal deutete darauf hin, dass ein Angriff auf CD38 auf langlebigen Plasmazellen autoantikörperproduzierende Zellen beseitigen könnte, die von klassischen B-Zell-Therapien wie Rituximab nicht erreicht werden – ein Hinweis auf eine mögliche autoimmune Untergruppe. Aufgrund der kleinen, unverblindeten und rein weiblichen Kohorte lässt sich jedoch nicht unterscheiden, ob die beobachtete Besserung auf den Wirkstoff, auf Placeboeffekte, eine Regression zur Mitte oder Selektionseffekte zurückgeht; auch der Zusammenhang zwischen den Ausgangswerten der Natürlichen Killerzellen (NK-Zellen) und dem Ansprechen bleibt vorerst eine unbestätigte Stratifizierungshypothese
+    und kein belegter Biomarker.

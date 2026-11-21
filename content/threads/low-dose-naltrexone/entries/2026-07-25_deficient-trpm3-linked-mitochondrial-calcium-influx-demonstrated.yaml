@@ -1,0 +1,19 @@
+id: 2026-07-25_deficient-trpm3-linked-mitochondrial-calcium-influx-demonstrated
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'PubMed: PMID 42177403'
+  url: https://pubmed.ncbi.nlm.nih.gov/42177403/
+  kind: paper
+en:
+  title: Deficient TRPM3-linked mitochondrial calcium influx demonstrated in ME/CFS natural killer cells
+  plain_summary: An in vitro lab study showed that impaired TRPM3 channel activity reduces calcium entry into the mitochondria of immune cells isolated from ME/CFS patients. This reinforces the biological rationale behind LDN research, but cell-dish experiments cannot show whether taking LDN improves patients' symptoms.
+  detail: An in vitro physiological study examined natural killer (NK) cells isolated from ME/CFS patients compared to healthy controls, focusing on TRPM3-dependent calcium ($Ca^{2+}$) dynamics. The researchers demonstrated that impaired TRPM3 ion channel activity directly compromises mitochondrial calcium influx in ME/CFS NK cells. This finding links cell-surface ion channel dysfunction directly to downstream mitochondrial bioenergetic failure and impaired immune cell function in ME/CFS. For patient relevance, it reinforces the biological rationale for therapies targeting TRPM3 channel activity, such as low-dose naltrexone. However, as an in vitro cellular assay, the study does not evaluate clinical treatment outcomes or establish in vivo efficacy. Although TRPM3 mechanism studies provide the biological foundation for low-dose naltrexone, these cellular findings describe basic ion channel pathology without proving that low-dose naltrexone provides clinical benefit.
+de:
+  title: Mangelhafter TRPM3-gekoppelter mitochondrialer Kalziumeinstrom in ME/CFS-NK-Zellen gezeigt
+  plain_summary: Eine In-vitro-Laborstudie zeigte, dass eine eingeschränkte TRPM3-Kanalaktivität den Kalziumeintritt in die Mitochondrien isolierter Immunzellen von ME/CFS-Betroffenen vermindert. Das stützt zwar die biologische Begründung für LDN, doch Zellversuche belegen nicht, ob das Medikament beim Menschen Symptome bessert.
+  detail: 'Eine physiologische In-vitro-Studie untersuchte natürliche Killerzellen (NK-Zellen) von ME/CFS-Patientinnen und -Patienten im Vergleich zu gesunden Kontrollen mit Schwerpunkt auf TRPM3-abhängigen Kalzium-($Ca^{2+}$)-Dynamiken. Die Forschenden zeigten, dass eine gestörte TRPM3-Ionenkanalaktivität den mitochondrialen Kalziumeinstrom in ME/CFS-NK-Zellen direkt beeinträchtigt. Dieser Befund verknüpft eine Fehlfunktion eines Zelloberflächen-Ionenkanals unmittelbar mit nachgeschaltetem mitochondrialem Energieversagen und eingeschränkter Immunzellfunktion bei ME/CFS. Für die Forschung stützt dies die biologische Rationale von Therapien, die auf die TRPM3-Aktivität abzielen, wie etwa niedrigdosiertes Naltrexon. Als zellulärer In-vitro-Assay bewertet die Studie jedoch keine klinischen Behandlungsergebnisse und belegt keine Wirksamkeit im Körper: Auch wenn mechanistische TRPM3-Studien das biologische Fundament für LDN liefern, beschreiben diese Zellbefunde grundlegende Ionenkanal-Pathologie,
+    ohne einen klinischen Nutzen von LDN zu beweisen.'

@@ -1,0 +1,23 @@
+id: 2026-09-16_fcrn-blocker-rozanolixizumab-shows-no-broad-efficacy-in
+date: '2026-09-16'
+date_display: '2026-09-16'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: 'Efficacy and safety of rozanolixizumab in severe fibromyalgia: a phase 2A randomised trial (The Lancet Rheumatology 2026)'
+  url: https://doi.org/10.1016/S2665-9913(26)00252-3
+  kind: paper
+- label: 'ClinicalTrials.gov Registry: NCT05643794'
+  url: https://clinicaltrials.gov/study/NCT05643794
+  kind: registry
+en:
+  title: FcRn blocker rozanolixizumab shows no broad efficacy in a severe-fibromyalgia phase 2a RCT
+  plain_summary: In a 63-person placebo-controlled trial for severe fibromyalgia, the antibody-lowering drug rozanolixizumab failed to show broad pain relief on standard statistical testing. This study tested fibromyalgia rather than ME/CFS, suggesting that lowering all IgG antibodies in unselected patients may not reliably improve pain even when antibodies are suspected.
+  detail: This adjacent-disease trial tested unselected IgG lowering; it is not ME/CFS treatment evidence. In a UCB-funded phase 2a, double-blind, placebo-controlled trial in *The Lancet Rheumatology* (NCT05643794), 63 adults with fibromyalgia, classed as severe by pain and pain-interference scores, were randomized 1:1:1. The arms were weekly subcutaneous rozanolixizumab 560 mg for 24 weeks, placebo followed by rozanolixizumab, or placebo throughout. At week 12, the BPI-SF interference difference was -0.5 (80% CI -1.0 to -0.1; p=0.065). This met the prespecified one-sided 10% threshold but not a two-sided 5% test (95% CI -1.2 to 0.2; p=0.13). The authors concluded there was no broad efficacy. Patients were not selected for pathogenic autoantibodies, even though IgG passive-transfer pain data have been published in fibromyalgia. It adds adjacent-disease evidence that a compelling antibody rationale need not translate into clinically meaningful benefit in an unselected population. It neither
+    establishes nor refutes an IgG mechanism in ME/CFS. No serious treatment-emergent adverse events were reported during active dosing. Weekly site-based dosing is burdensome, and functional severity and bedbound status were not reported.
+de:
+  title: FcRn-Blocker Rozanolixizumab zeigt keine breite Wirksamkeit in Phase-2a-RCT bei schwerer Fibromyalgie
+  plain_summary: In einer placebokontrollierten Studie mit 63 Menschen mit schwerer Fibromyalgie zeigte der Antikörper-senkende Wirkstoff Rozanolixizumab in der Standardauswertung keine breite Schmerzlinderung. Die Untersuchung betraf Fibromyalgie und nicht ME/CFS, legt aber nahe, dass eine pauschale IgG-Absenkung bei unselektierten Gruppen möglicherweise nicht ausreicht.
+  detail: 'Diese Studie an einer benachbarten Erkrankung prüfte eine unselektive IgG-Absenkung und stellt keine Behandlungsevidenz für ME/CFS dar. In einer von UCB finanzierten, doppelt verblindeten, placebokontrollierten Phase-2a-Studie in *The Lancet Rheumatology* (NCT05643794) wurden 63 Erwachsene mit Fibromyalgie (nach Schmerz- und Beeinträchtigungsscores als schwer eingestuft) 1:1:1 randomisiert: wöchentlich 560 mg subkutanes Rozanolixizumab über 24 Wochen, Placebo gefolgt von Rozanolixizumab oder durchgehend Placebo. In Woche 12 betrug die Differenz der BPI-SF-Schmerzbeeinträchtigung -0,5 (80-%-KI -1,0 bis -0,1; p=0,065). Dies erfüllte die vorab festgelegte einseitige 10-%-Schwelle, nicht jedoch einen zweiseitigen 5-%-Test (95-%-KI -1,2 bis 0,2; p=0,13). Die Autorinnen und Autoren schlossen auf keine breite Wirksamkeit. Teilnehmende wurden nicht auf pathogene Autoantikörper vorselektiert, obwohl bei Fibromyalgie Daten zur Schmerzübertragung durch IgG veröffentlicht wurden. Dies liefert
+    benachbarte Evidenz dafür, dass eine plausible Antikörper-Hypothese in einer unselektierten Population nicht zwingend zu klinisch bedeutsamem Nutzen führt; es beweist noch widerlegt aber keinen IgG-Mechanismus bei ME/CFS. Während der aktiven Gabe wurden keine schweren unerwünschten Ereignisse berichtet; wöchentliche Praxisgaben sind belastend, und funktioneller Schweregrad sowie Bettlägerigkeit wurden nicht angegeben.'

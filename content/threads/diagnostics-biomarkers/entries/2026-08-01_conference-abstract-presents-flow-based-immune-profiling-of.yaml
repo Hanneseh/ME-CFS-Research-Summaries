@@ -1,0 +1,20 @@
+id: 2026-08-01_conference-abstract-presents-flow-based-immune-profiling-of
+date: '2026-08-01'
+date_display: '2026-08-01'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: Kremer et al. 2026, The Journal of Immunology
+  url: https://doi.org/10.1093/jimmun/vkag141.942
+  kind: paper
+en:
+  title: Conference abstract presents FLow-based Immune Profiling of multi-isotype antibody signatures in Long COVID and post-treatment Lyme
+  plain_summary: A conference abstract introduced a detailed blood-antibody profiling method that spotted different antibody patterns in people with persistent Long COVID or post-treatment Lyme symptoms compared with those who recovered. Because it is only a brief abstract without full metrics or an ME/CFS group, its diagnostic value remains unknown.
+  detail: A conference abstract published in a *Journal of Immunology* supplement from the American Association of Immunologists meeting introduced FLow-based Immune Profiling (FLIP) for multidimensional serological profiling across post-infectious cohorts. Researchers applied the high-parameter multiplexed flow cytometry platform to evaluate pathogen-specific and surface-bound antibodies across major isotypes (IgD, IgM, IgA, IgE) and IgG subclasses (IgG1–4) in plasma from the RECOVER Long COVID cohort and the MAESTRO Post-Treatment Lyme Disease Syndrome (PTLDS) cohort. The platform identified distinct ratiometric antibody signatures that differentiated individuals experiencing persistent chronic symptoms from those who had fully recovered, revealing divergent humoral trajectories across infection-associated conditions. Because this source is a preliminary conference abstract rather than a full peer-reviewed paper, detailed analytical methodology, cohort breakdown tables, and diagnostic
+    ROC/AUC performance metrics are omitted. The study evaluated broad Long COVID and PTLDS cohorts without a dedicated Canadian Consensus Criteria ME/CFS arm, and the findings require prospective replication before high-parameter flow-based serology can be evaluated as a diagnostic tool. While standard blood draws pose minimal physical burden for patients, the assay currently requires specialized laboratory instrumentation.
+de:
+  title: Konferenz-Abstract stellt durchflusszytometrische Immunprofilierung von Antikörper-Signaturen bei Long COVID und PTLDS vor
+  plain_summary: Ein Konferenz-Abstract stellte ein detailliertes Verfahren zur Antikörper-Profilierung vor, das bei anhaltenden Beschwerden nach COVID-19 oder Borreliose andere Antikörper-Muster fand als bei Genesenen. Da es sich nur um eine kurze Tagungszusammenfassung ohne vollständige Gütewerte oder eine ME/CFS-Gruppe handelt, ist der diagnostische Nutzen noch unklar.
+  detail: Ein im Supplement des *Journal of Immunology* veröffentlichtes Konferenz-Abstract der Jahrestagung der American Association of Immunologists stellte FLow-based Immune Profiling (FLIP) zur mehrdimensionalen serologischen Charakterisierung postinfektiöser Kohorten vor. Die Forschenden nutzten die hochparametrische Multiplex-Durchflusszytometrie, um erregerspezifische und oberflächengebundene Antikörper über die Hauptisotypen (IgD, IgM, IgA, IgE) und IgG-Subklassen (IgG1–4) im Plasma der RECOVER-Long-COVID-Kohorte sowie der MAESTRO-Post-Treatment-Lyme-Disease-Syndrome-(PTLDS)-Kohorte zu messen. Die Plattform identifizierte verhältnisbasierte Antikörper-Signaturen, die Personen mit anhaltenden chronischen Beschwerden von vollständig Genesenen unterschieden und abweichende humorale Verläufe zwischen infektionsassoziierten Erkrankungen zeigten. Da es sich um ein vorläufiges Konferenz-Abstract statt einer vollständigen begutachteten Arbeit handelt, fehlen detaillierte Analysen, Kohortentabellen
+    und ROC/AUC-Kennzahlen; zudem wurde keine nach Kanadischen Konsenskriterien definierte ME/CFS-Gruppe geprüft.

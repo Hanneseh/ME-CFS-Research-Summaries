@@ -1,0 +1,20 @@
+id: 2026-07-28_psyloco-rct-finds-no-efficacy-of-psychotherapeutic-group
+date: '2026-07-28'
+date_display: '2026-07-28'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: 'Efficacy of a psychotherapeutic group intervention for patients with Post-COVID-19 condition: a randomized controlled trial (PsyLoCo study) (PubMed 2026)'
+  url: https://pubmed.ncbi.nlm.nih.gov/42487142/
+  kind: paper
+en:
+  title: PsyLoCo RCT finds no efficacy of psychotherapeutic group intervention for Post-COVID-19 condition
+  plain_summary: In the randomized PsyLoCo trial of 48 Long COVID patients, 10 group psychotherapy sessions did not significantly reduce physical symptom burden, depression, or anxiety compared to usual care. This small trial adds to evidence that psychological group therapy alone does not resolve core physical post-viral symptoms.
+  detail: The PsyLoCo randomized waitlist-controlled trial (n=48, pre-registered DRKS00040598/OSF osf.io/tdn38) evaluated 10 bi-weekly manual-guided group psychotherapeutic sessions—combining psychoeducation, somatic symptom processing, and emotional regulation training—against treatment as usual (TAU) in an outpatient psychosomatic setting for patients with Post-COVID-19 condition. The primary outcome (somatic symptom burden, SSS-8; p=0.091) and secondary outcomes (depression PHQ-9, p=0.251; anxiety GAD-7, p=0.588) showed no statistically significant superiority of the group psychotherapy intervention over TAU. The trial's small sample size (n=48) limited statistical power to detect small effects, and the waitlist-controlled design cannot fully account for non-specific therapeutic contact effects. These null findings are consistent with a growing body of evidence indicating that core physical post-viral symptom burden does not respond to psychotherapeutic interventions alone, though supportive
+    psychological care may still address coping and quality of life. The study was conducted in a Post-COVID-19 condition cohort and does not directly assess efficacy in classic ME/CFS populations meeting post-exertional malaise criteria.
+de:
+  title: PsyLoCo-RCT findet keine Wirksamkeit einer psychotherapeutischen Gruppenintervention beim Post-COVID-19-Syndrom
+  plain_summary: In der randomisierten PsyLoCo-Studie mit 48 Long-COVID-Betroffenen senkten 10 psychotherapeutische Gruppensitzungen weder körperliche Symptomlast noch Depression oder Angst signifikant gegenüber der Regelversorgung. Diese kleine Studie stützt Befunde, wonach psychotherapeutische Gruppenangebote allein die körperlichen Kernsymptome postviraler Erkrankungen nicht beheben.
+  detail: Die randomisierte Wartelisten-kontrollierte PsyLoCo-Studie (n=48, vorregistriert DRKS00040598 / OSF osf.io/tdn38) prüfte 10 zweiwöchentliche manualisierte psychotherapeutische Gruppensitzungen – bestehend aus Psychoedukation, somatischer Symptomverarbeitung und Emotionsregulation – gegenüber der Regelversorgung (TAU) in einem psychosomatischen Ambulanz-Setting bei Patientinnen und Patienten mit Post-COVID-19-Syndrom. Weder der primäre Endpunkt (somatische Symptomlast, SSS-8; p=0,091) noch die sekundären Endpunkte (Depression PHQ-9, p=0,251; Angst GAD-7, p=0,588) zeigten eine statistisch signifikante Überlegenheit der Gruppenpsychotherapie gegenüber TAU. Die geringe Fallzahl (n=48) begrenzte die statistische Power für kleine Effekte, und das Wartelisten-Kontrolldesign bildet unspezifische Kontakteffekte nur eingeschränkt ab. Dennoch reihen sich diese Null-Ergebnisse in wachsende Evidenz ein, wonach die körperliche Kernsymptomlast nach Virusinfekten nicht allein auf Psychotherapie
+    anspricht, auch wenn unterstützende psychologische Begleitung bei Krankheitsbewältigung und Lebensqualität helfen kann; zudem wurde die Studie an einer Post-COVID-Kohorte und nicht an klassischem PEM-definiertem ME/CFS durchgeführt.

@@ -1,0 +1,20 @@
+id: 2026-04-21_peer-reviewed-decodeme-combinatorial-analysis-identifies-22-411
+date: '2026-04-21'
+date_display: '2026-04-21'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: PubMed 2026
+  url: https://pubmed.ncbi.nlm.nih.gov/42015188
+  kind: paper
+en:
+  title: Peer-reviewed DecodeME combinatorial analysis identifies 22,411 disease signatures and Long COVID overlap
+  plain_summary: Now published in a peer-reviewed journal, this re-analysis of DecodeME DNA found over 22,000 multi-gene combinations tied to nerve, stress, and calcium pathways, with 76 genes overlapping Long COVID. Because it relies on a proprietary computer method, independent labs still need to confirm these patterns and test how they work biologically.
+  detail: A genomic association study using combinatorial analytics (PrecisionLife platform) analyzed genetic data from the DecodeME cohort compared to UK Biobank controls and was published in peer-reviewed format. The study identified 22,411 reproducible combinatorial disease signatures (multi-SNP genotypes of 1–4 SNPs) involving 7,555 unique SNPs across 2,311 genes associated with ME/CFS susceptibility. It highlighted 259 "core genes" enriched in ME/CFS patients that map to neurological dysregulation, cellular stress, and calcium signaling pathways. The analysis also demonstrated genetic overlap with Long COVID, finding that 76 associated genes were shared between the cohorts. Although this combinatorial approach offers higher sensitivity than single-variant GWAS, it relies on a proprietary methodology that limits independent replication. Furthermore, the use of external UK Biobank controls introduces potential population stratification biases, and these genetic associations do not establish
+    causal biological mechanisms without functional validation.
+de:
+  title: Begutachtete DecodeME-Kombinationsanalyse bestätigt 22.411 Krankheitssignaturen und Long-COVID-Überschneidung
+  plain_summary: Die nun im Peer-Review veröffentlichte Re-Analyse der DecodeME-Daten bestätigt über 22.000 Gen-Kombinationen rund um Nerven-, Stress- und Kalziumsignalwege sowie 76 Überschneidungen mit Long COVID. Da eine proprietäre Auswertungssoftware genutzt wurde, müssen unabhängige Gruppen die Muster erst noch nachprüfen und biologisch belegen.
+  detail: Eine genomische Assoziationsstudie mit kombinatorischer Analytik (PrecisionLife-Plattform) wertete genetische Daten der DecodeME-Kohorte im Vergleich zu UK-Biobank-Kontrollen aus und wurde begutachtet veröffentlicht. Sie identifizierte 22.411 reproduzierbare kombinatorische Krankheitssignaturen (Multi-SNP-Genotypen aus 1–4 SNPs) mit 7.555 einzelnen SNPs in 2.311 mit ME/CFS-Empfänglichkeit assoziierten Genen. Besonders hervorgehoben wurden 259 „Kerngene“, die Signalwegen der neurologischen Fehlregulation, des Zellstresses und der Kalzium-Signalgebung zugeordnet sind. Zudem zeigte sich eine genetische Überschneidung mit Long COVID von 76 gemeinsam assoziierten Genen. Obwohl dieser kombinatorische Ansatz empfindlicher ist als Einzelvarianten-GWAS, beruht er auf einer proprietären Methodik, was unabhängige Replikationen erschwert; zudem bringt die Nutzung externer UK-Biobank-Kontrollen mögliche Populationsschichtungs-Verzerrungen mit sich, und genetische Assoziationen belegen ohne
+    funktionelle Validierung noch keine kausalen Mechanismen.

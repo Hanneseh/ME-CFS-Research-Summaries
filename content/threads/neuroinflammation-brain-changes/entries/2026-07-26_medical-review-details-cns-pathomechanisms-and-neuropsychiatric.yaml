@@ -1,0 +1,18 @@
+id: 2026-07-26_medical-review-details-cns-pathomechanisms-and-neuropsychiatric
+date: '2026-07-26'
+date_display: '2026-07-26'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Thieme Medical Review 2026, Thieme Connect
+  url: https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2576-5347
+  kind: paper
+en:
+  title: Medical review details CNS pathomechanisms and neuropsychiatric features of Long/Post-COVID syndrome
+  plain_summary: A German medical review summarizes how brain inflammation, blood-flow changes, and microstructural shifts may contribute to neurological symptoms in Long COVID, along with diagnostic pointers for doctors. Because it summarizes existing papers, it provides clinical orientation rather than new patient study data.
+  detail: A comprehensive German medical review published in *Thieme Connect eJournals* synthesized the neuropsychiatric and neuroimmunological manifestations of Long/Post-COVID syndrome. The article details central nervous system pathways, neuroinflammation, microstructural brain changes, cognitive deficits, and differential diagnostic strategies for clinical management. It provides structured guidance for clinicians evaluating central nervous system and cognitive symptoms in post-viral patients. However, the publication represents a narrative clinical review summarizing existing literature rather than presenting novel empirical trial or cohort data. Additionally, it focuses on the European clinical practice context and German healthcare framework.
+de:
+  title: Medizinische Übersichtsarbeit erläutert ZNS-Pathomechanismen und neuropsychiatrische Merkmale des Long-/Post-COVID-Syndroms
+  plain_summary: Eine deutschsprachige medizinische Übersichtsarbeit fasst zusammen, wie Hirnentzündung, Durchblutungs- und Mikrostrukturveränderungen zu neurologischen Post-COVID-Beschwerden beitragen können, und gibt Hinweise zur Abgrenzungsdiagnostik. Als Literaturübersicht bietet sie ärztliche Orientierung, liefert aber keine neuen eigenen Studiendaten.
+  detail: Eine umfassende deutschsprachige medizinische Übersichtsarbeit, veröffentlicht in *Thieme Connect eJournals*, fasste die neuropsychiatrischen und neuroimmunologischen Manifestationen des Long-/Post-COVID-Syndroms zusammen. Der Artikel beschreibt Signalwege im zentralen Nervensystem, Neuroinflammation, mikrostrukturelle Gehirnveränderungen, kognitive Defizite sowie differenzialdiagnostische Strategien für das klinische Management. Er bietet Ärztinnen und Ärzten eine strukturierte Orientierung bei der Beurteilung zentralnervöser und kognitiver Symptome bei postviralen Patientinnen und Patienten. Die Publikation stellt jedoch eine narrative klinische Übersichtsarbeit über bestehende Literatur dar und präsentiert keine neuen empirischen Studien- oder Kohortendaten. Zudem konzentriert sie sich auf den europäischen klinischen Versorgungskontext und das deutsche Gesundheitssystem.

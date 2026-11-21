@@ -1,0 +1,20 @@
+id: 2022-05-15_pyridostigmine-trial-identifies-preload-failure-mechanism-and-ac
+date: '2022-05-15'
+date_display: '2022-05-15'
+date_precision: exact
+source_type: paper
+study_design: RCT
+sources:
+- label: Stovall et al. 2022, American Journal of Respiratory and Critical Care Medicine
+  url: https://doi.org/10.1164/ajrccm-conference.2022.205.1_MeetingAbstracts.A2063
+  kind: paper
+en:
+  title: Pyridostigmine trial identifies preload failure mechanism and acute exercise improvement
+  plain_summary: In a small placebo-controlled trial of 39 women with ME/CFS, a single dose of pyridostigmine briefly improved oxygen uptake and heart filling pressures during exercise testing. While this highlights blood-flow regulation as a biological factor in exercise intolerance, a one-time dose does not prove that daily pyridostigmine safely improves everyday symptoms.
+  detail: A randomized, placebo-controlled clinical trial of 39 female patients with ME/CFS showed that a single 60 mg dose of the acetylcholinesterase inhibitor pyridostigmine acutely increased peak oxygen consumption (VO₂ peak) and improved cardiac filling pressures during a second invasive cardiopulmonary exercise test (iCPET). This study provides physiological evidence that impaired vascular regulation (preload failure) is a key driver of exertional intolerance in ME/CFS, indicating that acetylcholinesterase inhibition can partially correct this deficit. Furthermore, the worsening of filling pressures in the placebo group during back-to-back testing offers an objective, physiological demonstration of post-exertional malaise. However, the study evaluated only the acute, immediate effects of a single dose, leaving it unproven whether daily oral use of pyridostigmine provides long-term functional improvement or safe symptom control. The findings also do not clarify if the drug's benefits
+    are restricted to patients with confirmed small fiber neuropathy.
+de:
+  title: Pyridostigmin-Studie identifiziert Preload-Failure-Mechanismus und akute Belastungsbesserung
+  plain_summary: In einer kleinen placebokontrollierten Studie mit 39 ME/CFS-Patientinnen verbesserte eine Einzeldosis Pyridostigmin kurzfristig Sauerstoffaufnahme und Herzfüllungsdrücke beim Belastungstest. Das weist zwar auf gestörte Gefäßregulation als Faktor bei Belastungsintoleranz hin, beweist aber nicht, dass eine tägliche Einnahme im Alltag sicher hilft.
+  detail: Eine randomisierte, placebokontrollierte klinische Studie an 39 weiblichen ME/CFS-Patientinnen zeigte, dass eine einmalige Dosis von 60 mg des Acetylcholinesterase-Hemmers Pyridostigmin während einer zweiten invasiven Spiroergometrie (iCPET) akut die maximale Sauerstoffaufnahme (VO₂ peak) steigerte und die Herzfüllungsdrücke verbesserte. Diese Untersuchung liefert physiologische Evidenz dafür, dass eine gestörte Gefäßregulation (Preload-Failure) ein wesentlicher Treiber der Belastungsintoleranz bei ME/CFS ist, und deutet darauf hin, dass eine Acetylcholinesterase-Hemmung dieses Defizit teilweise ausgleichen kann. Zudem lieferte die Verschlechterung der Füllungsdrücke in der Placebogruppe bei zwei aufeinanderfolgenden Tests einen objektiven physiologischen Nachweis von Post-Exertional Malaise. Da die Studie jedoch nur die akuten Soforteffekte einer Einzeldosis prüfte, bleibt unbewiesen, ob die tägliche orale Einnahme von Pyridostigmin zu langfristigen Funktionsgewinnen oder sicherer
+    Symptomkontrolle führt; auch bleibt offen, ob mögliche Effekte auf Personen mit nachgewiesener Small-Fiber-Neuropathie beschränkt sind.

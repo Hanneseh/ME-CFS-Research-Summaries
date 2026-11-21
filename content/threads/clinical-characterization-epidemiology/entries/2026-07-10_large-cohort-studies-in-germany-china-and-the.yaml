@@ -1,0 +1,26 @@
+id: 2026-07-10_large-cohort-studies-in-germany-china-and-the
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'APAV study: Alisch et al. 2026, Journal of Translational Medicine'
+  url: https://pubmed.ncbi.nlm.nih.gov/42050709/
+  kind: paper
+- label: 'Shanghai Shuguang Hospital study: Wang et al. 2026, Medicine'
+  url: https://pubmed.ncbi.nlm.nih.gov/41654906/
+  kind: paper
+- label: 'TIMES survey preprint: Horton et al. 2026, medRxiv'
+  url: https://www.medrxiv.org/content/10.64898/2026.06.17.26355870.full.pdf
+  kind: preprint
+en:
+  title: Large cohort studies in Germany, China, and the UK validate distinct symptom clusters and comorbidity burden
+  plain_summary: Three large cohorts across Germany, China, and the UK confirmed that ME/CFS symptoms fall into consistent brain, gut-immune, and autonomic clusters, with severe overall burden. Because all rely on self-reported questionnaires and the UK scale is a preprint, biological testing is still needed.
+  detail: Three studies validated symptom clustering and burden using statistical modeling. In Germany, a factor analysis and structural equation modeling (SEM) study of 748 adult patients in the APAV-ME/CFS study confirmed that symptoms group into distinct, functional biological systems, demonstrating an excellent model fit for a "Brain" factor, a two-factor "Gut-Immune" structure, and a higher-order "Autonomic" symptom complex. In China, a cross-sectional case-control study of 1,821 participants (956 patients, 865 controls) at Shanghai Shuguang Hospital reported that patients experienced twice the fatigue severity compared to controls across all MFI-20 domains, and identified comorbid insomnia and GI discomfort as major contributors to poor health outcomes. In the UK, a preprint study of 1,028 adult patients using the new "Index of ME Symptoms" (TIMES) questionnaire applied Rasch analysis to create a 0–100 interval scale, reporting a severe cumulative multi-system symptom burden (mean
+    score 57.2/100) with cognitive symptoms ranked as the most troublesome and women experiencing higher symptom burden than men. These studies validate that patient-reported symptoms are not random or isolated but group into coherent biological clusters, providing a standardized, psychometrically validated method (TIMES) to measure cumulative multi-system burden. However, these symptom clusters are modeled based on subjective questionnaire responses rather than direct biological measurements, and the TIMES study remains a preliminary preprint. Additionally, the cohorts are geographically restricted to Germany, China, and the UK.
+de:
+  title: Große Kohortenstudien in Deutschland, China und Großbritannien bestätigen abgrenzbare Symptomcluster und Komorbiditätslast
+  plain_summary: Drei große Kohorten aus Deutschland, China und Großbritannien bestätigten, dass sich ME/CFS-Symptome konsistent in Gehirn-, Darm-Immun- und autonome Gruppen bündeln und mit hoher Gesamtlast einhergehen. Da alle auf Fragebögen beruhen und die britische Skala ein Preprint ist, bleiben biologische Messungen nötig.
+  detail: Drei Studien validierten Symptomcluster und Krankheitslast mittels statistischer Modellierung. In Deutschland bestätigten Faktoren- und Strukturgleichungsanalysen bei 748 Erwachsenen der APAV-ME/CFS-Studie, dass sich Beschwerden zu funktionellen biologischen Systemen bündeln, mit sehr guter Modellgüte für einen Faktor „Gehirn“, eine zweifaktorielle Struktur „Darm-Immun“ und einen übergeordneten Komplex „Autonom“. In China berichtete eine Fall-Kontroll-Studie mit 1.821 Teilnehmenden (956 Erkrankte, 865 Kontrollen) am Shanghai Shuguang Hospital eine doppelt so starke Fatigue in allen MFI-20-Bereichen und identifizierte begleitende Schlafstörungen und Magen-Darm-Beschwerden als Haupttreiber schlechter Gesundheit. In Großbritannien nutzte ein Preprint bei 1.028 Erwachsenen den neuen TIMES-Fragebogen und erstellte mittels Rasch-Analyse eine Intervallskala von 0–100, die eine hohe kumulative Multisystemlast (Mittelwert 57,2/100) mit kognitiven Symptomen als belastendstem Bereich und
+    höherer Last bei Frauen zeigte. Die Arbeiten belegen, dass Beschwerden nicht zufällig auftreten, sondern stimmige Cluster bilden; sie stützen sich jedoch auf subjektive Fragebögen statt direkter Biomessungen, die TIMES-Arbeit ist ein Preprint, und die Kohorten bleiben auf diese drei Länder beschränkt.

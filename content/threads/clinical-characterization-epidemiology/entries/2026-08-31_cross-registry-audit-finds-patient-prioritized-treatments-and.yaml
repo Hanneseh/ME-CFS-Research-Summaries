@@ -1,0 +1,18 @@
+id: 2026-08-31_cross-registry-audit-finds-patient-prioritized-treatments-and
+date: '2026-08-31'
+date_display: '2026-08-31'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Gabriel et al. 2026, Research Square preprint
+  url: https://doi.org/10.21203/rs.3.rs-10851936/v1
+  kind: preprint
+en:
+  title: Cross-registry audit finds patient-prioritized treatments and PEM endpoints underrepresented
+  plain_summary: An audit of 714 registered Long COVID trials found that only 7% tested treatments prioritized by patients and just 1% used PEM as a primary outcome. This desk-based preprint measures research priorities rather than treatment effectiveness.
+  detail: Gabriel et al. audited 714 deduplicated interventional Post-COVID trials across ClinicalTrials.gov, DRKS, and EU-CTR against a patient-prioritized treatment guide. Only 51 trials (7.1%) evaluated any listed patient-prioritized treatment, while PEM appeared in 57 trials (8.0%) and served as a primary endpoint in only eight (1.1%); ten commonly used treatment classes had no registered trial in the audited registries. This desk-based preprint imposed no patient burden and no PEM challenge, but it did not establish treatment efficacy or safety, did not report severe/bedbound inclusion, and reflects a 16 July 2026 registry snapshot with conservative text matching. The result is a research-prioritization finding, not support for any untested therapy.
+de:
+  title: Registerübergreifende Prüfung zeigt Unterrepräsentation von Betroffenen priorisierter Therapien und PEM-Endpunkte
+  plain_summary: Eine Auswertung von 714 registrierten Long-COVID-Studien ergab, dass nur 7 % von Betroffenen priorisierte Therapien prüften und lediglich 1 % PEM als Hauptendpunkt nutzten. Dieser Preprint bildet Forschungslücken ab und bewertet keine Wirksamkeit.
+  detail: Gabriel et al. prüften 714 bereinigte interventionelle Post-COVID-Studien aus ClinicalTrials.gov, DRKS und EU-CTR anhand eines von Patientinnen und Patienten priorisierten Therapieleitfadens. Nur 51 Studien (7,1 %) untersuchten eine der gelisteten priorisierten Therapien, während PEM in 57 Studien (8,0 %) vorkam und nur in acht Studien (1,1 %) als primärer Endpunkt diente; zehn häufig genutzte Wirkstoffklassen hatten überhaupt keine registrierte Studie. Dieser rein datenbankbasierte Preprint verursachte keine Belastung für Betroffene, prüft aber weder Wirksamkeit noch Sicherheit, nennt keinen Anteil Schwerstbetroffener und spiegelt eine konservative Textsuche zum Stichtag 16. Juli 2026 wider. Das Ergebnis betrifft Forschungsprioritäten, nicht den Nutzen ungetesteter Therapien.

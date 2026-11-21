@@ -1,0 +1,18 @@
+id: 2026-07-25_narrative-review-maps-il-6-family-cytokine-signaling
+date: '2026-07-25'
+date_display: '2026-07-25'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Biochimica et Biophysica Acta Review 2026, Biochimica et Biophysica Acta
+  url: https://sciencedirect.com/science/article/pii/S0167488926000972
+  kind: paper
+en:
+  title: Narrative review maps IL-6 family cytokine signaling and gp130 pathways in Long COVID
+  plain_summary: A review paper detailed how IL-6 family inflammatory messengers act through the gp130 pathway in acute and Long COVID, discussing ways to calm harmful inflammation without weakening antiviral defenses. Because it summarizes existing research with no new trial data, blocking IL-6 pathways remains an untested hypothesis for Long COVID.
+  detail: A narrative review published in *Biochimica et Biophysica Acta (BBA) - Molecular Cell Research* analyzed the pathogenic roles of IL-6 family cytokines across acute COVID-19 hyper-inflammation and persistent Long COVID syndrome. The review detailed gp130-mediated signaling pathways, cellular origins across macrophages, endothelial cells, and adipocytes, as well as diagnostic biomarker utility and targeted therapeutic interventions. The authors evaluated strategies to selectively suppress harmful IL-6 family inflammatory cascades while preserving essential antiviral host defense. This provides a mechanistic rationale for targeting IL-6 family signaling to control chronic post-viral inflammation in Long COVID. However, as a narrative literature review, the paper does not present new primary patient cohort data or clinical trial outcomes, and candidate IL-6 targeted interventions require formal validation in prospective human trials.
+de:
+  title: Narrative Übersichtsarbeit kartiert Zytokin-Signalwege der IL-6-Familie und gp130-Pfade bei Long COVID
+  plain_summary: Eine Übersichtsarbeit beschreibt im Detail, wie Entzündungsbotenstoffe der IL-6-Familie über den gp130-Signalweg bei akutem und Long COVID wirken und wie man schädliche Entzündung dämpfen könnte, ohne die Virusabwehr zu schwächen. Da keine neuen Studiendaten vorgelegt werden, bleibt eine gezielte IL-6-Blockade bei Long COVID bislang unbewiesen.
+  detail: Eine narrative Übersichtsarbeit in *Biochimica et Biophysica Acta (BBA) - Molecular Cell Research* analysierte die Rolle von Zytokinen der IL-6-Familie bei akuter COVID-19-Hyperinflammation und anhaltendem Long COVID. Der Beitrag beleuchtete gp130-vermittelte Signalwege, zelluläre Ursprünge in Makrophagen, Endothelzellen und Adipozyten sowie möglichen Biomarker-Nutzen und Strategien, schädliche Entzündungskaskaden gezielt zu bremsen, ohne die antivirale Abwehr zu gefährden. Als reine Literaturübersicht präsentiert die Arbeit jedoch keine neuen Patientendaten oder klinischen Studienergebnisse, sodass entsprechende Therapiekandidaten erst prospektiv am Menschen geprüft werden müssen.

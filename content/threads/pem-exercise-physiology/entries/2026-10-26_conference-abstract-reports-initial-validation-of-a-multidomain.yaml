@@ -1,0 +1,20 @@
+id: 2026-10-26_conference-abstract-reports-initial-validation-of-a-multidomain
+date: '2026-10-26'
+date_display: '2026-10-26'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: Brandl, Pimminger et al. 2026, conference abstract
+  url: https://doi.org/10.1093/eurpub/ckag169.1100
+  kind: conference
+en:
+  title: Conference abstract reports initial validation of a multidomain PEM questionnaire
+  plain_summary: A conference abstract tested the Vienna PEM questionnaire in 1,108 adults with ME/CFS, finding good reliability and alignment with existing PEM scales, though its multi-part structure and crash-severity scoring still need refinement. As a brief conference abstract without full test-retest or severe-patient data, it is not yet a validated clinical trial endpoint.
+  detail: A European Journal of Public Health conference-supplement abstract reports initial psychometric validation of the Vienna Post-Exertional Malaise Assessment Questionnaire in 1,108 adults with ME/CFS, following earlier content-development work. It assesses exertion thresholds across physical, cognitive, sensory, emotional-social and orthostatic domains without requiring an exercise challenge. Internal consistency was good and scores correlated with DSQ-PEM and FUNCAP-27, but factor-analysis fit was mixed and discrimination between the highest PEM groups was limited. The authors caution against treating the score as one homogeneous dimension; crash severity and recovery duration still need better scoring formats. This is an abstract, not a full validation paper, and test–retest reliability, responsiveness to treatment, severe or bedbound inclusion and independence from the earlier development cohort remain unreported. It offers a potentially lower-burden measurement direction, not
+    an established diagnostic or trial endpoint.
+de:
+  title: Konferenz-Abstract berichtet erste Validierung eines mehrdimensionalen PEM-Fragebogens
+  plain_summary: Ein Konferenz-Abstract prüfte den Wiener PEM-Fragebogen an 1.108 Erwachsenen mit ME/CFS und fand gute Zuverlässigkeit sowie Übereinstimmung mit bestehenden PEM-Skalen, während Faktorenstruktur und Crash-Schwere-Bewertung noch nachgeschärft werden müssen. Als bloßes Abstract ohne Daten zu Test-Retest-Stabilität oder schwer Erkrankten ist der Fragebogen noch kein etablierter Studienendpunkt.
+  detail: Ein Konferenz-Supplement-Abstract im *European Journal of Public Health* berichtet eine erste psychometrische Validierung des Wiener Post-Exertional-Malaise-Fragebogens bei 1.108 Erwachsenen mit ME/CFS im Anschluss an frühere Entwicklungsarbeiten. Das Instrument erfasst Belastungsgrenzen über körperliche, kognitive, sensorische, emotional-soziale und orthostatische Bereiche hinweg, ohne einen Belastungstest zu erfordern. Die interne Konsistenz war gut, und die Scores korrelierten mit DSQ-PEM sowie FUNCAP-27, doch fiel die Modellgüte der Faktorenanalyse gemischt aus und die Unterscheidung zwischen den höchsten PEM-Schweregruppen war begrenzt. Die Autoren warnen davor, den Summenwert als eindimensionale Skala zu behandeln; Crash-Schweregrad und Erholungsdauer benötigen noch bessere Antwortformate. Da es sich um ein Abstract und kein vollständiges Validierungspaper handelt und Test-Retest-Reliabilität, Änderungssensitivität, Einschluss schwer oder bettlägerig Erkrankter sowie Unabhängigkeit
+    von der Entwicklungskohorte unberichtet bleiben, bietet der Fragebogen eine potenziell belastungsarme Messrichtung, aber noch keinen etablierten Endpunkt.

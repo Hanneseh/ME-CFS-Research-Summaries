@@ -1,0 +1,19 @@
+id: 2025-08-06_decodeme-gwas-identifies-eight-genome-wide-significant-loci
+date: '2025-08-06'
+date_display: '2025-08-06'
+date_precision: exact
+source_type: preprint
+study_design: GWAS
+sources:
+- label: DecodeME Collaboration 2025, medRxiv preprint
+  url: https://doi.org/10.1101/2025.08.06.25333109
+  kind: preprint
+en:
+  title: DecodeME GWAS identifies eight genome-wide significant loci, including immune and pain genes
+  plain_summary: The landmark DecodeME DNA study compared over 15,500 people with strictly defined ME/CFS to healthy controls and found eight genetic regions tied to immune and pain pathways—with no genetic overlap with depression or anxiety. These results support a distinct biological basis for ME/CFS, though they still need independent replication in similarly strict and more diverse cohorts.
+  detail: 'The DecodeME collaboration published the first large-scale, co-produced GWAS for ME/CFS, comparing 15,579 cases of European ancestry (diagnosed with stringent criteria requiring post-exertional malaise) against 259,909 UK Biobank controls. Eight genome-wide significant loci were identified: three near immune-response genes (BTN2A2, OLFM4, RABGAP1L), one near CA10 sharing a signal with multisite chronic pain, and four additional regions. Importantly, the genetic risk profile showed no overlap with depression or anxiety, strengthening the biological distinction of ME/CFS from psychiatric conditions. The findings did not replicate in other large biobanks using less stringent case definitions, which the authors attribute to case-definition heterogeneity rather than false-positive signals; replication in independent strictly-defined cohorts and fine-mapping remain to be completed, and rare variants and non-European ancestries were not analysed.'
+de:
+  title: DecodeME-GWAS identifiziert acht genomweit signifikante Genorte, darunter Immun- und Schmerzgene
+  plain_summary: Die große DecodeME-Studie verglich über 15.500 Menschen mit streng definiertem ME/CFS mit Kontrollpersonen und fand acht genetische Risikoregionen mit Bezug zu Immun- und Schmerzsignalwegen – ohne genetische Überschneidung mit Depressionen oder Angststörungen. Das stützt eine eigenständige biologische Grundlage von ME/CFS, muss aber noch in unabhängigen, ebenso streng definierten und vielfältigeren Gruppen bestätigt werden.
+  detail: 'Die DecodeME-Kollaboration veröffentlichte die erste groß angelegte, gemeinsam mit Betroffenen entwickelte GWAS zu ME/CFS und verglich 15.579 Erkrankte europäischer Abstammung (diagnostiziert nach strengen Kriterien mit verpflichtender Post-Exertional Malaise) mit 259.909 Kontrollpersonen aus der UK Biobank. Dabei wurden acht genomweit signifikante Genorte entdeckt: drei nahe von Immunantwort-Genen (BTN2A2, OLFM4, RABGAP1L), einer nahe CA10 mit gemeinsamem Signal zu chronischen Ganzkörperschmerzen sowie vier weitere Regionen. Wichtig ist, dass das genetische Risikoprofil keine Überschneidung mit Depression oder Angststörungen zeigte, was die biologische Abgrenzung von ME/CFS gegenüber psychiatrischen Erkrankungen stärkt. In anderen großen Biobanken mit weniger strengen Falldefinitionen ließen sich die Befunde nicht replizieren, was die Autorinnen und Autoren eher auf uneinheitliche Diagnosekriterien als auf falsch-positive Signale zurückführen; eine Replikation in unabhängigen,
+    streng definierten Kohorten sowie eine Feinkartierung stehen noch aus, und seltene Varianten sowie nicht-europäische Abstammungen wurden nicht untersucht.'

@@ -1,0 +1,23 @@
+id: 2026-10-10_searchmecfs-biospecimen-discovery-platform-described-in-rti-pres
+date: '2026-10-10'
+date_display: '2026-10-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Barnette et al. 2026, RTI Press
+  url: https://doi.org/10.3768/rtipress.2026.mr.0058.2609
+  kind: paper
+- label: Barnette et al. 2026, PMC record
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13652500/
+  kind: paper
+en:
+  title: searchMECFS biospecimen-discovery platform described in RTI Press methods report (PMC release)
+  plain_summary: An NIH network report introduced searchMECFS, a free online portal helping researchers locate stored blood, saliva, and clinical data from over 1,200 study participants. It describes research sample infrastructure with no scientific findings yet.
+  detail: The RTI Press methods report by Barnette and colleagues is dated September 2026 without an exact day; 2026-10-10 is the date it became available in PMC and is used here as its datable public release. It describes searchMECFS, a free query tool from the Data Management and Coordinating Center of the NIH ME/CFS Research Network that lets researchers search biospecimens with linked clinical and questionnaire data, request samples through the NINDS BioSEND repository, and share results on mapMECFS. The platform holds the Chronic Fatigue Initiative cohort (401 participants, about half with ME/CFS, hosted since 2019) and the CDC MCAM cohort (801 adults at the first visit plus follow-up, substudy, and pediatric saliva samples, hosted since 2024). Participants may overlap between cohorts without any way to check, the cohorts used different diagnostic criteria and instruments, and the inventory changes over time. It is research infrastructure with no findings and no stated launch date (see
+    [Diagnostics & Biomarkers](thread:diagnostics-biomarkers)).
+de:
+  title: Bioproben-Suchplattform searchMECFS in Methodenbericht von RTI Press (PMC-Veröffentlichung) beschrieben
+  plain_summary: Ein Bericht des NIH-Forschungsnetzwerks stellt searchMECFS vor, ein kostenloses Portal, über das Forschende eingelagerte Bioproben und verknüpfte klinische Daten von über 1.200 Studienteilnehmenden finden und anfordern können. Es beschreibt Forschungsinfrastruktur und liefert noch keine Studienergebnisse.
+  detail: Der Methodenbericht von Barnette und Kolleginnen und Kollegen bei RTI Press ist ohne genauen Tag auf September 2026 datiert; als datierbare öffentliche Freigabe dient hier der 10.10.2026, an dem er in PMC erschien. Beschrieben wird searchMECFS, ein kostenloses Abfragewerkzeug des Data Management and Coordinating Center des NIH ME/CFS Research Network, mit dem Forschende Bioproben samt verknüpften klinischen und Fragebogendaten durchsuchen, Proben über das NINDS-BioSEND-Repositorium anfordern und Ergebnisse auf mapMECFS teilen können. Die Plattform umfasst die Chronic-Fatigue-Initiative-Kohorte (401 Teilnehmende, rund die Hälfte mit ME/CFS, seit 2019 gehostet) sowie die CDC-MCAM-Kohorte (801 Erwachsene beim Ersttermin plus Verlaufs-, Teilstudien- und pädiatrische Speichelproben, seit 2024 gehostet). Teilnehmende können sich zwischen Kohorten ohne Abgleichmöglichkeit überschneiden, die Kohorten nutzten unterschiedliche Diagnosekriterien und Instrumente, und der Bestand verändert
+    sich laufend. Es handelt sich um Forschungsinfrastruktur ohne Ergebnisse und ohne angegebenes Startdatum (siehe [Diagnostik & Biomarker](thread:diagnostics-biomarkers)).

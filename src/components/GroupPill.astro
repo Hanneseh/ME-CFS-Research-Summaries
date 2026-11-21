@@ -1,0 +1,17 @@
+---
+import { getGroup } from "../lib/content";
+import { langHome } from "../lib/paths";
+import type { Lang } from "../lib/types";
+
+interface Props {
+  lang: Lang;
+  group: string;
+  short?: boolean;
+}
+const { lang, group, short = false } = Astro.props;
+const g = getGroup(lang, group);
+---
+
+<a class="group-pill" data-group={group} href={`${langHome(lang)}#${group}`}>
+  <span class="dot" aria-hidden="true"></span>{short ? g?.shortTitle : g?.title}
+</a>

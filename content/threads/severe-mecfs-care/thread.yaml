@@ -1,0 +1,90 @@
+slug: severe-mecfs-care
+group: diagnostics-symptoms-care
+status: active
+evidence_tier: early_clinical
+topics:
+- Severe ME/CFS
+- Inpatient Care
+- Home-Visit Diagnostics
+- Outreach Assessment
+- Perioperative Safety
+- Risk Stratification
+- Nutrition & Tube Feeding
+aliases: []
+related_threads:
+- pem-exercise-physiology
+- clinical-characterization-epidemiology
+- diagnostics-biomarkers
+legacy_path: diagnostics-symptoms-care/severe-mecfs-care
+en:
+  title: Care & Assessment for Severe ME/CFS
+  subtitle: A living thread on severe and very severe ME/CFS care, inpatient and outreach models, home-visit diagnostics, perioperative safety, and bedbound patient assessment.
+  evidence_label: early clinical, protocol, and retrospective case series
+  plain_summary: People with severe or very severe ME/CFS are often bedbound and routinely left out of research because travel and standard clinic visits can trigger lasting crashes. New work is testing safer ways to care for and study them—from low-stimulation inpatient units and carefully staged home visits to updated surgical pain protocols and practical home-care guides. Most of this evidence still comes from small single-center reports or expert consensus, so larger studies are needed to show which specific measures help most.
+  takeaway: 'Severe and very severe ME/CFS patients occupy a blind spot in both clinical practice and research: they are too ill to travel to specialist centres, routinely excluded from trials, and face a medical landscape that has rarely acknowledged their physiological complexity. Emerging work is beginning to close that gap from several directions at once — inpatient care models focused on PEM minimisation, structured outreach protocols that bring diagnostics to housebound patients, risk-stratification tools for identifying who deteriorates earliest after post-viral illness, and the first systematic perioperative safety data for this population.
+
+
+    The evidence base is still early. Most published work is retrospective, single-centre, or protocol-only, with small samples and no controlled comparisons between care models. What the literature consistently establishes is that severe ME/CFS is a multisystem physiological crisis rather than a severity variant of ordinary fatigue, that standard clinical environments can cause harm through overstimulation and enforced exertion, and that meaningful diagnostic and care work is possible without requiring patients to leave their homes — provided the assessment is carefully staged and PEM risk is monitored at each step.'
+  why_it_matters: 'For carers and families managing a severely affected person, the practical absence of evidence-based care protocols has long been one of the most disabling aspects of the disease system. Clinicians encountering these patients in surgical, emergency, or general medical settings have had almost no data to guide management. Researchers wanting to study the most affected patients have lacked validated methods for including them safely.
+
+
+    The sources tracked here address each of those gaps directly. Inpatient outcome data from Norway show what happens when a genuinely adapted environment is offered. Outreach diagnostic protocols from Germany show what careful home-based assessment can look like. Perioperative data from a German tertiary anaesthesia centre show where surgical risk is concentrated. Together they sketch the beginnings of a clinical and research infrastructure for the population that has so far been most invisible.'
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - Severe and very severe ME/CFS patients are systematically underrepresented in research because standard trial participation requires travel and exertion that can cause lasting deterioration. This exclusion produces a self-reinforcing evidence gap at the most severe end of the disease spectrum.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - A dedicated inpatient care environment that prioritises PEM avoidance and sensory adaptation may produce measurable clinical improvement in some severely affected patients, particularly those with shorter illness duration. Staged outreach diagnostics are feasible in housebound patients without triggering uniform deterioration. Transdisciplinary expert consensus provides practice-oriented guidelines for home-based care, nursing, and PEM-aware care adaptation. Acute-phase symptom complexity in young people predicts severe long-term outcome.
+  - status: not_established
+    label: Not established
+    items:
+    - Which specific components of inpatient, outreach, or home care drive clinical improvement. Whether early risk stratification in children and young adults changes long-term outcomes. The full perioperative risk profile in ME/CFS, particularly delayed PEM following general anaesthesia.
+  - status: limitations
+    label: Key limitations
+    items:
+    - All current inpatient and outreach outcome data come from single centres with fewer than 25 patients. Transdisciplinary home care guidelines are based on expert consensus and practice-oriented experience rather than randomized interventional trials. The paediatric risk-stratification study is monocentric and used a registry design. The perioperative study has 15 ME/CFS patients matched to 15 controls. Protocol publications like ACHTSAM have not yet reported outcome data. Evidence of what does not work — high-stimulation environments, mandatory physical therapy, and standard surgical pain protocols — is largely derived from adverse patient experience rather than controlled comparison. The BACME tube-feeding report is a self-selected UK survey without controlled outcome data.
+  open_questions:
+  - Whether the improvement signal from the Røysumtunet unit can be replicated in a multicentre setting, and what the active ingredients of adapted inpatient care are.
+  - Whether ACHTSAM's outreach diagnostic framework will prove feasible and PEM-safe when applied across the planned patient range, and whether the physiological measurements taken at home yield interpretable data.
+  - What happens to ME/CFS patients in the days and weeks after surgery — the perioperative PEM window that the current retrospective data cannot capture.
+  - Whether the acute-phase risk factors identified in children and young adults with post-COVID condition apply to ME/CFS arising after other viral triggers or in adult-onset cases.
+  - Whether nutritional screening can be validated for ME/CFS, and what outcomes enteral feeding produces in severe and very severe patients.
+de:
+  title: Versorgung & Diagnostik bei schwerem ME/CFS
+  subtitle: Ein fortlaufender Themenstrang zu Versorgung, stationären und aufsuchenden Konzepten, Hausbesuchs-Diagnostik, perioperativer Sicherheit und Einschätzung bettlägeriger Patientinnen und Patienten mit schwerem und sehr schwerem ME/CFS.
+  evidence_label: frühe klinische Daten, Studienprotokolle und retrospektive Fallserien
+  plain_summary: Menschen mit schwerem oder sehr schwerem ME/CFS sind oft bettlägerig und fallen aus der Forschung meist heraus, weil schon Anfahrt und normale Kliniktermine anhaltende Verschlechterungen auslösen können. Neuere Arbeiten untersuchen schonendere Wege für Versorgung und Diagnostik – von reizarmen Spezialstationen und behutsam gestuften Hausbesuchen bis hin zu angepasster Schmerztherapie bei Operationen und praxisnahen Leitfäden für die häusliche Pflege. Da die bisherigen Ergebnisse meist aus kleinen Einzelzentrums-Berichten oder Expertenkonsensen stammen, müssen größere Studien erst klären, welche Bausteine am wirksamsten helfen.
+  takeaway: 'Patientinnen und Patienten mit schwerem und sehr schwerem ME/CFS bilden sowohl in der klinischen Versorgung als auch in der Forschung einen blinden Fleck: Sie sind zu krank, um Spezialzentren aufzusuchen, werden regelmäßig aus Studien ausgeschlossen und treffen auf ein Gesundheitssystem, das ihre komplexe Physiologie bislang kaum berücksichtigt. Neuere Arbeiten beginnen, diese Lücke aus mehreren Richtungen gleichzeitig zu schließen – durch stationäre Versorgungsmodelle mit Fokus auf PEM-Vermeidung, strukturierte aufsuchende Protokolle für Diagnostik bei hausgebundenen Betroffenen, Instrumente zur Risikoabschätzung für frühe Verschlechterung nach Virusinfekten sowie erste systematische Daten zur perioperativen Sicherheit in dieser Gruppe.
+
+
+    Die Evidenzbasis ist noch früh. Die meisten veröffentlichten Arbeiten sind retrospektiv, stammen aus einzelnen Zentren oder beschreiben bislang nur Studienprotokolle – mit kleinen Fallzahlen und ohne kontrollierte Vergleiche zwischen verschiedenen Versorgungsmodellen. Übereinstimmend zeigt die Literatur jedoch, dass schweres ME/CFS eine schwere multisystemische Störung ist und keine bloße Steigerungsform gewöhnlicher Erschöpfung, dass übliche Klinikumgebungen durch Reizüberflutung und erzwungene Aktivierung schaden können und dass sinnvolle Diagnostik und Versorgung im häuslichen Umfeld möglich sind – vorausgesetzt, die Abläufe werden behutsam gestuft und das PEM-Risiko bei jedem Schritt überwacht.'
+  why_it_matters: 'Für Angehörige und Pflegende, die einen schwer betroffenen Menschen betreuen, zählt das weitgehende Fehlen evidenzbasierter Versorgungsprotokolle seit Langem zu den belastendsten Problemen des Systems. Ärztinnen und Ärzte, die diesen Patientinnen und Patienten in der Notaufnahme, bei Operationen oder in der Hausarztpraxis begegnen, hatten bislang kaum Daten zur Orientierung. Und Forschende, die auch schwer Betroffene einbeziehen wollen, brauchten sichere Methoden für eine teilnahmefähige Diagnostik.
+
+
+    Die hier erfassten Arbeiten setzen genau an diesen Lücken an. Stationäre Verlaufsdaten aus Norwegen zeigen, was geschieht, wenn ein konsequent angepasstes Umfeld geboten wird. Aufsuchende Diagnostikprotokolle aus Deutschland zeigen, wie eine behutsame häusliche Untersuchung aussehen kann. Perioperative Daten aus einem deutschen Zentrum der Maximalversorgung zeigen, wo chirurgische Risiken besonders liegen. Zusammen zeichnen sie die Anfänge einer klinischen und wissenschaftlichen Infrastruktur für jene Betroffenen, die bislang am unsichtbarsten waren.'
+  state_of_evidence:
+  - status: established
+    label: Etabliert
+    items:
+    - Menschen mit schwerem und sehr schwerem ME/CFS sind in der Forschung systematisch unterrepräsentiert, da eine reguläre Studienteilnahme Anfahrten und Belastungen erfordert, die anhaltende Verschlechterungen auslösen können. Dieser Ausschluss erzeugt eine sich selbst verstärkende Evidenzlücke am schwersten Ende des Krankheitsspektrums.
+  - status: plausible
+    label: Plausibel, aber noch früh
+    items:
+    - Ein spezialisiertes stationäres Versorgungsumfeld, das PEM-Vermeidung und Reizanpassung priorisiert, kann bei einem Teil der schwer betroffenen Patientinnen und Patienten zu messbarer klinischer Besserung führen – insbesondere bei kürzerer Krankheitsdauer. Eine gestufte aufsuchende Diagnostik ist bei hausgebundenen Betroffenen machbar, ohne regelhaft Verschlechterungen auszulösen. Ein transdisziplinärer Expertenkonsens liefert praxisnahe Leitlinien für häusliche Versorgung, Pflege und PEM-sensible Anpassungen. Eine hohe Symptomkomplexität in der Akutphase sagt bei jungen Menschen schwere Langzeitverläufe voraus.
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Welche konkreten Bestandteile stationärer, aufsuchender oder häuslicher Versorgung tatsächlich zur klinischen Besserung beitragen. Ob eine frühe Risikostratifizierung bei Kindern und jungen Erwachsenen langfristige Verläufe verändert. Das vollständige perioperative Risikoprofil bei ME/CFS – insbesondere verzögertes PEM nach Vollnarkose.
+  - status: limitations
+    label: Wichtige Einschränkungen
+    items:
+    - Alle bisherigen Ergebnisdaten zu stationärer und aufsuchender Versorgung stammen aus Einzelzentren mit jeweils weniger als 25 Patientinnen und Patienten. Die transdisziplinären Leitlinien zur häuslichen Versorgung stützen sich auf Expertenkonsens und Praxiserfahrung statt auf randomisierte Interventionsstudien. Die pädiatrische Studie zur Risikostratifizierung war monozentrisch und nutzte ein Registerdesign. Die perioperative Studie umfasste 15 ME/CFS-Patientinnen und -Patienten im Vergleich zu 15 gematchten Kontrollen. Protokollpublikationen wie ACHTSAM enthalten noch keine Ergebnisdaten. Hinweise darauf, was schadet – etwa reizintensive Umgebungen, verpflichtende Physiotherapie und Standard-Schmerzprotokolle nach Operationen –, stammen überwiegend aus negativen Patientenerfahrungen und nicht aus kontrollierten Vergleichen. Der BACME-Bericht zur Sondenernährung ist eine selbstselektierte britische Umfrage ohne kontrollierte Verlaufsdaten.
+  open_questions:
+  - Lässt sich das Besserungssignal aus der Spezialstation Røysumtunet in einem multizentrischen Setting replizieren, und welches sind die wirksamen Kernbestandteile einer angepassten stationären Versorgung?
+  - Erweist sich das aufsuchende Diagnostikkonzept von ACHTSAM über das gesamte geplante Patientenspektrum hinweg als machbar und PEM-sicher, und liefern die zu Hause erhobenen physiologischen Messungen gut interpretierbare Daten?
+  - Was geschieht bei ME/CFS-Patientinnen und -Patienten in den Tagen und Wochen nach einer Operation – also in jenem perioperativen PEM-Zeitfenster, das aktuelle retrospektive Daten nicht erfassen können?
+  - Gelten die bei Kindern und jungen Erwachsenen mit Post-COVID-Syndrom identifizierten Akutphase-Risikofaktoren auch für ME/CFS nach anderen Virusauslösern oder bei Erkrankungsbeginn im Erwachsenenalter?
+  - Lässt sich ein Ernährungsscreening speziell für ME/CFS validieren, und welche klinischen Verläufe erzielt eine enterale Ernährung bei schwerem und sehr schwerem ME/CFS?

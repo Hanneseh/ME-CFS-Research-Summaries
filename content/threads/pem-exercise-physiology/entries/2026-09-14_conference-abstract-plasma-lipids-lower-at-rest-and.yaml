@@ -1,0 +1,20 @@
+id: 2026-09-14_conference-abstract-plasma-lipids-lower-at-rest-and
+date: '2026-09-14'
+date_display: '2026-09-14'
+date_precision: exact
+source_type: conference
+study_design: null
+sources:
+- label: Christopoulos et al. 2026, Medicine & Science in Sports & Exercise (conference abstract)
+  url: https://doi.org/10.1249/01.mss.0001266284.00441.cb
+  kind: conference
+en:
+  title: 'Conference abstract: plasma lipids lower at rest and immediately after CPET in ME/CFS'
+  plain_summary: A conference poster abstract of 25 ME/CFS patients and 25 controls found lower blood-lipid levels both at rest and immediately after a maximal exercise test, though only four lipids stayed significant after statistical correction. Because it is a brief abstract without 24–72 hour PEM tracking or severity details, it does not establish a PEM biomarker.
+  detail: This ACSM 2026 poster abstract, published in a Medicine & Science in Sports & Exercise supplement rather than as a full peer-reviewed paper, compared 25 people with ME/CFS and 25 healthy controls around one maximal ramp CPET. Plasma drawn at baseline and 2 and 30 minutes after the test was analyzed with targeted lipidomics covering 794 predefined lipids. Lipid abundance was lower in ME/CFS at every timepoint, with the most nominal group differences at baseline (101, then 60 and 39 after exertion); only four lipids per timepoint passed false-discovery correction. The deficit therefore looks at least partly like a resting trait, and the study complements the 24-hour recovery proteomics reported by Germain et al. (2025) by covering the immediate post-test window. The abstract reports no link to PEM symptoms or severity, no 24–72-hour sampling, and no diagnostic criteria or severity data, so it is not a PEM biomarker. Participants had to complete maximal CPET plus three blood draws;
+    post-test PEM was not reported, and applicability to severe or bedbound patients is not established.
+de:
+  title: 'Konferenz-Abstract: Plasmalipide bei ME/CFS bereits in Ruhe und unmittelbar nach CPET erniedrigt'
+  plain_summary: Ein Tagungs-Abstract mit 25 ME/CFS-Betroffenen und 25 Kontrollen fand schon in Ruhe sowie direkt nach einem maximalen Belastungstest niedrigere Blutfettwerte, wovon nach statistischer Korrektur vier Lipide signifikant blieben. Als kurzes Abstract ohne 24–72-Stunden-PEM-Tracking oder Schweregradangaben liefert es noch keinen PEM-Biomarker.
+  detail: Dieses als Supplement in *Medicine & Science in Sports & Exercise* veröffentlichte ACSM-2026-Poster-Abstract (noch keine vollständige begutachtete Publikation) verglich 25 Menschen mit ME/CFS und 25 gesunde Kontrollen rund um einen maximalen Rampen-CPET. Blutplasma vor dem Test sowie 2 und 30 Minuten danach wurde per gezielter Lipidomik über 794 definierte Lipide analysiert. Die Lipidmengen waren bei ME/CFS zu jedem Zeitpunkt niedriger, mit den meisten nominalen Gruppenunterschieden bereits im Ausgangszustand (101, danach 60 und 39 nach Belastung); jeweils nur vier Lipide pro Zeitpunkt überstanden die False-Discovery-Korrektur. Das Defizit wirkt daher zumindest teilweise wie ein Ruhemerkmal und ergänzt die 24-Stunden-Erholungsproteomik von Germain et al. (2025) um das unmittelbare Zeitfenster nach dem Test. Das Abstract nennt jedoch keinen Zusammenhang mit PEM-Symptomen oder Schweregrad, keine Proben nach 24–72 Stunden, keine Fallkriterien und keine Angaben zum Einschluss schwer
+    oder bettlägerig Betroffener.

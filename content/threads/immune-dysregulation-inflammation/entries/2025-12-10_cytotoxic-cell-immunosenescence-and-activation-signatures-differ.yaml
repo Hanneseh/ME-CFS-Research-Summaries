@@ -1,0 +1,18 @@
+id: 2025-12-10_cytotoxic-cell-immunosenescence-and-activation-signatures-differ
+date: '2025-12-10'
+date_display: '2025-12-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Lee et al. 2025, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-025-07507-x
+  kind: paper
+en:
+  title: Cytotoxic cell immunosenescence and activation signatures differentiate ME/CFS severity subgroups
+  plain_summary: In 96 ME/CFS patients, mild/moderate cases showed signs of prematurely aged killer cells, while severe cases showed heightened immune activation and inflammatory signals. Because patients were only checked at one point in time, it is not known if people shift from one state to the other as illness worsens.
+  detail: Flow cytometric profiling of cytotoxic cells in 96 ME/CFS patients categorized by severity showed that mild/moderate cases are characterized by early immunosenescence (CD28-CD57- cells, suggesting chronic response to persistent viral antigens), while severe cases exhibit high levels of activated CD8+ T cells and elevated pro-inflammatory cytokine production. This shows that ME/CFS involves distinct immunological stages or mechanisms depending on disease severity, suggesting a shift from viral-focused immune responses to non-specific chronic inflammation as disability worsens. However, the study lacks longitudinal tracking to prove that patients transition from an immunosenescent phenotype to a hyper-activated inflammatory state as severity increases.
+de:
+  title: Signaturen von Immunseneszenz und Aktivierung zytotoxischer Zellen unterscheiden ME/CFS-Schweregrade
+  plain_summary: Bei 96 ME/CFS-Betroffenen zeigten mild bis moderat Erkrankte eher Zeichen vorgealterter Abwehrzellen, während schwer Erkrankte stärker aktivierte CD8-T-Zellen und Entzündungssignale aufwiesen. Da nur eine einzelne Momentaufnahme gemacht wurde, ist unklar, ob Betroffene bei Verschlechterung von einem Zustand in den anderen wechseln.
+  detail: Durchflusszytometrische Analysen zytotoxischer Zellen bei 96 nach Schweregrad eingeteilten ME/CFS-Patientinnen und -Patienten zeigten, dass milde/moderate Verläufe durch frühe Immunseneszenz (CD28-CD57--Zellen als Hinweis auf chronische Auseinandersetzung mit anhaltenden Virusantigenen) geprägt sind, während schwere Fälle hohe Anteile aktivierter CD8+-T-Zellen und vermehrte proinflammatorische Zytokinbildung aufweisen. Dies legt nahe, dass ME/CFS je nach Schweregrad unterschiedliche immunologische Ausprägungen besitzt – möglicherweise eine Verlagerung von virusbezogener Immunabwehr hin zu unspezifischer chronischer Entzündung bei zunehmender Einschränkung. Allerdings fehlt der Studie eine Langzeitverfolgung, um zu belegen, dass Betroffene tatsächlich mit steigender Schwere von einem immunseneszenten in einen hyperaktivierten Zustand übergehen.

@@ -1,0 +1,19 @@
+id: 2026-07-10_phase-ii-pilot-study-reports-low-dose-rapamycin
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Gile et al. 2026, Journal of Translational Medicine
+  url: https://link.springer.com/article/10.1186/s12967-026-08575-3
+  kind: paper
+en:
+  title: Phase II pilot study reports low-dose rapamycin improves fatigue and modulates purine metabolism
+  plain_summary: A small uncontrolled pilot trial reported lower fatigue in ME/CFS patients given compounded low-dose rapamycin and linked responder blood changes to purine metabolism. Because there was no placebo group and lab tests were done only in responders, it does not prove that rapamycin works.
+  detail: A phase II observational pilot trial (NCT06257420) of compounded low-dose rapamycin for patients with ME/CFS reported significant reductions in fatigue symptoms. Mechanistic analyses of a responder cohort after 90 days of therapy indicated that rapamycin alters purine biosynthesis by reducing IMP dehydrogenase activity in peripheral blood mononuclear cells (PBMCs), thereby limiting the conversion of inosine monophosphate (IMP) to xanthosine-5-monophosphate (XMP) and altering hypoxanthine (HPX) plasma levels. The study proposed that this modulation of purine metabolism alleviates mitochondrial energy impairment (assessed via Seahorse oxygen consumption rate) and microglial inflammatory activation. However, because this is a small, uncontrolled observational pilot trial, it cannot rule out placebo effects, and the molecular analyses are biased toward positive findings as they were conducted only on a responder cohort.
+de:
+  title: Phase-II-Pilotstudie berichtet geringere Fatigue und Modulation des Purinstoffwechsels unter niedrigdosiertem Rapamycin
+  plain_summary: Eine kleine unkontrollierte Pilotstudie berichtete geringere Fatigue bei ME/CFS-Betroffenen unter individuell hergestelltem niedrigdosiertem Rapamycin und verknüpfte Blutveränderungen bei Ansprechenden mit dem Purinstoffwechsel. Da eine Placebogruppe fehlte und Laboranalysen nur bei Ansprechenden erfolgten, belegt die Arbeit keine Wirksamkeit.
+  detail: Eine beobachtende Phase-II-Pilotstudie (NCT06257420) mit individuell hergestelltem (compounded) niedrigdosiertem Rapamycin bei ME/CFS berichtete signifikante Abnahmen der Fatigue-Symptomatik. Mechanistische Analysen einer Responder-Kohorte nach 90 Tagen Therapie deuteten darauf hin, dass Rapamycin die Purin-Biosynthese verändert, indem es die Aktivität der IMP-Dehydrogenase in mononukleären Zellen des peripheren Blutes (PBMCs) senkt, dadurch die Umwandlung von Inosinmonophosphat (IMP) in Xanthosin-5-monophosphat (XMP) begrenzt und die Plasmaspiegel von Hypoxanthin (HPX) verändert. Die Studie schlug vor, dass diese Modulation des Purinstoffwechsels mitochondriale Energiebeeinträchtigungen (gemessen über die Seahorse-Sauerstoffverbrauchsrate) und entzündliche Mikroglia-Aktivierung mildert. Da es sich jedoch um eine kleine, unkontrollierte Beobachtungs-Pilotstudie handelt, kann sie Placeboeffekte nicht ausschließen, und die molekularen Analysen sind zugunsten positiver Befunde verzerrt,
+    weil sie ausschließlich an einer Responder-Gruppe durchgeführt wurden.

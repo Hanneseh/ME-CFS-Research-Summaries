@@ -1,0 +1,18 @@
+id: 2026-02-02_sleep-disturbance-in-long-covid-associated-with-impaired
+date: '2026-02-02'
+date_display: '2026-02-02'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Engert et al. 2026, Prostaglandins, Leukotrienes and Essential Fatty Acids
+  url: https://doi.org/10.1016/j.plefa.2026.102728
+  kind: paper
+en:
+  title: Sleep disturbance in Long COVID associated with impaired lipid-mediated inflammatory resolution
+  plain_summary: In 31 Long COVID patients and 8 controls, severe sleep disruption went hand in hand with lower levels of natural inflammation-resolving lipids. Because the group was small and measured only once, it cannot show whether poor sleep worsens inflammation or inflammation disrupts sleep.
+  detail: Mass spectrometry analysis of 31 Long COVID patients and 8 controls showed that severe sleep disturbance correlates with significantly depleted levels of specialized pro-resolving mediators (SPMs like 17-HDHA and Resolvin D1) and elevated PGE2. This demonstrates that sleep disruption impairs the body's active physiological mechanisms for resolving inflammation, suggesting sleep quality as a critical therapeutic target. However, the small, observational study cannot establish a direct causal path determining whether sleep disruption causes SPM depletion or if chronic inflammation disrupts sleep pathways.
+de:
+  title: Schlafstörungen bei Long COVID hängen mit gestörter lipidvermittelter Entzündungsauflösung zusammen
+  plain_summary: Bei 31 Long-COVID-Betroffenen und 8 Kontrollen gingen schwere Schlafstörungen mit deutlich niedrigeren Spiegeln natürlicher Botenstoffe zur Entzündungsauflösung einher. Wegen der kleinen Gruppe und des Querschnittsdesigns bleibt offen, ob schlechter Schlaf die Entzündungsauflösung bremst oder die Entzündung den Schlaf stört.
+  detail: Massenspektrometrische Analysen bei 31 Long-COVID-Patientinnen und -Patienten sowie 8 Kontrollen zeigten, dass schwere Schlafstörungen mit deutlich erniedrigten Spiegeln spezialisierter entzündungsauflösender Lipidmediatoren (SPMs wie 17-HDHA und Resolvin D1) und erhöhtem PGE2 korrelieren. Dies weist darauf hin, dass gestörter Schlaf mit einer Beeinträchtigung körpereigener Mechanismen zum aktiven Abklingen von Entzündungen einhergeht, und lenkt den Blick auf die Schlafqualität als potenziellen Ansatzpunkt. Die kleine Beobachtungsstudie kann jedoch keinen direkten Kausalpfad belegen, also weder, ob Schlafmangel SPMs senkt, noch ob chronische Entzündung den Schlaf stört.

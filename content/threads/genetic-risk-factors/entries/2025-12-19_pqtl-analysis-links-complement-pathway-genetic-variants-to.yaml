@@ -1,0 +1,18 @@
+id: 2025-12-19_pqtl-analysis-links-complement-pathway-genetic-variants-to
+date: '2025-12-19'
+date_display: '2025-12-19'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Maya et al. 2025, Preprints.org
+  url: https://doi.org/10.20944/preprints202512.1773.v1
+  kind: preprint
+en:
+  title: pQTL analysis links complement pathway genetic variants to an inflammatory patient subgroup
+  plain_summary: A small preprint linked specific gene variants to altered levels of blood complement proteins—part of the innate immune defense—in one subgroup of ME/CFS patients. Because only 50 patients were studied, these potential subgroup markers need testing in much larger groups.
+  detail: A pQTL study in 50 ME/CFS patients and 121 non-fatigued controls tested 9,146 SNPs for associations with plasma complement protein levels, identifying 3,192 significant associations including 11 variants previously linked to ME/CFS in other analyses. A distinct patient subgroup was characterised by a "high C3/low Bb" complement protein profile indicating dysregulation of the alternative complement pathway, and six significant pQTLs were independently validated through their association with fatigue-related phenotypes in the UK Biobank. The findings provide a genetic mechanism by which risk alleles may drive inflammatory heterogeneity, and C3 and Factor B emerge as candidate predictive markers. The small cohort size (50 patients) is the primary limitation and necessitates replication in substantially larger cohorts before these pQTL signals can be considered robust.
+de:
+  title: pQTL-Analyse verknüpft Genvarianten des Komplementsystems mit einer entzündlichen Patientengruppe
+  plain_summary: Ein kleiner Preprint bringt bestimmte Genvarianten bei einer Untergruppe von ME/CFS-Betroffenen mit veränderten Spiegeln von Komplementproteinen der angeborenen Immunabwehr in Verbindung. Da nur 50 Patientinnen und Patienten untersucht wurden, müssen diese möglichen Gruppenmarker erst in deutlich größeren Kohorten geprüft werden.
+  detail: Eine pQTL-Studie an 50 ME/CFS-Betroffenen und 121 nicht erschöpften Kontrollpersonen testete 9.146 SNPs auf Zusammenhänge mit Komplementprotein-Spiegeln im Blutplasma und fand 3.192 signifikante Assoziationen, darunter 11 zuvor bereits mit ME/CFS in Verbindung gebrachte Varianten. Eine abgrenzbare Patienten-Untergruppe war durch ein „High-C3/Low-Bb“-Profil gekennzeichnet, was auf eine Fehlregulation des alternativen Komplementwegs hindeutet; sechs signifikante pQTLs ließen sich über ihren Zusammenhang mit Erschöpfungs-Phänotypen in der UK Biobank unabhängig bestätigen. Die Ergebnisse liefern einen genetischen Mechanismus dafür, wie Risikoallele entzündliche Unterschiede zwischen Betroffenen mitprägen können, und rücken C3 sowie Faktor B als potenzielle prädiktive Marker in den Blick. Die geringe Gruppengröße von 50 Betroffenen ist die wichtigste Einschränkung und macht eine Überprüfung in wesentlich größeren Kohorten nötig, bevor diese pQTL-Signale als belastbar gelten können.

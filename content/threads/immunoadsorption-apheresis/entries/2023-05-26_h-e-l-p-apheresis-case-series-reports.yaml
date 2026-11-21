@@ -1,0 +1,20 @@
+id: 2023-05-26_h-e-l-p-apheresis-case-series-reports
+date: '2023-05-26'
+date_display: '2023-05-26'
+date_precision: exact
+source_type: paper
+study_design: Case series
+sources:
+- label: Jaeger et al. 2023, Infectious Diseases Diagnosis & Treatment
+  url: https://doi.org/10.29011/2577-1515.100216
+  kind: paper
+en:
+  title: H.E.L.P. apheresis case series reports symptom resolution in Long COVID
+  plain_summary: A retrospective report of 17 Long COVID patients who received H.E.L.P. apheresis blood filtration noted that 16 felt substantially better and 12 reported near-complete symptom relief. Because there was no control or sham group, this early report cannot separate the procedure's effect from placebo responses or natural recovery.
+  detail: A retrospective pilot study evaluated Heparin-mediated Extracorporeal LDL Precipitation (H.E.L.P.) apheresis in 17 patients with severe Long COVID (symptoms lasting 2–12 months), showing that 16 patients experienced immediate, substantial improvement in fatigue, breathlessness, and cognitive dysfunction. Following 1 to 7 sessions, 12 patients reported complete or near-complete symptom resolution, with benefits maintained or improved in 15 patients at a 6–10 month follow-up. This work supports the hypothesis that persistent microclots, fibrinogen, and inflammatory mediators restrict capillary blood flow and oxygen transport in Long COVID. By physically filtering these components, the procedure aims to improve blood rheology and microvascular perfusion, offering a potential therapeutic avenue directed at vascular pathology. However, the study does not prove clinical efficacy due to its small size, retrospective case-series design, and lack of a control group. It remains unclear whether
+    the observed improvements were due to the procedure itself, a placebo response, or natural recovery over time. Additionally, the optimal number of treatments and the long-term safety profile of repeated sessions in this patient population are undetermined.
+de:
+  title: Fallserie zu H.E.L.P.-Apherese berichtet Symptomrückgang bei Long COVID
+  plain_summary: Eine rückblickende Auswertung von 17 Long-COVID-Betroffenen nach H.E.L.P.-Apherese berichtete bei 16 Personen eine deutliche Besserung und bei 12 einen nahezu vollständigen Symptomrückgang. Da eine Kontroll- oder Scheingruppe fehlte, lässt dieser frühe Bericht keine Unterscheidung zwischen echter Verfahrenswirkung, Placeboeffekt und spontaner Erholung zu.
+  detail: Eine retrospektive Pilotstudie untersuchte die Heparin-induzierte extrakorporale LDL-Präzipitation (H.E.L.P.-Apherese) bei 17 Patientinnen und Patienten mit schwerem Long COVID (Beschwerdedauer 2–12 Monate) und berichtete bei 16 Betroffenen eine rasche, deutliche Besserung von Fatigue, Atemnot und kognitiven Störungen. Nach 1 bis 7 Sitzungen gaben 12 Teilnehmende einen vollständigen oder nahezu vollständigen Symptomrückgang an, der bei 15 Personen nach 6–10 Monaten anhielt oder sich weiter besserte. Diese Arbeit stützt die Hypothese, dass anhaltende Mikrogerinnsel, Fibrinogen und Entzündungsmediatoren bei Long COVID die Kapillardurchblutung und den Sauerstofftransport einschränken. Durch das physikalische Herausfiltern dieser Bestandteile soll das Verfahren Fließeigenschaften des Blutes und Mikrozirkulation verbessern. Aufgrund der geringen Größe, des retrospektiven Fallserien-Designs und der fehlenden Kontrollgruppe beweist die Studie jedoch keine klinische Wirksamkeit; offen
+    bleibt, ob die Besserungen auf der Behandlung, einer Placeboantwort oder natürlicher Erholung beruhten, und auch optimale Sitzungszahl sowie Langzeitsicherheit sind ungeklärt.

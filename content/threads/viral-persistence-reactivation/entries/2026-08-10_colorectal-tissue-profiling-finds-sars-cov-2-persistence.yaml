@@ -1,0 +1,20 @@
+id: 2026-08-10_colorectal-tissue-profiling-finds-sars-cov-2-persistence
+date: '2026-08-10'
+date_display: '2026-08-10'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: LaFranchi et al. 2026, bioRxiv
+  url: https://doi.org/10.64898/2026.08.07.743616
+  kind: preprint
+en:
+  title: Colorectal tissue profiling finds SARS-CoV-2 persistence and suppressed cytotoxic clearance in Long COVID
+  plain_summary: A preprint studying gut biopsies from 44 Long COVID patients found lingering SARS-CoV-2 RNA and proteins alongside muted local killer-cell defenses—changes largely invisible in blood tests. It still awaits peer review, only appeared in a subset of ambulatory patients, and has not been tested in non-COVID ME/CFS.
+  detail: A bioRxiv preprint by the UCSF LIINC cohort evaluated gastrointestinal viral persistence and mucosal immunology using multi-omic and spatial profiling of colorectal tissue biopsies from 44 individuals with Long COVID and 13 recovered controls. The investigators detected persistent SARS-CoV-2 RNA and viral proteins within colorectal mucosal tissue months to years after acute infection in a subset of Long COVID participants. Spatial and transcriptomic analyses revealed a compartmentalized mucosal pathology characterized by sustained innate myeloid inflammation alongside marked suppression of cytotoxic clearance pathways, including downregulated antigen presentation, impaired phagocytosis, reduced CD8+ and NK cell trafficking, and decreased granzyme B expression. Crucially, these profound immune perturbations were prominent in deep-tissue sanctuary sites but markedly attenuated or undetectable in matched peripheral blood samples. As an unreviewed preprint, these findings require formal
+    peer review, and viral persistence was confirmed in only a subset of participants rather than the entire cohort. Moreover, the study examined Long COVID rather than classical ME/CFS, and the physical burden of invasive endoscopic biopsies restricted participation to ambulatory patients, leaving severe or bedbound patient representation unaddressed.
+de:
+  title: Darmgewebe-Analysen finden SARS-CoV-2-Persistenz und gedrosselte zytotoxische Abwehr bei Long COVID
+  plain_summary: Ein Preprint an Darmbiopsien von 44 Long-COVID-Betroffenen wies in einem Teil der Fälle anhaltende SARS-CoV-2-RNA und -Proteine sowie geschwächte lokale Abwehrzellen nach – Veränderungen, die im Blut kaum sichtbar waren. Die Arbeit steht noch vor dem Peer-Review, betraf nur eine Teilgruppe gehfähiger Patienten und wurde bei klassischem ME/CFS nicht geprüft.
+  detail: Ein bioRxiv-Preprint der UCSF-LIINC-Kohorte untersuchte gastrointestinale Viruspersistenz und Schleimhaut-Immunologie mittels Multi-Omics- und räumlicher Analysen an Dickdarmbiopsien von 44 Menschen mit Long COVID und 13 genesenen Kontrollen. Die Forschenden wiesen bei einer Teilgruppe der Long-COVID-Betroffenen Monate bis Jahre nach der Akutinfektion anhaltende SARS-CoV-2-RNA und Virusproteine in der Darmschleimhaut nach. Räumliche und transkriptomische Auswertungen zeigten eine abgeschottete Schleimhaut-Pathologie mit anhaltender myeloider Entzündung bei deutlich gedrosselter zytotoxischer Abwehr – darunter herunterregulierte Antigenpräsentation, eingeschränkte Phagozytose, geringere Einwanderung von CD8+- und NK-Zellen sowie weniger Granzym B –, während diese Veränderungen in gepaarten Blutproben kaum nachweisbar waren. Als nicht begutachteter Preprint bedürfen die Ergebnisse des Peer-Reviews; zudem trat die Persistenz nur bei einem Teil der untersuchten Long-COVID-Gruppe auf,
+    und die belastende Endoskopie schloss schwer oder bettlägerig Betroffene sowie klassische ME/CFS-Kohorten aus.

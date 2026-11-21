@@ -1,0 +1,23 @@
+id: 2026-09-28_journal-version-of-apav-registry-modelling-links-muscle
+date: '2026-09-28'
+date_display: '2026-09-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Habermann-Horstmeier & Horstmeier 2026, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-026-09018-9
+  kind: paper
+- label: Habermann-Horstmeier & Horstmeier 2026, initial Research Square preprint
+  url: https://doi.org/10.21203/rs.3.rs-10268339/v1
+  kind: preprint
+en:
+  title: Journal version of APAV registry modelling links muscle symptoms to a single latent physiological factor
+  plain_summary: A peer-reviewed registry study of 736 German ME/CFS patients found that muscle complaints statistically clustered with breathing, flu-like, and temperature-regulation symptoms into one shared factor. Because it relied on digital self-report questionnaires without muscle tests, it maps symptom patterns rather than biological causes.
+  detail: This is the peer-reviewed Journal of Translational Medicine version of a Research Square preprint first posted on 2026-08-04. Habermann-Horstmeier and Horstmeier analysed cross-sectional APAV-ME/CFS registry data from 736 people with physician-diagnosed ME/CFS, extending the authors' earlier sex- and menopause-stratified analyses (see the separate 2026-07-27 paper). With muscle problems as the outcome, breathing problems, flu-like symptoms, and temperature-regulation disorders were independently associated in the full model, and cardiovascular symptoms only in a reduced model; factor analysis and structural equation modelling supported a single latent physiological symptom-dysregulation factor. Overall interaction tests for sex and an age-defined menopausal-status proxy were not significant, so the subgroup patterns are descriptive and exploratory. The result describes statistical symptom structure, not mechanism. Self-reported registry questionnaires, no objective muscle measures,
+    and likely under-representation of severe, bedbound patients who cannot complete digital surveys limit interpretation.
+de:
+  title: Fachzeitschriften-Publikation der APAV-Registermodellierung verknüpft Muskelsymptome mit einem gemeinsamen latenten Faktor
+  plain_summary: Eine begutachtete Registerstudie mit 736 ME/CFS-Betroffenen in Deutschland fand, dass Muskelbeschwerden statistisch mit Atem-, grippeähnlichen und Temperaturregulations-Symptomen auf einen gemeinsamen Faktor luden. Da digitale Selbstauskünfte ohne objektive Muskelmessungen genutzt wurden, beschreibt dies statistische Muster statt biologischer Ursachen.
+  detail: Dies ist die begutachtete Publikation im Journal of Translational Medicine zu einem erstmals am 04.08.2026 auf Research Square eingestellten Preprint. Habermann-Horstmeier und Horstmeier werteten Querschnittsdaten des APAV-ME/CFS-Registers von 736 Menschen mit ärztlich diagnostiziertem ME/CFS aus und erweiterten frühere geschlechts- und menopausenstratifizierte Analysen (siehe die gesonderte Arbeit vom 27.07.2026). Mit Muskelproblemen als Zielgröße waren Atemprobleme, grippeähnliche Symptome und Temperaturregulationsstörungen im Gesamtmodell unabhängig assoziiert, Herz-Kreislauf-Symptome nur in einem reduzierten Modell; Faktoren- und Strukturgleichungsanalysen stützten einen einzigen latenten Faktor physiologischer Symptomdysregulation. Gesamte Interaktionstests für Geschlecht und ein altersdefiniertes Menopausen-Proxy waren nicht signifikant, sodass Untergruppenmuster deskriptiv und explorativ bleiben. Das Ergebnis beschreibt statistische Symptomstruktur statt eines Mechanismus;
+    selbstberichtete Registerdaten ohne objektive Muskelmessungen sowie wahrscheinliche Untererfassung schwerer, bettlägeriger Betroffener begrenzen die Aussagekraft.

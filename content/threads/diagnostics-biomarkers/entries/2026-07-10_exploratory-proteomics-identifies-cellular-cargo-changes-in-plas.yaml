@@ -1,0 +1,20 @@
+id: 2026-07-10_exploratory-proteomics-identifies-cellular-cargo-changes-in-plas
+date: '2026-07-10'
+date_display: '2026-07-10'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Rydland et al. 2026, Biochemistry and Biophysics Reports
+  url: https://pubmed.ncbi.nlm.nih.gov/42375682/
+  kind: paper
+en:
+  title: Exploratory proteomics identifies cellular cargo changes in plasma extracellular vesicles
+  plain_summary: A study of 49 ME/CFS patients and 50 controls confirmed higher numbers of tiny blood vesicles overall, but differences in the proteins carried inside them did not hold up after statistical correction. These protein signals remain exploratory and do not provide a diagnostic test.
+  detail: In a peer-reviewed exploratory case-control study published in *Biochemistry and Biophysics Reports*, Rydland et al. analyzed plasma extracellular vesicle (EV) profiles in 49 ME/CFS patients and 50 healthy controls. The study successfully replicated findings showing significantly elevated total concentrations of plasma EVs in ME/CFS patients compared to controls. However, high-resolution quantitative proteomics of the vesicle cargo yielded less robust diagnostic markers. Out of 424 detected proteins, 11 proteins showed differential expression (including elevated liver-derived proteins and decreased erythroid and B-cell-derived proteins), but these differences did not remain statistically significant after correcting for multiple testing. While the study provides further evidence for altered systemic vesicle biology and cellular communication, the small cohort size and lack of multiple testing significance mean these specific protein cargo signatures remain unvalidated, exploratory
+    findings requiring larger replication cohorts.
+de:
+  title: Explorative Proteomik untersucht zelluläre Frachtveränderungen in extrazellulären Plasmavesikeln
+  plain_summary: Eine Studie mit 49 ME/CFS-Betroffenen und 50 Kontrollen bestätigte zwar insgesamt erhöhte Mengen winziger Blutvesikel, doch hielten Unterschiede bei den darin transportierten Proteinen einer statistischen Mehrfachtest-Korrektur nicht stand. Diese Proteinsignale bleiben daher vorläufig und taugen noch nicht als Diagnosetest.
+  detail: 'In einer begutachteten explorativen Fall-Kontroll-Studie in *Biochemistry and Biophysics Reports* untersuchten Rydland et al. Profile extrazellulärer Vesikel (EV) im Blutplasma von 49 ME/CFS-Patientinnen und -Patienten sowie 50 gesunden Kontrollpersonen. Die Studie replizierte frühere Befunde deutlich erhöhter Gesamtkonzentrationen von Plasma-EVs bei ME/CFS im Vergleich zu Kontrollen. Eine hochauflösende quantitative Proteomanalyse der Vesikelfracht lieferte jedoch weniger robuste diagnostische Marker: Von 424 nachgewiesenen Proteinen zeigten 11 veränderte Mengen (darunter erhöhte leberstämmige sowie verringerte erythroide und B-Zell-stämmige Proteine), doch blieben diese Unterschiede nach Korrektur für multiples Testen statistisch nicht signifikant. Obwohl die Arbeit weitere Hinweise auf eine veränderte systemische Vesikelbiologie und Zellkommunikation liefert, bleiben diese spezifischen Proteinfracht-Signaturen wegen der kleinen Kohorte und der fehlenden Signifikanz nach Korrektur
+    unbestätigte explorative Befunde.'

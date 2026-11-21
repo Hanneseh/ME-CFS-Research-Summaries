@@ -1,0 +1,19 @@
+id: 2025-12-30_age-stratified-sequencing-reveals-distinct-fungal-dysbiosis-patt
+date: '2025-12-30'
+date_display: '2025-12-30'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Gan et al. 2025, BMC Microbiology
+  url: https://doi.org/10.1186/s12866-025-04650-9
+  kind: paper
+en:
+  title: Age-stratified sequencing reveals distinct fungal dysbiosis patterns in ME/CFS
+  plain_summary: A study of stool samples from 59 ME/CFS patients and 59 healthy controls found that gut fungi differ from controls in ways that flip with age—lower diversity in younger patients and higher diversity in older ones. Computer models separated patients from controls within this sample, but the approach needs testing in larger, independent groups before it could ever be used for diagnosis.
+  detail: Gan et al. performed high-throughput ITS sequencing on stool from 59 ME/CFS patients and 59 matched controls, stratified into young, middle-aged, and elderly cohorts, making this one of the first systematic characterisations of the gut mycobiome in ME/CFS. Fungal richness was reduced in younger and middle-aged patients but unexpectedly elevated in the elderly cohort, indicating that pooling age groups masks biologically distinct subpopulations; key discriminatory taxa included _Preussia_, _Aspergillus_, and _Chaetomium_. Random Forest diagnostic models built on these age-specific fungal signatures achieved classification accuracies up to 100% within the study cohort, suggesting strong within-sample discriminatory signal. Replication in larger, geographically diverse cohorts is required before these models have any clinical diagnostic utility, and the functional contribution of these fungal taxa to host immune activation or metabolic disruption remains unexplored.
+de:
+  title: Altersstratifizierte Sequenzierung deckt unterschiedliche Muster pilzlicher Dysbiose bei ME/CFS auf
+  plain_summary: Eine Stuhluntersuchung bei 59 ME/CFS-Betroffenen und 59 gesunden Kontrollen zeigte, dass sich die Darmpilze je nach Alter unterschiedlich verändern – mit geringerer Vielfalt bei Jüngeren und höherer bei Älteren. Computermodelle konnten die Gruppen innerhalb dieser Studie trennen, doch muss dies erst in größeren, unabhängigen Kohorten bestätigt werden, bevor an einen Diagnosetest zu denken ist.
+  detail: Gan et al. führten eine Hochdurchsatz-ITS-Sequenzierung an Stuhlproben von 59 ME/CFS-Patientinnen und -Patienten sowie 59 gematchten Kontrollen durch, unterteilt in junge, mittelalte und ältere Kohorten – eine der ersten systematischen Charakterisierungen des Darm-Mykobioms bei ME/CFS. Die Pilzvielfalt war bei jüngeren und mittelalten Betroffenen reduziert, in der älteren Kohorte jedoch unerwartet erhöht, was zeigt, dass das Zusammenwerfen aller Altersgruppen biologisch unterschiedliche Subpopulationen verdeckt; zu den zentralen unterscheidenden Taxa gehörten _Preussia_, _Aspergillus_ und _Chaetomium_. Random-Forest-Diagnosemodelle auf Basis dieser altersspezifischen Pilzsignaturen erreichten innerhalb der Studienkohorte Klassifikationsgenauigkeiten von bis zu 100 %, was auf ein starkes stichprobeninternes Trennsignal hindeutet. Eine Replikation in größeren, geografisch vielfältigen Kohorten ist erforderlich, bevor diese Modelle einen klinischen diagnostischen Nutzen haben können,
+    und der funktionelle Beitrag dieser Pilztaxa zu Immunaktivierung oder Stoffwechselstörungen beim Wirt bleibt noch unerforscht.

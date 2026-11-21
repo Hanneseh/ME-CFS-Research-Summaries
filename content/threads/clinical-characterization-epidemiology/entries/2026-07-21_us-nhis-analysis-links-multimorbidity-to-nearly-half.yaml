@@ -1,0 +1,20 @@
+id: 2026-07-21_us-nhis-analysis-links-multimorbidity-to-nearly-half
+date: '2026-07-21'
+date_display: '2026-07-21'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: 'US NHIS depression and multimorbidity study: Mao & Wu 2026, Frontiers in Public Health'
+  url: https://doi.org/10.3389/fpubh.2026.1862602
+  kind: paper
+en:
+  title: US NHIS analysis links multimorbidity to nearly half the statistical association between depression history and ME/CFS
+  plain_summary: A large U.S. survey analysis found that having multiple chronic physical illnesses explained nearly half of the statistical link between prior depression and self-reported ME/CFS. Because the data are cross-sectional self-reports without formal ME/CFS exams, they cannot determine cause or order of onset.
+  detail: A peer-reviewed cross-sectional analysis of 2021–2023 US National Health Interview Survey (NHIS) data published in Frontiers in Public Health evaluated the statistical links between depression history, chronic multimorbidity, and self-reported ME/CFS. While a history of depression was associated with 1.61-fold increased odds of current ME/CFS, a composite chronic disease history score comprising conditions such as arthritis, asthma, and hypertension exhibited a strong non-linear association (OR 2.49). Statistical mediation modeling revealed that cumulative multimorbid disease burden accounted for 47.2% of the total association between depression history and ME/CFS in the overall adult sample, rising to 59.2% in adults aged 50–64. The disease history score did not improve diagnostic discrimination or reclassification metrics, confirming that multimorbidity does not serve as an independent diagnostic classifier. As a cross-sectional self-reported survey lacking standardized IOM or
+    Canadian Consensus Criteria validation and post-exertional malaise measurement, the study cannot establish whether depression or chronic comorbidities precede, accompany, or result from ME/CFS.
+de:
+  title: US-NHIS-Analyse verknüpft Multimorbidität mit fast der Hälfte des statistischen Zusammenhangs zwischen Depressionsvorgeschichte und ME/CFS
+  plain_summary: Eine große US-Umfrageanalyse zeigte, dass mehrere chronische körperliche Vorerkrankungen fast die Hälfte des statistischen Zusammenhangs zwischen früherer Depression und selbstberichtetem ME/CFS erklärten. Da einmalige Selbstauskünfte ohne ärztliche ME/CFS-Prüfung ausgewertet wurden, lässt sich weder Ursache noch zeitliche Abfolge ableiten.
+  detail: Eine in Frontiers in Public Health veröffentlichte Querschnittsanalyse von Daten des US National Health Interview Survey (NHIS) 2021–2023 untersuchte statistische Zusammenhänge zwischen einer Depressionsvorgeschichte, chronischer Multimorbidität und selbstberichtetem ME/CFS. Während eine frühere Depression mit einer 1,61-fach höheren Chance für aktuelles ME/CFS verbunden war, zeigte ein Gesamtscore chronischer Vorerkrankungen (darunter Arthritis, Asthma und Bluthochdruck) einen starken nicht-linearen Zusammenhang (OR 2,49). Statistische Mediationsmodelle ergaben, dass kumulative Multimorbidität 47,2 % des Gesamtzusammenhangs zwischen Depressionsvorgeschichte und ME/CFS bei Erwachsenen insgesamt erklärte und bei 50- bis 64-Jährigen auf 59,2 % stieg. Der Vorerkrankungs-Score verbesserte jedoch weder diagnostische Trennschärfe noch Reklassifizierung und taugt somit nicht als Diagnoseklassifikator. Da eine Querschnittsbefragung ohne IOM- oder Kanadische Kriterien und ohne PEM-Messung
+    vorliegt, bleibt offen, ob Depression oder Begleiterkrankungen dem ME/CFS vorausgehen, es begleiten oder daraus folgen.

@@ -1,0 +1,18 @@
+id: 2026-04-14_two-threshold-model-links-shear-stress-and-pem
+date: '2026-04-14'
+date_display: '2026-04-14'
+date_precision: exact
+source_type: report
+study_design: null
+sources:
+- label: Karipidis & Karipidis 2026, ResearchGate
+  url: https://www.researchgate.net/publication/403650447_Shear-Stress-Tolerance-Threshold-eNOS-Uncoupling-and-the-Two-Threshold-Model-of-Post-Exertional-Malaise-in-Long-COVID-A-Mechanistic-Hypothesis-with-Implications-for-Physiotherapy-Practice
+  kind: other
+en:
+  title: Two-threshold model links shear stress and PEM in Long COVID
+  plain_summary: A theory paper suggests that blood-vessel lining stress and PEM may operate on two separate thresholds in Long COVID, explaining why even light movement could disrupt vessel signaling. It remains an untested hypothesis with no patient data or biomarkers yet.
+  detail: This mechanistic paper proposed that endothelial shear stress tolerance and PEM are separate thresholds within a vascular injury model. The main change is a clinical hypothesis that minimal exertion may trigger oxidative and nitric-oxide signaling problems before traditional exercise limits are reached. That offers a testable way to think about physiotherapy and vascular support. It remains a theory without longitudinal clinical validation or biomarker confirmation.
+de:
+  title: Zwei-Schwellen-Modell verknüpft Scherstress und PEM bei Long COVID
+  plain_summary: Eine theoretische Arbeit schlägt vor, dass Gefäßwand-Stress und PEM bei Long COVID zwei getrennten Schwellenwerten folgen, wodurch schon leichte Belastung die Gefäßregulation stören könnte. Ohne Längsschnittdaten oder bestätigte Biomarker bleibt dies vorerst eine ungetestete Hypothese.
+  detail: Diese mechanistische Arbeit stellte die Hypothese auf, dass die Toleranz gegenüber endothelialem Scherstress und PEM innerhalb eines vaskulären Schädigungsmodells getrennte Schwellenwerte darstellen. Im Kern steht die klinische Vermutung, dass bereits minimale Belastung oxidative und Stickstoffmonoxid-Signalprobleme auslösen könnte, bevor klassische Belastungsgrenzen erreicht sind. Das bietet einen prüfbaren Denkansatz für Physiotherapie und Gefäßunterstützung. Gleichwohl bleibt es eine Theorie ohne klinische Längsschnitt-Validierung oder Biomarker-Bestätigung.

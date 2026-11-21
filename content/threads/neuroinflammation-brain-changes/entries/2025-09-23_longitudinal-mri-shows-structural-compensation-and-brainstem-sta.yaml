@@ -1,0 +1,18 @@
+id: 2025-09-23_longitudinal-mri-shows-structural-compensation-and-brainstem-sta
+date: '2025-09-23'
+date_display: '2025-09-23'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Dadsena et al. 2025, Brain Communications
+  url: https://doi.org/10.1093/braincomms/fcaf366
+  kind: paper
+en:
+  title: Longitudinal MRI shows structural compensation and brainstem stabilization over three years
+  plain_summary: Tracking 51 Long COVID patients over three years, researchers saw gradual clinical improvement alongside subtle brain reorganization, while blood markers of nerve injury stayed normal. This suggests the brain may be adapting rather than steadily degenerating, though an asymptomatic post-COVID control group was missing.
+  detail: A three-year longitudinal study tracking 51 Long COVID patients and 23 controls revealed slow but positive clinical improvement accompanied by brain structural reorganization and functional compensation. High-resolution MRI showed progressive volume loss in the thalamus and basal ganglia alongside increased regional neuronal activation, while early brainstem volume loss stabilized and showed enhanced functional connectivity. Importantly, blood biomarkers of neuronal damage (NfL, GFAP) and systemic inflammation remained normal, suggesting these brain changes represent cellular adaptation and compensation rather than progressive neurodegeneration. However, the study lacked an asymptomatic post-COVID control group, and the long-term clinical significance of persistent structural volume loss requires further study.
+de:
+  title: Längsschnitt-MRT zeigt strukturelle Kompensation und Hirnstamm-Stabilisierung über drei Jahre
+  plain_summary: Über drei Jahre zeigten 51 Long-COVID-Betroffene eine langsame klinische Besserung bei gleichzeitiger funktioneller Anpassung im Gehirn, während Blutmarker für Nervenschäden normal blieben. Das spricht eher für Umbau und Kompensation als für fortschreitenden Nervenabbau, auch wenn eine Kontrollgruppe aus genesenen COVID-Betroffenen fehlte.
+  detail: Eine dreijährige Längsschnittstudie mit 51 Long-COVID-Patientinnen und -Patienten sowie 23 Kontrollen ergab eine langsame, aber positive klinische Besserung begleitet von struktureller Reorganisation und funktioneller Kompensation im Gehirn. Hochauflösende MRT-Aufnahmen zeigten eine fortschreitende Volumenabnahme in Thalamus und Basalganglien bei gleichzeitig erhöhter regionaler neuronaler Aktivierung, während sich frühe Volumenverluste im Hirnstamm stabilisierten und eine verstärkte funktionelle Konnektivität aufwiesen. Wichtig ist, dass Blutbiomarker für neuronale Schädigung (NfL, GFAP) und systemische Entzündung normal blieben, was darauf hindeutet, dass diese Gehirnveränderungen zelluläre Anpassung und Kompensation statt fortschreitender Neurodegeneration darstellen. Allerdings fehlte der Studie eine asymptomatische Post-COVID-Kontrollgruppe, und die langfristige klinische Bedeutung des anhaltenden strukturellen Volumenverlusts erfordert weitere Forschung.

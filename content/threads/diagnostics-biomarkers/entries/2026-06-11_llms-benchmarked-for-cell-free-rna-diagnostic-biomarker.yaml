@@ -1,0 +1,20 @@
+id: 2026-06-11_llms-benchmarked-for-cell-free-rna-diagnostic-biomarker
+date: '2026-06-11'
+date_display: '2026-06-11'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Li et al. 2026, Nature Communications
+  url: https://pubmed.ncbi.nlm.nih.gov/42276999/
+  kind: paper
+en:
+  title: LLMs benchmarked for cell-free RNA diagnostic biomarker discovery
+  plain_summary: A study tested six large language models on blood RNA datasets and found they could help pick out known immune pathways, but struggled to build reliable diagnostic classifiers on their own for complex ME/CFS data. AI language models may assist researchers with literature-guided gene selection, not replace human oversight or clinical validation.
+  detail: A peer-reviewed study in *Nature Communications* evaluated six large language models—including architectures from OpenAI, Anthropic, and Google—for cell-free RNA (cfRNA) diagnostic biomarker discovery across three plasma datasets, including an ME/CFS cohort paired with sedentary controls. The benchmark tested both literature-guided gene panel nomination and autonomous classifier construction. Model-nominated cfRNA panels successfully recapitulated canonical immune pathways and matched conventional differential gene expression baselines established in distinct infectious cohorts such as tuberculosis. However, end-to-end autonomous classifier performance dropped significantly for the complex ME/CFS dataset compared to more discrete inflammatory disease pairs like Kawasaki disease versus MIS-C. High prompt adherence variance across models highlighted that LLM-driven gene selection remains task-dependent and cannot yet reliably automate diagnostic classification in multisystem illnesses
+    without human oversight. For patient care, the findings establish both the potential of AI tools for rapid transcriptomic feature extraction and their current boundaries in complex post-viral diagnostics.
+de:
+  title: Große Sprachmodelle für die Entdeckung diagnostischer Biomarker aus zellfreier RNA getestet
+  plain_summary: 'Eine Studie prüfte sechs große Sprachmodelle an Blut-RNA-Datensätzen: Sie fanden zwar bekannte Immun-Signalwege, scheiterten bei den komplexen ME/CFS-Daten jedoch an einer verlässlichen eigenständigen Diagnosestellung. Sprachmodelle können Forschende bei der Vorauswahl von Genen unterstützen, ersetzen aber weder menschliche Kontrolle noch klinische Studien.'
+  detail: Eine begutachtete Studie in *Nature Communications* bewertete sechs große Sprachmodelle (LLMs) – darunter Architekturen von OpenAI, Anthropic und Google – für die Suche nach diagnostischen Biomarkern aus zellfreier RNA (cfRNA) anhand von drei Plasmadatensätzen, darunter einer ME/CFS-Kohorte mit wenig aktiven Kontrollpersonen. Der Benchmark prüfte sowohl literaturgeleitete Vorschläge für Gen-Panels als auch den eigenständigen Aufbau von Klassifikatoren. Vom Modell vorgeschlagene cfRNA-Panels bildeten bekannte Immun-Signalwege erfolgreich ab und erreichten bei klar abgegrenzten Infektionskohorten wie Tuberkulose das Niveau herkömmlicher differentieller Genexpressions-Analysen. Bei dem komplexen ME/CFS-Datensatz fiel die Leistung vollständig autonomer Klassifikatoren jedoch deutlich ab – anders als bei schärfer abgrenzbaren Entzündungskrankheiten wie Kawasaki-Syndrom versus MIS-C. Hohe Schwankungen in der Befolgung von Eingabeaufforderungen zeigten, dass eine LLM-gestützte Genauswahl
+    stark aufgabenabhängig bleibt und komplexe Multisystem-Erkrankungen noch nicht ohne menschliche Aufsicht zuverlässig klassifizieren kann.

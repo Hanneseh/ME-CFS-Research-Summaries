@@ -1,0 +1,19 @@
+id: 2025-11-18_multi-omics-profiling-identifies-profound-sex-specific-immune
+date: '2025-11-18'
+date_display: '2025-11-18'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Shahbaz et al. 2025, Cell Reports Medicine
+  url: https://doi.org/10.1016/j.xcrm.2025.102449
+  kind: paper
+en:
+  title: Multi-omics profiling identifies profound sex-specific immune and endocrine dysregulation in Long COVID
+  plain_summary: In 78 Long COVID patients meeting ME/CFS criteria, women and men showed different immune and hormone profiles—including low testosterone in women, low estradiol in men, and low cortisol in both. This helps explain why the condition affects women more often, though it cannot tell whether hormone shifts cause inflammation or result from it.
+  detail: Integrated flow cytometric, cytokine, and transcriptomic profiling of 78 Long COVID patients meeting ME/CFS criteria (58 female, 20 male) identified distinct immunopathological signatures between the sexes. Females exhibited a myelopoiesis shift (increased neutrophils/monocytes, reduced lymphocytes, and Treg depletion) and upregulated neuroinflammatory genes correlating with brain fog, alongside low testosterone and elevated gut leakiness markers; males showed less inflammation and stress-response transcriptomic signatures. This explains the female-biased prevalence of these syndromes, showing that sex-specific hormonal profiles (low testosterone in females, low estradiol in males, and low cortisol in both) correlate with distinct immune dysregulation patterns. However, the cross-sectional design cannot determine if hormonal deficiencies are the cause or consequence of chronic inflammation, and hormone replacement therapy requires clinical validation.
+de:
+  title: Multi-Omics-Profilierung identifiziert ausgeprägte geschlechtsspezifische Immun- und Hormonstörungen bei Long COVID
+  plain_summary: Bei 78 Long-COVID-Betroffenen mit erfüllten ME/CFS-Kriterien zeigten Frauen und Männer teils unterschiedliche Immun- und Hormonmuster – darunter niedriges Testosteron bei Frauen, niedriges Östradiol bei Männern und niedriges Cortisol bei beiden. Das hilft, die höhere Betroffenheit von Frauen zu erklären, beweist aber weder Ursache noch Wirksamkeit von Hormontherapien.
+  detail: Integrierte durchflusszytometrische, Zytokin- und Transkriptomanalysen bei 78 Long-COVID-Patientinnen und -Patienten mit erfüllten ME/CFS-Kriterien (58 Frauen, 20 Männer) zeigten ausgeprägte geschlechtsspezifische Immunprofile. Frauen wiesen eine Verschiebung der Myelopoese (mehr Neutrophile/Monozyten, weniger Lymphozyten, Depletion von Tregs), hochregulierte neuroinflammatorische Gene passend zu Brain Fog sowie niedriges Testosteron und erhöhte Marker einer gestörten Darmbarriere auf; Männer zeigten geringere Entzündungssignaturen und stärkere Stressantwort-Muster. Dies trägt zur Erklärung der höheren Prävalenz bei Frauen bei und zeigt, dass geschlechtsspezifische Hormonprofile (niedriges Testosteron bei Frauen, niedriges Östradiol bei Männern, niedriges Cortisol bei beiden) mit unterschiedlichen Immunveränderungen einhergehen. Das Querschnittsdesign klärt jedoch nicht, ob Hormonmängel Ursache oder Folge chronischer Entzündung sind, und Hormonersatztherapien bedürfen erst klinischer
+    Prüfung.

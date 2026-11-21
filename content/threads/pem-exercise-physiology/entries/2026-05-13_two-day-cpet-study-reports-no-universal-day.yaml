@@ -1,0 +1,18 @@
+id: 2026-05-13_two-day-cpet-study-reports-no-universal-day
+date: '2026-05-13'
+date_display: '2026-05-13'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Mancini et al. 2026, Frontiers in Physiology
+  url: https://pubmed.ncbi.nlm.nih.gov/42212259/
+  kind: paper
+en:
+  title: Two-day CPET study reports no universal day-2 drop
+  plain_summary: A two-day exercise study found no average day-two drop in oxygen uptake in ME/CFS patients, even though they felt much higher exertion and had lower peak heart rates. This suggests a day-two CPET drop should not be treated as a strict requirement to prove PEM or disability.
+  detail: 'This study found no significant decline in peak VO2 or VO2 at ventilatory threshold between two sequential CPET days in ME/CFS or controls. The important change is negative evidence: a day-2 drop is not universal, even when patients report much higher perceived exertion and lower peak heart rate. That matters because it weakens any claim that a second-day physiologic fall is required to validate PEM or disability. The study also did not track the longer symptom flare window, so a normal day-2 CPET result does not rule out delayed PEM.'
+de:
+  title: Zweitägige CPET-Studie berichtet keinen universellen Leistungsabfall an Tag 2
+  plain_summary: Eine zweitägige Belastungsstudie fand bei ME/CFS-Betroffenen im Schnitt keinen Rückgang der Sauerstoffaufnahme am zweiten Tag, obwohl sie deutlich stärkere Anstrengung empfanden und geringere Maximalpulse erreichten. Ein fehlender Abfall an Tag 2 widerlegt daher weder PEM noch eine bestehende Einschränkung.
+  detail: 'Diese Studie fand zwischen zwei aufeinanderfolgenden CPET-Tagen weder bei ME/CFS noch bei Kontrollen einen signifikanten Rückgang der maximalen Sauerstoffaufnahme (VO2peak) oder der VO2 an der ventilatorischen Schwelle. Das wichtige Ergebnis ist eine negative Evidenz: Ein Abfall an Tag 2 tritt nicht universell auf, selbst wenn Patientinnen und Patienten eine deutlich höhere empfundene Anstrengung und eine niedrigere maximale Herzfrequenz zeigen. Das schwächt jede Behauptung ab, ein physiologischer Leistungsabfall am zweiten Tag sei zwingend nötig, um PEM oder Erwerbsminderung zu belegen. Da die Studie das längere Symptomfenster danach nicht erfasste, schließt ein unauffälliger Tag-2-CPET verzögertes PEM zudem nicht aus.'

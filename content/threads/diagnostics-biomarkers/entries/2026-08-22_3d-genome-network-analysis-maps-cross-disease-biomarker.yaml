@@ -1,0 +1,20 @@
+id: 2026-08-22_3d-genome-network-analysis-maps-cross-disease-biomarker
+date: '2026-08-22'
+date_display: '2026-08-22'
+date_precision: exact
+source_type: paper
+study_design: GWAS
+sources:
+- label: Hunter et al. 2026, Journal of Translational Medicine
+  url: https://doi.org/10.1186/s12967-026-08874-9
+  kind: paper
+en:
+  title: 3D-genome network analysis maps cross-disease biomarker hypotheses
+  plain_summary: A computer-based network analysis compared 3D DNA folding data and genetic studies across ME/CFS, Long COVID, PTSD, rheumatoid arthritis, and MS, pointing to shared immune and energy pathways. Because it was largely computational and retrospective without testing patients or treatments, any proposed drug links remain purely exploratory.
+  detail: This systems-biology investigation combined EpiSwitch chromosome-conformation measurements with GWAS and Orion knowledgebase analyses across ME/CFS, Long COVID, PTSD, rheumatoid arthritis, and multiple sclerosis. It reports 552 ME/CFS 3D-genomic anchors mapping to 567 genes and network-level convergence around immune, interferon, mitochondrial/metabolic, neuroendocrine, LAG3, and mTOR-related pathways, but direct gene overlap was limited and the work is retrospective and substantially in silico. Severe or bedbound representation was not reported; blood-based sampling could eventually be lower burden than exercise or imaging, but venipuncture and travel remain relevant and no home collection was established. No exertion challenge, PEM outcome, safety result, or treatment effect was studied, so proposed drug-target links are hypothesis-generating rather than clinical guidance. Cross-links include [Genetic Risk Factors](thread:genetic-risk-factors), [Immune Dysregulation & Chronic
+    Inflammation](thread:immune-dysregulation-inflammation), and [Mitochondrial & Metabolic Dysfunction](thread:mitochondrial-metabolic-dysfunction).
+de:
+  title: 3D-Genom-Netzwerkanalyse kartiert krankheitsübergreifende Biomarker-Hypothesen
+  plain_summary: Eine computergestützte Netzwerkanalyse verglich 3D-DNA-Faltungsdaten und genetische Studien zu ME/CFS, Long COVID, PTBS, rheumatoider Arthritis und Multipler Sklerose und fand Überschneidungen bei Immun- und Energie-Signalwegen. Da die Arbeit überwiegend rechnergestützt und rückblickend ohne neue Patiententests erfolgte, bleiben vorgeschlagene Wirkstoffziele rein hypothetisch.
+  detail: Diese systembiologische Untersuchung kombinierte EpiSwitch-Messungen der Chromosomenkonformation mit GWAS-Daten und Analysen der Orion-Wissensdatenbank über ME/CFS, Long COVID, PTBS, rheumatoide Arthritis und Multiple Sklerose hinweg. Sie berichtet über 552 3D-genomische Anker bei ME/CFS, die 567 Genen zugeordnet sind, sowie über eine netzwerkweite Konvergenz rund um Immun-, Interferon-, mitochondriale/metabolische, neuroendokrine, LAG3- und mTOR-bezogene Signalwege; die direkte Genüberlappung war jedoch begrenzt, und die Arbeit ist retrospektiv sowie überwiegend in silico angelegt. Angaben zum Einschluss schwer Erkrankter oder Bettlägeriger fehlen; eine Blutentnahme könnte künftig weniger belastend sein als Belastungs- oder Bildgebungsverfahren, doch bleiben Venenpunktion und Anfahrt relevant, und eine häusliche Probenahme wurde nicht etabliert. Da weder Belastungsprovokation noch PEM-Verläufe, Sicherheitsergebnisse oder Therapieeffekte untersucht wurden, sind abgeleitete Zielstrukturen
+    für Medikamente hypothesengenerierend und keine klinische Empfehlung. Querverbindungen bestehen zu [Genetische Risikofaktoren](thread:genetic-risk-factors), [Immundysregulation & chronische Entzündung](thread:immune-dysregulation-inflammation) und [Mitochondriale & metabolische Dysfunktion](thread:mitochondrial-metabolic-dysfunction).

@@ -1,0 +1,18 @@
+id: 2025-11-20_passive-transfer-of-long-covid-igg-induces-pain
+date: '2025-11-20'
+date_display: '2025-11-20'
+date_precision: exact
+source_type: preprint
+study_design: Preprint
+sources:
+- label: Mignolet et al. 2025, bioRxiv
+  url: https://doi.org/10.1101/2025.11.20.689423
+  kind: preprint
+en:
+  title: Passive transfer of Long COVID IgG induces pain by binding sensory neurons in dorsal root ganglia
+  plain_summary: In a non-peer-reviewed preprint, antibodies from Long COVID patients bound to pain-sensing nerves outside the spinal cord and caused temporary pain sensitivity in mice. Because the mice showed no brain inflammation or cognitive symptoms, brain fog likely involves other mechanisms.
+  detail: A passive transfer study demonstrated that purified IgG from Long COVID patients with neurological symptoms induces transient mechanical pain sensitivity in mice. Fluorescent tracking revealed that patient-derived antibodies accumulated in lumbar dorsal root ganglia (DRG) and bound directly to sensory neurons, whereas IgG from healthy controls did not. This provides further anatomical evidence of an autoimmune origin for post-viral pain symptoms, establishing DRG neurons as a primary target of pathogenic antibodies. However, the study did not replicate cognitive impairment, anxiety, or depressive behaviors in the mice, and no neuroinflammation was detected in the brain. This suggests that cognitive symptoms may involve distinct, non-antibody mechanisms or require longer exposure times to manifest.
+de:
+  title: Passiver Transfer von Long-COVID-IgG löst Schmerzen durch Bindung an sensorische Neuronen in Spinalganglien aus
+  plain_summary: In einem noch nicht begutachteten Preprint banden Antikörper von Long-COVID-Betroffenen bei Mäusen an schmerzleitende Nervenzellen außerhalb des Rückenmarks und lösten vorübergehende Schmerzempfindlichkeit aus. Da bei den Mäusen weder Hirnentzündung noch kognitive Störungen auftraten, beruht „Brain Fog“ wahrscheinlich auf anderen Mechanismen.
+  detail: Eine passive Transferstudie zeigte, dass gereinigtes IgG von Long-COVID-Patientinnen und -Patienten mit neurologischen Symptomen bei Mäusen eine vorübergehende mechanische Schmerzüberempfindlichkeit auslöst. Fluoreszenz-Tracking ergab, dass sich patienteneigene Antikörper in lumbalen Spinalganglien (DRG) anreicherten und direkt an sensorische Neuronen banden, während IgG von gesunden Kontrollen dies nicht tat. Dies liefert weitere anatomische Evidenz für einen autoimmunen Ursprung postviraler Schmerzsymptome und weist DRG-Neuronen als primäres Ziel pathogener Antikörper aus. Allerdings bildete die Studie in den Mäusen weder kognitive Beeinträchtigungen noch Angst- oder depressive Verhaltensweisen ab, und im Gehirn wurde keine Neuroinflammation nachgewiesen. Dies legt nahe, dass kognitive Symptome möglicherweise auf anderen, nicht-antikörpervermittelten Mechanismen beruhen oder längere Expositionszeiten benötigen, um sich auszuprägen.

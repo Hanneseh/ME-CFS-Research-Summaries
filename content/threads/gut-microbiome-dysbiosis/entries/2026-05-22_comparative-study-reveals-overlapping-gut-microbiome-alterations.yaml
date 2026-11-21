@@ -1,0 +1,20 @@
+id: 2026-05-22_comparative-study-reveals-overlapping-gut-microbiome-alterations
+date: '2026-05-22'
+date_display: '2026-05-22'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Donchev et al. 2026, Biomedicines
+  url: https://pubmed.ncbi.nlm.nih.gov/42351611/
+  kind: paper
+en:
+  title: Comparative study reveals overlapping gut microbiome alterations in ME/CFS and Long COVID
+  plain_summary: A study of 163 people in Bulgaria found similar shifts in gut bacteria in both ME/CFS and Long COVID compared with healthy volunteers, which tracked with physical fatigue. Because it looked at one point in time without full diet data or many bedbound participants, it cannot prove cause and effect.
+  detail: A cross-sectional case-control study of 163 participants (76 ME/CFS, 50 Long COVID, 37 healthy controls) in Bulgaria, published in _Biomedicines_ by Donchev et al., demonstrated that both post-infectious cohorts share overlapping gut dysbiosis relative to healthy controls. Both patient groups showed enrichment of _Sutterella_ and _Lawsonibacter_ alongside depletion of _Terrisporobacter_ and _Lachnospiraceae_. Predicted pathway analysis suggested shared decreases in anaerobic acetate/hydrogen carbon flow and inositol degradation capacity. Multivariate regression linked gut microbiome variations most strongly to fatigue and physiosomatic symptom severity rather than cognitive or affective symptoms. Because of the cross-sectional study design, it cannot establish causal relationships or temporal sequence. Furthermore, information on potential microbiome-modifying confounding factors (diet, prebiotic/probiotic use, supplements) was incomplete, and severely affected, bedbound patients
+    were underrepresented.
+de:
+  title: Vergleichsstudie zeigt überlappende Veränderungen des Darmmikrobioms bei ME/CFS und Long COVID
+  plain_summary: Eine Studie mit 163 Teilnehmenden in Bulgarien fand bei ME/CFS und Long COVID im Vergleich zu Gesunden ähnliche Verschiebungen der Darmbakterien, die mit körperlicher Fatigue zusammenhingen. Da nur ein Zeitpunkt ohne vollständige Ernährungsdaten und mit wenigen schwer betroffenen Personen untersucht wurde, beweist sie keine Ursache-Wirkungs-Beziehung.
+  detail: Eine Querschnitts-Fall-Kontroll-Studie mit 163 Teilnehmenden (76 ME/CFS, 50 Long COVID, 37 gesunde Kontrollen) in Bulgarien, veröffentlicht in _Biomedicines_ von Donchev et al., zeigte, dass beide postinfektiösen Kohorten im Vergleich zu gesunden Kontrollen eine überlappende Darmdysbiose aufweisen. Beide Patientengruppen zeigten eine Anreicherung von _Sutterella_ und _Lawsonibacter_ bei gleichzeitiger Abnahme von _Terrisporobacter_ und _Lachnospiraceae_. Vorhergesagte Signalweganalysen deuteten auf gemeinsame Rückgänge im anaeroben Acetat-/Wasserstoff-Kohlenstofffluss und der Inositol-Abbaukapazität hin. Multivariate Regressionen verknüpften die Variationen des Darmmikrobioms am stärksten mit der Schwere von Fatigue und physiosomatischen Symptomen, weniger mit kognitiven oder affektiven Beschwerden. Aufgrund des Querschnittsdesigns lassen sich weder kausale Zusammenhänge noch zeitliche Abfolgen belegen. Zudem waren Angaben zu möglichen mikrobiom-beeinflussenden Störfaktoren (Ernährung,
+    Prä-/Probiotika, Nahrungsergänzungsmittel) unvollständig, und schwer betroffene, bettlägerige Patientinnen und Patienten waren unterrepräsentiert.

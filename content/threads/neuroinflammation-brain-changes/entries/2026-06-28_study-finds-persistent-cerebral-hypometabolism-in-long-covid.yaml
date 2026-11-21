@@ -1,0 +1,19 @@
+id: 2026-06-28_study-finds-persistent-cerebral-hypometabolism-in-long-covid
+date: '2026-06-28'
+date_display: '2026-06-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ganesh et al. 2026, Journal of Primary Care & Community Health
+  url: https://journals.sagepub.com/doi/full/10.1177/21501319261458748
+  kind: paper
+en:
+  title: Study finds persistent cerebral hypometabolism in Long COVID patients with fatigue and PEM
+  plain_summary: Reviewing brain glucose-metabolism PET scans of 40 Long COVID patients, Mayo Clinic researchers saw lower brain energy activity in the 29 patients with fatigue and PEM, lasting up to two years. Because the study was small, retrospective, and lacked a matched control group, it offers observational evidence rather than a diagnostic test.
+  detail: In a retrospective study published in the *Journal of Primary Care & Community Health*, Dr. Ravindra Ganesh and colleagues at the Mayo Clinic evaluated brain metabolic activity using 18F-FDG PET-CT scans in 40 patients with Long COVID. Compared to a normative database, they identified significant, persistent cerebral hypometabolism in the 29 patients presenting with fatigue and post-exertional malaise (PEM). The hypometabolism was most pronounced in the left sensorimotor cortex and bilateral primary visual cortex, persisting up to two years post-infection. These findings provide objective evidence of long-term central nervous system metabolic alterations in a phenotype of Long COVID that overlaps significantly with ME/CFS. Limitations include a small sample size, demographically homogeneous cohort, retrospective design, lack of a prospective matched control group, and no correction for multiple statistical testing.
+de:
+  title: Studie findet anhaltenden zerebralen Hypometabolismus bei Long-COVID-Betroffenen mit Fatigue und PEM
+  plain_summary: Bei der rückblickenden Auswertung von Zuckerstoffwechsel-PET-Scans von 40 Long-COVID-Betroffenen zeigte sich bei den 29 Personen mit Fatigue und PEM ein verminderter Hirnenergiestoffwechsel über bis zu zwei Jahre. Da die Studie klein und retrospektiv war und eine gematchte Kontrollgruppe fehlte, liefert sie Beobachtungshinweise statt eines Diagnosetests.
+  detail: In einer retrospektiven Studie, veröffentlicht im *Journal of Primary Care & Community Health*, untersuchten Dr. Ravindra Ganesh und Kolleginnen und Kollegen an der Mayo Clinic die Hirnstoffwechselaktivität mittels 18F-FDG-PET-CT-Scans bei 40 Patientinnen und Patienten mit Long COVID. Im Vergleich zu einer Normdatenbank identifizierten sie einen signifikanten, anhaltenden zerebralen Hypometabolismus bei den 29 Betroffenen mit Fatigue und Post-Exertional Malaise (PEM). Der Hypometabolismus war am stärksten im linken sensorimotorischen Kortex sowie beidseitig im primären visuellen Kortex ausgeprägt und hielt bis zu zwei Jahre nach der Infektion an. Diese Befunde liefern objektive Hinweise auf langfristige Veränderungen des Energiestoffwechsels im zentralen Nervensystem bei einem Long-COVID-Phänotyp, der sich stark mit ME/CFS überschneidet. Einschränkungen umfassen eine kleine Stichprobengröße, eine demografisch homogene Kohorte, das retrospektive Design, das Fehlen einer prospektiven
+    gematchten Kontrollgruppe sowie eine fehlende Korrektur für multiples statistisches Testen.

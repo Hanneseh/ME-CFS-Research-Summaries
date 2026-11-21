@@ -1,0 +1,186 @@
+slug: emerging-pharmacotherapy
+group: treatments-interventions
+status: active
+evidence_tier: active_trials
+topics:
+- Treatments & Interventions
+- Pyridostigmine
+- Metformin
+- Oxaloacetate
+- Amifampridine
+- Ketamine
+- Sonlicromanol
+- 5-ALA/SFC
+- ANKTIVA
+- Donepezil
+- Methylprednisolone
+- Tuina
+- Cognitive Rehabilitation
+- PsyLoCo (Psychotherapeutic Group Intervention)
+- Cyclobenzaprine (Tonmya)
+- Repurposed Metabolic Compounds (Pioglitazone, Tideglusib, MHY1485)
+- Intermittent Hypoxia-Hyperoxia Treatment (IHHT)
+- Bezisterim (NE3107)
+- Rozanolixizumab
+- Microtesla Magnetic Therapy
+- Virtual Reality Exergaming
+aliases: []
+related_threads:
+- clinical-characterization-epidemiology
+- pem-exercise-physiology
+- low-dose-naltrexone
+- rapamycin-mtor
+- antivirals-monoclonals
+- mitochondrial-metabolic-dysfunction
+- neuroinflammation-brain-changes
+- viral-persistence-reactivation
+- small-fiber-neuropathy
+legacy_path: treatments-interventions/emerging-pharmacotherapy
+en:
+  title: Emerging Pharmacotherapy
+  subtitle: Clinical trials, pilot studies, and case reports of repurposed drugs, supplements, and experimental therapies for ME/CFS and Long COVID.
+  evidence_label: early clinical trials and pilot studies
+  plain_summary: This thread tracks repurposed drugs, supplements, and experimental non-drug therapies being tested for ME/CFS and Long COVID, ranging from pyridostigmine, metformin, and oxaloacetate to rehabilitation and device studies. While early trials show targeted signals—such as acute exercise improvement with single-dose pyridostigmine or preventive benefit from acute metformin—many larger or controlled studies have been sobering, including early termination of high-dose methylprednisolone (PoCoWiT) due to serious harms and null results for group psychotherapy (PsyLoCo) and low-dose prednisolone (PreVitaCOV). No repurposed drug or experimental therapy is yet approved or definitively proven for ME/CFS, and long-term safety and patient subgroup matching remain key open questions.
+  takeaway: |-
+    Clinical management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Long COVID currently relies on the off-label repurposing of drugs and supplements targeting suspected pathological mechanisms. Key areas of investigation focus on resolving autonomic dysfunction (preload failure), restoring mitochondrial bioenergetics, correcting chronic neuroinflammation, and clearing persistent post-viral reservoirs. A growing body of clinical trial protocols, randomized pilot studies, and case reports tracks these interventions to identify promising signals that warrant larger-scale replication.
+
+    Recent clinical studies have evaluated several new interventions, including the acetylcholinesterase inhibitor donepezil for fatigue and depression in a subgroup of Post-Acute Sequelae of COVID-19 (PASC) patients with HHV-6B SITH-1-induced acetylcholine deficiency, telehealth-delivered cognitive rehabilitation for goal attainment, and physical/behavioral modalities like Tuina massage and mind-body retraining. A major safety signal emerged from the PoCoWiT randomized controlled trial, which tested high-dose oral methylprednisolone for post-COVID cognitive dysfunction; the trial was terminated early due to a cluster of serious adverse events—including pulmonary embolism, deep vein thrombosis, and serious infections—along with a complete lack of efficacy. Meanwhile, the PsyLoCo randomized waitlist-controlled trial (n=48) found that standardized psychotherapeutic group sessions did not significantly reduce somatic symptom burden, depression, or anxiety in Post-COVID-19 condition compared to treatment as usual. A 15-patient retrospective conference abstract on off-label esketamine adds only an exploratory neuropsychiatric Long-COVID signal and cannot establish efficacy. A peer-reviewed sham-controlled pilot of at-home microtesla magnetic therapy in Long COVID cognitive impairment supports feasibility and tolerability only; no cognitive or emotional difference survived FDR correction. An RCT of immersive VR exergaming versus conventional activation exercise for post-COVID fatigue missed its primary endpoint, did not require PEM for inclusion, and does not establish exercise safety or efficacy in ME/CFS.
+
+    PreVitaCOV adds a controlled result for low-dose prednisolone: a small short-term symptom difference below the prespecified threshold for clinical relevance, with no B-vitamin benefit; bedridden patients were excluded. Although these trials and mechanistic concepts offer biological rationales, the evidence base remains early and preliminary. Many studies are small, open-label, or lack randomized control groups, which limits statistical power and increases the risk of bias. Consequently, no pharmacological or behavioral intervention has achieved regulatory approval or demonstrated definitive, disease-modifying efficacy in large-scale, placebo-controlled settings, leaving substantial uncertainty regarding long-term safety, optimal dosing, and generalizability across heterogeneous patient cohorts.
+  why_it_matters: |-
+    Finding safe and effective treatments for ME/CFS and Long COVID requires translating complex, multi-systemic pathomechanisms into targeted clinical interventions. Identified abnormalities—such as impaired vascular regulation (preload failure), neurovascular coupling deficits, mitochondrial respiration blockages, and hyperactive microglial signaling—directly align with the pharmacology of several existing medications. Repurposing these therapeutics provides an accelerated pathway to clinical applications compared to developing novel compounds from scratch.
+
+    Systematic research into these agents offers objective measures of efficacy to complement subjective patient-reported fatigue. For example, demonstrating that pyridostigmine improves peak oxygen consumption (VO₂ peak) and hand grip strength connects vascular autonomic regulation directly with muscular capacity. Similarly, evaluating oxaloacetate’s impact on objective cognitive tests (e.g., DANA Brain Vital) and metformin's ability to prevent neurodegenerative protein aggregation in pre-clinical models grounds these interventions in measurable cellular pathways. These trials build a scientific foundation for stratifying patients into biologically defined subgroups who are most likely to benefit from specific metabolic, vascular, or immunomodulatory mechanisms.
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - Metformin decreases the risk of developing post-COVID-19 condition (Long COVID) when administered during acute infection in overweight or obese adults.
+    - Pyridostigmine improves peak oxygen consumption (VO₂ peak) and right atrial pressure in patients with exertional intolerance and confirmed preload failure during invasive cardiopulmonary exercise testing.
+    - Oxaloacetate is safe and well-tolerated at daily doses up to 2,000 mg in clinical cohorts.
+    - High-dose oral methylprednisolone does not improve cognitive function in Post-COVID Syndrome and carries a high risk of serious adverse events (including deep vein thrombosis, pulmonary embolism, and serious infections), resulting in early trial termination.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - Pyridostigmine enhances hand grip strength and decreases heart rate elevations upon standing.
+    - Oxaloacetate improves objective cognitive processing speed and reduces total symptom burden in Long COVID and ME/CFS.
+    - Metformin prevents cognitive deficits and synaptic damage in animal models by blocking the S1-spike-protein-induced hypoxia switch (HIF-1α) and downstream protein aggregation.
+    - Amifampridine increases functional scores and reduces excessive sleep requirements in patients with Post-COVID Syndrome.
+    - Low-dose ketamine infusions induce rapid, transient reductions in fatigue scores, peaking at 24 hours.
+    - Continuous sipping of high-dose cromolyn sodium improves symptoms of comorbid Mast Cell Activation Syndrome (MCAS) in post-viral patients.
+    - Sonlicromanol improves fatigue, pain, and physical function over long-term (52-week) open-label administration in mitochondrial disease models.
+    - Oral 5-ALA/SFC combined with ubiquinone resolves severe chronic fatigue in individuals with specific genetic mutations affecting mitochondrial function (e.g., ADCK1).
+    - Donepezil reduces fatigue and depressive symptoms in the subgroup of PASC patients seropositive for anti-SITH-1 antibodies.
+    - Telehealth-delivered cognitive rehabilitation improves daily goal attainment and resource management in Long COVID cognitive impairment.
+    - Tuina therapy (traditional Chinese manual massage) reduces overall and physical fatigue, anxiety, and sleep complaints in chronic fatigue syndrome.
+    - Structured mind-body retraining ('The Switch') is associated with self-reported improvements in physical and emotional functioning in chronic fatigue and Long COVID.
+  - status: not_established
+    label: Not established
+    items:
+    - Definitive clinical efficacy or regulatory approval for any of these repurposed therapies in treating ME/CFS or Long COVID.
+    - The efficacy of metformin, ketamine, or amifampridine in large-scale, parallel-group, randomized, placebo-controlled trials specifically for ME/CFS.
+    - Long-term safety and tolerability of continuous high-dose protocols (e.g., cromolyn sodium or oxaloacetate) beyond several months.
+    - Definitive clinical efficacy of donepezil, Tuina therapy, or mind-body retraining in large-scale, pre-registered, placebo-controlled trials.
+    - Efficacy of psychotherapeutic group interventions (including psychoeducation, somatic symptom processing, and emotional regulation) for reducing core physical symptom burden in Post-COVID-19 condition; the PsyLoCo RCT found no significant superiority over treatment as usual.
+    - Clinical efficacy, safety, or validated dosing of computationally nominated repurposing candidates (e.g., pioglitazone, tideglusib, MHY1485) from transcriptomic signature screens in ME/CFS, which remain preclinical in silico and in vitro hypotheses without human trial evidence.
+    - Clinical efficacy of intermittent hypoxia-hyperoxia treatment (IHHT) in ME/CFS; published trial protocols (e.g., REenergizeME) record study methodology and investigational intent rather than clinical outcomes.
+    - Clinical efficacy of esketamine in neuropsychiatric Long COVID; current evidence is limited to a 15-patient uncontrolled retrospective conference abstract without blinding, a comparator, or reported baseline functional severity.
+    - Efficacy of bezisterim (NE3107) in Long COVID; a sponsor-reported, not yet peer-reviewed phase 2 topline found no significant endpoint in the full intent-to-treat population, and its high-symptom-burden subgroup signals need confirmation.
+    - Group-level benefit from unselected IgG lowering; in adjacent fibromyalgia, the FcRn blocker rozanolixizumab showed no broad group-level efficacy in a phase 2a RCT, which is not ME/CFS treatment evidence.
+    - Long-term safety, optimal dosing, and durability of donepezil, Tuina therapy, or cognitive rehabilitation programs.
+    - Efficacy of microtesla magnetic therapy for Long COVID cognitive impairment; the 33-randomized pilot met its feasibility endpoint and reported no device-related AEs, but no exploratory cognitive or quality-of-life outcome survived FDR correction.
+    - Superiority of VR neuromuscular exergaming over conventional activation exercise for post-COVID fatigue (IFATICO primary endpoint not significant), or applicability of either to PEM-defined ME/CFS.
+    - Durable, clinically meaningful benefit from short-course low-dose prednisolone or B1/B6/B12 in post-COVID syndrome; PreVitaCOV excluded bedridden patients.
+    - A single severe-ME/CFS vaccine case with transient improvement and relapse does not establish treatment efficacy or safety.
+  - status: limitations
+    label: Key limitations
+    items:
+    - Small sample sizes in pilot studies (e.g., 20 patients for pyridostigmine hand grip, 10 patients for ketamine crossover, 5 patients for amifampridine and cromolyn series) limit statistical power and generalizability.
+    - High risk of placebo effects and response bias in open-label studies and retrospective case series.
+    - Crossover trial designs for drugs like ketamine are prone to carryover effects that confound efficacy comparisons against comparators like midazolam.
+    - Preclinical data (e.g., metformin’s protection of rat synapses, sonlicromanol’s primary mitochondrial disease trial) require human translational validation in ME/CFS before clinical conclusions can be drawn.
+    - Subgroup analyses (e.g., donepezil limited to SITH-1 seropositive patients) and lack of patient blinding in manual therapies (Tuina) or behavioral programs (The Switch, cognitive rehabilitation) limit the generalizability and control of placebo/expectation effects.
+    - Uncontrolled observational designs (The Switch cohort) cannot exclude spontaneous recovery or selection bias.
+    - The PsyLoCo trial's small sample (n=48) and waitlist-controlled design in an outpatient psychosomatic setting limited statistical power to detect small effect sizes.
+    - Use of broad diagnostic criteria (e.g., 1994 CDC Fukuda criteria for Tuina) that do not require post-exertional malaise limits applicability to strict ME/CFS.
+    - Industry funding and Fareon employee co-authors in the microtesla magnetic therapy pilot.
+    - The IFATICO trial had no rest or pacing control, PEM was not an inclusion criterion, and severe patients were effectively excluded.
+  open_questions:
+  - '**What are the optimal patient stratification criteria?** Given the heterogeneity of ME/CFS and Long COVID, identifying specific clinical phenotypes (such as preload failure, mitochondrial dysfunction, or MCAS) is crucial to match patients with the most appropriate pharmacotherapeutic mechanism.'
+  - '**Do acute signals translate to long-term clinical efficacy?** Pilot trials demonstrating short-term or single-dose improvements (e.g., pyridostigmine for exercise capacity or ketamine for fatigue) must be followed by long-term tolerability and safety studies.'
+  - '**Can combination therapies target multiple pathways simultaneously?** Because these conditions are multi-systemic, research is needed to determine if combining low-risk metabolic, autonomic, and immunomodulatory interventions yields synergistic clinical benefits.'
+  - '**What role remains for psychotherapeutic support?** Given that the PsyLoCo RCT found no effect on physical symptom burden, further work is needed to clarify whether psychological interventions have utility for secondary outcomes like coping, quality of life, or functional adaptation rather than core disease modification.'
+de:
+  title: Neue & umgewidmete Pharmakotherapien
+  subtitle: Klinische Studien, Pilotuntersuchungen und Fallberichte zu umgewidmeten Medikamenten, Nahrungsergänzungsmitteln und experimentellen Therapien bei ME/CFS und Long COVID.
+  evidence_label: frühe klinische Studien und Pilotstudien
+  plain_summary: 'Dieser Bereich sammelt Studien zu bereits zugelassenen, umgewidmeten Medikamenten, Nahrungsergänzungsmitteln und experimentellen Therapieansätzen bei ME/CFS und Long COVID. Neben einzelnen frühen Signalen – etwa bei akut eingesetztem Pyridostigmin oder frühzeitigem Metformin während einer akuten COVID-Infektion – gab es zuletzt auch klare Dämpfer: So wurde eine Studie mit hochdosiertem Methylprednisolon (PoCoWiT) wegen schwerer Nebenwirkungen bei fehlendem Nutzen vorzeitig abgebrochen, und auch Studien zu Gruppentherapie (PsyLoCo), VR-Training oder niedrigdosiertem Prednisolon zeigten keinen überzeugenden Vorteil. Bislang ist keines dieser Mittel für ME/CFS zugelassen oder abschließend als wirksam belegt; Verträglichkeit, Langzeitsicherheit und passende Untergruppen sind weiter offen.'
+  takeaway: |-
+    Die klinische Behandlung von Myalgischer Enzephalomyelitis/Chronischem Fatigue-Syndrom (ME/CFS) und Long COVID stützt sich derzeit auf den Off-Label-Einsatz umgewidmeter Medikamente und Supplemente, die an vermuteten Krankheitsmechanismen ansetzen. Schwerpunkte liegen auf der Behandlung autonomer Fehlregulation (Preload-Failure), der Wiederherstellung mitochondrialer Energieproduktion, der Eindämmung chronischer Neuroinflammation sowie der Beseitigung anhaltender postviraler Reservoire. Eine wachsende Zahl an Studienprotokollen, randomisierten Pilotstudien und Fallberichten verfolgt diese Ansätze, um belastbare Signale für größere Replikationsstudien zu identifizieren.
+
+    Neuere klinische Studien prüften unter anderem den Acetylcholinesterase-Hemmer Donepezil gegen Fatigue und Depression in einer Untergruppe von PASC-Betroffenen mit HHV-6B-SITH-1-bedingtem Acetylcholinmangel, telemedizinische kognitive Rehabilitation zur Alltagsbewältigung sowie körperliche oder verhaltensorientierte Verfahren wie Tuina-Massage und Mind-Body-Programme. Ein zentrales Sicherheitssignal lieferte die randomisierte kontrollierte PoCoWiT-Studie zu hochdosiertem oralem Methylprednisolon bei kognitiven Störungen nach COVID: Die Studie wurde wegen einer Häufung schwerer unerwünschter Ereignisse – darunter Lungenembolie, tiefe Venenthrombose und schwere Infektionen – bei vollständig fehlender Wirksamkeit vorzeitig abgebrochen. Unterdessen ergab die randomisierte Wartelisten-kontrollierte PsyLoCo-Studie (n=48), dass standardisierte psychotherapeutische Gruppensitzungen bei Post-COVID-Syndrom körperliche Symptomlast, Depression oder Angst gegenüber der Regelversorgung nicht signifikant verringerten. Ein retrospektiver Konferenz-Abstract zu Off-Label-Esketamin bei 15 Personen liefert lediglich ein exploratives neuropsychiatrisches Long-COVID-Signal ohne Wirksamkeitsbeleg. Eine begutachtete, schein-kontrollierte Pilotstudie zu häuslicher Mikrotesla-Magnettherapie bei kognitiver Long-COVID-Beeinträchtigung belegt lediglich Durchführbarkeit und Verträglichkeit; kein kognitiver oder emotionaler Unterschied überstand die FDR-Korrektur. Eine RCT zu immersivem VR-Exergaming im Vergleich zu konventioneller Aktivierung bei Post-COVID-Fatigue verfehlte ihren primären Endpunkt, setzte PEM nicht als Einschlusskriterium voraus und belegt weder Sicherheit noch Wirksamkeit von Training bei ME/CFS.
+
+    PreVitaCOV ergänzt ein kontrolliertes Ergebnis für niedrigdosiertes Prednisolon: einen geringen kurzfristigen Symptomunterschied unterhalb der vorab festgelegten Schwelle für klinische Relevanz, ohne Nutzen von B-Vitaminen; bettlägerige Patientinnen und Patienten waren ausgeschlossen. Auch wenn diese Studien und mechanistischen Konzepte biologische Ansatzpunkte liefern, bleibt die Evidenzlage insgesamt früh und vorläufig. Viele Untersuchungen sind klein, offen oder ohne randomisierte Kontrollgruppe, was die statistische Aussagekraft begrenzt und Verzerrungsrisiken erhöht. Folglich besitzt keine pharmakologische oder verhaltensbezogene Intervention eine Zulassung oder einen gesicherten krankheitsmodifizierenden Wirknachweis aus großen placebokontrollierten Studien; Langzeitsicherheit, optimale Dosierung und Übertragbarkeit auf heterogene Patientengruppen bleiben weitgehend unsicher.
+  why_it_matters: |-
+    Die Suche nach sicheren und wirksamen Therapien für ME/CFS und Long COVID erfordert die Übersetzung komplexer, systemübergreifender Krankheitsmechanismen in gezielte klinische Interventionen. Bekannte Auffälligkeiten – wie gestörte Gefäßregulation (Preload-Failure), Defizite der neurovaskulären Kopplung, Blockaden der mitochondrialen Atmung und überaktive Mikroglia-Signale – passen direkt zum Wirkprofil verschiedener bereits vorhandener Medikamente. Deren Umwidmung ermöglicht einen deutlich schnelleren Weg in die klinische Prüfung als die Neuentwicklung völlig unbekannter Wirkstoffe.
+
+    Systematische Studien zu diesen Substanzen liefern objektive Messgrößen, die subjektive Angaben zu Fatigue ergänzen. So verknüpft der Nachweis, dass Pyridostigmin die maximale Sauerstoffaufnahme (VO₂ peak) und die Handgreifkraft verbessert, die autonome Gefäßregulation unmittelbar mit der muskulären Leistungsfähigkeit. Ebenso verankert die Messung objektiver Kognitionstests unter Oxaloacetat (z. B. DANA Brain Vital) oder der Schutz vor Proteinaggregation unter Metformin im Tiermodell diese Ansätze in messbaren zellulären Signalwegen. Solche Studien schaffen die wissenschaftliche Grundlage, um Betroffene in biologisch definierte Untergruppen einzuteilen, die am ehesten von metabolischen, vaskulären oder immunmodulierenden Mechanismen profitieren.
+  state_of_evidence:
+  - status: established
+    label: Gesichert
+    items:
+    - Metformin senkt bei übergewichtigen oder adipösen Erwachsenen das Risiko für ein Post-COVID-19-Syndrom (Long COVID), wenn es während der akuten Infektion eingenommen wird.
+    - Pyridostigmin verbessert bei Betroffenen mit Belastungsintoleranz und in der invasiven Spiroergometrie bestätigtem Preload-Failure die maximale Sauerstoffaufnahme (VO₂ peak) und den rechtsatrialen Druck.
+    - Oxaloacetat erwies sich in klinischen Kohorten in Tagesdosen bis zu 2.000 mg als sicher und gut verträglich.
+    - Hochdosiertes orales Methylprednisolon verbessert die kognitive Funktion beim Post-COVID-Syndrom nicht und birgt ein hohes Risiko schwerer unerwünschter Ereignisse (darunter tiefe Venenthrombosen, Lungenembolien und schwere Infektionen), was zum vorzeitigen Studienabbruch führte.
+  - status: plausible
+    label: Plausibel, aber früh
+    items:
+    - Pyridostigmin steigert die Erholung der Handgreifkraft und dämpft den Pulsanstieg beim Aufstehen.
+    - Oxaloacetat verbessert die objektive kognitive Verarbeitungsgeschwindigkeit und verringert die Gesamtsymptomlast bei Long COVID und ME/CFS.
+    - Metformin verhindert in Tiermodellen kognitive Defizite und Synapsenschäden, indem es die durch das S1-Spike-Protein ausgelöste Stabilisierung des Hypoxie-Schalters (HIF-1α) und nachfolgende Proteinaggregation blockiert.
+    - Amifampridin erhöht Funktionsscores und reduziert übermäßiges Schlafbedürfnis bei Betroffenen mit Post-COVID-Syndrom.
+    - Niedrigdosierte Ketamin-Infusionen führen zu raschen, vorübergehenden Abnahmen der Fatigue-Scores mit einem Maximum nach 24 Stunden.
+    - Kontinuierliches schluckweises Trinken von hochdosiertem Cromoglicinsäure-Natrium (Cromolyn) lindert Symptome eines begleitenden Mastzellaktivierungssyndroms (MCAS) bei postviralen Patientinnen und Patienten.
+    - Sonlicromanol verbessert in einer 52-wöchigen offenen Verlängerungsstudie bei genetisch bedingten Mitochondrienerkrankungen Fatigue, Schmerzen und körperliche Funktion.
+    - Orales 5-ALA/SFC in Kombination mit Ubichinon bessert schwere chronische Fatigue bei einzelnen Personen mit spezifischen genetischen Defekten der Mitochondrienfunktion (z. B. ADCK1).
+    - Donepezil reduziert Fatigue und depressive Symptome in der Untergruppe von PASC-Betroffenen, die seropositiv für Anti-SITH-1-Antikörper sind.
+    - Telemedizinisch angeleitete kognitive Rehabilitation verbessert die alltägliche Zielerreichung und das Ressourcenmanagement bei kognitiven Beeinträchtigungen durch Long COVID.
+    - Tuina-Therapie (traditionelle chinesische manuelle Massage) verringert allgemeine und körperliche Fatigue, Angst und Schlafbeschwerden beim Chronischen Fatigue-Syndrom.
+    - Ein strukturiertes Mind-Body-Programm („The Switch“) ist in Kohortendaten mit selbstberichteten Verbesserungen der körperlichen und emotionalen Funktionsfähigkeit bei CFS und Long COVID verbunden.
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Gesicherte klinische Wirksamkeit oder behördliche Zulassung einer dieser umgewidmeten Therapien zur Behandlung von ME/CFS oder Long COVID.
+    - Die Wirksamkeit von Metformin, Ketamin oder Amifampridin in großen, parallelgruppigen, randomisierten placebokontrollierten Studien speziell für ME/CFS.
+    - Langzeitsicherheit und Verträglichkeit kontinuierlicher Hochdosis-Protokolle (etwa mit Cromolyn-Natrium oder Oxaloacetat) über mehrere Monate hinaus.
+    - Gesicherte klinische Wirksamkeit von Donepezil, Tuina-Therapie oder Mind-Body-Programmen in großen, vorregistrierten, placebokontrollierten Studien.
+    - Wirksamkeit psychotherapeutischer Gruppeninterventionen (inklusive Psychoedukation, somatischer Symptomverarbeitung und Emotionsregulation) zur Senkung der körperlichen Kernsymptomlast beim Post-COVID-19-Syndrom; die PsyLoCo-RCT zeigte keine signifikante Überlegenheit gegenüber der Regelversorgung.
+    - Klinische Wirksamkeit, Sicherheit oder geprüfte Dosierung rechnergestützt vorgeschlagener Wirkstoffkandidaten (z. B. Pioglitazon, Tideglusib, MHY1485) aus Transkriptom-Analysen bei ME/CFS, die präklinische In-silico- und Zellkultur-Hypothesen ohne klinische Daten am Menschen bleiben.
+    - Klinische Wirksamkeit der intermittierenden Hypoxie-Hyperoxie-Therapie (IHHT) bei ME/CFS; veröffentlichte Studienprotokolle (z. B. REenergizeME) beschreiben Methodik und Untersuchungsziel, aber noch keine Ergebnisse.
+    - Klinische Wirksamkeit von Esketamin bei neuropsychiatrischem Long COVID; die Datenlage beschränkt sich auf einen retrospektiven, unkontrollierten Konferenz-Abstract zu 15 Personen ohne Verblindung, Vergleichsgruppe oder Angabe des Ausgangs-Schweregrads.
+    - Wirksamkeit von Bezisterim (NE3107) bei Long COVID; eine vom Sponsor berichtete, noch nicht begutachtete Phase-2-Topline-Meldung zeigte keinen signifikanten Endpunkt in der gesamten Intent-to-Treat-Population, und Signale in schwer belasteten Untergruppen bedürfen der Bestätigung.
+    - Gruppenbezogener Nutzen einer unselektiven IgG-Senkung; bei der verwandten Fibromyalgie zeigte der FcRn-Blocker Rozanolixizumab in einer Phase-2a-RCT keine breite Wirksamkeit, was zudem keine Evidenz für ME/CFS darstellt.
+    - Langzeitsicherheit, optimale Dosierung und Nachhaltigkeit von Donepezil, Tuina-Therapie oder kognitiven Rehabilitationsprogrammen.
+    - Wirksamkeit von Mikrotesla-Magnettherapie bei kognitiver Long-COVID-Beeinträchtigung; die Pilotstudie mit 33 Randomisierten erreichte ihren Machbarkeits-Endpunkt ohne gerätebedingte Nebenwirkungen, doch kein explorativer Kognitions- oder Lebensqualitäts-Endpunkt überstand die FDR-Korrektur.
+    - Überlegenheit von VR-gestütztem neuromuskulärem Exergaming gegenüber konventioneller Aktivierung bei Post-COVID-Fatigue (primärer IFATICO-Endpunkt nicht signifikant) oder Übertragbarkeit auf PEM-definiertes ME/CFS.
+    - Dauerhafter, klinisch bedeutsamer Nutzen einer kurzen niedrigdosierten Prednisolon-Therapie oder von Vitamin B1/B6/B12 beim Post-COVID-Syndrom; PreVitaCOV schloss bettlägerige Patientinnen und Patienten aus.
+    - Ein einzelner Fall einer schweren ME/CFS-Erkrankung mit vorübergehender Besserung und anschließendem Rückfall nach Impfung belegt weder Wirksamkeit noch Sicherheit einer Behandlung.
+  - status: limitations
+    label: Wesentliche Einschränkungen
+    items:
+    - Kleine Fallzahlen in Pilotstudien (z. B. 20 Teilnehmende für Pyridostigmin-Greifkraft, 10 im Ketamin-Crossover, 5 in Amifampridin- und Cromolyn-Fallserien) schränken Aussagekraft und Übertragbarkeit ein.
+    - Hohes Risiko von Placeboeffekten und Antwortverzerrungen in offenen Studien und retrospektiven Fallserien.
+    - Crossover-Designs wie bei Ketamin sind anfällig für Überhangeffekte (Carryover), welche den Vergleich mit aktiven Kontrollen wie Midazolam verzerren.
+    - Präklinische Daten (z. B. Synapsenschutz durch Metformin bei Ratten oder Sonlicromanol bei primärer Mitochondriopathie) müssen vor klinischen Schlussfolgerungen erst beim Menschen für ME/CFS validiert werden.
+    - Subgruppenanalysen (z. B. Donepezil nur bei SITH-1-Seropositiven) und fehlende Verblindung bei manuellen Therapien (Tuina) oder Verhaltensprogrammen (The Switch, kognitive Rehabilitation) erschweren die Kontrolle von Erwartungs- und Placeboeffekten.
+    - Unkontrollierte Beobachtungsdesigns (The-Switch-Kohorte) können Spontanremission oder Selektionsbias nicht ausschließen.
+    - Die geringe Fallzahl der PsyLoCo-Studie (n=48) und das Wartelisten-Kontrolldesign im psychosomatischen Ambulanz-Setting begrenzten die Power für kleine Effekte.
+    - Die Nutzung breiter Diagnosekriterien (z. B. CDC-Fukuda-Kriterien von 1994 bei Tuina), die keine Post-Exertional Malaise erfordern, schränkt die Übertragbarkeit auf streng definiertes ME/CFS ein.
+    - Industriefinanzierung und Ko-Autorschaft von Fareon-Mitarbeitenden in der Pilotstudie zur Mikrotesla-Magnettherapie.
+    - Die IFATICO-Studie hatte keine Ruhe- oder Pacing-Kontrollgruppe, PEM war kein Einschlusskriterium, und schwer Betroffene waren faktisch ausgeschlossen.
+  open_questions:
+  - '**Welches sind die optimalen Kriterien zur Patientenstratifizierung?** Angesichts der Heterogenität von ME/CFS und Long COVID ist die Identifizierung spezifischer klinischer Phänotypen (wie Preload-Failure, mitochondriale Dysfunktion oder MCAS) entscheidend, um Betroffene dem passenden Wirkmechanismus zuzuordnen.'
+  - '**Übertragen sich akute Signale in langfristige klinische Wirksamkeit?** Pilotstudien mit kurzfristigen oder Einzeldosis-Effekten (z. B. Pyridostigmin auf die Belastbarkeit oder Ketamin auf Fatigue) müssen durch Langzeitstudien zu Verträglichkeit und Sicherheit ergänzt werden.'
+  - '**Können Kombinationstherapien mehrere Signalwege gleichzeitig adressieren?** Da es sich um Multisystem-Erkrankungen handelt, muss untersucht werden, ob die Kombination risikoarmer metabolischer, autonomer und immunmodulierender Ansätze synergistische Effekte erzielt.'
+  - '**Welche Rolle bleibt für psychotherapeutische Unterstützung?** Da die PsyLoCo-RCT keinen Effekt auf die körperliche Symptomlast fand, muss geklärt werden, ob psychologische Angebote bei sekundären Zielen wie Krankheitsbewältigung, Lebensqualität oder Alltagsanpassung sinnvoll sind statt als ursächliche Therapie.'

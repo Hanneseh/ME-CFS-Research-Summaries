@@ -1,0 +1,18 @@
+id: 2026-02-28_pem-subtyping-separates-physical-and-mental-exertion-burden
+date: '2026-02-28'
+date_display: '2026-02-28'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Tuzzolino et al. 2026, Journal of Health Psychology
+  url: https://pubmed.ncbi.nlm.nih.gov/41761780/
+  kind: paper
+en:
+  title: PEM subtyping separates physical and mental exertion burden
+  plain_summary: A survey study separated ME/CFS patients into physical and mental PEM subgroups and found the heaviest disability among people severely triggered by both. This reinforces that mental effort matters alongside physical activity for pacing, though the findings rely on self-reports at one timepoint.
+  detail: 'This questionnaire study classified ME/CFS participants into physical and mental PEM subgroups and found that the combined severe-physical-plus-severe-mental group had the highest symptom burden and disability. The change is mainly phenotypic: it shows that PEM is not a single uniform experience and that mental exertion can be a major trigger alongside physical load. That is relevant for study design and pacing advice because it broadens what counts as exertion. The evidence is still self-reported and cross-sectional, so the biological basis of these subtypes remains unknown.'
+de:
+  title: PEM-Subtypisierung trennt körperliche und geistige Belastungsauslöser
+  plain_summary: Eine Fragebogenstudie unterteilte ME/CFS-Betroffene nach körperlichem und mentalem PEM und fand die stärkste Einschränkung bei Menschen, die auf beides stark reagieren. Das unterstreicht, dass auch geistige Anstrengung beim Pacing zählt, beruht jedoch auf Selbstauskünften zu einem einzelnen Zeitpunkt.
+  detail: 'Diese Fragebogenstudie teilte ME/CFS-Teilnehmende in körperliche und mentale PEM-Untergruppen ein und stellte fest, dass die kombinierte Gruppe mit schwerem körperlichem und schwerem mentalem PEM die höchste Symptomlast und Funktionseinschränkung aufwies. Der Erkenntnisgewinn ist vor allem phänotypisch: Er zeigt, dass PEM keine einheitliche Erfahrung ist und geistige Anstrengung neben körperlicher Last ein zentraler Auslöser sein kann. Das ist für Studiendesigns und Pacing-Beratung relevant, weil es das Verständnis dessen erweitert, was als Belastung zählt. Die Evidenz beruht allerdings auf Selbstberichten im Querschnitt, sodass die biologischen Grundlagen dieser Subtypen unbekannt bleiben.'

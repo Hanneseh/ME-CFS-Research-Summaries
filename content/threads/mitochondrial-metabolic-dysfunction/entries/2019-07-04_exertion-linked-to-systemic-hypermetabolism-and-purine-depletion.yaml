@@ -1,0 +1,26 @@
+id: 2019-07-04_exertion-linked-to-systemic-hypermetabolism-and-purine-depletion
+date: '2019-07-04'
+date_display: '2019-07-04'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: McGregor et al. 2019, Diagnostics
+  url: https://doi.org/10.3390/diagnostics9030070
+  kind: paper
+en:
+  title: Exertion linked to systemic hypermetabolism and purine depletion
+  plain_summary: A blood and urine study of 46 patients tied worse post-exertional crashes to signs of muscle protein breakdown and altered energy metabolites. Its snapshot design cannot prove cause and effect yet.
+  detail: '- **What changed:** A clinical metabolomic analysis of blood and urine from 46 patients and 26 controls identified that the severity of post-exertional malaise is associated with a hypermetabolic state characterized by increased urinary excretion of methylhistidine, mannitol, and acetate, alongside a significant drop in serum hypoxanthine.
+
+    - **Why it matters:** This establishes a concrete biological connection between physical exertion and systemic metabolic crashes, pointing to muscle protein breakdown, gut barrier dysfunction, and hypoacetylation as key drivers of patient-reported symptoms.
+
+    - **What it does not prove yet:** The study''s cross-sectional design cannot prove that these metabolomic alterations cause the post-exertional crash rather than being secondary markers, and the findings require validation in larger, multi-center cohorts to control for recall bias.'
+de:
+  title: Belastung mit systemischem Hypermetabolismus und Purin-Verarmung verknüpft
+  plain_summary: Eine Blut- und Urinstudie mit 46 Betroffenen verknüpfte stärkere Belastungseinbrüche mit Hinweisen auf Muskelabbau und veränderte Energiestoffwechselprodukte. Als Momentaufnahme beweist sie noch keine Ursache-Wirkungs-Beziehung.
+  detail: '- **Was sich gezeigt hat:** Eine klinische Metabolom-Analyse von Blut und Urin bei 46 Patientinnen und Patienten sowie 26 Kontrollpersonen ergab, dass die Schwere von Post-Exertional Malaise mit einem hypermetabolischen Zustand zusammenhängt, der durch erhöhte Urinausscheidung von Methylhistidin, Mannitol und Acetat sowie einen deutlichen Abfall von Hypoxanthin im Serum gekennzeichnet ist.
+
+    - **Warum das wichtig ist:** Dies stellt eine konkrete biologische Verbindung zwischen körperlicher Belastung und systemischen Stoffwechseleinbrüchen her und weist auf Muskelproteinabbau, Darmbarriere-Störungen und Hypoacetylierung als mögliche Treiber der Beschwerden hin.
+
+    - **Was damit noch nicht belegt ist:** Das Querschnittsdesign kann nicht beweisen, dass diese Stoffwechselveränderungen den Belastungscrash verursachen statt bloße Begleitmarker zu sein, und die Befunde müssen in größeren, multizentrischen Kohorten zur Kontrolle von Erinnerungsverzerrungen bestätigt werden.'

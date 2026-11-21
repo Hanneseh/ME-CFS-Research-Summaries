@@ -1,0 +1,16 @@
+---
+import { getTier } from "../lib/content";
+import type { Lang } from "../lib/types";
+
+interface Props {
+  lang: Lang;
+  tier: string;
+  long?: boolean;
+}
+const { lang, tier, long = false } = Astro.props;
+const info = getTier(lang, tier);
+---
+
+<span class="tier-pill" data-tier={tier} title={info?.description}>
+  <span class="dot" aria-hidden="true"></span>{long ? info?.label ?? tier : info?.short ?? tier}
+</span>

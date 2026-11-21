@@ -1,0 +1,26 @@
+id: 2024-10-13_soluble-il-2r-linked-to-muscle-mitochondrial-dysfunction
+date: '2024-10-13'
+date_display: '2024-10-13'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Brown et al. 2024, Clinical and Translational Medicine
+  url: https://doi.org/10.1002/ctm2.70507
+  kind: paper
+en:
+  title: Soluble IL-2R linked to muscle mitochondrial dysfunction in post-COVID fatigue
+  plain_summary: A small study of 11 post-COVID fatigue patients found high blood levels of the immune marker sIL2R, which impaired energy production when added to cultured mouse muscle cells. Blocking sIL2R has not been tested in patients yet.
+  detail: '- **What changed:** A prospective study of 11 patients and 17 controls showed that the circulating inflammatory cytokine soluble IL-2 receptor (sIL2R) is highly elevated in post-COVID fatigue and directly impairs Complex I mitochondrial respiration in cultured muscle cells.
+
+    - **Why it matters:** This establishes a direct immunometabolic link showing how systemic T-cell activation can cross over to cause muscle tissue energy failure, identifying sIL2R as a potential biomarker and therapeutic target.
+
+    - **What it does not prove yet:** The clinical efficacy of neutralizing sIL2R remains untested, and the direct pathobiological mechanism needs validation in primary human muscle cells rather than mouse cell models.'
+de:
+  title: Lösliches IL-2R mit mitochondrialer Muskelfunktionsstörung bei Post-COVID-Fatigue verknüpft
+  plain_summary: Eine kleine Studie mit 11 Post-COVID-Fatigue-Betroffenen fand erhöhte Blutwerte des Immunmarkers sIL2R, der in gezüchteten Mausmuskelzellen die Energiegewinnung bremste. Ob eine Blockade von sIL2R Patientinnen und Patienten hilft, ist noch ungetestet.
+  detail: '- **Was sich gezeigt hat:** Eine prospektive Studie mit 11 Patientinnen und Patienten sowie 17 Kontrollpersonen zeigte, dass das zirkulierende entzündliche Zytokin löslicher IL-2-Rezeptor (sIL2R) bei Post-COVID-Fatigue stark erhöht ist und in kultivierten Muskelzellen direkt die mitochondriale Komplex-I-Atmung beeinträchtigt.
+
+    - **Warum das wichtig ist:** Dies schlägt eine direkte immunmetabolische Brücke, die zeigt, wie systemische T-Zell-Aktivierung auf das Muskelgewebe übergreifen und Energieversagen auslösen kann, und identifiziert sIL2R als möglichen Biomarker und Therapieansatz.
+
+    - **Was damit noch nicht belegt ist:** Die klinische Wirksamkeit einer Neutralisierung von sIL2R ist ungetestet, und der direkte Pathomechanismus muss an primären menschlichen Muskelzellen statt nur an Mauszellmodellen bestätigt werden.'

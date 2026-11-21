@@ -1,0 +1,18 @@
+id: 2026-02-02_clinical-review-proposes-neuroimmune-framework-linking-pots-to
+date: '2026-02-02'
+date_display: '2026-02-02'
+date_precision: exact
+source_type: review
+study_design: null
+sources:
+- label: Blitshteyn et al. 2026, ImmunoTargets and Therapy
+  url: https://doi.org/10.2147/ITT.S581262
+  kind: paper
+en:
+  title: Clinical review proposes neuroimmune framework linking POTS to brainstem neuroinflammation
+  plain_summary: A review connects POTS, ME/CFS, and Long COVID through immune antibodies, cell-energy issues, and early 7T MRI signs of brainstem inflammation. Because it synthesizes past studies, the brainstem inflammation signal needs replication in larger cohorts.
+  detail: A narrative review established a unified neuroimmune framework for POTS, ME/CFS, and Long COVID, linking autonomic symptoms directly to central neuroinflammation and autoimmunity. Synthesizing neuroimaging and immunological studies, the authors highlighted the presence of G-protein coupled receptor (GPCR) autoantibodies, mitochondrial dysfunction, and cerebral hypoperfusion across all three conditions. Crucially, the review pointed to 7T MRI evidence of localized neuroinflammation in the brainstem's dorsolateral medulla, which regulates cardiorespiratory and autonomic function. This shifts the clinical focus from peripheral cardiovascular symptoms to central neuroimmune drivers, supporting the investigation of immunomodulating therapies. However, this is a conceptual synthesis rather than a primary empirical study, and the presence of brainstem neuroinflammation requires validation in larger, replicated patient cohorts.
+de:
+  title: Klinische Übersichtsarbeit entwirft neuroimmunes Modell zwischen POTS und Hirnstamm-Neuroinflammation
+  plain_summary: Eine Übersichtsarbeit verbindet POTS, ME/CFS und Long COVID über Autoantikörper, Mitochondrienstress und erste 7T-MRT-Hinweise auf Entzündung im Hirnstamm. Als theoretische Zusammenschau erfordert das Modell noch die Überprüfung in größeren Patientenkohorten.
+  detail: Eine narrative Übersichtsarbeit entwarf ein einheitliches neuroimmunes Rahmenmodell für POTS, ME/CFS und Long COVID, das autonome Symptome direkt mit zentraler Neuroinflammation und Autoimmunität verknüpft. Auf Basis von Bildgebungs- und Immunstudien hoben die Autorinnen und Autoren Autoantikörper gegen G-Protein-gekoppelte Rezeptoren (GPCR), mitochondriale Dysfunktion und zerebrale Minderdurchblutung über alle drei Erkrankungen hinweg hervor. Besonderes Gewicht legt die Arbeit auf 7T-MRT-Hinweise zu lokaler Neuroinflammation in der dorsolateralen Medulla des Hirnstamms, einer Region für die Kreislauf- und Atemregulation. Dadurch verschiebt sich der Blick von rein peripheren Kreislaufbeschwerden hin zu zentralen neuroimmunen Treibern und stützt die Erforschung immunmodulierender Ansätze. Da es sich um eine konzeptionelle Synthese und keine eigene empirische Studie handelt, muss die vermutete Hirnstamm-Neuroinflammation erst in größeren, unabhängigen Kohorten bestätigt werden.

@@ -1,0 +1,44 @@
+id: 2026-09-03_cell-models-implicate-a-let-7a-5p-ship
+date: '2026-09-03'
+date_display: '2026-09-03'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Pawar et al. 2026, International Journal of Molecular Sciences
+  url: https://doi.org/10.3390/ijms27177870
+  kind: paper
+- label: Mignolet et al. 2025, bioRxiv
+  url: https://doi.org/10.1101/2025.11.20.689423
+  kind: preprint
+- label: Lu et al. 2026, bioRxiv
+  url: https://doi.org/10.64898/2026.04.07.716934
+  kind: preprint
+en:
+  title: Cell models implicate a let-7a-5p/SHIP-1 pathway in spike-induced microglial pyroptosis
+  plain_summary: In lab-grown brain immune cells exposed to SARS-CoV-2 spike protein, researchers identified a cellular microRNA pathway that altered inflammatory cell death. Because no patients, animals, or brain fluid samples were studied, this is strictly a basic lab hypothesis rather than evidence for any treatment.
+  detail: |-
+    Pawar et al. used a microglial cell line and human monocyte-derived microglia to study inflammatory responses to SARS-CoV-2 spike S1. Spike exposure was associated with pyroptosis and cytokine release, while experiments manipulating let-7a-5p, SHIP-1/INPP5D, and TLR signaling reduced inflammatory outputs in vitro. No patients, organoids, animals, or CSF samples were studied; severe/bedbound inclusion, PEM, and clinical safety are therefore not applicable. The pathway is a testable cellular hypothesis, not evidence for a microRNA or anti-inflammatory treatment.
+
+
+    #### Preclinical & Animal Studies
+
+    * **2025-11-20 - Passive transfer of patient IgG induces sensory pain and binds peripheral neurons in mice**
+      A passive transfer study demonstrated that purified IgG antibodies from Long COVID patients with neurological symptoms cause a transient increase in mechanical pain sensitivity (allodynia) when injected into mice, whereas healthy control IgG does not. Fluorescent imaging revealed that the patient-derived antibodies accumulated in the lumbar dorsal root ganglia (DRG) and bound directly to sensory neurons, with no neuroinflammation detected in the brain. This establishes a direct, antibody-mediated cause for peripheral pain and sensory symptoms, pointing toward antibody-targeted treatments like plasma exchange or immune modulators. However, the passive transfer failed to replicate cognitive impairment, anxiety, or depression in the mice, suggesting that cognitive "brain fog" is driven by distinct, non-antibody mechanisms or requires chronic exposure.
+
+    * **2026-04-08 - Nasal anti-CD3 treatment reverses neuroinflammation and restores neurogenesis in mice**
+      A preclinical study utilizing a mouse model of Long COVID demonstrated that intranasal administration of anti-CD3 monoclonal antibodies reduces chronic neuroinflammation and restores cognitive function. The treatment increased the recruitment of protective regulatory T cells (Tregs) to the brain and shifted primed microglia from a pro-inflammatory to a restorative, tissue-healing state. This immunomodulatory shift reduced brain inflammation, restored hippocampal neurogenesis, and improved short-term memory. The study also found that humans with neurological Long COVID have lower levels of the same protective Tregs. However, human clinical trials are required to determine if intranasal anti-CD3 therapies replicate these neuroprotective and cognitive recovery effects in patients.
+de:
+  title: Zellmodelle bringen einen let-7a-5p/SHIP-1-Signalweg mit Spike-induzierter Mikroglia-Pyroptose in Verbindung
+  plain_summary: In im Labor gezüchteten Hirn-Immunzellen, die dem SARS-CoV-2-Spike-Protein ausgesetzt waren, fanden Forschende einen zellulären MikroRNA-Signalweg, der entzündlichen Zelltod beeinflusste. Da weder Patientinnen noch Tiere oder Nervenwasser untersucht wurden, ist dies eine reine Laborhypothese ohne Therapie-Evidenz.
+  detail: |-
+    Pawar et al. verwendeten eine Mikroglia-Zelllinie und humane, aus Monozyten abgeleitete Mikroglia, um Entzündungsreaktionen auf SARS-CoV-2-Spike-S1 zu untersuchen. Die Spike-Exposition war mit Pyroptose und Zytokinfreisetzung verbunden, während Experimente zur Modulation von let-7a-5p, SHIP-1/INPP5D und TLR-Signalwegen die Entzündungsreaktionen in vitro reduzierten. Weder Patientinnen und Patienten noch Organoide, Tiere oder Liquorproben wurden untersucht; der Einschluss schwer Betroffener/Bettlägeriger, PEM und klinische Sicherheit sind daher nicht anwendbar. Der Signalweg ist eine prüfbare zelluläre Hypothese und kein Beleg für eine mikroRNA- oder entzündungshemmende Therapie.
+
+
+    #### Präklinische & Tierstudien
+
+    * **2025-11-20 – Passiver Transfer von Patienten-IgG löst sensorische Schmerzen aus und bindet bei Mäusen an periphere Neuronen**
+      Eine passive Transferstudie zeigte, dass gereinigte IgG-Antikörper von Long-COVID-Patientinnen und -Patienten mit neurologischen Symptomen bei Injektion in Mäuse einen vorübergehenden Anstieg der mechanischen Schmerzempfindlichkeit (Allodynie) verursachen, während IgG gesunder Kontrollen dies nicht tut. Fluoreszenzbildgebung zeigte, dass sich die patienteneigenen Antikörper in den lumbalen Spinalganglien (DRG) anreicherten und direkt an sensorische Neuronen banden, ohne dass eine Neuroinflammation im Gehirn nachweisbar war. Dies belegt eine direkte, antikörpervermittelte Ursache für periphere Schmerzen und sensorische Symptome und weist auf antikörpergerichtete Therapien wie Plasmaaustausch oder Immunmodulatoren hin. Allerdings bildete der passive Transfer in den Mäusen keine kognitiven Beeinträchtigungen, Angst oder Depression ab, was darauf hindeutet, dass kognitiver „Brain Fog“ durch andere, nicht-antikörpervermittelte Mechanismen angetrieben wird oder eine chronische Exposition erfordert.
+
+    * **2026-04-08 – Nasale Anti-CD3-Behandlung kehrt Neuroinflammation um und stellt bei Mäusen die Neurogenese wieder her**
+      Eine präklinische Studie an einem Mausmodell für Long COVID zeigte, dass die intranasale Gabe monoklonaler Anti-CD3-Antikörper chronische Neuroinflammation verringert und kognitive Funktionen wiederherstellt. Die Behandlung steigerte die Rekrutierung schützender regulatorischer T-Zellen (Tregs) ins Gehirn und lenkte geprimte Mikroglia von einem entzündungsfördernden in einen regenerativen, gewebsheilenden Zustand um. Diese immunmodulatorische Verschiebung reduzierte Hirnentzündung, stellte die hippokampale Neurogenese wieder her und verbesserte das Kurzzeitgedächtnis. Die Studie fand zudem, dass Menschen mit neurologischem Long COVID niedrigere Spiegel derselben schützenden Tregs aufweisen. Klinische Studien am Menschen sind jedoch nötig, um zu klären, ob intranasale Anti-CD3-Therapien diese neuroprotektiven und kognitiven Erholungseffekte bei Patientinnen und Patienten nachbilden.

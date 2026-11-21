@@ -1,0 +1,18 @@
+id: 2025-08-31_genetic-association-study-links-inhibitory-kir-alleles-to
+date: '2025-08-31'
+date_display: '2025-08-31'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Ramadan et al. 2025, Brain, Behavior, and Immunity
+  url: https://doi.org/10.1016/j.bbi.2025.106098
+  kind: paper
+en:
+  title: Genetic association study links inhibitory KIR alleles to ME/CFS susceptibility
+  plain_summary: A genetic study of 418 Norwegian ME/CFS patients and 473 controls found certain inherited immune-receptor variants on natural killer cells were slightly more common in patients. Only one variant held up after strict statistical testing, so the link needs replication in larger international groups before its meaning is clear.
+  detail: A genetic association study analyzing 418 Norwegian ME/CFS patients and 473 controls identified a significant association with specific alleles of inhibitory Killer Cell Immunoglobulin-like Receptors (KIR) on Natural Killer (NK) cells. Specifically, alleles KIR3DL3*002, KIR3DL1*020, and KIR3DL2\*009 were more prevalent in patients, suggesting an inherited genetic predisposition to NK cell dysfunction and impaired viral surveillance. This provides a genetic framework for the immune abnormalities observed in ME/CFS, pointing toward specific receptor pathways that regulate innate immunity. However, the findings require replication in larger, independent international cohorts, as only one allele association remained significant after strict correction for multiple comparisons, and the study does not prove how these alleles alter NK cell function in vivo.
+de:
+  title: Genetische Assoziationsstudie verknüpft hemmende KIR-Allele mit ME/CFS-Anfälligkeit
+  plain_summary: Eine genetische Studie mit 418 norwegischen ME/CFS-Betroffenen und 473 Kontrollen fand bestimmte erbliche Immunrezeptor-Varianten auf natürlichen Killerzellen bei Patientinnen und Patienten etwas häufiger. Da nur eine Variante nach strenger statistischer Korrektur bestehen blieb, muss der Befund erst in größeren internationalen Kohorten überprüft werden.
+  detail: Eine genetische Assoziationsstudie an 418 norwegischen ME/CFS-Patientinnen und -Patienten sowie 473 Kontrollen identifizierte eine signifikante Assoziation mit spezifischen Allelen hemmender Killerzell-Immunglobulin-ähnlicher Rezeptoren (KIR) auf natürlichen Killerzellen (NK-Zellen). Konkret waren die Allele KIR3DL3*002, KIR3DL1*020 und KIR3DL2\*009 bei Betroffenen häufiger, was auf eine vererbte genetische Prädisposition für eine NK-Zell-Dysfunktion und eine beeinträchtigte Virusabwehr hindeutet. Dies liefert einen genetischen Rahmen für die bei ME/CFS beobachteten Immunauffälligkeiten und verweist auf spezifische Rezeptor-Signalwege der angeborenen Immunität. Allerdings müssen die Befunde in größeren, unabhängigen internationalen Kohorten repliziert werden, da nach strenger Korrektur für multiples Testen nur eine Allel-Assoziation signifikant blieb, und die Studie belegt nicht, wie diese Allele die NK-Zell-Funktion in vivo verändern.

@@ -1,0 +1,18 @@
+id: 2026-02-23_plasma-proteomic-profiling-reveals-stable-spike-protein-independ
+date: '2026-02-23'
+date_display: '2026-02-23'
+date_precision: exact
+source_type: paper
+study_design: null
+sources:
+- label: Fineschi et al. 2026, Frontiers in Immunology
+  url: https://doi.org/10.3389/fimmu.2026.1775044
+  kind: paper
+en:
+  title: Plasma proteomic profiling reveals stable, spike-protein-independent inflammatory state in late PASC
+  plain_summary: In 92 Long COVID patients nearly three years after infection, researchers still found subtle inflammatory protein shifts even with no spike protein detectable in blood. This points to a self-sustaining 'locked' immune state in blood, though it does not rule out hidden viral pockets in deep tissues.
+  detail: Plasma proteomic profiling of 92 PASC patients at 34 months post-infection identified 26 differentially expressed proteins, with Oncostatin M (OSM) and IL-1 receptor antagonist (IL1RN) being most significantly upregulated, in the absence of detectable plasma spike protein. This shows that PASC involves a stable, low-grade inflammatory state that persists for years independently of detectable viral antigen replication in the blood, pointing toward a "locked" immune state. However, it does not rule out the presence of viral antigens in deep tissues (sanctuary sites) or identify the primary trigger maintaining this inflammatory memory.
+de:
+  title: Plasma-Proteomik zeigt stabilen, Spike-Protein-unabhängigen Entzündungszustand bei spätem Post-COVID-Syndrom
+  plain_summary: Bei 92 Betroffenen fast drei Jahre nach Infektion zeigten sich im Blut noch immer veränderte Entzündungsproteine, obwohl kein Spike-Protein im Plasma nachweisbar war. Das deutet auf einen dauerhaft „eingerasteten“ Immunzustand hin, schließt versteckte Virusreste in tiefen Geweben aber nicht aus.
+  detail: Eine Plasma-Proteomanalyse bei 92 PASC-Betroffenen rund 34 Monate nach der Infektion identifizierte 26 veränderte Proteine – am stärksten hochreguliert waren Oncostatin M (OSM) und der IL-1-Rezeptorantagonist (IL1RN) –, während im Plasma kein Spike-Protein nachweisbar war. Dies zeigt, dass PASC mit einem stabilen, niedriggradigen Entzündungszustand einhergehen kann, der jahrelang unabhängig von im Blut messbaren Virusantigenen fortbesteht und auf eine Art „eingerastetes“ Immungedächtnis hindeutet. Allerdings schließt dies weder das Vorhandensein von Virusantigenen in tiefen Gewebereservoirs aus, noch benennt es den ursprünglichen Auslöser dieses anhaltenden Zustands.

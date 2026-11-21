@@ -1,0 +1,104 @@
+slug: diagnostics-biomarkers
+group: diagnostics-symptoms-care
+status: active
+evidence_tier: early_clinical
+topics:
+- Diagnostic Biomarkers
+- Machine Learning Classifiers
+- Blood-Based Tests
+- Omics Profiling
+- Biosensors
+- Patient Stratification
+aliases: []
+related_threads:
+- genetic-risk-factors
+- immune-dysregulation-inflammation
+- mitochondrial-metabolic-dysfunction
+- neuroinflammation-brain-changes
+- clinical-characterization-epidemiology
+- vascular-endothelial-microclots
+- pem-exercise-physiology
+- autoimmunity-autoantibodies
+legacy_path: diagnostics-symptoms-care/diagnostics-biomarkers
+en:
+  title: Diagnostics & Biomarkers
+  subtitle: A living thread on diagnostic tests, biomarker panels, machine-learning classifiers, biosensors, assays, and measurement tools for ME/CFS and Long COVID.
+  evidence_label: early clinical validation
+  plain_summary: There is still no single approved blood test or biomarker for ME/CFS, and standard routine lab panels usually come back normal—which does not mean nothing is wrong biologically. Researchers are exploring promising signals across immune genetics, blood-borne RNA, metabolites, and autonomic or cognitive measurements, with several pilot models separating patients from healthy controls. However, most candidates still need independent testing against similar chronic illnesses and validation in mild, moderate, and severe patients before doctors can rely on them.
+  takeaway: 'No single biomarker or diagnostic test for ME/CFS has reached clinical deployment, but a growing body of blood-based, genomic, metabolomic, and functional studies has moved the field from exclusion-by-symptoms toward measurable biological signatures. 3D chromosome conformation profiling, circulating cell-free RNA, extracellular vesicle microRNA signatures, metabolomic machine-learning classifiers, and autonomic measurements have each shown the ability to separate ME/CFS cohorts from healthy controls with accuracies ranging from around 77 percent to well above 90 percent in initial retrospective or pilot studies. The consistency across modalities is notable: immune dysregulation, metabolic inflexibility, and autonomic dysfunction all produce detectable signals, and multiple independent groups have converged on overlapping biological pathways.
+
+
+    The evidence is still early. Most studies use small, selected, or single-center cohorts, and prospective validation of exploratory biomarkers—such as candidate epigenetic panels or extracellular vesicle microRNA signatures—in real-world clinical settings remains a key barrier. Very few studies include mild or moderate patients alongside severe cases, and none of the candidate tests has been validated head-to-head against other chronic inflammatory conditions in a prospective clinical setting. Machine-learning and large language models trained on transcriptomic or metabolomic datasets show promise for feature extraction but frequently need revalidation before generalizing to complex multisystem cohorts. The practical direction is toward multi-marker panels and interpretable, low-cost methods that can scale to routine clinical use, while leaving any single universal test unproven. A Munich PCS cohort shows handgrip strength, fatigability and recovery are worse in the ME/CFS subgroup and
+    track severity, but discriminate poorly (AUC 0.61–0.63). A 564-patient Long COVID cohort found 89 routine lab analytes reflected age, not symptom phenotype or prognosis; normal routine labs therefore do not argue against post-infectious illness, and the finding says nothing about specialised markers.'
+  why_it_matters: 'ME/CFS diagnosis still rests on symptom criteria that take years to apply correctly, and misdiagnosis and diagnostic delay are common. An objective biological test would reduce that delay, allow earlier intervention, and make clinical trials more reliable by improving patient selection. The same markers that distinguish patients from controls often also stratify patients by severity or biological subtype, which points toward precision medicine approaches rather than a single average-patient treatment strategy.
+
+
+    Multiplexed protein biosensors, cfRNA liquid biopsy, epigenetic chromosome-conformation testing, and metabolomics-guided machine learning represent four parallel technical paths that have each produced proof-of-concept results within the past year. Functional tools—virtual reality reaction-time testing and beat-to-beat autonomic monitoring—add a layer of measurement that does not require a blood draw and can capture cognitive and autonomic dimensions that blood panels miss.'
+  state_of_evidence:
+  - status: established
+    label: Established
+    items:
+    - ME/CFS produces measurable biological differences from healthy controls across multiple modalities, including immune gene expression, plasma metabolites, autonomic parameters, and circulating nucleic acids. Machine-learning classifiers built on these signals routinely exceed 80 percent accuracy in discovery cohorts.
+  - status: plausible
+    label: Plausible but early
+    items:
+    - Epigenetic chromosome-conformation signatures (EpiSwitch), cfRNA liquid biopsy, extracellular vesicle microRNA and proteomic cargo profiling, SMPDL3B plasma levels, metabolomic AutoML models, LLM-guided transcriptomic feature selection, and beat-to-beat autonomic classifiers each show strong initial performance in retrospective or pilot cohorts. Objective neurophysiological measures (such as sleep EEG slow-wave microstructure disruptions, altered post-movement beta rebound, and resting alpha frequency slowing) demonstrate measurable group-level central nervous system differences. Multi-omics integration, post-exertional provocation models, and machine-learning tools may allow molecular subtyping and cognitive trajectory mapping to supplement symptom-based classification. A new cross-disease 3D-genome network analysis and a UK Biobank resting-state fMRI classifier add useful negative and hypothesis-generating evidence, but neither is a validated ME/CFS diagnostic test.
+  - status: not_established
+    label: Not established
+    items:
+    - Any single test validated prospectively against clinical diagnosis across mild, moderate, and severe ME/CFS. Head-to-head specificity against overlapping conditions such as multiple sclerosis, rheumatoid arthritis, and fibromyalgia. Clinically validated diagnostic biomarkers derived from exercise-challenge (PEM) provocation protocols, though pilot multi-omic and cognitive trajectory studies are underway. Routine laboratory panels as diagnostic, subtyping or prognostic tools in Long COVID. Handgrip dynamometry as a standalone ME/CFS classifier.
+  - status: limitations
+    label: Key limitations
+    items:
+    - Small and often severely ill or female-only cohorts, cross-sectional designs that cannot prove causation, lack of prospective validation, and the technical gap between research-grade assays and scalable clinical tests. Several candidate markers arrive as preprints or preliminary conference abstracts lacking full diagnostic performance metrics. Furthermore, laboratory-dependent testing protocols (including in-facility polysomnography, high-density EEG, and repeated physical dynamometry) systematically exclude bedbound and very severe patients, skewing the biomarker evidence base toward ambulatory cohorts. Some metabolomic and epigenetic models rely on proprietary platforms with inherent developer conflicts of interest. The UK Biobank fatigue study used a broad self-report definition without PEM characterization and found resting-state fMRI performance near clinical-feature baselines, while the 3D-genome network extension does not report complete denominators or severe-patient representation.
+  - status: note
+    label: Research tool, not a clinical test
+    items:
+    - CATCH-EVseq detected as little as one enterovirus RNA copy per microgram in artificial samples but found none in the small set of ME blood samples tested. Tissue persistence, real-world diagnostic accuracy and severe-patient applicability remain unresolved.
+  open_questions:
+  - Which promising biomarker candidates (such as EpiSwitch, cfRNA, EV-microRNA, or metabolomics panels) hold up in independent, prospective cohorts across mild, moderate, and severe ME/CFS?
+  - How reliably do proposed diagnostic panels distinguish ME/CFS from clinically overlapping illnesses such as fibromyalgia, multiple sclerosis, rheumatoid arthritis, or depression?
+  - Which blood, saliva, or wearable measurements can be collected safely from housebound and bedbound patients without triggering PEM?
+  - Can complex multi-omics and machine-learning classifiers be translated into affordable, standardized clinical lab tests without proprietary barriers?
+de:
+  title: Diagnostik & Biomarker
+  subtitle: Ein fortlaufender Themenstrang zu diagnostischen Tests, Biomarker-Panels, Machine-Learning-Klassifikatoren, Biosensoren, Laborverfahren und Messinstrumenten für ME/CFS und Long COVID.
+  evidence_label: frühe klinische Validierung
+  plain_summary: Einen einzelnen zugelassenen Bluttest oder Biomarker für ME/CFS gibt es bislang nicht, und normale Routinelaborwerte fallen meist unauffällig aus – was jedoch keineswegs gegen eine körperliche Erkrankung spricht. Forschende untersuchen derzeit vielversprechende Spuren aus Immun-Genetik, zirkulierender RNA, Stoffwechselprodukten sowie autonomen und kognitiven Messungen, mit denen Pilotmodelle Betroffene teils gut von Gesunden unterscheiden konnten. Die meisten Ansätze müssen jedoch erst an unabhängigen Gruppen, im Vergleich zu ähnlichen chronischen Erkrankungen sowie über alle Schweregrade hinweg geprüft werden, bevor sie im Klinikalltag einsetzbar sind.
+  takeaway: 'Kein einzelner Biomarker und kein diagnostischer Test für ME/CFS hat bislang die klinische Routine erreicht, doch eine wachsende Zahl blutbasierter, genomischer, metabolomischer und funktioneller Studien hat das Feld von einer reinen Ausschlussdiagnose anhand von Symptomen hin zu messbaren biologischen Signaturen bewegt. 3D-Chromosomenkonformations-Analysen, zirkulierende zellfreie RNA, microRNA-Signaturen extrazellulärer Vesikel, metabolomische Machine-Learning-Klassifikatoren und autonome Messverfahren konnten in ersten retrospektiven oder Pilotstudien ME/CFS-Kohorten mit Trefferquoten von etwa 77 Prozent bis deutlich über 90 Prozent von gesunden Kontrollen trennen. Bemerkenswert ist die Übereinstimmung über verschiedene Messmethoden hinweg: Immundysregulation, metabolische Inflexibilität und autonome Dysfunktion erzeugen jeweils nachweisbare Signale, und mehrere unabhängige Arbeitsgruppen stoßen auf überlappende biologische Signalwege.
+
+
+    Die Evidenz befindet sich jedoch noch in einem frühen Stadium. Die meisten Studien arbeiten mit kleinen, ausgewählten oder monozentrischen Kohorten, und eine prospektive Validierung explorativer Biomarker – etwa potenzieller epigenetischer Panels oder microRNA-Signaturen aus extrazellulären Vesikeln – in der realen Versorgung bleibt eine zentrale Hürde. Nur sehr wenige Studien schließen neben schweren Verläufen auch leicht oder mittelschwer Betroffene ein, und keiner der Testkandidaten wurde bislang prospektiv im direkten Vergleich gegen andere chronisch-entzündliche Erkrankungen validiert. Machine-Learning-Modelle und große Sprachmodelle (LLMs), die auf transkriptomischen oder metabolomischen Datensätzen trainiert wurden, sind vielversprechend für die Merkmalsextraktion, müssen aber häufig neu validiert werden, bevor sie auf komplexe Multisystem-Kohorten übertragbar sind. Die praktische Entwicklung geht in Richtung Multi-Marker-Panels und interpretierbarer, kostengünstiger Verfahren,
+    die sich für den klinischen Alltag skalieren lassen – während ein einzelner universeller Test unbewiesen bleibt. Eine Münchner Post-COVID-Kohorte zeigt, dass Handkraft, Ermüdbarkeit und Erholung in der ME/CFS-Untergruppe schlechter ausfallen und mit dem Schweregrad zusammenhängen, diagnostisch aber schwach trennen (AUC 0,61–0,63). Eine Kohorte mit 564 Long-COVID-Betroffenen ergab zudem, dass 89 Routinelaborwerte eher das Alter widerspiegelten als Symptom-Phänotyp oder Prognose; unauffällige Standardlaborwerte sprechen also nicht gegen eine postinfektiöse Erkrankung, sagen aber auch nichts über spezialisierte Marker aus.'
+  why_it_matters: 'Die Diagnose von ME/CFS stützt sich nach wie vor auf Symptomkriterien, deren korrekte Anwendung Jahre dauern kann, sodass Fehldiagnosen und lange Diagnoseverzögerungen häufig sind. Ein objektiver biologischer Test würde diese Verzögerung verkürzen, frühere Unterstützung ermöglichen und klinische Studien durch eine präzisere Patientenauswahl verlässlicher machen. Dieselben Marker, die Betroffene von Kontrollen unterscheiden, teilen Patientinnen und Patienten häufig auch nach Schweregrad oder biologischem Subtyp ein – was eher in Richtung Präzisionsmedizin weist als auf eine Einheitsbehandlung.
+
+
+    Multiplex-Proteinbiosensoren, cfRNA-Flüssigbiopsien, epigenetische Chromosomenkonformations-Tests und metabolomisch gestütztes maschinelles Lernen bilden vier parallele technische Wege, die allesamt innerhalb des letzten Jahres Machbarkeitsnachweise geliefert haben. Funktionelle Werkzeuge – etwa Reaktionszeittests in virtueller Realität und Schlag-für-Schlag-Messungen des autonomen Nervensystems – ergänzen eine Messebene ohne Blutentnahme und erfassen kognitive sowie autonome Dimensionen, die reine Blutpanels übersehen.'
+  state_of_evidence:
+  - status: established
+    label: Etabliert
+    items:
+    - ME/CFS erzeugt über mehrere Ebenen hinweg messbare biologische Unterschiede gegenüber gesunden Kontrollen, darunter Immungenexpression, Plasmametabolite, autonome Parameter und zirkulierende Nukleinsäuren. Machine-Learning-Klassifikatoren auf Basis dieser Signale erreichen in Entdeckungskohorten regelmäßig über 80 Prozent Genauigkeit.
+  - status: plausible
+    label: Plausibel, aber noch früh
+    items:
+    - Epigenetische Chromosomenkonformations-Signaturen (EpiSwitch), cfRNA-Flüssigbiopsien, microRNA- und Protein-Frachtprofile extrazellulärer Vesikel, SMPDL3B-Plasmaspiegel, metabolomische AutoML-Modelle, LLM-gestützte transkriptomische Merkmalsauswahl sowie Schlag-für-Schlag-Klassifikatoren der autonomen Regulation zeigen in retrospektiven oder Pilotkohorten jeweils starke erste Leistungen. Objektive neurophysiologische Maße (etwa Störungen der Schlaf-EEG-Mikrostruktur langsamer Oszillationen, ein veränderter Post-Movement-Beta-Rebound und eine Verlangsamung der Alpha-Ruhefrequenz) belegen messbare Unterschiede im zentralen Nervensystem auf Gruppenebene. Multi-Omics-Integration, Post-Exertions-Provokationsmodelle und Machine-Learning-Werkzeuge könnten künftig eine molekulare Subtypisierung und das Verfolgen kognitiver Verläufe ergänzend zur symptombasierten Einordnung ermöglichen. Eine neue krankheitsübergreifende 3D-Genom-Netzwerkanalyse und ein fMRT-Ruhezustands-Klassifikator aus der
+      UK Biobank liefern hilfreiche negative beziehungsweise hypothesengenerierende Evidenz, sind aber keine validierten ME/CFS-Diagnosetests.
+  - status: not_established
+    label: Nicht belegt
+    items:
+    - Ein einzelner Test, der prospektiv gegen die klinische Diagnose bei leichtem, mittelschwerem und schwerem ME/CFS validiert ist. Eine direkte Abgrenzungsschärfe gegenüber überlappenden Erkrankungen wie Multipler Sklerose, rheumatoider Arthritis und Fibromyalgie. Klinisch validierte diagnostische Biomarker aus Belastungsprovokations-Protokollen (PEM), wenngleich erste Multi-Omics- und Kognitionsverlauf-Pilotstudien laufen. Routinelabor-Panels als Diagnose-, Subtypisierungs- oder Prognoseinstrumente bei Long COVID. Handkraft-Dynamometrie als eigenständiger ME/CFS-Klassifikator.
+  - status: limitations
+    label: Wichtige Einschränkungen
+    items:
+    - Kleine und häufig schwer erkrankte oder rein weibliche Kohorten, Querschnittsdesigns ohne Kausalitätsbeleg, fehlende prospektive Validierung sowie die technische Lücke zwischen Forschungsassays und skalierbaren Kliniktests. Mehrere Kandidaten-Marker liegen bislang nur als Preprints oder vorläufige Konferenz-Abstracts ohne vollständige diagnostische Gütemaße vor. Zudem schließen laborgebundene Testprotokolle (wie stationäre Polysomnographie, hochdichtes EEG und wiederholte Kraftmessungen) bettlägerige und sehr schwer erkrankte Menschen systematisch aus, wodurch die Biomarker-Evidenz zu ambulanten Gruppen hin verzerrt wird. Einige metabolomische und epigenetische Modelle beruhen auf proprietären Plattformen mit inhärenten Interessenkonflikten der Entwickler. Die UK-Biobank-Fatigue-Studie nutzte eine breite Selbstauskunfts-Definition ohne PEM-Erfassung und fand bei der Ruhe-fMRT nur eine Leistung nahe klinischer Basismerkmale, während die 3D-Genom-Netzwerkanalyse keine vollständigen Nenner
+      oder Angaben zum Einschluss schwer Betroffener liefert.
+  - status: note
+    label: Forschungsinstrument, kein klinischer Test
+    items:
+    - CATCH-EVseq wies in künstlichen Proben bis zu eine Enterovirus-RNA-Kopie pro Mikrogramm nach, fand jedoch in dem kleinen Satz getesteter ME-Blutproben keine Virus-RNA. Eine mögliche Persistenz im Gewebe, die diagnostische Treffsicherheit im Alltag und die Anwendbarkeit bei schwer Betroffenen bleiben ungeklärt.
+  open_questions:
+  - Welche der vielversprechenden Biomarker-Kandidaten (z. B. EpiSwitch, cfRNA, EV-microRNA oder Metabolomik-Panels) bewähren sich in unabhängigen, prospektiven Studien über leichte, mittelschwere und schwere Verläufe hinweg?
+  - Wie zuverlässig grenzen die vorgeschlagenen Test-Panels ME/CFS von klinisch ähnlichen Erkrankungen wie Fibromyalgie, Multipler Sklerose, rheumatoider Arthritis oder Depression ab?
+  - Welche Blut-, Speichel- oder tragbaren Messverfahren lassen sich auch bei hausgebundenen und bettlägerigen Patientinnen und Patienten ohne Auslösen von PEM sicher einsetzen?
+  - Lassen sich komplexe Multi-Omics- und Machine-Learning-Modelle in kostengünstige, standardisierte Labortests ohne proprietäre Hürden überführen?
