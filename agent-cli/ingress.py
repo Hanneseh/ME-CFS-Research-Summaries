@@ -30,9 +30,11 @@ REDDIT_FEEDS = [
     "https://www.reddit.com/search.rss?q=MECFS+conference+daratumumab&sort=new",
 ]
 
+
 def ensure_dirs():
     INPUT_DIR.mkdir(parents=True, exist_ok=True)
     EMAILS_DIR.mkdir(parents=True, exist_ok=True)
+
 
 def parse_iso_datetime(dt_str: str) -> datetime:
     normalized = dt_str.strip()
@@ -43,9 +45,11 @@ def parse_iso_datetime(dt_str: str) -> datetime:
         dt = dt.replace(tzinfo=timezone.utc)
     return dt
 
+
 # ==========================================
 # Email Ingestion
 # ==========================================
+
 
 def parse_folder_line(line: str) -> tuple[list[str], str]:
     match = re.match(r'\((?P<flags>[^)]*)\)\s+"(?P<delim>[^"]*)"\s+(?P<name>.+)', line)
@@ -56,6 +60,7 @@ def parse_folder_line(line: str) -> tuple[list[str], str]:
         name = match.group("name").strip('"')
         return flags, name
     return [], ""
+
 
 def find_trash_folder(mail) -> str:
     try:
@@ -87,12 +92,15 @@ def find_trash_folder(mail) -> str:
         print(f"Warning during trash folder detection: {e}")
     return "[Gmail]/Trash"
 
+
 def fetch_emails():
     gmail_user = os.getenv("GMAIL_USER")
     gmail_app_password = os.getenv("GMAIL_APP_PASSWORD")
 
     if not gmail_user or not gmail_app_password:
-        print("Error: GMAIL_USER or GMAIL_APP_PASSWORD environment variables are not set.")
+        print(
+            "Error: GMAIL_USER or GMAIL_APP_PASSWORD environment variables are not set."
+        )
         return False
 
     try:
@@ -136,7 +144,9 @@ def fetch_emails():
             try:
                 status, data = mail.uid("fetch", msg_uid, "(RFC822)")
                 if status != "OK" or not data or not data[0]:
-                    print(f"[{i + 1}/{len(msg_uids)}] Error fetching message UID {uid_str}: {status}")
+                    print(
+                        f"[{i + 1}/{len(msg_uids)}] Error fetching message UID {uid_str}: {status}"
+                    )
                     continue
 
                 raw_email_bytes = None
@@ -146,7 +156,9 @@ def fetch_emails():
                         break
 
                 if not raw_email_bytes:
-                    print(f"[{i + 1}/{len(msg_uids)}] Could not extract raw bytes for message UID {uid_str}")
+                    print(
+                        f"[{i + 1}/{len(msg_uids)}] Could not extract raw bytes for message UID {uid_str}"
+                    )
                     continue
 
                 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
@@ -164,13 +176,17 @@ def fetch_emails():
                         deleted_count += 1
                 processed_count += 1
             except Exception as e:
-                print(f"[{i + 1}/{len(msg_uids)}] Error processing message UID {uid_str}: {e}")
+                print(
+                    f"[{i + 1}/{len(msg_uids)}] Error processing message UID {uid_str}: {e}"
+                )
 
         if deleted_count > 0:
             mail.expunge()
 
         print(f"Processed: {processed_count} of {len(msg_uids)} email(s)")
-        print(f"Written:   {written_count} file(s) to '{EMAILS_DIR.relative_to(BASE_DIR)}'")
+        print(
+            f"Written:   {written_count} file(s) to '{EMAILS_DIR.relative_to(BASE_DIR)}'"
+        )
         mail.logout()
         return True
     except Exception as e:
@@ -181,9 +197,11 @@ def fetch_emails():
             pass
         return False
 
+
 # ==========================================
 # Reddit Ingestion
 # ==========================================
+
 
 def extract_outbound_link(content_html: str, reddit_link: str) -> str:
     if not content_html:
@@ -196,9 +214,13 @@ def extract_outbound_link(content_html: str, reddit_link: str) -> str:
         href = href.strip()
         if href.startswith(("http://", "https://")):
             href_lower = href.lower()
-            if not any(domain in href_lower for domain in ["reddit.com", "redditmedia.com", "redd.it"]):
+            if not any(
+                domain in href_lower
+                for domain in ["reddit.com", "redditmedia.com", "redd.it"]
+            ):
                 return href
     return reddit_link
+
 
 def clean_html_content(content_html: str) -> str:
     if not content_html:
@@ -210,6 +232,7 @@ def clean_html_content(content_html: str) -> str:
             a.decompose()
     text = soup.get_text(separator="\n")
     return "\n".join(line.strip() for line in text.splitlines() if line.strip())
+
 
 def fetch_and_parse_reddit_feed(url: str) -> list[dict]:
     print(f"Fetching Reddit feed: {url}")
@@ -238,7 +261,11 @@ def fetch_and_parse_reddit_feed(url: str) -> list[dict]:
     entries = root.findall("atom:entry", namespaces)
     for entry in entries:
         title_elem = entry.find("atom:title", namespaces)
-        title = title_elem.text.strip() if title_elem is not None and title_elem.text else "Untitled"
+        title = (
+            title_elem.text.strip()
+            if title_elem is not None and title_elem.text
+            else "Untitled"
+        )
 
         reddit_link = ""
         links = entry.findall("atom:link", namespaces)
@@ -255,7 +282,11 @@ def fetch_and_parse_reddit_feed(url: str) -> list[dict]:
                 reddit_link = href.strip()
 
         updated_elem = entry.find("atom:updated", namespaces)
-        updated_str = updated_elem.text.strip() if updated_elem is not None and updated_elem.text else ""
+        updated_str = (
+            updated_elem.text.strip()
+            if updated_elem is not None and updated_elem.text
+            else ""
+        )
 
         content_elem = entry.find("atom:content", namespaces)
         content_html = (content_elem.text or "") if content_elem is not None else ""
@@ -263,14 +294,17 @@ def fetch_and_parse_reddit_feed(url: str) -> list[dict]:
         outbound_link = extract_outbound_link(content_html, reddit_link)
         cleaned_content = clean_html_content(content_html)
 
-        parsed_entries.append({
-            "title": title,
-            "reddit_link": reddit_link,
-            "updated_str": updated_str,
-            "outbound_link": outbound_link,
-            "content": cleaned_content,
-        })
+        parsed_entries.append(
+            {
+                "title": title,
+                "reddit_link": reddit_link,
+                "updated_str": updated_str,
+                "outbound_link": outbound_link,
+                "content": cleaned_content,
+            }
+        )
     return parsed_entries
+
 
 def fetch_reddit():
     all_entries = []
@@ -319,21 +353,29 @@ def fetch_reddit():
 
     publications = []
     for entry in unique_entries:
-        publications.append({
-            "title": entry["title"],
-            "link": entry["outbound_link"] or entry["reddit_link"] or None,
-            "source": "Reddit",
-            "published_date": entry["parsed_date"].strftime("%Y-%m-%d")
-        })
+        publications.append(
+            {
+                "title": entry["title"],
+                "link": entry["outbound_link"] or entry["reddit_link"] or None,
+                "source": "Reddit",
+                "published_date": entry["parsed_date"].strftime("%Y-%m-%d"),
+            }
+        )
 
     payload = {"publications": publications}
-    output_file.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"Successfully wrote {len(publications)} entries to {output_file.relative_to(BASE_DIR)}")
+    output_file.write_text(
+        json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    print(
+        f"Successfully wrote {len(publications)} entries to {output_file.relative_to(BASE_DIR)}"
+    )
     return True
+
 
 # ==========================================
 # YouTube Ingestion (Unified RSS + Scraping)
 # ==========================================
+
 
 def resolve_youtube_channel_id(channel_url_or_id: str) -> str:
     channel_url_or_id = channel_url_or_id.strip()
@@ -343,19 +385,27 @@ def resolve_youtube_channel_id(channel_url_or_id: str) -> str:
     print(f"Resolving YouTube channel ID for URL: {channel_url_or_id}")
     req = urllib.request.Request(
         channel_url_or_id,
-        headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko)"}
+        headers={
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko)"
+        },
     )
     try:
         with urllib.request.urlopen(req, timeout=15) as response:
             html = response.read().decode("utf-8", errors="replace")
     except Exception as e:
-        raise ValueError(f"Failed to fetch YouTube channel URL {channel_url_or_id}: {e}")
+        raise ValueError(
+            f"Failed to fetch YouTube channel URL {channel_url_or_id}: {e}"
+        )
 
-    match = re.search(r'<meta itemprop="channelId" content="(UC[A-Za-z0-9_-]{22})"', html)
+    match = re.search(
+        r'<meta itemprop="channelId" content="(UC[A-Za-z0-9_-]{22})"', html
+    )
     if match:
         return match.group(1)
 
-    match = re.search(r'youtube\.com/feeds/videos\.xml\?channel_id=(UC[A-Za-z0-9_-]{22})', html)
+    match = re.search(
+        r"youtube\.com/feeds/videos\.xml\?channel_id=(UC[A-Za-z0-9_-]{22})", html
+    )
     if match:
         return match.group(1)
 
@@ -364,19 +414,24 @@ def resolve_youtube_channel_id(channel_url_or_id: str) -> str:
         return match.group(1)
 
     # Let's search generally for any UC match
-    matches = re.findall(r'UC[A-Za-z0-9_-]{22}', html)
+    matches = re.findall(r"UC[A-Za-z0-9_-]{22}", html)
     if matches:
         # Fall back to first UC match if found
         return matches[0]
 
-    raise ValueError(f"Could not resolve channel ID from HTML for URL {channel_url_or_id}")
+    raise ValueError(
+        f"Could not resolve channel ID from HTML for URL {channel_url_or_id}"
+    )
+
 
 def parse_youtube_date(lockup: dict, metadata: dict, now: datetime) -> str:
     # 1. Check for upcomingEventData
-    upcoming_data = lockup.get('upcomingEventData') or metadata.get('upcomingEventData')
-    if upcoming_data and upcoming_data.get('startTime'):
+    upcoming_data = lockup.get("upcomingEventData") or metadata.get("upcomingEventData")
+    if upcoming_data and upcoming_data.get("startTime"):
         try:
-            return datetime.fromtimestamp(int(upcoming_data['startTime']), timezone.utc).strftime('%Y-%m-%d')
+            return datetime.fromtimestamp(
+                int(upcoming_data["startTime"]), timezone.utc
+            ).strftime("%Y-%m-%d")
         except Exception:
             pass
 
@@ -392,48 +447,83 @@ def parse_youtube_date(lockup: dict, metadata: dict, now: datetime) -> str:
                 yield from find_strings(v)
 
     all_strings = list(find_strings(metadata))
-    
+
     # 3. Check for "Premiere" with date
     for s in all_strings:
         # German: Premiere am DD.MM.YY
-        match = re.search(r'Premiere\s+am\s+(\d{2})\.(\d{2})\.(\d{2})', s, re.IGNORECASE)
+        match = re.search(
+            r"Premiere\s+am\s+(\d{2})\.(\d{2})\.(\d{2})", s, re.IGNORECASE
+        )
         if match:
             return f"20{match.group(3)}-{match.group(2)}-{match.group(1)}"
         # English: Premieres on MM/DD/YY
-        match = re.search(r'Premieres\s+on\s+(\d{1,2})/(\d{1,2})/(\d{2})', s, re.IGNORECASE)
+        match = re.search(
+            r"Premieres\s+on\s+(\d{1,2})/(\d{1,2})/(\d{2})", s, re.IGNORECASE
+        )
         if match:
             return f"20{match.group(3)}-{match.group(1).zfill(2)}-{match.group(2).zfill(2)}"
 
     # 4. Check for relative time strings
     pub_text = ""
-    metadata_lines = metadata.get('metadata', {}).get('contentMetadataViewModel', {}).get('metadataRows', [])
+    metadata_lines = (
+        metadata.get("metadata", {})
+        .get("contentMetadataViewModel", {})
+        .get("metadataRows", [])
+    )
     for row in metadata_lines:
-        for part in row.get('metadataParts', []):
-            text = part.get('text', {}).get('content', '')
-            if any(x in text for x in ['Vor', 'ago', 'Streamed', 'Gestreamt', 'hour', 'day', 'week', 'month', 'year', 'Minuten', 'Stunden', 'Tagen', 'Wochen', 'Monaten', 'Jahr']):
+        for part in row.get("metadataParts", []):
+            text = part.get("text", {}).get("content", "")
+            if any(
+                x in text
+                for x in [
+                    "Vor",
+                    "ago",
+                    "Streamed",
+                    "Gestreamt",
+                    "hour",
+                    "day",
+                    "week",
+                    "month",
+                    "year",
+                    "Minuten",
+                    "Stunden",
+                    "Tagen",
+                    "Wochen",
+                    "Monaten",
+                    "Jahr",
+                ]
+            ):
                 pub_text = text
                 break
 
     if pub_text:
-        match = re.search(r'(\d+)\s+(day|Tag|hour|Stund|week|Woch|month|Monat)', pub_text, re.IGNORECASE)
+        match = re.search(
+            r"(\d+)\s+(day|Tag|hour|Stund|week|Woch|month|Monat)",
+            pub_text,
+            re.IGNORECASE,
+        )
         if match:
             val = int(match.group(1))
             unit = match.group(2).lower()
-            if 'day' in unit or 'tag' in unit:
+            if "day" in unit or "tag" in unit:
                 dt = now - timedelta(days=val)
-            elif 'week' in unit or 'woch' in unit:
+            elif "week" in unit or "woch" in unit:
                 dt = now - timedelta(days=val * 7)
-            elif 'month' in unit or 'monat' in unit:
+            elif "month" in unit or "monat" in unit:
                 dt = now - timedelta(days=val * 30)
-            elif 'hour' in unit or 'stund' in unit:
+            elif "hour" in unit or "stund" in unit:
                 dt = now
-            return dt.strftime('%Y-%m-%d')
-        elif 'yesterday' in pub_text.lower() or 'gestern' in pub_text.lower():
-            return (now - timedelta(days=1)).strftime('%Y-%m-%d')
-        elif any(x in pub_text.lower() for x in ['just now', 'gerade eben', 'minute', 'stunde', 'hour']):
-            return now.strftime('%Y-%m-%d')
+            return dt.strftime("%Y-%m-%d")
+        elif "yesterday" in pub_text.lower() or "gestern" in pub_text.lower():
+            return (now - timedelta(days=1)).strftime("%Y-%m-%d")
+        elif any(
+            x in pub_text.lower()
+            for x in ["just now", "gerade eben", "minute", "stunde", "hour"]
+        ):
+            return now.strftime("%Y-%m-%d")
 
     return "Unknown"
+
 
 def fetch_youtube_videos_via_scraping(channel_url_or_id: str) -> list[dict]:
     # Formulate /videos URL
@@ -445,7 +535,9 @@ def fetch_youtube_videos_via_scraping(channel_url_or_id: str) -> list[dict]:
     print(f"Scraping YouTube channel /videos page: {url}")
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko)"}
+        headers={
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko)"
+        },
     )
     try:
         with urllib.request.urlopen(req, timeout=15) as response:
@@ -455,7 +547,7 @@ def fetch_youtube_videos_via_scraping(channel_url_or_id: str) -> list[dict]:
         return []
 
     # Find ytInitialData
-    match = re.search(r'ytInitialData\s*=\s*({.+?});', html)
+    match = re.search(r"ytInitialData\s*=\s*({.+?});", html)
     if not match:
         print("Warning: ytInitialData not found in YouTube channel HTML.")
         return []
@@ -477,22 +569,24 @@ def fetch_youtube_videos_via_scraping(channel_url_or_id: str) -> list[dict]:
             for val in obj:
                 yield from find_key(val, target_key)
 
-    lockups = list(find_key(data, 'lockupViewModel'))
+    lockups = list(find_key(data, "lockupViewModel"))
     print(f"Found {len(lockups)} lockupViewModel objects in YouTube page.")
 
     # Determine channel name
     channel_name = "YouTube"
-    header = data.get('header', {})
+    header = data.get("header", {})
     if isinstance(header, dict):
-        page_header = header.get('pageHeaderRenderer') or header.get('pageHeaderViewModel')
+        page_header = header.get("pageHeaderRenderer") or header.get(
+            "pageHeaderViewModel"
+        )
         if isinstance(page_header, dict):
-            page_title = page_header.get('pageTitle', {})
+            page_title = page_header.get("pageTitle", {})
             if isinstance(page_title, dict):
-                title_obj = page_title.get('title', {})
+                title_obj = page_title.get("title", {})
                 if isinstance(title_obj, dict):
-                    title_run = title_obj.get('runs', [{}])
+                    title_run = title_obj.get("runs", [{}])
                     if isinstance(title_run, list) and title_run:
-                        channel_name = title_run[0].get('text', channel_name)
+                        channel_name = title_run[0].get("text", channel_name)
 
     # Reference datetime from context local time to prevent relative dates moving in the future during simulation
     # The current local time is: 2026-06-29
@@ -500,24 +594,27 @@ def fetch_youtube_videos_via_scraping(channel_url_or_id: str) -> list[dict]:
 
     videos = []
     for lockup in lockups:
-        metadata = lockup.get('metadata', {}).get('lockupMetadataViewModel', {})
-        title = metadata.get('title', {}).get('content', 'Untitled Video')
-        vid = lockup.get('contentId')
+        metadata = lockup.get("metadata", {}).get("lockupMetadataViewModel", {})
+        title = metadata.get("title", {}).get("content", "Untitled Video")
+        vid = lockup.get("contentId")
         if not vid:
             continue
 
         published_date = parse_youtube_date(lockup, metadata, reference_now)
-        videos.append({
-            "title": title,
-            "link": f"https://youtu.be/{vid}",
-            "source": f"YouTube ({channel_name})",
-            "published_date": published_date,
-        })
+        videos.append(
+            {
+                "title": title,
+                "link": f"https://youtu.be/{vid}",
+                "source": f"YouTube ({channel_name})",
+                "published_date": published_date,
+            }
+        )
     return videos
+
 
 def fetch_youtube(channels: list[str], dynamic_sources: list[str] | None = None):
     all_videos = []
-    
+
     # Check static channels
     for chan in channels:
         videos = fetch_youtube_videos_via_scraping(chan)
@@ -539,22 +636,30 @@ def fetch_youtube(channels: list[str], dynamic_sources: list[str] | None = None)
                     video_id = src.split("youtu.be/")[-1].split("?")[0]
                 elif "v=" in src:
                     video_id = src.split("v=")[-1].split("&")[0]
-                
+
                 title = f"Manual YouTube Source ({video_id})" if video_id else src
-                all_videos.append({
-                    "title": title,
-                    "link": src,
-                    "source": "Manual",
-                    "published_date": datetime.now(timezone.utc).strftime("%Y-%m-%d")
-                })
+                all_videos.append(
+                    {
+                        "title": title,
+                        "link": src,
+                        "source": "Manual",
+                        "published_date": datetime.now(timezone.utc).strftime(
+                            "%Y-%m-%d"
+                        ),
+                    }
+                )
             else:
                 # General dynamic link
-                all_videos.append({
-                    "title": f"Manual Source ({src})",
-                    "link": src,
-                    "source": "Manual",
-                    "published_date": datetime.now(timezone.utc).strftime("%Y-%m-%d")
-                })
+                all_videos.append(
+                    {
+                        "title": f"Manual Source ({src})",
+                        "link": src,
+                        "source": "Manual",
+                        "published_date": datetime.now(timezone.utc).strftime(
+                            "%Y-%m-%d"
+                        ),
+                    }
+                )
 
     output_file = INPUT_DIR / "youtube_feed.json"
     if not all_videos:
@@ -590,34 +695,74 @@ def fetch_youtube(channels: list[str], dynamic_sources: list[str] | None = None)
             unique_videos.append(video)
 
     payload = {"publications": unique_videos}
-    output_file.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"Successfully wrote {len(unique_videos)} entries to {output_file.relative_to(BASE_DIR)}")
+    output_file.write_text(
+        json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    print(
+        f"Successfully wrote {len(unique_videos)} entries to {output_file.relative_to(BASE_DIR)}"
+    )
     return True
+
 
 # ==========================================
 # Main CLI Entry Point
 # ==========================================
 
+
 def main():
     ensure_dirs()
-    parser = argparse.ArgumentParser(description="Ingress tool for fetching raw ME/CFS research feeds.")
-    subparsers = parser.add_subparsers(dest="command", required=True, help="Subcommand to run")
+    parser = argparse.ArgumentParser(
+        description="Ingress tool for fetching raw ME/CFS research feeds."
+    )
+    subparsers = parser.add_subparsers(
+        dest="command", required=True, help="Subcommand to run"
+    )
 
     # Email command
     subparsers.add_parser("emails", help="Ingest unseen emails from Gmail inbox")
 
     # Reddit command
-    subparsers.add_parser("reddit", help="Fetch and parse latest entries from Reddit feeds")
+    subparsers.add_parser(
+        "reddit", help="Fetch and parse latest entries from Reddit feeds"
+    )
 
     # YouTube command
-    yt_parser = subparsers.add_parser("youtube", help="Fetch and parse latest videos from YouTube channels")
-    yt_parser.add_argument("--channel", action="append", dest="channels", default=[], help="YouTube channel ID or URL to check. Can specify multiple times.")
-    yt_parser.add_argument("--add-source", action="append", dest="add_sources", default=[], help="Dynamically add a specific source URL to include in this run.")
+    yt_parser = subparsers.add_parser(
+        "youtube", help="Fetch and parse latest videos from YouTube channels"
+    )
+    yt_parser.add_argument(
+        "--channel",
+        action="append",
+        dest="channels",
+        default=[],
+        help="YouTube channel ID or URL to check. Can specify multiple times.",
+    )
+    yt_parser.add_argument(
+        "--add-source",
+        action="append",
+        dest="add_sources",
+        default=[],
+        help="Dynamically add a specific source URL to include in this run.",
+    )
 
     # All command
-    all_parser = subparsers.add_parser("all", help="Fetch from all sources (emails, reddit, and YouTube channels)")
-    all_parser.add_argument("--channel", action="append", dest="channels", default=[], help="YouTube channel ID or URL. Can specify multiple times.")
-    all_parser.add_argument("--add-source", action="append", dest="add_sources", default=[], help="Dynamically add a specific source URL to include in this run.")
+    all_parser = subparsers.add_parser(
+        "all", help="Fetch from all sources (emails, reddit, and YouTube channels)"
+    )
+    all_parser.add_argument(
+        "--channel",
+        action="append",
+        dest="channels",
+        default=[],
+        help="YouTube channel ID or URL. Can specify multiple times.",
+    )
+    all_parser.add_argument(
+        "--add-source",
+        action="append",
+        dest="add_sources",
+        default=[],
+        help="Dynamically add a specific source URL to include in this run.",
+    )
 
     args = parser.parse_args()
 
@@ -634,6 +779,7 @@ def main():
         fetch_reddit()
         print("\n--- Ingesting YouTube ---")
         fetch_youtube(args.channels, args.add_sources)
+
 
 if __name__ == "__main__":
     main()

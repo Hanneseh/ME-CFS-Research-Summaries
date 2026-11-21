@@ -6,6 +6,7 @@ members and fetch a PubMed abstract via NCBI eutils where a PMID exists.
 Writes agent-cli/state/source_grounding.json keyed by cluster_id. Clusters
 without a PMID get abstract=null and are listed for manual/page resolution.
 """
+
 from __future__ import annotations
 
 import json
@@ -20,7 +21,10 @@ EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
 
 def main() -> None:
-    clusters = {c["cluster_id"]: c for c in json.loads((STATE / "candidate_clusters.json").read_text())}
+    clusters = {
+        c["cluster_id"]: c
+        for c in json.loads((STATE / "candidate_clusters.json").read_text())
+    }
     work = json.loads((STATE / "work_items.json").read_text())["work_items"]
     ns = [w for w in work if w["decision"] == "new_source"]
 
@@ -53,7 +57,9 @@ def main() -> None:
     pmids = list(pmid_to_cluster.keys())
     if pmids:
         params = f"?db=pubmed&id={','.join(pmids)}&retmode=xml"
-        req = urllib.request.Request(EUTILS + params, headers={"User-Agent": "ME-CFS-curation/1.0"})
+        req = urllib.request.Request(
+            EUTILS + params, headers={"User-Agent": "ME-CFS-curation/1.0"}
+        )
         with urllib.request.urlopen(req, timeout=60) as r:
             xml = r.read().decode("utf-8", errors="replace")
         root = ET.fromstring(xml)
@@ -66,7 +72,11 @@ def main() -> None:
                 txt = "".join(ab.itertext())
                 abst_parts.append(f"{label}: {txt}" if label else txt)
             journal = art.findtext(".//Journal/Title") or ""
-            year = art.findtext(".//PubDate/Year") or art.findtext(".//ArticleDate/Year") or ""
+            year = (
+                art.findtext(".//PubDate/Year")
+                or art.findtext(".//ArticleDate/Year")
+                or ""
+            )
             abstract = "\n".join(abst_parts).strip()
             for cid in pmid_to_cluster.get(pmid, []):
                 grounding[cid]["abstract"] = abstract or None
@@ -81,7 +91,9 @@ def main() -> None:
     print("Clusters WITHOUT abstract (need page/DOI resolution):")
     for cid, g in grounding.items():
         if not g["abstract"]:
-            print(f"  {cid} | {g['primary_thread']} | pmid={g['pmid']} doi={g['doi']} | {(g['title'] or '')[:50]} | {g['url']}")
+            print(
+                f"  {cid} | {g['primary_thread']} | pmid={g['pmid']} doi={g['doi']} | {(g['title'] or '')[:50]} | {g['url']}"
+            )
 
 
 if __name__ == "__main__":

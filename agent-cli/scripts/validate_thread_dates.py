@@ -32,7 +32,9 @@ def split_frontmatter(text: str) -> tuple[str, str, str] | None:
 
 
 def frontmatter_value(frontmatter: str, key: str) -> str | None:
-    match = re.search(rf"^{re.escape(key)}:\s*(.+?)\s*$", frontmatter, flags=re.MULTILINE)
+    match = re.search(
+        rf"^{re.escape(key)}:\s*(.+?)\s*$", frontmatter, flags=re.MULTILINE
+    )
     if not match:
         return None
     return match.group(1).strip().strip("\"'")
@@ -49,7 +51,9 @@ def timeline_body(markdown_body: str) -> str:
     match = re.search(r"^##\s+Timeline\s*$", markdown_body, flags=re.MULTILINE)
     if not match:
         return ""
-    next_section = re.search(r"^##\s+", markdown_body[match.end() :], flags=re.MULTILINE)
+    next_section = re.search(
+        r"^##\s+", markdown_body[match.end() :], flags=re.MULTILINE
+    )
     if not next_section:
         return markdown_body[match.end() :]
     return markdown_body[match.end() : match.end() + next_section.start()]
@@ -105,7 +109,11 @@ def main() -> int:
         description="Validate atomic entry dates and report the newest date per thread."
     )
     parser.add_argument("--content-dir", type=Path, default=CONTENT_DIR)
-    parser.add_argument("--fix", action="store_true", help="For legacy content, rewrite date and last_updated when they drift.")
+    parser.add_argument(
+        "--fix",
+        action="store_true",
+        help="For legacy content, rewrite date and last_updated when they drift.",
+    )
     args = parser.parse_args()
 
     if (args.content_dir / "threads").exists():
@@ -114,7 +122,9 @@ def main() -> int:
             print(f"ERROR: {error}")
         for slug, date in result.newest_dates.items():
             print(f"{slug}: {date}")
-        print(f"Checked {result.thread_count} threads and {result.entry_count} entries.")
+        print(
+            f"Checked {result.thread_count} threads and {result.entry_count} entries."
+        )
         return int(bool(result.errors))
 
     pages = iter_thread_pages(args.content_dir)
@@ -128,7 +138,11 @@ def main() -> int:
             fix_page(issue)
 
     for issue in issues:
-        rel = issue.path.relative_to(BASE_DIR) if issue.path.is_relative_to(BASE_DIR) else issue.path
+        rel = (
+            issue.path.relative_to(BASE_DIR)
+            if issue.path.is_relative_to(BASE_DIR)
+            else issue.path
+        )
         action = "fixed" if args.fix else "mismatch"
         print(
             f"{action}: {rel}: expected {issue.expected}, "
@@ -136,7 +150,9 @@ def main() -> int:
         )
 
     if issues and not args.fix:
-        print(f"{len(issues)} thread date mismatch(es). Run with --fix to update frontmatter.")
+        print(
+            f"{len(issues)} thread date mismatch(es). Run with --fix to update frontmatter."
+        )
         return 1
 
     print(f"checked {len(pages)} thread page(s); {len(issues)} issue(s)")

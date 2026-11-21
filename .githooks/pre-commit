@@ -1,0 +1,8 @@
+#!/bin/sh
+set -eu
+
+cd "$(git rev-parse --show-toplevel)"
+snapshot="$(mktemp -d)"
+trap 'rm -rf "$snapshot"' EXIT
+git checkout-index --all --prefix="$snapshot/"
+UV_PROJECT_ENVIRONMENT="$snapshot/.venv" make -C "$snapshot" codegate

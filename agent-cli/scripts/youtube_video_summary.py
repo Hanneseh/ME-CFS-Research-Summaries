@@ -98,7 +98,9 @@ def summarize_with_gemini(
     load_dotenv()
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        raise RuntimeError("GEMINI_API_KEY is missing from .env or the shell environment.")
+        raise RuntimeError(
+            "GEMINI_API_KEY is missing from .env or the shell environment."
+        )
 
     topic_instruction = (
         f"Relevant topic: {topic}\n"

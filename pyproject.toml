@@ -32,9 +32,6 @@ package = false
 [tool.deptry]
 known_first_party = ["atomic_content", "validate_content"]
 
-[tool.ty.src]
-include = ["agent-cli"]
-
 [tool.commitizen]
 name = "cz_conventional_commits"
 version = "1.1.0"

@@ -60,10 +60,12 @@ An update briefing in `content/updates/YYYY-MM-DD.yaml` covers a reporting perio
 # Install site dependencies
 npm install
 
-# Install Python dependencies and check the research tooling
+# Install Python dependencies and enable the repository hook
 uv sync --locked
-uv run --locked ruff check agent-cli
-uv run --locked ty check
+git config --local core.hooksPath .githooks
+
+# Check the Python tooling
+make codegate
 uv run --locked deptry agent-cli
 
 # Validate all bilingual YAML content (schema, dates, URLs, cross-links, EN/DE completeness)
@@ -76,6 +78,8 @@ npm run build
 # Start local dev server
 npm run dev
 ```
+
+The pre-commit hook runs `make codegate` against the staged files.
 
 Pushing to `main` builds and deploys the static site automatically via GitHub Actions (`.github/workflows/deploy.yml`).
 

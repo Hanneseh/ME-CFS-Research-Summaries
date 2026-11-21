@@ -309,7 +309,9 @@ class UpdateBriefing(StrictModel):
         for item in self.added_entries:
             key = (item.thread, item.entry_id)
             if key in seen:
-                raise ValueError(f"duplicate added_entries reference {item.thread}/{item.entry_id}")
+                raise ValueError(
+                    f"duplicate added_entries reference {item.thread}/{item.entry_id}"
+                )
             seen.add(key)
         return self
 
@@ -375,7 +377,9 @@ class ValidationResult:
         self, path: Path, update: UpdateBriefing, entry_ids: dict[str, set[str]]
     ) -> None:
         if update.id != path.stem:
-            self.errors.append(f"{path}: update id {update.id!r} does not match filename")
+            self.errors.append(
+                f"{path}: update id {update.id!r} does not match filename"
+            )
         self.check_links(path, update.model_dump(), set(entry_ids))
 
         for index, ref in enumerate(update.added_entries):

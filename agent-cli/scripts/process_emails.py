@@ -20,13 +20,20 @@ EMAILS_DIR = INPUT_DIR / "emails"
 OUTPUT_FILE = BASE_DIR / "agent-cli" / "state" / "email_publications.json"
 MODEL_ID = "gemini-3.5-flash"
 
+
 class PublicationItem(BaseModel):
     title: str = Field(description="The scientific paper or article title.")
-    link: str | None = Field(None, description="The URL of the paper, abstract, or news item.")
-    source: str | None = Field(None, description="Source name (e.g. PubMed, Google Scholar, ScienceDaily).")
+    link: str | None = Field(
+        None, description="The URL of the paper, abstract, or news item."
+    )
+    source: str | None = Field(
+        None, description="Source name (e.g. PubMed, Google Scholar, ScienceDaily)."
+    )
+
 
 class EmailPublications(BaseModel):
     publications: list[PublicationItem]
+
 
 def clean_html(html_content: str) -> str:
     soup = BeautifulSoup(html_content, "html.parser")
@@ -41,6 +48,7 @@ def clean_html(html_content: str) -> str:
     text = soup.get_text(separator="\n")
     return "\n".join(line.strip() for line in text.splitlines() if line.strip())
 
+
 def parse_eml(file_path: Path) -> str:
     with open(file_path, "rb") as f:
         msg = email.message_from_binary_file(f)
@@ -50,19 +58,29 @@ def parse_eml(file_path: Path) -> str:
         for part in msg.walk():
             content_type = part.get_content_type()
             content_disposition = str(part.get("Content-Disposition"))
-            if "attachment" in content_disposition or content_type not in ("text/plain", "text/html"):
+            if "attachment" in content_disposition or content_type not in (
+                "text/plain",
+                "text/html",
+            ):
                 continue
             payload = part.get_payload(decode=True)
             if isinstance(payload, bytes):
                 decoded = payload.decode(errors="replace")
-                text_parts.append(clean_html(decoded) if content_type == "text/html" else decoded)
+                text_parts.append(
+                    clean_html(decoded) if content_type == "text/html" else decoded
+                )
     else:
         payload = msg.get_payload(decode=True)
         if isinstance(payload, bytes):
             decoded = payload.decode(errors="replace")
-            text_parts.append(clean_html(decoded) if msg.get_content_type() == "text/html" else decoded)
+            text_parts.append(
+                clean_html(decoded)
+                if msg.get_content_type() == "text/html"
+                else decoded
+            )
 
     return "\n".join(text_parts)
+
 
 def main():
     if not EMAILS_DIR.exists():
@@ -79,7 +97,7 @@ def main():
         return
 
     print(f"Found {len(eml_files)} emails to process.")
-    
+
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         print("Error: GEMINI_API_KEY not set.")
@@ -114,23 +132,29 @@ Rules:
                 system_instruction=system_prompt,
                 response_mime_type="application/json",
                 response_schema=EmailPublications,
-            )
+            ),
         )
-        
+
         # Verify and save
         response_text = response.text
         if response_text is None:
             raise ValueError("Gemini returned no response text")
         data = EmailPublications.model_validate_json(response_text)
         OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-        OUTPUT_FILE.write_text(json.dumps(data.model_dump(), indent=2, ensure_ascii=False), encoding="utf-8")
-        print(f"Successfully extracted {len(data.publications)} email publications to {OUTPUT_FILE.relative_to(BASE_DIR)}")
-        
+        OUTPUT_FILE.write_text(
+            json.dumps(data.model_dump(), indent=2, ensure_ascii=False),
+            encoding="utf-8",
+        )
+        print(
+            f"Successfully extracted {len(data.publications)} email publications to {OUTPUT_FILE.relative_to(BASE_DIR)}"
+        )
+
     except Exception as e:
         print(f"Error calling Gemini or validating output: {e}")
         # Write empty fallback
         OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
         OUTPUT_FILE.write_text(json.dumps({"publications": []}), encoding="utf-8")
+
 
 if __name__ == "__main__":
     main()

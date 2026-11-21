@@ -6,6 +6,7 @@ paper/registry links (resolving Google Scholar redirect wrappers from the URL
 itself, no network), captures anchor text as a title candidate, and writes a
 raw link list for downstream relevance screening.
 """
+
 from __future__ import annotations
 
 import email
@@ -24,21 +25,57 @@ OUT = BASE / "agent-cli" / "state" / "email_raw_links.json"
 
 # Domains we treat as candidate primary sources / registries.
 DIRECT_HOST_HINTS = (
-    "doi.org", "pubmed.ncbi.nlm.nih.gov", "ncbi.nlm.nih.gov", "sciencedirect.com",
-    "mdpi.com", "frontiersin.org", "nature.com", "biorxiv.org", "medrxiv.org",
-    "springer.com", "wiley.com", "tandfonline.com", "bmj.com", "cell.com",
-    "jamanetwork.com", "thelancet.com", "plos.org", "oup.com", "sagepub.com",
-    "clinicaltrials.gov", "researchsquare.com", "ssrn.com", "preprints.org",
-    "journals.rcsi.science", "academic.oup.com", "karger.com", "physiology.org",
-    "ahajournals.org", "jci.org", "elifesciences.org", "pnas.org",
+    "doi.org",
+    "pubmed.ncbi.nlm.nih.gov",
+    "ncbi.nlm.nih.gov",
+    "sciencedirect.com",
+    "mdpi.com",
+    "frontiersin.org",
+    "nature.com",
+    "biorxiv.org",
+    "medrxiv.org",
+    "springer.com",
+    "wiley.com",
+    "tandfonline.com",
+    "bmj.com",
+    "cell.com",
+    "jamanetwork.com",
+    "thelancet.com",
+    "plos.org",
+    "oup.com",
+    "sagepub.com",
+    "clinicaltrials.gov",
+    "researchsquare.com",
+    "ssrn.com",
+    "preprints.org",
+    "journals.rcsi.science",
+    "academic.oup.com",
+    "karger.com",
+    "physiology.org",
+    "ahajournals.org",
+    "jci.org",
+    "elifesciences.org",
+    "pnas.org",
 )
 
 SKIP_HOST_SUBSTR = (
-    "scholar.google", "google.com/alerts", "googlealerts", "accounts.google",
-    "support.google", "youtube.com", "google.com/scholar_share",
-    "sciencedirect.com/customer", "sciencedirect.com/user", "unsubscribe",
-    "ncbi.nlm.nih.gov/account", "ncbi.nlm.nih.gov/sites", "myncbi",
-    "facebook.com", "twitter.com", "x.com", "linkedin.com",
+    "scholar.google",
+    "google.com/alerts",
+    "googlealerts",
+    "accounts.google",
+    "support.google",
+    "youtube.com",
+    "google.com/scholar_share",
+    "sciencedirect.com/customer",
+    "sciencedirect.com/user",
+    "unsubscribe",
+    "ncbi.nlm.nih.gov/account",
+    "ncbi.nlm.nih.gov/sites",
+    "myncbi",
+    "facebook.com",
+    "twitter.com",
+    "x.com",
+    "linkedin.com",
 )
 
 
@@ -48,15 +85,21 @@ def get_html(msg) -> str:
         for part in msg.walk():
             if part.get_content_type() == "text/html":
                 try:
-                    parts.append(part.get_payload(decode=True).decode(
-                        part.get_content_charset() or "utf-8", errors="replace"))
+                    parts.append(
+                        part.get_payload(decode=True).decode(
+                            part.get_content_charset() or "utf-8", errors="replace"
+                        )
+                    )
                 except Exception:
                     pass
     else:
         if msg.get_content_type() == "text/html":
             try:
-                parts.append(msg.get_payload(decode=True).decode(
-                    msg.get_content_charset() or "utf-8", errors="replace"))
+                parts.append(
+                    msg.get_payload(decode=True).decode(
+                        msg.get_content_charset() or "utf-8", errors="replace"
+                    )
+                )
             except Exception:
                 pass
     return "\n".join(parts)
@@ -128,13 +171,15 @@ def main() -> None:
             title = clean_text(text)
             if len(title) < 8:
                 continue
-            items.append({
-                "title": title,
-                "link": url.split("?utm")[0].split("&utm")[0],
-                "source": source,
-                "published_date": date,
-                "source_email": Path(f).name,
-            })
+            items.append(
+                {
+                    "title": title,
+                    "link": url.split("?utm")[0].split("&utm")[0],
+                    "source": source,
+                    "published_date": date,
+                    "source_email": Path(f).name,
+                }
+            )
     # de-dup by (normalized link) keeping first, and by title
     seen = set()
     deduped = []
@@ -144,9 +189,17 @@ def main() -> None:
             continue
         seen.add(key)
         deduped.append(it)
-    OUT.write_text(json.dumps({"raw_link_count": len(items),
-                               "unique_link_count": len(deduped),
-                               "links": deduped}, indent=2), encoding="utf-8")
+    OUT.write_text(
+        json.dumps(
+            {
+                "raw_link_count": len(items),
+                "unique_link_count": len(deduped),
+                "links": deduped,
+            },
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
     print(f"Parsed {len(glob.glob(str(EMAIL_DIR / '*.eml')))} emails")
     print(f"Extracted {len(items)} candidate links, {len(deduped)} unique")
     print(f"Wrote {OUT.relative_to(BASE)}")

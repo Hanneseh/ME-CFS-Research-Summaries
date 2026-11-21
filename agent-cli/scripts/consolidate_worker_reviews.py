@@ -84,22 +84,44 @@ def validate_items(items: list[dict], valid_threads: set[str]) -> list[dict]:
         if not cluster_id:
             errors.append({"error": "missing_cluster_id", "item": item})
         elif cluster_id in seen_cluster_ids:
-            errors.append({"error": "duplicate_cluster_review", "cluster_id": cluster_id})
+            errors.append(
+                {"error": "duplicate_cluster_review", "cluster_id": cluster_id}
+            )
         else:
             seen_cluster_ids.add(cluster_id)
 
         decision = item.get("decision")
         if decision not in VALID_DECISIONS:
-            errors.append({"error": "invalid_decision", "cluster_id": cluster_id, "decision": decision})
+            errors.append(
+                {
+                    "error": "invalid_decision",
+                    "cluster_id": cluster_id,
+                    "decision": decision,
+                }
+            )
 
         for field in ("primary_thread",):
             slug = item.get(field)
             if slug and slug not in valid_threads:
-                errors.append({"error": "invalid_thread_slug", "cluster_id": cluster_id, "field": field, "slug": slug})
+                errors.append(
+                    {
+                        "error": "invalid_thread_slug",
+                        "cluster_id": cluster_id,
+                        "field": field,
+                        "slug": slug,
+                    }
+                )
 
         for slug in item.get("secondary_threads") or []:
             if slug not in valid_threads:
-                errors.append({"error": "invalid_thread_slug", "cluster_id": cluster_id, "field": "secondary_threads", "slug": slug})
+                errors.append(
+                    {
+                        "error": "invalid_thread_slug",
+                        "cluster_id": cluster_id,
+                        "field": "secondary_threads",
+                        "slug": slug,
+                    }
+                )
     return errors
 
 
@@ -112,7 +134,9 @@ def build_work_items(
     manual_overrides: dict[str, dict],
 ) -> dict:
     by_cluster_id = {cluster["cluster_id"]: cluster for cluster in clusters}
-    by_review_cluster_id = {item["cluster_id"]: item for item in review_items if item.get("cluster_id")}
+    by_review_cluster_id = {
+        item["cluster_id"]: item for item in review_items if item.get("cluster_id")
+    }
     missing_review_cluster_ids = sorted(set(by_cluster_id) - set(by_review_cluster_id))
     extra_review_cluster_ids = sorted(set(by_review_cluster_id) - set(by_cluster_id))
 
@@ -157,7 +181,11 @@ def build_work_items(
                 "batch_id": review.get("batch_id"),
                 "review_file": review.get("review_file"),
                 "cluster_theme": cluster.get("theme") if cluster else None,
-                "candidate_ids": [member["candidate_id"] for member in cluster.get("members", [])] if cluster else [],
+                "candidate_ids": [
+                    member["candidate_id"] for member in cluster.get("members", [])
+                ]
+                if cluster
+                else [],
             }
         )
 
@@ -178,7 +206,9 @@ def build_work_items(
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Validate and consolidate Gemini worker curation reviews.")
+    parser = argparse.ArgumentParser(
+        description="Validate and consolidate Gemini worker curation reviews."
+    )
     parser.add_argument(
         "--clusters",
         type=Path,
@@ -219,7 +249,9 @@ def main() -> None:
         raise ValueError(f"Expected cluster list in {args.clusters}")
 
     valid_threads = load_valid_thread_slugs(args.rules)
-    review_items, skipped_review_files, safe_exclude_overrides = load_review_items(args.review_dir)
+    review_items, skipped_review_files, safe_exclude_overrides = load_review_items(
+        args.review_dir
+    )
     manual_overrides = load_manual_overrides(args.overrides)
     validation_errors = validate_items(review_items, valid_threads)
     payload = build_work_items(
@@ -232,10 +264,14 @@ def main() -> None:
     )
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
-    args.output.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    args.output.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     print(f"Wrote consolidated work items: {args.output.relative_to(BASE_DIR)}")
     print(f"Status: {payload['status']}")
-    print(f"Reviewed clusters: {payload['reviewed_cluster_count']} / {payload['cluster_count']}")
+    print(
+        f"Reviewed clusters: {payload['reviewed_cluster_count']} / {payload['cluster_count']}"
+    )
     print(f"Validation errors: {len(validation_errors)}")
     if validation_errors:
         raise SystemExit(1)
