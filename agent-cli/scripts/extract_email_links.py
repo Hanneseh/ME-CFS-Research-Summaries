@@ -15,6 +15,7 @@ import json
 import re
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from typing import TypedDict
 from urllib.parse import parse_qs, unquote, urlparse
 
 BASE = Path(__file__).resolve().parents[2]
@@ -91,8 +92,16 @@ def clean_text(t: str) -> str:
     return html.unescape(TAG_RE.sub(" ", t)).strip()
 
 
+class EmailLink(TypedDict):
+    title: str
+    link: str
+    source: str
+    published_date: str | None
+    source_email: str
+
+
 def main() -> None:
-    items = []
+    items: list[EmailLink] = []
     for f in sorted(glob.glob(str(EMAIL_DIR / "*.eml"))):
         with open(f, "rb") as fh:
             msg = email.message_from_binary_file(fh)

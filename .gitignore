@@ -70,5 +70,4 @@ agent/debug_prompts/
 
 # TypeScript & IDE Build Caches
 tsconfig.tsbuildinfo
-pyrightconfig.json
 *.eml

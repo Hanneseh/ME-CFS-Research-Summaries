@@ -44,37 +44,24 @@ def clean_html(html_content: str) -> str:
 def parse_eml(file_path: Path) -> str:
     with open(file_path, "rb") as f:
         msg = email.message_from_binary_file(f)
-    
+
     text_parts = []
     if msg.is_multipart():
         for part in msg.walk():
             content_type = part.get_content_type()
             content_disposition = str(part.get("Content-Disposition"))
-            if "attachment" in content_disposition:
+            if "attachment" in content_disposition or content_type not in ("text/plain", "text/html"):
                 continue
-            if content_type == "text/plain":
-                try:
-                    payload = part.get_payload(decode=True).decode(errors="replace")
-                    text_parts.append(payload)
-                except Exception:
-                    pass
-            elif content_type == "text/html":
-                try:
-                    html_payload = part.get_payload(decode=True).decode(errors="replace")
-                    text_parts.append(clean_html(html_payload))
-                except Exception:
-                    pass
+            payload = part.get_payload(decode=True)
+            if isinstance(payload, bytes):
+                decoded = payload.decode(errors="replace")
+                text_parts.append(clean_html(decoded) if content_type == "text/html" else decoded)
     else:
-        content_type = msg.get_content_type()
-        try:
-            payload = msg.get_payload(decode=True).decode(errors="replace")
-            if content_type == "text/html":
-                text_parts.append(clean_html(payload))
-            else:
-                text_parts.append(payload)
-        except Exception:
-            pass
-            
+        payload = msg.get_payload(decode=True)
+        if isinstance(payload, bytes):
+            decoded = payload.decode(errors="replace")
+            text_parts.append(clean_html(decoded) if msg.get_content_type() == "text/html" else decoded)
+
     return "\n".join(text_parts)
 
 def main():
@@ -131,7 +118,10 @@ Rules:
         )
         
         # Verify and save
-        data = EmailPublications.model_validate_json(response.text)
+        response_text = response.text
+        if response_text is None:
+            raise ValueError("Gemini returned no response text")
+        data = EmailPublications.model_validate_json(response_text)
         OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
         OUTPUT_FILE.write_text(json.dumps(data.model_dump(), indent=2, ensure_ascii=False), encoding="utf-8")
         print(f"Successfully extracted {len(data.publications)} email publications to {OUTPUT_FILE.relative_to(BASE_DIR)}")

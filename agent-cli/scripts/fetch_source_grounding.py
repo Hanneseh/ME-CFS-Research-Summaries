@@ -9,7 +9,6 @@ without a PMID get abstract=null and are listed for manual/page resolution.
 from __future__ import annotations
 
 import json
-import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path

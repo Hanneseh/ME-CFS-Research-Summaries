@@ -111,7 +111,7 @@ def fetch_emails():
             mail.logout()
             return False
 
-        status, messages = mail.uid("search", None, "UNSEEN")
+        status, messages = mail.uid("search", "UNSEEN")
         if status != "OK":
             print(f"Error searching for UNSEEN messages: {status}")
             mail.logout()
@@ -190,7 +190,10 @@ def extract_outbound_link(content_html: str, reddit_link: str) -> str:
         return reddit_link
     soup = BeautifulSoup(content_html, "html.parser")
     for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
+        href = a.get("href")
+        if not isinstance(href, str):
+            continue
+        href = href.strip()
         if href.startswith(("http://", "https://")):
             href_lower = href.lower()
             if not any(domain in href_lower for domain in ["reddit.com", "redditmedia.com", "redd.it"]):
@@ -255,7 +258,7 @@ def fetch_and_parse_reddit_feed(url: str) -> list[dict]:
         updated_str = updated_elem.text.strip() if updated_elem is not None and updated_elem.text else ""
 
         content_elem = entry.find("atom:content", namespaces)
-        content_html = content_elem.text if content_elem is not None else ""
+        content_html = (content_elem.text or "") if content_elem is not None else ""
 
         outbound_link = extract_outbound_link(content_html, reddit_link)
         cleaned_content = clean_html_content(content_html)
@@ -491,20 +494,19 @@ def fetch_youtube_videos_via_scraping(channel_url_or_id: str) -> list[dict]:
                     if isinstance(title_run, list) and title_run:
                         channel_name = title_run[0].get('text', channel_name)
 
-    now = datetime.now(timezone.utc)
     # Reference datetime from context local time to prevent relative dates moving in the future during simulation
     # The current local time is: 2026-06-29
     reference_now = datetime(2026, 6, 29, tzinfo=timezone.utc)
 
     videos = []
-    for l in lockups:
-        metadata = l.get('metadata', {}).get('lockupMetadataViewModel', {})
+    for lockup in lockups:
+        metadata = lockup.get('metadata', {}).get('lockupMetadataViewModel', {})
         title = metadata.get('title', {}).get('content', 'Untitled Video')
-        vid = l.get('contentId')
+        vid = lockup.get('contentId')
         if not vid:
             continue
 
-        published_date = parse_youtube_date(l, metadata, reference_now)
+        published_date = parse_youtube_date(lockup, metadata, reference_now)
         videos.append({
             "title": title,
             "link": f"https://youtu.be/{vid}",
@@ -513,7 +515,7 @@ def fetch_youtube_videos_via_scraping(channel_url_or_id: str) -> list[dict]:
         })
     return videos
 
-def fetch_youtube(channels: list[str], dynamic_sources: list[str] = None):
+def fetch_youtube(channels: list[str], dynamic_sources: list[str] | None = None):
     all_videos = []
     
     # Check static channels

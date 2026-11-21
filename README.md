@@ -60,15 +60,21 @@ An update briefing in `content/updates/YYYY-MM-DD.yaml` covers a reporting perio
 # Install site dependencies
 npm install
 
-# Start local dev server
-npm run dev
+# Install Python dependencies and check the research tooling
+uv sync --locked
+uv run --locked ruff check agent-cli
+uv run --locked ty check
+uv run --locked deptry agent-cli
 
 # Validate all bilingual YAML content (schema, dates, URLs, cross-links, EN/DE completeness)
-poetry run python agent-cli/scripts/validate_content.py --require-bilingual
+uv run --locked python agent-cli/scripts/validate_content.py --require-bilingual
 
 # Typecheck & build static site to dist/
 npm run check
 npm run build
+
+# Start local dev server
+npm run dev
 ```
 
 Pushing to `main` builds and deploys the static site automatically via GitHub Actions (`.github/workflows/deploy.yml`).

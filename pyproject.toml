@@ -1,37 +1,42 @@
-[tool.poetry]
+[project]
 name = "me-cfs-research-summaries"
 version = "1.1.0"
 description = "Semi-automated ME/CFS & Long COVID research summaries. Powered by custom Gemini agents aggregating the latest studies from PubMed, Google Scholar, and medRxiv."
-authors = ["Hannes Ehringfeld <Hannes.Ehringfeld@gmail.com>"]
+authors = [{ name = "Hannes Ehringfeld", email = "Hannes.Ehringfeld@gmail.com" }]
 readme = "README.md"
-homepage = "https://hanneseh.github.io/ME-CFS-Research-Summaries/"
-repository = "https://github.com/hanneseh/ME-CFS-Research-Summaries"
-package-mode = false
+requires-python = ">=3.13,<4"
+dependencies = [
+    "beautifulsoup4>=4.14.3,<5",
+    "google-genai>=1.56.0,<2",
+    "pydantic>=2.12.5,<3",
+    "python-dotenv>=1.2.1,<2",
+    "pyyaml>=6.0.3,<7",
+    "youtube-transcript-api>=1.2.4,<2; python_version < '3.15'",
+]
 
-[tool.poetry.dependencies]
-python = "^3.13"
-beautifulsoup4 = "^4.14.3"
-python-dotenv = "^1.2.1"
-pydantic = "^2.12.5"
-google-genai = "^1.56.0"
-tenacity = "^9.1.4"
-youtube-transcript-api = {version = "^1.2.4", python = ">=3.13,<3.15"}
+[project.urls]
+Homepage = "https://hanneseh.github.io/ME-CFS-Research-Summaries/"
+Repository = "https://github.com/hanneseh/ME-CFS-Research-Summaries"
 
-[tool.poetry.group.dev.dependencies]
-commitizen = "^4.10.1"
-deptry = "^0.24.0"
-ruff = "^0.15.15"
-pyright = "^1.1.409"
-pyyaml = "^6.0.3"
+[dependency-groups]
+dev = [
+    "commitizen>=4.10.1,<5",
+    "deptry>=0.24.0,<0.25",
+    "ruff>=0.15.15,<0.16",
+    "ty",
+]
 
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[tool.uv]
+package = false
+
+[tool.deptry]
+known_first_party = ["atomic_content", "validate_content"]
+
+[tool.ty.src]
+include = ["agent-cli"]
 
 [tool.commitizen]
 name = "cz_conventional_commits"
 version = "1.1.0"
 tag_format = "v$version"
-version_files = [
-    "pyproject.toml:version"
-]
+version_files = ["pyproject.toml:version"]

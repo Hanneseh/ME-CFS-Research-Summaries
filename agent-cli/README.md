@@ -10,12 +10,12 @@ Local helper scripts for collecting new research alerts, deduplicating sources a
 
 ## Commands
 
-Run Python tools through Poetry from the repository root.
+Install uv, then run `uv sync --locked` from the repository root.
 
 ### 1. Ingest raw alerts & feeds
 
 ```bash
-poetry run python agent-cli/ingress.py all --channel <YOUTUBE_CHANNEL_URL_OR_ID> --add-source <URL>
+uv run --locked python agent-cli/ingress.py all --channel <YOUTUBE_CHANNEL_URL_OR_ID> --add-source <URL>
 ```
 
 ### 2. Extract existing source inventory & pre-filter
@@ -23,22 +23,22 @@ poetry run python agent-cli/ingress.py all --channel <YOUTUBE_CHANNEL_URL_OR_ID>
 `extract_inventory.py` and `stage_2_prepare.py` read structured `sources[]` and titles directly from `content/threads/*/entries/*.yaml`:
 
 ```bash
-poetry run python agent-cli/scripts/extract_inventory.py
-poetry run python agent-cli/scripts/pre_filter.py
-poetry run python agent-cli/scripts/stage_2_prepare.py
+uv run --locked python agent-cli/scripts/extract_inventory.py
+uv run --locked python agent-cli/scripts/pre_filter.py
+uv run --locked python agent-cli/scripts/stage_2_prepare.py
 ```
 
 ### 3. Consolidate review outputs
 
 ```bash
-poetry run python agent-cli/scripts/consolidate_worker_reviews.py
+uv run --locked python agent-cli/scripts/consolidate_worker_reviews.py
 ```
 
 ### 4. Validate content & build site
 
 ```bash
-poetry run python agent-cli/scripts/validate_content.py --require-bilingual
-poetry run python agent-cli/scripts/validate_thread_dates.py
+uv run --locked python agent-cli/scripts/validate_content.py --require-bilingual
+uv run --locked python agent-cli/scripts/validate_thread_dates.py
 npm run check
 npm run build
 ```

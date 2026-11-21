@@ -116,7 +116,7 @@ evidence_tiers:
   - hypothesis
 
 validation_checks:
-  - "Run `poetry run python agent-cli/scripts/validate_content.py --require-bilingual` before publishing."
+  - "Run `uv run --locked python agent-cli/scripts/validate_content.py --require-bilingual` before publishing."
   - "No legacy '../' or '/summaries/' links anywhere in YAML content."
   - "Every `thread:<slug>` link and `related_threads` entry must reference an existing thread directory."
   - "Every entry `id` must match its filename stem and valid ISO sort date."
