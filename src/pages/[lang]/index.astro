@@ -6,7 +6,7 @@ import ThreadCard from "../../components/ThreadCard.astro";
 import UpdateTeaser from "../../components/UpdateTeaser.astro";
 import { getSite, getUpdates } from "../../lib/content";
 import { t } from "../../lib/i18n";
-import { feedUrl, glossaryUrl, imprintUrl } from "../../lib/paths";
+import { feedUrl, glossaryUrl, imprintUrl, updatesUrl } from "../../lib/paths";
 import { LANGS, type Lang } from "../../lib/types";
 
 export const getStaticPaths = (() => LANGS.map((lang) => ({ params: { lang } }))) satisfies GetStaticPaths;
@@ -26,7 +26,15 @@ const feedConfig = JSON.stringify({ lang, card: s.card, pageSize: 8 });
   <section class="home-top">
     <div class="wrap">
       <div class="home-bar">
-        <h1 class="display home-title">{s.heroTitle}</h1>
+        <div class="home-heading">
+          <h1 class="display home-title">{s.heroTitle}</h1>
+          <button type="button" class="how-toggle" data-how-toggle aria-expanded="false" aria-controls="how-panel">
+            <span>{s.howToggle}</span>
+            <svg class="icon chev" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true">
+              <path d="m4 6 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </button>
+        </div>
 
         <div class="hero-search" role="search">
           <label class="search-field" for="hero-search-input">
@@ -61,6 +69,23 @@ const feedConfig = JSON.stringify({ lang, card: s.card, pageSize: 8 });
             data-entry-label={s.searchEntry}
             aria-live="polite"
           >
+          </div>
+        </div>
+      </div>
+
+      <div id="how-panel" class="how-panel" hidden>
+        <div class="how-grid">
+          <div class="how-item">
+            <p class="how-item-title"><a href={updatesUrl(lang)}>{s.howUpdatesTitle} →</a></p>
+            <p>{s.howUpdatesText}</p>
+          </div>
+          <div class="how-item">
+            <p class="how-item-title"><a href={feedUrl(lang)}>{s.howFeedTitle} →</a></p>
+            <p>{s.howFeedText}</p>
+          </div>
+          <div class="how-item">
+            <p class="how-item-title"><a href="#threads-title">{s.howTopicsTitle} →</a></p>
+            <p>{s.howTopicsText}</p>
           </div>
         </div>
       </div>
@@ -187,6 +212,16 @@ const feedConfig = JSON.stringify({ lang, card: s.card, pageSize: 8 });
   const heroInput = document.getElementById("hero-search-input") as HTMLInputElement | null;
   const heroResults = document.getElementById("hero-search-results");
   if (heroInput && heroResults) mountSearch(heroInput, heroResults, { limit: 8, collapseWhenEmpty: true });
+
+  const howBtn = document.querySelector<HTMLButtonElement>("[data-how-toggle]");
+  const howPanel = document.getElementById("how-panel");
+  if (howBtn && howPanel) {
+    howBtn.addEventListener("click", () => {
+      const open = howPanel.hidden;
+      howPanel.hidden = !open;
+      howBtn.setAttribute("aria-expanded", String(open));
+    });
+  }
 
   // ----- latest feed -----
   const list = document.getElementById("latest-feed");
