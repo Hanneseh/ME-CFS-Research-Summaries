@@ -1,0 +1,23 @@
+id: 2026-08-12_lift-trial-protocol
+date: '2026-08-12'
+date_display: '2026-08-12'
+date_precision: exact
+source_type: paper
+study_design: RCT protocol
+sources:
+- label: Meadows et al., Trials (2026), PMID 43000413
+  url: https://pubmed.ncbi.nlm.nih.gov/43000413/
+  kind: paper
+- label: 'ClinicalTrials.gov: NCT06366724'
+  url: https://clinicaltrials.gov/study/NCT06366724
+  kind: registry
+en:
+  title: LIFT trial protocol tests low-dose naltrexone and pyridostigmine in ME/CFS
+  plain_summary: The LIFT study will test two medicines for ME/CFS, each on its own and together, using placebo for comparison. The published plan gives no results yet on whether either medicine helps.
+  detail: |-
+    The Life Improvement Trial (LIFT) protocol in Trials describes a randomized, double-blind, placebo-controlled study targeting 160 adults with ME/CFS and orthostatic intolerance, recruited through two Boston hospitals and the Open Medicine Foundation's StudyME registry. Participants are assigned to 13 weeks of low-dose naltrexone (LDN) plus pyridostigmine, LDN alone, pyridostigmine alone, or double placebo after up to four weeks of screening. The four arms allow researchers to assess the individual effects and whether combining the drugs adds benefit, building on short-term pyridostigmine research covered under [Emerging Pharmacotherapy](thread:emerging-pharmacotherapy). Primary outcomes are functional capacity (FUNCAP-55), peak oxygen uptake, heart-rate recovery and the oxygen uptake efficiency slope. Secondary outcomes include post-exertional malaise (PEM), broader symptoms, cognitive performance, step count, heart rate and heart-rate variability. The study requires participants to be able to follow its procedures, including exercise testing, so applicability to bedbound patients remains uncertain. The protocol reports no efficacy or safety results.
+de:
+  title: LIFT-Studienprotokoll zu niedrigdosiertem Naltrexon und Pyridostigmin bei ME/CFS
+  plain_summary: Die LIFT-Studie soll zwei Medikamente bei ME/CFS einzeln und gemeinsam mit einem Placebo vergleichen. Der veröffentlichte Studienplan enthält noch keine Ergebnisse dazu, ob eines der Mittel hilft.
+  detail: |-
+    Das in Trials veröffentlichte Protokoll des Life Improvement Trial (LIFT) beschreibt eine randomisierte, doppelblinde, placebokontrollierte Studie mit einer Zielgröße von 160 Erwachsenen mit ME/CFS und orthostatischer Intoleranz, die über zwei Bostoner Kliniken und das StudyME-Register der Open Medicine Foundation gewonnen werden sollen. Nach einer bis zu vierwöchigen Voruntersuchungsphase erhalten die Teilnehmenden 13 Wochen lang niedrigdosiertes Naltrexon (LDN) plus Pyridostigmin, nur LDN, nur Pyridostigmin oder zwei Placebos. Mit den vier Gruppen lässt sich untersuchen, wie die Mittel einzeln wirken und ob die Kombination einen zusätzlichen Nutzen bringt. Die Studie knüpft an Untersuchungen zur kurzfristigen Wirkung von Pyridostigmin an, die unter [Neue Pharmakotherapie](thread:emerging-pharmacotherapy) eingeordnet sind. Primäre Endpunkte sind die Funktionsfähigkeit (FUNCAP-55), die maximale Sauerstoffaufnahme, die Herzfrequenzerholung und die Steigung der Sauerstoffaufnahme-Effizienzkurve. Sekundär werden unter anderem Post-Exertionelle Malaise (PEM), weitere Beschwerden, kognitive Leistung, Schrittzahl, Herzfrequenz und Herzfrequenzvariabilität erfasst. Das Protokoll enthält keine Wirksamkeits- oder Sicherheitsdaten, und wegen der vorgesehenen Belastungstests bleibt die Übertragbarkeit auf Bettlägerige offen.

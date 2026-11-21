@@ -1,0 +1,26 @@
+id: 2026-11-10_me-cfs-research-foundation-audits-german-public-funding-gaps
+date: '2026-11-10'
+date_display: '2026-11-10'
+date_precision: exact
+source_type: report
+study_design: Public research-funding audit
+sources:
+- label: ME/CFS Research Foundation funding report page (November 2026)
+  url: https://mecfs-research.org/fundingreport-long-covid-and-mecfs/
+  kind: report
+- label: ME/CFS Research Foundation press release, 2026-11-10
+  url: https://mecfs-research.org/news-fundingreport-2026/
+  kind: announcement
+- label: Full funding report PDF (November 2026)
+  url: https://mecfs-research.org/wp-content/uploads/2026/11/Forschungsfoerderung-Long-COVID-MECFS-Deutschland.pdf
+  kind: report
+en:
+  title: ME/CFS Research Foundation audits €292 million in German public funding and exposes sharp therapy-trial and ME/CFS gaps
+  plain_summary: The first comprehensive audit of German public funding for Long COVID and ME/CFS counted 259 projects totaling €292 million for 2020–2029, but found that only 5% test drug treatments and ME/CFS receives far less focus than Long COVID. This is a policy and funding audit rather than clinical research, and nearly a third of funding euros could not be traced to individual projects.
+  detail: |-
+    The ME/CFS Research Foundation published the first nationwide overview of publicly funded Long COVID and ME/CFS research and care projects in Germany known up to September 2026, covering 259 consortium and individual projects totaling €292 million across 2020–2029 (€206 million in 2020–2026). Federal ministries provide the largest share over 2020–2029—BMG (€119 million; €67 million in 2020–2026) and BMFTR (€72 million; €51 million in 2020–2026)—alongside federal states (€72 million across 11 of 16 states, declining sharply over the past three years) and the G-BA Innovation Committee (€29 million), while German Research Foundation (DFG) totals could not be determined. Across evaluable projects (with multi-category counts), 84% address Long COVID whereas only 39% include ME/CFS; health-services research/care (42%) and observational clinical studies (40%) dominate, while only 7% are interventional clinical trials and 20% basic research. Therapeutic testing is particularly sparse: just 5% of funded projects investigate pharmacological therapies and 4% device-based treatments, while 68% evaluate no intervention at all. The report notes that even when including the €500 million 10-year National Decade against Post-Infectious Diseases, public research funding equals only about 0.1% of estimated annual societal costs, and €83 million (29%) could not be assigned to individual projects due to public-data opacity; as a foundation-led funding audit, it maps resource allocation rather than scientific quality or patient outcomes.
+de:
+  title: Bericht der ME/CFS Research Foundation analysiert 292 Mio. Euro öffentliche Förderung in Deutschland und zeigt große Lücken bei Therapiestudien und ME/CFS
+  plain_summary: Die erste umfassende Auswertung öffentlicher Fördermittel für Long COVID und ME/CFS in Deutschland erfasst 259 Projekte mit insgesamt 292 Millionen Euro für 2020–2029, zeigt aber, dass nur 5 % medikamentöse Therapien prüfen und ME/CFS deutlich seltener adressiert wird als Long COVID. Es handelt sich um eine Förderanalyse ohne eigene Patientendaten, wobei fast ein Drittel der Mittel nicht einzelnen Projekten zugeordnet werden konnte.
+  detail: |-
+    Die ME/CFS Research Foundation hat erstmals eine systematische Bestandsaufnahme öffentlich finanzierter Forschungs- und Versorgungsprojekte zu Long COVID und ME/CFS in Deutschland (Stand September 2026) vorgelegt, die 259 Verbund- und Einzelvorhaben mit insgesamt 292 Millionen Euro für den Zeitraum 2020–2029 erfasst (davon 206 Millionen Euro für 2020–2026). Größte Geldgeber im Gesamtzeitraum 2020–2029 sind das Bundesgesundheitsministerium BMG (119 Mio. Euro; 67 Mio. Euro in 2020–2026) und das Bundesforschungsministerium BMFTR (72 Mio. Euro; 51 Mio. Euro in 2020–2026), ergänzt durch die Bundesländer (72 Mio. Euro über 11 von 16 Ländern, seit drei Jahren stark rückläufig) und den Innovationsausschuss beim G-BA (29 Mio. Euro), während sich Fördersummen der DFG nicht ermitteln ließen. Von den auswertbaren Vorhaben (Mehrfachzuordnungen möglich) befassen sich 84 % mit Long COVID, aber nur 39 % (auch) mit ME/CFS; Versorgungsforschung/-maßnahmen (42 %) und beobachtende klinische Studien (40 %) überwiegen deutlich gegenüber interventionellen klinischen Studien (7 %) und Grundlagenforschung (20 %). Therapieforschung bleibt die Ausnahme: Lediglich 5 % der geförderten Projekte untersuchen medikamentöse und 4 % apparative Therapien, während 68 % gar keine Intervention prüfen. Selbst einschließlich der für zehn Jahre angekündigten 500 Millionen Euro der Nationalen Dekade gegen Postinfektiöse Erkrankungen entspricht die Förderung laut Bericht nur etwa 0,1 % der geschätzten jährlichen gesellschaftlichen Kosten, und 83 Millionen Euro (29 %) blieben wegen intransparenter Förderdaten einzelnen Vorhaben nicht zuordenbar; als Förderanalyse einer Stiftung dokumentiert der Bericht die Mittelverteilung, nicht aber Studienqualität oder Behandlungsergebnisse.

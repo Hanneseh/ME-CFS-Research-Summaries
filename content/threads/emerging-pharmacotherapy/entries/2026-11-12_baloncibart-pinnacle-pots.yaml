@@ -1,0 +1,23 @@
+id: 2026-11-12_baloncibart-pinnacle-pots
+date: '2026-11-12'
+date_display: '2026-11-12'
+date_precision: exact
+source_type: announcement
+study_design: Phase II RCT (conference readout)
+sources:
+- label: Regeneron conference readout, PINNACLE (2026-11-12)
+  url: https://investor.regeneron.com/news-releases/news-release-details/pots-phase-2-trial-shows-baloncibart-first-class-npr1-blocking
+  kind: announcement
+- label: 'ClinicalTrials.gov: NCT06593600'
+  url: https://clinicaltrials.gov/study/NCT06593600
+  kind: registry
+en:
+  title: PINNACLE phase 2 reports a smaller rise in standing heart rate with baloncibart in POTS
+  plain_summary: In a small study of people with POTS, a condition that makes the heart race on standing, the drugmaker reported a smaller rise in heart rate after one baloncibart injection than after placebo. The study followed people for four weeks and leaves open whether it helps people with ME/CFS or Long COVID.
+  detail: |-
+    In the double-blind phase 2 PINNACLE trial presented at the American Autonomic Society meeting in November 2026, 82 adults with postural orthostatic tachycardia syndrome (POTS) were randomized to one subcutaneous injection of baloncibart (REGN7544) at 150 mg (n=27) or 450 mg (n=28), or placebo (n=27). Baloncibart is a monoclonal antibody that blocks natriuretic peptide receptor 1 (NPR1) with the aim of expanding plasma volume. Compared with placebo, 450 mg reduced the heart-rate rise from lying to standing by 11.4 beats per minute on day 8 (primary endpoint) and 7.4 on day 29, when questionnaires also suggested improved orthostatic symptoms and physical function. The heart-rate effect of 150 mg had faded by day 29, and serious adverse events reported at the two doses were one headache at 150 mg and one fainting episode at 450 mg. Regeneron's conference report covers four weeks after one dose, with no full peer-reviewed dataset or prespecified formal hypothesis testing, and the sponsor plans phase 3 for the first half of 2027. The trial excluded people confined to bed for more than half of their waking hours and reported no separate results for ME/CFS, Long COVID or post-exertional malaise (PEM), limiting applicability to bedbound or very severe ME/CFS (see [Autonomic Dysfunction & POTS](thread:autonomic-dysfunction-pots)).
+de:
+  title: PINNACLE-Phase-2-Studie meldet geringeren Pulsanstieg beim Aufstehen unter Baloncibart bei POTS
+  plain_summary: Bei POTS steigt der Puls beim Aufstehen ungewöhnlich stark an. Laut Hersteller dämpfte eine Spritze mit Baloncibart den Pulsanstieg in einer kleinen Studie stärker als Placebo. Die Studie lief nur vier Wochen; ob das Mittel Menschen mit ME/CFS oder Long COVID hilft, wurde nicht untersucht.
+  detail: |-
+    In der doppelblinden Phase-2-Studie PINNACLE, die im November 2026 auf der Tagung der American Autonomic Society vorgestellt wurde, erhielten 82 Erwachsene mit posturalem orthostatischem Tachykardiesyndrom (POTS) nach Zufallszuteilung einmalig eine subkutane Injektion mit 150 mg Baloncibart (REGN7544, n=27), 450 mg (n=28) oder Placebo (n=27). Baloncibart ist ein monoklonaler Antikörper, der den Rezeptor NPR1 für natriuretische Peptide blockiert und dadurch das Plasmavolumen erhöhen soll. Gegenüber Placebo fiel der Pulsanstieg vom Liegen zum Stehen unter 450 mg an Tag 8 (primärer Endpunkt) um 11,4 und an Tag 29 um 7,4 Schläge pro Minute geringer aus. Die Fragebögen gaben an Tag 29 zudem Hinweise auf weniger orthostatische Beschwerden und eine bessere körperliche Funktionsfähigkeit, während der Effekt der 150-mg-Dosis auf den Pulsanstieg bis dahin nachgelassen hatte. Als schwerwiegende unerwünschte Ereignisse wurden ein Fall von Kopfschmerzen unter 150 mg und eine Ohnmacht unter 450 mg gemeldet. Regenerons Kongressbericht deckt vier Wochen nach einmaliger Gabe ab, vollständige fachbegutachtete Daten fehlen und formale Hypothesentests waren nicht vorab festgelegt. Wer mehr als die Hälfte der Wachzeit ans Bett gebunden war, war ausgeschlossen, und separate Ergebnisse für ME/CFS, Long COVID oder Post-Exertional Malaise (PEM) fehlen, was die Übertragbarkeit auf Bettlägerige oder sehr schwer ME/CFS-Betroffene einschränkt (siehe [Autonome Dysfunktion & POTS](thread:autonomic-dysfunction-pots)). Regeneron plant Phase 3 für das erste Halbjahr 2027.

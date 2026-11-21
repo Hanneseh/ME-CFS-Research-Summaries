@@ -2,19 +2,25 @@ id: 2026-06-16_development-and-content-validation-of-the-vienna-post
 date: '2026-06-16'
 date_display: '2026-06-16'
 date_precision: exact
-source_type: preprint
-study_design: Preprint
+source_type: paper
+study_design: Iterative mixed-methods instrument development study
 sources:
-- label: Pimminger et al. 2026, Research Square
+- label: Pimminger et al. 2026, Quality of Life Research
+  url: https://doi.org/10.1007/s11136-026-04434-2
+  kind: paper
+- label: PubMed (PMID 42998183)
+  url: https://pubmed.ncbi.nlm.nih.gov/42998183/
+  kind: paper
+- label: Pimminger et al. 2026, Research Square (preprint)
   url: https://doi.org/10.21203/rs.3.rs-10040145/v1
   kind: preprint
 en:
   title: Development and content validation of the Vienna Post-Exertional Malaise Questionnaire published
   plain_summary: Researchers in Vienna developed a short 5-item PEM questionnaire with patients and experts covering crash frequency, triggers, functional loss, recovery, and crash symptoms. Early content ratings were strong, though larger validation is still needed before it becomes a standard trial endpoint.
   detail: 'A mixed-methods study by Pimminger et al. at the Medical University of Vienna detailed the development and validation of the Vienna Post-Exertional Malaise (VPEM) Questionnaire. Built using iterative feedback from 13 patients with lived experience and an 11-member interdisciplinary expert panel, the 5-item patient-reported outcome measure (PROM) captures PEM across five dimensions: crash frequency, exertion tolerance across multiple trigger domains (physical, cognitive, sensory, emotional, orthostatic), functional decline, recovery capacity, and new crash-associated symptoms. Lived-experience feedback emphasized that PEM questionnaires must actively distinguish PEM from general fatigue and avoid stigmatizing language. The final instrument demonstrated excellent content validity for relevance (CVI = 0.96) and acceptable clarity (CVI = 0.82), although the "new symptoms" item was flagged for further refinement. The VPEM Questionnaire provides researchers with a standardized clinical
-    tool to characterize and phenotype post-exertional deterioration in trials.'
+    tool to characterize and phenotype post-exertional deterioration in trials. Following its June 2026 preprint, the development and initial content-validation study was published peer-reviewed in *Quality of Life Research* in November 2026.'
 de:
   title: Entwicklung und Inhaltsvalidierung des Wiener Post-Exertional-Malaise-Fragebogens veröffentlicht
   plain_summary: Forschende in Wien entwickelten gemeinsam mit Betroffenen und Fachleuten einen kurzen 5-Punkte-Fragebogen zu PEM, der Häufigkeit, Auslöser, Funktionsverlust, Erholung und Crash-Symptome erfasst. Erste Bewertungen zur Verständlichkeit und Relevanz fielen hoch aus; eine breitere psychometrische Prüfung steht noch aus.
   detail: 'Eine Mixed-Methods-Studie von Pimminger et al. an der Medizinischen Universität Wien beschrieb die Entwicklung und Validierung des Wiener Post-Exertional-Malaise-(VPEM)-Fragebogens. Auf Basis iterativer Rückmeldungen von 13 Patientinnen und Patienten mit eigener Erfahrung sowie eines elfköpfigen interdisziplinären Expertengremiums erfasst das fünf Items umfassende Patienten-Befragungsinstrument (PROM) PEM über fünf Dimensionen: Crash-Häufigkeit, Belastungstoleranz über mehrere Auslösebereiche (körperlich, kognitiv, sensorisch, emotional, orthostatisch), Funktionsabfall, Erholungsfähigkeit und neu auftretende Crash-Symptome. Rückmeldungen aus Patientensicht betonten, dass PEM-Fragebögen PEM klar von allgemeiner Müdigkeit abgrenzen und stigmatisierende Sprache vermeiden müssen. Das fertige Instrument erreichte eine sehr gute Inhaltsvalidität für Relevanz (CVI = 0,96) und akzeptable Klarheit (CVI = 0,82), wobei das Item zu „neuen Symptomen“ für eine weitere Überarbeitung markiert
-    wurde.'
+    wurde. Nach der Vorveröffentlichung im Juni 2026 erschien die Studie zur Entwicklung und ersten Inhaltsvalidierung im November 2026 nach Peer-Review in *Quality of Life Research*.'

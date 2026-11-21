@@ -1,0 +1,21 @@
+id: 2026-10-19_review-maps-397-outcome-measures-across-105-long-covid-and-me-cfs-trials
+date: '2026-10-19'
+date_display: '2026-10-19'
+date_precision: exact
+source_type: review
+study_design: Literature and trial-registry review
+sources:
+- label: van Rhijn-Brouwer et al. 2026, Frontiers in Public Health (DOI)
+  url: https://doi.org/10.3389/fpubh.2026.1972605
+  kind: paper
+- label: PubMed record (PMID 42973774)
+  url: https://pubmed.ncbi.nlm.nih.gov/42973774/
+  kind: paper
+en:
+  title: Review maps 397 outcome measures across 105 Long COVID and ME/CFS biomedical trials and flags PEM and safety gaps
+  plain_summary: A review of 105 clinical trials for Long COVID and ME/CFS counted 397 outcome measures in total, with major gaps in tracking post-exertional malaise, autonomic symptoms, and treatment side effects. The review evaluates how trials are designed rather than proving whether any specific therapy works.
+  detail: van Rhijn-Brouwer and colleagues searched PubMed and ClinicalTrials.gov for biomedical clinical trials in Long COVID and ME/CFS, identifying 105 trials (37 ME/CFS and 68 Long COVID) using 397 outcome measures in total. Critically assessing patient relevance, the authors point out wide fragmentation in how core outcomes are measured across studies, which makes cross-trial comparisons difficult. They find that key symptom clusters—particularly post-exertional malaise (PEM), dysautonomia, and mast cell activation—remain poorly captured in trial endpoints, and that intervention safety and adverse events are rarely adequately evaluated (see [Post-Exertional Malaise & Exercise Physiology](thread:pem-exercise-physiology) and [Autonomic Dysfunction & POTS](thread:autonomic-dysfunction-pots)). The review recommends combining validated patient-reported outcome measures with clinical assessments, physical tests, and biomarkers only when safety, feasibility, and applicability for fatigued or PEM-prone participants are carefully vetted, and embedding patient input across trial design, execution, and evaluation. Because this is a narrative/registry review of published and registered biomedical trials rather than a quantitative meta-analysis, it provides trial-design guidance rather than treatment efficacy evidence, and registry records may not capture full internal safety monitoring plans.
+de:
+  title: Übersichtsarbeit erfasst 397 Endpunkte aus 105 biomedizinischen Long-COVID- und ME/CFS-Studien und benennt Lücken bei PEM und Sicherheit
+  plain_summary: Eine Auswertung von 105 klinischen Studien zu Long COVID und ME/CFS zählte insgesamt 397 Endpunkte und fand deutliche Lücken bei der Erfassung von Post-Exertional Malaise, autonomen Beschwerden und Nebenwirkungen. Die Arbeit bewertet das Studiendesign und liefert keinen Wirksamkeitsnachweis für einzelne Therapien.
+  detail: van Rhijn-Brouwer und Kolleginnen und Kollegen durchsuchten PubMed und ClinicalTrials.gov nach biomedizinischen Interventionsstudien zu Long COVID und ME/CFS und identifizierten 105 Studien (37 zu ME/CFS und 68 zu Long COVID) mit insgesamt 397 Endpunkten. In ihrer kritischen Bewertung der Patientenrelevanz zeigen die Autorinnen und Autoren eine starke Uneinheitlichkeit bei den Messinstrumenten, was den Vergleich zwischen Studien erschwert. Zentrale Beschwerdebilder – insbesondere Post-Exertional Malaise (PEM), Dysautonomie und Mastzellaktivierung – werden in klinischen Endpunkten bislang unzureichend abgebildet, und auch Sicherheit sowie unerwünschte Ereignisse von Interventionen werden selten angemessen erfasst (siehe [Post-Exertional Malaise & Belastungsphysiologie](thread:pem-exercise-physiology) und [Autonome Dysfunktion & POTS](thread:autonomic-dysfunction-pots)). Die Übersichtsarbeit empfiehlt, patientenberichtete Messinstrumente nur dann mit klinischen Tests, körperlichen Belastungsprüfungen und Biomarkern zu ergänzen, wenn Sicherheit, Machbarkeit und Zumutbarkeit für PEM-gefährdete Teilnehmende sorgfältig geprüft sind, und Betroffene in Planung, Durchführung und Auswertung einzubinden. Da es sich um eine Bestandsaufnahme publizierter und registrierter Studienprotokolle handelt, liefert die Arbeit methodische Leitlinien für künftige Studien, jedoch keine neuen Therapieergebnisse; zudem bilden Registereinträge interne Sicherheitsprotokolle nicht immer vollständig ab.

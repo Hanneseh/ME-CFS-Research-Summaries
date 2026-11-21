@@ -1,0 +1,23 @@
+id: 2026-11-09_bezisterim-address-lc-biomarker-subgroups
+date: '2026-11-09'
+date_display: '2026-11-09'
+date_precision: exact
+source_type: announcement
+study_design: Exploratory Phase II subgroup analysis
+sources:
+- label: BioVie report from the NIH RECOVER-TLC workshop (2026-11-09)
+  url: https://www.globenewswire.com/news-release/2026/11/09/3398348/0/en/biovie-presents-new-biomarker-data-from-the-address-lc-trial-of-bezisterim-in-long-covid-at-the-nih-recover-tlc-third-annual-workshop.html
+  kind: announcement
+- label: 'ClinicalTrials.gov: NCT06847191'
+  url: https://clinicaltrials.gov/study/NCT06847191
+  kind: registry
+en:
+  title: ADDRESS-LC explores biomarker-defined subgroups for bezisterim in Long COVID
+  plain_summary: A Long COVID study found no clear benefit of bezisterim across the full group. The drugmaker later found hints of better thinking and memory test scores in one subgroup defined by blood markers, but the findings need confirmation.
+  detail: |-
+    BioVie presented an exploratory follow-up analysis of 380 plasma biomarkers from the placebo-controlled phase 2 ADDRESS-LC trial at the NIH RECOVER-TLC Third Annual Workshop on November 5, with a press release on November 9. The September 2026 topline report found no statistically significant result across 22 outcomes in the full 203-person Long COVID cohort, and the trial had no single prespecified primary measure of success. At week 12, the high-inflammation subgroup (n=67, elevated serum amyloid A1 and greater IL-6 and myeloid activity) showed a signal on objective global cognition testing (reported Cohen's d ≈ 0.83, p=0.001). In the low-myeloid subgroup (n=44, lower neutrophil and monocyte levels), the fatigue and post-exertional malaise (PEM) differences were statistically uncertain (reported p≈0.11). The sponsor also reported about 33% lower relative abundance of circulating neuropeptide Y (NPY) versus placebo at week 12 in the analyzed population. These post hoc, sponsor-reported analyses have not been peer reviewed and need prospective confirmation before they can establish clinical efficacy or identify responders. They provide no direct evidence for severe ME/CFS.
+de:
+  title: ADDRESS-LC untersucht biomarkerbasierte Untergruppen für Bezisterim bei Long COVID
+  plain_summary: In einer Long-COVID-Studie zeigte Bezisterim in der Gesamtgruppe keinen klaren Nutzen. Der Hersteller fand später Hinweise auf bessere Ergebnisse in Denk- und Gedächtnistests bei einer anhand von Blutwerten gebildeten Untergruppe, doch das muss sich noch bestätigen.
+  detail: |-
+    BioVie stellte am 5. November beim dritten NIH-Workshop RECOVER-TLC eine explorative Folgeanalyse von 380 Plasmabiomarkern aus der placebokontrollierten Phase-2-Studie ADDRESS-LC vor und veröffentlichte dazu am 9. November eine Pressemitteilung. Laut der ersten Ergebnismeldung vom September 2026 war in der gesamten Long-COVID-Kohorte mit 203 Teilnehmenden keiner der 22 Endpunkte statistisch signifikant, und für den Studienerfolg war kein einzelner primärer Endpunkt vorab festgelegt. In der Untergruppe mit erhöhter Entzündungsaktivität (n=67, erhöhtes Serum-Amyloid A1 sowie stärkere IL-6- und myeloide Aktivität) zeigte sich nach zwölf Wochen ein Signal in objektiven Tests der allgemeinen kognitiven Leistung (berichtet wurden Cohen's d ≈ 0,83 und p=0,001). In der Untergruppe mit niedriger myeloider Aktivität (n=44, niedrigere Neutrophilen- und Monozytenwerte) blieben die Unterschiede bei Fatigue und Post-Exertional Malaise (PEM) statistisch unsicher (berichtet wurde p≈0,11). Laut Sponsor lag die relative Menge an zirkulierendem Neuropeptid Y (NPY) in der ausgewerteten Population nach zwölf Wochen rund 33 % unter der Placebogruppe. Die nachträglichen Analysen des Sponsors sind noch nicht fachbegutachtet und müssen in einer vorab geplanten Untersuchung bestätigt werden, bevor sich daraus auf klinische Wirksamkeit oder ein Ansprechen bestimmter Gruppen schließen lässt. Für schweres ME/CFS liefern sie keine direkten Daten.
