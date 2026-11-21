@@ -13,7 +13,7 @@ interface Props {
   description?: string;
   /** Path below the language segment, e.g. "threads/foo/". Used for the language switch and hreflang. */
   subpath?: string;
-  active?: "overview" | "feed" | "glossary" | "imprint" | "thread";
+  active?: "overview" | "updates" | "feed" | "glossary" | "imprint" | "thread";
 }
 
 const { lang, title, description, subpath = "", active } = Astro.props;

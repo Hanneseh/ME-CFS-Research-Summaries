@@ -17,3 +17,5 @@ export const threadUrl = (lang: Lang, slug: string) => url(`${lang}/threads/${sl
 export const feedUrl = (lang: Lang) => url(`${lang}/feed/`);
 export const glossaryUrl = (lang: Lang) => url(`${lang}/glossary/`);
 export const imprintUrl = (lang: Lang) => url(`${lang}/imprint/`);
+export const updatesUrl = (lang: Lang) => url(`${lang}/updates/`);
+export const updateUrl = (lang: Lang, id: string) => url(`${lang}/updates/${id}/`);

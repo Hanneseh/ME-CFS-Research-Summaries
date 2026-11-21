@@ -28,6 +28,7 @@ from atomic_content import (
     entry_paths,
     read_yaml,
     thread_directories,
+    update_paths,
 )
 
 SLUG_PATTERN = r"[a-z0-9]+(?:-[a-z0-9]+)*"
@@ -263,6 +264,56 @@ class Entry(StrictModel):
         return self
 
 
+class EntryReference(StrictModel):
+    thread: Slug
+    entry_id: Text
+
+
+class AddedEntry(EntryReference):
+    action: Literal["added", "upgraded"]
+
+
+class UpdateHighlight(StrictModel):
+    tag: str
+    title: str
+    summary: str
+    links: list[EntryReference]
+
+
+class UpdateCopy(StrictModel):
+    title: str
+    lead: str
+    highlights: list[UpdateHighlight]
+    what_to_skip_or_caveats: str
+
+
+class UpdateBriefing(StrictModel):
+    id: ISODate
+    date: ISODate
+    period_from: ISODate
+    period_to: ISODate
+    added_entries: list[AddedEntry] = Field(min_length=1)
+    en: UpdateCopy
+    de: UpdateCopy
+
+    @model_validator(mode="after")
+    def check_update_metadata(self):
+        if self.period_from > self.period_to:
+            raise ValueError("period_from must be on or before period_to")
+        if len(self.en.highlights) != len(self.de.highlights):
+            raise ValueError(
+                f"highlights count mismatch (en={len(self.en.highlights)}, "
+                f"de={len(self.de.highlights)})"
+            )
+        seen: set[tuple[str, str]] = set()
+        for item in self.added_entries:
+            key = (item.thread, item.entry_id)
+            if key in seen:
+                raise ValueError(f"duplicate added_entries reference {item.thread}/{item.entry_id}")
+            seen.add(key)
+        return self
+
+
 @dataclass
 class ValidationResult:
     errors: list[str] = field(default_factory=list)
@@ -270,6 +321,7 @@ class ValidationResult:
     newest_dates: dict[str, str] = field(default_factory=dict)
     thread_count: int = 0
     entry_count: int = 0
+    update_count: int = 0
 
     def load(self, path: Path, schema: type[BaseModel]):
         try:
@@ -319,6 +371,47 @@ class ValidationResult:
         if missing:
             self.missing_translations.append(f"{path}: {', '.join(missing)}")
 
+    def check_update(
+        self, path: Path, update: UpdateBriefing, entry_ids: dict[str, set[str]]
+    ) -> None:
+        if update.id != path.stem:
+            self.errors.append(f"{path}: update id {update.id!r} does not match filename")
+        self.check_links(path, update.model_dump(), set(entry_ids))
+
+        for index, ref in enumerate(update.added_entries):
+            self.check_entry_reference(path, f"added_entries[{index}]", ref, entry_ids)
+
+        missing = []
+        for language, copy in (("en", update.en), ("de", update.de)):
+            for name in ("title", "lead", "what_to_skip_or_caveats"):
+                if not getattr(copy, name).strip():
+                    missing.append(f"{language}.{name}")
+            for index, highlight in enumerate(copy.highlights):
+                location = f"{language}.highlights[{index}]"
+                for name in ("tag", "title", "summary"):
+                    if not getattr(highlight, name).strip():
+                        missing.append(f"{location}.{name}")
+                for link_index, ref in enumerate(highlight.links):
+                    self.check_entry_reference(
+                        path, f"{location}.links[{link_index}]", ref, entry_ids
+                    )
+        if missing:
+            self.missing_translations.append(f"{path}: {', '.join(missing)}")
+
+    def check_entry_reference(
+        self,
+        path: Path,
+        location: str,
+        ref: EntryReference,
+        entry_ids: dict[str, set[str]],
+    ) -> None:
+        if ref.thread not in entry_ids:
+            self.errors.append(f"{path} {location}: unknown thread {ref.thread!r}")
+        elif ref.entry_id not in entry_ids[ref.thread]:
+            self.errors.append(
+                f"{path} {location}: unknown entry {ref.entry_id!r} in thread {ref.thread!r}"
+            )
+
 
 def validate(content_dir: Path) -> ValidationResult:
     result = ValidationResult()
@@ -331,6 +424,7 @@ def validate(content_dir: Path) -> ValidationResult:
         if model := result.load(path, schema):
             result.check_links(path, model.model_dump(), slugs)
 
+    entry_ids: dict[str, set[str]] = {}
     for directory in directories:
         path = directory / "thread.yaml"
         result.thread_count += 1
@@ -346,6 +440,7 @@ def validate(content_dir: Path) -> ValidationResult:
             result.check_translations(path, thread.en, thread.de)
 
         paths = entry_paths(directory)
+        entry_ids[directory.name] = {path.stem for path in paths if path.is_file()}
         if not paths:
             result.errors.append(f"{directory / 'entries'}: no entry files found")
         ids = set()
@@ -365,6 +460,11 @@ def validate(content_dir: Path) -> ValidationResult:
                 result.check_translations(path, entry.en, entry.de)
         if dates:
             result.newest_dates[directory.name] = max(dates)
+
+    for path in update_paths(content_dir):
+        result.update_count += 1
+        if update := result.load(path, UpdateBriefing):
+            result.check_update(path, update, entry_ids)
     return result
 
 
@@ -384,7 +484,11 @@ def main() -> int:
             print(
                 f"WARNING: {len(result.missing_translations)} files have unfinished translations or plain summaries."
             )
-    print(f"Checked {result.thread_count} threads and {result.entry_count} entries.")
+    briefings = "briefing" if result.update_count == 1 else "briefings"
+    print(
+        f"Checked {result.thread_count} threads, {result.entry_count} entries, "
+        f"and {result.update_count} update {briefings}."
+    )
     return int(
         bool(result.errors or (args.require_bilingual and result.missing_translations))
     )

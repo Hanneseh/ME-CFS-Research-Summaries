@@ -1,5 +1,5 @@
 // HTML string renderers shared by server (SSR) and client scripts so markup stays identical.
-import type { CardStrings, FeedEntry } from "./types";
+import type { CardStrings, FeedEntry, UpdateAction } from "./types";
 
 export function escapeHtml(s: string): string {
   return s
@@ -21,6 +21,9 @@ export const ICONS = {
 export interface CardOptions {
   context: "feed" | "thread";
   headingLevel?: 2 | 3;
+  /** Overrides the entry's own batch marker, e.g. on an update briefing page. */
+  batch?: UpdateAction | null;
+  batchLabels?: Partial<Record<UpdateAction, string>>;
 }
 
 function sourcesList(e: FeedEntry, s: CardStrings): string {
@@ -38,7 +41,10 @@ function sourcesList(e: FeedEntry, s: CardStrings): string {
 export function renderEntryCard(e: FeedEntry, s: CardStrings, opts: CardOptions): string {
   const h = opts.headingLevel ?? 3;
   const langAttr = e.contentLang ? ` lang="${e.contentLang}"` : "";
+  const batch = opts.batch === undefined ? e.batch : opts.batch;
+  const batchLabel = batch ? (opts.batchLabels?.[batch] ?? (batch === "upgraded" ? s.batchUpgraded : s.batchAdded)) : "";
   const meta = [
+    batch ? `<span class="badge badge-batch" data-batch="${escapeHtml(batch)}">${escapeHtml(batchLabel)}</span>` : "",
     `<time class="entry-date" datetime="${escapeHtml(e.date)}">${escapeHtml(e.dateLabel)}</time>`,
     `<span class="badge badge-type" data-type="${escapeHtml(e.type)}">${escapeHtml(e.typeLabel)}</span>`,
     e.design ? `<span class="badge badge-design">${escapeHtml(e.design)}</span>` : "",

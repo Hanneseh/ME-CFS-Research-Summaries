@@ -1,16 +1,19 @@
 ---
 import { t } from "../lib/i18n";
 import { renderEntryCard } from "../lib/render";
-import type { FeedEntry, Lang } from "../lib/types";
+import type { FeedEntry, Lang, UpdateAction } from "../lib/types";
 
 interface Props {
   lang: Lang;
   entry: FeedEntry;
   context: "feed" | "thread";
   headingLevel?: 2 | 3;
+  /** Overrides the latest-batch marker (e.g. on an update page); `null` hides it. */
+  batch?: UpdateAction | null;
+  batchLabels?: Partial<Record<UpdateAction, string>>;
 }
-const { lang, entry, context, headingLevel = 3 } = Astro.props;
-const html = renderEntryCard(entry, t(lang).card, { context, headingLevel });
+const { lang, entry, context, headingLevel = 3, batch, batchLabels } = Astro.props;
+const html = renderEntryCard(entry, t(lang).card, { context, headingLevel, batch, batchLabels });
 ---
 
 <Fragment set:html={html} />

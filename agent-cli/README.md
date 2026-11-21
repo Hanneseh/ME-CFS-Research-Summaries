@@ -54,6 +54,8 @@ content/
       thread.yaml
       entries/
         YYYY-MM-DD_<entry-slug>.yaml
+  updates/
+    YYYY-MM-DD.yaml
 ```
 
 - Adding a new study creates one YAML file under `content/threads/<slug>/entries/` containing both `en` and `de` fields (`title`, `plain_summary`, `detail`) and structured `sources[]`.
@@ -61,3 +63,12 @@ content/
 - Thread `last_updated` dates are derived automatically from `max(entry.date)`.
 - Use `[Label](thread:<slug>)` for cross-thread links in prose.
 - Remove `agent-cli/state/` and `agent-cli/input/` before committing.
+
+### Update briefings
+
+Use `content/updates/YYYY-MM-DD.yaml` to summarize a reporting period across threads. Quote `id`, `date`, `period_from`, and `period_to` as ISO dates. Set `id` to the filename stem and keep `period_from` on or before `period_to`.
+
+- List at least one record in `added_entries` with `thread`, `entry_id`, and `action` (`added` or `upgraded`). Each thread and entry pair may occur once in this list.
+- Provide `title`, `lead`, `highlights`, and `what_to_skip_or_caveats` in both `en` and `de`. Use the same number of highlights in each language. Each highlight has `tag`, `title`, `summary`, and `links`.
+- Each highlight link uses `thread` and `entry_id`. References in highlights and `added_entries` must resolve to `content/threads/<thread>/entries/<entry_id>.yaml`. Use canonical thread links in prose and omit legacy relative links.
+- The content validator checks every briefing in the optional `content/updates/` directory. Pass `--require-bilingual` to require all briefing text fields to be filled in.

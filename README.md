@@ -40,6 +40,8 @@ content/
       thread.yaml                                # Metadata + bilingual synthesis (EN + DE)
       entries/
         YYYY-MM-DD_<entry-slug>.yaml             # Atomic research entry (EN + DE + sources[])
+  updates/
+    YYYY-MM-DD.yaml                             # Optional bilingual update briefing
 ```
 
 - Thread `last_updated` dates are derived automatically from the newest entry date at build time.
@@ -49,6 +51,8 @@ content/
 ## Adding New Research
 
 New studies, trial registrations, and conference updates are collected periodically from journal alerts, preprints, and research feeds, deduplicated against existing `sources[]`, screened for relevance and evidence quality, and added as individual bilingual YAML entries under `content/threads/<slug>/entries/`. A thread's `thread.yaml` synthesis (`plain_summary`, `takeaway`, `state_of_evidence`, `open_questions`) is updated only when new findings materially change the overall picture.
+
+An update briefing in `content/updates/YYYY-MM-DD.yaml` covers a reporting period and summarizes newly added or upgraded entries, with highlights and caveats in German and English. Briefing references point to existing entries. See the [briefing format](agent-cli/README.md#update-briefings) for the required fields.
 
 ## Local Development & Validation
 

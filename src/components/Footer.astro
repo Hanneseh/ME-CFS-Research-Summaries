@@ -1,6 +1,6 @@
 ---
 import { t } from "../lib/i18n";
-import { feedUrl, glossaryUrl, imprintUrl, langHome } from "../lib/paths";
+import { feedUrl, glossaryUrl, imprintUrl, langHome, updatesUrl } from "../lib/paths";
 import type { Lang } from "../lib/types";
 import Logo from "./Logo.astro";
 
@@ -23,6 +23,7 @@ const ext = { target: "_blank", rel: "noopener noreferrer" };
       <h2 class="footer-title">{s.footerSite}</h2>
       <ul>
         <li><a href={langHome(lang)}>{s.nav.overview}</a></li>
+        <li><a href={updatesUrl(lang)}>{s.nav.updates}</a></li>
         <li><a href={feedUrl(lang)}>{s.nav.feed}</a></li>
         <li><a href={glossaryUrl(lang)}>{s.nav.glossary}</a></li>
         <li><a href={imprintUrl(lang)}>{s.nav.imprint}</a></li>

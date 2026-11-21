@@ -57,6 +57,10 @@ def entry_paths(thread_dir: Path) -> list[Path]:
     return sorted((thread_dir / "entries").glob("*.yaml"))
 
 
+def update_paths(content_dir: Path) -> list[Path]:
+    return sorted((content_dir / "updates").glob("*.yaml"))
+
+
 def link_destination(match: re.Match) -> str:
     return match["angle"] or match["bare"]
 

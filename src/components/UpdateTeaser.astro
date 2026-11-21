@@ -1,0 +1,37 @@
+---
+// Editorial card for the single latest research update (homepage, between hero and feed).
+import type { Update } from "../lib/content";
+import { t } from "../lib/i18n";
+import { updatesUrl, updateUrl } from "../lib/paths";
+import type { Lang } from "../lib/types";
+import UpdateStats from "./UpdateStats.astro";
+
+interface Props {
+  lang: Lang;
+  update: Update;
+  showArchive?: boolean;
+}
+const { lang, update, showArchive = false } = Astro.props;
+const s = t(lang).upd;
+const langAttr = update.contentLang ? { lang: update.contentLang } : {};
+---
+
+<section class="section section-update" aria-labelledby="latest-update-title">
+  <div class="wrap">
+    <article class="update-teaser">
+      <p class="update-eyebrow">
+        <span class="update-dot" aria-hidden="true"></span>
+        <time datetime={update.date}>{s.eyebrowLatest(update.dateLabel)}</time>
+      </p>
+      <h2 id="latest-update-title" class="update-teaser-title" {...langAttr}>
+        <a href={updateUrl(lang, update.id)}><Fragment set:html={update.title} /></a>
+      </h2>
+      <UpdateStats lang={lang} update={update} />
+      {update.lead && <div class="update-teaser-lead" {...langAttr} set:html={update.lead} />}
+      <p class="update-actions">
+        <a class="btn btn-primary" href={updateUrl(lang, update.id)}>{s.readSummary}</a>
+        {showArchive && <a class="update-archive-link" href={updatesUrl(lang)}>{s.allUpdates}</a>}
+      </p>
+    </article>
+  </div>
+</section>

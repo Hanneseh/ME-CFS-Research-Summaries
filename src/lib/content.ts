@@ -7,9 +7,9 @@ import path from "node:path";
 import yaml from "js-yaml";
 import { escapeHtml } from "./render";
 import { firstSentences, renderBlock, renderInline, toPlain } from "./markdown";
-import { formatEntryDate, sourceTypeLabel, studyDesignLabel } from "./i18n";
+import { formatDate, formatEntryDate, sourceTypeLabel, studyDesignLabel } from "./i18n";
 import { threadUrl } from "./paths";
-import type { FeedEntry, Lang, SourceLink } from "./types";
+import type { FeedEntry, Lang, SourceLink, UpdateAction } from "./types";
 
 const CONTENT_DIR = path.resolve(process.cwd(), "content");
 
@@ -61,6 +61,53 @@ interface RawEntry extends Loc<{ title: string; plain_summary: string; detail: s
   source_type?: string | null;
   study_design?: string | null;
   sources?: { label?: string; url?: string; kind?: string }[];
+}
+
+interface RawUpdateRef {
+  thread?: string;
+  entry_id?: string;
+  action?: string;
+}
+interface RawUpdateText {
+  title: string;
+  lead: string;
+  highlights: { tag?: string; title?: string; summary?: string; links?: RawUpdateRef[] }[];
+  what_to_skip_or_caveats: string;
+}
+interface RawUpdate extends Loc<RawUpdateText> {
+  id: string;
+  date: string | Date;
+  period_from?: string | Date;
+  period_to?: string | Date;
+  added_entries?: RawUpdateRef[];
+}
+
+export interface UpdateItem {
+  action: UpdateAction;
+  entry: FeedEntry;
+}
+export interface UpdateHighlight {
+  tag: string;
+  title: string;
+  summary: string;
+  entries: FeedEntry[];
+}
+export interface Update {
+  id: string;
+  date: string;
+  dateLabel: string;
+  periodFrom: string;
+  periodTo: string;
+  periodLabel: string;
+  title: string;
+  titleText: string;
+  lead: string;
+  leadText: string;
+  highlights: UpdateHighlight[];
+  caveats: string;
+  items: UpdateItem[];
+  counts: { added: number; upgraded: number; threads: number };
+  contentLang?: Lang;
 }
 
 export interface Group {
@@ -184,6 +231,8 @@ interface RawData {
   tiers: RawTier[];
   terms: RawTerm[];
   threads: { raw: RawThread; entries: RawEntry[] }[];
+  /** Newest first. */
+  updates: RawUpdate[];
 }
 
 let rawCache: RawData | null = null;
@@ -215,8 +264,24 @@ function loadRaw(): RawData {
         : [];
       return { raw, entries };
     });
+  const updatesDir = path.join(CONTENT_DIR, "updates");
+  const updates = fs.existsSync(updatesDir)
+    ? fs
+        .readdirSync(updatesDir)
+        .filter((f) => /\.ya?ml$/.test(f))
+        .map((f) => {
+          const u = readYaml<RawUpdate>(path.join(updatesDir, f));
+          if (!u || typeof u !== "object") return null;
+          u.id = str(u.id) || f.replace(/\.ya?ml$/, "");
+          if (!/^[a-z0-9][a-z0-9-]*$/i.test(u.id)) throw new Error(`Invalid update id "${u.id}" in content/updates/${f}`);
+          return u.date ? u : null;
+        })
+        .filter((u): u is RawUpdate => !!u)
+        .sort((a, b) => byDateDesc({ date: isoDate(a.date), id: a.id }, { date: isoDate(b.date), id: b.id }))
+    : [];
   rawCache = {
     groups,
+    updates,
     tiers: (glossary.evidence_tiers ?? []).slice(),
     terms: (glossary.terms ?? []).slice(),
     threads,
@@ -230,6 +295,28 @@ const siteCache = new Map<Lang, Site>();
 
 const byDateDesc = (a: { date: string; id: string }, b: { date: string; id: string }) =>
   a.date < b.date ? 1 : a.date > b.date ? -1 : a.id < b.id ? 1 : a.id > b.id ? -1 : 0;
+
+const refKey = (thread: string, entryId: string) => `${thread}:${entryId}`;
+const toAction = (v: unknown): UpdateAction => (str(v) === "upgraded" ? "upgraded" : "added");
+
+let batchCache: Map<string, UpdateAction> | null = null;
+
+/** `${thread}:${entry_id}` → action for every entry in the newest update file. */
+export function getLatestBatch(): Map<string, UpdateAction> {
+  if (batchCache) return batchCache;
+  const latest = loadRaw().updates[0];
+  batchCache = new Map(
+    (latest?.added_entries ?? [])
+      .filter((r) => r && str(r.thread) && str(r.entry_id))
+      .map((r) => [refKey(str(r.thread), str(r.entry_id)), toAction(r.action)]),
+  );
+  return batchCache;
+}
+
+/** Set of `${thread}:${entry_id}` keys from the newest update file. */
+export function getLatestBatchEntryKeys(): Set<string> {
+  return new Set(getLatestBatch().keys());
+}
 
 function localiseEntry(e: RawEntry, thread: { slug: string; group: string; title: string }, lang: Lang): { entry: FeedEntry; text: string } {
   const title = pick(e, "title", lang);
@@ -273,6 +360,7 @@ function localiseEntry(e: RawEntry, thread: { slug: string; group: string; title
     threadTitle: thread.title,
     group: thread.group,
     url: `${threadUrl(lang, thread.slug)}#${e.id}`,
+    ...(getLatestBatch().has(refKey(thread.slug, e.id)) ? { batch: getLatestBatch().get(refKey(thread.slug, e.id)) } : {}),
     ...(fell ? { contentLang: "en" as Lang } : {}),
   };
   const text = [toPlain(title.value), summaryText, detailPlain, sources.map((s) => s.label).join(" ")].join(" ");
@@ -437,6 +525,87 @@ export function getLegacyRedirects(): { from: string; to: string }[] {
   for (const g of raw.groups) out.push({ from: g.slug, to: `#${g.slug}` });
   out.push({ from: "imprint", to: "imprint/" });
   out.push({ from: "glossary", to: "glossary/" });
+  out.push({ from: "updates", to: "updates/" });
+  for (const u of raw.updates) out.push({ from: `updates/${u.id}`, to: `updates/${u.id}/` });
   const seen = new Set<string>();
   return out.filter((r) => r.from && !seen.has(r.from) && seen.add(r.from));
+}
+
+// ---------- research updates ----------
+
+const updatesCache = new Map<Lang, Update[]>();
+
+function localiseUpdate(u: RawUpdate, lang: Lang): Update {
+  const site = getSite(lang);
+  const index = new Map(site.entries.map((e) => [refKey(e.thread, e.id), e]));
+  const resolve = (r: RawUpdateRef): FeedEntry | undefined => {
+    const key = refKey(str(r.thread), str(r.entry_id));
+    const hit = index.get(key);
+    if (!hit && lang === "en") console.warn(`[updates] ${u.id}: unknown entry ${key}`);
+    return hit;
+  };
+
+  const title = pick(u, "title", lang);
+  const lead = pick(u, "lead", lang);
+  const caveats = pick(u, "what_to_skip_or_caveats", lang);
+  const hl = pickList(u[lang]?.highlights, u.en?.highlights, lang);
+
+  const seen = new Set<string>();
+  const items: UpdateItem[] = [];
+  for (const r of u.added_entries ?? []) {
+    if (!r) continue;
+    const entry = resolve(r);
+    const key = refKey(str(r.thread), str(r.entry_id));
+    if (!entry || seen.has(key)) continue;
+    seen.add(key);
+    items.push({ action: toAction(r.action), entry });
+  }
+
+  const date = isoDate(u.date);
+  const from = u.period_from ? isoDate(u.period_from) : "";
+  const to = u.period_to ? isoDate(u.period_to) : date;
+  const titleValue = title.value || date;
+
+  return {
+    id: u.id,
+    date,
+    dateLabel: formatDate(date, lang),
+    periodFrom: from,
+    periodTo: to,
+    periodLabel: from ? `${formatDate(from, lang)} – ${formatDate(to, lang)}` : formatDate(to, lang),
+    title: renderInline(titleValue, lang),
+    titleText: toPlain(titleValue),
+    lead: renderBlock(lead.value, lang),
+    leadText: toPlain(lead.value),
+    highlights: hl.value
+      .filter(Boolean)
+      .map((h) => ({
+        tag: toPlain(str(h.tag)),
+        title: renderInline(str(h.title), lang),
+        summary: renderBlock(str(h.summary), lang),
+        entries: (h.links ?? []).map((r) => (r ? resolve(r) : undefined)).filter((e): e is FeedEntry => !!e),
+      }))
+      .filter((h) => h.title || h.summary),
+    caveats: renderBlock(caveats.value, lang),
+    items,
+    counts: {
+      added: items.filter((i) => i.action === "added").length,
+      upgraded: items.filter((i) => i.action === "upgraded").length,
+      threads: new Set(items.map((i) => i.entry.thread)).size,
+    },
+    ...(title.fellBack || lead.fellBack || caveats.fellBack || hl.fellBack ? { contentLang: "en" as Lang } : {}),
+  };
+}
+
+/** All research update briefings, newest first. Empty when content/updates/ is missing. */
+export function getUpdates(lang: Lang): Update[] {
+  const cached = updatesCache.get(lang);
+  if (cached) return cached;
+  const list = loadRaw().updates.map((u) => localiseUpdate(u, lang));
+  updatesCache.set(lang, list);
+  return list;
+}
+
+export function getUpdate(lang: Lang, id: string): Update | undefined {
+  return getUpdates(lang).find((u) => u.id === id);
 }

@@ -3,7 +3,8 @@ import type { GetStaticPaths } from "astro";
 import Base from "../../layouts/Base.astro";
 import EntryCard from "../../components/EntryCard.astro";
 import ThreadCard from "../../components/ThreadCard.astro";
-import { getSite } from "../../lib/content";
+import UpdateTeaser from "../../components/UpdateTeaser.astro";
+import { getSite, getUpdates } from "../../lib/content";
 import { formatMonth, t } from "../../lib/i18n";
 import { feedUrl, glossaryUrl, imprintUrl } from "../../lib/paths";
 import { LANGS, type Lang } from "../../lib/types";
@@ -13,6 +14,8 @@ export const getStaticPaths = (() => LANGS.map((lang) => ({ params: { lang } }))
 const lang = Astro.params.lang as Lang;
 const s = t(lang);
 const site = getSite(lang);
+const updates = getUpdates(lang);
+const latestUpdate = updates[0];
 const latest = site.entries.slice(0, 8);
 const byRecent = [...site.threads].sort((a, b) => (a.lastUpdated < b.lastUpdated ? 1 : a.lastUpdated > b.lastUpdated ? -1 : 0));
 const groupTitle = new Map(site.groups.map((g) => [g.slug, g.shortTitle]));
@@ -70,6 +73,8 @@ const feedConfig = JSON.stringify({ lang, card: s.card, pageSize: 8 });
       </div>
     </div>
   </section>
+
+  {latestUpdate && <UpdateTeaser lang={lang} update={latestUpdate} showArchive={updates.length > 1} />}
 
   <section class="section" aria-labelledby="latest-title">
     <div class="wrap">

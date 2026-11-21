@@ -1,0 +1,113 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../../layouts/Base.astro";
+import EntryCard from "../../../components/EntryCard.astro";
+import UpdateStats from "../../../components/UpdateStats.astro";
+import { getUpdate, getUpdates } from "../../../lib/content";
+import { t } from "../../../lib/i18n";
+import { langHome, updatesUrl } from "../../../lib/paths";
+import { LANGS, type Lang } from "../../../lib/types";
+
+export const getStaticPaths = (() =>
+  LANGS.flatMap((lang) => getUpdates(lang).map((u) => ({ params: { lang, id: u.id } })))) satisfies GetStaticPaths;
+
+const lang = Astro.params.lang as Lang;
+const id = Astro.params.id as string;
+const s = t(lang);
+const update = getUpdate(lang, id)!;
+const langAttr = update.contentLang ? { lang: update.contentLang } : {};
+const batchLabels = { added: s.upd.itemAdded, upgraded: s.upd.itemUpgraded };
+---
+
+<Base lang={lang} title={update.titleText} description={update.leadText || undefined} subpath={`updates/${id}/`} active="updates">
+  <article class="update-page">
+    <header class="thread-hero update-hero">
+      <div class="wrap narrow">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <ol>
+            <li><a href={langHome(lang)}>{s.breadcrumbHome}</a></li>
+            <li><a href={updatesUrl(lang)}>{s.upd.breadcrumb}</a></li>
+            <li aria-current="page">{update.dateLabel}</li>
+          </ol>
+        </nav>
+        <p class="update-eyebrow update-eyebrow-page">
+          <span class="update-dot" aria-hidden="true"></span>
+          <time datetime={update.date}>{s.upd.added(update.dateLabel)}</time>
+        </p>
+        <h1 class="display update-title" {...langAttr}><Fragment set:html={update.title} /></h1>
+        <p class="update-meta">
+          <span>{s.upd.period}: <time datetime={update.periodFrom || update.periodTo}>{update.periodLabel}</time></span>
+        </p>
+        <UpdateStats lang={lang} update={update} />
+        {update.contentLang && <p class="fallback-note">{s.fallbackNote}</p>}
+      </div>
+    </header>
+
+    <div class="wrap narrow update-body">
+      {update.lead && <div class="update-lead" {...langAttr} set:html={update.lead} />}
+
+      {
+        update.highlights.length > 0 && (
+          <section class="block" aria-labelledby="highlights-title">
+            <h2 id="highlights-title" class="block-title">{s.upd.highlightsTitle}</h2>
+            <div class="highlight-list">
+              {update.highlights.map((h, i) => (
+                <section class="highlight" aria-labelledby={`hl-${i}`} data-group={h.entries[0]?.group}>
+                  {h.tag && <p class="eyebrow">{h.tag}</p>}
+                  <h3 id={`hl-${i}`} class="highlight-title" {...langAttr} set:html={h.title} />
+                  {h.summary && <div class="prose highlight-summary" {...langAttr} set:html={h.summary} />}
+                  {h.entries.length > 0 && (
+                    <nav class="highlight-links" aria-label={s.upd.toEntries}>
+                      <p class="highlight-links-title">{s.upd.toEntries}</p>
+                      <ul>
+                        {h.entries.map((e) => (
+                          <li data-group={e.group}>
+                            <a href={e.url}>
+                              <span class="highlight-link-title" lang={e.contentLang} set:html={e.title} />
+                              <span class="highlight-link-meta">
+                                <span class="dot" aria-hidden="true" />
+                                {e.threadTitle}
+                              </span>
+                            </a>
+                          </li>
+                        ))}
+                      </ul>
+                    </nav>
+                  )}
+                </section>
+              ))}
+            </div>
+          </section>
+        )
+      }
+
+      {
+        update.caveats && (
+          <aside class="callout update-caveats" aria-labelledby="caveats-title">
+            <h2 id="caveats-title" class="note-title">{s.upd.caveatsTitle}</h2>
+            <div class="prose prose-sm" {...langAttr} set:html={update.caveats} />
+          </aside>
+        )
+      }
+    </div>
+
+    {
+      update.items.length > 0 && (
+        <section class="timeline-section update-entries" aria-labelledby="update-entries-title">
+          <div class="wrap narrow">
+            <h2 id="update-entries-title" class="block-title">{s.upd.entriesTitle}</h2>
+            <p class="section-lead">{s.upd.entriesLead}</p>
+            <div class="entry-list">
+              {update.items.map((it) => (
+                <EntryCard lang={lang} entry={it.entry} context="feed" batch={it.action} batchLabels={batchLabels} />
+              ))}
+            </div>
+            <p class="list-actions list-actions-start">
+              <a class="link-strong" href={updatesUrl(lang)}>{s.upd.back}</a>
+            </p>
+          </div>
+        </section>
+      )
+    }
+  </article>
+</Base>

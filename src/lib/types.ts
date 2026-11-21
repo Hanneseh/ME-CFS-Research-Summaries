@@ -27,9 +27,13 @@ export interface FeedEntry {
   threadTitle: string;
   group: string;
   url: string;
+  /** Set when the entry was added or upgraded in the newest research update. */
+  batch?: UpdateAction;
   /** Set when this entry is shown in a fallback language. */
   contentLang?: Lang;
 }
+
+export type UpdateAction = "added" | "upgraded";
 
 export interface FeedPayload {
   lang: Lang;
@@ -63,4 +67,6 @@ export interface CardStrings {
   toThread: string;
   sources: string;
   openSource: string;
+  batchAdded: string;
+  batchUpgraded: string;
 }

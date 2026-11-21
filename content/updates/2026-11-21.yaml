@@ -1,0 +1,145 @@
+id: "2026-11-21"
+date: "2026-11-21"
+period_from: "2026-10-28"
+period_to: "2026-11-21"
+added_entries:
+  - thread: emerging-pharmacotherapy
+    entry_id: 2026-11-12_baloncibart-pinnacle-pots
+    action: added
+  - thread: emerging-pharmacotherapy
+    entry_id: 2026-11-12_pp-007-planned-mecfs-trial
+    action: added
+  - thread: emerging-pharmacotherapy
+    entry_id: 2026-11-09_bezisterim-address-lc-biomarker-subgroups
+    action: added
+  - thread: low-dose-naltrexone
+    entry_id: 2026-08-12_lift-trial-protocol
+    action: added
+  - thread: severe-mecfs-care
+    entry_id: 2026-11-06_qualitative-study-documents-healthcare-barriers-in-severe-mecfs
+    action: added
+  - thread: clinical-characterization-epidemiology
+    entry_id: 2026-11-16_bmftr-launches-funding-call-for-pais-and-me-cfs-pathomechanisms
+    action: added
+  - thread: clinical-characterization-epidemiology
+    entry_id: 2026-11-10_me-cfs-research-foundation-audits-german-public-funding-gaps
+    action: added
+  - thread: clinical-characterization-epidemiology
+    entry_id: 2026-11-08_post-activity-symptom-scale-pass-psychometric-evaluation
+    action: added
+  - thread: clinical-characterization-epidemiology
+    entry_id: 2026-11-05_somes-and-meoss-scales-psychometric-evaluation-for-me-cfs
+    action: added
+  - thread: clinical-characterization-epidemiology
+    entry_id: 2026-11-05_national-ehr-cohort-links-heds-and-comorbidities-to-long-covid-risk
+    action: added
+  - thread: clinical-characterization-epidemiology
+    entry_id: 2026-10-30_norwegian-national-registry-study-quantifies-me-cfs-healthcare-costs
+    action: added
+  - thread: clinical-characterization-epidemiology
+    entry_id: 2026-10-19_review-maps-397-outcome-measures-across-105-long-covid-and-me-cfs-trials
+    action: added
+  - thread: diagnostics-biomarkers
+    entry_id: 2026-11-16_supervised-ml-structural-mri-classifier-me-cfs
+    action: added
+  - thread: diagnostics-biomarkers
+    entry_id: 2026-10-22_treg-and-oxidative-stress-biomarker-profiles-in-long-covid
+    action: added
+  - thread: pem-exercise-physiology
+    entry_id: 2026-11-14_submaximal-two-day-cpet-acid-base-balance-in-long-covid
+    action: added
+  - thread: pem-exercise-physiology
+    entry_id: 2026-06-16_development-and-content-validation-of-the-vienna-post
+    action: upgraded
+  - thread: gut-microbiome-dysbiosis
+    entry_id: 2026-11-01_shotgun-metagenomic-microbiome-symptom-analysis-in-pi-mecfs
+    action: added
+  - thread: gut-microbiome-dysbiosis
+    entry_id: 2026-08-18_gut-microbiota-dysbiosis-in-post-covid-fatigue-and-limitation
+    action: added
+en:
+  title: "November 2026 Update: POTS Antibody Trial, LIFT Protocol & German Funding Audit"
+  lead: "This update covers late October through 21 November 2026 with 17 new entries and 1 peer-reviewed journal upgrade across 7 threads. There is still no newly proven treatment or ready-to-use blood test, but concrete clinical trials are taking shape (baloncibart heading to Phase 3 in POTS, the published LIFT protocol for LDN and pyridostigmine in ME/CFS), while Germany gets its first transparent public-funding audit and a new federal pathomechanism call."
+  highlights:
+    - tag: "Worth reading closely"
+      title: "Clinical trials: baloncibart in POTS, LIFT protocol for LDN + pyridostigmine, and early biomarker leads"
+      summary: |
+        In the randomized Phase 2 **PINNACLE** study (82 adults with POTS), a single 450 mg injection of Regeneron's NPR1-blocking antibody **baloncibart** lowered the standing heart-rate spike by 11.4 bpm at Day 8 and 7.4 bpm at Day 29 versus placebo, with Phase 3 planned for the first half of 2027. The caveat: this is a 4-week conference readout in POTS only (no separate ME/CFS or PEM data, and people spending over half their waking hours in bed were excluded). For ME/CFS directly, the published **LIFT** protocol maps out a rigorous four-arm, double-blind trial testing **LDN and pyridostigmine** alone and together (target 160 adults, no results yet). Meanwhile, BioVie's follow-up biomarker analysis for **bezisterim** (after missing overall endpoints in Long COVID) suggests biological subgroups that still need prospective confirmation, and ChronicleBio/Prolong announced an early mid-2027 Phase 2a plan for **PP-007** infusions during PEM—a plan only, without trial results.
+      links:
+        - thread: emerging-pharmacotherapy
+          entry_id: 2026-11-12_baloncibart-pinnacle-pots
+        - thread: low-dose-naltrexone
+          entry_id: 2026-08-12_lift-trial-protocol
+        - thread: emerging-pharmacotherapy
+          entry_id: 2026-11-09_bezisterim-address-lc-biomarker-subgroups
+        - thread: emerging-pharmacotherapy
+          entry_id: 2026-11-12_pp-007-planned-mecfs-trial
+    - tag: "Care & research momentum"
+      title: "Severe ME/CFS barriers documented, and Germany audits its research funding gap"
+      summary: |
+        An Austrian qualitative preprint documents in stark detail how transport barriers, sensory overload, and unadapted clinics or emergency rooms restrict access for people with severe and very severe ME/CFS—and can trigger lasting worsening—leaving family caregivers carrying complex care duties. In parallel, the ME/CFS Research Foundation published the first comprehensive audit of 259 publicly funded German projects (€292M for 2020–2029), revealing that 84% cover Long COVID versus 39% ME/CFS and only 5% test drug treatments. Days later, the federal **BMFTR** launched a new pathomechanism funding call (outlines due January 2027) that explicitly encourages including housebound, severely affected patients with outreach costs covered.
+      links:
+        - thread: severe-mecfs-care
+          entry_id: 2026-11-06_qualitative-study-documents-healthcare-barriers-in-severe-mecfs
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-11-10_me-cfs-research-foundation-audits-german-public-funding-gaps
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-11-16_bmftr-launches-funding-call-for-pais-and-me-cfs-pathomechanisms
+    - tag: "Trial quality & epidemiology"
+      title: "Better ways to measure PEM, plus national cost and hEDS risk data"
+      summary: |
+        A review of 105 Long COVID and ME/CFS biomedical trials counted 397 outcome measures in total and flagged major gaps in PEM, dysautonomia, and side-effect tracking. New patient co-produced instruments are pushing back against that fragmentation: the **Vienna PEM Questionnaire** completed peer review in *Quality of Life Research*, joined by two medRxiv preprints (**PASS** for PEM and **SoMES/MEOSS** for severity and work status). On the epidemiology side, a nationwide Norwegian registry study reports nearly three times higher direct healthcare costs in diagnosed ME/CFS (driven heavily by hospital care), and a >19-million-person US EHR cohort links hypermobile Ehlers-Danlos syndrome (hEDS) to nearly triple the odds of a Long COVID diagnosis.
+      links:
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-10-19_review-maps-397-outcome-measures-across-105-long-covid-and-me-cfs-trials
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-11-08_post-activity-symptom-scale-pass-psychometric-evaluation
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-10-30_norwegian-national-registry-study-quantifies-me-cfs-healthcare-costs
+        - thread: pem-exercise-physiology
+          entry_id: 2026-06-16_development-and-content-validation-of-the-vienna-post
+  what_to_skip_or_caveats: |
+    Several exploratory laboratory and imaging additions—including a structural brain-MRI machine-learning classifier (AUC 0.86 in internal cross-validation only), an exploratory T-cell/oxidative-stress biomarker panel, two small gut-microbiome studies (15–30 patients), and a two-day submaximal exercise acid-base study with a null overall group result—add useful mechanistic context but are **not** clinical tests and do not change day-to-day care. If you have limited energy, you can safely skim the top two highlights above and skip the exploratory lab entries for now.
+de:
+  title: "Update November 2026: POTS-Antikörperstudie, LIFT-Protokoll & Förderbericht"
+  lead: "Dieses Update bündelt den Zeitraum von Ende Oktober bis 21. November 2026 mit 17 neuen Einträgen und einer Journal-Aktualisierung in 7 Forschungssträngen. Es gibt weiterhin keine neu belegte Therapie und keinen fertigen Bluttest – aber konkrete klinische Studien nehmen Gestalt an (Baloncibart geht bei POTS Richtung Phase 3, das LIFT-Protokoll prüft LDN und Pyridostigmin bei ME/CFS), und in Deutschland zeigen Förderbericht und neue BMFTR-Ausschreibung klarer, wo Lücken liegen und Geld ansetzt."
+  highlights:
+    - tag: "Lohnt sich genauer anzuschauen"
+      title: "Klinische Studien: Baloncibart bei POTS, LIFT-Protokoll zu LDN + Pyridostigmin und frühe Biomarker-Spuren"
+      summary: |
+        In der randomisierten Phase-2-Studie **PINNACLE** (82 Erwachsene mit POTS) dämpfte eine einmalige 450-mg-Spritze von Regenerons NPR1-blockierendem Antikörper **Baloncibart** den Pulsanstieg beim Aufstehen gegenüber Placebo um 11,4 Schläge/Min. an Tag 8 und 7,4 an Tag 29; Phase 3 ist für das erste Halbjahr 2027 geplant. Wichtige Grenze: Es handelt sich um einen vierwöchigen Kongressbericht ausschließlich zu POTS – ohne separate ME/CFS- oder PEM-Daten, und Menschen, die über die Hälfte ihrer Wachzeit im Bett verbringen, waren ausgeschlossen. Direkt für ME/CFS beschreibt das veröffentlichte **LIFT**-Protokoll eine vierarmige, doppelblinde Studie zu **LDN und Pyridostigmin** allein und kombiniert (Ziel: 160 Erwachsene, Ergebnisse stehen aus). Daneben zeigt BioVies nachträgliche Biomarker-Auswertung zu **Bezisterim** (nach verfehlten Gesamtendpunkten bei Long COVID) mögliche biologische Untergruppen, die erst prospektiv bestätigt werden müssen, und ChronicleBio/Prolong kündigten für Mitte 2027 eine frühe Phase-2a-Studie zu **PP-007**-Infusionen bei PEM an – bislang nur ein Plan ohne Studiendaten.
+      links:
+        - thread: emerging-pharmacotherapy
+          entry_id: 2026-11-12_baloncibart-pinnacle-pots
+        - thread: low-dose-naltrexone
+          entry_id: 2026-08-12_lift-trial-protocol
+        - thread: emerging-pharmacotherapy
+          entry_id: 2026-11-09_bezisterim-address-lc-biomarker-subgroups
+        - thread: emerging-pharmacotherapy
+          entry_id: 2026-11-12_pp-007-planned-mecfs-trial
+    - tag: "Versorgung & Forschungsimpuls"
+      title: "Versorgungsbarrieren bei schwerstem ME/CFS und erste deutsche Förderbilanz"
+      summary: |
+        Ein qualitativer Preprint aus Österreich dokumentiert eindrücklich, wie fehlende Transportfähigkeit, Reizüberflutung und unangepasste Praxen oder Notaufnahmen schwerstbetroffenen Menschen den Zugang zur Medizin versperren – und selbst Verschlechterungen auslösen können, sodass Angehörige komplexe Pflege- und Koordinationsaufgaben tragen. Parallel dazu veröffentlichte die ME/CFS Research Foundation die erste umfassende Bilanz von 259 öffentlich geförderten Projekten in Deutschland (292 Mio. € für 2020–2029): 84 % betreffen Long COVID, nur 39 % ME/CFS und lediglich 5 % prüfen medikamentöse Therapien. Kurz darauf startete das **BMFTR** eine neue Pathomechanismus-Fördermaßnahme (Skizzenfrist Januar 2027), die ausdrücklich zur Einbeziehung hausgebundener Schwerstbetroffener inklusive aufsuchender Kosten ermutigt.
+      links:
+        - thread: severe-mecfs-care
+          entry_id: 2026-11-06_qualitative-study-documents-healthcare-barriers-in-severe-mecfs
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-11-10_me-cfs-research-foundation-audits-german-public-funding-gaps
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-11-16_bmftr-launches-funding-call-for-pais-and-me-cfs-pathomechanisms
+    - tag: "Studienqualität & Epidemiologie"
+      title: "Bessere PEM-Messung sowie Registerdaten zu Kosten und hEDS-Risiko"
+      summary: |
+        Eine Übersicht über 105 biomedizinische Studien zu Long COVID und ME/CFS zählte insgesamt 397 Endpunkte und benannte große Lücken bei der Erfassung von PEM, Dysautonomie und Nebenwirkungen. Neue, mit Betroffenen entwickelte Skalen steuern dagegen: Der **Wiener PEM-Fragebogen** erschien nun begutachtet in *Quality of Life Research*, ergänzt durch zwei medRxiv-Preprints (**PASS** für PEM sowie **SoMES/MEOSS** für Schweregrad und Erwerbsstatus). Auf Versorgungsebene berichtet eine landesweite norwegische Registerstudie fast dreimal so hohe direkte Gesundheitskosten bei diagnostiziertem ME/CFS (stark getrieben durch Klinikaufenthalte), und eine US-Aktenkohorte (>19 Mio. Menschen) verknüpft das hypermobile Ehlers-Danlos-Syndrom (hEDS) mit fast dreifach erhöhten Chancen auf eine Long-COVID-Diagnose.
+      links:
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-10-19_review-maps-397-outcome-measures-across-105-long-covid-and-me-cfs-trials
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-11-08_post-activity-symptom-scale-pass-psychometric-evaluation
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-10-30_norwegian-national-registry-study-quantifies-me-cfs-healthcare-costs
+        - thread: pem-exercise-physiology
+          entry_id: 2026-06-16_development-and-content-validation-of-the-vienna-post
+  what_to_skip_or_caveats: |
+    Mehrere frühe Labor- und Bildgebungsstudien in diesem Update – ein Hirn-MRT-Algorithmus (AUC 0,86 nur intern validiert, ohne andere Krankheitskontrollen), eine explorative T-Zell-/Oxidationsstress-Studie, zwei kleine Darmmikrobiom-Analysen (15–30 Betroffene) sowie ein zweitägiger submaximaler Belastungstest ohne Gesamtgruppenunterschied – liefern interessante mechanistische Puzzleteile, sind aber **noch keine** Diagnosetests und ändern am Alltag nichts. Wer wenig Energie hat, kann sich entspannt auf die ersten beiden Schwerpunkte oben beschränken und die frühen Laborstudien überspringen.
