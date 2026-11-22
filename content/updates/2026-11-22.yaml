@@ -1,0 +1,61 @@
+id: "2026-11-22"
+date: "2026-11-22"
+period_from: "2026-11-22"
+period_to: "2026-11-22"
+added_entries:
+  - thread: emerging-pharmacotherapy
+    entry_id: 2026-10-06_stanford-retrospective-low-dose-aripiprazole-long-covid
+    action: added
+  - thread: pem-exercise-physiology
+    entry_id: 2026-11-16_hertfordshire-community-physical-activity-feasibility-long-covid
+    action: added
+  - thread: clinical-characterization-epidemiology
+    entry_id: 2026-11-17_madrid-primary-care-pilot-prevalence-me-cfs-mcs
+    action: added
+  - thread: clinical-characterization-epidemiology
+    entry_id: 2026-10-07_me-cfs-like-fatigue-preceding-functional-neurological-disorder
+    action: added
+en:
+  title: "Stanford Low-Dose Aripiprazole Cohort, Exercise Caveats & Madrid Pilot"
+  lead: "A compact observational batch with no newly proven therapies: Stanford's retrospective Long COVID chart review of low-dose aripiprazole shows an improved functional status score—including among bedbound patients—but no statistically significant improvement in fatigue, brain fog, or PEM, alongside three observational studies highlighting exercise attrition, FND–PEM overlap, and primary-care screening prevalence."
+  highlights:
+    - tag: "Worth reading closely"
+      title: "Low-dose aripiprazole in Long COVID: functional score shift without significant symptom reductions"
+      summary: |
+        A retrospective Stanford Long COVID Clinic review of 50 analyzed adults (of 76 prescribed oral **low-dose aripiprazole**, 0.1–2.0 mg/day, median 1 mg; pre-COVID ME/CFS excluded) reported an improved mean Functional Status Scale score (3.78 to 3.28, p=0.001), with bedridden Level V cases dropping from 8 (16%) to 3 (6%). However, none of the seven tracked symptoms—including fatigue, brain fog, and post-exertional malaise—nor the composite score improved significantly, weight gain was recorded in 25 patients, and more than half took low-dose naltrexone at the same time. Without a randomized placebo-controlled trial, this observational signal cannot establish efficacy.
+      links:
+        - thread: emerging-pharmacotherapy
+          entry_id: 2026-10-06_stanford-retrospective-low-dose-aripiprazole-long-covid
+    - tag: "Exercise & clinical safety"
+      title: "High attrition in a Long COVID activity program and PEM warning in FND care"
+      summary: |
+        In a 12-month Hertfordshire observational study of 62 adults with Long COVID, a tailored community physical activity program was associated with better self-rated health, fatigue, and brain fog among retained participants—but **48% dropped out** by the final follow-up, and the study lacked a control group or PEM-stratified safety reporting, so it does not justify exercise prescriptions in ME/CFS. Separately, a retrospective chart review of 76 adults at an integrated UK ME/CFS–FND clinic found fatigue in 81.5%, with ME/CFS-like fatigue including post-exertional worsening preceding FND in 51%, prompting the authors to caution against routine incremental exercise rehabilitation in fatigue-predominant FND.
+      links:
+        - thread: pem-exercise-physiology
+          entry_id: 2026-11-16_hertfordshire-community-physical-activity-feasibility-long-covid
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-10-07_me-cfs-like-fatigue-preceding-functional-neurological-disorder
+  what_to_skip_or_caveats: |
+    All four additions in this batch are uncontrolled observational studies or pilot surveys, and none alters clinical standard of care. The Madrid primary-care pilot (n=280 completing questionnaires, 52.8% response rate) estimated 2.26% ME/CFS and 2.64% multiple chemical sensitivity screening prevalence, but without medical confirmation or full-sample completion those numbers remain provisional. If you are short on energy, focus only on the Stanford low-dose aripiprazole entry above.
+de:
+  title: "Stanford-Kohorte zu niedrigdosiertem Aripiprazol, Trainingsgrenzen & Madrid-Pilot"
+  lead: "Ein kompaktes Beobachtungs-Update ohne neu belegte Therapien: Eine retrospektive Stanford-Auswertung zu niedrigdosiertem Aripiprazol bei Long COVID zeigt zwar einen besseren Funktionsscore – auch bei Bettlägerigen –, aber keine signifikante Besserung von Fatigue, Brain Fog oder PEM; drei weitere Beobachtungsstudien beleuchten Abbruchraten bei Bewegungsprogrammen, FND-PEM-Überschneidungen und die Screening-Prävalenz in der Primärversorgung."
+  highlights:
+    - tag: "Lohnt sich genauer anzuschauen"
+      title: "Niedrigdosiertes Aripiprazol bei Long COVID: besserer Funktionsscore, aber keine signifikanten Symptomrückgänge"
+      summary: |
+        Eine retrospektive Auswertung der Stanford Long COVID Clinic von 50 ausgewerteten Erwachsenen (aus 76 Verordneten mit oralem **niedrigdosiertem Aripiprazol**, 0,1–2,0 mg/Tag, Median 1 mg; vorbestehendes ME/CFS ausgeschlossen) berichtet eine Verbesserung der Functional Status Scale von 3,78 auf 3,28 (p=0,001), wobei bettlägerige Stufe-V-Fälle von 8 (16 %) auf 3 (6 %) zurückgingen. Keines der sieben erfassten Kernsymptome – darunter Fatigue, Brain Fog und Post-Exertional Malaise – sowie der Summenscore verbesserten sich jedoch signifikant; bei 25 Personen wurde eine Gewichtszunahme dokumentiert, und mehr als die Hälfte nahm gleichzeitig niedrigdosiertes Naltrexon ein. Ohne randomisierte placebokontrollierte Studie belegt dieses Beobachtungssignal keine Wirksamkeit.
+      links:
+        - thread: emerging-pharmacotherapy
+          entry_id: 2026-10-06_stanford-retrospective-low-dose-aripiprazole-long-covid
+    - tag: "Belastung & Versorgungssicherheit"
+      title: "Hohe Abbruchrate in Long-COVID-Bewegungsprogramm und PEM-Warnhinweis bei FND"
+      summary: |
+        In einer zwölfmonatigen Beobachtungsstudie aus Hertfordshire mit 62 Erwachsenen mit Long COVID gingen bei den verbliebenen Teilnehmenden eines angepassten Bewegungsprogramms bessere Werte für Gesundheit, Fatigue und Brain Fog einher – allerdings schieden **48 %** bis zur letzten Erhebung aus, und es fehlten Kontrollgruppe sowie eine PEM-stratifizierte Sicherheitsauswertung, sodass die Studie keine Trainingsempfehlung bei ME/CFS rechtfertigt. Unabhängig davon fand eine britische Aktenauswertung von 76 Erwachsenen einer kombinierten ME/CFS-FND-Ambulanz bei 81,5 % Fatigue; bei 51 % ging eine ME/CFS-ähnliche Fatigue mit Belastungsverschlechterung der FND voraus, weshalb die Autorinnen und Autoren vor pauschaler aufbauender Bewegungsrehabilitation in dieser Gruppe warnen.
+      links:
+        - thread: pem-exercise-physiology
+          entry_id: 2026-11-16_hertfordshire-community-physical-activity-feasibility-long-covid
+        - thread: clinical-characterization-epidemiology
+          entry_id: 2026-10-07_me-cfs-like-fatigue-preceding-functional-neurological-disorder
+  what_to_skip_or_caveats: |
+    Alle vier Neuzugänge dieses Updates sind unkontrollierte Beobachtungsstudien oder Piloterhebungen und ändern nichts am klinischen Behandlungsstandard. Die Madrider Primärversorgungs-Pilotstudie (280 abgeschlossene Fragebögen, 52,8 % Rücklauf) schätzte eine Screening-Prävalenz von 2,26 % für ME/CFS und 2,64 % für Multiple Chemikalien-Sensitivität, bleibt aber ohne ärztliche Bestätigung und vollständige Stichprobe vorläufig. Wer wenig Energie hat, kann sich auf den Stanford-Eintrag zu niedrigdosiertem Aripiprazol beschränken.
